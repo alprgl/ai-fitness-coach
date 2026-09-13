@@ -1,0 +1,6164 @@
+# Tools for Hormone Optimization in Males | Dr. Kyle Gillett
+# id=O640yAgq5f8 published=2022-12-12 lang=en generated=False
+
+[0:00:00] ANDREW HUBERMAN: Welcome
+to the Huberman Lab podcast
+[0:00:02] where we discuss science
+and science-based tools
+[0:00:04] for everyday life.
+[0:00:05] [MUSIC PLAYING]
+[0:00:09] I'm Andrew Huberman,
+and I'm a professor
+[0:00:10] of neurobiology
+and ophthalmology
+[0:00:13] at Stanford School of Medicine.
+[0:00:14] Today, my guest is
+Dr. Kyle Gillett.
+[0:00:17] Dr. Kyle Gillett is a dual
+board certified physician
+[0:00:20] in family medicine and
+obesity medicine and an expert
+[0:00:23] in hormone optimization.
+[0:00:25] He is an M.D--
+[0:00:26] that is, a medical doctor--
+[0:00:28] and he treats patients
+with a variety
+[0:00:30] of backgrounds, ages and goals.
+[0:00:32] Today, we discuss male
+hormone optimization.
+[0:00:35] We discuss behavioral tools,
+nutrition-based tools,
+[0:00:39] supplement-based tools,
+prescription-drug-based tools,
+[0:00:42] and their interactions in
+determining overall levels
+[0:00:46] of testosterone,
+free testosterone,
+[0:00:48] dihydrotestosterone, estrogen,
+growth hormone, thyroid
+[0:00:52] hormone, and many other
+hormones that impact mood,
+[0:00:55] libido, well-being,
+strength, cognition,
+[0:00:58] and various
+psychological factors.
+[0:01:01] We've covered
+hormone optimization
+[0:01:02] in both men and women
+in previous episodes
+[0:01:05] of the Huberman Lab podcast,
+but today's discussion
+[0:01:07] is different.
+[0:01:09] Dr. Kyle Gillett offers very
+specific recommendations
+[0:01:12] for people with different
+goals and of different ages.
+[0:01:15] And we get deep
+into the weeds of,
+[0:01:18] for instance, how does
+one know whether or not
+[0:01:20] their testosterone is optimized
+or not, how often to test
+[0:01:24] for specific hormones
+such as testosterone
+[0:01:26] and other hormones, and
+really, how to gauge
+[0:01:29] how good one should feel?
+[0:01:31] This is something that's often
+overlooked in discussions
+[0:01:34] about hormone optimization
+or health optimization
+[0:01:36] of any kind, for that matter.
+[0:01:38] For instance, people will
+talk about reduced libido
+[0:01:41] and discuss whether or not
+testosterone levels are
+[0:01:44] to blame, but how does
+one calibrate their libido
+[0:01:47] in the first place?
+[0:01:47] That is, how does one know
+whether or not their libido is
+[0:01:50] normal, too low, or too high?
+[0:01:53] We also discuss, for
+instance, whether or not
+[0:01:55] hormone optimization should
+be pursued continually
+[0:01:58] throughout the
+year-- for instance,
+[0:01:59] whether or not you should
+cycle on and off supplements
+[0:02:02] and/or prescription drugs geared
+towards hormone optimization.
+[0:02:05] And we discuss the
+behavioral foundations
+[0:02:08] of optimal hormone function.
+[0:02:10] These are things that
+every male should be doing
+[0:02:12] and various things
+they should actively
+[0:02:14] avoid if their goal is to
+have healthy hormones and to,
+[0:02:17] quote, unquote, optimize
+their levels of every hormone
+[0:02:21] from growth hormone
+to testosterone
+[0:02:23] at any stage of life.
+[0:02:24] And while today's discussion
+is about male hormone
+[0:02:26] optimization, I
+want to emphasize
+[0:02:28] that we discuss all the
+various ages for male hormone
+[0:02:31] optimization.
+[0:02:32] So for those of you that are
+parents, for those of you that
+[0:02:35] are young, those of you that
+are middle aged, or old,
+[0:02:38] or teenagers, we explore
+adolescent, puberty,
+[0:02:43] teen and late teens, early
+adulthood, adulthood,
+[0:02:46] and into the late
+geriatric ages.
+[0:02:48] So regardless of
+your age and whether
+[0:02:50] or not you are male or
+female, today's episode
+[0:02:52] ought to be of interest to you.
+[0:02:54] I should also point out
+that we will soon also
+[0:02:56] be hosting an expert guest on
+female hormone optimization.
+[0:03:00] One thing that I'm
+certain people of all ages
+[0:03:02] and biological sex will enjoy
+about today's conversation
+[0:03:06] is that we also get
+into descriptions
+[0:03:07] of how psychology and life
+events impact hormones
+[0:03:11] and how hormones impact
+our psychology and the way
+[0:03:14] that we show up to
+various life events.
+[0:03:16] So today is really
+a broad overview
+[0:03:18] that goes all the way down to
+fine details about male hormone
+[0:03:22] optimization.
+[0:03:22] And I'm certain that by
+the end of today's episode,
+[0:03:25] you will have an immense amount
+of new information about how
+[0:03:28] this endocrine-- that is,
+hormone system in your body
+[0:03:30] works--
+[0:03:31] and how it interacts with
+your brain and other tissues
+[0:03:35] and many, many actionable tools
+that you can pursue regardless
+[0:03:39] of stage of life.
+[0:03:40] Before we begin, I'd
+like to emphasize
+[0:03:41] that this podcast is separate
+from my teaching and research
+[0:03:44] roles at Stanford.
+[0:03:45] It is, however, part
+of my desire and effort
+[0:03:47] to bring zero cost to
+consumer information
+[0:03:49] about science and
+science-related tools
+[0:03:51] to the general public.
+[0:03:52] In keeping with
+that theme, I'd like
+[0:03:53] to thank the sponsors
+of today's podcast.
+[0:03:56] Our first sponsor is Thesis.
+[0:03:58] Thesis makes custom nootropics.
+[0:04:00] And as I've said many times
+before on this podcast,
+[0:04:03] I am not a fan of
+the word nootropics,
+[0:04:05] because it means smart
+drugs, and frankly, there
+[0:04:08] are no specific neural circuits
+in the brain or body for being,
+[0:04:12] quote, unquote, smart.
+[0:04:13] Thesis understands
+this, and they've
+[0:04:15] developed custom nootropics
+that are designed
+[0:04:17] to bring your brain and
+body into the state that's
+[0:04:19] ideal for what you
+need to accomplish.
+[0:04:22] They use the highest
+quality ingredients-- things
+[0:04:24] like phosphatidylserine,
+alpha GPC, many ingredients
+[0:04:27] that I've talked about
+before on this podcast
+[0:04:29] and that I happen to use myself.
+[0:04:31] I've been using Thesis
+for over a year now,
+[0:04:32] and I can confidently say
+that their nootropics have
+[0:04:35] been a game changer.
+[0:04:36] For me, I like their
+nootropic for clarity.
+[0:04:39] I used that before
+cognitive work often.
+[0:04:41] And I like their
+nootropic for energy,
+[0:04:43] and I often used
+that before workouts,
+[0:04:45] and in particular, workouts
+that are especially intense.
+[0:04:48] To get your own personalized
+nootropic starter kit,
+[0:04:50] go online to
+takethesis.com/huberman,
+[0:04:53] take their 3-minute quiz,
+and Thesis will send you four
+[0:04:55] different formulas to
+try in your first month.
+[0:04:57] Again, that's
+takethesis.com/huberman,
+[0:05:00] and use the code Huberman
+at checkout to get 10% off
+[0:05:03] your first box.
+[0:05:04] Today's episode is also
+brought to us by ROKA.
+[0:05:06] ROKA makes eyeglasses
+and sunglasses
+[0:05:08] that are of the absolute
+highest quality.
+[0:05:10] The company was founded
+by 2 All-American swimmers
+[0:05:13] from Stanford, and everything
+about ROKA eyeglasses
+[0:05:15] and sunglasses were designed
+with performance in mind.
+[0:05:18] I've spent a lifetime
+working on the biology
+[0:05:20] of the visual system,
+and I can tell you
+[0:05:21] that your visual
+system has to contend
+[0:05:23] with an enormous number
+of challenges in order
+[0:05:25] for you to see clearly,
+for instance, when you move
+[0:05:27] from a sunny area
+to a shady area
+[0:05:29] and back again, whether or not
+you're looking at something up
+[0:05:31] close or off into the distance.
+[0:05:32] ROKA understands the biology
+of the visual system,
+[0:05:35] and has designed their
+eyeglasses and sunglasses
+[0:05:37] accordingly so that you always
+see with perfect clarity.
+[0:05:40] ROKA eyeglasses and
+sunglasses were initially
+[0:05:42] designed for activities
+such as running and cycling,
+[0:05:45] and indeed, they are
+very lightweight.
+[0:05:47] Most of the time, I
+can't even remember
+[0:05:48] that they're on my face
+they're so lightweight.
+[0:05:50] But the important thing to
+know about ROKA eyeglasses
+[0:05:52] and sunglasses is
+that while they
+[0:05:54] can be used during
+sports activities,
+[0:05:56] they also have a
+terrific aesthetic
+[0:05:59] and they can be
+used just as well
+[0:06:00] for wearing to work, or
+out to dinner, et cetera.
+[0:06:03] If you'd like to try ROKA
+eyeglasses and sunglasses,
+[0:06:06] you can go to roka--
+that's R-O-K-A--
+[0:06:08] .com and enter the code Huberman
+to save 20% off on your first
+[0:06:12] order.
+[0:06:12] Again, that's roka-- R-O-K-A--
+.com and enter the code
+[0:06:15] Huberman at checkout.
+[0:06:17] Today's episode is also
+brought to us by Helix Sleep.
+[0:06:19] Helix makes
+mattresses and pillows
+[0:06:21] that are of the absolute
+highest quality.
+[0:06:23] I started sleeping on a Helix
+mattress well over a year ago,
+[0:06:26] and it's been the best
+sleep that I've ever had.
+[0:06:28] One of the things that makes
+Helix mattresses so unique
+[0:06:31] is that they match the
+design of the mattress
+[0:06:33] to your unique sleep needs.
+[0:06:34] So for instance, if you
+go on to their website.
+[0:06:36] You can take a brief quiz.
+[0:06:37] It only takes about
+two or three minutes,
+[0:06:39] and you'll answer
+questions like do
+[0:06:40] you tend to run hot or
+cold throughout the night,
+[0:06:42] or whether or not you sleep
+on your back, your side,
+[0:06:45] or your stomach, or
+maybe you don't know.
+[0:06:46] Regardless, they will match
+you to the custom mattress
+[0:06:49] that ideal for your sleep needs.
+[0:06:51] For me, that was the dusk--
+[0:06:52] D-U-S-K-- mattress which,
+for me, was not too firm,
+[0:06:55] not too soft, and was ideal
+for my sleep patterns.
+[0:06:58] You take the quiz
+and you'll find out
+[0:06:59] what mattress is ideal
+for your sleep patterns.
+[0:07:02] So if you're interested in
+upgrading your mattress,
+[0:07:04] go to helixsleep.com/huberman,
+take their brief sleep quiz,
+[0:07:07] and they'll match you to
+a customized mattress,
+[0:07:09] and you'll get up to $200 off
+any mattress order and two free
+[0:07:12] pillows.
+[0:07:13] They have a 10 year
+warranty, and you
+[0:07:14] get to try out the mattress
+for 100 nights risk-free.
+[0:07:17] Again, if you're
+interested, you can go
+[0:07:18] to helixsleep.com/huberman for
+up to $200 off and two free
+[0:07:22] pillows.
+[0:07:23] The Huberman Lab
+podcast is now partnered
+[0:07:25] with Momentous Supplements.
+[0:07:26] To find the supplements we
+discuss on the Huberman Lab
+[0:07:28] podcast, you can go to
+livemomentous-- spelled O-U-S--
+[0:07:31] livemomentous.com/huberman.
+[0:07:33] And I should just
+mention that the library
+[0:07:35] of those supplements is
+constantly expanding.
+[0:07:37] Again, that's
+livemomentous.com/huberman.
+[0:07:40] And now, for my discussion
+with Dr. Kyle Gillett.
+[0:07:44] Dr. Gillett, great
+to have you back.
+[0:07:45] KYLE GILLETT: Great to be back.
+[0:07:47] Thank you.
+[0:07:48] ANDREW HUBERMAN: I'd like to
+begin with a question about one
+[0:07:50] of the most mysterious and
+important phases of life, which
+[0:07:55] is puberty.
+[0:07:57] I've long wondered whether or
+not how quickly somebody goes
+[0:08:02] into puberty-- so at what age--
+[0:08:04] and how long puberty
+takes-- so how
+[0:08:06] brief or protracted
+that puberty is
+[0:08:08] for them to acquire the
+so-called secondary sexual
+[0:08:11] characteristics,
+things like hair growth
+[0:08:13] on the face for males and
+changes in bone, and muscle
+[0:08:17] density, and growth, et cetera.
+[0:08:19] When I was in middle
+school and high school,
+[0:08:21] I noticed that some people
+transitioned into all that
+[0:08:23] very fast and some people
+took a long time to acquire
+[0:08:27] those characteristics.
+[0:08:29] Can we learn anything about
+ourselves, our hormones,
+[0:08:34] and maybe even how
+long we're going
+[0:08:35] to live based on the time
+in which we enter puberty
+[0:08:39] and how long it takes us to
+progress through puberty?
+[0:08:42] And I guess that also
+raises the question,
+[0:08:43] does puberty ever truly end?
+[0:08:46] KYLE GILLETT: There are
+many takeaways from puberty.
+[0:08:49] Some of the actionable items
+from it are, yes, it can
+[0:08:54] and does affect your adult
+height and also stature
+[0:08:58] and also body composition.
+[0:09:00] So puberty is a time--
+[0:09:02] and if we're talking
+specifically about males,
+[0:09:07] think of it as a time where,
+if you have obesity as a child,
+[0:09:13] you could potentially
+use that time
+[0:09:15] to change your lifestyle
+and habits and reset things,
+[0:09:18] and it is a bit easier.
+[0:09:20] It's almost like
+a free injection
+[0:09:23] of testosterone and metabolism
+and drive and effort
+[0:09:26] into your life.
+[0:09:27] There is a wide variation in how
+quickly puberty goes through.
+[0:09:33] So there are stages called
+Tanner stages, which we don't
+[0:09:36] necessarily need to get into.
+[0:09:37] But if you enter
+puberty very early,
+[0:09:40] then it can decrease your
+adult height or stature.
+[0:09:45] ANDREW HUBERMAN: So for a
+given male that enters puberty
+[0:09:48] at 13 versus a male that
+enters puberty at 15,
+[0:09:52] can we say that the guy
+that entered puberty at 13
+[0:09:55] is going to be shorter than the
+guy that entered puberty at 15,
+[0:09:59] or it's not quite
+that straightforward?
+[0:10:01] KYLE GILLETT: If they
+are identical twins
+[0:10:03] and the individual
+who entered puberty
+[0:10:05] at age 13 also finished
+puberty, went all the way
+[0:10:09] through the Tanner stages--
+[0:10:10] and if you do a bone
+scan, which I believe
+[0:10:11] is usually done
+on the left wrist,
+[0:10:13] and it says yes, your growth
+plates are mostly closed,
+[0:10:16] you're not going to grow more
+than a couple inches of height
+[0:10:19] after that.
+[0:10:21] ANDREW HUBERMAN: Just
+a related question.
+[0:10:23] When I was growing
+up, it was thought,
+[0:10:26] or at least people would say,
+that resistance training--
+[0:10:29] in particular,
+lifting heavy weights
+[0:10:31] could stunt one's growth.
+[0:10:33] Is that true or false?
+[0:10:36] KYLE GILLETT: It is
+false when you're
+[0:10:38] talking about just
+lifting heavy weights.
+[0:10:40] Dirty bulking certainly
+has the potential to stunt
+[0:10:43] one's growth for
+two main mechanisms.
+[0:10:45] ANDREW HUBERMAN: Could
+you define dirty bulking?
+[0:10:47] KYLE GILLETT: [CHUCKLES]
+So dirty bulking
+[0:10:49] is eating an excess of
+calories not just to acquire
+[0:10:54] lean metabolically active
+body mass or get stronger,
+[0:10:57] but purposely
+acquiring body fat.
+[0:11:02] ANDREW HUBERMAN: So
+purposely acquiring muscle
+[0:11:04] and fat by overeating
+and lifting weights
+[0:11:09] can stunt one's growth.
+[0:11:10] Do I have that correct?
+[0:11:11] KYLE GILLETT: Correct.
+[0:11:12] So it does two things.
+[0:11:14] If you're doing it as a
+very young child, it can--
+[0:11:17] that fat can become
+leptin resistant
+[0:11:20] and it can produce more
+leptin, and that leptin
+[0:11:23] can activate the
+hypothalamus, which
+[0:11:26] activates the pituitary, which
+releases gonadotropin, which
+[0:11:29] basically just
+increase testosterone
+[0:11:31] and estrogen earlier than
+it otherwise would have.
+[0:11:33] It's the same mechanism behind
+why childhood obesity causes
+[0:11:37] early puberty.
+[0:11:38] ANDREW HUBERMAN: Interesting.
+[0:11:39] I do remember a paper
+published in Science Magazine--
+[0:11:42] I believe it was focused
+mainly on females,
+[0:11:44] but showing that when
+enough body fat accumulates,
+[0:11:48] the hormone leptin
+is secreted, and that
+[0:11:49] triggers the onset of puberty.
+[0:11:50] KYLE GILLETT: Correct.
+[0:11:51] ANDREW HUBERMAN: Given the
+increase in childhood obesity
+[0:11:55] that we're observing
+now, are we seeing
+[0:11:58] an earlier onset of puberty
+in males and females?
+[0:12:01] KYLE GILLETT: Yes, in
+both males and females.
+[0:12:03] Not to get too
+technical, but there's
+[0:12:05] a G protein-coupled
+receptor on the hypothalamus
+[0:12:08] and leptin directly
+binds it, so it
+[0:12:10] does appear directly
+cause causatory and not
+[0:12:13] just correlation.
+[0:12:14] ANDREW HUBERMAN: And if
+I understand correctly,
+[0:12:16] what you're saying is
+for a young guy-- let's
+[0:12:19] say, 13, 14-- who
+wants to really bulk up
+[0:12:22] and deliberately-- deliberately,
+excuse me-- overeats, and is
+[0:12:25] doing their squats, and
+deadlifts, and bench presses
+[0:12:28] and really trying to get big,
+they will get big, but only
+[0:12:32] in the lateral dimension.
+[0:12:34] They're effectively
+limiting their total height
+[0:12:37] and it can shut down the long
+bone growth of their limbs.
+[0:12:41] Is that correct?
+[0:12:42] KYLE GILLETT: Correct.
+[0:12:43] The growth of the long
+bones is mostly related
+[0:12:45] to the estradiol alpha
+receptor, so basically,
+[0:12:48] one of the receptors
+for estrogen,
+[0:12:50] which can be secondary
+to early puberty and also
+[0:12:54] is related to body fat because
+you have that conversion
+[0:12:57] of testosterone to estrogen.
+[0:13:00] ANDREW HUBERMAN: So can we
+assume that if a young male
+[0:13:04] wants to get into resistance
+training that bodyweight
+[0:13:08] exercises are probably OK
+and maybe even some weight
+[0:13:11] training, kettlebells,
+et cetera,
+[0:13:13] but that they should avoid
+doing so-called dirty bulking--
+[0:13:16] trying to deliberately
+gain weight--
+[0:13:19] up until what age?
+[0:13:20] Until puberty is over?
+[0:13:23] KYLE GILLETT: I would say
+an individual should limit
+[0:13:25] the amount of abnormal
+body fat accumulation,
+[0:13:29] or dirty bulking, indefinitely
+throughout their entire life.
+[0:13:32] ANDREW HUBERMAN: So again,
+if I understand correctly,
+[0:13:34] that recommendation to
+avoid deliberate weight gain
+[0:13:38] or rapid weight gain is not
+just to allow an individual
+[0:13:43] to reach their maximum height,
+but also to avoid laying down
+[0:13:47] a lot of body fat cells.
+[0:13:48] Correct?
+[0:13:49] KYLE GILLETT: Correct.
+[0:13:50] The balance between
+that is, when
+[0:13:52] you are going
+through puberty, you
+[0:13:54] are able to add a lot
+of lean body mass--
+[0:13:56] not just muscle mass, but bone
+mass and other mass as well.
+[0:14:00] ANDREW HUBERMAN: I started
+lifting weights when I was 16,
+[0:14:02] and I confess I trained
+pretty heavy at times.
+[0:14:06] I don't know whether
+or not I would
+[0:14:08] have been taller than
+I am now, but when
+[0:14:11] I started that
+training, I had already
+[0:14:13] reached what was at least
+close to my predicted height.
+[0:14:17] I can't say that I deliberately
+waited until I had grown.
+[0:14:20] It just so happened that I
+stumbled into the weight room
+[0:14:22] and found that I liked it
+at age 16, at which point,
+[0:14:26] I was already the
+height that I am now.
+[0:14:28] So in any case,
+what I'm hearing is
+[0:14:30] that laying down a lot of excess
+body fat is not a good idea.
+[0:14:34] What if somebody grows up chubby
+or fat for whatever reason--
+[0:14:39] reasons related to the eating
+patterns in their family,
+[0:14:42] maybe even some genetic reasons.
+[0:14:43] Is it safe and/or wise
+for a young person--
+[0:14:48] so let's say somebody who's
+around the age of puberty,
+[0:14:51] or even younger, or in their
+late teens-- to be dieting
+[0:14:54] and actively trying
+to lose body fat.
+[0:14:56] Is that safe?
+[0:14:58] KYLE GILLETT: Under the
+supervision of a physician,
+[0:15:00] it is certainly safe to
+change your body composition.
+[0:15:03] In pediatric obesity
+medicine, you're
+[0:15:05] often talking about
+a recomposition
+[0:15:08] or a renormalization of the
+growth curve compared to peers.
+[0:15:12] ANDREW HUBERMAN: Great.
+[0:15:13] Thank you.
+[0:15:14] So as you may have sensed,
+we started chronologically
+[0:15:17] with puberty, and
+I know that there's
+[0:15:19] another puberty that even
+precedes the puberty that we're
+[0:15:22] all familiar with.
+[0:15:23] Maybe-- if you want to
+just briefly mention
+[0:15:25] that because I was talking
+with you about this
+[0:15:26] before we started.
+[0:15:27] The puberty that I'm
+most familiar with,
+[0:15:30] and I think most people
+are most familiar with,
+[0:15:32] the acquisition of
+deepening of the voice,
+[0:15:35] growth of muscle and bone, body
+hair, acquisition of libido
+[0:15:39] and things like that.
+[0:15:40] That's actually the second
+puberty that we all go through.
+[0:15:42] Maybe would just mention
+for us and educate us
+[0:15:44] on the first puberty.
+[0:15:45] I think most people
+will be hearing
+[0:15:49] this for the very first time.
+[0:15:50] KYLE GILLETT: The first
+puberty of everyone's life
+[0:15:53] is the first three
+months of their life.
+[0:15:55] You may notice that your baby
+has more acne the first three
+[0:15:59] months and that they also have,
+in general, just more changes
+[0:16:04] related to androgens and
+estrogens, perhaps oilier skin,
+[0:16:09] even more genitourinary--
+[0:16:11] genital growth during
+the first three months.
+[0:16:14] And this is mostly due to DHEA,
+which is an adrenal hormone.
+[0:16:18] The second puberty,
+or the puberty
+[0:16:20] that most people know of,
+actually starts that same way
+[0:16:22] as well.
+[0:16:23] It's called adrenarche, and
+it's when the adrenals kick in,
+[0:16:27] I guess, for the second time.
+[0:16:28] ANDREW HUBERMAN: Is there
+a standard age or age
+[0:16:31] range in which the
+testicles descend in males?
+[0:16:35] KYLE GILLETT:
+Usually before birth.
+[0:16:37] It is not uncommon to have one
+or even two undescended testes,
+[0:16:41] but there is a risk
+of testicular cancer,
+[0:16:43] especially if they are
+not fixed early and also
+[0:16:46] heat damage to the teste.
+[0:16:48] ANDREW HUBERMAN: Well,
+thank you for that coverage
+[0:16:50] of the two puberties.
+[0:16:51] So early in life.
+[0:16:52] I imagine some of our
+listeners probably
+[0:16:55] still in one or the-- well,
+one or the other puberty.
+[0:16:58] The ones that are in
+the first puberty,
+[0:16:59] obviously, aren't
+aware that they're
+[0:17:01] listening to this
+podcast, but maybe it'll
+[0:17:02] be embedded in
+their subconscious.
+[0:17:04] But some listeners probably
+are still in puberty.
+[0:17:07] But I think everyone can
+remember back to their puberty,
+[0:17:09] and roughly when they
+first entered puberty,
+[0:17:11] and how quickly they
+aggregated the secondary sex
+[0:17:14] characteristics.
+[0:17:15] I'd like to turn now to a
+general question about what
+[0:17:19] all males ought to do in order
+to optimize their hormones.
+[0:17:23] So if you could just
+list off the things
+[0:17:25] that all males should do on
+a daily basis, weekly basis.
+[0:17:29] I mean, should guys
+in their teens and 20s
+[0:17:31] be getting their bloodwork
+done, should they
+[0:17:34] be taking supplements?
+[0:17:35] We already talked
+about weight training.
+[0:17:36] What should they be doing
+and what should they
+[0:17:38] avoid doing if the
+goal is to have
+[0:17:40] a long arc of healthy
+hormone optimization
+[0:17:43] throughout the lifespan?
+[0:17:45] KYLE GILLETT: There's many
+things that you should do.
+[0:17:47] An analogy that I
+often make is when
+[0:17:50] there's a brand new car that
+comes off the assembly line,
+[0:17:52] you do a full scope
+of diagnostic workup--
+[0:17:55] hook it up to the computer.
+[0:17:56] And I think we should do the
+same thing with humans as well.
+[0:17:59] During puberty, obviously,
+you're a functioning human,
+[0:18:03] but I would say there's
+still development.
+[0:18:06] And I think that the
+human always develops.
+[0:18:08] I don't think
+development ever ends,
+[0:18:10] but you want to
+monitor that progress
+[0:18:12] across a person's lifespan.
+[0:18:16] [INTERPOSING VOICES]
+[0:18:17] ANDREW HUBERMAN: Oh, sorry.
+[0:18:18] So for bloodwork-- I mean,
+what would be the earliest--
+[0:18:22] let me put it this way.
+[0:18:23] If blood work didn't cost
+anything and everyone
+[0:18:27] could get it, when
+would you want
+[0:18:29] to see everybody get
+their bloodwork done
+[0:18:31] for the first time?
+[0:18:33] Obviously, individuals
+under the age of 18
+[0:18:36] should talk with their
+parents about this.
+[0:18:38] And as long as the
+parents and the child
+[0:18:42] agree and the parents are
+on board with this as well,
+[0:18:45] you can start getting bloodwork.
+[0:18:47] Often, a child will
+come in with complaints
+[0:18:49] of either precocious
+puberty or delayed puberty,
+[0:18:52] and this individual might be 9
+or this individual might be 15.
+[0:18:57] For a healthy
+child, when they're
+[0:19:00] going through their later
+Tanner stages-- which
+[0:19:02] is 4 and 5, so they've developed
+several secondary sexual
+[0:19:05] characteristics-- they might
+have hair growth or starting
+[0:19:08] to notice more beard growth.
+[0:19:11] That's a good time to do it.
+[0:19:14] If you're concerned
+with stature or heighth,
+[0:19:16] or if you're not
+tracking along where most
+[0:19:18] members of your family have--
+[0:19:21] not just their height
+and stature, but also
+[0:19:24] the timing of their puberty,
+then that's time to get labs.
+[0:19:28] ANDREW HUBERMAN: So if I
+could travel back in time,
+[0:19:31] I would have gotten my bloodwork
+done for hormones, and lipids,
+[0:19:34] and everything else at 18.
+[0:19:36] I, unfortunately, didn't know
+where and how to get that,
+[0:19:39] and I didn't have any
+pressing clinical issues.
+[0:19:41] And so I think the first time
+that I got my bloodwork done,
+[0:19:44] I was in my late 20s,
+maybe even in my early 30s.
+[0:19:47] And I'm still dying to
+know what my bloodwork was
+[0:19:51] when, for instance, I was
+17 and I felt a certain way.
+[0:19:54] And I confess that
+in many dimensions,
+[0:19:57] I actually feel better now at--
+[0:19:59] I'll be 47 soon-- at 47 than
+I did in my teens and 20s.
+[0:20:03] And I think it was more
+on the psychological side.
+[0:20:06] I think that-- but in
+terms of just understanding
+[0:20:10] why we felt great or why we
+felt or feel terrible or not so
+[0:20:15] great, I think bloodwork
+is extremely informative.
+[0:20:17] What do you think
+are the key things
+[0:20:19] to look for in bloodwork?
+[0:20:21] I mean, testosterone is
+always the topic that comes up
+[0:20:23] in the context of male
+hormone optimisation,
+[0:20:25] but certainly there are
+a lot of other hormones
+[0:20:27] that are important as well.
+[0:20:28] KYLE GILLETT: And
+with testosterone, you
+[0:20:30] want to get either
+testosterone and an SHBG
+[0:20:32] or a free testosterone.
+[0:20:33] ANDREW HUBERMAN: Could you
+define SHBG for our listeners,
+[0:20:36] please?
+[0:20:36] KYLE GILLETT: It is Sex
+Hormone Binding Globulin.
+[0:20:38] It is the protein that
+binds up all androgens
+[0:20:41] and estrogen in the body.
+[0:20:43] So the stronger the androgen,
+the stronger it binds.
+[0:20:46] During puberty,
+strong androgens,
+[0:20:49] especially DHT which
+is the strongest
+[0:20:51] bioidentical androgen,
+has a huge role--
+[0:20:55] a prominent role in secondary
+sexual characteristics.
+[0:20:59] And if your SHBG is
+very high, then your DHT
+[0:21:02] can run higher because
+it's not metabolized,
+[0:21:05] but there's not quite
+as much free DHT.
+[0:21:07] So you want to balance
+between a high enough free DHT
+[0:21:12] and a high enough total DHT.
+[0:21:13] ANDREW HUBERMAN: And
+obviously, these blood tests
+[0:21:15] are going to have to
+be read and interpreted
+[0:21:17] by a qualified physician.
+[0:21:19] Most people aren't going to be
+in a position to evaluate them
+[0:21:21] properly, or at least not with
+the full depth that they could
+[0:21:24] if they had an M.D like
+yourself looking at them.
+[0:21:27] So everyone should get
+bloodwork as early as possible
+[0:21:31] depending on their
+budget and availability.
+[0:21:33] What should
+everybody do in terms
+[0:21:37] of monitoring those markers?
+[0:21:39] So assuming that there's
+no major intervention,
+[0:21:41] how often do you
+recommend that people
+[0:21:43] get their bloodwork done?
+[0:21:46] KYLE GILLETT: Let's say--
+[0:21:47] let's take an individual
+who just turned 18,
+[0:21:49] they just got their
+first set of bloodwork.
+[0:21:50] They'll probably
+find something in it
+[0:21:52] that they may want to optimize
+using shared decision-making
+[0:21:55] with their physician.
+[0:21:57] Usually, a good follow-up
+is about six months.
+[0:22:00] ANDREW HUBERMAN: So twice a
+year, getting bloodwork done,
+[0:22:02] and then having a
+physician evaluate it.
+[0:22:04] That sounds reasonable to me.
+[0:22:05] And for those that didn't
+initiate this at 18,
+[0:22:08] such as myself, I guess
+the best time to start then
+[0:22:11] would be as soon as possible.
+[0:22:12] KYLE GILLETT: Yeah.
+[0:22:14] ANDREW HUBERMAN: In
+terms of the other things
+[0:22:16] that all males should do,
+meaning all males of all ages--
+[0:22:20] puberty and beyond-- what
+are some of those things?
+[0:22:25] So on a daily basis,
+maybe you could just
+[0:22:27] take us through the arc
+of a day and push out
+[0:22:30] some of the protocols
+that you use
+[0:22:32] or the things that you like
+to see your male patients
+[0:22:34] use in order to try and
+optimize their hormone status.
+[0:22:37] KYLE GILLETT: I'll briefly
+touch on some of the lifestyle
+[0:22:39] pillars to start.
+[0:22:40] Diet and exercise
+are the first to.
+[0:22:43] In puberty, sleep is
+particularly important,
+[0:22:45] of course.
+[0:22:47] But with diet and exercise,
+throughout a lifespan,
+[0:22:52] you want to not exclude
+things that are helping you.
+[0:22:56] For example, during
+puberty if you're
+[0:22:59] consuming dairy, and then all of
+a sudden you cut out all dairy,
+[0:23:01] dairy can help increase
+IGF-1 and free IGF-1.
+[0:23:05] ANDREW HUBERMAN: And just,
+again, for our audience,
+[0:23:07] maybe just mention what
+having enough IGF-1 can
+[0:23:10] do for us that's beneficial is?
+[0:23:12] KYLE GILLETT: It helps you grow.
+[0:23:13] It helps with
+genital development,
+[0:23:16] secondary sexual
+characteristics, and long bone
+[0:23:19] growth--
+[0:23:20] skin growth, hair
+growth, a host of things.
+[0:23:22] ANDREW HUBERMAN: So getting
+an array of nutrients
+[0:23:25] that include dairy.
+[0:23:26] What other sorts
+of nutrients are
+[0:23:27] important during development?
+[0:23:30] KYLE GILLETT: You want to have
+adequate vitamin D. Vitamin
+[0:23:32] D helps with
+testosterone production,
+[0:23:34] it helps, again, with bone
+mineralization and stature.
+[0:23:39] After an age of about 25--
+[0:23:42] and there's not a strict cutoff,
+but up to about an age of 25,
+[0:23:46] optimizing your growth
+hormone and IGF-1
+[0:23:48] helps with bone density
+and bone growth.
+[0:23:51] So from the dietary
+standpoint, you
+[0:23:54] want to have enough free
+estrogen-- not too much
+[0:23:57] when you're growing.
+[0:23:58] But you want to help
+basically stockpile bone
+[0:24:02] to prevent a risk of
+osteoporosis or thin bone
+[0:24:05] fractures when you're older.
+[0:24:07] ANDREW HUBERMAN:
+Well, as someone
+[0:24:09] who broke his left foot 5
+times while in high school,
+[0:24:12] I can say that whatever
+young people can
+[0:24:14] do to optimize their bone
+density would be great.
+[0:24:16] That problem seems to have
+resolved itself over time,
+[0:24:19] but I don't know.
+[0:24:19] Back then, I did a short
+run as a vegetarian,
+[0:24:22] but I've always
+been an omnivore.
+[0:24:25] I realize that some
+of this relates
+[0:24:26] to ethics, and food allergies,
+and things of that sort.
+[0:24:29] But would you say
+that, on balance,
+[0:24:32] most people would benefit from
+eating a combination of quality
+[0:24:37] proteins from animal sources
+and non-animal sources--
+[0:24:40] fruits, vegetables,
+and starches?
+[0:24:42] I mean, what do you
+think, for instance,
+[0:24:44] about people following a pure
+carnivore or a very pure vegan
+[0:24:48] diet in their 20s and 30s?
+[0:24:51] KYLE GILLETT: In
+their late 20s, it
+[0:24:52] might be a reasonable option.
+[0:24:54] In early 20s and
+certainly teens,
+[0:24:57] it is a horrible idea because
+it is likely to significantly
+[0:25:00] decrease your free androgens.
+[0:25:02] So you will have less
+testosterone acting
+[0:25:04] on receptors through the body.
+[0:25:06] ANDREW HUBERMAN: Are there
+any other micronutrients
+[0:25:09] or macronutrients that
+people in their 20s and 30s
+[0:25:11] should emphasize?
+[0:25:13] KYLE GILLETT: We haven't really
+touched on fatty acids or fiber
+[0:25:16] too much.
+[0:25:17] Fiber is going to
+be paramount in kind
+[0:25:20] of setting your set
+point of your gut
+[0:25:22] microbiome the
+rest of your life.
+[0:25:24] There is prebiotic
+fiber, which you
+[0:25:26] can think of as fish food
+for your good gut microbiome.
+[0:25:30] Your gut microbiome is kind
+of like an aquarium or a fish
+[0:25:32] tank.
+[0:25:33] ANDREW HUBERMAN: Now,
+I'm just thinking
+[0:25:33] about goldfish swimming around
+in that-- the goldfish eating
+[0:25:36] people.
+[0:25:37] Don't eat goldfish, people--
+[0:25:38] [INTERPOSING VOICES]
+[0:25:39] ANDREW HUBERMAN: --live or dead.
+[0:25:40] KYLE GILLETT: Yeah,
+but any fiber or food
+[0:25:43] that you're putting
+in your gut, it's
+[0:25:45] either going to skew your gut
+microbiome toward something
+[0:25:49] that is more beneficial
+or more detrimental.
+[0:25:51] ANDREW HUBERMAN:
+And would you say
+[0:25:53] that the prebiotic fiber and
+getting essential fatty acids,
+[0:25:57] that would be important to do
+throughout the lifespan or just
+[0:26:00] for people in their 20s and 30s?
+[0:26:02] KYLE GILLETT:
+Throughout the lifespan,
+[0:26:03] particularly important in the
+teenage, '20s, '30s, because it
+[0:26:07] helps with brain development.
+[0:26:09] You're certainly more
+of an expert than me
+[0:26:12] when it comes to
+brain development,
+[0:26:14] but it does continue
+to develop, really,
+[0:26:17] throughout the lifespan, but
+certainly through the 20s
+[0:26:19] and 30s as well.
+[0:26:20] ANDREW HUBERMAN: What
+about taking a multivitamin
+[0:26:22] while you're growing up?
+[0:26:23] So many people do that.
+[0:26:25] Is it necessary, is it useful?
+[0:26:27] And if it's not necessary,
+is it safe to do anyway?
+[0:26:31] KYLE GILLETT: It's
+generally safe to do anyway.
+[0:26:34] I do not think everybody
+needs a multivitamin.
+[0:26:37] The more exclusionary
+your diet is--
+[0:26:40] for example, if you
+have celiac disease
+[0:26:43] or if you're planning on
+fertility soon, then perhaps
+[0:26:46] it's more reasonable
+to take a multivitamin.
+[0:26:48] ANDREW HUBERMAN: In a
+previous discussion of ours,
+[0:26:50] I asked you about caloric
+restriction and testosterone.
+[0:26:53] And if I recall correctly, the
+idea was that if somebody is
+[0:26:56] overweight-- they have an
+excess fat, adipose tissue--
+[0:26:59] then getting rid of some
+of that adipose tissue
+[0:27:02] through caloric
+restriction and exercise,
+[0:27:04] provided it's done not
+too fast in a healthy way,
+[0:27:06] is going to be beneficial for
+testosterone in the long-run.
+[0:27:09] But that for
+individuals who are not
+[0:27:12] carrying an excess of body
+fat, caloric restriction
+[0:27:15] is actually going to
+lower testosterone.
+[0:27:18] First of all, do I
+have that correct?
+[0:27:20] And second, are there
+any addendums to that
+[0:27:23] you'd like to give us now?
+[0:27:26] KYLE GILLETT: That's correct.
+[0:27:27] If you look at an individual
+in a caloric deficit,
+[0:27:31] several changes will happen.
+[0:27:33] One is that they'll have less
+building blocks for hormones.
+[0:27:37] Another is that they will
+be in a catabolic state
+[0:27:40] more often, so that balance
+of anabolism and catabolism
+[0:27:43] will be different.
+[0:27:44] They'll likely have less
+signaling from growth hormone
+[0:27:47] and IGF-1, and they'll
+also have the high SHBG
+[0:27:51] that we defined earlier
+as the binding protein,
+[0:27:53] so their free androgens and
+free estrogens will go down.
+[0:27:57] ANDREW HUBERMAN: Got it.
+[0:27:58] So we touched on
+sleep being critical.
+[0:28:01] I would say throughout
+the lifespan, trying
+[0:28:03] to get enough quality
+sleep at least 80%
+[0:28:06] of the nights of your
+life, and the other 20%
+[0:28:08] are just what happens
+when there's noise outside
+[0:28:11] or you're stressed.
+[0:28:12] It just-- you have
+an exam or you're
+[0:28:14] having a great time
+for whatever reason.
+[0:28:16] There are a lot of good
+reasons to lose some sleep
+[0:28:18] now and again as well.
+[0:28:20] So we have sleep,
+we've got nutrition.
+[0:28:23] We touched on that.
+[0:28:24] We'll get back into
+supplementation.
+[0:28:26] Now, what are some
+of the other pillars
+[0:28:28] of creating the proper
+environment for hormone
+[0:28:30] optimization?
+[0:28:33] KYLE GILLETT: Stress is
+probably the next one.
+[0:28:35] During both puberty, but
+also the 20s and 30s,
+[0:28:41] individuals are figuring out how
+they want to cope with stress
+[0:28:44] and also figuring out
+what they want to choose
+[0:28:47] to put their effort into.
+[0:28:50] So if someone is overstressed,
+then it can have--
+[0:28:52] it can put all the other
+lifestyle pillars--
+[0:28:55] and then they stop dieting
+well, they stop exercising,
+[0:28:59] and everything
+else can go askew.
+[0:29:02] There is also some degree
+of social component to this,
+[0:29:07] so perhaps I need to add a
+seventh pillar of social.
+[0:29:12] During your 20s and 30s, you
+may be forming a family as well.
+[0:29:15] Perhaps you have children, and
+the health of the family unit
+[0:29:19] is going to be vitally
+important not only-- not
+[0:29:23] necessarily directly for
+hormone optimisation,
+[0:29:26] but it's going to
+throw everything
+[0:29:27] else off if it's off.
+[0:29:29] ANDREW HUBERMAN: And
+for people that are not
+[0:29:31] starting their own families
+in their 20s and 30s,
+[0:29:33] can that social connection
+be extended to friendships
+[0:29:36] and work relationships as well?
+[0:29:38] KYLE GILLETT: Absolutely.
+[0:29:39] In fact, if someone's
+not starting a family,
+[0:29:41] it is just as concerning,
+but for other reasons.
+[0:29:44] Each individual is going to
+have their close group of family
+[0:29:47] and friends.
+[0:29:47] And if someone does not have
+one of those connections,
+[0:29:50] that's when things
+can potentially
+[0:29:53] get bad not just for them
+individually, but also society.
+[0:29:56] ANDREW HUBERMAN: So
+when you say stress,
+[0:29:58] you mean learn to
+manage your stress.
+[0:30:00] What does that look like?
+[0:30:01] I mean, if a patient
+has high blood pressure,
+[0:30:04] or even if they don't, you just
+sense that they're stressed.
+[0:30:07] They have a lot of
+pressured speech,
+[0:30:08] or they're not feeling
+well, or communicating
+[0:30:10] that they're not doing well.
+[0:30:12] What are some of
+the things that you
+[0:30:13] recommend in order to try
+and ameliorate that stress?
+[0:30:16] KYLE GILLETT: There's different
+mindfulness or relaxation
+[0:30:18] techniques.
+[0:30:19] Going outside can often
+help with this as well.
+[0:30:23] Dietary changes and exercise
+can help with this too.
+[0:30:26] Some people like
+prayer or meditation.
+[0:30:28] And a lot of people like
+counseling or therapy,
+[0:30:32] or even just talking openly with
+a family member or a friend.
+[0:30:36] ANDREW HUBERMAN:
+What would it be
+[0:30:37] some of the other pillars
+for hormone optimization?
+[0:30:40] Here, I feel like we're not
+just talking about people
+[0:30:41] in their 20s and
+30s, but again, we're
+[0:30:43] wrapping our arms around
+basically puberty onward.
+[0:30:47] I mean, gosh, looking
+back, I started
+[0:30:49] meditating pretty early,
+I started weight training
+[0:30:51] and running early.
+[0:30:52] I gave some thought to
+my diet in high school,
+[0:30:54] but it really was
+in college that I
+[0:30:56] started thinking more about
+what I was ingesting and why
+[0:30:59] and trying to do better there.
+[0:31:00] But people are
+coming to the table
+[0:31:02] at different stages
+of life and trying
+[0:31:05] to optimize for hormones.
+[0:31:07] So what would be some
+of the additional things
+[0:31:09] that everybody should do?
+[0:31:12] KYLE GILLETT: Everyone should
+get outside and find a movement
+[0:31:15] pastime to last a lifetime.
+[0:31:18] You're going to get
+sunlight, you're
+[0:31:19] going to get some degree
+of heat and cold exposure,
+[0:31:22] and you're also just
+going to move more.
+[0:31:24] Being in an artificial
+environment, where there's
+[0:31:27] artificial lights
+artificial air conditioning,
+[0:31:30] is going to have many
+effects on your body.
+[0:31:35] So that's vital.
+[0:31:36] Another one is finding what
+your purpose is in life.
+[0:31:40] So I call this spirit,
+but it's really
+[0:31:42] just the self-actualization
+component of Maslow's hierarchy
+[0:31:45] of needs, which is basically
+your physical needs,
+[0:31:48] your mental needs, and then
+your purpose in life-- what
+[0:31:50] you really like to do.
+[0:31:51] ANDREW HUBERMAN: Yeah,
+picking some goal or target.
+[0:31:53] And I always say that
+you don't have to stick
+[0:31:55] to the same goal over time.
+[0:31:56] Certainly, I haven't
+although I got
+[0:31:57] started early in the science
+game and I'm still in it.
+[0:32:00] The idea is not to pick the
+end goal, it is to pick a goal.
+[0:32:05] And then once you reach that
+goal to assess, and then
+[0:32:08] pick another goal, and so on.
+[0:32:10] I think sometimes, when people
+hear about picking a purpose,
+[0:32:12] they're like, oh, my
+goodness, I have to define--
+[0:32:13] sort of like naming oneself--
+[0:32:15] that you actually can change
+your goals and purpose
+[0:32:19] over time.
+[0:32:20] This is terrific.
+[0:32:21] Would you suggest that
+people actively use
+[0:32:25] or avoid supplementation
+prior to doing
+[0:32:29] all these other things?
+[0:32:30] I'm somebody that likes to throw
+the kitchen sink at things,
+[0:32:32] but I also like to do things
+pretty systematically.
+[0:32:34] So I would say behavior is
+first, then nutrition, then
+[0:32:36] supplementation, and then
+maybe if, and only if, there's
+[0:32:40] a real need--
+[0:32:41] and of course, working with a
+doctor-- prescription drugs.
+[0:32:43] But there are probably
+people in their 20s or 30s--
+[0:32:46] maybe even in their 50s--
+[0:32:48] that aren't feeling
+great, and they
+[0:32:49] want to do something in order
+to be able to train more
+[0:32:52] or to feel more confident to
+seek out social connection.
+[0:32:56] They just try and go
+about the whole business
+[0:32:59] from the other side as well.
+[0:33:01] What are your thoughts on that?
+[0:33:03] KYLE GILLETT: I see
+supplements and medications
+[0:33:05] as very similar--
+[0:33:06] one is prescribed
+and one is not.
+[0:33:08] In general, medications
+have more side effects
+[0:33:10] or potentially stronger
+therapeutic with more efficacy.
+[0:33:14] But they are just tools
+to reach an end goal.
+[0:33:17] So depending on the
+goal, if there's
+[0:33:19] an individual that's
+an athlete, then
+[0:33:21] certainly they should
+consider supplementation.
+[0:33:24] Or if someone desires
+optimal or a very high level
+[0:33:29] of cognitive performance,
+they should also
+[0:33:31] consider supplementation.
+[0:33:32] At the same time,
+food is medicine,
+[0:33:34] and a lot of the benefits
+you can get in supplements,
+[0:33:36] you can get in food as well.
+[0:33:37] ANDREW HUBERMAN:
+I guess it depends
+[0:33:38] on how much time and energy
+you're willing to spend
+[0:33:40] and also finances.
+[0:33:41] I know that when
+I was in college,
+[0:33:43] I could afford just
+a few supplements,
+[0:33:45] and they were basically whey
+protein and some fish oil--
+[0:33:48] I was fortunate
+that I was pointed
+[0:33:50] in the direction of those
+things-- and some creatine.
+[0:33:52] I couldn't afford much else.
+[0:33:53] Over time, of course,
+I could afford more.
+[0:33:55] But it really does often
+depend on finances.
+[0:34:00] Before we get into some
+specific recommendations
+[0:34:02] to optimize testosterone,
+estrogen, thyroid,
+[0:34:06] growth hormone, et
+cetera, I want to ask you
+[0:34:08] a question I've been wondering
+about for a long time.
+[0:34:10] So often in the discussion
+about male hormone optimization,
+[0:34:13] people will say, well, if
+your libido is suffering,
+[0:34:18] you might want to be
+concerned about testosterone--
+[0:34:21] or even estrogen because we know
+that estrogen can impact libido
+[0:34:24] as well.
+[0:34:24] Sometimes, having estrogen too
+low is detrimental for libido.
+[0:34:28] Or that people will say, you're
+not recovering from workouts
+[0:34:30] or you're just you're
+feeling kind of depressed.
+[0:34:32] The problem is,
+it's all subjective.
+[0:34:34] [CHUCKLES] So how does
+one know whether or not
+[0:34:37] their recovery from workouts,
+their energy, their confidence,
+[0:34:41] their libido is within
+a healthy range?
+[0:34:44] I mean, obviously, for
+people in a relationship
+[0:34:46] they can know whether or
+not their libido matches
+[0:34:48] the sort of cadence of the
+relationship and their partner.
+[0:34:51] But how should people
+think about this
+[0:34:54] and maybe then start
+to talk about it?
+[0:34:56] Because one of the big
+differences, I think,
+[0:34:58] between males and females
+is that, because females
+[0:35:01] have a monthly cycle, they are
+familiar with the changes that
+[0:35:05] occur in their hormones over
+time because every 28 days,
+[0:35:08] those hormones are
+changing dramatically
+[0:35:10] in ways that impact their
+physiology and psychology.
+[0:35:12] But for males, I
+feel like there's
+[0:35:13] a dearth of language to get
+into the more subtle aspects
+[0:35:19] of this.
+[0:35:19] It also has to do with
+privacy issues and people
+[0:35:21] feeling like they don't
+want to overshare too much--
+[0:35:25] not knowing what's
+appropriate to share.
+[0:35:26] But when you talk to a
+patient who's in their 30s,
+[0:35:29] or maybe even their
+70s or 60s-- it
+[0:35:31] doesn't matter-- a male patient,
+what are you listening for?
+[0:35:34] And I know you're
+not a psychiatrist,
+[0:35:37] but what are your ears tuned to
+in order to try and figure out
+[0:35:40] whether or not this
+person could really
+[0:35:41] use some help with
+hormone optimization
+[0:35:43] or whether or not
+something else--
+[0:35:44] or maybe they're
+just doing great
+[0:35:46] and they don't realize
+it because they're
+[0:35:47] placing demands on themselves
+that are excessive?
+[0:35:50] KYLE GILLETT: You want to use
+a lot of open-ended questions.
+[0:35:53] This process is called
+motivational interviewing.
+[0:35:56] And your goal is to
+listen to the patient
+[0:35:59] and not plant an
+idea in their mind
+[0:36:02] that they can follow
+because everybody is
+[0:36:04] going to have a different goal.
+[0:36:06] Some people are better at
+reading their biofeedback
+[0:36:09] or telling how they
+feel on a daily basis.
+[0:36:14] There is screening
+questionnaires designed--
+[0:36:16] for example, an
+ADAM questionnaire
+[0:36:18] to look at men's men's health
+and hormone-related health.
+[0:36:22] ANDREW HUBERMAN: It's
+called ADAM questionnaire?
+[0:36:24] KYLE GILLETT: ADAM
+questionnaire.
+[0:36:24] ANDREW HUBERMAN: A-D-A-M?
+[0:36:25] KYLE GILLETT: Correct.
+[0:36:26] ANDREW HUBERMAN: Is
+it available online
+[0:36:27] that people could
+administer it to themselves.
+[0:36:28] Although we don't
+want people making
+[0:36:30] clinical diagnoses of
+themselves or anyone else,
+[0:36:32] is it that sort of exam?
+[0:36:33] KYLE GILLETT: It is.
+[0:36:34] ANDREW HUBERMAN: Interesting.
+[0:36:35] KYLE GILLETT: I don't believe it
+is a clinically-validated tool
+[0:36:37] like an ASCVD, which is like a
+risk of heart attack and stroke
+[0:36:40] tool or many other tools.
+[0:36:43] There's one for depression,
+there's one for anxiety.
+[0:36:45] They're called PHQ9
+and GAD7 respectively.
+[0:36:49] But anyway, there
+is often an in--
+[0:36:52] the ADAM questionnaire-- and
+what you hear from the patient,
+[0:36:56] if you are a very careful
+listener, is often different.
+[0:37:00] ANDREW HUBERMAN: Can
+you give me an example
+[0:37:02] of some of the questions
+on this ADAM questionnaire
+[0:37:04] or the sorts of motivational
+interviewing that you might do?
+[0:37:06] So let's say I'm your patient.
+[0:37:08] I sit down.
+[0:37:08] What sorts of
+questions would you
+[0:37:10] ask to probe these kinds
+of dimensions of hormones?
+[0:37:13] KYLE GILLETT:
+Questions about libido,
+[0:37:15] questions about
+athletic performance,
+[0:37:17] questions about motivation.
+[0:37:19] And often, the patient
+will answer one thing,
+[0:37:22] but what you hear from them
+subjectively is far different.
+[0:37:25] ANDREW HUBERMAN: Interesting.
+[0:37:26] Can you give me an
+example of a question?
+[0:37:29] I'm happy to be the
+guinea pig here.
+[0:37:31] KYLE GILLETT: A classic
+one is, a guy comes in--
+[0:37:34] and a lot of times,
+they say, oh, no,
+[0:37:36] the wife made me
+go to the doctor.
+[0:37:38] I go once a year, that's it.
+[0:37:40] I don't want anything, I
+don't want any medications.
+[0:37:43] Their screening
+questionnaires might be zeros
+[0:37:46] across the board, so nothing.
+[0:37:47] No issues.
+[0:37:48] They're apparently
+in perfect health.
+[0:37:50] They talk to you for a
+while, they get some rapport,
+[0:37:53] they like you, and then right
+as you're finishing up the visit
+[0:37:56] and about to go
+out the room, they
+[0:37:58] mention that their
+libido isn't quite there,
+[0:38:01] and they're having a
+little bit of ED as well,
+[0:38:03] and perhaps they're
+even having some chest
+[0:38:05] pressure or tightness.
+[0:38:06] ANDREW HUBERMAN: I see.
+[0:38:07] So right as you're
+leaving the room,
+[0:38:09] a patient will tell you that
+they're having some sexual side
+[0:38:12] effects-- or not side effects.
+[0:38:13] They're having some
+sexual challenges,
+[0:38:15] and then they'll
+mention chest pressure.
+[0:38:17] Is the chest pressure
+a general decoy
+[0:38:20] for, it's got to be
+my heart, or is it
+[0:38:22] related to the other things
+that they're reporting?
+[0:38:25] KYLE GILLETT: It can be related.
+[0:38:26] In fact, erectile
+dysfunction is known
+[0:38:28] as the canary in the coal mine.
+[0:38:31] So coal miners would take the
+canary down, and it would--
+[0:38:33] the canary would die before
+the coal miners would
+[0:38:35] of, I believe, carbon
+monoxide poisoning.
+[0:38:38] And often, one of
+the causes of ED
+[0:38:41] is plaque buildup, which
+can happen in the coronaries
+[0:38:44] as well.
+[0:38:44] But sometimes, they notice
+the symptom in the genitals
+[0:38:48] before they do in
+the coronaries.
+[0:38:49] ANDREW HUBERMAN: So
+for such a patient,
+[0:38:51] let's say that patient
+was a young person where
+[0:38:54] plaque buildup in the
+arteries and veins
+[0:38:56] is not all that likely
+if they're, let's say,
+[0:38:58] in their 20s or
+30s, what would be
+[0:39:01] your next step of the interview
+at that point, and what would
+[0:39:03] you consider?
+[0:39:04] Would you immediately
+order labs for that person
+[0:39:06] to try and rule out any
+kind of actual hormone level
+[0:39:10] deficiency?
+[0:39:11] KYLE GILLETT: I certainly
+would order labs.
+[0:39:13] There are some individuals
+that are very similar,
+[0:39:15] and they come in, and they
+have the same symptoms,
+[0:39:17] and one individual might have
+a very, very high testosterone,
+[0:39:21] and one individual might
+be severely hypogonadal.
+[0:39:24] So there's a big difference
+between the subjective
+[0:39:27] and what the labs look like.
+[0:39:29] So I certainly order labs.
+[0:39:31] You also ask them about if
+it's situational or not,
+[0:39:35] you ask them if they
+have ED if they're--
+[0:39:38] you ask them about their habits.
+[0:39:39] You even ask about
+porn, and masturbation,
+[0:39:42] and all these issues.
+[0:39:42] And of course, that's between
+the doctor and the patient.
+[0:39:45] And depending on
+what they tell you,
+[0:39:47] you can often determine if there
+is a situational component--
+[0:39:51] some people call
+it psychogenic ED,
+[0:39:53] but I don't love the
+term psychogenic ED,
+[0:39:56] because it kind of puts some
+blame on the patient's mind.
+[0:40:01] But a lot of the time,
+that is the case.
+[0:40:03] There is even a test.
+[0:40:05] And this is very rarely
+ordered, but it's called
+[0:40:07] a nocturnal penile tumescence.
+[0:40:09] ANDREW HUBERMAN: Now,
+is it true that there
+[0:40:12] are periodic erections
+during sleep-- correct?
+[0:40:15] KYLE GILLETT: Yes.
+[0:40:16] So you basically
+put a cuff to see
+[0:40:18] if you were having a normal
+sized erection during sleep.
+[0:40:22] And I believe about 90% of
+the time they do that test,
+[0:40:26] they are indeed
+having erections.
+[0:40:28] ANDREW HUBERMAN:
+Which would point
+[0:40:29] to this psychogenic
+origin of whatever
+[0:40:32] challenges they're having in
+terms of sexual interactions.
+[0:40:34] You mentioned porn
+and masturbation.
+[0:40:37] This topic has come up a
+bunch of times on this podcast
+[0:40:40] and on other
+podcasts I've gone on
+[0:40:41] because of the relationship
+between dopamine sexual
+[0:40:45] motivation and sexual behavior.
+[0:40:47] And I've been of the
+pretty strong stance
+[0:40:51] that, while I'm not judging
+porn or masturbation,
+[0:40:54] it can create a brain
+wiring situation where
+[0:40:58] males in particular
+essentially teach their brain
+[0:41:01] to be aroused by watching other
+people have sex as opposed
+[0:41:04] to being the first person
+actor in sexual interactions.
+[0:41:09] So in that sense, that's
+more about the brain wiring,
+[0:41:13] and neuroplasticity,
+and dopamine.
+[0:41:14] But what are your thoughts
+on porn and masturbation
+[0:41:17] as they relate to hormones?
+[0:41:18] I mean, this is a big
+debate on the internet.
+[0:41:20] In fact, one of the
+most common debates
+[0:41:22] is whether or not masturbation
+increases or decreases
+[0:41:25] testosterone in males.
+[0:41:27] Certainly, it will
+decrease motivation
+[0:41:29] to go find sexual partners.
+[0:41:31] We know this.
+[0:41:32] KYLE GILLETT: Yes.
+[0:41:33] ANDREW HUBERMAN: And there
+are more and more data on this
+[0:41:35] all the time.
+[0:41:36] In terms of the effects of
+pornography and masturbation--
+[0:41:39] and here, I suppose we need
+to be somewhat specific
+[0:41:42] and operationally define
+what we're talking about.
+[0:41:44] We're talking about
+porn and masturbation
+[0:41:46] to the point of ejaculation,
+because my understanding
+[0:41:51] is that the ejaculation
+and orgasm associated with
+[0:41:55] causes an increase in
+prolactin, which blunts
+[0:41:57] libido for some period of time.
+[0:41:59] The duration of that will
+vary from person to person
+[0:42:01] and circumstance
+to circumstance.
+[0:42:03] But basically, all of
+this points to the fact
+[0:42:05] that porn and
+masturbation can really
+[0:42:08] limit libido in the real world.
+[0:42:11] And to me, pornography and the
+screen is not the real world.
+[0:42:15] Although screens exist
+in the real world,
+[0:42:17] the real world doesn't
+exist in the screen.
+[0:42:19] KYLE GILLETT: That's
+an accurate statement,
+[0:42:21] and prolactin does have a
+significant acute increase
+[0:42:26] after ejaculation.
+[0:42:29] It does to some degree
+after orgasm as well,
+[0:42:33] but prolactin acts
+on the pituitary
+[0:42:35] to inhibit the release of
+the hormones LH and FSH,
+[0:42:39] of which LH can
+increase testosterone.
+[0:42:42] So this may be one
+of the cases where
+[0:42:44] the dose makes the poison.
+[0:42:46] And if it is a very
+frequent habit,
+[0:42:48] certainly daily or
+more than once a day
+[0:42:52] would be very detrimental from
+a hormonal component not even
+[0:42:56] taking into account
+the neural wiring.
+[0:42:58] ANDREW HUBERMAN: Listen,
+I think it's terrific
+[0:43:00] that you've actually
+defined frequency,
+[0:43:02] because this is the problem
+on the internet or even
+[0:43:04] in the doctor's office.
+[0:43:05] You'll see descriptions
+about pornography
+[0:43:07] being dangerous
+for certain things
+[0:43:09] or detrimental to hormones.
+[0:43:11] People say frequent,
+but what's frequent?
+[0:43:12] So you're saying daily
+or multiple times per day
+[0:43:15] would be potentially
+detrimental to the hormone
+[0:43:18] profile of a male of
+essentially any age.
+[0:43:20] KYLE GILLETT: And that's
+just for masturbation.
+[0:43:23] With pornography--
+with porn use as well,
+[0:43:28] it would likely be worse.
+[0:43:29] ANDREW HUBERMAN:
+And why is that?
+[0:43:31] Just the sort of
+dopaminergic drive
+[0:43:33] of the stimulus-- just the
+really intense visual stimulus?
+[0:43:37] KYLE GILLETT:
+Dopamine sensitivity.
+[0:43:38] I think that using the analogy
+of a dopamine wave pool,
+[0:43:43] it would deepen the
+pool, but not increase
+[0:43:46] your supply of dopamine.
+[0:43:47] ANDREW HUBERMAN: Maybe you could
+describe the dopamine wave pool
+[0:43:49] because I think it's such
+a powerful way of thinking
+[0:43:51] about dopamine and
+what dopamine does.
+[0:43:53] In fact, I've always credited
+you when I've done it,
+[0:43:56] but I've generally stolen your
+analogy of the dopamine wave
+[0:44:00] pool because it's so astute.
+[0:44:03] KYLE GILLETT: The
+dopamine wave pool
+[0:44:04] describes the natural
+variation of ups and downs
+[0:44:07] in your dopamine
+or your motivation.
+[0:44:10] And in the wave pool, depending
+on how high the peak is,
+[0:44:15] you often have a deeper trough.
+[0:44:20] So you do not want
+to high of a peak.
+[0:44:22] In addition, if your
+peak is very, very high--
+[0:44:25] for example, when you're using
+many substances like cocaine
+[0:44:31] or like amphetamines,
+your dopamine
+[0:44:33] can go so high that
+you lose almost all
+[0:44:35] the water from the
+wave pool, and then
+[0:44:37] when you crash from that,
+not only is the trough low,
+[0:44:39] you have less dopamine in
+the pool to begin with.
+[0:44:43] The dopamine
+receptor is extremely
+[0:44:45] sensitive, as is the
+Gaba receptor, which
+[0:44:47] is an inhibitory receptor,
+whereas dopamine is technically
+[0:44:50] a stimulant more related to
+adrenaline and noradrenaline.
+[0:44:53] The depth of the pool
+can change very quick.
+[0:44:57] So you want to have that
+happy medium where you're
+[0:45:00] fairly near the top, but
+you're not so near the top
+[0:45:03] that the depth of the
+pool is going to go down.
+[0:45:06] ANDREW HUBERMAN: So if I
+interpret that in the context
+[0:45:09] of this discussion about libido,
+sex, porn, and masturbation,
+[0:45:14] if somebody has a very intense
+sexual experience-- and here,
+[0:45:19] we're not necessarily talking
+about an intense orgasm--
+[0:45:21] we're talking about just a lot
+of intense visual, so very--
+[0:45:26] a lot of intense imagery,
+or auditory input, or both--
+[0:45:30] that is going to
+lead to a situation
+[0:45:32] where dopamine is going
+to be depleted afterwards.
+[0:45:35] A guest on this podcast before--
+my colleague at Stanford, Dr.
+[0:45:37] Anna Lembke, who's an
+expert in addiction,
+[0:45:39] talked a bit about this--
+the sort of seesawing.
+[0:45:41] Like, here, we're talking
+about a wave and a crashing
+[0:45:43] out of the water
+from the wave pool.
+[0:45:45] There, it was a seesawing
+from pleasure and pain.
+[0:45:47] There's going to be a longer
+and deeper period of lack
+[0:45:51] of pleasure following that.
+[0:45:53] And I think a lot of people
+think, oh, well, that's great.
+[0:45:55] They want the
+intense experience.
+[0:45:57] But if that intense experience
+is coming from pornography
+[0:46:00] and masturbation-- or I suppose
+coming from high adrenaline
+[0:46:03] activities, like life-risking
+parkour hanging off the side
+[0:46:08] of a building-- it inevitably
+is going to lead to depressive
+[0:46:11] episodes, low libido
+episodes that follow.
+[0:46:13] Is that right?
+[0:46:14] KYLE GILLETT: Correct-- in
+a similar physiologic way
+[0:46:18] to withdrawal from
+stimulants, like amphetamines.
+[0:46:21] ANDREW HUBERMAN: Now, is sex
+with a partner different?
+[0:46:25] Because there are
+many people who
+[0:46:27] are chasing more
+and more intense
+[0:46:29] experiences with a partner as
+opposed to through pornography
+[0:46:32] and masturbation.
+[0:46:33] Again, here, we're
+talking about all ages.
+[0:46:34] And I should always say,
+anytime we're talking about sex
+[0:46:37] with a partner, we're talking--
+[0:46:38] the four conditions that I
+always lay out on the Huberman
+[0:46:42] Lab podcast are that we're
+talking about consensual,
+[0:46:44] age appropriate, context
+appropriate, species
+[0:46:47] appropriate interactions.
+[0:46:49] KYLE GILLETT: Yeah,
+and this is also
+[0:46:51] a case where the dose
+makes the poison.
+[0:46:53] So if there's-- obviously,
+meeting all those criteria,
+[0:46:59] if they have one preference
+that, for both of them,
+[0:47:04] is a positive experience,
+then that is likely OK.
+[0:47:09] You're not going to be
+able to maintain dopamine
+[0:47:12] over a certain threshold
+for a long period of time,
+[0:47:15] so there very well
+may be a crash
+[0:47:17] from that experience as well.
+[0:47:19] And that crash may be different
+in one partner than the other.
+[0:47:23] ANDREW HUBERMAN: Interesting.
+[0:47:24] So I'll draw an analogy to food.
+[0:47:26] It would be like you don't have
+to serve the banquet meal seven
+[0:47:29] nights of the week,
+maybe just two.
+[0:47:31] Is that right?
+[0:47:32] And there are other
+delicious foods out there?
+[0:47:34] Can--
+[0:47:34] KYLE GILLETT: Yes--
+[0:47:34] ANDREW HUBERMAN: --we
+use that analogy?
+[0:47:35] KYLE GILLETT: --that
+is very reasonable.
+[0:47:36] I'm not trying to be PG-13.
+[0:47:38] I'm just trying to parsimony
+Occam's razor the ability
+[0:47:42] to describe a lot of
+things in a few words.
+[0:47:46] I'd like to return to the key
+things that people should do--
+[0:47:50] or I should say, the key
+things that men should
+[0:47:52] do to optimize their hormones.
+[0:47:53] So we talked about
+getting some movement,
+[0:47:55] getting some sunlight, getting
+quality social connection one
+[0:47:57] way or the other, avoid
+excessively frequent
+[0:48:00] masturbation and
+viewing pornography.
+[0:48:03] And for some people, zero
+might be the optimal number.
+[0:48:07] And I keep coming back to this--
+[0:48:08] KYLE GILLETT: For most people.
+[0:48:09] ANDREW HUBERMAN:
+--for most people.
+[0:48:09] Interesting.
+[0:48:10] I feel so fortunate
+to have grown
+[0:48:12] up prior to the availability
+of internet pornography.
+[0:48:14] I've never been a big
+consumer of pornography.
+[0:48:16] It's just not been
+my thing, but I
+[0:48:19] hear so often from males of
+all ages about their addiction
+[0:48:22] to it, their affliction by it.
+[0:48:24] It's really a serious
+issue, and that's
+[0:48:26] one of the reasons why
+I'm grateful that you're
+[0:48:28] willing to talk about this
+and your clinical experience
+[0:48:30] with these patients.
+[0:48:32] I'd like to take a quick
+break and acknowledge
+[0:48:34] one of our sponsors,
+Athletic Greens.
+[0:48:36] Athletic Greens,
+now called AG1, is
+[0:48:39] a vitamin-mineral-probiotic
+drink
+[0:48:41] that covers all of your
+foundational nutritional needs.
+[0:48:44] I've been taking Athletic
+Green since 2012,
+[0:48:46] so I'm delighted that they're
+sponsoring the podcast.
+[0:48:49] The reason I started taking
+Athletic Greens and the reason
+[0:48:51] I still take athletic Greens
+once or usually twice a day
+[0:48:54] is that it gets
+me the probiotics
+[0:48:56] that I need for gut health.
+[0:48:58] Our gut is very important.
+[0:48:59] It's populated by
+gut microbiota that
+[0:49:02] communicate with the brain, the
+immune system, and basically
+[0:49:04] all the biological
+systems of our body
+[0:49:06] to strongly impact our
+immediate and long-term health.
+[0:49:09] And those probiotics
+in Athletic Greens
+[0:49:11] are optimal and vital
+for microbiotic health.
+[0:49:15] In addition, Athletic
+Greens contains a number
+[0:49:17] of adaptogens,
+vitamins, and minerals
+[0:49:19] that make sure that all of my
+foundational nutritional needs
+[0:49:21] are met and it tastes great.
+[0:49:24] If you'd like to
+try Athletic Greens,
+[0:49:25] you can go to
+athleticgreens.com/huberman,
+[0:49:29] and they'll give you five
+free travel packs that make it
+[0:49:31] really easy to mix up
+Athletic Greens while
+[0:49:33] you're on the road, in the
+car, on the plane, et cetera.
+[0:49:36] And they'll give you a year
+supply of vitamin D3, K2.
+[0:49:39] Again, that's
+athleticgreens.com/huberman
+[0:49:42] to get the five free travel
+packs and the year supply
+[0:49:44] of vitamin D3, K2.
+[0:49:46] In terms of exercise,
+here's-- again,
+[0:49:48] it's a double-edged sword.
+[0:49:50] On the one hand, it's
+great to get exercise,
+[0:49:51] but I'm familiar with--
+[0:49:54] if I train an hour a day--
+[0:49:56] 10 minutes of
+warm-up in 50 minutes
+[0:49:58] to an hour of weight
+training or 50 minutes
+[0:50:00] to an hour of
+cardio, I feel great,
+[0:50:02] especially if, once a week,
+I take a complete day off.
+[0:50:04] That's sort of my
+general schedule.
+[0:50:06] I'm also familiar
+with when I go out
+[0:50:08] for runs that are excessively
+long-- two hour runs or I spend
+[0:50:12] 90 minutes in the
+gym to frequently,
+[0:50:14] I start to feel like garbage.
+[0:50:15] Everything suffers.
+[0:50:16] My sleep starts to suffer.
+[0:50:17] It doesn't matter
+how much I eat--
+[0:50:19] I don't seem to recover.
+[0:50:20] I don't feel well.
+[0:50:21] So I realize that
+recovery ability varies
+[0:50:24] between individuals,
+but what do you
+[0:50:26] think is a healthy, sustainable
+exercise regimen that anyone
+[0:50:31] can follow that will also
+support their hormone status?
+[0:50:35] KYLE GILLETT: For really
+vigorous exercise,
+[0:50:37] around three to
+four times a week
+[0:50:39] is very sustainable over
+a long period of time.
+[0:50:42] On top of that, you could add
+in 3 or four more instances
+[0:50:47] of less vigorous exercise.
+[0:50:48] ANDREW HUBERMAN: So
+for less vigorous,
+[0:50:50] would you mean zone two
+cardio where you can hold
+[0:50:52] a conversation, but
+beyond which you can't?
+[0:50:55] And for more vigorous
+you're thinking
+[0:50:57] weight training or high
+intensity interval type
+[0:50:59] training?
+[0:51:00] Is that right?
+[0:51:01] KYLE GILLETT: Correct.
+[0:51:02] You can also weight train
+and have some benefit even
+[0:51:05] at a low to moderate intensity.
+[0:51:08] If you think about
+weight training
+[0:51:10] where you have-- and it's
+not necessarily related
+[0:51:12] to the incidence of DOMS,
+which is Delayed Onset Muscle
+[0:51:15] soreness.
+[0:51:16] But if you weight
+train lazy or easy
+[0:51:19] from time to time--
+obviously, you
+[0:51:21] want to weight train
+very heavy from time
+[0:51:23] to time as well because of
+more lean body mass growth.
+[0:51:26] But if you weight
+train lighter, you're
+[0:51:29] going to be able to
+do it more often,
+[0:51:32] and it can still help with
+the hypertrophy of collagen--
+[0:51:37] for example, in
+tendons and ligaments.
+[0:51:39] ANDREW HUBERMAN:
+So here, again, I'd
+[0:51:41] like to perhaps drill into
+this notion of intensity
+[0:51:44] and light weights because
+for me, some of the most
+[0:51:46] brutal workouts
+I've ever done were
+[0:51:48] in what I would consider
+a high repetition range--
+[0:51:50] 15 to 50.
+[0:51:51] Actually, I went up to Oregon
+to watch the International Track
+[0:51:54] and Field Championships.
+[0:51:55] We went by to Cameron
+Haynes's place--
+[0:51:59] the Cameron Haynes--
+and he and his trainer
+[0:52:02] put us through a
+workout that was
+[0:52:04] 25 to 50 repetitions per set,
+and it was done in circuit,
+[0:52:07] and it was brutal.
+[0:52:08] So it was light--
+[0:52:09] I mean, those
+weights were nothing.
+[0:52:12] In some cases, it
+was body weight.
+[0:52:13] But the number of
+repetitions was brutal.
+[0:52:15] So when you say
+limiting intensity,
+[0:52:17] are you talking about limiting
+the number of sets to failure,
+[0:52:21] are you talking
+about really being
+[0:52:23] kind of a lazy bear in the gym?
+[0:52:25] I like to do that every
+once-- so a long rest,
+[0:52:27] that sort of thing.
+[0:52:29] What are your thoughts
+on that as it relates
+[0:52:31] to hormone optimization?
+[0:52:32] So I'll just mention-- and
+then I'll let you answer--
+[0:52:35] I feel best overall when I'm
+training for 10 minute warm-ups
+[0:52:39] and about 45 or 50 minutes
+of weight training,
+[0:52:41] where I'm pretty
+lazy between sets.
+[0:52:43] Two to three minute
+rests, training somewhere
+[0:52:46] in the 6 to 10 rep range,
+going to failure every once
+[0:52:49] in a while, but mostly
+getting that sort
+[0:52:51] of last rep before what
+I would think is failure.
+[0:52:53] No forced reps,
+that kind of thing.
+[0:52:54] And then jogging on the
+other days, nice and easy.
+[0:52:56] When I do that, I feel fantastic
+in all other dimensions
+[0:53:00] of life.
+[0:53:01] When I train more
+intensely than that,
+[0:53:03] even with lightweight, so
+faster cadence and lower rest,
+[0:53:08] I feel like garbage.
+[0:53:10] I get a headache, I'm kind of
+ornery, everything suffers.
+[0:53:14] So what are your thoughts on
+defining a optimal exercise
+[0:53:18] strategy for hormones.
+[0:53:19] I've never measured my
+hormones in those two
+[0:53:21] different contexts,
+but I have to imagine
+[0:53:23] that it's cortisol related.
+[0:53:24] KYLE GILLETT: When they
+study the effect of exercise,
+[0:53:27] specifically vigorous exercise,
+one area that's been studied
+[0:53:31] is vigorous exercise-- episodes
+lasting longer than an hour.
+[0:53:36] And they usually track it by a
+rating of perceived exertion,
+[0:53:40] which isn't perfect, and it's
+not extremely actionable,
+[0:53:42] but it's helpful for
+clinical science.
+[0:53:44] But the takeaway from that
+is, basically, do not--
+[0:53:48] it is not hormonally helpful
+to train, especially regularly
+[0:53:53] train, vigorously for
+longer than an hour.
+[0:53:57] ANDREW HUBERMAN: So I'm happy
+to hear that because it sounds
+[0:54:00] like for most people,
+that hour of work
+[0:54:03] is really the threshold.
+[0:54:04] I think this is important
+for people to hear,
+[0:54:06] especially males
+because I think with all
+[0:54:09] of the incredible examples
+out there of people like Cam,
+[0:54:12] like David Goggins,
+people who are training
+[0:54:14] for very long periods of time--
+[0:54:16] and leaving aside all issues of
+what people are doing in order
+[0:54:20] to optimize the recovery, I
+think an hour a day of exercise
+[0:54:24] is just a great program
+that most anyone can follow.
+[0:54:29] And beyond an hour, you start
+running into challenges.
+[0:54:33] And the occasional 90-minute
+or two hour workout
+[0:54:36] is no big deal.
+[0:54:37] But if you start doing that
+more than once every two months,
+[0:54:41] I think you're
+headed for trouble.
+[0:54:43] Have you seen that in
+people's blood work
+[0:54:45] and in their hormones?
+[0:54:46] Do you ever see
+people that are just
+[0:54:47] badly overtrained because
+they're just training
+[0:54:49] too hard and too often?
+[0:54:50] KYLE GILLETT: Yes.
+[0:54:51] When the blood work
+is particularly bad,
+[0:54:55] they're often in a large
+caloric deficit as well.
+[0:54:59] There's a synergistic effect
+between a caloric deficit.
+[0:55:03] Even if you're maintaining
+adequate protein intake,
+[0:55:05] you might not be maintaining
+adequate iron intake
+[0:55:08] or adequate vitamin D. And
+you're also just literally
+[0:55:12] in a caloric deficit.
+[0:55:13] Perhaps low carbs as well,
+very low free testosterone.
+[0:55:17] And they're simultaneously doing
+a lot of vigorous exercise.
+[0:55:23] ANDREW HUBERMAN: Interesting.
+[0:55:24] I often hear, and I'm starting
+to wonder whether or not,
+[0:55:27] some of the quicker-to-results
+nutrition tactics--
+[0:55:33] things like dropping
+all carbohydrates,
+[0:55:36] or the quicker-to-results
+exercise habits,
+[0:55:39] like starting to do six
+day a week really intense
+[0:55:42] workouts-- whether or
+not, in the short run,
+[0:55:44] they work because they cause
+the cosmetic changes that people
+[0:55:47] are seeking, but that
+they really undermine
+[0:55:49] the overall goal, which
+is, at least to me,
+[0:55:52] to have your hormones Maybe.
+not optimized to 100%,
+[0:55:57] but to always be aiming
+for 100% and be close to it
+[0:56:00] at every stage of life.
+[0:56:02] KYLE GILLETT:
+Consistency is key here.
+[0:56:04] If you are not
+consistent, then the law
+[0:56:07] of diminishing returns
+certainly applies.
+[0:56:09] So 80% or 90% of the benefit
+over many, many months
+[0:56:15] is far better than 100%,
+but only half the time.
+[0:56:20] ANDREW HUBERMAN: Yeah.
+[0:56:21] One thing that I found
+to be tremendously useful
+[0:56:23] is to finish the workout while
+I still have energy, to not take
+[0:56:27] myself to exhaustion.
+[0:56:28] And then I'm able to talk
+about the dopamine wave pool.
+[0:56:31] I'm able to sort of
+ride that into the rest
+[0:56:33] of the day feeling great.
+[0:56:34] I sort of save or bank some
+of the vigor from the training
+[0:56:39] to bring it into my work.
+[0:56:40] But then again,
+I'm not an athlete.
+[0:56:41] I get paid to think and to
+speak, not to lift weights
+[0:56:44] or to run.
+[0:56:45] KYLE GILLETT: Another
+component of that
+[0:56:47] is the balance between
+your sympathetic,
+[0:56:49] which is your fight or
+flight nervous system,
+[0:56:51] and your parasympathetic,
+which is your rest or digest
+[0:56:53] nervous system.
+[0:56:55] There is an anecdote,
+which is likely true,
+[0:56:57] that many elite
+bodybuilders are very
+[0:57:00] parasympathetic besides while
+they're lifting weights.
+[0:57:03] ANDREW HUBERMAN: You
+mean they're lazy
+[0:57:04] and they like to eat a lot.
+[0:57:05] KYLE GILLETT: Yeah.
+[0:57:06] ANDREW HUBERMAN: The lazy bear
+in the gym kind of phenomenon.
+[0:57:08] KYLE GILLETT: Absolutely.
+[0:57:09] But that being said, after a
+very, very vigorous workout--
+[0:57:13] for example, one where
+you're trained to failure,
+[0:57:15] which bodybuilders and power
+lifters do all the time--
+[0:57:18] you feel the tiredness--
+or you feel the strain
+[0:57:24] from that heavy
+sympathetic activity
+[0:57:27] when you are lifting
+a heavy weight,
+[0:57:28] and it can
+potentially affect how
+[0:57:31] you feel the rest of the day.
+[0:57:32] So many people who have a job
+where that is highly cognitive
+[0:57:37] do not like to have an
+extremely vigorous workout
+[0:57:39] in the morning, which
+is when a lot of people
+[0:57:41] are able to exercise.
+[0:57:42] ANDREW HUBERMAN: When I exercise
+early in the morning-- that is,
+[0:57:45] before 9:00 AM--
+[0:57:46] I have more energy all day long.
+[0:57:48] If I do it mid-morning,
+I have experienced
+[0:57:49] more of an afternoon crash.
+[0:57:51] There's probably some
+circadian biology in there.
+[0:57:53] I also noticed-- and I've
+actually seen in my bloodwork--
+[0:57:56] that if I don't get
+out for a 45-minute jog
+[0:58:00] at least once a week,
+all of my blood profiles
+[0:58:03] suffer in a direction that
+I don't want them to go.
+[0:58:05] In particular, testosterone
+and estrogen move in directions
+[0:58:08] that are not
+conducive to my goals.
+[0:58:12] I'd like to talk about
+some of the approaches
+[0:58:15] that people can use in
+order to optimize hormones.
+[0:58:17] And these days, for
+better or for worse--
+[0:58:20] I think for worse--
+[0:58:22] younger guys are
+asking about and using
+[0:58:26] testosterone replacement
+therapy-- so-called TRT.
+[0:58:29] And I just want to
+frame this up by saying
+[0:58:30] there is no strict
+cutoff for what is TRT.
+[0:58:33] There are plenty of people whose
+blood levels of testosterone
+[0:58:36] and estrogen are within
+the normal reference range
+[0:58:39] and decide to start
+doing these things.
+[0:58:41] Of course, they can
+limit fertility.
+[0:58:42] There are a bunch of
+issues even at non, quote,
+[0:58:45] unquote, steroidal
+performance enhancing dosages.
+[0:58:49] I'd love to frame this up
+by first defining our terms,
+[0:58:51] because one of the
+challenges on the internet
+[0:58:53] is people talk about
+TRT, then they'll
+[0:58:55] talk about performance
+enhancing drugs,
+[0:58:56] they'll talk about steroids.
+[0:58:57] They're all steroids.
+[0:58:59] I mean, testosterone, estrogen
+are both steroid hormones.
+[0:59:02] But what one considers
+replacement therapy
+[0:59:05] versus what one considers
+performance enhancing
+[0:59:08] is going to depend.
+[0:59:10] So here's my question.
+[0:59:13] Why in the world--
+[0:59:14] [EMPHASIS] why in the world--
+[0:59:17] would any male in his teens
+or twenties, or even 30s,
+[0:59:23] whose blood levels of
+testosterone and estrogen
+[0:59:26] are at the appropriate
+levels, meaning
+[0:59:28] within the normal
+reference range,
+[0:59:30] take exogenous testosterone
+given all the negative effects
+[0:59:35] on fertility, some of
+the challenges that it
+[0:59:38] can present if the dosages
+aren't quite right, et cetera.
+[0:59:40] Why would they do
+that, certainly
+[0:59:43] if they are not being paid
+for a particular endeavor,
+[0:59:47] like they're not making money?
+[0:59:48] If they are playing
+a sport, chances
+[0:59:49] are they're not allowed
+to do that anyway.
+[0:59:51] It's on the banned
+substances list.
+[0:59:53] So to me, it just seems
+like a crazy idea.
+[0:59:57] But then again,
+I'm of a generation
+[0:59:58] that really hasn't thought about
+doing that stuff until people
+[1:00:01] were in their 40s and
+50s or even never.
+[1:00:04] So is there ever a case for
+somebody in their 20s or 30s
+[1:00:08] to take testosterone if
+their blood levels are
+[1:00:11] within the 300 to 900 nanograms
+per deciliter reference range?
+[1:00:16] KYLE GILLETT: Not many cases.
+[1:00:18] The reason for any performance
+enhancing drug, whether or not
+[1:00:21] it is a steroid, synthetic,
+bioidentical, or otherwise,
+[1:00:26] varies a lot.
+[1:00:27] Some individuals do it
+only for cosmetic reasons
+[1:00:31] even if it can have
+deleterious effects
+[1:00:35] on the cosmetic
+appearance, for example,
+[1:00:38] of your skin in the long run.
+[1:00:40] But everyone has their
+different reasons.
+[1:00:44] As far as like when
+does the benefit
+[1:00:47] outweigh the detriment, not
+very often if you're in your 20s
+[1:00:52] and certainly--
+[1:00:53] probably-- almost hardly never.
+[1:00:55] There's always rare cases, like
+Coleman syndrome and whatnot,
+[1:00:58] but almost never if
+you're very young.
+[1:01:02] ANDREW HUBERMAN: So for people
+in their 20s, 30s, and beyond--
+[1:01:05] 40s, et cetera-- whose
+testosterone and estrogen
+[1:01:08] levels are at the
+appropriate ratios,
+[1:01:10] and then within the
+normal reference range,
+[1:01:13] and they feel pretty good--
+[1:01:14] [CHUCKLES] we talked about
+the ADAMs exam-- or this sort
+[1:01:17] of like feel-pretty-good is code
+for libido, energy, recovery,
+[1:01:20] et cetera, and are
+feeling at least
+[1:01:23] workable for their lifestyle.
+[1:01:26] For those people,
+what can they do
+[1:01:29] besides get great sleep, train,
+but not too hard or too often,
+[1:01:33] et cetera, et cetera?
+[1:01:34] What are some of the things in
+the realm of supplementation
+[1:01:36] that can help them optimize
+their testosterone and estrogen
+[1:01:40] without suppressing their
+own endogenous production
+[1:01:44] of testosterone and estrogen?
+[1:01:46] KYLE GILLETT: Let's mention
+creatine is the first one.
+[1:01:49] Creatine is
+interesting because it
+[1:01:50] has multiple different effects.
+[1:01:51] It helps with amino
+acid synthesis.
+[1:01:54] It also helps with
+oxidative stress.
+[1:01:56] It can also serve
+as the backup fuel
+[1:01:58] tank for your mitochondria,
+so holding backup ATP.
+[1:02:02] And it does slightly
+increase total testosterone,
+[1:02:05] and it also increases the
+conversion of testosterone
+[1:02:08] to dihydrotestosterone,
+so potentially it's
+[1:02:11] especially useful in men
+in even their teenage years
+[1:02:16] and their 20s.
+[1:02:16] ANDREW HUBERMAN: You mentioned
+the conversion of testosterone
+[1:02:19] to dihydrotestosterone, and
+there is mythology out there
+[1:02:22] that creatine can
+increase hair loss,
+[1:02:24] I'm guessing because there's
+at least one study showing
+[1:02:26] that creatine can increase DHT--
+[1:02:28] dihydrotestosterone.
+[1:02:29] And DHT is one of the
+primary hormones that can
+[1:02:33] promote male pattern baldness.
+[1:02:35] So the question therefore is,
+does creatine supplementation
+[1:02:41] increase the rate of hair loss?
+[1:02:44] KYLE GILLETT: Theoretically,
+it can, but in each individual,
+[1:02:50] preventing hair loss
+is a very poor reason
+[1:02:53] to take creatine,
+because it's not
+[1:02:55] going to take you to a
+supraphysiologic level,
+[1:02:58] it's not going to
+increase your androgens
+[1:03:03] to a unnormal level of binding.
+[1:03:06] So I feel like this--
+[1:03:08] if that was a reason to not
+take creatine for hair loss,
+[1:03:12] then that's--
+[1:03:13] ANDREW HUBERMAN:
+You mean-- sorry--
+[1:03:14] hair loss is not a reason
+to avoid taking creatine?
+[1:03:17] KYLE GILLETT: Correct.
+[1:03:18] Hair loss is not a reason
+to avoid taking creatine.
+[1:03:21] Think of it as just
+bringing you to what you
+[1:03:24] are naturally inclined to have.
+[1:03:27] If your conversion of
+testosterone to DHT
+[1:03:30] is already high, then often,
+creatine does not affect this.
+[1:03:34] It just kind of
+resets your balance
+[1:03:36] between testosterone being
+aromatized to estrogen
+[1:03:39] or being 5-alpha reduced DHT.
+[1:03:42] So it's not going to speed
+up hair loss more than just
+[1:03:46] naturally being a male does.
+[1:03:47] So in some individuals,
+it will have no effect.
+[1:03:50] In some individuals--
+for whatever reason,
+[1:03:52] they have almost no 5-alpha
+reductase activity--
+[1:03:55] it will return them
+to natural or normal.
+[1:03:57] ANDREW HUBERMAN: I see.
+[1:03:58] Well, I take 5 grams a day
+of creatine monohydrate.
+[1:04:01] I do it for the
+tissue volumizing
+[1:04:04] effects, so for
+exercise benefits,
+[1:04:06] but also for the
+cognitive effects.
+[1:04:08] I don't know if it's
+increasing my hair loss.
+[1:04:10] I mean, I've got a little bit
+of widow's peak type hair loss.
+[1:04:13] That's where it is for me.
+[1:04:15] I suppose beard growth is
+associated with DHT too.
+[1:04:18] Is that right?
+[1:04:19] KYLE GILLETT: Yes
+[1:04:20] ANDREW HUBERMAN:
+What I learned--
+[1:04:20] but then again I haven't
+been into those literature
+[1:04:22] in a long time-- is that because
+of differences in receptors,
+[1:04:25] that DHT causes hair
+growth on the face and hair
+[1:04:28] loss on the head.
+[1:04:29] Is that right?
+[1:04:30] KYLE GILLETT: Yes,
+and the amount,
+[1:04:32] and the sensitivity, and
+density of those receptors
+[1:04:35] is genetically determined.
+[1:04:37] ANDREW HUBERMAN: And is it true
+that if your mother's father
+[1:04:39] was bald that you will be
+bald in the same pattern,
+[1:04:42] and if he wasn't, you won't?
+[1:04:45] KYLE GILLETT: That is
+a decent correlation.
+[1:04:47] Part of the proposed
+mechanism of this-- well,
+[1:04:49] there are several genes,
+and you can actually
+[1:04:51] test your genes for hair loss.
+[1:04:53] You do get a decent amount
+of them from your mother.
+[1:04:56] The unique thing you
+get from your mother
+[1:04:58] that she may have
+gotten from her father--
+[1:05:00] that she got one of the
+copies from her father--
+[1:05:02] is your X chromosome.
+[1:05:03] And the androgen receptor
+gene is on your X chromosome,
+[1:05:07] so all men got their
+androgen receptor
+[1:05:10] gene from their mother.
+[1:05:12] ANDREW HUBERMAN: It's
+on their X chromosome,
+[1:05:14] not on the Y chromosome.
+[1:05:15] KYLE GILLETT: Correct.
+[1:05:16] ANDREW HUBERMAN: Interesting.
+[1:05:17] Even though all of
+the, quote, unquote,
+[1:05:19] male promoting genes are on
+the Y chromosome, like malaria,
+[1:05:24] and inhibiting, et cetera.
+[1:05:25] Interesting.
+[1:05:26] So 5 grams a day of creatine
+for most people should be fine.
+[1:05:30] Beneficial for tissue
+volumizing-- so strength,
+[1:05:33] bringing water
+into the muscles--
+[1:05:35] and for the cognitive effects.
+[1:05:37] And the clinical support
+for creatine, I think,
+[1:05:40] is quite strong at the
+5 gram per day dosage.
+[1:05:42] What other sorts of supplements
+can people benefit from?
+[1:05:46] We already talked
+about the omegas
+[1:05:47] and making sure that people are
+getting enough prebiotic fiber
+[1:05:50] to support the gut
+microbiome and vitamin D.
+[1:05:54] So what other supplement-based
+tools can people consider?
+[1:05:57] KYLE GILLETT: Another one
+we can loop in with creatine
+[1:06:00] is betaine.
+[1:06:01] Some people are
+nonresponders to creatine,
+[1:06:03] so you can increase
+that to 10 grams,
+[1:06:05] or you can use
+its cousin betaine
+[1:06:07] to help with amino
+acid synthesis
+[1:06:10] and shunting of energy.
+[1:06:12] Along with that, I would put
+l-carnitine which is actually
+[1:06:16] the smallest peptide hormone.
+[1:06:18] It's just two amino acids that
+are put together, so it's a--
+[1:06:21] ANDREW HUBERMAN: It's a hormone?
+[1:06:23] Interesting.
+[1:06:23] I'm not challenging it.
+[1:06:24] KYLE GILLETT: Well, peptide.
+[1:06:25] ANDREW HUBERMAN: I'm just--
+[1:06:25] I'm not challenging it.
+[1:06:26] KYLE GILLETT: I would call it
+a peptide more than a hormone.
+[1:06:29] So I would not call
+l-carnitine a hormone,
+[1:06:31] but I would call
+dopamine a hormone.
+[1:06:33] ANDREW HUBERMAN: Yeah, I
+could-- a neurohormone.
+[1:06:36] It's so hard to define things
+as transmitters or hormones
+[1:06:39] at some level.
+[1:06:39] I agree.
+[1:06:40] So l-carnitine-- actually,
+I should backtrack.
+[1:06:43] Betaine-- do you recall
+what dosage people typically
+[1:06:48] would take if they're a
+creatine non-responder?
+[1:06:51] KYLE GILLETT: 1 to 3 grams.
+[1:06:52] ANDREW HUBERMAN: Per day?
+[1:06:52] KYLE GILLETT: In fact--
+[1:06:53] yeah-- several
+versions of creatine
+[1:06:55] have betaine mixed in because
+it helps with the processing
+[1:06:59] of methionine and homocysteine.
+[1:07:00] ANDREW HUBERMAN: So if somebody
+is already taking creatine
+[1:07:03] and likes it and
+responds to it--
+[1:07:04] I'll raise my hand--
+such as myself,
+[1:07:06] would adding betaine help or
+is it redundant with creatine?
+[1:07:10] KYLE GILLETT: Only
+if their homocysteine
+[1:07:12] is persistently elevated.
+[1:07:13] And homocysteine is kind of
+like an inflammatory marker that
+[1:07:16] can build up if you're not
+converting enough of it
+[1:07:18] down stream.
+[1:07:19] ANDREW HUBERMAN:
+How would I know?
+[1:07:21] KYLE GILLETT: Just a
+blood test or if you
+[1:07:23] knew your MTHFR
+polymorphism, which
+[1:07:26] is basically how you
+add methyl groups
+[1:07:29] to many things in the body.
+[1:07:31] ANDREW HUBERMAN: Great.
+[1:07:32] Any side effects of betaine
+that people should be aware of?
+[1:07:36] KYLE GILLETT: Not
+that I know of.
+[1:07:37] ANDREW HUBERMAN: People can
+look it up on-- examine.com
+[1:07:39] is a great site for that.
+[1:07:40] They'll surely list it.
+[1:07:41] They just revamped
+their site by the way,
+[1:07:43] and it was awesome before,
+and it's platinum now.
+[1:07:48] So l-carnitine-- what are
+the ways to take l-carnitine?
+[1:07:51] I know that there is
+oral forms in capsules
+[1:07:54] and there's injectables.
+[1:07:55] The injectables, I think
+you need a prescription.
+[1:07:57] Is that right?
+[1:07:58] KYLE GILLETT: Correct.
+[1:07:58] You need a prescription
+for the injectables,
+[1:08:00] or you should really
+get a prescription
+[1:08:01] for the injectables.
+[1:08:03] For when you inject it--
+[1:08:06] of course, at the
+supervision of your doctor--
+[1:08:08] it's usually done
+intramuscularly.
+[1:08:10] It's an aqueous
+solution, so it does not
+[1:08:12] have an oil or a
+carrier oil in it
+[1:08:14] like TR-- like
+testosterone esters do.
+[1:08:17] However, if you inject
+it too superficially,
+[1:08:20] it's not going to make
+or break anything.
+[1:08:22] Often, it just burns if you
+inject it subcutaneously
+[1:08:25] and it does not disseminate
+throughout the body as well.
+[1:08:29] L-carnitine potentially
+has localized effects
+[1:08:32] if you inject it.
+[1:08:34] If you ingest it orally,
+then it has a very low
+[1:08:38] bioavailability--
+maybe only 10%.
+[1:08:39] ANDREW HUBERMAN: Well,
+I think most people are
+[1:08:41] going to be able to
+get l-carnitine only--
+[1:08:43] or in its capsule form.
+[1:08:46] So what are the
+dosages of l-carnitine
+[1:08:47] that one needs to
+ingest then if they
+[1:08:50] want to get a benefit because
+if only 10% is being absorbed,
+[1:08:54] it's probably a
+lot of l-carnitine.
+[1:08:56] How much should
+people take per day?
+[1:08:58] KYLE GILLETT:
+Usually, I recommend
+[1:08:59] for oral l-carnitine
+between 1,000 milligrams
+[1:09:02] and up to 4,000 or
+5,000 milligrams.
+[1:09:05] ANDREW HUBERMAN: So 1 to
+4-- maybe even 5 grams.
+[1:09:08] KYLE GILLETT: Correct.
+[1:09:09] Up to 5 grams a day.
+[1:09:10] If you're on that
+much, especially
+[1:09:13] if you have a dysregulated
+gut microbiome,
+[1:09:15] you should be
+concerned with TMAO
+[1:09:17] which is a potential
+carcinogen that both carnitine
+[1:09:20] and choline can convert into.
+[1:09:23] And your gut
+microbiota determine
+[1:09:25] how much that happens.
+[1:09:26] ANDREW HUBERMAN:
+Is it true that I
+[1:09:28] can offset any negative
+effects of alpha GPC--
+[1:09:31] choline that is-- and
+l-carnitine that I
+[1:09:34] take by ingesting garlic?
+[1:09:36] Is that right?
+[1:09:37] KYLE GILLETT: There's a compound
+in garlic called allicin--
+[1:09:39] I believe it's
+A-L-L-I-C-I-N. It's also part
+[1:09:42] of the scientific name-- the
+genus of types of garlic.
+[1:09:46] And this can help decrease
+the conversion to TMAO.
+[1:09:49] Berberine actually slightly
+decreases the conversion
+[1:09:52] to TMAO as well probably
+through alteration
+[1:09:55] of the gut microbiome.
+[1:09:56] And then just optimizing
+your gut microbiome
+[1:09:59] can decrease conversion.
+[1:10:00] So not everyone needs
+allicin, but it's something
+[1:10:03] that you should
+certainly consider
+[1:10:04] if you were on a high dose.
+[1:10:06] ANDREW HUBERMAN: I'm
+going to continue
+[1:10:07] to take the 600 milligrams
+of garlic every time
+[1:10:10] I take my l-carnitine,
+but I'm going
+[1:10:12] to skip the berberine
+because berberine gives me
+[1:10:14] brutal headaches and it makes me
+crave carbohydrates because it
+[1:10:16] drops my blood sugar.
+[1:10:17] KYLE GILLETT: It has many other
+effects, including the dawn
+[1:10:20] phenomenon where
+it drops your blood
+[1:10:21] sugar when you're sleeping
+and you can't even realize it.
+[1:10:24] ANDREW HUBERMAN: I am
+not a fan of berberine,
+[1:10:26] and I'm sorry for
+those of you that are.
+[1:10:28] I'm not trying to offend
+anyone, although frankly,
+[1:10:30] if you're being offended
+by my stance on berberine,
+[1:10:33] then maybe we should
+have another discussion.
+[1:10:35] In any case injectable
+l-carnitine,
+[1:10:38] if one can get that through a
+doctor, how much is absorbed
+[1:10:41] and how much should one take?
+[1:10:43] KYLE GILLETT: Almost
+all of it's absorbed.
+[1:10:45] In general you're taking
+between 500 milligrams up to--
+[1:10:49] you can take a pretty high
+dose up to 2,000 milligrams.
+[1:10:52] ANDREW HUBERMAN: And what
+we did not talk about
+[1:10:54] is what l-carnitine does?
+[1:10:56] So why should why should
+someone go through all of this?
+[1:10:59] Is it to optimize
+testosterone, is it
+[1:11:01] working on the receptor side?
+[1:11:03] What's l-carnitine doing?
+[1:11:05] KYLE GILLETT: It's a shuttle.
+[1:11:06] So I think it's named
+carnitine palmitoyl coenzyme
+[1:11:10] A. Basically, it
+just takes nutrients
+[1:11:13] from outside your
+mitochondria and puts them in.
+[1:11:16] It also has a unique effect--
+[1:11:18] well, not too unique
+because tadalafil actually
+[1:11:20] has this effect as well--
+[1:11:21] is that it increases the
+density of the androgen receptor
+[1:11:25] and the cytoplasm of your cells.
+[1:11:27] So even if your androgen
+receptor sensitivity
+[1:11:30] doesn't change and even if your
+testosterone does not change,
+[1:11:34] you will have more testosterone
+binding to that increased
+[1:11:36] number of receptors.
+[1:11:37] ANDREW HUBERMAN: Does
+one need to cycle
+[1:11:39] l-carnitine, creatine, betaine?
+[1:11:41] KYLE GILLETT: No reason
+to cycle any of those.
+[1:11:45] ANDREW HUBERMAN: What
+other supplements
+[1:11:46] can one use to try and
+improve hormone profiles?
+[1:11:50] And here, I realize we're
+using a very broad brush
+[1:11:52] because when we say
+improve hormone profiles,
+[1:11:54] what are we really
+talking about?
+[1:11:56] And for me, at least, I think
+about the subjective stuff.
+[1:12:01] Do people feel
+like they are going
+[1:12:03] to have more energy as
+a consequence of doing
+[1:12:05] these things, are they going to
+have the more optimized libido,
+[1:12:09] or are they going to have
+more optimized recovery
+[1:12:11] from exercise?
+[1:12:12] Because, I mean,
+it's not clear to me
+[1:12:14] that taking one's
+testosterone from 600 to 800
+[1:12:17] is always going to be a good
+thing, especially if estrogen
+[1:12:19] is increasing in parallel.
+[1:12:21] That could cause issues.
+[1:12:22] It could certainly
+make things better.
+[1:12:23] It could certainly
+make things worse.
+[1:12:26] So with that backdrop, what
+are some of the other things
+[1:12:30] people can take?
+[1:12:31] And then we'll go
+back to this issue
+[1:12:32] of what really is optimization.
+[1:12:34] KYLE GILLETT: Let's
+briefly mention vitamin D,
+[1:12:36] which is also a hormone.
+[1:12:37] It's actually a sterile hormone.
+[1:12:39] And if you have deficient
+vitamin D and you replace it,
+[1:12:42] then you will optimize
+your testosterone.
+[1:12:45] Let's also mention boron.
+[1:12:47] So if you have a
+very high SHBG, boron
+[1:12:49] can acutely help lower
+it usually in a dose
+[1:12:52] of 5 to 12 milligrams per day.
+[1:12:54] It's not really a
+sustained effect,
+[1:12:56] but boron is depleted in
+soils in many countries.
+[1:13:00] I believe it's very high in
+soils in Greece and Turkey.
+[1:13:03] So eating dates or raisins
+that are from those areas
+[1:13:05] potentially have more boron.
+[1:13:07] Boron also might be
+one of the reasons
+[1:13:09] why the reference
+range for testosterone
+[1:13:12] is much higher in those
+countries than other countries.
+[1:13:15] ANDREW HUBERMAN: And
+just to remind people,
+[1:13:17] that SHBG sex hormone
+binding globulin
+[1:13:19] is attaching to the
+testosterone molecule
+[1:13:22] and limiting the amount of
+so-called free testosterone
+[1:13:24] that's available to have
+its impact on cells.
+[1:13:26] When Dr. Peter Attia
+was on this podcast--
+[1:13:28] in fact, sitting in
+that very chair--
+[1:13:30] he said that the ideal level
+of free testosterone in males
+[1:13:34] should be about 2% of
+one's total testosterone.
+[1:13:37] Would you agree with
+that number or disagree?
+[1:13:39] I'm sure Peter would be
+fine if you said either.
+[1:13:42] [CHUCKLES]
+[1:13:42] KYLE GILLETT: 2% is
+a good rule of thumb.
+[1:13:44] Usually, the reference range
+is between about 1% and 4%.
+[1:13:48] Some people do have
+genetic polymorphisms
+[1:13:51] in SHBG, a specific
+gene mutation where
+[1:13:54] they have very low SHBGs.
+[1:13:57] Also men that have varicose
+veins in their testes,
+[1:14:00] also known as varicoceles,
+tend to have very high SHBGs,
+[1:14:04] so that percentage would
+likely be less than 2%.
+[1:14:07] So just because your
+percentage of free T to total T
+[1:14:12] is a little bit above
+or below 2%, that's OK.
+[1:14:17] We just need to figure
+out the reason why it is.
+[1:14:19] ANDREW HUBERMAN:
+How would somebody
+[1:14:21] know if they have varicose
+veins in their testicles,
+[1:14:23] especially if their
+testicles are still in--
+[1:14:26] attached to their body?
+[1:14:27] KYLE GILLETT: Sometimes,
+it's hard to tell.
+[1:14:29] There are several grades.
+[1:14:31] If you have a grade 3
+or a grade 4 varicocele,
+[1:14:35] it has what's called a
+bag of worms appearance.
+[1:14:37] So think about if you've
+just resistance trained,
+[1:14:40] or it's a really
+hot day, or you're
+[1:14:42] wearing very tight
+fitting clothing,
+[1:14:44] then if you feel it and
+almost feels like there's
+[1:14:46] worms in the scrotum.
+[1:14:49] The other way is to do--
+[1:14:50] ANDREW HUBERMAN:
+That's a scary visual.
+[1:14:52] KYLE GILLETT:
+--yeah, bag of worms.
+[1:14:53] ANDREW HUBERMAN: Well, it
+was just that-- yeah, anyway.
+[1:14:55] I think parasites
+when I hear that,
+[1:14:57] but that's not what
+you're referring to.
+[1:14:58] You're talking about
+just the texture.
+[1:15:01] KYLE GILLETT: The best way
+for most people to check
+[1:15:03] is to valsalva for a
+long period of time.
+[1:15:06] When you valsalva, venous
+return will decrease.
+[1:15:10] ANDREW HUBERMAN: Can you
+explain valsalva for people?
+[1:15:12] KYLE GILLETT: It's bearing down
+like you're lifting a weight
+[1:15:15] or having a bowel movement,
+where you swallow.
+[1:15:18] And a lot of times,
+you can almost
+[1:15:20] see build up of blood in
+you're jugular veins as well.
+[1:15:26] So you have decreased
+blood return
+[1:15:29] to the heart and increased
+blood in the veins themselves.
+[1:15:34] ANDREW HUBERMAN: I'd like
+to take a brief break
+[1:15:36] and thank our sponsor
+InsideTracker.
+[1:15:39] InsideTracker is a
+personalized nutrition platform
+[1:15:42] that analyzes data
+from your blood and DNA
+[1:15:44] to help you better
+understand your body
+[1:15:46] and help you reach
+your health goals.
+[1:15:48] I've long been a believer in
+getting regular bloodwork done
+[1:15:50] for the simple reason that
+many of the factors that impact
+[1:15:53] your immediate and
+long-term health
+[1:15:55] can only be analyzed from
+a quality blood test.
+[1:15:57] The problem with a
+lot of blood and DNA
+[1:15:59] tests out there, however,
+is that you get data
+[1:16:01] back about metabolic factors,
+lipids, and hormones,
+[1:16:04] and so forth, but you don't
+know what to do with those data.
+[1:16:06] InsideTracker
+solves that problem
+[1:16:08] and makes it very easy
+for you to understand
+[1:16:10] what sorts of nutritional,
+behavioral, maybe even
+[1:16:14] supplementation-based
+interventions
+[1:16:16] you might want to
+take on in order
+[1:16:18] to adjust the numbers of those
+metabolic factors, hormones,
+[1:16:21] lipids, and other
+things that impact
+[1:16:22] your immediate and
+long-term health to bring
+[1:16:24] those numbers into the
+ranges that are appropriate
+[1:16:27] and indeed optimal for you.
+[1:16:29] If you'd like to
+try InsideTracker,
+[1:16:30] you can visit
+insidetracker.com/huberman
+[1:16:33] and get 20% off any of
+InsideTracker's plans.
+[1:16:35] That's
+insidetracker.com/huberman
+[1:16:38] to get 20% off.
+[1:16:39] So vitamin D3--
+[1:16:40] I'm guessing you're
+talking about vitamin D3
+[1:16:42] specifically when
+you say vitamin D--
+[1:16:45] and then boron, 5 to
+12 milligrams per day.
+[1:16:48] And then what are some
+of the other things
+[1:16:50] to optimize testosterone
+that are in supplement form?
+[1:16:54] KYLE GILLETT: We can talk
+about things that affect
+[1:16:56] the steroidogenesis cascade.
+[1:16:58] So we could touch
+on tongkat ali.
+[1:16:59] I know we've talked about
+that a little bit before--
+[1:17:02] ANDREW HUBERMAN: But I'm
+guessing a number of people
+[1:17:03] probably haven't heard
+that conversation.
+[1:17:05] KYLE GILLETT: Also
+known as Long Jack.
+[1:17:06] And that upregulates
+several different enzymes
+[1:17:09] in the steroidogenesis cascade.
+[1:17:11] And by that, what you mean if--
+and this is another good thing
+[1:17:15] to Google--
+[1:17:16] I think anybody interested
+in hormone optimization
+[1:17:18] should understand where
+sterile hormones come from.
+[1:17:22] They come usually
+from cholesterol
+[1:17:24] and they can be shunted off
+to vitamin D very easily,
+[1:17:27] they can be shunted
+off to testosterone,
+[1:17:29] or estrogens, or progestins
+quite easily as well.
+[1:17:33] But tongkat helps
+with the conversion
+[1:17:36] of multiple key steps where
+you synthesize testosterone.
+[1:17:41] Another-- think of it as like
+a coenzyme or a cofactor--
+[1:17:46] an upregulator of these
+steps is insulin and IGF-1.
+[1:17:50] So a good rule of thumb is if
+you are not expecting as much
+[1:17:54] growth hormone,
+insulin, and IGF-1--
+[1:17:57] for example, lower carb
+diets, caloric deficits,
+[1:18:00] you're trying to cut
+body fat or body weight--
+[1:18:03] then tongkat is going to
+be theoretically especially
+[1:18:07] powerful.
+[1:18:08] ANDREW HUBERMAN: What
+sorts of dosages of tongkat
+[1:18:10] do you recommend
+to your patients?
+[1:18:13] KYLE GILLETT: Anywhere from
+300 to 1,200 milligrams a day.
+[1:18:17] With tongkat, you need
+to be careful with
+[1:18:19] the standardization because--
+[1:18:22] and if you're thinking about
+a general tongkat supplement,
+[1:18:25] which is by far the
+most well-studied--
+[1:18:27] then you're looking at the
+eurycomanone content, which
+[1:18:32] is a plant compound
+that is likely
+[1:18:34] the main active
+pharmacologic effect.
+[1:18:38] So that's the compound that's
+having the effect on the body.
+[1:18:41] And if you standardize the
+eurycomanone very, very high,
+[1:18:45] then theoretically you're having
+more effect at a lower dose.
+[1:18:49] ANDREW HUBERMAN: I
+take 400 milligrams
+[1:18:51] of tongkat ali per day.
+[1:18:52] I take it early in
+the day because it
+[1:18:54] has a bit of a stimulant effect,
+and if I take it after 2:00 PM,
+[1:18:57] it starts to inhibit my sleep.
+[1:18:59] I've been taking it for years.
+[1:19:01] And I rather like
+that the effects.
+[1:19:05] It seems subtle but consistent.
+[1:19:07] I've never cycled it.
+[1:19:09] Do you recommend cycling it?
+[1:19:11] KYLE GILLETT: I don't see
+any reason to cycle it.
+[1:19:13] There is a reason to
+cycle some supplements,
+[1:19:17] but no reason to cycle tongkat.
+[1:19:19] ANDREW HUBERMAN: My
+blood work tells me
+[1:19:20] that it causes an increase
+in free testosterone for me
+[1:19:23] and also a slight increase in
+luteinizing hormone for me.
+[1:19:27] What are some of the other
+effects on various hormones
+[1:19:30] that you've observed in the
+bloodwork of your patients
+[1:19:32] taking tongkat ali?
+[1:19:34] KYLE GILLETT: Tongkat can
+also slightly increase DHEA.
+[1:19:38] And if you have a
+very high SHBG--
+[1:19:41] again, that's the protein
+that binds up your androgens
+[1:19:43] and estrogens-- an extremely
+important protein--
+[1:19:47] the higher your SHBG, the
+more it helps decrease it.
+[1:19:51] So they've studied
+tongkat in populations
+[1:19:54] with very normal SHBGs and
+it does nothing for SHBG.
+[1:19:58] ANDREW HUBERMAN: Interesting.
+[1:19:59] Does that mean it does
+nothing for somebody overall?
+[1:20:02] So if somebody has an SHBG
+that's in the normal range,
+[1:20:05] will taking tongkat benefit
+them in any other way?
+[1:20:08] KYLE GILLETT: Yes, it'll
+increase their total and free
+[1:20:11] testosterone.
+[1:20:12] ANDREW HUBERMAN: Got it.
+[1:20:13] Does it-- is it known to
+have effects on anything
+[1:20:15] else like thyroid
+hormone, growth hormone,
+[1:20:18] or is it purely in these
+steroid synthesis pathways?
+[1:20:21] Or steroid-- I should say
+synthesis, and receptor,
+[1:20:24] and modulation pathways.
+[1:20:25] KYLE GILLETT: There's no direct
+effect on those pathways.
+[1:20:28] However, any time you alter your
+free androgen or free estrogen,
+[1:20:34] particularly one without
+altering the other,
+[1:20:37] it will alter the
+binding protein
+[1:20:39] that binds thyroid hormones.
+[1:20:41] So any change you
+make, whether it's
+[1:20:43] natural optimization
+or hormone replacement,
+[1:20:45] you're going to slightly skew
+your thyroid hormone profile.
+[1:20:49] One common actionable example
+of this that I see often
+[1:20:52] clinically is someone
+starts, let's say,
+[1:20:56] estrogen replacement or
+testosterone replacement--
+[1:20:59] maybe they're taking an
+AI with their testosterone
+[1:21:01] replacement--
+[1:21:02] ANDREW HUBERMAN:
+Aromatase inhibitor?
+[1:21:03] KYLE GILLETT: Correct,
+an aromatase inhibitor,
+[1:21:05] which blocks the
+conversion to estrogen.
+[1:21:07] If they're taking
+testosterone and they have
+[1:21:10] very little
+estrogen, then you're
+[1:21:12] going to decrease the
+binding protein, also known
+[1:21:15] as thyroxine binding globulin,
+which binds active thyroid
+[1:21:19] hormones.
+[1:21:20] So if you start
+TRT and you either
+[1:21:24] have low aromatase activity
+or no aromatase activity--
+[1:21:28] no conversion to estrogen--
+then your free thyroid hormones
+[1:21:31] will go up.
+[1:21:33] Even just acutely, usually
+feedback inhibition,
+[1:21:36] which is how the body
+talks to itself and says,
+[1:21:39] we need to make more of
+this or less of this.
+[1:21:42] But acutely, there's
+not always enough time.
+[1:21:46] You're going to have very
+high thyroid hormones
+[1:21:49] and you can have tachycardia,
+which is a fast heart rate
+[1:21:52] or you can feel kind
+of like overly fight
+[1:21:54] or flight due to
+increased thyroid hormone
+[1:21:57] activity in the in tissue.
+[1:21:59] ANDREW HUBERMAN: Interesting.
+[1:22:00] So tongkat ali--
+just a broad range--
+[1:22:03] 300 to 1,200 milligrams per day.
+[1:22:05] And I realize that the
+source matters there.
+[1:22:08] What are some of
+the other hormones
+[1:22:10] that you prescribe to
+your patients who do not
+[1:22:13] want to go on testosterone
+replacement therapy
+[1:22:16] or take exogenous DHEA
+or anything like that?
+[1:22:20] KYLE GILLETT: We can
+talk about fadogia next.
+[1:22:22] Fadogia is interesting because--
+it's a genus of plants.
+[1:22:25] Fadogia agrestis is one of them.
+[1:22:27] There's many others that
+are very interesting.
+[1:22:30] That species is likely
+the most well-studied,
+[1:22:32] and it will increase
+LH, so I would not
+[1:22:37] consider it an LH mimetic,
+so it doesn't really mimetic.
+[1:22:39] But it increases the release
+of luteinizing hormone
+[1:22:42] from the pituitary.
+[1:22:43] That's a hormone that
+binds to the Leydig cell
+[1:22:46] to the LH receptor
+kind of like hCG does.
+[1:22:49] And it will increase the
+release of testosterone.
+[1:22:52] ANDREW HUBERMAN: I see.
+[1:22:53] So I think for people who
+aren't familiar with hCG--
+[1:22:56] so human chorionic
+gonadotropin--
+[1:22:58] is basically synthetic
+luteinizing hormone
+[1:23:00] and luteinizing
+hormone is the hormone
+[1:23:01] released from the
+pituitary that is
+[1:23:03] going to travel
+down to the testes
+[1:23:05] to stimulate the production
+of sperm and testosterone,
+[1:23:08] but mainly testosterone.
+[1:23:09] Is that correct?
+[1:23:11] KYLE GILLETT: Mostly correct.
+[1:23:13] Technically,
+synthetic LH is also
+[1:23:15] known as little r LH,
+or recombinant LH.
+[1:23:18] And hCG can be
+synthetic, but often, it
+[1:23:22] is just refined from the
+urine of pregnant ladies
+[1:23:24] since the placenta makes it.
+[1:23:27] That's why it's called
+chorionic gonadotropin.
+[1:23:30] ANDREW HUBERMAN:
+So where are they
+[1:23:31] getting all this
+pregnant women's urine?
+[1:23:35] I mean, there a location?
+[1:23:37] I mean, not that I want
+to go there, I just--
+[1:23:39] KYLE GILLETT: Donation?
+[1:23:40] ANDREW HUBERMAN: --really--
+so there are women that--
+[1:23:41] KYLE GILLETT: First
+trimester pregnant ladies.
+[1:23:42] It's very high.
+[1:23:43] ANDREW HUBERMAN:
+Donating their urine,
+[1:23:45] and then they're purifying it,
+and then men are injecting it?
+[1:23:48] KYLE GILLETT: Yes.
+[1:23:49] ANDREW HUBERMAN: Wow.
+[1:23:50] KYLE GILLETT: And
+that's actually
+[1:23:51] the same for menopausal ladies.
+[1:23:53] So first trimester
+pregnant ladies,
+[1:23:55] that's how you can
+make non-synthetic hCG.
+[1:24:00] And then for menotropins
+which are also known--
+[1:24:04] there's a couple of different
+names for it, like menopur.
+[1:24:07] You have menopausal ladies
+that have very high LH and FSH,
+[1:24:10] and then you refine
+the FSH and LH.
+[1:24:13] ANDREW HUBERMAN: So moving
+away from the sources
+[1:24:17] and from urine, Fadogia
+agrestis, what dosages
+[1:24:21] do you have patients take?
+[1:24:23] I've heard of some
+potential toxicity
+[1:24:26] to the testicular cells.
+[1:24:27] KYLE GILLETT: There
+is one study--
+[1:24:28] and this is a rat study, but you
+can equate the dose of toxicity
+[1:24:33] in rats and humans.
+[1:24:34] They did not give these
+rats any antioxidants,
+[1:24:36] but it increases a couple
+of different proinflammatory
+[1:24:41] markers.
+[1:24:41] One is GGT, or gamma
+glutamate transferase.
+[1:24:44] It comes from both the
+testes and the liver,
+[1:24:46] and one is alkaline phosphatase,
+also known as Alkphos, again,
+[1:24:51] coming from both areas.
+[1:24:52] There are several
+different ways that you
+[1:24:54] can attenuate this increase.
+[1:24:55] And you can also just check
+to see if you have increased.
+[1:24:58] In the rat dose that equates
+with humans that had no
+[1:25:02] effect-- so the safe dose--
+[1:25:03] was an average of
+300 milligrams a day.
+[1:25:06] ANDREW HUBERMAN: So that
+would be 300 milligrams a day
+[1:25:08] in humans is the dosage
+that did not have toxicity.
+[1:25:12] Correct?
+[1:25:13] KYLE GILLETT: Correct.
+[1:25:14] And often, even if there
+is toxicity in rats,
+[1:25:17] there is not toxicity in humans.
+[1:25:19] So it's not directly
+equitable, but to be safe,
+[1:25:23] another regimen that I have
+people take is 600 milligrams
+[1:25:26] every other day
+or 600 milligrams
+[1:25:28] three times a week-- often
+Monday, Wednesday, Friday.
+[1:25:31] ANDREW HUBERMAN: This is very
+interesting and relevant,
+[1:25:34] because I've been taking
+fadogia for some period of time.
+[1:25:37] All my markers
+and tests indicate
+[1:25:40] that there's no toxicity.
+[1:25:41] But I've been taking
+600 milligrams per day,
+[1:25:45] but I've been cycling it for
+about 8 to 12 weeks on and then
+[1:25:49] a few weeks off.
+[1:25:50] But based on what
+you're saying, I'm
+[1:25:52] thinking maybe three times
+per week or every other day
+[1:25:54] might be better.
+[1:25:55] Is that right?
+[1:25:56] KYLE GILLETT: If you weren't
+going to get any labs,
+[1:25:58] that is certainly the
+regimen that you want.
+[1:26:00] If you're going to check
+your GGT and ALK phos,
+[1:26:03] or even take other things to
+prevent those from increasing,
+[1:26:06] then you can certainly be more
+aggressive with your fadogia
+[1:26:10] dosing.
+[1:26:11] You can increase it
+quite a bit, and it
+[1:26:13] has a dose dependent response in
+both the activities associated
+[1:26:18] with high testosterone and
+also just LH and testosterone.
+[1:26:22] So the more aggressive
+regimen would
+[1:26:24] be 600 milligrams
+daily for a month
+[1:26:26] and then take one
+to two weeks off.
+[1:26:28] ANDREW HUBERMAN: Great.
+[1:26:29] I think that's more or
+less what I've been doing.
+[1:26:32] Terrific.
+[1:26:33] In terms of other
+hormones, what are
+[1:26:35] some of the supplements that
+can support growth hormone--
+[1:26:38] a hormone that's
+associated with tissue
+[1:26:40] repair and, in some cases,
+metabolism and fat loss?
+[1:26:43] What are some of the
+tools, nutritional and/or
+[1:26:46] supplement-based, one can do
+to tap on the growth hormone
+[1:26:51] pathway?
+[1:26:52] And let's lump
+IGF-1 in there too
+[1:26:54] since they're
+essentially working
+[1:26:55] along the same dimensions.
+[1:26:57] KYLE GILLETT: A quick
+synopsis-- growth hormone
+[1:26:59] is a peptide hormone, and it
+is released by the pituitary.
+[1:27:04] There's growth hormone
+releasing hormone and ghrelin
+[1:27:07] that stimulate the release.
+[1:27:08] So there's also peptides that
+are very analogous to these two
+[1:27:11] things.
+[1:27:13] You have that
+pulsatile secretion
+[1:27:15] of growth hormone in a very
+fast half life of just minutes,
+[1:27:18] and then it increases IGF-1.
+[1:27:20] There is both peripheral IGF-1
+and central IGF-1 and IGF2,
+[1:27:24] but no need to get
+into the specifics.
+[1:27:27] There is a happy medium to
+where your growth hormone is
+[1:27:31] at an adequate level and your
+IGF-1 is an adequate level.
+[1:27:34] Usually, those
+two are congruent.
+[1:27:36] So in most cases, we just check
+an IGF-1 and, occasionally,
+[1:27:40] the binding peptides
+for IGF-1 kind
+[1:27:42] of like SHBG that we
+talked about earlier,
+[1:27:45] but you're estimating
+a free IGF-1.
+[1:27:49] It's kind of confusing
+because all hormone--
+[1:27:51] almost all hormones have binding
+proteins to help regulate them.
+[1:27:55] But often, you want to
+look at free testosterone,
+[1:27:57] free estradiol, free IGF-1--
+[1:28:00] or at least estimate
+it-- free cortisol even,
+[1:28:03] and free thyroid hormone.
+[1:28:05] But when you're talking about
+growth hormone and IGF-1,
+[1:28:10] usually you don't need to
+do anything to optimize it.
+[1:28:14] If you are diabetic,
+then-- and depending
+[1:28:18] on the type of diabetes,
+your IGF-1 and growth hormone
+[1:28:21] can be too high.
+[1:28:23] Specifically, in
+type 1 diabetes,
+[1:28:25] your growth hormone is extremely
+high, but your IGF-1 is low.
+[1:28:29] So if you're in a dysregulated
+state or have pathology,
+[1:28:33] I would just talk to your doctor
+about IGF-1 or growth hormone.
+[1:28:37] Taking amino acids
+before you go to bed
+[1:28:39] could potentially help
+with growth hormone release
+[1:28:42] just because most growth hormone
+is released while you sleep.
+[1:28:46] ANDREW HUBERMAN: I've
+heard that fasting
+[1:28:48] can increase growth hormone.
+[1:28:49] And I know there are certain
+patterns of weight training
+[1:28:52] that can increase
+growth hormone.
+[1:28:54] Some of those regimens
+in the weight room
+[1:28:57] that increase growth hormone
+have been covered by Dr. Duncan
+[1:29:01] French, who was a
+guest on this podcast,
+[1:29:04] and so maybe we'll refer
+people to that episode
+[1:29:08] for the specific protocols--
+these high volume training.
+[1:29:11] KYLE GILLETT: During
+those training exercises,
+[1:29:13] it usually does it transiently
+for a period of a few hours.
+[1:29:17] And a lot of this IGF-1 is
+released by the muscle itself.
+[1:29:22] So it's not necessarily
+released by the liver.
+[1:29:25] IGF-1 that is released
+directly due to growth hormone
+[1:29:28] signaling-- usually, the
+growth hormone comes from
+[1:29:31] the pituitary and binds to
+the liver where usually,
+[1:29:34] it has a half life
+of about a week,
+[1:29:35] where the paracrine
+or autocrine--
+[1:29:37] think of it as like the
+peripherally acting or acting
+[1:29:40] in the muscles itself,
+which is also helpful--
+[1:29:43] is released and is not as
+concerning because it's not
+[1:29:47] related to insulin
+resistance, but it is
+[1:29:51] related to the training itself.
+[1:29:53] ANDREW HUBERMAN: So fasting
+and growth hormone--
+[1:29:57] is it true that fasting can
+increase growth hormone?
+[1:29:59] And maybe as a little
+related tangent,
+[1:30:03] I've heard that limiting
+food intake for the two hours
+[1:30:06] before going to
+sleep can increase
+[1:30:07] the pulse of growth hormone that
+one experiences during sleep.
+[1:30:10] Of course, everyone gets a pulse
+of growth hormone during sleep,
+[1:30:13] but especially
+carbohydrate-laden meals
+[1:30:15] can blunt that peak that
+occurs during sleep quite
+[1:30:19] substantially.
+[1:30:19] So two questions-- does avoiding
+food intake in the two hours
+[1:30:25] prior to sleep help increase
+growth hormone release?
+[1:30:28] Maybe it's being
+overly neurotic.
+[1:30:29] Maybe people need to avoid food
+in the four hours before sleep.
+[1:30:33] But regardless, what is the
+relationship between fasting
+[1:30:36] and growth hormone release?
+[1:30:37] I find this really interesting.
+[1:30:38] KYLE GILLETT: Fasting
+certainly potently increases
+[1:30:41] growth hormone release.
+[1:30:43] However, the IND binding to
+the receptor is less sensitive.
+[1:30:49] So although fasting does
+increase growth hormone,
+[1:30:53] the genes that are
+downstream to it--
+[1:30:55] both the growth
+hormone genes and IGF-1
+[1:30:58] related gene transcription
+activity-- will not
+[1:31:02] be significantly higher.
+[1:31:04] However, if you are optimizing
+the growth hormone that
+[1:31:08] is released as a
+pulsatile secretion,
+[1:31:12] it is helpful to avoid
+eating for two hours.
+[1:31:15] So the general rule of thumb
+is avoid eating about two hours
+[1:31:17] before bed.
+[1:31:18] I think that's clinically
+significant and helpful.
+[1:31:20] But fasting otherwise
+specifically for growth hormone
+[1:31:23] optimization in
+someone who already
+[1:31:25] has normal growth hormone
+signaling is not helpful.
+[1:31:29] ANDREW HUBERMAN:
+That's extremely useful
+[1:31:31] to hear because one
+of the major reasons
+[1:31:33] why people fast is to get
+that growth hormone increase.
+[1:31:36] But if they're adjusting things
+on the backend that negate
+[1:31:39] that, well, then, no such luck.
+[1:31:42] Not that I have anything
+against fasting.
+[1:31:44] I do a pseudointermittent
+fasting mostly
+[1:31:46] because I prefer to eat at
+fairly regular times of day.
+[1:31:51] So it doesn't sound
+like there's a lot
+[1:31:52] that people can take
+in supplement form
+[1:31:54] to improve growth hormone.
+[1:31:55] What about thyroid hormone?
+[1:31:56] What are some of the things that
+people can take or do in order
+[1:31:59] to make sure that their thyroid
+hormone levels are appropriate?
+[1:32:04] KYLE GILLETT: You want to
+have a balance of iodine
+[1:32:06] and you want to have a
+good source of iodine.
+[1:32:08] So there are some
+camps that say you
+[1:32:10] should use a huge
+high dose of iodine
+[1:32:12] and there's protocols for it.
+[1:32:14] And there are some that say you
+should use just barely enough
+[1:32:16] iodine--
+[1:32:17] I believe it's like
+200 micrograms per day.
+[1:32:20] But you want to balance.
+[1:32:22] One of the things that I
+see that many people do not
+[1:32:25] talk about when it comes
+to iodine and thyroid
+[1:32:28] is there's compounds
+known as goitrogens.
+[1:32:33] And these goitrogens are
+neither good nor evil,
+[1:32:36] but they're actually kind
+of a nice check and balance.
+[1:32:39] You need more iodine if you
+consume more goitrogens.
+[1:32:42] And some examples of these are
+some of my favorite foods--
+[1:32:46] cruciferous vegetables.
+[1:32:48] Boron is also a goitrogen.
+So higher goitrogens,
+[1:32:52] higher iodine.
+[1:32:54] ANDREW HUBERMAN:
+So ingesting iodine
+[1:32:56] containing salt is useful?
+[1:32:58] Yes or no?
+[1:33:00] KYLE GILLETT: Iodized
+salt does prevent goiter,
+[1:33:02] but it is not necessarily
+the ideal form of iodine.
+[1:33:06] Good forms of iodine
+often come from the ocean.
+[1:33:09] If you look at a chart
+of hypothyroidism,
+[1:33:12] there is a tendency to have
+more hypothyroidism the more
+[1:33:15] inland you go.
+[1:33:17] ANDREW HUBERMAN: So trying to
+eat some cruciferous vegetables
+[1:33:20] each day would be the best way
+to improve thyroid hormone.
+[1:33:24] KYLE GILLETT: Along
+with plenty of iodine.
+[1:33:26] You don't want too
+much iodine signaling.
+[1:33:28] Many people are familiar with
+radioactive iodine tablets,
+[1:33:31] and that's basically an
+extremely high amount of iodine
+[1:33:34] to block out the
+radioactive iodine that
+[1:33:38] comes from after like a
+nuclear meltdown or whatnot.
+[1:33:42] ANDREW HUBERMAN: So we've got
+creatine, betaine, l-carnitine,
+[1:33:47] with allicin garlic
+to offset the TMAO.
+[1:33:50] Vitamin D3, boron, tongkat
+ali, fadogia, some fasting.
+[1:33:55] I'd love to talk to
+you about peptides.
+[1:33:58] So I can imagine a hierarchy.
+[1:33:59] A hierarchy starts with
+behaviors and nutrition.
+[1:34:03] Behaviors, of course,
+includes training,
+[1:34:04] and limiting stress, and all the
+things we talked about before--
+[1:34:08] sunshine et cetera--
+and optimize nutrition.
+[1:34:12] Then, we talked
+about supplements--
+[1:34:15] all the things we just listed
+off to optimize testosterone.
+[1:34:19] And we can get into
+this, but estrogen
+[1:34:21] as well, which is important
+for libido, and brain
+[1:34:23] function, and tissue function,
+and joints feeling good, et
+[1:34:25] cetera.
+[1:34:26] But then we get into the realm
+where one might, or could
+[1:34:29] consider, exogenous hormones.
+[1:34:31] Get-- taking a small
+dose of testosterone
+[1:34:33] or taking a small dose of GH
+even if that were appropriate
+[1:34:37] and certainly only
+working with a doctor.
+[1:34:39] But in between, there's a
+step of so-called peptides.
+[1:34:42] And of course, there
+are many peptides.
+[1:34:44] We've already talked
+about some of them.
+[1:34:45] But when people talk
+about taking peptides,
+[1:34:47] the ones that I hear
+most often about
+[1:34:49] is a category that
+increases GH and IGF-1,
+[1:34:55] and those to my knowledge go by
+the things like sermorelin sort
+[1:35:03] of a kit of things that
+are taken separately
+[1:35:06] or in combination to
+increase GH and IGF-1.
+[1:35:09] But then other
+people, for instance,
+[1:35:11] are taking peptides like
+BPC 157 to try and improve
+[1:35:15] tissue healing and recovery.
+[1:35:17] There's a lot of
+interest in peptides.
+[1:35:19] Please, if you would,
+tell us about what
+[1:35:22] you know about the
+safety of peptides
+[1:35:24] in terms of their sourcing
+and the utility of peptides.
+[1:35:27] Is this something that people
+should consider before thinking
+[1:35:30] about hormone replacement?
+[1:35:31] Should people be
+wary of these things?
+[1:35:33] I am very wary of
+particular sources that are
+[1:35:35] sold online that are not clean.
+[1:35:37] They contain contaminants
+and that could be dangerous.
+[1:35:40] I really would love your
+thoughts on peptides.
+[1:35:42] So I'm just going to sit back
+and let you riff on peptides,
+[1:35:45] but if you could touch on some
+of the ones that I mentioned,
+[1:35:47] I'd be most grateful.
+[1:35:50] KYLE GILLETT: A
+peptide is just a chain
+[1:35:52] of amino acids between two and
+a couple hundred in length.
+[1:35:55] So I think of peptides as
+several different categories.
+[1:35:59] And the GHRPs that
+you mentioned,
+[1:36:02] I would consider those--
+[1:36:03] and that stands for Growth
+Hormone Releasing Peptide.
+[1:36:06] You have two main types--
+[1:36:08] the ghrelin agonist that
+are-- or they hit the ghrelin
+[1:36:13] receptor, and it helps release
+growth hormone because of that.
+[1:36:17] And then also the
+GHRH-like peptides.
+[1:36:21] So they're very similar to
+growth hormone releasing
+[1:36:24] hormone.
+[1:36:24] Often, they just change
+a couple amino acids,
+[1:36:27] and it acts like that.
+[1:36:29] Tesamorelin is one of them,
+sermorelin is another one,
+[1:36:32] and CJC is another common one.
+[1:36:36] I believe those are all in the
+class of GHRH-like peptides,
+[1:36:40] whereas ipamorelin or
+ibutamoren, which is also
+[1:36:43] known as MK-677, those two
+are in the class of ghrelin
+[1:36:48] agonist.
+[1:36:48] So they're more like
+they hit the receptor
+[1:36:50] that ghrelin does whereas
+the other ones hit the GHRH
+[1:36:54] receptor.
+[1:36:54] ANDREW HUBERMAN: I think of
+ghrelin as making me hungry.
+[1:36:56] KYLE GILLETT: Hungry and angry.
+[1:36:57] ANDREW HUBERMAN:
+Why would I want
+[1:36:59] to take something that would
+increase ghrelin signaling?
+[1:37:02] KYLE GILLETT: Some people
+are trying to gain weight.
+[1:37:04] It also does increase
+your growth hormone.
+[1:37:06] So if your growth hormone is
+very low, you can consider it.
+[1:37:09] Ibutamoren is a long-acting--
+so it has a long half life, also
+[1:37:13] known as MK-677.
+[1:37:14] It was well-- it
+was studied mostly
+[1:37:17] in growth hormone deficiency.
+[1:37:19] ANDREW HUBERMAN: And do
+these people get angry also?
+[1:37:22] KYLE GILLETT: They can.
+[1:37:23] Many people report a
+side effect of anxiety
+[1:37:27] or significant hunger.
+[1:37:29] Most people take
+it in the evening
+[1:37:31] so they don't notice
+that hunger as much.
+[1:37:33] It can also greatly
+increase your blood glucose.
+[1:37:36] So if you're insulin
+resistant or pre-diabetic,
+[1:37:38] it gets especially concerning.
+[1:37:40] ANDREW HUBERMAN: This is one of
+those rare moments where I hear
+[1:37:43] something and I think, even
+though there is this kit
+[1:37:48] of compounds that can
+increase GH and IGF-1,
+[1:37:50] based on everything
+you're telling me,
+[1:37:52] maybe just taking GH is the
+better option for those people,
+[1:37:56] because growth hormone,
+at least it's--
+[1:37:58] synthetic growth
+hormone is mimicking
+[1:37:59] an endogenous hormone.
+[1:38:01] I mean, certainly not taking
+anything might be the ideal.
+[1:38:04] But for those that want
+to increase growth hormone
+[1:38:06] and they want to
+use pharmacology
+[1:38:08] to do that, it sounds like these
+peptides are pretty precarious.
+[1:38:12] KYLE GILLETT: Yeah, it kind
+of depends on the situation.
+[1:38:14] If there's an individual
+that struggles with hunger
+[1:38:19] and not eating enough--
+[1:38:20] for example, someone who has
+a very small stomach or they
+[1:38:25] just have a very
+low hunger drive,
+[1:38:27] sometimes you want more of
+that orexigenic signaling.
+[1:38:31] The hypothalamus, you have
+anorexia signaling, which
+[1:38:34] is kind of like anorexia,
+and orexigenic signaling,
+[1:38:37] which is--
+[1:38:38] I call it the hangry
+center of the hypothalamus
+[1:38:42] or the hangry center.
+[1:38:43] And if there's an imbalance
+between those two, then
+[1:38:47] perhaps it'd be helpful.
+[1:38:49] Potentially theoretically
+helpful in anorexics, of which,
+[1:38:53] the incidence of anorexia in
+men is increasing significantly.
+[1:38:55] ANDREW HUBERMAN: As
+you're telling me this,
+[1:38:57] I'm remembering being
+14 or 15 years old,
+[1:38:59] and I would go into
+the kitchen sometimes,
+[1:39:02] and I was so hungry I would
+just obliterate all the food.
+[1:39:05] And I do remember being--
+[1:39:06] I've always been a
+pretty high energy guy,
+[1:39:08] but having an immense
+amount of energy.
+[1:39:10] I can't recall if it was
+a hangry feeling or not,
+[1:39:12] but I'm guessing that
+was growth hormone.
+[1:39:14] I grew one foot in a
+single academic year,
+[1:39:16] so I imagine that was at least
+in part due to growth hormone.
+[1:39:20] In any case, sermorelin
+is the peptide
+[1:39:23] that I hear most often about.
+[1:39:25] I admittedly tried a run of it.
+[1:39:27] I was researching
+a book, and decided
+[1:39:30] to take it before sleep
+on an empty stomach.
+[1:39:33] It gave me a tremendous
+depth of sleep,
+[1:39:37] but that sleep was
+really truncated,
+[1:39:39] which is just nerd speak for
+saying deep but short sleep.
+[1:39:42] I would wake up after
+very intense dreams.
+[1:39:44] I can't say that it helped
+me recover from exercise that
+[1:39:46] much.
+[1:39:47] I didn't notice any additional
+fat loss or anything.
+[1:39:50] Sort of abandoned it
+except for occasional use.
+[1:39:52] Again, this was
+prescribed by a doctor.
+[1:39:56] I'm starting to get the
+sense that these peptides
+[1:39:59] and their effects are somewhat
+vague, and distributed,
+[1:40:01] and highly individual.
+[1:40:02] Is that a fair way
+to describe them?
+[1:40:05] KYLE GILLETT: Part
+of the problem
+[1:40:07] with the effect of peptides
+is many people take them
+[1:40:10] and levels that are far
+above the physiologic range.
+[1:40:15] Even individuals who are
+checking their IGF-1 while they
+[1:40:18] take these different
+GHRPs, most of them
+[1:40:22] do not check the binding
+peptides-- for example,
+[1:40:25] IGF binding peptide 1, 2, or 3.
+[1:40:29] And their free IGF-1 level might
+be significantly different.
+[1:40:33] So common doses that people
+will take these off-label
+[1:40:38] for as a supplement
+are often much greater
+[1:40:42] than the therapeutic
+or physiologic range.
+[1:40:44] ANDREW HUBERMAN: Which, for
+me, just underscores the fact
+[1:40:47] that it's pretty precarious.
+[1:40:48] I mean, I'm not coming in
+here as the referee of what
+[1:40:50] anyone should or shouldn't do.
+[1:40:52] I'm just trying to gather
+and distribute information.
+[1:40:55] But I've heard, for instance,
+that some companies where
+[1:40:58] people can acquire these
+things without prescription,
+[1:41:00] those companies are not
+good at cleaning out
+[1:41:03] the lipopolysaccharide--
+the LPS--
+[1:41:06] which can cause an
+inflammatory response.
+[1:41:08] In other words, these
+are dirty compounds.
+[1:41:10] And that just sounds risky.
+[1:41:12] It just sounds--
+frankly, it just
+[1:41:15] sounds really dangerous to me.
+[1:41:16] KYLE GILLETT: LPS is a common
+additive in many companies
+[1:41:20] that are not
+pharmacies, but they're
+[1:41:23] selling things that people
+often use as human consumption.
+[1:41:26] One interesting note
+about lipopolysaccharide
+[1:41:29] is your gut microbiome actually
+makes a lot of it as well,
+[1:41:32] especially prevotella which
+is a specific species, that
+[1:41:36] can have to do with your
+baseline body temperature.
+[1:41:40] So your baseline
+body temperature
+[1:41:42] might also change depending
+on if you're on a peptide that
+[1:41:45] has LPS in it.
+[1:41:46] ANDREW HUBERMAN: Yikes,
+yikes, and yikes.
+[1:41:49] [CHUCKLES] But I tend to
+be pretty conservative
+[1:41:52] when it comes to taking
+anything exogenous.
+[1:41:54] But I do rely on many
+of the supplements
+[1:41:56] that we talked about earlier
+and I do try and optimize
+[1:41:58] the behavioral things
+and nutritional things
+[1:42:00] for a long time.
+[1:42:02] So then leaving
+peptides behind, we
+[1:42:07] are now I suppose in the
+territory of exogenous hormone.
+[1:42:10] So let's say that
+somebody decides
+[1:42:13] they're not concerned
+with fertility,
+[1:42:14] or they're going to bank sperm,
+or they already have kids,
+[1:42:17] or they're going to defer
+on this issue of wanting
+[1:42:19] to have kids, my
+understanding is
+[1:42:22] that nowadays, a lot of people
+are using testosterone--
+[1:42:24] let's not even
+call it replacement
+[1:42:26] therapy, because some of
+these people have 600, 700,
+[1:42:29] or even 800 nanogram
+per deciliter read.
+[1:42:32] So they're not replacing
+anything that is diminished.
+[1:42:34] They're just trying to
+augment what's already there--
+[1:42:37] increase what's already there.
+[1:42:38] My understanding is that taking
+a low dose more frequently
+[1:42:42] is going to be more beneficial
+than the kind of old school
+[1:42:45] way of giving 100 or
+even 200 milligrams
+[1:42:48] in a single injection
+once every two weeks.
+[1:42:50] Is that right?
+[1:42:50] And what do you do
+with your patients?
+[1:42:52] So let me give you
+a hypothetical.
+[1:42:53] Somebody comes into your office,
+they do their blood work,
+[1:42:57] and they have blood
+levels of, let's say,
+[1:43:01] 600 nanogram per
+deciliter testosterone.
+[1:43:03] Their estrogen is
+also in normal range.
+[1:43:06] Everything else checks
+out, but they're
+[1:43:08] complaining of slightly
+diminished libido, slightly
+[1:43:11] poor recovery from workouts,
+maybe reduced motivation
+[1:43:15] and drive, although
+no major depression.
+[1:43:17] And you come to the conclusion
+that testosterone therapy--
+[1:43:20] not replacement, but
+testosterone therapy
+[1:43:22] might be a good
+option to explore.
+[1:43:24] What's a typical dosage
+range and frequency
+[1:43:28] of administration range that
+you might consider exploring?
+[1:43:32] KYLE GILLETT: And some of
+this depends on the SHBG
+[1:43:34] and free testosterone as well.
+[1:43:36] So if that same individual had
+a very high SHBG which, again,
+[1:43:39] is the binding
+protein that binds up
+[1:43:40] the testosterone and all
+androgens and estrogens,
+[1:43:43] if it is extremely
+high and they have
+[1:43:45] a free testosterone
+of two, then they
+[1:43:48] might need a different
+dose because they
+[1:43:50] need enough
+testosterone in order
+[1:43:52] to have a normal eugonadal
+free testosterone.
+[1:43:57] But a general normal dosing
+range, especially for someone
+[1:44:01] starting, is around
+100 to 120 milligrams
+[1:44:04] divided over the course
+of a week, usually
+[1:44:08] either every other day or three
+times a week-- occasionally,
+[1:44:11] twice a week.
+[1:44:12] Many people with
+SHBG a bit higher
+[1:44:15] can get away pretty
+easily with twice a week.
+[1:44:17] This is assuming that the ester
+is cypionate or enanthate.
+[1:44:20] ANDREW HUBERMAN: So two
+60 milligram injections
+[1:44:23] of testosterone
+cypionate per week.
+[1:44:24] KYLE GILLETT: Yeah,
+very common dosing.
+[1:44:26] ANDREW HUBERMAN: To hit
+that 120 milligrams per week
+[1:44:28] is kind of the typical average.
+[1:44:29] KYLE GILLETT: Correct.
+[1:44:30] And I would consider this like
+a physiologic eugonadal dose.
+[1:44:34] For many people, even
+200 milligrams a week
+[1:44:37] is far above the
+reference range.
+[1:44:39] All of this is said
+with the caveat
+[1:44:41] that testosterone is normally
+released in a pulsatile manner.
+[1:44:45] So it's high in the
+morning, low in the evening.
+[1:44:47] Whereas if you're on
+testosterone therapy,
+[1:44:51] then you're going to
+have a steady state.
+[1:44:54] So your testosterone
+level is going
+[1:44:56] to be pretty much the
+same even in the evening.
+[1:44:59] ANDREW HUBERMAN: And
+in your experience,
+[1:45:01] when patients do
+that, I'm guessing
+[1:45:03] they report that
+normal constellation
+[1:45:05] of positive effects--
+[1:45:06] improved mood, improved energy,
+improve sleep, recovery,
+[1:45:09] et cetera.
+[1:45:10] What are some of the
+hazards or things that
+[1:45:13] can crop up in bloodwork
+or just subjectively
+[1:45:16] that can be warning signs
+that even a dosage of 120
+[1:45:19] milligrams divided into these
+two or three dosages per week
+[1:45:22] is too high?
+[1:45:24] KYLE GILLETT: Every
+organ system in the body.
+[1:45:26] So this is when you
+really have to be
+[1:45:29] at least well-versed in
+every organ system, not just
+[1:45:33] the gonadal genital system.
+[1:45:37] You need to have
+dermatology prowess.
+[1:45:41] Acne is very common change.
+[1:45:44] Lots of different skin
+pathologies or even bruising
+[1:45:47] can be related to
+hormone replacement.
+[1:45:49] Hair loss is very
+common to see as well.
+[1:45:52] Mental status changes.
+[1:45:54] It could occasionally
+even induce
+[1:45:56] as a manic or a bipolar episode
+because testosterone is also
+[1:45:59] dopaminergic.
+[1:46:01] And then a cardiovascularly
+not just in the heart,
+[1:46:04] but also concerns for like
+microvascular ischemic disease.
+[1:46:07] Ferritin buildup because
+the estrogen also increases.
+[1:46:11] And then fertility concerns as
+well and lipid concerns too.
+[1:46:15] So you really have to be
+hematologist, dermatologist,
+[1:46:18] cardiologist, lipidologist,
+the whole 9 yards.
+[1:46:23] ANDREW HUBERMAN:
+So another reason--
+[1:46:25] or set of reasons
+rather to, if one
+[1:46:29] is considering using
+testosterone therapy,
+[1:46:31] to really do this in
+close communication
+[1:46:33] with a really good
+physician because that's
+[1:46:36] a lot to monitor.
+[1:46:36] Knowing whether or not you
+have acne or not is one thing,
+[1:46:39] but knowing whether or
+not your LDL is going up,
+[1:46:41] your ApoB is going up,
+that's a whole other biz
+[1:46:43] and that needs to be
+done through bloodwork
+[1:46:44] is what I'm hearing.
+[1:46:45] KYLE GILLETT: Correct.
+[1:46:46] And if your physician that
+is managing or prescribing
+[1:46:50] your testosterone
+therapy or your HRT
+[1:46:53] is not well-versed
+in these systems,
+[1:46:56] you would want him
+or her to be part
+[1:46:57] of an interdisciplinary
+team where
+[1:46:59] they have other experts that
+can monitor those systems.
+[1:47:03] ANDREW HUBERMAN: I
+skipped over a sort
+[1:47:04] of still intermediate set of
+things-- prescription drugs--
+[1:47:08] but maybe talking
+about testosterone
+[1:47:10] first was a bit of
+a mistake on my part
+[1:47:12] because I'm aware that
+there are-- actually,
+[1:47:14] I think there are companies,
+but certainly groups out there
+[1:47:17] that say, no, wait-- don't
+go straight from nothing
+[1:47:20] to supplements to testosterone.
+[1:47:22] Once you're doing
+behaviors and optimizing
+[1:47:24] nutrition supplements--
+[1:47:26] let's forget peptides--
+instead of going straight
+[1:47:28] to testosterone therapy, one
+idea that many people are
+[1:47:32] pursuing is to take the
+prescription drugs that trigger
+[1:47:36] luteinizing hormones--
+so taking hCG--
+[1:47:39] human chorionic gonadotropin,
+which my understanding is
+[1:47:43] will increase testosterone,
+but also estrogen.
+[1:47:45] Or they'll take things
+like clomiphene.
+[1:47:47] In fact, I think there are a
+bunch of companies out there
+[1:47:49] now that are saying don't take
+testosterone-- it shuts down
+[1:47:52] spermatogenesis, it shuts
+down testosterone production--
+[1:47:55] clomiphene is the way to go.
+[1:47:57] Maybe you could educate us
+about the hCG monotherapy,
+[1:48:01] I think it's called, where
+you're just mono-- one--
+[1:48:03] just taking hCG and
+clomiphene as a--
+[1:48:07] and/or clomiphene as a tool
+to ratchet up hormones.
+[1:48:12] KYLE GILLETT: So a
+quick points on hCG--
+[1:48:14] human chorionic
+gonadotropin-- made
+[1:48:16] during especially the first
+trimester of pregnancy,
+[1:48:19] it has effects other than
+binding to the LH receptor.
+[1:48:22] It also binds to the TSH
+receptor in the thyroid.
+[1:48:25] ANDREW HUBERMAN: So it's
+thyroid stimulating hormone?
+[1:48:28] KYLE GILLETT: Yes.
+[1:48:28] In fact, if you look at a
+molecule of hCG and thyroid
+[1:48:32] stimulating hormone, they
+are extremely similar.
+[1:48:35] However, you need a
+relatively high dose of hCG
+[1:48:38] to bind to the TSH receptor.
+[1:48:40] This is the normal
+mechanism in pregnancy
+[1:48:42] that accounts for the increased
+need of thyroid hormone--
+[1:48:46] usually, about 30% to 40%.
+[1:48:48] So that's why if someone
+has hypothyroidism,
+[1:48:50] you increase their
+dose of thyroid,
+[1:48:52] because the hCG is not going
+to be doing it for you.
+[1:48:55] The Clomid, or clomiphene,
+there's two main--
+[1:49:00] I believe it's diastereomers.
+[1:49:02] And one of them is
+enclomiphene and one of them
+[1:49:04] is zuclomiphene.
+[1:49:06] And these two work
+slightly differently.
+[1:49:08] Enclomiphene, I believe,
+has a faster half life
+[1:49:12] and it is potentially
+slightly better tolerated.
+[1:49:16] However, they were studying it--
+[1:49:19] Clomid is a very
+commonly prescribed drug,
+[1:49:21] and obviously, there is plenty
+of enclomiphene in Clomid.
+[1:49:26] However, the drug which
+was Andrew androxal--
+[1:49:29] A-N-D-R-O-X-A-L-- did not go
+all the way through the FDA
+[1:49:33] approval process despite
+Clomid being FDA approved.
+[1:49:35] ANDREW HUBERMAN:
+So there's Clomid
+[1:49:37] which contains clomiphene,
+but there are also--
+[1:49:40] because we're talking about
+male hormone optimization
+[1:49:42] this episode-- there
+are males out there
+[1:49:45] who want to increase their
+testosterone and other
+[1:49:48] hormones-- maybe growth hormone,
+et cetera-- who opt to not take
+[1:49:52] exogenous testosterone-- so
+no cream, no pellet, no pill,
+[1:49:56] no injectable cypionate--
+but decide to take clomiphene
+[1:50:00] a couple of times a week.
+[1:50:03] My understanding--
+I've never done this.
+[1:50:04] I would say if I had.
+[1:50:05] My understanding is
+that taking clomiphene--
+[1:50:09] maybe two 50 milligram
+tablets a week
+[1:50:11] is what I hear
+people are doing--
+[1:50:13] will increase what--
+luteinizing hormone,
+[1:50:17] the various estrogen
+receptor subunits?
+[1:50:19] Could you explain how
+clomiphene would benefit anyone,
+[1:50:22] and is this a good strategy?
+[1:50:23] I'm hearing that it's
+being done quite a lot now.
+[1:50:26] KYLE GILLETT: It will
+increase testosterone
+[1:50:28] in a dose dependent
+manner, but it
+[1:50:30] has many other
+pharmacodynamic effects, which
+[1:50:32] is the effect of
+the drug on the body
+[1:50:34] other than its effect on the
+hypothalamus and the pituitary.
+[1:50:38] So in the hypothalamus
+and the pituitary,
+[1:50:40] it does what's called negative
+feedback inhibition or it
+[1:50:46] blocks the action of estrogen.
+So it crowds out estrogen
+[1:50:50] from the estrogen receptor
+on the hypothalamus
+[1:50:53] and the pituitary.
+[1:50:54] ANDREW HUBERMAN: And what's
+this objective effect
+[1:50:56] that would cause?
+[1:50:57] So to my understanding
+and experience of estrogen
+[1:51:00] is that if I ever
+took-- and I did
+[1:51:02] take a very low dose of an
+aromatase inhibitor once
+[1:51:04] and I felt terrible.
+[1:51:05] Actually reduced libido,
+joints felt achy.
+[1:51:09] That's when I discovered that,
+wow, estrogen is actually
+[1:51:11] really important for your brain
+function, for joint function,
+[1:51:14] and for libido.
+[1:51:16] And suppressing
+estrogen, for me, it just
+[1:51:18] turned out to be the wrong idea.
+[1:51:19] But my levels indicate that
+it's within reference range.
+[1:51:23] So why would I want
+to take something
+[1:51:26] that would increase the activity
+of an estrogen receptor?
+[1:51:30] I just can't find the
+rationale for that.
+[1:51:32] KYLE GILLETT: The main
+rationale behind taking
+[1:51:35] a serm is as a very
+temporary measure that is not
+[1:51:39] going to suppress pituitary
+or hypothalamic function
+[1:51:43] if your testosterone is just
+so drastically low that it
+[1:51:47] is unlikely to recover anyway.
+[1:51:50] So most of the time it
+is not clinically useful,
+[1:51:53] and serm should
+not be prescribed
+[1:51:56] very often, certainly not
+as long term testosterone
+[1:52:00] replacement or testosterone
+optimization in most
+[1:52:03] individuals.
+[1:52:04] There's always
+exceptions to everything.
+[1:52:06] But there's five
+different estrogen
+[1:52:10] and estrogen-related receptors.
+[1:52:12] There's two main
+estrogen receptors.
+[1:52:14] And clomid and every serm
+has a very unique profile
+[1:52:19] because they selectively inhibit
+some receptors in some tissues,
+[1:52:23] but not other receptors
+in other tissues.
+[1:52:25] For example, Clomid can inhibit
+receptors that are in the eye,
+[1:52:29] and it can cause visual changes,
+blurry vision, especially
+[1:52:35] at higher doses.
+[1:52:37] And it also acts in every
+other tissue of the body.
+[1:52:40] So a side effects from Clomid
+and other selective estrogen
+[1:52:44] receptor modifiers
+are very common.
+[1:52:48] ANDREW HUBERMAN:
+So I'm at least--
+[1:52:49] by my mind, I'm going to
+pool them with peptides
+[1:52:52] and say it sounds precarious
+and probably not ideal
+[1:52:55] for most people.
+[1:52:56] Going back to testosterone
+therapy then-- and notice,
+[1:52:59] folks, I've deleted
+the replacement part
+[1:53:01] because I think so many people
+are using testosterone therapy
+[1:53:05] without the need to-- the
+sort of reference range
+[1:53:09] need to replace
+anything, but rather are
+[1:53:13] building on what they already
+have for purposes of increasing
+[1:53:15] vitality, et cetera.
+[1:53:17] Going back to that,
+my understanding
+[1:53:19] is that taking hCG
+several times per week
+[1:53:23] can help maintain
+spermatogenesis and fertility
+[1:53:25] even while people
+are on testosterone.
+[1:53:27] But-- and you and I were
+talking about this earlier--
+[1:53:29] that there's
+tremendous variation.
+[1:53:30] Some people will take a
+small amount testosterone
+[1:53:33] and just crush
+their sperm count.
+[1:53:35] They just won't make
+any viable sperm.
+[1:53:37] Other people can maintain
+viable sperm production
+[1:53:39] while on testosterone,
+especially
+[1:53:41] if they're taking hCG.
+[1:53:43] Is that right?
+[1:53:44] KYLE GILLETT: Correct.
+[1:53:44] And there's many
+reasons for this.
+[1:53:46] Some of this has to do with
+heat damage to the testes,
+[1:53:49] so potentially cold therapy
+could be helpful for that.
+[1:53:52] And--
+[1:53:53] ANDREW HUBERMAN: Ice
+baths, cold showers?
+[1:53:54] KYLE GILLETT: Mhm.
+[1:53:55] ANDREW HUBERMAN:
+Yeah, or just avoid--
+[1:53:56] and certainly avoiding--
+[1:53:57] KYLE GILLETT: Mostly
+avoiding heat.
+[1:53:58] ANDREW HUBERMAN:
+--sauna and hot tub.
+[1:53:58] Yeah.
+[1:53:59] KYLE GILLETT: Stopping
+the daily hot tub
+[1:54:01] can restore fertility
+in many people.
+[1:54:03] ANDREW HUBERMAN: I
+know a number of people
+[1:54:05] that are trying to
+conceive children that
+[1:54:07] go into the sauna,
+and they'll just
+[1:54:09] put a cold pack in their shorts
+or between their legs depending
+[1:54:12] on whether or not they're
+wearing shorts or not
+[1:54:14] when they go in.
+[1:54:15] Or they'll alternate
+ice and heat
+[1:54:16] in a way that maintains
+coolness of the milieu
+[1:54:22] in which the sperm live.
+[1:54:24] In other words, they're cooling
+their scrotum deliberately
+[1:54:28] in order to avoid
+killing the sperm.
+[1:54:30] Actually, I saw an
+interesting paper
+[1:54:32] that said that for every two
+degree increase in temperature
+[1:54:38] of the scrotum, there's a 20%
+decrease in spermatogenesis
+[1:54:42] and viability of sperm.
+[1:54:44] And that actually, if you
+look at the difference
+[1:54:46] between people who
+stand a lot, sit a lot,
+[1:54:49] and drive a lot, what you see is
+a progressive decrease in sperm
+[1:54:52] count because when
+people are sitting,
+[1:54:54] there's an increase
+in temperature,
+[1:54:55] and then when they're sitting
+on the hot seat of the car,
+[1:54:57] there's an-- or using
+the heated seats,
+[1:55:00] actually, it kills sperm.
+[1:55:01] I think there are
+good data on that.
+[1:55:03] KYLE GILLETT: Yeah,
+excellent data,
+[1:55:04] and anecdotally,
+you see it as well.
+[1:55:06] I've had several patients come
+in for fertility consultations.
+[1:55:10] And all we do is like, no
+medications, no supplements.
+[1:55:14] We change their--
+several lifestyle things.
+[1:55:18] Very tight fitting
+clothing is another one.
+[1:55:20] And soon, they have fertility
+again and they're no longer--
+[1:55:25] they have sperm whereas
+before, they did not.
+[1:55:28] ANDREW HUBERMAN: Interesting.
+[1:55:30] I'd like to talk about some
+of the do's and don'ts, but we
+[1:55:33] have talked about a lot of
+do's-- things that one can do
+[1:55:36] to optimize hormones.
+[1:55:37] Maybe we could just do sort
+of more rapid fire Q&A on some
+[1:55:41] of the don'ts and maybe throw
+in some science where you feel
+[1:55:45] it's appropriate.
+[1:55:47] Cannabis, marijuana,
+THC-- yes or no--
+[1:55:51] it diminishes
+testosterone levels?
+[1:55:55] KYLE GILLETT: Smoked
+cannabis, I would say,
+[1:55:57] diminishes testosterone,
+increases prolactin.
+[1:56:00] That's a no.
+[1:56:01] Other cannabinoids, not
+particularly harmful.
+[1:56:04] ANDREW HUBERMAN: So CBD?
+[1:56:06] KYLE GILLETT: CBD, not
+particularly harmful.
+[1:56:08] Smoked CBD, I'm not sure.
+[1:56:11] ANDREW HUBERMAN: What about
+edible cannabis and THC?
+[1:56:14] KYLE GILLETT: As far as I
+know, edible cannabis and THC
+[1:56:17] does not significantly
+increase prolactin to a point
+[1:56:20] where it would be
+disruptive of hormones.
+[1:56:23] ANDREW HUBERMAN: Can
+marijuana, THC, cannabis,
+[1:56:26] whatever you want to call
+it, increase gynecomastia--
+[1:56:28] the growth of male
+breast tissue?
+[1:56:29] KYLE GILLETT: Yes,
+it certainly can,
+[1:56:31] and there's a pretty good
+association between smoked THC
+[1:56:35] and gynecomastia.
+[1:56:37] ANDREW HUBERMAN: What about
+nicotine and testosterone
+[1:56:40] and estrogen and other
+hormones-- smoked nicotine?
+[1:56:44] KYLE GILLETT: Nicotine
+is particularly
+[1:56:46] concerning not only for
+testosterone, but also
+[1:56:48] for estrogen. Part of it is, if
+you're talking about nicotine
+[1:56:51] from tobacco, there's many
+other carcinogens in it,
+[1:56:53] especially if it's smoked.
+[1:56:55] But nicotine, even
+if it is chewed
+[1:56:57] in a dose dependent manner--
+[1:56:59] so if you can use an extremely
+small amount of nicotine,
+[1:57:02] then it's not as
+concerning in the long run.
+[1:57:05] But it's a
+vasoconstrictor, and one
+[1:57:07] of the main concerns with it
+would be cardiovascular disease
+[1:57:11] or even microvascular
+ischemic disease that
+[1:57:16] can lead to
+neurodegenerative disease,
+[1:57:18] so like a type of dementia that
+can be partly due to nicotine.
+[1:57:22] If you use nicotine for a
+very long period of time,
+[1:57:25] especially at a
+higher dose, it's
+[1:57:28] a dose-dependent effect
+on your hormone profile.
+[1:57:32] ANDREW HUBERMAN: Is that
+also true for Nicorette
+[1:57:34] and other nicotine gums?
+[1:57:36] KYLE GILLETT: At
+high doses, if you
+[1:57:38] can use an extremely low
+dose of a nicotine gum,
+[1:57:42] then theoretically, that
+would be maintainable.
+[1:57:46] It's not going to overload
+the nicotinic receptor.
+[1:57:50] You have acetylcholine
+and the cholinergic system
+[1:57:53] is one of your main
+nervous systems, of course.
+[1:57:56] And you have
+muscarinic receptors
+[1:57:57] and nicotinic receptors,
+and there's just
+[1:58:00] better ways to optimize your
+nicotinic receptor activity.
+[1:58:04] For example,
+acetylcholine precursors
+[1:58:06] like alpha GPC,
+phosphatidylserine,
+[1:58:09] phosphatidylcholine.
+[1:58:11] Weak acetylcholinesterase
+inhibitors,
+[1:58:13] especially natural
+ones, potentially
+[1:58:14] have a part as well.
+[1:58:17] And then other alkaloids.
+[1:58:18] So nicotine is an alkaloid
+from the tobacco plant.
+[1:58:21] There are other
+plants like cytosine
+[1:58:24] and that genus of plants,
+and that alkaloid is also
+[1:58:28] a nicotine receptor agonist.
+[1:58:33] ANDREW HUBERMAN: Is it true
+that cycling for too long--
+[1:58:36] literally, bicycling-- sitting
+on a bike seat too long
+[1:58:39] can damage the prostate?
+[1:58:41] KYLE GILLETT: Yes, it
+can be very concerning,
+[1:58:43] especially if you're seated
+while cycling, especially
+[1:58:46] if you're putting a lot of
+pressure on the perineum.
+[1:58:49] Your core is kind
+of like a box where
+[1:58:52] your diaphragm sort of makes the
+top and your abs and serratus
+[1:58:56] make the front and the sides.
+[1:58:58] Your back muscles make the
+back, and then your pelvic floor
+[1:59:01] makes the bottom
+of the box, which
+[1:59:03] is arguably the most
+important part of your core.
+[1:59:06] And that pressure
+can weaken and even
+[1:59:09] lead to incontinence
+and impotence.
+[1:59:12] ANDREW HUBERMAN: So we
+were talking earlier today
+[1:59:14] in the gym about how
+heavy legwork, hack
+[1:59:18] squats, deadlifts, those
+kinds of things a lot of guys
+[1:59:20] are doing to increase their
+testosterone, done correctly,
+[1:59:24] can actually
+augment and build up
+[1:59:26] the strength of
+the pelvic floor.
+[1:59:27] Done incorrectly, can actually
+weaken the pelvic floor
+[1:59:30] and lead to all sorts of issues,
+including sexual effects--
+[1:59:32] negative sexual effects.
+[1:59:34] So how does one go about
+learning whether or not
+[1:59:37] their movements are
+being done properly
+[1:59:39] to support pelvic floor or
+to destruct pelvic floor?
+[1:59:45] KYLE GILLETT: The pelvic
+floor is a constellation
+[1:59:47] of muscles just
+like any other kind
+[1:59:48] of like system in the body.
+[1:59:50] And form is important.
+[1:59:54] If you're doing the valsalva
+maneuver, which again,
+[1:59:57] is that bearing down or deep
+breath where you feel all
+[2:00:02] of your abs are
+tight, you can also
+[2:00:04] notice that your pelvic
+floor is tight as well.
+[2:00:07] If you have a history of
+an inguinal hernia, which
+[2:00:10] is a hole kind of like
+connecting the abdominal cavity
+[2:00:13] down through the
+pelvic floor or even
+[2:00:15] the scrotum in some
+cases-- and that
+[2:00:17] can be a sign that there
+is weakness in that area,
+[2:00:21] and you might have
+to concentrate it
+[2:00:23] on it most, or even
+have a physiotherapist
+[2:00:25] or a physical
+therapist specifically
+[2:00:28] target the pelvic floor.
+[2:00:29] Many exercises in which
+you valsalva or use
+[2:00:33] your glutes or
+legs, you can learn
+[2:00:36] to squeeze them and have that
+mind-muscle connection in order
+[2:00:39] to help build up
+the pelvic floor.
+[2:00:41] And there's other things.
+[2:00:42] Many people are
+familiar with kegels.
+[2:00:44] That is just one of the
+many different exercises
+[2:00:47] that can help your pelvic floor.
+[2:00:49] ANDREW HUBERMAN:
+My understanding
+[2:00:49] is that while strengthening
+the pelvic floor is good,
+[2:00:52] excessive contraction
+of the pelvic floor
+[2:00:53] can actually limit blood flow
+to the pelvic area, the penis,
+[2:00:56] and so forth.
+[2:00:57] So this is, again, a
+double-edged sword.
+[2:00:59] I mean, you don't
+want guys out there
+[2:01:01] to just start doing endless
+number of kegels every day
+[2:01:03] because they're actually
+going to constrict
+[2:01:05] blood flow to that area.
+[2:01:06] There's-- and in fact,
+the erection response is
+[2:01:10] parasympathetic.
+[2:01:11] It's a relaxed induced
+response, right?
+[2:01:13] KYLE GILLETT: Correct.
+[2:01:14] ANDREW HUBERMAN: So for the--
+the reason I chuckle is that
+[2:01:17] for--
+[2:01:18] because we're
+talking about things,
+[2:01:19] we don't have visuals or
+charts, and certainly, it's
+[2:01:22] hard to know whether or not
+a given exercise like kegels
+[2:01:25] are going to be
+good or not good.
+[2:01:28] If it's excessive, what--
+[2:01:29] how many sets and reps
+does it take before it
+[2:01:32] goes from good to bad.
+[2:01:34] Is there a kind of
+general rule of thumb
+[2:01:35] for people to think about this?
+[2:01:37] I mean, clearly blood
+flow to that area
+[2:01:39] is key for sexual performance.
+[2:01:42] And yet when one trains
+the legs or even walks,
+[2:01:45] you're getting blood flow.
+[2:01:46] So my understanding is this
+that a combination of weight
+[2:01:50] training to stimulate
+the positive hormonal,
+[2:01:52] and muscular, and
+connective tissue growth
+[2:01:55] is key provided it's
+not overtraining,
+[2:01:58] but so is casual exercise
+like walking, and stretching,
+[2:02:02] and the sorts of
+things that will then
+[2:02:03] return blood flow to that area.
+[2:02:05] Is that an overly basic
+way to think about it
+[2:02:08] or will that suffice?
+[2:02:09] KYLE GILLETT: I think that's
+a good way to think about it.
+[2:02:12] I think the main
+point with kegels
+[2:02:13] is they're just one of
+many different things.
+[2:02:17] So if you're having some
+pelvic floor pathology
+[2:02:19] certainly or even just concerned
+about your pelvic floor,
+[2:02:22] don't just take the advice
+do kegels and you'll be OK.
+[2:02:27] That is not near enough.
+[2:02:28] It's just one of
+the many aspects.
+[2:02:31] ANDREW HUBERMAN: So going
+back to the rapid Q&A,
+[2:02:33] and then we'll come back
+to this issue of blood flow
+[2:02:35] because there's some interesting
+science and protocols there--
+[2:02:37] the question I have
+is, alcohol, does it
+[2:02:40] increase aromatase, the enzyme
+that converts testosterone
+[2:02:44] into estrogen or not?
+[2:02:45] And is there a dose
+dependence there?
+[2:02:48] KYLE GILLETT: It
+significantly does.
+[2:02:49] There is a dose dependence.
+[2:02:51] In general, I would not
+recommend more than three
+[2:02:55] to four standard drinks.
+[2:02:59] One huge glass of wine is
+probably five standard drinks.
+[2:03:02] But I'd say every two weeks.
+[2:03:06] ANDREW HUBERMAN: Yeah,
+that's consistent with what
+[2:03:09] I discovered researching
+alcohol in an episode we
+[2:03:11] did on alcohol.
+[2:03:12] That no alcohol is definitely
+better for all aspects
+[2:03:16] of health than any alcohol.
+[2:03:17] And anyone that says that,
+well, red wine contains
+[2:03:19] these various things,
+well, it doesn't
+[2:03:21] contain enough of
+those positive things
+[2:03:23] to have a positive effect.
+[2:03:24] But that if people do
+opt to drink alcohol,
+[2:03:27] that two drinks per week--
+[2:03:29] and meaning 20 grams of alcohol,
+so that's probably two 12 ounce
+[2:03:34] beers or two 4 ounce
+glasses of wine--
+[2:03:37] is going to be the upper
+limit beyond which you're
+[2:03:39] going to start seeing all
+sorts of negative effects.
+[2:03:42] KYLE GILLETT: The other thing to
+keep in mind with alcohol is it
+[2:03:43] has a lot of calories--
+seven kilocalories
+[2:03:46] per gram, almost as
+much as fat, which is 9.
+[2:03:49] And then it's also
+very GABAergic,
+[2:03:51] so it can activate
+inhibitory neurotransmission,
+[2:03:55] and that can also affect how
+much LH and FSH is released.
+[2:04:02] So that can also
+decrease testosterone
+[2:04:04] almost kind of
+similar to how opiates
+[2:04:08] can decrease testosterone.
+[2:04:10] ANDREW HUBERMAN: And I feel
+very lucky that I don't enjoy
+[2:04:13] alcohol-- never really did.
+[2:04:14] I can kind of take
+it or leave it.
+[2:04:16] I certainly don't like sedatives
+like Valium or anything
+[2:04:18] like that, which, as
+you just mentioned,
+[2:04:20] can suppress testosterone.
+[2:04:22] You said the word fat, so
+I'm going to pick up on that
+[2:04:26] and say, in order to
+optimize hormone production,
+[2:04:29] is it important to have some
+saturated fat in one's diet?
+[2:04:33] And what happens on very low
+fat diets to testosterone,
+[2:04:36] and estrogen, and
+other steroid hormones?
+[2:04:39] KYLE GILLETT: Fat is
+interesting because there are so
+[2:04:42] many different beneficial fats.
+[2:04:44] Omega 3s-- almost every American
+gets plenty of omega 6s--
+[2:04:48] in any developed country really.
+[2:04:50] When it comes to
+saturated fat, there
+[2:04:53] is more of a correlation
+with hormone optimisation.
+[2:04:56] If you're eating things
+with saturated fat,
+[2:04:58] you tend to have--
+[2:05:00] those are things with more fat
+soluble vitamins and things
+[2:05:03] that are very nutrient
+dense otherwise.
+[2:05:06] But it is not vital.
+[2:05:07] In general, you want to
+eliminate any trans fat
+[2:05:11] unless it's trans fat
+from the ruminants.
+[2:05:13] There's always an
+exception to everything.
+[2:05:15] So there are healthy
+trans omega 3 fats, which
+[2:05:18] are formed in the
+stomach of grass fed
+[2:05:20] and finished ruminants.
+[2:05:23] ANDREW HUBERMAN: But
+ingesting mostly olive oils,
+[2:05:26] maybe nut butters in limited
+amounts because they're
+[2:05:29] very calorie dense, but--
+[2:05:31] unless people are trying
+to increase their calories,
+[2:05:33] in which case,
+they're a great source
+[2:05:34] of calories, small amounts
+of butter, ghee, probably OK,
+[2:05:39] but not excessive amounts?
+[2:05:40] Is that the idea?
+[2:05:40] KYLE GILLETT: Yes.
+[2:05:41] Fat is perfectly fine.
+[2:05:43] Cholesterol has an interesting--
+so cholesterol and, in general,
+[2:05:47] phospholipids make the bilayer
+that's around the cell.
+[2:05:51] But cholesterol is also a
+hormone in and of itself
+[2:05:54] because it binds to the
+estrogen-related receptor
+[2:05:58] alpha.
+[2:05:58] So I consider that like in the
+estrogen receptor category,
+[2:06:01] and that can help
+with metabolism,
+[2:06:03] but also potentially
+have concerns
+[2:06:05] for cancer and tumor risk.
+[2:06:08] ANDREW HUBERMAN: I want
+to go back to the prostate
+[2:06:10] and talk to you about
+something that's
+[2:06:12] kind of a newer emerging trend.
+[2:06:14] I know that you've talked
+a little bit about this
+[2:06:16] in previous podcasts, that a
+number of men-- or I should say
+[2:06:20] a number of physicians
+are prescribing
+[2:06:23] low dose tadalafil,
+also known as Cialis,
+[2:06:26] to their male patients.
+[2:06:28] So in dosage ranges of like
+2.5 milligrams to 5 milligrams
+[2:06:31] per day, but not for
+erectile dysfunction,
+[2:06:33] but rather for improving
+prostate health.
+[2:06:36] And presumably, they get sort of
+a boost in terms of blood flow
+[2:06:39] to the genitalia as well.
+[2:06:41] But again, not specifically to
+deal with erectile dysfunction,
+[2:06:45] but to deal with prostate health
+and blood flow to the prostate.
+[2:06:49] Is that something
+that you sometimes--
+[2:06:50] often prescribe to your
+patients, and of what age?
+[2:06:54] KYLE GILLETT: Tadalafil is a
+very underrated medication.
+[2:06:57] The age would kind of
+depend on the indication.
+[2:07:00] So tadalafil is also a
+blood pressure medication.
+[2:07:04] It can very slightly
+decrease blood pressure,
+[2:07:06] especially at higher doses.
+[2:07:08] At higher doses, it--
+[2:07:10] a high dose would be 20
+milligrams, not 2.5 milligrams.
+[2:07:14] But consistently,
+it can somewhat
+[2:07:16] affect with the cones
+in the eye that have
+[2:07:19] to do with red and green sight.
+[2:07:20] Although, if you remove it,
+that effect is reversed.
+[2:07:23] So basically, if you don't need
+really, really good red/green
+[2:07:26] discrimination, you
+can take higher doses.
+[2:07:28] But in general, I
+recommend no higher
+[2:07:30] than 10 milligrams
+a day-- usually just
+[2:07:32] two or 5 milligrams.
+[2:07:35] One other benefit or
+other use of tadalafil
+[2:07:39] is that it increases the
+density of the androgen receptor
+[2:07:42] similarly to l-carnitine.
+[2:07:45] So that's an
+interesting benefit.
+[2:07:47] Another benefit is
+that if you give it
+[2:07:49] to people with
+nocturia, which is
+[2:07:51] urinating at night
+in general, it
+[2:07:53] will cut the episodes in half.
+[2:07:54] So it could go
+from 2 to 1, which
+[2:07:57] can make a big difference
+for your sleep, which
+[2:07:59] will secondarily make a big
+difference for your growth
+[2:08:01] hormone and testosterone
+optimization.
+[2:08:03] ANDREW HUBERMAN: Interesting.
+[2:08:04] So you said 2.5 to
+5 milligrams per day
+[2:08:06] is typical for these
+prostate enhancing effects.
+[2:08:09] KYLE GILLETT: Yes.
+[2:08:10] ANDREW HUBERMAN: And you
+mentioned the potential side
+[2:08:12] effects on adjusting
+visual perception.
+[2:08:14] As a vision scientist,
+that rings in my mind.
+[2:08:17] But in terms of red/green
+color discrimination,
+[2:08:20] I'm guessing unless
+you're going to be
+[2:08:21] a subject in one of the
+experiments in my lab
+[2:08:24] or you want to be
+a fighter pilot,
+[2:08:25] chances are you can
+probably get away
+[2:08:27] with a little less red/green
+color discrimination.
+[2:08:29] KYLE GILLETT: Correct.
+[2:08:30] It's not considered
+clinically significant
+[2:08:32] unless someone is
+a commercial pilot.
+[2:08:34] ANDREW HUBERMAN: Great.
+[2:08:35] KYLE GILLETT: So if someone's
+getting their pilot exam,
+[2:08:37] that's one of the
+things we look for.
+[2:08:39] ANDREW HUBERMAN: So
+commercial pilots aside,
+[2:08:41] you might want to ask
+your doctor about low dose
+[2:08:43] tadalafil for sake of
+enhancing prostate health.
+[2:08:46] Certainly monitoring PSA
+prostate specific antigen
+[2:08:49] is important.
+[2:08:49] I can give an anecdote there.
+[2:08:52] When I tried sermorelin, one
+of the surprising side effects
+[2:08:55] that was not welcome
+was a dramatic spike
+[2:08:59] in my prostate specific
+antigen. No one
+[2:09:01] could explain to me
+why that would happen,
+[2:09:04] but when I stopped
+taking sermorelin,
+[2:09:06] it went back to normal.
+[2:09:07] So that's one reason I
+avoid sermorelin, at least,
+[2:09:09] frequent use of sermorelin.
+[2:09:11] PSA should be kept--
+what-- below levels
+[2:09:14] of somewhere between 1 and
+4 is considered healthy?
+[2:09:17] Is that right?
+[2:09:17] KYLE GILLETT: It
+depends on the age.
+[2:09:19] If there's a 20-year-old,
+likely between 0 and 1.
+[2:09:22] If there's a 40-year-old,
+likely between 1 and 3.
+[2:09:26] And then if there's
+an 80-year-old,
+[2:09:28] it would not be abnormal
+to have a PSA of 5
+[2:09:31] and have that be well
+within the reference range.
+[2:09:34] Another thing we should
+mention about PSA
+[2:09:35] is if you do take a
+5-alpha reductase inhibitor
+[2:09:38] like finasteride or
+dutasteride, often
+[2:09:41] these will cut your PSA in half.
+[2:09:44] So if you-- for example,
+if you have a PSA of 6
+[2:09:47] and you start finasteride
+or dutasteride,
+[2:09:50] and then you recheck it in
+six months and it's 6.5,
+[2:09:53] that is a huge concern, because
+that's actually doubled.
+[2:09:56] ANDREW HUBERMAN: I'm glad
+you brought this up because I
+[2:09:59] almost overlooked
+the fact that I
+[2:10:00] get a lot of questions about
+drugs to offset hair loss.
+[2:10:05] Most of those drugs are going
+to operate through the DHT
+[2:10:07] system-- the dihydrotestosterone
+system-- for the reasons we
+[2:10:10] talked about before.
+[2:10:10] DHT receptors being on the
+scalp and causing beard growth
+[2:10:13] on the face.
+[2:10:15] Is it the case that a number
+of people taking things
+[2:10:19] like Propecia and other
+things to block the DHT
+[2:10:22] or disrupt the DHT
+pathway are going
+[2:10:25] to experience diminished sex
+drive, diminished motivation
+[2:10:31] and general vigor?
+[2:10:32] And if, so are there
+alternatives like topical DHT
+[2:10:35] antagonists that they
+might use if they
+[2:10:37] want to keep their hair, but
+not have those negative effects?
+[2:10:42] KYLE GILLETT: The way that
+I think about hair loss
+[2:10:44] is you have your fertilizers,
+also known as growth agonist,
+[2:10:48] and then you have
+your anti-androgens.
+[2:10:51] Whether they're systemic
+or topical, there is both,
+[2:10:54] but that's the general laymen's
+way to think about hair loss.
+[2:10:57] If you're only putting
+fertilizer in your hair
+[2:10:59] but you have androgenic alopecia
+or male pattern baldness,
+[2:11:02] then those hairs will
+still miniaturize,
+[2:11:04] and eventually, you'll
+still have loss.
+[2:11:06] ANDREW HUBERMAN: Such a
+great word-- miniaturize.
+[2:11:08] It's enough to send anybody
+off to find a therapeutic.
+[2:11:11] KYLE GILLETT: And
+by the way, it's
+[2:11:12] difficult to tell
+if miniaturization
+[2:11:13] is happening unless you
+have a magnifying glass.
+[2:11:16] And you can use--
+[2:11:17] ANDREW HUBERMAN: I almost didn't
+know-- for a second there,
+[2:11:18] I didn't know whether or
+not you were making a joke.
+[2:11:19] You're talking about
+miniaturization
+[2:11:21] of the hair follicle.
+[2:11:22] KYLE GILLETT: Correct.
+[2:11:22] ANDREW HUBERMAN: So what can
+reverse that miniaturization?
+[2:11:24] Gosh, it's just a
+fun word to say.
+[2:11:26] I'm going to just
+keep saying it.
+[2:11:27] KYLE GILLETT: Each
+individual has--
+[2:11:29] again, we mentioned
+the androgen receptor.
+[2:11:31] Males only have one
+androgen receptor gene
+[2:11:33] that's on their X chromosome.
+[2:11:35] So depending on how sensitive
+that androgen receptor
+[2:11:38] is and depending on the density
+of the receptors in the hair
+[2:11:42] follicle, you can have
+an arbitrary threshold.
+[2:11:46] And you don't know
+what this threshold
+[2:11:48] is until you start to
+have miniaturization
+[2:11:50] and loss of hair.
+[2:11:52] But over the threshold,
+the follicle will die
+[2:11:55] and eventually the
+stem cell will leave.
+[2:11:57] But under the
+threshold, you're OK.
+[2:12:00] Every androgen binds to
+the same androgen receptor.
+[2:12:03] So there is nothing
+special about DHT.
+[2:12:06] DHT is just a stronger androgen.
+So the higher your SHBG--
+[2:12:11] things that increase SHBG
+are beneficial for hair loss
+[2:12:15] prevention because you have
+less binding of that receptor.
+[2:12:19] So if you think
+about hair loss--
+[2:12:20] specifically, androgenic
+or male pattern
+[2:12:22] baldness in the terms of
+that androgen receptor
+[2:12:26] and everything in
+general binding to it--
+[2:12:28] not just DHT, but also
+testosterone-- it's helpful.
+[2:12:31] It's just that DHT
+is a huge battering
+[2:12:34] ram whereas the other
+androgens are just
+[2:12:36] light presses on the door.
+[2:12:37] ANDREW HUBERMAN: Got it.
+[2:12:38] So are some of the
+topical DHT receptor
+[2:12:41] antagonists going to be a
+better choice for people
+[2:12:43] that want to maintain their
+hair or grow more hair if they
+[2:12:48] want to avoid side effects?
+[2:12:50] KYLE GILLETT: Likely so.
+[2:12:51] Some individuals
+benefit from systemic--
+[2:12:55] a systemic decrease in DHT
+for a couple of reasons.
+[2:12:59] One could be prostate and
+then one could actually
+[2:13:01] be hypertrophy of
+the myocardium.
+[2:13:04] So DHT also disproportionately
+thickens the ventricle.
+[2:13:08] So for someone on
+TRT, that might
+[2:13:09] be a benefit that is
+prone to thickening
+[2:13:11] of the ventricle at baseline.
+[2:13:14] However, many people that have
+just a bit of predisposition,
+[2:13:18] they can use things that
+are topical anti-androgens.
+[2:13:22] Ketoconazole is one
+of them, caffeine
+[2:13:24] is actually another one.
+[2:13:26] ANDREW HUBERMAN: Wait--
+drinking caffeine?
+[2:13:27] KYLE GILLETT: Topical caffeine.
+[2:13:28] ANDREW HUBERMAN: Oh,
+I was going to say
+[2:13:28] my hair tends to
+grow pretty fast,
+[2:13:30] so it might be-- but I
+drink a lot of caffeine.
+[2:13:32] So topical caffeine?
+[2:13:33] Really, rubbing
+coffee on their head--
+[2:13:35] KYLE GILLETT: Yes.
+[2:13:35] ANDREW HUBERMAN: --or
+taking caffeine tablets--
+[2:13:37] and how does it-- wait, you
+have to explain how this works?
+[2:13:40] How do people get caffeine
+into the hair follicle.
+[2:13:44] KYLE GILLETT: Topically, the
+caffeine enters the scalp
+[2:13:47] and crowds out--
+[2:13:48] somewhat crowds out the
+androgen. It is a weak effect.
+[2:13:52] It's likely just strong enough
+to be clinically significant.
+[2:13:56] Usually, caffeine is put into
+formulations with other things
+[2:13:59] like ketoconazole that are
+also weak anti-androgens.
+[2:14:03] Of note, spironolactone can
+be prescribed topically,
+[2:14:06] but it is absorbed
+systemically because the size
+[2:14:09] of the molecule.
+[2:14:10] So unless your
+doctor specifically
+[2:14:12] prescribes that for you,
+especially as a male,
+[2:14:14] do not use topical
+spironolactone.
+[2:14:17] Topical finasteride is
+also a smaller molecule,
+[2:14:21] so it is also
+systemically absorbed,
+[2:14:23] but it is not extremely
+well systemically absorbed.
+[2:14:26] If you take topical
+finasteride, then usually
+[2:14:29] your systemic DHT will
+decrease by about 30%.
+[2:14:33] Topical dutasteride is likely a
+tiny bit systemically absorbed,
+[2:14:37] but it's unique
+because it's half life
+[2:14:39] is much faster at a lower dose.
+[2:14:41] So topical dutasteride will
+not affect your systemic DHT
+[2:14:45] at all, and I've seen this
+anecdotally on many people
+[2:14:48] on topical dutasteride therapy.
+[2:14:50] ANDREW HUBERMAN: We're going
+to have to get you back on here
+[2:14:53] to do an episode all about DHT,
+and hair loss, and hair growth.
+[2:14:56] Again, not a topic that I
+focus on a lot for myself,
+[2:14:59] but that I get a
+lot of questions
+[2:15:01] about from men and women.
+[2:15:02] KYLE GILLETT: One thing
+that we could mention--
+[2:15:04] I got a ton of questions about
+turmeric and curcuminoids
+[2:15:07] after the last episode.
+[2:15:09] ANDREW HUBERMAN: Oh,
+yeah, I had reported
+[2:15:10] my own anecdotal experience that
+taking turmeric really crushed
+[2:15:14] my DHT levels and I
+did not feel good.
+[2:15:16] I mean, it crushed all sorts of
+positive feelings of vitality.
+[2:15:21] The moment I stopped taking
+turmeric, felt great again.
+[2:15:24] KYLE GILLETT: Many
+people report this.
+[2:15:25] And the interesting
+thing about turmeric
+[2:15:28] is most of it's beneficial
+action-- not all of it--
+[2:15:31] some people benefit
+from systemic turmeric.
+[2:15:34] And some people that
+can tolerate it-- well,
+[2:15:35] it's actually great
+for the prostate.
+[2:15:38] But most of the action, it does
+not need to be bioavailable.
+[2:15:41] It acts on the gut microbiome.
+[2:15:44] So you can take turmeric,
+and if it is not absorbed--
+[2:15:48] some turmeric is put in special
+formulations like micellar,
+[2:15:51] or liposomal, or complexed.
+[2:15:53] But a lot of it is put
+with black pepper fruit
+[2:15:55] extract, which is also known
+as bioperine, which is actually
+[2:15:58] also a 5-alpha
+reductase inhibitor
+[2:16:01] and it affects liver cytochrome.
+[2:16:03] And so many supplement companies
+put this black pepper fruit
+[2:16:06] extract--
+[2:16:06] bioperine-- in
+almost everything.
+[2:16:09] So some people are
+on really high doses,
+[2:16:11] and that could
+also be making most
+[2:16:14] of the effect of people who
+do not tolerate turmeric well.
+[2:16:17] ANDREW HUBERMAN: Yeah, I avoid
+turmeric like the plague based
+[2:16:20] on that one previous
+experience because it
+[2:16:22] was clearly turmeric that
+caused the negative effect.
+[2:16:26] Coming off it, everything
+reversed rapidly.
+[2:16:29] And the bioperine-- the
+black pepper extract--
+[2:16:31] I also avoid that like the
+plague based on everything
+[2:16:33] you just said.
+[2:16:35] I want my 5-alpha
+reductase, I want my DHT
+[2:16:38] to be optimized simply
+because my understanding is
+[2:16:42] DHT is the more
+powerful androgen
+[2:16:45] and it's the one that-- yes,
+it causes a little bit of hair
+[2:16:48] loss and I've got a few
+patches here and there,
+[2:16:50] but I'm willing
+to live with that
+[2:16:51] based on all the
+other wonderful things
+[2:16:53] that DHT optimization does.
+[2:16:56] I'll quickly mention
+a few other things.
+[2:16:58] One, saw palmetto is
+also a 5-alpha reductase
+[2:17:01] inhibitor, but only a
+couple of the isoenzymes.
+[2:17:04] There's three main isoenzymes,
+and a lot of the problem
+[2:17:08] is that you're inhibiting
+a couple of the isoenzymes,
+[2:17:11] but not the other one.
+[2:17:12] Finasteride inhibits 1 and 2.
+[2:17:16] Dutasteride actually
+inhibits all three.
+[2:17:19] And finasteride
+inhibits the isoenzyme
+[2:17:22] that is in genital skin, but not
+in the skin throughout the rest
+[2:17:26] of your body.
+[2:17:27] So a lot of the side
+effects of finasteride,
+[2:17:29] which is loss of sensation
+and loss of erectile function,
+[2:17:33] have to do with
+the disconcordance
+[2:17:37] between the sensitivity of
+the genital skin and the skin.
+[2:17:40] ANDREW HUBERMAN:
+Again, another reason
+[2:17:42] to not disrupt
+5-alpha reductase.
+[2:17:44] And we'll definitely get you
+back on here to talk about--
+[2:17:46] I think we should just do
+a whole episode about DHT,
+[2:17:49] because so often when
+people are thinking
+[2:17:50] about optimizing hormones,
+especially males trying
+[2:17:54] to optimize their hormones,
+they're thinking testosterone,
+[2:17:56] testosterone.
+[2:17:56] Maybe nowadays, they
+think a little bit more
+[2:17:58] about free testosterone and
+maybe they think about estrogen
+[2:18:00] as also being important--
+not to crush estrogen.
+[2:18:02] But DHT is, at least to
+my mind, the linchpin
+[2:18:06] of so many of the things that
+subjectively people are really
+[2:18:09] focused on-- libido,
+motivation, drive, et cetera.
+[2:18:12] I have one final question--
+it's just a brief one,
+[2:18:14] but many of us have heard
+that the BPAs that are present
+[2:18:18] in plastic bottles and even
+in certain aluminum cans
+[2:18:21] and phthalates-- a
+difficult word to pronounce,
+[2:18:24] but a fun one
+nonetheless-- phthalates--
+[2:18:26] and work by Dr. Shanna Swan has
+shown that phthalate exposure
+[2:18:31] to the fetus--
+[2:18:32] to pregnant mothers and
+to fetuses very likely
+[2:18:34] is negatively impacting sperm
+counts, testosterone levels,
+[2:18:37] and even changing genitalia
+size for the worse in males
+[2:18:42] nowadays.
+[2:18:44] I saw a beautiful lecture that
+Dr. Shanna Swan did on this
+[2:18:47] when I was in Copenhagen.
+And it's very clear
+[2:18:49] that it's negatively
+impacting the male fetus.
+[2:18:51] She was also on Joe
+Rogan's podcast.
+[2:18:53] I hope to get her
+on this podcast.
+[2:18:54] However, what she
+couldn't answer
+[2:18:57] for me was whether or
+not phthalates, and BPAs,
+[2:18:59] and these things
+present in plastics,
+[2:19:01] and some people
+claim in tap water,
+[2:19:03] are bad for males after
+they're born and after puberty.
+[2:19:08] What are your thoughts on--
+[2:19:10] or I should just ask you,
+do you drink water out
+[2:19:12] of plastic bottles?
+[2:19:13] Do you avoid drinking out of
+cans that are not specifically
+[2:19:17] non-BPA containing cans?
+[2:19:20] And do you actively
+avoid phthalates?
+[2:19:22] My understanding
+is that phthalates
+[2:19:23] are most enriched in
+pesticides, and that's
+[2:19:25] why you're seeing dramatic
+drops in sperm and testosterone
+[2:19:28] levels mainly in rural areas
+where they're dust cropping.
+[2:19:31] KYLE GILLETT: Yeah.
+[2:19:32] So I do avoid drinking out
+of cans that-- or plastics
+[2:19:35] that may have BPA or
+bisphenol A in them.
+[2:19:40] Bisphenol A is known
+to bind to what
+[2:19:43] I would consider the
+fifth estrogen receptor,
+[2:19:45] estrogen-related receptor gamma.
+[2:19:49] So it I would consider
+it a xenoestrogen.
+[2:19:52] So phytoestrogens are estrogens
+from plants, and in general,
+[2:19:55] they're not concerning or
+clinically significant.
+[2:19:57] And xenoestrogens are
+just other estrogens.
+[2:20:01] So I do avoid BPA and
+I also test my water.
+[2:20:05] I use a water testing
+service and I test it both
+[2:20:08] after it's through my water
+filter and the tap water
+[2:20:12] that my two boys drink
+almost every day.
+[2:20:15] And it's very interesting.
+[2:20:17] I only found one
+microplastic just a bit
+[2:20:19] over the reference range, so
+it wasn't a terrible tap score.
+[2:20:23] But even in developed countries,
+these are widely variable.
+[2:20:27] As far as phthalates,
+again, very
+[2:20:31] difficult and
+interesting to pronounce,
+[2:20:33] but I remember
+learning about these
+[2:20:35] because there is I
+believe a lawsuit that
+[2:20:38] had to do with mac and cheese.
+[2:20:40] And this was probably
+five years ago,
+[2:20:43] and I was coming up
+with my list of--
+[2:20:47] each provider that
+does obstetrics
+[2:20:49] has a list what to avoid
+for the pregnant lady.
+[2:20:52] Sketchy deli meats
+or high mercury fish
+[2:20:55] like swordfish and
+salmon, and I actually
+[2:20:57] added processed mac and
+cheese to that list.
+[2:20:59] ANDREW HUBERMAN: Interesting.
+[2:21:01] Well, thank you for that.
+[2:21:02] I'm going to extract
+your statement
+[2:21:03] that you avoid drinking out of
+plastic bottles when possible.
+[2:21:06] I'm guessing you're not
+neurotically attached to that.
+[2:21:09] If you were dying of thirst,
+you might crack a plastic bottle
+[2:21:11] of water to survive.
+[2:21:12] But listen, Kyle--
+[2:21:16] Dr. Gillett-- thank you so much.
+[2:21:18] You gave us an enormous wealth
+of knowledge, everything
+[2:21:21] from behaviors, to psychology,
+to supplementation,
+[2:21:26] to prescription drugs.
+[2:21:27] We will make sure to
+point out where people
+[2:21:29] can get a hold of you on
+Instagram, and on Twitter,
+[2:21:32] and on other websites in
+our show note captions.
+[2:21:36] But really, just on
+behalf of the audience
+[2:21:39] and just for myself,
+thank you so much.
+[2:21:41] You have an immense
+amount of knowledge
+[2:21:42] and you're exquisitely good
+at sharing it with people
+[2:21:45] in an actionable way.
+[2:21:46] So thank you.
+[2:21:47] KYLE GILLETT: My pleasure.
+[2:21:48] ANDREW HUBERMAN: Thank
+you for joining me today
+[2:21:50] for my discussion with Dr. Kyle
+Gillett all about male hormone
+[2:21:53] optimization.
+[2:21:54] And I just want to
+remind everybody
+[2:21:56] that we will soon
+have an episode
+[2:21:57] all about female
+hormone optimization.
+[2:22:00] If you're learning from
+and/or enjoying this podcast,
+[2:22:02] please subscribe to
+our YouTube channel.
+[2:22:03] That's a terrific zero-cost
+way to support us.
+[2:22:06] In addition, please
+subscribe to the podcast
+[2:22:08] on both Spotify and Apple.
+[2:22:09] And on both Spotify
+and Apple, you
+[2:22:11] can leave us up to
+a five star review.
+[2:22:13] If you have questions
+for us or comments
+[2:22:15] about the podcast
+or guests that you'd
+[2:22:17] like me to interview on
+the Huberman Lab podcast,
+[2:22:19] please put those in the
+comment section on YouTube.
+[2:22:21] We do read all the comments.
+[2:22:23] In addition, please
+check out the sponsors
+[2:22:25] mentioned at the beginning and
+throughout today's episode.
+[2:22:27] That's the best way to
+support this podcast.
+[2:22:30] If you're not already following
+Huberman Lab on social media,
+[2:22:32] we are Hubermanlab
+on all platforms-- so
+[2:22:34] that's Instagram, Twitter,
+LinkedIn, and Facebook.
+[2:22:38] And all of those places,
+I describe science
+[2:22:40] and science-related
+tools, some of which
+[2:22:41] overlap with the contents
+of the Huberman Lab podcast,
+[2:22:44] but much of which is distinct
+from content on the Huberman
+[2:22:47] Lab podcast.
+[2:22:47] So again, it's Hubermanlab on
+all social media platforms.
+[2:22:50] During today's episode and
+on many previous episodes
+[2:22:52] of the Huberman Lab podcast,
+we discussed supplements.
+[2:22:55] While supplements aren't
+necessary for everybody,
+[2:22:57] many people derive
+tremendous benefit from them
+[2:22:59] for things like sleep, hormone
+augmentation, and focus.
+[2:23:02] If you'd like to see the
+supplements discussed
+[2:23:04] on various episodes of
+the Huberman Lab podcast,
+[2:23:07] please go to
+livemomentous.com/huberman.
+[2:23:10] We partnered with
+Momentous because they
+[2:23:12] are extremely high quality,
+they ship internationally,
+[2:23:16] and they formulated supplements
+in the precise ways that
+[2:23:19] are discussed as optimal to
+take for various outcomes
+[2:23:22] here on the Huberman
+Lab podcast.
+[2:23:24] If you haven't already
+subscribed to the Huberman Lab
+[2:23:26] podcast newsletter, it
+is a monthly newsletter
+[2:23:29] that includes summaries
+of podcast episodes
+[2:23:31] as well as toolkits, all of
+which are completely zero cost.
+[2:23:35] All you have to do is provide
+your email to sign up.
+[2:23:38] We do not share your
+email with anybody.
+[2:23:40] You do this by going to
+huberman.com, go to the menu,
+[2:23:42] and tab down to newsletter.
+[2:23:44] Provide your email.
+[2:23:45] You'll get a confirmation link.
+[2:23:47] Click on that link,
+and you'll receive
+[2:23:49] our monthly newsletters.
+[2:23:50] And you can also access any
+of the previous newsletters
+[2:23:52] that we've released, including
+the toolkit for sleep,
+[2:23:54] for fitness, deliberate
+cold exposure,
+[2:23:56] and so on by going
+to huberman.com,
+[2:23:58] going to the menu,
+going to newsletter,
+[2:24:00] and there, you'll see those as
+immediately downloadable PDFs.
+[2:24:03] Thank you, once
+again, for joining me
+[2:24:05] for today's discussion about
+male hormone optimization
+[2:24:08] with Dr. Kyle Gillett.
+[2:24:09] And as always, thank you for
+your interest in science.
+[2:24:12] [MUSIC PLAYING]

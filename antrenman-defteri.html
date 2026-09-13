@@ -1,0 +1,1233 @@
+<title>Antrenman Defteri</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+
+<style>
+  :root {
+    --bg:        #F2F4F3;
+    --surface:   #FFFFFF;
+    --surface-2: #E9EDEB;
+    --ink:       #14201E;
+    --muted:     #5E6C69;
+    --faint:     #8B9895;
+    --line:      #D6DDDA;
+    --accent:    #12706B;
+    --accent-soft:#D6EAE8;
+    --brass:     #9A6F22;
+    --brass-soft:#F2E6CB;
+    --good:      #2F6F4F;
+    --danger:    #A33B24;
+    --shadow:    0 1px 2px rgba(20,32,30,.06), 0 4px 14px rgba(20,32,30,.05);
+
+    --step--1: .8125rem;
+    --step-0:  .9375rem;
+    --step-1:  1.125rem;
+    --step-2:  1.5rem;
+    --step-3:  2.125rem;
+
+    --sans: "Source Sans 3", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    --display: "Archivo", var(--sans);
+    --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:        #0E1615;
+      --surface:   #16211F;
+      --surface-2: #1E2C29;
+      --ink:       #E7EDEB;
+      --muted:     #9AA8A4;
+      --faint:     #6E7C79;
+      --line:      #273633;
+      --accent:    #45B6AB;
+      --accent-soft:#123230;
+      --brass:     #D3A65A;
+      --brass-soft:#2E2618;
+      --good:      #5BB183;
+      --danger:    #E08163;
+      --shadow:    0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.28);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg:        #0E1615;
+    --surface:   #16211F;
+    --surface-2: #1E2C29;
+    --ink:       #E7EDEB;
+    --muted:     #9AA8A4;
+    --faint:     #6E7C79;
+    --line:      #273633;
+    --accent:    #45B6AB;
+    --accent-soft:#123230;
+    --brass:     #D3A65A;
+    --brass-soft:#2E2618;
+    --good:      #5BB183;
+    --danger:    #E08163;
+    --shadow:    0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.28);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: var(--step-0);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 28px 20px 72px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+  }
+
+  /* ---------- header ---------- */
+
+  header.masthead {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 14px;
+  }
+
+  h1 {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: var(--step-3);
+    letter-spacing: -.02em;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .masthead .meta {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--faint);
+    display: inline-block;
+    flex: none;
+  }
+  .dot.live { background: var(--good); }
+  .dot.local { background: var(--brass); }
+
+  /* ---------- stat rail ---------- */
+
+  .rail {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  @media (max-width: 720px) { .rail { grid-template-columns: repeat(2, 1fr); } }
+
+  .stat {
+    background: var(--surface);
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .stat .k {
+    font-size: var(--step--1);
+    text-transform: uppercase;
+    letter-spacing: .07em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .stat .v {
+    font-family: var(--mono);
+    font-size: var(--step-2);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.15;
+  }
+  .stat .sub {
+    font-size: var(--step--1);
+    color: var(--faint);
+  }
+  .stat .v.pr { color: var(--brass); }
+
+  /* ---------- sections ---------- */
+
+  section { display: flex; flex-direction: column; gap: 14px; }
+
+  h2 {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: var(--step-1);
+    letter-spacing: -.01em;
+    margin: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  h2 .count {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    font-weight: 500;
+    color: var(--faint);
+  }
+
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  /* ---------- form controls ---------- */
+
+  label.field {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: var(--step--1);
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+  }
+
+  input, select, textarea, button {
+    font-family: inherit;
+    font-size: var(--step-0);
+    color: inherit;
+  }
+
+  input[type="text"], input[type="date"], input[type="number"], select, textarea {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    padding: 8px 10px;
+    color: var(--ink);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    width: 100%;
+  }
+  input[type="number"] { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+  textarea { resize: vertical; min-height: 58px; }
+
+  input:focus-visible, select:focus-visible, textarea:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  button {
+    cursor: pointer;
+    border-radius: 7px;
+    border: 1px solid var(--line);
+    background: var(--surface-2);
+    padding: 8px 14px;
+    font-weight: 600;
+    transition: background .12s ease, border-color .12s ease;
+  }
+  button:hover { border-color: var(--accent); }
+
+  button.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  button.primary:hover { filter: brightness(1.08); }
+  :root[data-theme="dark"] button.primary,
+  .dark-text button.primary { color: #06201E; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) button.primary { color: #06201E; }
+  }
+
+  button.ghost {
+    background: none;
+    border-color: transparent;
+    color: var(--muted);
+    padding: 4px 8px;
+    font-size: var(--step--1);
+  }
+  button.ghost:hover { color: var(--danger); border-color: transparent; }
+
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-end; }
+  .row > * { flex: 1 1 130px; }
+  .row > .shrink { flex: 0 0 auto; }
+
+  /* ---------- exercise editor ---------- */
+
+  .exercise {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: var(--bg);
+  }
+
+  .exercise > header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .exercise .name {
+    font-family: var(--display);
+    font-weight: 600;
+    font-size: var(--step-0);
+  }
+  .exercise .e1rm {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .sets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+
+  .set-chip {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 4px 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .set-chip.best { border-color: var(--brass); background: var(--brass-soft); color: var(--brass); }
+  .set-chip button {
+    border: none; background: none; padding: 0;
+    color: var(--faint); font-size: 15px; line-height: 1;
+  }
+  .set-chip button:hover { color: var(--danger); }
+
+  .set-add { display: flex; gap: 7px; align-items: flex-end; flex-wrap: wrap; }
+  .set-add .mini { flex: 0 0 92px; }
+  .set-add .mini input { padding: 6px 8px; }
+
+  /* ---------- history ---------- */
+
+  .session {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--surface);
+    overflow: hidden;
+  }
+  .session > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .session > summary::-webkit-details-marker { display: none; }
+  .session > summary:hover { background: var(--surface-2); }
+
+  .session .when {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    flex: none;
+  }
+  .session .label {
+    font-family: var(--display);
+    font-weight: 600;
+    flex: 1 1 140px;
+  }
+  .session .tonnage {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    flex: none;
+  }
+  .session .body {
+    border-top: 1px solid var(--line);
+    padding: 12px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: var(--bg);
+  }
+  .session .body .line {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+  .session .body .line b {
+    font-family: var(--display);
+    font-weight: 600;
+    flex: 0 0 auto;
+    min-width: 132px;
+  }
+  .session .body .line span {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+  }
+  .session .note {
+    font-style: italic;
+    color: var(--muted);
+    font-size: var(--step--1);
+    border-left: 2px solid var(--line);
+    padding-left: 10px;
+  }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 4px;
+    background: var(--brass-soft);
+    color: var(--brass);
+    flex: none;
+  }
+  .badge.demo { background: var(--surface-2); color: var(--faint); }
+
+  /* ---------- program suggestion ---------- */
+
+  .prog-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .prog-row:last-child { border-bottom: none; }
+  .prog-name {
+    font-family: var(--display);
+    font-weight: 600;
+    flex: 1 1 160px;
+  }
+  .prog-last {
+    font-family: var(--mono);
+    font-size: var(--step--1);
+    color: var(--faint);
+    flex: 0 0 auto;
+  }
+  .prog-arrow { color: var(--faint); flex: 0 0 auto; }
+  .prog-sug {
+    font-family: var(--mono);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    flex: 0 0 auto;
+    color: var(--muted);
+  }
+  .prog-sug.up { color: var(--accent); }
+  .prog-sug.repeat { color: var(--brass); }
+
+  /* ---------- progress chart ---------- */
+
+  .chart-head {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+  .chart-head .field { flex: 0 1 240px; }
+
+  figure.chart { margin: 0; }
+  figure.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+  figcaption {
+    font-size: var(--step--1);
+    color: var(--muted);
+    margin-top: 8px;
+  }
+
+  .empty {
+    color: var(--muted);
+    font-size: var(--step--1);
+    padding: 10px 0;
+  }
+
+  footer.note {
+    font-size: var(--step--1);
+    color: var(--faint);
+    border-top: 1px solid var(--line);
+    padding-top: 14px;
+    line-height: 1.6;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="masthead">
+    <h1>Antrenman Defteri</h1>
+    <div class="meta">
+      <span class="dot" id="statusDot"></span>
+      <span id="statusText">bağlanıyor…</span>
+    </div>
+  </header>
+
+  <div class="rail" id="rail"></div>
+
+  <section>
+    <h2>Sıradaki antrenman önerisi <span class="count" id="programCount"></span></h2>
+    <div class="panel">
+      <div id="program" style="display:flex;flex-direction:column"></div>
+      <div class="row"><div class="shrink"><button class="primary" id="applyProgram">Öneriyi seansa yükle</button></div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Seans kaydet</h2>
+    <div class="panel">
+      <div class="row">
+        <label class="field" style="flex:0 1 170px">Tarih
+          <input type="date" id="sDate">
+        </label>
+        <label class="field">Seans adı
+          <input type="text" id="sName" placeholder="Örn. İtiş A / Bacak" list="sessionNames">
+          <datalist id="sessionNames">
+            <option value="İtiş (Göğüs-Omuz-Triceps)"></option>
+            <option value="Çekiş (Sırt-Biceps)"></option>
+            <option value="Bacak"></option>
+            <option value="Üst Vücut"></option>
+            <option value="Tüm Vücut"></option>
+          </datalist>
+        </label>
+      </div>
+
+      <div id="draftExercises" style="display:flex;flex-direction:column;gap:10px"></div>
+
+      <div class="row">
+        <label class="field">Egzersiz ekle
+          <input type="text" id="exName" placeholder="Örn. Barbell Squat" list="exNames">
+          <datalist id="exNames">
+            <option value="Barbell Squat"></option>
+            <option value="Bench Press"></option>
+            <option value="Deadlift"></option>
+            <option value="Overhead Press"></option>
+            <option value="Barbell Row"></option>
+            <option value="Pull-up"></option>
+            <option value="Romanian Deadlift"></option>
+            <option value="Incline Dumbbell Press"></option>
+            <option value="Lat Pulldown"></option>
+            <option value="Leg Press"></option>
+          </datalist>
+        </label>
+        <div class="shrink"><button id="addEx">Ekle</button></div>
+      </div>
+
+      <label class="field">Not
+        <textarea id="sNote" placeholder="Nasıl geçti? Uyku, enerji, ağrı…"></textarea>
+      </label>
+
+      <div class="row">
+        <div class="shrink"><button class="primary" id="saveSession">Seansı kaydet</button></div>
+        <div class="shrink"><button id="repeatLast">Son seansı tekrarla</button></div>
+        <div class="shrink"><button class="ghost" id="clearDraft">Temizle</button></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>İlerleme <span class="count" id="chartCount"></span></h2>
+    <div class="panel">
+      <div class="chart-head">
+        <label class="field" style="flex:0 1 260px">Egzersiz
+          <select id="chartPick"></select>
+        </label>
+      </div>
+      <figure class="chart">
+        <svg id="chart" viewBox="0 0 720 240" role="img" aria-label="Tahmini 1RM zaman grafiği"></svg>
+        <figcaption id="chartCap"></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section>
+    <h2>Geçmiş <span class="count" id="histCount"></span></h2>
+    <div id="history" style="display:flex;flex-direction:column;gap:10px"></div>
+  </section>
+
+  <footer class="note">
+    <strong>e1RM</strong> = tahmini tek tekrar maksimumu, Epley formülüyle: ağırlık × (1 + tekrar ÷ 30).
+    Gerçek bir max denemesi yapmadan gücünün nasıl gittiğini gösterir — ağırlık ve tekrarı tek sayıda birleştirdiği
+    için tek başına ağırlıktan daha iyi bir ilerleme göstergesidir. <strong>Tonaj</strong> = seansta kaldırdığın
+    toplam kilo (ağırlık × tekrar, tüm setler). Hacim arttıkça tonaj artar.
+    <strong>Sıradaki antrenman önerisi</strong>, sırası gelen rutini (son 60 gün içinde en uzun süredir yapılmamış
+    isim) bulur ve o rutindeki her egzersiz için en iyi seti (en yüksek e1RM) bir önceki kayıtla karşılaştırır:
+    ilerleme varsa ağırlığı ~%2.5 artırır, gerileme varsa ağırlığı sabit tutup bir tekrar daha hedefler. Amaç
+    kuvvetin ve kaldırılan ağırlığın sürekli, küçük adımlarla artması.
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var COLL = "sessions";
+  var LS_KEY = "antrenman-defteri-v1";
+  var db = null;
+  var sessions = [];
+  var draft = { exercises: [] };
+  var usingDemo = false;
+
+  var DEMO = [
+    { id: "demo-1", demo: true, date: iso(-9), name: "İtiş (Göğüs-Omuz-Triceps)", note: "Örnek kayıt — kendi seansını ekleyince kaybolur.",
+      exercises: [
+        { name: "Bench Press", sets: [{ w: 60, r: 8 }, { w: 65, r: 6 }, { w: 65, r: 6 }] },
+        { name: "Overhead Press", sets: [{ w: 35, r: 8 }, { w: 37.5, r: 7 }] } ] },
+    { id: "demo-2", demo: true, date: iso(-5), name: "Bacak", note: "Örnek kayıt.",
+      exercises: [
+        { name: "Barbell Squat", sets: [{ w: 80, r: 8 }, { w: 90, r: 5 }, { w: 90, r: 5 }] },
+        { name: "Romanian Deadlift", sets: [{ w: 70, r: 10 }, { w: 70, r: 10 }] } ] },
+    { id: "demo-3", demo: true, date: iso(-2), name: "İtiş (Göğüs-Omuz-Triceps)", note: "Örnek kayıt.",
+      exercises: [
+        { name: "Bench Press", sets: [{ w: 65, r: 8 }, { w: 70, r: 6 }, { w: 70, r: 5 }] },
+        { name: "Overhead Press", sets: [{ w: 37.5, r: 8 }, { w: 40, r: 6 }] } ] }
+  ];
+
+  // ---------- helpers ----------
+
+  function iso(offsetDays) {
+    var d = new Date();
+    d.setDate(d.getDate() + (offsetDays || 0));
+    return d.toISOString().slice(0, 10);
+  }
+
+  function e1rm(w, r) { return w * (1 + r / 30); }
+
+  function bestE1rm(sets) {
+    return sets.reduce(function (m, s) { return Math.max(m, e1rm(s.w, s.r)); }, 0);
+  }
+
+  function tonnage(session) {
+    return (session.exercises || []).reduce(function (t, ex) {
+      return t + ex.sets.reduce(function (a, s) { return a + s.w * s.r; }, 0);
+    }, 0);
+  }
+
+  function fmt(n, digits) {
+    return n.toLocaleString("tr-TR", { maximumFractionDigits: digits === undefined ? 0 : digits });
+  }
+
+  function trDate(s) {
+    var parts = String(s).split("-");
+    if (parts.length !== 3) return s;
+    return parts[2] + "." + parts[1] + "." + parts[0].slice(2);
+  }
+
+  function el(tag, cls, text) {
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text !== undefined) n.textContent = text;
+    return n;
+  }
+
+  function sorted() {
+    return sessions.slice().sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; });
+  }
+
+  function liveSessions() {
+    return sessions.filter(function (s) { return !s.demo; });
+  }
+
+  // ---------- persistence ----------
+
+  function loadLocal() {
+    try {
+      var raw = localStorage.getItem(LS_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch (e) { return []; }
+  }
+
+  function saveLocal() {
+    try { localStorage.setItem(LS_KEY, JSON.stringify(liveSessions())); } catch (e) { /* private mode */ }
+  }
+
+  function persist(session) {
+    if (db) {
+      return db.collection(COLL).doc(session.id).set(session).catch(function (err) {
+        status("kaydedilemedi (" + err.code + ") — tarayıcıya yazıldı", "local");
+        saveLocal();
+      });
+    }
+    saveLocal();
+    return Promise.resolve();
+  }
+
+  function removeSession(id) {
+    sessions = sessions.filter(function (s) { return s.id !== id; });
+    renderAll();
+    if (db) {
+      db.collection(COLL).doc(id).delete().catch(function () { /* snapshot will correct */ });
+    } else {
+      saveLocal();
+    }
+  }
+
+  function status(text, kind) {
+    document.getElementById("statusText").textContent = text;
+    var dot = document.getElementById("statusDot");
+    dot.className = "dot" + (kind ? " " + kind : "");
+  }
+
+  // ---------- stat rail ----------
+
+  function startOfWeek() {
+    var d = new Date();
+    var day = (d.getDay() + 6) % 7; // Monday = 0
+    d.setDate(d.getDate() - day);
+    return d.toISOString().slice(0, 10);
+  }
+
+  function renderRail() {
+    var rail = document.getElementById("rail");
+    rail.textContent = "";
+
+    var all = sorted();
+    var wkStart = startOfWeek();
+    var thisWeek = all.filter(function (s) { return s.date >= wkStart; });
+    var weekTon = thisWeek.reduce(function (t, s) { return t + tonnage(s); }, 0);
+
+    var monthAgo = iso(-30);
+    var monthCount = all.filter(function (s) { return s.date >= monthAgo; }).length;
+
+    // Best e1RM across every exercise, and which lift it belongs to.
+    var pr = { name: "—", value: 0 };
+    all.forEach(function (s) {
+      (s.exercises || []).forEach(function (ex) {
+        var b = bestE1rm(ex.sets);
+        if (b > pr.value) pr = { name: ex.name, value: b };
+      });
+    });
+
+    var streak = 0;
+    if (all.length) {
+      var days = {};
+      all.forEach(function (s) { days[s.date] = true; });
+      var cursor = new Date();
+      // Today need not have a session for the streak to stand.
+      if (!days[cursor.toISOString().slice(0, 10)]) cursor.setDate(cursor.getDate() - 1);
+      for (var i = 0; i < 400; i++) {
+        var key = cursor.toISOString().slice(0, 10);
+        if (days[key]) { streak++; cursor.setDate(cursor.getDate() - 1); }
+        else break;
+      }
+    }
+
+    [
+      { k: "Bu hafta tonaj", v: fmt(weekTon) + " kg", sub: thisWeek.length + " seans" },
+      { k: "Son 30 gün", v: String(monthCount), sub: "seans" },
+      { k: "En iyi e1RM", v: pr.value ? fmt(pr.value, 1) + " kg" : "—", sub: pr.name, pr: true },
+      { k: "Toplam", v: String(all.length), sub: "kayıtlı seans" }
+    ].forEach(function (s) {
+      var box = el("div", "stat");
+      box.appendChild(el("div", "k", s.k));
+      box.appendChild(el("div", "v" + (s.pr ? " pr" : ""), s.v));
+      box.appendChild(el("div", "sub", s.sub));
+      rail.appendChild(box);
+    });
+  }
+
+  // ---------- draft editor ----------
+
+  function renderDraft() {
+    var host = document.getElementById("draftExercises");
+    host.textContent = "";
+
+    if (!draft.exercises.length) {
+      host.appendChild(el("div", "empty", "Henüz egzersiz yok. Aşağıdan ekle."));
+      return;
+    }
+
+    draft.exercises.forEach(function (ex, i) {
+      var card = el("div", "exercise");
+
+      var head = el("header");
+      head.appendChild(el("div", "name", ex.name));
+      var right = el("div");
+      right.style.display = "flex";
+      right.style.alignItems = "center";
+      right.style.gap = "8px";
+      if (ex.sets.length) {
+        right.appendChild(el("span", "e1rm", "e1RM " + fmt(bestE1rm(ex.sets), 1) + " kg"));
+      }
+      var del = el("button", "ghost", "sil");
+      del.onclick = function () { draft.exercises.splice(i, 1); renderDraft(); };
+      right.appendChild(del);
+      head.appendChild(right);
+      card.appendChild(head);
+
+      var setsRow = el("div", "sets");
+      var best = bestE1rm(ex.sets);
+      ex.sets.forEach(function (s, j) {
+        var chip = el("span", "set-chip" + (ex.sets.length > 1 && e1rm(s.w, s.r) === best ? " best" : ""));
+        chip.appendChild(document.createTextNode(fmt(s.w, 1) + " kg × " + s.r));
+        var x = el("button", null, "×");
+        x.setAttribute("aria-label", "Seti sil");
+        x.onclick = function () { ex.sets.splice(j, 1); renderDraft(); };
+        chip.appendChild(x);
+        setsRow.appendChild(chip);
+      });
+      if (!ex.sets.length) setsRow.appendChild(el("span", "empty", "set yok"));
+      card.appendChild(setsRow);
+
+      var add = el("div", "set-add");
+      var wLab = el("label", "field mini"); wLab.appendChild(document.createTextNode("kg"));
+      var wIn = document.createElement("input"); wIn.type = "number"; wIn.step = "0.5"; wIn.min = "0";
+      wIn.value = ex.sets.length ? ex.sets[ex.sets.length - 1].w : "";
+      wLab.appendChild(wIn);
+
+      var rLab = el("label", "field mini"); rLab.appendChild(document.createTextNode("tekrar"));
+      var rIn = document.createElement("input"); rIn.type = "number"; rIn.step = "1"; rIn.min = "1";
+      rIn.value = ex.sets.length ? ex.sets[ex.sets.length - 1].r : "";
+      rLab.appendChild(rIn);
+
+      var go = el("button", null, "Set ekle");
+      function addSet() {
+        var w = parseFloat(wIn.value), r = parseInt(rIn.value, 10);
+        if (!(w >= 0) || !(r > 0)) { wIn.focus(); return; }
+        ex.sets.push({ w: w, r: r });
+        renderDraft();
+      }
+      go.onclick = addSet;
+      [wIn, rIn].forEach(function (input) {
+        input.onkeydown = function (e) { if (e.key === "Enter") { e.preventDefault(); addSet(); } };
+      });
+
+      add.appendChild(wLab); add.appendChild(rLab);
+      var wrap = el("div", "shrink"); wrap.appendChild(go); add.appendChild(wrap);
+      card.appendChild(add);
+
+      host.appendChild(card);
+    });
+  }
+
+  // ---------- history ----------
+
+  function renderHistory() {
+    var host = document.getElementById("history");
+    host.textContent = "";
+    var all = sorted();
+
+    document.getElementById("histCount").textContent = all.length ? all.length + " seans" : "";
+
+    if (!all.length) {
+      host.appendChild(el("div", "empty", "Henüz kayıt yok."));
+      return;
+    }
+
+    all.forEach(function (s, idx) {
+      var d = document.createElement("details");
+      d.className = "session";
+      if (idx === 0) d.open = true;
+
+      var sum = document.createElement("summary");
+      sum.appendChild(el("span", "when", trDate(s.date)));
+      sum.appendChild(el("span", "label", s.name || "Seans"));
+      if (s.demo) sum.appendChild(el("span", "badge demo", "örnek"));
+      sum.appendChild(el("span", "tonnage", fmt(tonnage(s)) + " kg"));
+      d.appendChild(sum);
+
+      var body = el("div", "body");
+      (s.exercises || []).forEach(function (ex) {
+        var line = el("div", "line");
+        line.appendChild(el("b", null, ex.name));
+        line.appendChild(el("span", null, ex.sets.map(function (x) {
+          return fmt(x.w, 1) + "×" + x.r;
+        }).join("  ·  ") + "   —   e1RM " + fmt(bestE1rm(ex.sets), 1)));
+        body.appendChild(line);
+      });
+      if (s.note) body.appendChild(el("div", "note", s.note));
+
+      if (!s.demo) {
+        var actions = el("div");
+        var rm = el("button", "ghost", "bu seansı sil");
+        rm.onclick = function () { removeSession(s.id); };
+        actions.appendChild(rm);
+        body.appendChild(actions);
+      }
+
+      d.appendChild(body);
+      host.appendChild(d);
+    });
+  }
+
+  // ---------- progress chart ----------
+
+  function exerciseNames() {
+    var seen = {};
+    sorted().forEach(function (s) {
+      (s.exercises || []).forEach(function (ex) { seen[ex.name] = (seen[ex.name] || 0) + 1; });
+    });
+    return Object.keys(seen).sort(function (a, b) { return seen[b] - seen[a]; });
+  }
+
+  function seriesFor(name) {
+    var pts = [];
+    sorted().slice().reverse().forEach(function (s) {
+      (s.exercises || []).forEach(function (ex) {
+        if (ex.name === name && ex.sets.length) {
+          pts.push({ date: s.date, v: bestE1rm(ex.sets), demo: !!s.demo });
+        }
+      });
+    });
+    return pts;
+  }
+
+  function renderChart() {
+    var pick = document.getElementById("chartPick");
+    var names = exerciseNames();
+    var current = pick.value;
+
+    pick.textContent = "";
+    names.forEach(function (n) {
+      var o = document.createElement("option");
+      o.value = n; o.textContent = n;
+      pick.appendChild(o);
+    });
+    if (names.indexOf(current) >= 0) pick.value = current;
+
+    var svg = document.getElementById("chart");
+    var cap = document.getElementById("chartCap");
+    svg.textContent = "";
+
+    var name = pick.value;
+    var pts = name ? seriesFor(name) : [];
+
+    document.getElementById("chartCount").textContent = names.length ? names.length + " egzersiz" : "";
+
+    if (pts.length < 2) {
+      cap.textContent = pts.length === 1
+        ? "Bu egzersiz için tek kayıt var — eğri için en az iki seans gerekiyor."
+        : "Grafik için en az iki seans kaydet.";
+      return;
+    }
+
+    var W = 720, H = 240, ML = 52, MR = 16, MT = 18, MB = 34;
+    var iw = W - ML - MR, ih = H - MT - MB;
+
+    var vals = pts.map(function (p) { return p.v; });
+    var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals);
+    if (hi === lo) { hi = lo + 1; lo = lo - 1; }
+    var pad = (hi - lo) * 0.18;
+    lo -= pad; hi += pad;
+
+    function X(i) { return ML + (pts.length === 1 ? iw / 2 : (i / (pts.length - 1)) * iw); }
+    function Y(v) { return MT + ih - ((v - lo) / (hi - lo)) * ih; }
+
+    var NS = "http://www.w3.org/2000/svg";
+    function mk(tag, attrs) {
+      var n = document.createElementNS(NS, tag);
+      Object.keys(attrs).forEach(function (k) { n.setAttribute(k, attrs[k]); });
+      return n;
+    }
+
+    var css = getComputedStyle(document.documentElement);
+    var cAccent = css.getPropertyValue("--accent").trim() || "#12706B";
+    var cLine = css.getPropertyValue("--line").trim() || "#ccc";
+    var cMuted = css.getPropertyValue("--muted").trim() || "#666";
+    var cBrass = css.getPropertyValue("--brass").trim() || "#9A6F22";
+
+    // Horizontal guides, each labelled with a value the series actually spans.
+    for (var g = 0; g <= 3; g++) {
+      var v = lo + ((hi - lo) * g) / 3;
+      var y = Y(v);
+      svg.appendChild(mk("line", { x1: ML, x2: W - MR, y1: y, y2: y, stroke: cLine, "stroke-width": 1 }));
+      var t = mk("text", { x: ML - 9, y: y + 4, "text-anchor": "end", fill: cMuted,
+                           "font-size": 11, "font-family": "IBM Plex Mono, monospace" });
+      t.textContent = fmt(v, 0);
+      svg.appendChild(t);
+    }
+
+    var dPath = pts.map(function (p, i) { return (i ? "L" : "M") + X(i).toFixed(1) + " " + Y(p.v).toFixed(1); }).join(" ");
+    var area = dPath + " L" + X(pts.length - 1).toFixed(1) + " " + (MT + ih) + " L" + X(0).toFixed(1) + " " + (MT + ih) + " Z";
+
+    svg.appendChild(mk("path", { d: area, fill: cAccent, "fill-opacity": .10, stroke: "none" }));
+    svg.appendChild(mk("path", { d: dPath, fill: "none", stroke: cAccent, "stroke-width": 2,
+                                 "stroke-linejoin": "round", "stroke-linecap": "round" }));
+
+    var peak = vals.indexOf(Math.max.apply(null, vals));
+    pts.forEach(function (p, i) {
+      var last = i === pts.length - 1;
+      svg.appendChild(mk("circle", {
+        cx: X(i), cy: Y(p.v), r: last || i === peak ? 5 : 3.5,
+        fill: i === peak ? cBrass : cAccent,
+        stroke: css.getPropertyValue("--surface").trim() || "#fff", "stroke-width": 2
+      }));
+      if (i === 0 || last || i === peak) {
+        var lab = mk("text", { x: X(i), y: Y(p.v) - 12, "text-anchor": i === 0 ? "start" : last ? "end" : "middle",
+                               fill: i === peak ? cBrass : cMuted, "font-size": 11, "font-weight": 600,
+                               "font-family": "IBM Plex Mono, monospace" });
+        lab.textContent = fmt(p.v, 1);
+        svg.appendChild(lab);
+      }
+      if (i === 0 || last) {
+        var dl = mk("text", { x: X(i), y: MT + ih + 20, "text-anchor": i === 0 ? "start" : "end",
+                              fill: cMuted, "font-size": 11, "font-family": "IBM Plex Mono, monospace" });
+        dl.textContent = trDate(p.date);
+        svg.appendChild(dl);
+      }
+    });
+
+    var delta = pts[pts.length - 1].v - pts[0].v;
+    var pct = (delta / pts[0].v) * 100;
+    cap.textContent = name + " · tahmini 1RM " + (delta >= 0 ? "+" : "−") + fmt(Math.abs(delta), 1) +
+      " kg (" + (delta >= 0 ? "+" : "−") + fmt(Math.abs(pct), 1) + "%), " + pts.length + " seans boyunca." +
+      (pts.some(function (p) { return p.demo; }) ? " Örnek kayıtlar dahil." : "");
+  }
+
+  // ---------- program suggestion ----------
+
+  function topSetOf(ex) {
+    var best = null, bestVal = -1;
+    (ex.sets || []).forEach(function (s) {
+      var v = e1rm(s.w, s.r);
+      if (v > bestVal) { bestVal = v; best = s; }
+    });
+    return best;
+  }
+
+  function exerciseOccurrences(name) {
+    var out = [];
+    sorted().forEach(function (s) {
+      if (s.demo) return;
+      (s.exercises || []).forEach(function (ex) {
+        if (ex.name === name && ex.sets && ex.sets.length) out.push({ date: s.date, ex: ex });
+      });
+    });
+    return out;
+  }
+
+  function suggestFor(name) {
+    var occ = exerciseOccurrences(name);
+    if (!occ.length) return null;
+    var latest = topSetOf(occ[0].ex);
+    var prev = occ[1] ? topSetOf(occ[1].ex) : null;
+    var sugW = latest.w, sugR = latest.r, trend = "new";
+    if (prev) {
+      var up = e1rm(latest.w, latest.r) >= e1rm(prev.w, prev.r);
+      if (up) {
+        trend = "up";
+        sugW = Math.round((latest.w * 1.025) / 1.25) * 1.25;
+        if (sugW <= latest.w) sugW = latest.w + 1.25;
+        sugR = latest.r;
+      } else {
+        trend = "repeat";
+        sugW = latest.w;
+        sugR = latest.r + 1;
+      }
+    }
+    return { lastDate: occ[0].date, lastWeight: latest.w, lastReps: latest.r, sugWeight: sugW, sugReps: sugR, trend: trend };
+  }
+
+  function nextWorkoutName() {
+    var all = sorted().filter(function (s) { return !s.demo; });
+    if (!all.length) return null;
+    var lastSeen = {};
+    all.forEach(function (s) { if (!lastSeen[s.name] || s.date > lastSeen[s.name]) lastSeen[s.name] = s.date; });
+    var names = Object.keys(lastSeen);
+    var cutoff = iso(-60);
+    var active = names.filter(function (n) { return lastSeen[n] >= cutoff; });
+    if (!active.length) {
+      active = names.sort(function (a, b) { return lastSeen[b] < lastSeen[a] ? -1 : lastSeen[b] > lastSeen[a] ? 1 : 0; }).slice(0, 4);
+    }
+    active.sort(function (a, b) { return lastSeen[a] < lastSeen[b] ? -1 : lastSeen[a] > lastSeen[b] ? 1 : 0; });
+    return active[0];
+  }
+
+  function exercisesForWorkout(name) {
+    var all = sorted().filter(function (s) { return !s.demo && s.name === name; });
+    if (!all.length) return [];
+    return (all[0].exercises || []).map(function (ex) { return ex.name; });
+  }
+
+  function computeProgram() {
+    var name = nextWorkoutName();
+    if (!name) return null;
+    var items = exercisesForWorkout(name).map(function (n) {
+      var s = suggestFor(n);
+      if (!s) return null;
+      s.name = n;
+      return s;
+    }).filter(Boolean);
+    return { name: name, items: items };
+  }
+
+  function renderProgram() {
+    var host = document.getElementById("program");
+    var count = document.getElementById("programCount");
+    if (!host) return;
+    host.textContent = "";
+    var prog = computeProgram();
+    if (!prog || !prog.items.length) {
+      if (count) count.textContent = "";
+      host.appendChild(el("div", "empty", "Öneri için en az bir kayıtlı seans gerekiyor."));
+      return;
+    }
+    if (count) count.textContent = prog.name;
+    prog.items.forEach(function (it) {
+      var row = el("div", "prog-row");
+      row.appendChild(el("div", "prog-name", it.name));
+      row.appendChild(el("div", "prog-last", fmt(it.lastWeight, 1) + " kg × " + it.lastReps + "  (" + trDate(it.lastDate) + ")"));
+      row.appendChild(el("div", "prog-arrow", "→"));
+      row.appendChild(el("div", "prog-sug" + (it.trend === "up" ? " up" : it.trend === "repeat" ? " repeat" : ""),
+        fmt(it.sugWeight, 1) + " kg × " + it.sugReps));
+      host.appendChild(row);
+    });
+  }
+
+  function renderAll() {
+    if (!liveSessions().length && !usingDemo) {
+      usingDemo = true;
+      sessions = sessions.concat(DEMO);
+    } else if (liveSessions().length && usingDemo) {
+      usingDemo = false;
+      sessions = liveSessions();
+    }
+    renderRail();
+    renderProgram();
+    renderHistory();
+    renderChart();
+  }
+
+  // ---------- wiring ----------
+
+  document.getElementById("sDate").value = iso(0);
+
+  document.getElementById("addEx").onclick = function () {
+    var input = document.getElementById("exName");
+    var name = input.value.trim();
+    if (!name) { input.focus(); return; }
+    draft.exercises.push({ name: name, sets: [] });
+    input.value = "";
+    renderDraft();
+  };
+  document.getElementById("exName").onkeydown = function (e) {
+    if (e.key === "Enter") { e.preventDefault(); document.getElementById("addEx").click(); }
+  };
+
+  document.getElementById("clearDraft").onclick = function () {
+    draft = { exercises: [] };
+    document.getElementById("sNote").value = "";
+    document.getElementById("sName").value = "";
+    renderDraft();
+  };
+
+  document.getElementById("repeatLast").onclick = function () {
+    var last = sorted().filter(function (s) { return !s.demo; })[0] || sorted()[0];
+    if (!last) return;
+    document.getElementById("sName").value = last.name || "";
+    draft.exercises = (last.exercises || []).map(function (ex) {
+      return { name: ex.name, sets: ex.sets.map(function (s) { return { w: s.w, r: s.r }; }) };
+    });
+    renderDraft();
+  };
+
+  document.getElementById("saveSession").onclick = function () {
+    var withSets = draft.exercises.filter(function (ex) { return ex.sets.length; });
+    if (!withSets.length) {
+      status("en az bir sete ihtiyaç var", db ? "live" : "local");
+      return;
+    }
+    var session = {
+      id: "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+      date: document.getElementById("sDate").value || iso(0),
+      name: document.getElementById("sName").value.trim() || "Seans",
+      note: document.getElementById("sNote").value.trim(),
+      exercises: withSets.map(function (ex) {
+        return { name: ex.name, sets: ex.sets.map(function (s) { return { w: s.w, r: s.r }; }) };
+      }),
+      createdAt: new Date().toISOString()
+    };
+
+    sessions = liveSessions().concat([session]);
+    usingDemo = false;
+    draft = { exercises: [] };
+    document.getElementById("sNote").value = "";
+    renderDraft();
+    renderAll();
+    persist(session);
+  };
+
+  document.getElementById("chartPick").onchange = renderChart;
+
+  document.getElementById("applyProgram").onclick = function () {
+    var prog = computeProgram();
+    if (!prog) return;
+    document.getElementById("sName").value = prog.name;
+    draft.exercises = prog.items.map(function (it) {
+      return { name: it.name, sets: [{ w: it.sugWeight, r: it.sugReps }] };
+    });
+    renderDraft();
+  };
+
+  // Render immediately from local storage; the store, if any, takes over when it resolves.
+  sessions = loadLocal();
+  renderDraft();
+  renderAll();
+  status(sessions.length ? "tarayıcıya kayıtlı" : "hazır", "local");
+
+  claude.use("db").then(function (store) {
+    if (!store) {
+      status("bu görünümde yerel kayıt", "local");
+      return;
+    }
+    db = store;
+    db.collection(COLL).onSnapshot(function (snap) {
+      var live = snap.docs.map(function (d) {
+        var body = d.data() || {};
+        return {
+          id: d.id, date: body.date, name: body.name, note: body.note,
+          exercises: body.exercises || [], createdAt: body.createdAt
+        };
+      });
+      sessions = live;
+      usingDemo = false;
+      renderAll();
+      status(live.length ? live.length + " seans kayıtlı" : "kayda hazır", "live");
+    }, function (err) {
+      status("bağlantı hatası (" + err.code + ") — yerel kayda geçildi", "local");
+      db = null;
+      sessions = loadLocal();
+      renderAll();
+    });
+  }).catch(function () {
+    status("yerel kayıt", "local");
+  });
+})();
+</script>

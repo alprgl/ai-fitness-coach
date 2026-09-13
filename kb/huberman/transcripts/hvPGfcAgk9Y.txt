@@ -1,0 +1,3973 @@
+# Dr. Matt Walker: Protocols to Improve Your Sleep | Huberman Lab Guest Series
+# id=hvPGfcAgk9Y published=2024-04-10 lang=en generated=True
+
+[0:00:00] [Music]
+[0:00:00] welcome to the hubman lab guest Series
+[0:00:02] where I and an expert guest discuss
+[0:00:04] science and science-based tools for
+[0:00:06] everyday
+[0:00:07] life I'm Andrew huberman and I'm a
+[0:00:10] professor of neurobiology and
+[0:00:11] Opthalmology at Stanford school of
+[0:00:13] medicine today marks the second episode
+[0:00:16] in our sixth episode series all about
+[0:00:18] sleep with our expert guest Dr Matthew
+[0:00:20] Walker during today's episode we discuss
+[0:00:22] the dos and the do Nots of sleep
+[0:00:25] focusing for instance on how to use
+[0:00:27] light and absence of light as well as
+[0:00:29] temperature both of your sleep
+[0:00:30] environment specifically the room you're
+[0:00:32] in your body temperature and much more
+[0:00:34] in order to regulate the timing and
+[0:00:36] quality of your sleep and we discuss how
+[0:00:39] things like alcohol caffeine and
+[0:00:40] cannabis impact sleep and the various
+[0:00:43] stages of sleep and we discuss the
+[0:00:45] various tools that exist now and that
+[0:00:47] are rapidly becoming available to
+[0:00:49] improve your sleep this episode is
+[0:00:51] essential for anyone trying to optimize
+[0:00:53] their sleep and when I say optimize your
+[0:00:54] sleep I mean trying to optimize the
+[0:00:57] formula that was addressed in the first
+[0:00:58] episode of the series which is the qqr
+[0:01:01] formula the quality quantity regularity
+[0:01:04] and timing of your sleep four variables
+[0:01:06] that combine to determine whether or not
+[0:01:08] your sleep is optimized for you and
+[0:01:10] thereby providing the most restoration
+[0:01:12] and Improvement to your mental health
+[0:01:14] physical health and performance before
+[0:01:16] we begin I'd like to emphasize that this
+[0:01:18] podcast is separate from my teaching and
+[0:01:19] research roles at Stanford it is however
+[0:01:22] part of my desire and effort to bring
+[0:01:23] zero cost of consumer information about
+[0:01:25] science and science related tools to the
+[0:01:27] general public in keeping with that
+[0:01:29] theme I'd like to thank the sponsors of
+[0:01:31] today's podcast our first sponsor is
+[0:01:33] Helix sleep Helix sleep makes mattresses
+[0:01:36] and pillows that are customized to your
+[0:01:38] unique sleep needs it's abundantly clear
+[0:01:40] that sleep is the foundation of mental
+[0:01:42] health physical health and performance
+[0:01:44] when we're getting enough quality sleep
+[0:01:46] everything in life goes so much better
+[0:01:47] and when we are not getting enough
+[0:01:48] quality sleep everything in life is that
+[0:01:51] much more challenging now one of the key
+[0:01:52] things to getting a great night sleep is
+[0:01:54] to have the appropriate mattress
+[0:01:56] everyone however has slightly different
+[0:01:57] needs in terms of what would be the
+[0:01:59] optimal mattress for them Helix
+[0:02:01] understands that people have unique
+[0:02:02] sleep needs and they've designed a brief
+[0:02:04] two-minute quiz that asks you questions
+[0:02:06] like do you sleep on your back your side
+[0:02:08] or your stomach do you tend to run hot
+[0:02:10] or cold during the night or maybe you
+[0:02:11] don't know the answers to those
+[0:02:12] questions if you go to the Helix site
+[0:02:14] and take that brief quiz they'll match
+[0:02:15] you to a mattress that's optimal for you
+[0:02:17] for me it turned out to be the dusk DS
+[0:02:19] mattress it's not too hard not too soft
+[0:02:21] and I sleep so much better on my Helix
+[0:02:23] mattress than on any other type of
+[0:02:25] mattress I've used before so if you're
+[0:02:27] interested in upgrading your mattress go
+[0:02:29] to Helix sleep.com
+[0:02:30] take their brief 2-minute sleep quiz and
+[0:02:33] they'll match you to a customized
+[0:02:34] mattress for you and you'll get up to
+[0:02:36] $350 off any mattress order and two free
+[0:02:39] pillows again that's helixsleep.com
+[0:02:42] huberman to save up to $350 off and two
+[0:02:45] free pillows today's episode is also
+[0:02:47] brought To Us by whoop whoop is a
+[0:02:49] fitness wearable device that tracks your
+[0:02:51] daily activity and sleep but also goes
+[0:02:53] beyond that by providing real-time
+[0:02:55] feedback on how to adjust your training
+[0:02:57] and sleep schedule to perform better I
+[0:02:59] I've been working with whoop on their
+[0:03:00] scientific advisory Council to try and
+[0:03:03] help Advance wop's mission of unlocking
+[0:03:05] Human Performance as a whoop user I've
+[0:03:07] experienced the health benefits of their
+[0:03:08] technology firsthand for sleep tracking
+[0:03:10] for monitoring other features of my
+[0:03:12] physiology and for giving me a lot of
+[0:03:13] feedback about metrics within my brain
+[0:03:16] and body that tell me how hard I should
+[0:03:18] train or not train and basically point
+[0:03:20] to the things that I'm doing correctly
+[0:03:21] and incorrectly in my daily life that I
+[0:03:23] can adjust using protocols some of which
+[0:03:26] are actually within the whoop app given
+[0:03:28] that many of us have goals such as
+[0:03:29] improving our sleep building better
+[0:03:31] habits or just focusing more on our
+[0:03:33] overall health whoop is one of the tools
+[0:03:35] that can really help you get
+[0:03:36] personalized data recommendations and
+[0:03:38] coaching toward your overall health if
+[0:03:40] you're interested in trying whoop you
+[0:03:42] can go to join. whoop.com huberman today
+[0:03:45] to get your first month free again
+[0:03:47] that's join. woop.com
+[0:03:49] huberman today's episode is also brought
+[0:03:51] To Us by waking up waking up is a
+[0:03:54] meditation app that has hundreds of
+[0:03:56] different meditations as well as scripts
+[0:03:58] for Yoga Nidra and non-sleep deep rest
+[0:04:00] or nsdr protocols by now there's an
+[0:04:03] abundance of data showing that even
+[0:04:06] short daily meditations can greatly
+[0:04:08] improve our mood reduce anxiety improve
+[0:04:10] our ability to focus and can improve our
+[0:04:13] memory and while there are many
+[0:04:14] different forms of meditation most
+[0:04:16] people find it difficult to find and
+[0:04:18] stick to a meditation practice in a way
+[0:04:20] that is most beneficial for them the
+[0:04:22] waking up app makes it extremely easy to
+[0:04:24] learn how to meditate and to carry out
+[0:04:27] your daily meditation practice in a way
+[0:04:29] that it's going to be most effective and
+[0:04:31] efficient for you it includes a variety
+[0:04:33] of different types of meditations of
+[0:04:35] different duration as well as things
+[0:04:37] like yoga NRA which place the brain and
+[0:04:39] body into a sort of pseudo sleep that
+[0:04:41] allows you to emerge feeling incredibly
+[0:04:43] mentally refreshed in fact the science
+[0:04:45] around Yoga Nidra is really impressive
+[0:04:47] showing that after a Yoga Nidra session
+[0:04:49] levels of dopamine in certain areas of
+[0:04:51] the brain are enhanced by up to 60%
+[0:04:53] which places the brain and body into a
+[0:04:55] state of enhanced Readiness for mental
+[0:04:57] work and for physical work another thing
+[0:04:59] I really like about the waking up app is
+[0:05:01] that it provides a 30-day introduction
+[0:05:03] course so for those of you that have not
+[0:05:05] meditated before or getting back to a
+[0:05:07] meditation practice that's fantastic or
+[0:05:10] if you're somebody who's already a
+[0:05:11] skilled and regular meditator waking up
+[0:05:14] has more advanced meditations and yoga
+[0:05:15] needer sessions for you as well if you'd
+[0:05:17] like to try the waking up app you can go
+[0:05:19] to waking up.com huberman and access a
+[0:05:23] free 30-day trial again that's waking
+[0:05:25] up.com huberman and now for my
+[0:05:28] conversation with Dr Matthew Walker
+[0:05:31] Professor Matt Walker welcome back we're
+[0:05:33] all so happy to have you here and in
+[0:05:35] episode one you beautifully described
+[0:05:39] the biology of sleep why sleep is
+[0:05:41] important what happens when we don't get
+[0:05:43] enough sleep and you incentivized
+[0:05:45] getting adequate amounts of great sleep
+[0:05:48] and you defined what great sleep is and
+[0:05:50] you provided some excellent practical
+[0:05:53] protocols and tools for getting great
+[0:05:55] sleep
+[0:05:57] however today you're going to tell us I
+[0:06:00] believe about the protocols for really
+[0:06:04] optimizing one's sleep both conventional
+[0:06:08] tools and protocols and some let's say
+[0:06:11] unconventional not heretical but
+[0:06:13] unconventional tools for optimizing
+[0:06:16] one's sleep so let's start with the
+[0:06:18] basics what are the basics of what I
+[0:06:21] think I've heard you refer to previously
+[0:06:23] as sleep hygiene yeah I think we many of
+[0:06:27] us can resonate with the idea of dental
+[0:06:30] hygiene but turns out there's something
+[0:06:33] called Sleep hygiene and there are
+[0:06:36] probably I would say five edicts of
+[0:06:40] sleep
+[0:06:41] hygiene I offer them as as
+[0:06:46] tools and not necessarily rules because
+[0:06:50] I don't think people respond to rules
+[0:06:53] people respond to reasons and not rules
+[0:06:56] so if it's okay I'll probably just
+[0:06:57] unpack each one of them rather than just
+[0:06:59] sort of bark them at you and hope people
+[0:07:03] assume that it's the right uh answer
+[0:07:05] I'll explain the answer so people
+[0:07:07] understand why it's
+[0:07:08] important so as I said there are
+[0:07:10] probably five things that you can start
+[0:07:12] doing tonight to try to improve your
+[0:07:15] sleep the first we've spoken a little
+[0:07:17] bit about in that first episode it's
+[0:07:20] part of the four macros of good sleep
+[0:07:23] first piece of advice
+[0:07:25] regularity go to bed at the same time
+[0:07:27] and wake up at the same time
+[0:07:30] no matter whether it's the weekday or
+[0:07:31] the
+[0:07:32] weekend regularity is king and the
+[0:07:36] reason is because when you feed your
+[0:07:38] brain the signals of timed regularity
+[0:07:42] for your sleep it will anchor your sleep
+[0:07:46] and improve the quantity and the quality
+[0:07:49] of that sleep because part of that
+[0:07:51] signal of regularity going into your
+[0:07:54] brain in terms of that repeated Behavior
+[0:07:56] night after night sleep in other words
+[0:07:59] helps train that Central 24-hour Cadian
+[0:08:04] clock that we also spoke about in the
+[0:08:06] first episode so that's the first piece
+[0:08:08] of advice try to keep it as regular as
+[0:08:11] you possibly
+[0:08:12] can the second piece of advice is
+[0:08:17] darkness in my view we are a dark
+[0:08:20] deprived Society in this modern era and
+[0:08:23] we need Darkness at night as well you've
+[0:08:26] spoken about to release a hormone called
+[0:08:30] melatonin and melatonin will help time
+[0:08:33] the regular onset of your sleep so that
+[0:08:38] sounds great but what boots on the
+[0:08:40] ground Matt what does that mean I would
+[0:08:43] suggest the following in the last hour
+[0:08:46] before bed try to dim down 50% if not
+[0:08:50] more of your lights in your home and you
+[0:08:54] will be quite surprised at how sleepy
+[0:08:56] and soporific that will make you feel
+[0:09:00] I will do this in a regimented way I
+[0:09:03] have uh little reminder that pops up and
+[0:09:07] tells me now is the time to dim the
+[0:09:09] lights based on your bedtime and I'll go
+[0:09:12] around and I'll shut lights down in my
+[0:09:14] bedroom I will actually have a small
+[0:09:16] light bulb and it is way down to
+[0:09:19] probably as little as maybe five luxs
+[0:09:23] and look is just a a metric of the light
+[0:09:27] um it's way down there and it's also
+[0:09:29] very deep orange sort of red and we can
+[0:09:32] come on to why that's the case so that's
+[0:09:35] the first thing even before you're
+[0:09:36] thinking about sleep start to decrease
+[0:09:39] the
+[0:09:40] light for example if you
+[0:09:43] were there at let's say for a standard
+[0:09:46] sleep schedule at 1000 p.m. and normally
+[0:09:49] you are getting into bed at 10:30 p.m.
+[0:09:51] but you feel pretty wide awake if there
+[0:09:54] was an electrical blackout and you lost
+[0:09:57] your phone magnetic to phone goes down
+[0:10:00] lights go down Total Blackout my
+[0:10:03] suspicion is that fairly soon you'd say
+[0:10:06] gosh how you feel quite sleepy whereas
+[0:10:09] if the lights were blazing you've got
+[0:10:11] your phone television's on lots of
+[0:10:14] stimulation you're probably going to
+[0:10:16] think 10:30 no I could I could probably
+[0:10:18] push through for at least another hour
+[0:10:20] so try to dissipate that light and then
+[0:10:24] if you need to wear an eye mask blackout
+[0:10:26] curtains always good as well but we need
+[0:10:29] that Darkness at night because when you
+[0:10:32] give the brain the signal of Darkness it
+[0:10:35] releases effectively a brake pedal that
+[0:10:37] brake pedal has normally been applied by
+[0:10:40] way of light on the release of that
+[0:10:43] spigot of meel melatonin and when you
+[0:10:46] take the brake pedal off it
+[0:10:48] starts starts pumping out into the
+[0:10:51] brain you can also then of course
+[0:10:54] probably reverse engineer this trick in
+[0:10:57] the morning and this is another
+[0:10:59] component of why you've been I think so
+[0:11:03] such a wonderful advocate for light in
+[0:11:05] the morning it does many things but one
+[0:11:07] of the things that it does is reapply
+[0:11:10] that break on melatonin and therefore
+[0:11:13] you lose the signal to your brain of
+[0:11:16] Darkness that's what melatonin in some
+[0:11:18] ways is doing we often call it the
+[0:11:21] hormone of Darkness or the vampire
+[0:11:23] hormone not necessarily because it makes
+[0:11:25] you look longingly at people's necklines
+[0:11:27] and want to to to bite it which is great
+[0:11:30] if you're into that but it's really
+[0:11:32] simply about it's releasing melatonin
+[0:11:35] which tells the brain my goodness it's
+[0:11:37] nighttime but if you've got bright light
+[0:11:40] on you come from your office you're
+[0:11:42] driving home so you've got artificial
+[0:11:44] light during the day which is probably
+[0:11:46] not strong enough to stimulate you and
+[0:11:49] bring you awake you come home and you've
+[0:11:51] got again bright light but it's still
+[0:11:55] strong enough now to prevent the release
+[0:11:58] of melatonin you start to shift in your
+[0:12:00] timing and you may have problems with
+[0:12:02] your sleep so that's the second piece of
+[0:12:04] advice I would love to ask you about
+[0:12:06] that Morning Light two and the alertness
+[0:12:09] benefits I'm as a sleep researcher more
+[0:12:12] focused on the evening component of
+[0:12:14] light and decreasing it but you've done
+[0:12:16] a great job I don't know if there's
+[0:12:17] anything yeah there are a couple of
+[0:12:19] quick points that um are based on some
+[0:12:21] what I consider really nice studies uh
+[0:12:24] there's beautiful work in human showing
+[0:12:26] that bright light exposure in the
+[0:12:28] morning especially from sunlight but um
+[0:12:30] if one doesn't have access to sunlight
+[0:12:32] for whatever reason there are
+[0:12:33] commercially available so-called sad
+[0:12:35] lamps Seasonal effective disorder lamps
+[0:12:37] they range anywhere from 5,000 to 10,000
+[0:12:40] Lux very bright but um but certainly uh
+[0:12:43] morning sunlight viewing and lamps of
+[0:12:46] the sort I just described have been
+[0:12:48] shown to increase the amplitude of the
+[0:12:50] morning cortisol Spike by as much as
+[0:12:53] 50% 5 so people hear cortisol and they
+[0:12:57] freak out they think that's not good I
+[0:12:58] want cortisol low but you actually want
+[0:13:00] your cortisol highest in the morning and
+[0:13:03] lower in the afternoon and evening um
+[0:13:06] and there's a lot of reasons for that
+[0:13:08] elevated mood focus and alertness in the
+[0:13:10] morning and throughout the day and uh
+[0:13:12] ease of getting to sleep at night lower
+[0:13:13] anxiety lower depressive symptoms and so
+[0:13:15] on so that bright light also serves to
+[0:13:18] um control the amplitude of cortisol uh
+[0:13:21] it in the direction you want in the
+[0:13:22] early part of the day the other thing
+[0:13:24] that's just more of a uh underlying
+[0:13:26] dynamics of the Circadian visual system
+[0:13:29] which is a system that I worked on for
+[0:13:31] years um these wonderful um cells in the
+[0:13:34] eyes that are not for image forming but
+[0:13:36] rather for detecting sunlight and bright
+[0:13:38] light for sake of setting circadian
+[0:13:39] rhythm is that the sensitivity of that
+[0:13:42] system early in the day is actually
+[0:13:44] quite low so you need a lot of bright
+[0:13:46] light early in the day to effectively
+[0:13:49] wake up your system and shut down the
+[0:13:50] sleepiness signals such as melatonin but
+[0:13:54] later in the day it's a rather
+[0:13:55] diabolical system it takes very little
+[0:13:59] light even from artificial sources to
+[0:14:02] disrupt your circadian rhythm and quash
+[0:14:04] melatonin as little as 15 seconds of
+[0:14:07] bright light in the evening I think CH
+[0:14:10] Chuck Zer laboratory at Harvard Medical
+[0:14:12] School showed can quash melatonin in the
+[0:14:15] evening now I don't want people to freak
+[0:14:16] out and think that if they go into a
+[0:14:17] hotel bathroom which oftentimes those
+[0:14:19] are very bright in the middle of the
+[0:14:20] night flip on the light that they're
+[0:14:22] going to um completely uh screw up their
+[0:14:25] circadian rhythms but if I'm honest
+[0:14:28] they'd be much better off using um their
+[0:14:30] phone as a flashlight to navigate people
+[0:14:33] always say well wait but the flashlight
+[0:14:34] on the phone is very bright but let's
+[0:14:35] just get logical here a light shown into
+[0:14:38] your eyes if such as a a flashlight is
+[0:14:40] very different than looking at a
+[0:14:41] flashlight Beam on the ground yeah Far
+[0:14:43] and Away difference so the point is that
+[0:14:46] if you don't get enough bright sunlight
+[0:14:47] or light in your eyes early in the day
+[0:14:50] and then you're indoors under artificial
+[0:14:52] lighting you might think well this is
+[0:14:53] really bright lighting this is the kind
+[0:14:55] of lighting that could disrupt my
+[0:14:56] circadian rhythm at night and therefore
+[0:14:58] it's sufficient to wake up my system no
+[0:15:00] early in the day and throughout the day
+[0:15:02] you need a lot of bright light as much
+[0:15:03] as safely possible to avoid Sunburn and
+[0:15:05] things of that sort which you don't want
+[0:15:08] but then as the evening comes around
+[0:15:09] after Sundown you need very little
+[0:15:12] artificial light in order to disrupt
+[0:15:15] your circadian rhythm and then just very
+[0:15:17] quickly light from candles fireplaces is
+[0:15:21] okay this is kind of interesting it
+[0:15:22] seems bright it's but the but the
+[0:15:24] measurements uh indicate that that's not
+[0:15:26] going to shift your circadian rhythm
+[0:15:27] much candles are great but of course
+[0:15:29] don't burn your house down so the the
+[0:15:31] orange and red tones in the evening way
+[0:15:33] dim down that's the way to go early in
+[0:15:36] the day bright bright bright light as
+[0:15:38] bright as you safely can tolerate and
+[0:15:41] what I like about firstly your mention
+[0:15:43] of cortisol do you described how
+[0:15:45] cortisol is rising in the morning and
+[0:15:47] that's a great thing and it is a good
+[0:15:49] thing and in the evening it's starting
+[0:15:51] to drop and if you look right around
+[0:15:53] your prototypical bedtime and we're
+[0:15:55] going to speak later in this episode as
+[0:15:58] to what your real natural bedtime is
+[0:16:01] versus the one that you may be taking
+[0:16:04] right now it's very interesting cortisol
+[0:16:07] will almost hit its lowest point
+[0:16:10] something that we call its Nader it's
+[0:16:12] the lowest point in that trough of its
+[0:16:14] decline right around the time when you
+[0:16:16] should be sleeping however there's a
+[0:16:19] great study that looked at people with
+[0:16:22] insomnia and in uh subsequent episodes
+[0:16:25] we'll we'll discuss this too but one of
+[0:16:28] the ways that we think about or
+[0:16:29] conceptualize insomnia is in two
+[0:16:32] different flavors sleep onset insomnia I
+[0:16:35] can't fall asleep and sleep maintenance
+[0:16:37] insomnia I wake up I can't get back to
+[0:16:40] sleep and what they looked at was
+[0:16:43] essentially cortisol levels they had um
+[0:16:46] a catheter in the arm and they were
+[0:16:48] sampling it from the bloodstream and
+[0:16:50] they were able to do that every 30
+[0:16:52] minutes so it's a little bit like
+[0:16:53] timelapse photography and you're getting
+[0:16:56] a data point every 30 minutes across the
+[0:16:58] 24 hour period looking at cortisol
+[0:17:01] across now a full 24-hour period and
+[0:17:04] sure enough when you look at healthy
+[0:17:06] controls who can sleep well and insomnia
+[0:17:08] patients they look almost identical
+[0:17:11] across the day but then when it comes to
+[0:17:15] falling asleep right around that bedtime
+[0:17:17] period the healthy controls are going
+[0:17:20] all the way down the insomnia patients
+[0:17:23] go down and down and down and then they
+[0:17:24] have a rise back up right around that
+[0:17:26] sleep onset period and then they start
+[0:17:29] to drop back down again just as the
+[0:17:31] control group but then they also often
+[0:17:34] will have a spike in the middle of the
+[0:17:37] night which then comes down and then
+[0:17:39] both of them are staying low throughout
+[0:17:41] the early morning period and then it
+[0:17:43] starts to rise back up so it's not as
+[0:17:46] though net net overall there is a higher
+[0:17:48] level of cortisol in people with
+[0:17:50] insomnia it seems to be right at those
+[0:17:52] trigger zones that map very nicely to
+[0:17:55] sleep onet problems sleep maintenance
+[0:17:58] problems very interesting as somebody
+[0:18:00] who wakes up in the middle of the night
+[0:18:01] and sometimes has trouble getting back
+[0:18:03] to sleep that that resonates I I have no
+[0:18:05] trouble falling asleep whatsoever yeah
+[0:18:08] knock on wood superstitious about this
+[0:18:11] at this point but I use tools like
+[0:18:12] non-sleep deep breast Yoga Nidra long
+[0:18:15] exhale breathing but you know and I
+[0:18:18] think these wakeup uh episodes seem to
+[0:18:21] happen more when I'm processing a lot of
+[0:18:23] stuff from my daily life that's right
+[0:18:26] you know it's um the unconscious brain
+[0:18:28] um
+[0:18:29] often times it's working through things
+[0:18:31] and and will wake us up yeah I often
+[0:18:33] think
+[0:18:34] that sleep maintenance insomnia that
+[0:18:37] you've just described is the Revenge of
+[0:18:41] daytime emotions
+[0:18:43] unresolved that's a great way to put it
+[0:18:45] yeah so that would be so we've spoken
+[0:18:47] about regularity we've spoken about
+[0:18:48] darkness and we've spoken about the
+[0:18:50] inverse of that in the morning which is
+[0:18:52] light a little bit of cortisol so the
+[0:18:54] third out of the five is going to be
+[0:18:57] temperature and the advice here is keep
+[0:18:59] it cool as we mentioned a little bit in
+[0:19:02] the first episode and we will go into
+[0:19:04] great detail when we speak not just
+[0:19:05] about these conventional and
+[0:19:07] unconventional tips but we're also going
+[0:19:09] to go into the future of Science and
+[0:19:11] where sleep science is taking us to in
+[0:19:14] fact optimize and even enhance our sleep
+[0:19:18] we will speak a lot about temperature
+[0:19:20] suffice to say that you need to drop
+[0:19:23] your core body temperature and your
+[0:19:25] brain temperature by a little less than
+[0:19:27] 1° cus 2 to 3 Dees fhe to get to sleep
+[0:19:31] and stay
+[0:19:32] asleep the general Target that we have
+[0:19:37] in sleep science if you look across the
+[0:19:39] literature is somewhere around about the
+[0:19:41] 67 Dee Fahrenheit or I'm trying to do
+[0:19:45] the calculation maybe 18.5 is degrees C
+[0:19:48] now I know that that sounds cold and
+[0:19:51] cold it it is but you can also wear
+[0:19:54] thick socks to bed you can have a hot
+[0:19:56] water bottle at the end of the bed
+[0:19:57] that's great too but the ambient must be
+[0:20:00] cold the fourth piece of advice is Walk
+[0:20:05] It Out and here what I mean is do not
+[0:20:09] stay in bed for long periods of time
+[0:20:12] awake and I think we mentioned this
+[0:20:15] perhaps in the first episode too when
+[0:20:18] you are awake in your bed for long
+[0:20:20] stretches of time because your brain is
+[0:20:23] an incredibly associative device it will
+[0:20:27] quickly learn that that this thing
+[0:20:29] called my bed is the place where I'm
+[0:20:32] awake and not
+[0:20:34] asleep and what you need to do is break
+[0:20:37] that Association if you've learned that
+[0:20:40] time and time again because you've
+[0:20:41] stayed in bed and the rule of thumb and
+[0:20:43] it's just a a rule of thumb about 20 25
+[0:20:47] minutes if you can't fall back asleep or
+[0:20:50] you can't fall asleep it's okay just say
+[0:20:53] tonight is not my night it's not a
+[0:20:55] problem it's tomorrow is not completely
+[0:20:58] shot it's fine I'm just going to get up
+[0:21:01] get out of bed if you can if you're
+[0:21:02] lucky enough try to go to a different
+[0:21:04] room and in dim light read a book listen
+[0:21:07] to a podcast whatever it is that relaxes
+[0:21:11] you just do that don't check email don't
+[0:21:13] eat because if you start eating that
+[0:21:15] again trains your brain to start waking
+[0:21:17] up and feeding at that time and only
+[0:21:21] return to bed when you are sleepy and
+[0:21:23] there is no time limit for that I don't
+[0:21:25] want you to come back after half an hour
+[0:21:28] when you are still awake and not feeling
+[0:21:30] sleepy enough why because you're going
+[0:21:32] to get back into bed and be in the same
+[0:21:35] problem again and gradually if you do
+[0:21:37] this and it's hard to do
+[0:21:39] it you will relearn the association that
+[0:21:43] you had I'm sure as a child which is
+[0:21:45] that your bed is this place of
+[0:21:48] sleepiness because often people will be
+[0:21:50] saying I I feel so tired in the evening
+[0:21:53] and then they get into bed and they say
+[0:21:56] but now I can't fall asleep at all and I
+[0:21:58] don't understand it in part it's because
+[0:22:00] of that learned Association so that
+[0:22:02] would be the fourth tip the fifth tip um
+[0:22:06] makes me um even more unpopular as a
+[0:22:10] personality and character which is try
+[0:22:12] to be mindful of your alcohol and
+[0:22:15] caffeine now in a subsequent episode
+[0:22:18] we'll go into great detail as to how
+[0:22:20] caffeine Works its mechanisms why it is
+[0:22:24] sleep disruptive and why in fact I've
+[0:22:26] even perhaps changed my mind
+[0:22:29] on caffeine and and its benefits but it
+[0:22:32] also does have significant detriment to
+[0:22:34] your sleep so the rule of thumb here
+[0:22:37] would be try to cut yourself off from
+[0:22:41] caffeine probably at least 10 or so
+[0:22:44] hours before you expect to go to bed and
+[0:22:47] you can just calculate back calculate
+[0:22:49] that and try to limit it so the dose and
+[0:22:53] the timing make the poison cut yourself
+[0:22:55] off after maybe two or three cups of
+[0:22:58] coffee coffee and then that timing
+[0:23:00] component count yourself back C yourself
+[0:23:03] off decaffeinated coffee not too bad if
+[0:23:05] you find the right thing too if you need
+[0:23:07] that
+[0:23:08] fix alcohol is probably one of the most
+[0:23:13] misunderstood sleep aids in a quotes
+[0:23:17] that there is it is no sleep aid at all
+[0:23:21] now if I didn't understand what I know
+[0:23:24] about alcohol and and sleep I would
+[0:23:26] think that too which is look when I have
+[0:23:29] a night cap just before bed or two even
+[0:23:32] though I don't wear them um I I may
+[0:23:36] actually just fall asleep very easily
+[0:23:39] and feels like I stay asleep very
+[0:23:41] soundly across the night so it's a great
+[0:23:44] sleep aid and it really helps me there
+[0:23:46] are at least I would say three issues
+[0:23:49] with alcohol the first is that alcohol
+[0:23:51] is in a class of drugs that we call the
+[0:23:54] sedatives and sedation is not sleep
+[0:23:59] but when you take on board alcohol in
+[0:24:01] the evening you mistake the former for
+[0:24:03] the latter and you think it helps you
+[0:24:05] fall asleep the second thing is that
+[0:24:09] because it's
+[0:24:11] sedation or actually it's probably
+[0:24:12] related to sedation if I were to show
+[0:24:15] you the electrical signature of your
+[0:24:18] deep sleep when you're just sleeping
+[0:24:21] naturally versus when you have alcohol
+[0:24:23] in your system it's not really the same
+[0:24:25] it's not a naturalistic form of deep s
+[0:24:28] it mimics it it looks not too dissimilar
+[0:24:31] but if I really do my analyses and I
+[0:24:33] almost like that Pink Floyd album where
+[0:24:35] I take the white light of electrical
+[0:24:36] brain activity coming from your head as
+[0:24:39] you're sleeping and split it apart into
+[0:24:41] all of the different components there
+[0:24:42] are some components that are no longer
+[0:24:45] present or some that are abnormally
+[0:24:47] present the second issue with alcohol is
+[0:24:49] that it fragments your sleep so it will
+[0:24:52] litter your sleep with all these
+[0:24:54] punctuated Awakenings throughout the
+[0:24:56] night the danger that is that many of
+[0:24:59] those Awakenings with alcohol you don't
+[0:25:01] remember because they're too
+[0:25:04] brief but then you wake up the next day
+[0:25:06] and you think well I didn't have a
+[0:25:08] problem falling asleep I didn't have a
+[0:25:10] problem staying asleep but I just I feel
+[0:25:13] rough I just don't feel restored by my
+[0:25:15] sleep and you don't add two and two
+[0:25:19] together the final concern with alcohol
+[0:25:21] is that it's quite a potent Blocker of
+[0:25:24] your rapid eye movement sleep or REM
+[0:25:26] sleep and in subsequent episodes we'll
+[0:25:29] go into great detail as to the
+[0:25:32] incredible learning and memory
+[0:25:35] creativity benefits that come by way of
+[0:25:37] REM sleep also it's essential for our
+[0:25:40] emotional regulation and recalibrating
+[0:25:43] our
+[0:25:44] moods so for all of those reasons I
+[0:25:48] would say two things first if you are
+[0:25:51] struggling with sleep not feeling
+[0:25:53] restored by your sleep keep in mind your
+[0:25:56] alcohol intake and also just in general
+[0:25:59] be mindful of that if you are thinking
+[0:26:02] about your sleep and want to preserve it
+[0:26:04] so much of what you just said resonates
+[0:26:06] uh I confess that in my lifetime I've
+[0:26:08] had periods of um pretty spectacular
+[0:26:11] sleep I characterize myself as somebody
+[0:26:15] that could fall asleep anywhere anytime
+[0:26:18] but I've also experienced the extreme
+[0:26:21] challenges of sleep and um and that
+[0:26:24] relates to different things life
+[0:26:25] circumstances Etc in fact recently I've
+[0:26:27] had some challenges with sleep despite
+[0:26:29] using the protocols that I and uh others
+[0:26:33] suggest I hadn't heard some of the
+[0:26:35] things that you're um referring to here
+[0:26:38] and um middle of the night waking has
+[0:26:40] become more of an issue I communicated
+[0:26:42] this to uh former girlfriend of mine who
+[0:26:46] um was uh I was in relationship with
+[0:26:48] when I was a a junior Professor meaning
+[0:26:51] before I got tenure and she said you
+[0:26:54] don't remember you had a Andrew but I do
+[0:26:57] you had a pattern back then of um after
+[0:27:00] I would fall asleep you would continue
+[0:27:02] working on your laptop probably on
+[0:27:04] grants um and then I would fall asleep
+[0:27:08] working and then according to her I
+[0:27:10] would wake up in the middle of the night
+[0:27:11] and work a little bit until I'd get
+[0:27:13] tired again and then fall asleep and
+[0:27:15] then this would repeat so um really
+[0:27:18] stamping down the uh the associative
+[0:27:21] learning element that you talked about
+[0:27:22] before so that was probably the first
+[0:27:24] period of time in my life in which I I
+[0:27:27] created this um
+[0:27:28] rather uh delerious Association of work
+[0:27:32] in the middle of the night in bed right
+[0:27:35] um and then more recently I've had the
+[0:27:38] the uh experience of waking up probably
+[0:27:40] due to these like daytime things that I
+[0:27:42] I'm waking up in the middle of the night
+[0:27:44] thinking about and now because of our
+[0:27:46] discussion during the course of of
+[0:27:48] recording this series I get out of bed
+[0:27:50] after even 101 15 minutes um so that I
+[0:27:53] can start to eliminate that Association
+[0:27:56] and another piece is that I've always
+[0:27:58] felt that when I get out of bed in the
+[0:28:00] middle of the night because I can't
+[0:28:01] sleep and I go to the sofa I often can
+[0:28:03] sleep very well reason being proving
+[0:28:06] right it's a control experiment proving
+[0:28:08] that the location of sleep is uh the and
+[0:28:12] the association of wakefulness at sleep
+[0:28:14] in bed as opposed to on the sofa is is a
+[0:28:16] clear component and this is in an
+[0:28:18] environment that's of equal temperature
+[0:28:20] I mean it's not a perfect experiment
+[0:28:21] right um it's anakata as we say but I I
+[0:28:24] think that the associative piece is oh
+[0:28:27] so strong um for many people and so this
+[0:28:30] is something to to really take seriously
+[0:28:32] I love that notion of and people will
+[0:28:34] often say I just get up I go to the
+[0:28:36] couch or the sofa and that's where I'll
+[0:28:38] wake up in the morning also they'll say
+[0:28:41] when I travel and I go to a hotel room I
+[0:28:44] just can sleep fine now for some people
+[0:28:46] it's the inverse but for those people
+[0:28:48] it's the contextual difference meaning
+[0:28:51] the change of the environment is so
+[0:28:54] unfamiliar that it has not been bound to
+[0:28:57] Association of wakefulness it's related
+[0:29:00] to sleep or at least the opportunity to
+[0:29:02] sleep sometimes even I've heard from
+[0:29:05] some people and there's no studies or
+[0:29:07] data on this even turning yourself
+[0:29:10] around now this is hard if you have a
+[0:29:12] partner in bed but you just switch top
+[0:29:15] to bottom of the bed and you take your
+[0:29:17] pillow and you pull the duvet all the
+[0:29:20] way down and you put the pillow at the
+[0:29:21] opposite end where your feet used to be
+[0:29:23] and you get into bed and even just
+[0:29:25] looking around and sort of having a
+[0:29:27] difference that alone is so subtle but
+[0:29:30] it can make a real difference so again
+[0:29:34] just keep these things in mind I know it
+[0:29:36] sounds strange or this whole sort of get
+[0:29:38] up get out of bed break the
+[0:29:41] associate and we'll come on to something
+[0:29:44] well actually I'll come on to it now
+[0:29:45] because I think it's one of the
+[0:29:46] unconventional tips and you mentioned it
+[0:29:48] a lot of people say to me that all
+[0:29:50] sounds great I the science makes sense I
+[0:29:53] just don't it's dark it's kind of cold I
+[0:29:57] really don't want to get out of bed so
+[0:30:00] give me some
+[0:30:01] Alternatives I think the the single best
+[0:30:05] piece of unconventional sleep advice I
+[0:30:08] can give you is do anything that gets
+[0:30:12] your mind off
+[0:30:14] itself the principal reason that if you
+[0:30:17] look at insomnia as a physiological
+[0:30:19] condition or current working model
+[0:30:21] mechanistically of how insomnia um plays
+[0:30:24] out is that you are in this state of
+[0:30:28] almost low-level anxiety and you are
+[0:30:32] somewhat stressed and when you go to
+[0:30:35] sleep or you try to go to sleep or you
+[0:30:37] wake back up and you try to get back to
+[0:30:38] sleep you just have this Rolodex of
+[0:30:42] anxiety in the modern world we are
+[0:30:44] constantly on reception and very rarely
+[0:30:47] do we do
+[0:30:49] reflection and unfortunately for many of
+[0:30:51] us and I've been guilty of this the only
+[0:30:54] time we do reflection is when our head
+[0:30:57] is placed on the pillow and we turn the
+[0:30:59] light out and that is the last time you
+[0:31:02] want to be doing reflection that's the
+[0:31:04] worst moment and at that point I think
+[0:31:07] everyone can empathize with the idea of
+[0:31:11] you turn the light out you're under
+[0:31:13] stress your mind goes to those few
+[0:31:16] things in the darkness of night thoughts
+[0:31:20] become almost 10 times worse than they
+[0:31:23] do in the brigh of
+[0:31:25] day and at that moment you start to
+[0:31:28] ruminate when you ruminate you begin to
+[0:31:32] catastrophize and when you catastrophize
+[0:31:34] you're dead in the water for the next
+[0:31:36] two hours so what do you do the problem
+[0:31:39] is as I said your mind is on itself and
+[0:31:43] it's going through these repeated Loops
+[0:31:46] anything you can do for example you can
+[0:31:49] do some kind of a meditation and I when
+[0:31:52] I was researching data for my book some
+[0:31:54] years ago I did look into meditation and
+[0:31:57] I wasn't a meditator I was a hard-nosed
+[0:31:59] scientist and didn't really kind of
+[0:32:03] embrace with that notion or even that um
+[0:32:07] that group of people but time and again
+[0:32:10] I read paper after paper and the data
+[0:32:12] was very strong and it was coming from
+[0:32:14] research groups that I respected very
+[0:32:16] much indeed so I thought well okay I
+[0:32:19] should probably give this a try and that
+[0:32:23] was 6 years ago and since then I now
+[0:32:26] meditate for 10 minutes every single
+[0:32:28] night before bed I do a guided
+[0:32:30] meditation because I'm not particularly
+[0:32:32] skilled so I use an app that moves me
+[0:32:35] through that but you can do whatever you
+[0:32:38] how whatever meditation you like that's
+[0:32:41] one example the second example is you
+[0:32:44] can do breathing methods because again
+[0:32:46] you're focused on your breath and what
+[0:32:49] are you not focused on your
+[0:32:52] thoughts and so anything that will allow
+[0:32:57] you to
+[0:32:58] um
+[0:32:59] explore some other Focus maybe it's a
+[0:33:02] body scan where you start at the top of
+[0:33:03] your head or you start at your feet and
+[0:33:05] you work your way up and you just say
+[0:33:07] you know moving through now my neck what
+[0:33:10] Sensations am I feeling now into my
+[0:33:13] shoulders moving down into my chest now
+[0:33:16] I can feel the ends of my fingers am I
+[0:33:19] sensing
+[0:33:21] anything and when you start doing that
+[0:33:23] or any of these types of things the next
+[0:33:26] thing that you remember is your alarm
+[0:33:28] going off in the morning because you got
+[0:33:31] your mind off itself so I would say that
+[0:33:34] that's probably one of the
+[0:33:35] unconventional tips but let me come back
+[0:33:36] to the conventional anything else I've
+[0:33:40] probably missed out or being unclear
+[0:33:41] about the um actually I should probably
+[0:33:43] say one thing in terms of these not
+[0:33:46] they're not tips I don't like the word I
+[0:33:48] know you don't either or hacks or um
+[0:33:51] these are protocols and they're
+[0:33:53] well-informed scientific protocols in
+[0:33:55] all of this discussion today
+[0:33:58] you can get all of these things in place
+[0:34:01] and still have problems with
+[0:34:03] sleep the reason is because you may be
+[0:34:06] suffering from a Sleep Disorder so the
+[0:34:08] analogy would be let's say that I'm your
+[0:34:10] athletic coach and you're a sports
+[0:34:13] Superstar I can perfect everything I can
+[0:34:15] perfect your your diet your supplements
+[0:34:19] we can perfect your Technique we can
+[0:34:21] perfect but if you've got a broken ankle
+[0:34:26] none of those things are going to alter
+[0:34:28] your performance right now you've got to
+[0:34:30] get to a doctor and get that scen to and
+[0:34:33] then we can come back to fine-tuning
+[0:34:35] your performance it's the same with
+[0:34:37] sleep if you've got a sleep disorder
+[0:34:38] such as snoring sleep apnea or insomnia
+[0:34:41] we need to get you to a doctor first and
+[0:34:43] then only after that come back once
+[0:34:45] you're resolved then we can start to
+[0:34:48] optimize that's the only other thing I
+[0:34:50] probably should mention yeah this is all
+[0:34:52] very useful discussion because I think
+[0:34:54] that um of course there will be those
+[0:34:56] folks out there that just like what are
+[0:34:59] they talking about I sleep so well at
+[0:35:01] night you know consider yourself blessed
+[0:35:02] many many people struggle with uh
+[0:35:05] challenges with sleep and I think it's
+[0:35:07] fair to say that sooner or later most
+[0:35:10] everybody experiences some challenges
+[0:35:12] with sleep for whatever reason you look
+[0:35:13] at the statistics that's highly likely
+[0:35:15] in your lifetime you are more than
+[0:35:17] likely to go through either a period of
+[0:35:19] challenging sleep or in fact about of
+[0:35:22] insomnia I'd like to take a brief break
+[0:35:24] and acknowledge our sponsor ag1 AG one
+[0:35:27] is a vitamin mineral probiotic drink
+[0:35:29] that also contains adaptogens and is
+[0:35:31] designed to meet all of your
+[0:35:33] foundational nutritional needs by now
+[0:35:35] I'm sure you've all heard me say that
+[0:35:37] I've been taking ag1 since 2012 and
+[0:35:39] indeed that is true now of course I do
+[0:35:41] consume regular Whole Foods every day I
+[0:35:44] strive to get those Foods mostly from
+[0:35:46] unprocessed or minimally processed
+[0:35:48] sources however I do find it hard to get
+[0:35:51] enough servings of fruits and vegetables
+[0:35:52] each day so with ag1 I ensure that I get
+[0:35:55] enough of the vitamins minerals
+[0:35:57] prebiotics fiber and other things
+[0:35:58] typically found in fruits or vegetables
+[0:36:00] and of course I still make sure to eat
+[0:36:02] fruits and vegetables and in that way
+[0:36:04] provide a sort of insurance that I'm
+[0:36:05] getting enough of what I need in
+[0:36:07] addition the adaptogens and other
+[0:36:08] micronutrients in ag1 really help buffer
+[0:36:11] against stress and ensure that the cells
+[0:36:13] and organs and tissues of my body are
+[0:36:15] getting the things they need people
+[0:36:16] often ask me that if they were going to
+[0:36:18] take Just One supplement what that
+[0:36:19] supplement should be and I always answer
+[0:36:21] ag1 if you'd like to try ag1 you can go
+[0:36:24] to drink a1.com huberman to claim a
+[0:36:27] special offer you'll get five free
+[0:36:29] travel packs plus a year supply of
+[0:36:31] vitamin D3 K2 again that's drink a1.com
+[0:36:36] huberman you talked about alcohol I'm
+[0:36:39] not a consumer of alcohol anymore um nor
+[0:36:42] am I and it's not I it's not because I
+[0:36:43] have anything against it yeah many
+[0:36:45] people do enjoy it and um and know uh
+[0:36:48] we're not calling judgment on on them I
+[0:36:51] mean certainly much of the world enjoys
+[0:36:53] uh alcohol could we talk a little bit
+[0:36:54] more about um aside from demolishing
+[0:36:58] REM sleep um you know do we know that
+[0:37:03] alcohol causes these disruptions in
+[0:37:05] sleep directly meaning by changing the
+[0:37:07] um pattern of release of
+[0:37:09] neurotransmitters like Gaba things of
+[0:37:11] that sort or is this an indirect effect
+[0:37:13] you know is this like through the gut
+[0:37:15] microbiome that then impacts sleep um
+[0:37:18] and the reason I ask is maybe we could
+[0:37:20] get to some more
+[0:37:21] specific uh dos and do not protocols so
+[0:37:25] for instance if somebody wants to have a
+[0:37:27] cocktail how close to sleep can they get
+[0:37:30] and uh not diminish their rapid eye
+[0:37:34] movement sleep too much you know because
+[0:37:36] people are still going to want to drink
+[0:37:38] um and with that said if people do have
+[0:37:41] a couple of drinks and then they they go
+[0:37:43] to sleep is there is there anything they
+[0:37:45] can do prior to sleep to uh try and
+[0:37:47] rescue um their some of their quality
+[0:37:50] sleep great question so in terms of the
+[0:37:53] mechanism it seems actually not to be
+[0:37:56] the alcohol but some of the metabolic
+[0:37:59] byproducts of alcohol we think that
+[0:38:02] perhaps the main culprit may be some of
+[0:38:04] the aldah highs that are the metabolic
+[0:38:08] um separate consequences of alcohol
+[0:38:11] metabolism you make a good point though
+[0:38:14] in terms of the the the dose response
+[0:38:18] timing curve
+[0:38:20] how late or how early do I have to cut
+[0:38:24] myself off from alcohol people have done
+[0:38:26] those studies and they have found that
+[0:38:27] even an afternoon single glass of wine
+[0:38:31] if you measure sleep in the way that we
+[0:38:33] measure it at my center with High
+[0:38:34] Fidelity you can see compromises and
+[0:38:38] impairments I wish I could tell you
+[0:38:41] otherwise I would say that based on that
+[0:38:44] data the principal protocol advice I
+[0:38:47] would have for you is go to the pub in
+[0:38:49] the morning that way by the time you're
+[0:38:52] about to sleep the alcohol is out your
+[0:38:53] system and you could no no I would never
+[0:38:55] as a as a public scientist I would never
+[0:38:58] Advocate necessarily for wanting I'm
+[0:39:00] just kidding you but um that's that's
+[0:39:03] sort of one of the unfortunate
+[0:39:06] consequences there does seem to be an
+[0:39:08] impact to say that there isn't is just
+[0:39:11] me not being truthful about the data but
+[0:39:15] again if
+[0:39:16] you are think about the tradeoff here if
+[0:39:20] you're going out or you're having
+[0:39:21] friends over and you're going to make an
+[0:39:24] incredible evening of memories and
+[0:39:26] you're going to open a favorite bottle
+[0:39:27] of wine and have a couple of glasses of
+[0:39:29] wine is your sleep going to be
+[0:39:31] compromised yes it is but maybe that's
+[0:39:34] worth the tradeoff for that specific
+[0:39:36] night I would just not wish you to and
+[0:39:39] you've spoken a lot and so is our dear
+[0:39:41] friend Peter and
+[0:39:43] others there just doesn't seem to be any
+[0:39:46] safe amount of alcohol um but I would
+[0:39:50] say think about that trade-off simply
+[0:39:53] however don't make it habit that you're
+[0:39:55] doing it you know multiple nights a week
+[0:39:58] or more that would probably be the
+[0:40:00] advice
+[0:40:02] great what about food and sleep um how
+[0:40:07] close to sleep um is it okay to have a
+[0:40:10] meal if you want to optimize your sleep
+[0:40:14] um I I like to eat my final meal
+[0:40:16] somewhere around
+[0:40:18] 6:30 p.m. but and I go to sleep
+[0:40:21] somewhere around 8:30 900 p.m. in an
+[0:40:24] Ideal World sometimes I go to sleep a
+[0:40:26] bit later uh sometimes I eat a little
+[0:40:28] bit later it's just you know there's
+[0:40:29] some variability with these but um put
+[0:40:32] differently what is the relationship
+[0:40:34] between food intake and Sleep Quality in
+[0:40:37] terms of timing of food intake and then
+[0:40:39] perhaps we can talk a little bit about
+[0:40:41] um food
+[0:40:42] macronutrients it's very interesting
+[0:40:44] there was somewhat of a Dogma out there
+[0:40:48] that we have to stop eating you know
+[0:40:50] three or 4 hours before bed for optimal
+[0:40:53] sleep if you look at the data the data
+[0:40:55] is quite a spread no pun intended there
+[0:40:58] is there are some people for whom that
+[0:41:01] works very well and if they eat even two
+[0:41:04] hours before bed they just get disrupted
+[0:41:08] in terms of their sleep some of that is
+[0:41:11] about people just feeling too full and
+[0:41:14] not feeling comfortable other aspects
+[0:41:17] are that when you become recumbent when
+[0:41:19] you lie down you have a higher risk of
+[0:41:23] gastric reflux coming back up and
+[0:41:25] therefore you get heartburn and that's
+[0:41:27] pretty miserable and people will
+[0:41:28] describe that too by way of closer
+[0:41:31] proximity of food intake relative to
+[0:41:34] when you're falling asleep nevertheless
+[0:41:36] if you look at the
+[0:41:38] data and I I did a recent very deep dive
+[0:41:41] on this personally myself about 12
+[0:41:44] months ago it's not quite as Extreme as
+[0:41:47] the Dogma makes out if you eat 2 hours
+[0:41:51] before bed on average it doesn't seem to
+[0:41:54] necessarily harm your sleep now that's
+[0:41:56] very different than saying what is best
+[0:41:58] to improve or enhance your sleep but the
+[0:42:01] way these studies were designed it was
+[0:42:03] looking at detriments they then went to
+[0:42:06] 90 minutes before sleep onset and even
+[0:42:09] there there didn't seem to be Market
+[0:42:13] impermanence 60 Minutes you started to
+[0:42:16] see maybe some signs but on average the
+[0:42:19] effect size was somewhat weak but then
+[0:42:21] when you get close to sort of 45 minutes
+[0:42:23] or
+[0:42:24] so then things did start to deteriorate
+[0:42:29] I think it depends hugely on your
+[0:42:31] chronotype and also just on your
+[0:42:34] appetite Cadian Rhythm preferences too I
+[0:42:38] am someone who I do not feel very hungry
+[0:42:41] when I first wake up in the morning I
+[0:42:43] don't feel very hungry throughout most
+[0:42:45] of the day and I will onboard most of my
+[0:42:48] calories
+[0:42:50] probably
+[0:42:52] in the hours probably in about a 4H hour
+[0:42:56] period maybe less even 3-hour period and
+[0:43:00] then I will cut myself off about 90
+[0:43:03] minutes before sleep so I classically I
+[0:43:07] would have been considered as you know
+[0:43:10] violating this sleep dogma of of cutting
+[0:43:13] yourself off at least three hours I
+[0:43:14] think it's very personal though just
+[0:43:17] experiment with it you will know the
+[0:43:20] situation um as for macros and specific
+[0:43:24] food
+[0:43:25] components the data is a little bit
+[0:43:27] mixed certainly what we know is that if
+[0:43:30] you're eating a diet that is high in
+[0:43:34] sugar and low in protein your sleep is
+[0:43:40] worse why would that be the case well
+[0:43:43] one of the reasons that we think is that
+[0:43:45] if you onboard sugar it can be somewhat
+[0:43:48] metabolically active and when it becomes
+[0:43:51] metabolically active it can increase
+[0:43:54] your body temperature your core body
+[0:43:55] temperature even just for very subtly
+[0:43:58] but that's enough to disrupt your sleep
+[0:44:00] as we spoke about with
+[0:44:02] temperature but I think in terms
+[0:44:05] of really the you know what would be the
+[0:44:09] ideal macron nutrient and even
+[0:44:13] micronutrient um dietry recommendation
+[0:44:15] that I would have for you I don't think
+[0:44:17] we have enough data yet above and beyond
+[0:44:20] that that statement um yeah yeah I I've
+[0:44:25] experienced um when I eat a very low
+[0:44:28] carbohydrate diet which I've
+[0:44:30] experimented with in the past maybe even
+[0:44:32] even full ketogenic diet for for brief
+[0:44:34] periods of time although I'm an omnivore
+[0:44:36] so I eat meat and eggs and I also eat
+[0:44:38] starches pastas rice Etc um but we know
+[0:44:43] based on beautiful work from for example
+[0:44:45] Chris Palmer from from Harvard Medical
+[0:44:48] School uh who is a guest on this podcast
+[0:44:50] I listen to that it was great podcast
+[0:44:52] yeah Chris is is spectacular and and U
+[0:44:55] has advocated the exploration of
+[0:44:58] ketogenic diets for the treatment of
+[0:45:00] various psychiatric conditions not all
+[0:45:02] but psychiatric conditions and and it
+[0:45:04] seems and he agreed with me on this that
+[0:45:07] when people go on very low starch very
+[0:45:09] low carbohydrate diets that sometimes
+[0:45:11] they can experience a bit of hypomania
+[0:45:13] some people can and challenge this with
+[0:45:16] sleep and um sometimes there are
+[0:45:20] psychiatric reasons why um people stay
+[0:45:24] on those diets anyway and then they have
+[0:45:25] to do other things to encourage their
+[0:45:27] sleep by their pharmacology or
+[0:45:28] supplementation or some combination but
+[0:45:31] I I can say anecdotally for myself if I
+[0:45:34] if I don't eat starches for a extended
+[0:45:37] amount of time a couple of days I find
+[0:45:39] it very hard to get quality sleep as
+[0:45:43] indicated by Sleep trackers um and uh
+[0:45:47] and just uh sleep late latency to fall
+[0:45:49] asleep is longer than it is ETC um so i'
+[0:45:54] I've opted to eat most of my
+[0:45:56] carbohydrates Ates later in the evening
+[0:45:58] um which and violates you know every
+[0:46:01] rule of you know eat your carbs early in
+[0:46:02] the day and and and I think there are
+[0:46:04] some data to support that eating
+[0:46:05] carbohydrates early in the day may
+[0:46:07] actually um have certain benefits for
+[0:46:09] weight maintenance or weight loss so I
+[0:46:10] realized that but those aren't my my
+[0:46:12] goals at the moment weight maintenance
+[0:46:14] yes weight loss no so I think um I
+[0:46:17] certainly feel after eating a dinner
+[0:46:19] that has a bit more starch pasta rice
+[0:46:22] these things of that sort and a little
+[0:46:24] bit lower protein as opposed to the
+[0:46:25] inverse like eating a couple couple of
+[0:46:27] riy steaks and a salad but no starch
+[0:46:30] that um my sleep is substantially better
+[0:46:34] um and I always uh attributed that to
+[0:46:37] the relationship between some of the
+[0:46:39] starches and the
+[0:46:40] tryptophan serotonin pathway yeah there
+[0:46:42] is some data on that with the
+[0:46:44] carbohydrate intake in the evening and
+[0:46:47] of course that that tryptophan and that
+[0:46:50] carbohydrate intake um will contain the
+[0:46:53] precursor ingredients to something else
+[0:46:56] that we've spoken about which is
+[0:46:57] melatonin and so that may actually help
+[0:47:00] healthily boost that melatonin signal
+[0:47:02] and there's a little bit of data on that
+[0:47:04] to supported
+[0:47:05] to we also did a study where we um we
+[0:47:09] were looking at night to night to night
+[0:47:11] sleep and carbohydrate intake the next
+[0:47:13] day and it did seem to support what
+[0:47:16] you're describing in terms of some of
+[0:47:18] the carbohydrate benefits we also found
+[0:47:20] a strange result that was almost the
+[0:47:23] opposite prediction that we made
+[0:47:25] carbohydrate intake in the morning to
+[0:47:28] equally help people wake up and we were
+[0:47:31] a little bit uncertain as to why but
+[0:47:33] we're going to go into more detail the
+[0:47:36] reason that you mentioned
+[0:47:38] the the suggestion of not take on carbs
+[0:47:41] in the evening is in part based on the
+[0:47:44] evidence that your body's ability to
+[0:47:47] dispose of sugar and obviously when
+[0:47:50] you're eating carbohydrate you can have
+[0:47:52] a higher um Spike of sugar now that in
+[0:47:55] part depends on what you're eating with
+[0:47:57] that carbohydrate and also of course the
+[0:48:00] nature of that carbohydrate whether it's
+[0:48:01] simple or whether it's complex whether
+[0:48:03] it's simple sugars versus you know
+[0:48:06] complex more um starchy uh carbohydrate
+[0:48:10] but the idea is that your body even if
+[0:48:13] you were to eat the same amount of
+[0:48:15] carbohydrate in the morning in the
+[0:48:17] afternoon or in the evening same
+[0:48:20] carbohydrate dose and type but your
+[0:48:22] body's ability to dispose of that
+[0:48:25] without having excessive spikes of
+[0:48:27] glucose is worse in the evening better
+[0:48:29] in the morning I.E if you're concerned
+[0:48:32] about your blood sugar um and your
+[0:48:34] metabolic Health maybe that's what you
+[0:48:36] should do I think that that data is
+[0:48:39] unclear on the basis of if you are um
+[0:48:44] glycemic normal meaning that you
+[0:48:46] currently do not have signs of type two
+[0:48:48] two diabetes or you're not pre-diabetic
+[0:48:51] then that may not necessarily be the
+[0:48:52] case and so I think that's why it could
+[0:48:54] be you know beneficial for you and I
+[0:48:56] know that you've um you think deeply
+[0:48:58] about that and and um I've even been
+[0:49:01] tracking blood sugar as well I don't
+[0:49:02] have any signs of that but I'm just
+[0:49:04] fascinated by some of that data and how
+[0:49:06] it interacts with my sleep because I'm a
+[0:49:08] a sleep nerd so I think right now we
+[0:49:10] just don't have plentiful data to
+[0:49:13] recommend a particular sleep quote
+[0:49:15] unquote diet for improved optimization I
+[0:49:19] would say though that we can be a little
+[0:49:22] bit more relaxed about the timing of our
+[0:49:24] food earlier you mentioned C caffeine
+[0:49:27] and caffeine is a topic that we get into
+[0:49:30] into substantial depth in episode three
+[0:49:33] but there and now I uh I will emphasize
+[0:49:37] that caffeine is the most commonly used
+[0:49:40] drug worldwide I think the statistic
+[0:49:43] says that 90 plus perent of adults
+[0:49:46] consume caffeinated
+[0:49:48] beverages every day which is remarkable
+[0:49:51] and a few years back I recall there was
+[0:49:52] an article in The Economist that charted
+[0:49:54] the country's for which the caffeine
+[0:49:57] consumption was highest and way out on
+[0:50:01] the peak Peak peak of was almost uh
+[0:50:05] triple or quadruple what other what the
+[0:50:08] second place country um consumed each
+[0:50:13] day was can you guess the country that
+[0:50:15] consumes the most caffeine could be tea
+[0:50:17] coffee any form I'm going to suggest
+[0:50:19] it's a Scandinavian country no but uh
+[0:50:22] but they're they're up they're up there
+[0:50:24] it was Switzerland now I don't know if
+[0:50:26] that's still the case but apparently the
+[0:50:28] the reason I went I was thinking it was
+[0:50:30] because I've seen the graph I was
+[0:50:31] thinking it was Sweden but Scandinavian
+[0:50:34] and if I have that wrong um certainly
+[0:50:36] someone will put it in the the comments
+[0:50:37] on YouTube I recall the Swiss drink so
+[0:50:41] much caffeine they have uh a lot to
+[0:50:44] think about so I love caffeine I drink
+[0:50:47] black coffee black espresso and Y Bronte
+[0:50:50] um I love Yerba Monte been drinking it
+[0:50:52] since I was a little one um because of
+[0:50:55] the argentines in my family um and I
+[0:50:57] drink it in the early part of the day
+[0:50:59] typically um a couple hours after waking
+[0:51:02] or so I'll have my first um sip of
+[0:51:04] caffeine and then I try to stop drinking
+[0:51:07] caffeine somewhere around noon or 1 p.m.
+[0:51:10] occasionally I'll have a shot or two of
+[0:51:12] a espresso in the early afternoon if
+[0:51:14] there's important work to be done and I
+[0:51:16] need to do that but I I've noticed that
+[0:51:18] even that can alter my sleep in ways
+[0:51:21] that that I don't like but the afternoon
+[0:51:23] coffee for some reason tastes so much
+[0:51:24] better than the morning coffee for me I
+[0:51:26] don't know what it is so it's coffee
+[0:51:28] year bate packed early into the day and
+[0:51:31] a lot of it for me yeah I have a high
+[0:51:33] tolerance for it um but then I let it
+[0:51:37] taper is
+[0:51:39] that an optimal Contour of caffeine
+[0:51:42] intake um would Zero caffeine be better
+[0:51:44] if someone's just really committed to
+[0:51:45] sleep and they don't like caffeine would
+[0:51:47] zero be better than any and what about
+[0:51:50] that afternoon coffee or tea containing
+[0:51:54] caffeine I mean how disruptive is it for
+[0:51:57] sleep so the profile that you describe
+[0:52:00] which is high peak early on and first
+[0:52:03] thing when you wake up and then tapering
+[0:52:04] off nicely down into the sort of early
+[0:52:08] afternoon ideal that sounds great to me
+[0:52:11] as for that afternoon coffee it really
+[0:52:14] depends again on when you are expecting
+[0:52:17] to go to sleep now for someone like you
+[0:52:20] I would say I would love to look at
+[0:52:22] abstaining from that or just switching
+[0:52:24] it out to if you're using you know these
+[0:52:27] pods or however you're Brewing it let's
+[0:52:29] just switch it out and do an experiment
+[0:52:31] for two weeks and we will look to see
+[0:52:35] how much is that afternoon coffee really
+[0:52:38] impacting your sleep and will track your
+[0:52:39] sleep with some degree of High Fidelity
+[0:52:41] with a
+[0:52:43] wearable and let's test that hypothesis
+[0:52:46] because you go to sleep quite early you
+[0:52:48] are an early bird maybe bordering on an
+[0:52:52] extreme um early bird and we'll speak
+[0:52:54] about um or we have spoken about those
+[0:52:58] different flavors of
+[0:53:00] chronotype I would prefer you not to be
+[0:53:05] having that caffeine in the afternoon
+[0:53:08] based on how early you go to sleep and I
+[0:53:11] mention that preference because of what
+[0:53:13] you described regarding your sleep
+[0:53:17] maintenance insomnia one of the issues
+[0:53:19] with caffeine is that not only can it
+[0:53:21] make it more difficult for you to fall
+[0:53:24] asleep which you don't have in part
+[0:53:26] because if you're waking up quite
+[0:53:28] frequently throughout the night and
+[0:53:29] struggling to get back to sleep you're
+[0:53:31] going to be carrying a sleep debt into
+[0:53:34] every night and that debt continues to
+[0:53:36] grow and it's almost like compounding
+[0:53:38] interest on a loan so you will not have
+[0:53:40] a problem falling asleep in fact
+[0:53:43] sometimes the speed with which people
+[0:53:44] fall asleep and some of these uh sleep
+[0:53:46] trackers will almost penalize you for
+[0:53:50] falling asleep too quickly is because in
+[0:53:53] sleep science and clinical sleep
+[0:53:54] medicine if your it should take you
+[0:53:57] somewhere you know healthy sleep onset
+[0:54:00] you know 5 to 15 20 minutes but if you
+[0:54:06] put your head on the pillow and you turn
+[0:54:08] off the light and within a minute or so
+[0:54:10] you're dead to the world and you're gone
+[0:54:13] I'm exactly I'm worried that you're a
+[0:54:15] carrying a sleep dead now not
+[0:54:17] necessarily but I'm I would like to
+[0:54:19] explore it um with you and then I would
+[0:54:22] say even if you can fall asleep
+[0:54:24] fine this factor of waking up in the
+[0:54:27] middle of the night is also related to
+[0:54:30] caffeine why because caffeine not only
+[0:54:33] can make it harder to fall asleep not
+[0:54:35] your problem but it keeps you out of
+[0:54:38] that deep deep sleep and it puts you
+[0:54:40] into a more shallow state of nonrapid ey
+[0:54:44] movement sleep and when you are in this
+[0:54:46] shallow State it's a easier for you to
+[0:54:50] be woken up but be and I think more of
+[0:54:54] the problem it's hard harder for you to
+[0:54:57] fall back asleep because your brain
+[0:54:59] doesn't necessarily want to go back down
+[0:55:01] into that deep sleep and nor has it come
+[0:55:04] up out of that deep sleep so you're not
+[0:55:06] in that wonderful glorious thick
+[0:55:09] triy sort of sleepy State when you wake
+[0:55:12] up you go to the restroom you come back
+[0:55:14] and you just know this is going to be
+[0:55:16] great I'm as as long as I can fumble my
+[0:55:18] way back to my mattress I'm going to be
+[0:55:20] asleep within another two minutes going
+[0:55:22] back to it whereas for you you probably
+[0:55:24] wake up and you feel pretty Wide Awake I
+[0:55:26] would like to see what happens when we
+[0:55:28] negate that afternoon coffee on the
+[0:55:30] frequency and the duration of those
+[0:55:33] middle of the night Awakenings for you
+[0:55:35] yeah I'm definitely making the effort to
+[0:55:37] avoid caffeine intake in the afternoon
+[0:55:39] and I think um already starting to see
+[0:55:42] some of the positive benefits of doing
+[0:55:44] that great as evidenced by the days that
+[0:55:46] I consume caffeine in the afternoon and
+[0:55:48] experience the the deficits it's a real
+[0:55:51] thing and I I believe you've um about
+[0:55:54] the numbers uh on a different podcast
+[0:55:56] previously could talk a little bit about
+[0:55:58] the metabolism of caffeine and um and
+[0:56:01] maybe even some of the variations that
+[0:56:02] exist between people in terms of the
+[0:56:05] metabolic U regulation of caffeine so
+[0:56:07] how long let's say uh drink a standard
+[0:56:10] cup of coffee or a cuple of espresso and
+[0:56:11] it has a gosh I don't know 150
+[0:56:14] milligrams of caffeine is that 200 could
+[0:56:17] 150 200 let's say 200 because certainly
+[0:56:20] uh you know a barista these days is
+[0:56:23] going to draw a a beverage over index
+[0:56:26] yeah so let's say 200 milligrams and and
+[0:56:28] somebody consumes that after lunch at uh
+[0:56:31] 100 p.m. and their bedtime is let's
+[0:56:34] let's make them more conventional than I
+[0:56:36] uh somewhere between 10: and 11: p.m.
+[0:56:39] yeah okay so they're they're about 10 9
+[0:56:42] to 10 hours out from their bedtime
+[0:56:44] they're having a nice strong quote
+[0:56:45] unquote nice strong cup of coffee after
+[0:56:48] lunch um what what does that look like
+[0:56:51] in terms of their biochemistry and and
+[0:56:54] impact on sleep so caffeine has
+[0:56:56] something that we call a halflife of
+[0:56:59] about 5 to 6 hours meaning that after 5
+[0:57:02] to 6 hours about 50% of that caffeine is
+[0:57:05] still circulating in your bloodstream
+[0:57:07] and thus your brain that means that
+[0:57:10] caffeine has a quarter life of somewhere
+[0:57:13] between 10 to 12 hours now this is on
+[0:57:16] average and we'll come back to
+[0:57:19] variations but think of it this way if
+[0:57:21] you're taking a cup of coffee like you
+[0:57:24] described there at midday and then
+[0:57:26] you're going to bed at let's say 11: or
+[0:57:30] midnight that would be the equivalent
+[0:57:32] based on what I've just told you the
+[0:57:34] quarter life of getting yourself into
+[0:57:36] bed and just before you took yourself
+[0:57:38] into bed you Swig a quarter of a cup of
+[0:57:40] coffee and you H for a good night of
+[0:57:42] sleep and the chances are that it it may
+[0:57:45] not happen now again that's a little bit
+[0:57:48] sort of hyperbolic as a as a statement
+[0:57:50] but just try to conceptualize it in that
+[0:57:53] way you would never think about taking
+[0:57:55] off on you know a last quarter cup of
+[0:57:59] coffee just before you put your eye mask
+[0:58:02] on no but I have some friends and um
+[0:58:05] somebody actually who works with the
+[0:58:06] podcast team and we'll go out to dinner
+[0:58:08] as a team when we're on the road and
+[0:58:10] he'll order like a big coffee right
+[0:58:12] after a 900 p.m. dinner and I was just
+[0:58:15] like can you sleep on like oh yeah no
+[0:58:17] problem and that no problem is in part
+[0:58:20] this I don't have an issue with falling
+[0:58:22] asleep but if we were to based on the
+[0:58:24] data map there electrical brain activity
+[0:58:28] you would be able to see this reduction
+[0:58:31] in the deep non-rm sleep and it can
+[0:58:35] reduce it if you look at the data
+[0:58:36] somewhere between 15 to 20% now for me
+[0:58:40] to reduce your deep sleep by 15 to 20% I
+[0:58:45] would probably have to age you by about
+[0:58:47] 20 to 22 years or you could just do it
+[0:58:51] every night with a late night coffee
+[0:58:54] should you should you wish so again I've
+[0:58:57] and maybe we'll speak about this in in
+[0:59:00] later episodes I have changed my mind on
+[0:59:02] caffeine I think morning caffeine use or
+[0:59:05] coffee I should say being more specific
+[0:59:08] is fine because I think there are health
+[0:59:09] benefits and we can go into in
+[0:59:11] subsequent episodes why coffee and the
+[0:59:14] coffee be in itself can provide those
+[0:59:16] benefits so I've become a little bit
+[0:59:18] more bullish on morning
+[0:59:21] caffeine but evening caffeine I just
+[0:59:25] think it's the data is just not
+[0:59:27] supportive even if you are and there are
+[0:59:29] variations and you were very um astute
+[0:59:32] in your question some people I said on
+[0:59:35] average caffeine has a half life of
+[0:59:37] about 5 to six hours for some people
+[0:59:40] it's quicker and for other people it's
+[0:59:42] slower why is that it's based on a gene
+[0:59:45] and we know the gene it's a gene that is
+[0:59:48] part of a set of liver enzymes and the
+[0:59:51] gene is called the
+[0:59:53] cyp1 A2 Gene
+[0:59:56] and there are variations in that Gene
+[0:59:59] what we call polymorphisms and you can
+[1:00:01] do these genetic tests that you can buy
+[1:00:03] these kits and they all probably tell
+[1:00:04] you which you are are you sensitive or
+[1:00:06] you're not sensitive you probably
+[1:00:08] already know and so some people will not
+[1:00:12] be as sensitive and therefore they can
+[1:00:14] have a more compressed time frame of a
+[1:00:17] halflife because it's moving out of
+[1:00:19] their system in a quicker manner so
+[1:00:21] again I'm not trying to be skir
+[1:00:23] mongering I think you can have coffeee
+[1:00:24] in the morning and you'll be just fine
+[1:00:27] that late night coffee I would I would
+[1:00:30] like to see you obviate that if you are
+[1:00:32] someone who's doing it and the afternoon
+[1:00:34] coffee sounds like a you know maybe only
+[1:00:37] every once in a while and try and make
+[1:00:39] it mostly decaf or decaf for that matter
+[1:00:41] if it's really just for the taste yeah
+[1:00:43] if it's just for the taste go decaf if
+[1:00:45] it's not I understand that in some ways
+[1:00:47] what I'm talking about is the ideal
+[1:00:49] world and drum roll it turns out that
+[1:00:52] most of us don't live in that we live in
+[1:00:53] this thing called the real world
+[1:00:56] and so if you are facing a circumstance
+[1:00:58] where if you're under pressure at work
+[1:01:00] or if you're high performing athlete and
+[1:01:02] this is it this is the event this is you
+[1:01:04] it's all in a think understand that you
+[1:01:07] you are going to sacrifice some sleep at
+[1:01:09] night but maybe that sacrifice is well
+[1:01:11] worth it so again I'm very open-minded
+[1:01:13] I'm not trying to be um simply you know
+[1:01:17] too rigid with this I want to take a
+[1:01:19] brief break and acknowledge our sponsor
+[1:01:21] insid tracker insid tracker is a
+[1:01:23] personalized nutrition platform that
+[1:01:25] analyzes data from your blood and DNA to
+[1:01:27] help you better understand your body and
+[1:01:29] help you reach your health goals now
+[1:01:31] I've long been a believer in getting
+[1:01:32] regular blood work done for the simple
+[1:01:34] reason that many of the factors that
+[1:01:35] impact your immediate and long-term
+[1:01:37] Health can only be analyzed from a
+[1:01:39] quality blood test the problem with a
+[1:01:40] lot of blood tests out there however is
+[1:01:42] that you get information back about
+[1:01:44] metabolic factors hormones Etc but you
+[1:01:46] don't know what to do with that
+[1:01:47] information with inside tracker they
+[1:01:49] make it very easy to understand your
+[1:01:51] results and they also point you to
+[1:01:52] specific directives that you can follow
+[1:01:54] in the realm of nutrition exercise
+[1:01:56] supplementation even prescription drugs
+[1:01:58] that can help bring the levels back into
+[1:02:00] the ranges that are optimal for you
+[1:02:01] insid tracker also offers insid Tracker
+[1:02:04] Pro which enables coaches and health
+[1:02:06] professionals to provide premium and
+[1:02:07] personalized Services by leveraging
+[1:02:09] inside trackers analysis and
+[1:02:11] recommendations with their clients if
+[1:02:13] you'd like to try insid tracker you can
+[1:02:14] go to insid tracker.com huberman to get
+[1:02:18] 20% off any of insid trackers plans
+[1:02:20] again that's insidetracker tocom
+[1:02:23] huberman so you've talked about alcohol
+[1:02:26] and its effects on sleep you've talked
+[1:02:27] about caffeine its effects on sleep and
+[1:02:29] we talked about food and its effects on
+[1:02:31] sleep what about THC and
+[1:02:35] CBD sometimes referred to more uh
+[1:02:38] generally as cannabis and you know it's
+[1:02:40] interesting you know gosh when I was
+[1:02:42] growing up um you
+[1:02:44] know cannabis was illegal um nowadays
+[1:02:48] it's um either legal or tolerated or
+[1:02:52] decriminalized in many places not all
+[1:02:55] but I I would would say there's been a
+[1:02:56] um a a tide shift in terms of um
+[1:03:01] cannabis meaning that many
+[1:03:03] people consume cannabis who are um
+[1:03:07] consuming it legally and consume it for
+[1:03:09] a lot of reasons that other people
+[1:03:12] consume alcohol in you know a sedative
+[1:03:15] effect a slight hypnotic effect I mean
+[1:03:17] you know the actual definition of what
+[1:03:19] these drugs do it goes by certain terms
+[1:03:20] in the psychiatric literature of course
+[1:03:22] but but in order to quote unquote mellow
+[1:03:24] out to feel more relx to reduce their
+[1:03:27] anxiety um it's it's far and away
+[1:03:29] different than when I was growing up
+[1:03:31] where I me you would get into a lot of
+[1:03:32] trouble uh if you were caught um smoking
+[1:03:35] a joint or um taking a bong rip in the
+[1:03:39] middle of the day but not and I realize
+[1:03:41] most people aren't doing that at work I
+[1:03:42] guess it depends on where you work um
+[1:03:45] but it you know Edibles tinctures I mean
+[1:03:48] the the consumption of THC and CBD is is
+[1:03:51] quite um quite robust in a lot of places
+[1:03:54] so um with all the issues of legality
+[1:03:58] and the fact that people who young
+[1:03:59] people um should not be consuming them
+[1:04:02] me people 18 and younger not just for
+[1:04:04] legal reasons but the brain is still
+[1:04:06] developing um what is the story with THC
+[1:04:10] CBD cannabis edibl smoked uh tinctures
+[1:04:15] on sleep
+[1:04:17] specifically it's very interesting if
+[1:04:19] you look firstly at the motivational
+[1:04:21] reasons why people use
+[1:04:24] cannabis based on
+[1:04:25] [Music]
+[1:04:26] the published study somewhere in the top
+[1:04:29] two
+[1:04:31] reasons sleep to fall and stay asleep
+[1:04:34] fall asleep and stay asleep obviously
+[1:04:36] usually the principle first reason is
+[1:04:38] just to get high and have the experience
+[1:04:40] and the pleasure of being high if that's
+[1:04:42] what sort of floats your um floats your
+[1:04:45] train floats your train but certainly
+[1:04:46] it's you know sleep um as and what we
+[1:04:50] call a hypnotic to put you asleep from
+[1:04:52] um the Greek derivative of the God for
+[1:04:54] for sleep that is high among the reasons
+[1:04:58] that people will
+[1:04:59] use we currently don't recommend it and
+[1:05:03] here is why certainly THC helps you fall
+[1:05:06] asleep
+[1:05:07] faster very clear in the data the
+[1:05:11] problem is that first you start to
+[1:05:13] develop a tolerance and to get that same
+[1:05:16] sleep onset benefit you need to get use
+[1:05:20] I should say a higher dose so you start
+[1:05:22] to develop dependency and your dose
+[1:05:24] regimen starts to
+[1:05:26] increase the second issue with THC is
+[1:05:29] that it's very good at blocking your
+[1:05:31] dream sleep your REM sleep in fact many
+[1:05:35] people when they come and they tell me
+[1:05:37] look I was a heavy cannabis user even a
+[1:05:39] light cannabis user for some time and
+[1:05:41] then I stopped using and one of the
+[1:05:43] strangest things happened to me I just
+[1:05:46] started to have the most wild Vivid
+[1:05:49] crazy dreams and I didn't know what was
+[1:05:52] going on and it's a very simple
+[1:05:54] explanation as you've been using your
+[1:05:58] brain has been compromised in the amount
+[1:06:01] of REM sleep it's been getting and
+[1:06:03] you've been building up chronically a
+[1:06:06] REM sleep debt and your brain is smart
+[1:06:10] in the sense that it does try to clock
+[1:06:13] to some degree a counter of how much REM
+[1:06:16] sleep you've lost and many people will
+[1:06:19] say yeah I don't really remember my
+[1:06:20] dreams when I'm using but when they stop
+[1:06:23] the brain finally because it's been
+[1:06:25] cleansed of the thing that's the
+[1:06:26] roadblock to REM sleep not only did they
+[1:06:30] go back to having the normal amount of
+[1:06:32] REM sleep that people would have they
+[1:06:35] have that plus they have what we call a
+[1:06:37] REM sleep rebound which is even more and
+[1:06:40] more intense REM sleep which leads to
+[1:06:43] more intense dreaming so it's a very I
+[1:06:46] suspect there's a lot of people who've
+[1:06:48] had that experience listening if they
+[1:06:49] have been users and they've stopped so
+[1:06:52] that's the second reason we don't
+[1:06:53] Advocate it the third third reason is
+[1:06:56] that when you stop using you also go or
+[1:07:00] go through a very vicious insomnia
+[1:07:04] withdrawal syndrome often many people
+[1:07:06] will do now that depends on you know how
+[1:07:08] much you've been using for how long
+[1:07:10] you've been
+[1:07:11] using if you look at the data and by the
+[1:07:14] way part of the um clinical diagnostic
+[1:07:17] the psychiatric diagnostic um
+[1:07:20] description of cannabis withdrawal is
+[1:07:23] insomnia that's how reliable this
+[1:07:26] insomnia problem is when you come off
+[1:07:30] cannabis and if you look at the data the
+[1:07:33] one of the main reasons that people
+[1:07:35] relapse and start using cannabis again
+[1:07:38] even though they don't want to is
+[1:07:40] because they can't deal with the
+[1:07:42] insomnia that withdrawal has given them
+[1:07:45] so you don't want to get into that
+[1:07:47] vicious
+[1:07:49] cycle should you wish again it's your
+[1:07:52] choice um so THC I think is not to be
+[1:07:57] advised right now CBD is interesting I
+[1:08:01] don't think there's enough data yet for
+[1:08:03] us to have a very strong opinion but I
+[1:08:05] can at least offer mine the data so far
+[1:08:08] is a little bit mixed in what we call
+[1:08:11] the effect size in other words how
+[1:08:13] reliable and how powerful is the benefit
+[1:08:15] of CBD on sleep but it does seem to have
+[1:08:18] some
+[1:08:20] benefit what's interesting is that it
+[1:08:22] doesn't seem to have the detriments that
+[1:08:23] I just described for or
+[1:08:27] THC you've got to be looking at the data
+[1:08:30] a little bit careful with
+[1:08:32] CBD it has what's called a u-shape
+[1:08:35] function to it which is that if you're
+[1:08:37] taking too little and again I really I'm
+[1:08:41] so mindful of not trying to be okay here
+[1:08:44] are the numbers but if you look at them
+[1:08:46] I would say you know kind of cross your
+[1:08:49] eyes squint your eyes maybe less than 25
+[1:08:54] migr you run into the danger of CBD
+[1:08:57] being wake
+[1:08:59] promoting rather than sleep promoting
+[1:09:02] but once you get past if you look is 50
+[1:09:05] milligrams and above then you start to
+[1:09:08] go in the opposite direction where it
+[1:09:10] seems to be sleep
+[1:09:12] promoting and I mention that just
+[1:09:14] because at least here in the United
+[1:09:16] States and in many places in the
+[1:09:18] world that industry is not regulated so
+[1:09:21] it may say 50 milligrams on the bottle
+[1:09:25] you don't really know now some of those
+[1:09:28] companies will have what's called
+[1:09:29] third-party Laboratory Testing where
+[1:09:31] they'll send it out and you can scan a
+[1:09:33] qri code and you can look at an
+[1:09:35] independent laboratory that tested it
+[1:09:36] and show you the p p uh purity of it so
+[1:09:39] that may be one way to
+[1:09:40] go so CBD I think has some favorable
+[1:09:45] evidence right now if that's the case
+[1:09:47] let's just assume that you and I speak
+[1:09:49] in another five years time and there's
+[1:09:51] really good data now for this what could
+[1:09:54] be the mechanisms I think there's at
+[1:09:57] least there's probably at least two
+[1:09:59] maybe three mechanisms the first is an
+[1:10:02] indirect mechanism CBD has been
+[1:10:05] demonstrated very nicely in some
+[1:10:07] fantastic studies to be an
+[1:10:10] anotic which is a fancy term for saying
+[1:10:13] it reduces down your anxiety and earlier
+[1:10:15] you and I discussed that anxiety and
+[1:10:18] stress is one of the things that will
+[1:10:20] keep you awake so indirectly it removes
+[1:10:24] this kind of gate that is preventing you
+[1:10:28] from moving down the Royal Road of sleep
+[1:10:31] and it opens back up the gate because
+[1:10:33] it's remove that gate mechanism which is
+[1:10:36] high anxiety and by way of being an
+[1:10:38] anxiolytic IT soften that anxiety and
+[1:10:41] it's easier for you to fall asleep I
+[1:10:42] think that's probably the principal
+[1:10:44] mechanistic bet I would have right now
+[1:10:47] another indirect
+[1:10:49] mechanism if you look at some of the
+[1:10:50] studies in rats and we do um human work
+[1:10:53] at my sleep center so we don't do animal
+[1:10:56] studies but if you look at the data in
+[1:10:58] the
+[1:10:58] rats CBD can be
+[1:11:02] hypothermic which means that it drops
+[1:11:04] your core body temperature and just as
+[1:11:06] we spoke about in earlier in this
+[1:11:08] episode you need to drop your body
+[1:11:10] temperature to get to sleep so I think
+[1:11:12] that's the second reason I think the
+[1:11:14] third reason is that it could have a
+[1:11:16] direct sleep promoting
+[1:11:19] mechanism I think it's unclear right now
+[1:11:21] exactly how it's interacting with the
+[1:11:23] Sleep Machinery of the brain we've got
+[1:11:24] some hypotheses the danger is again it's
+[1:11:27] just not a well-regulated substance so I
+[1:11:30] am actually just um full disclosure I'm
+[1:11:32] working with a company in the United
+[1:11:35] Kingdom uh in collaboration with um
+[1:11:38] King's College and The Institute of
+[1:11:40] Psychiatry there to see if we can create
+[1:11:44] an analog a clean analog of CBD but I
+[1:11:47] think the potential upside of it not
+[1:11:50] just for sleep but for a number of
+[1:11:52] different psychiatric conditions like
+[1:11:54] anxiety
+[1:11:55] um could be beneficial so I would say
+[1:11:58] that that's right now the the sort of
+[1:12:00] the skinny on THC and and CBD okay so
+[1:12:03] just to make sure that I have the basic
+[1:12:07] list of sleep hygiene factors correct I
+[1:12:11] have regularity is King yep light and
+[1:12:16] dark meaning that one should optimize or
+[1:12:19] at least seek to optimize their exposure
+[1:12:21] to light in the morning and throughout
+[1:12:24] the day and in the evening to make
+[1:12:26] things dim and dark yes temperature and
+[1:12:30] there you have a a little um it's not a
+[1:12:32] montra but what is it it's a warm up to
+[1:12:36] cool down to fall asleep and then it's
+[1:12:39] stay cool like Fonzi stay cool to stay
+[1:12:44] asleep and then warm up to wake up yep
+[1:12:47] and we will come on to that I think in a
+[1:12:49] little while again then there's walk it
+[1:12:50] out which is if I understand correctly
+[1:12:53] if you're trying to fall asleep or fall
+[1:12:55] back asleep and it's taking you longer
+[1:12:57] than about 20 25 minutes you should just
+[1:12:59] get out of bed and go elsewhere in the
+[1:13:01] house do something else maybe even lie
+[1:13:02] down on a different surface in the house
+[1:13:04] to try and see if you can sleep there
+[1:13:06] but don't stay in bed don't create a
+[1:13:07] parir Association of wakefulness and
+[1:13:10] your bed because that can lead to
+[1:13:12] problems in subsequent nights yeah and I
+[1:13:14] would only say that try to resist if you
+[1:13:16] can if you really want your bedroom to
+[1:13:18] be the place where you now become
+[1:13:20] consistently asleep try not to start
+[1:13:22] sleeping in some other location
+[1:13:25] consistently because then all of a
+[1:13:26] sudden you bond that with good sleep and
+[1:13:29] you unbuckle this notion that we're
+[1:13:32] trying to relearn which is know your
+[1:13:34] bedroom is the place of sleep so it's
+[1:13:37] fine to go elsewhere try to stay awake
+[1:13:39] and force yourself to stay awake until
+[1:13:41] you are absolutely sleepy then go back
+[1:13:43] to bed okay and then we discussed
+[1:13:46] alcohol food caffeine and THC CBD AKA
+[1:13:52] cannabis and with respect to alcohol
+[1:13:55] it's clear that none is best if you're
+[1:13:58] going to have
+[1:13:59] some uh you don't want to drink too
+[1:14:01] early in the day but you don't want to
+[1:14:02] drink too much or too close to bedtime
+[1:14:04] because it can disrupt rapid eye
+[1:14:05] movement sleep food uh seems that
+[1:14:08] creating some sort of buffer between the
+[1:14:10] uh your last bite of food and uh your to
+[1:14:13] bedtime by anyway somewhere between you
+[1:14:16] know maybe 2 three hours but for some
+[1:14:18] people it'll be more like 90 minutes and
+[1:14:19] of course that's going to depend on the
+[1:14:21] size of the meal Etc but eating a big
+[1:14:23] meal and then going straight to bed
+[1:14:25] probably not a good
+[1:14:26] idea caffeine has this long halflife so
+[1:14:30] if you're going to indulge which I
+[1:14:32] do do so early in the
+[1:14:35] day beware the afternoon caffeine yeah
+[1:14:39] do the hubman tapa is what I'm going to
+[1:14:41] call it right now which is not
+[1:14:42] interpretive dense it's simply the
+[1:14:44] caffeine tape and then um THC CBD uh
+[1:14:47] does nothing good for your sleep
+[1:14:50] architecture although some people have
+[1:14:52] the uh impression that it is good for
+[1:14:54] their sleep because it makes it easier
+[1:14:55] for them to fall asleep but what they
+[1:14:56] are unaware of is that it is disrupting
+[1:14:59] the quality and architecture of the
+[1:15:01] different stages of sleep in ways that
+[1:15:03] are not serving people well that seems
+[1:15:06] to be the case for THC and I think CBD
+[1:15:09] you
+[1:15:10] know has promise and research must try
+[1:15:13] harder including my own and you um very
+[1:15:18] uh kindly emphasize that you're not
+[1:15:20] telling people what to do they just
+[1:15:21] should know what they're doing so that
+[1:15:23] they can make uh changes uh if they so
+[1:15:25] choose that's right I would always say
+[1:15:28] that um I'm not trying to be a medical
+[1:15:30] doctor any advice that I give is simply
+[1:15:33] scientifically descriptive advice it's
+[1:15:35] not medically prescriptive nor lifestyle
+[1:15:38] prescriptive advice I'm smiling because
+[1:15:40] what I always say is um I'm a scientist
+[1:15:42] not a physician so I don't prescribe
+[1:15:45] anything but I profess lots of things so
+[1:15:47] or as my good friend who's a musician
+[1:15:49] Tim Armstrong says I'm not a cop that's
+[1:15:52] right so so do what you want um
+[1:15:55] okay what a wonderful list to leap off
+[1:15:59] into the unconventional and more
+[1:16:02] advanced tools for Sleep enhancement so
+[1:16:05] um let's go there so I think many people
+[1:16:09] may have heard of some of the
+[1:16:11] conventional but what about the
+[1:16:12] unconventional I would probably offer
+[1:16:15] five or six the first one I would say is
+[1:16:19] that if you are struggling with sleep
+[1:16:20] and you have had a bad night of sleep
+[1:16:24] the first first recommendation is do
+[1:16:27] nothing and what I mean by that is if
+[1:16:30] you've had a bad night of sleep you're
+[1:16:31] awake for 3 hours do not sleep in any
+[1:16:36] later into the morning do not go to bed
+[1:16:40] any
+[1:16:41] earlier do not increase your caffeine
+[1:16:44] intake to try to offset it and do not
+[1:16:47] nap during the day why am I telling you
+[1:16:50] those
+[1:16:50] things if you wake up later that
+[1:16:54] following morning
+[1:16:55] your adenosine clock that we spoking
+[1:16:58] about this building up of sleepiness
+[1:17:00] that happens when we wake up is going to
+[1:17:03] start later in the day so when it comes
+[1:17:06] time for you to fall asleep at what
+[1:17:08] would then be the next night at your
+[1:17:10] normal time you're not going to feel as
+[1:17:13] sleepy why because you woke up that much
+[1:17:16] later and you're setting yourself up for
+[1:17:18] failure again equally don't go to bed
+[1:17:22] any earlier if you have become a
+[1:17:24] customed and your brain has and your
+[1:17:26] Cadian clock has become accustomed to
+[1:17:28] going to bed at a certain time and
+[1:17:29] hopefully you're doing it regularly then
+[1:17:31] getting into bed two or 3 hours early
+[1:17:34] has the danger it's not a certainty but
+[1:17:36] a danger of you then getting into bed
+[1:17:38] and thinking well I'm I know I had a bad
+[1:17:41] night of sleep last night but I still
+[1:17:42] can't fall asleep straight away so now
+[1:17:45] you're spending another 90 minutes in
+[1:17:46] bed at the beginning because you've gone
+[1:17:48] to bed 90 minutes earlier thinking it's
+[1:17:50] a good idea to compensate don't do that
+[1:17:52] either hold out even if you do feel
+[1:17:55] tired my recommendation would be after
+[1:17:58] that bad night of sleep hold out for as
+[1:18:00] long as you can as close to your natural
+[1:18:03] bedtime as possible then go to sleep and
+[1:18:06] you'll give yourself highest chance of
+[1:18:08] success don't over caffeinate that's the
+[1:18:10] obvious one follow the beautiful hubman
+[1:18:13] taper and then obviously try not to
+[1:18:16] compensate with a nap why because that
+[1:18:19] nap as happens when we sleep is going to
+[1:18:22] remove some of that sleepiness that pene
+[1:18:25] and once again you get into bed and
+[1:18:28] you're not as sleepy as you would
+[1:18:29] naturally be so you again go through a
+[1:18:31] bad night cuz you're struggling to sleep
+[1:18:33] or you wake up and you can't get back
+[1:18:36] because you've got less weight of
+[1:18:38] sleepiness on your shoulders due to the
+[1:18:40] nap that happened earlier so I know it's
+[1:18:43] hard but I would say when the alarm goes
+[1:18:45] off after a bad night you just think I
+[1:18:47] do not want to get up it's been such a
+[1:18:49] rough night I know it's a shortterm gain
+[1:18:53] but trust me it's a long-term loss
+[1:18:56] because you're going to then just get
+[1:18:58] into this vicious cycle so that's the
+[1:19:00] first unconventional tip the can I just
+[1:19:02] pause you for a second I I'm a little
+[1:19:04] wide-eyed over here because
+[1:19:06] um I did not know any of that typically
+[1:19:10] if I get a poor night sleep I'll do
+[1:19:11] whatever I can to recover that sleep um
+[1:19:14] take a nap I'll do you know I'll adjust
+[1:19:16] my to bedtime the next evening um so I
+[1:19:20] hope everyone is paying uh careful
+[1:19:22] attention to what Matt just said I mean
+[1:19:25] the that's a important list because I
+[1:19:27] think one of the very common things is
+[1:19:29] for people to just not get a great
+[1:19:30] night's sleep and I think most people
+[1:19:32] think okay I'll drink a little more
+[1:19:33] caffeine I will um go to bed a little
+[1:19:36] earlier tonight you know maybe catch a
+[1:19:38] nap in the afternoon this kind of thing
+[1:19:40] um and I would have thought that too and
+[1:19:42] maybe even suggested that and if you
+[1:19:45] listen to the first episode and where we
+[1:19:46] you know I list in a doomsday manner the
+[1:19:49] things that can happen by way of a short
+[1:19:50] night you you would think that that's
+[1:19:52] what I would then recommend but it was
+[1:19:54] imprinted On Me by um a wonderful sleep
+[1:19:56] clinician U Michael palis um who sort of
+[1:19:59] described some of these features and
+[1:20:01] exactly the reasons sort of underlying
+[1:20:03] them and I think I've just tried to bake
+[1:20:05] that out into a formula that makes sense
+[1:20:07] again it's not about the rule it's about
+[1:20:10] explaining it because when you explain
+[1:20:12] it at first it sounds contradictory and
+[1:20:15] paradoxical when you understand it it
+[1:20:17] hopefully sounds logical and actionable
+[1:20:20] um so that would be the first suggestion
+[1:20:23] could I just sorry interrupt again my
+[1:20:25] audience hates when I interrupt but I'm
+[1:20:26] doing it on their behalf because because
+[1:20:29] because I I like to think that there's
+[1:20:31] um some value in some of at least what
+[1:20:33] you say in response um I saw a really uh
+[1:20:37] terrific post from Dr Ronda Patrick um
+[1:20:40] who we both know and admire um for her
+[1:20:44] public education work public health
+[1:20:46] education work and she described a study
+[1:20:48] whereby if people are I think it was
+[1:20:50] slightly sleep deprived Maybe by a few
+[1:20:52] hours that some of the uh disruption to
+[1:20:56] morning blood glucose regulation that is
+[1:20:58] known to accompany partial sleep
+[1:21:00] deprivation and certainly complete sleep
+[1:21:02] deprivation but um in this case partial
+[1:21:04] sleep deprivation could be offset by
+[1:21:07] still exercising in the morning that's
+[1:21:09] right um which frankly I have to say if
+[1:21:12] I haven't slept that well then you know
+[1:21:14] normally I'm like H maybe today's the
+[1:21:15] day I don't exercise but now having
+[1:21:17] heard that information I make it a point
+[1:21:20] to still exercise um sometimes with a
+[1:21:23] little bit less intensity yeah um
+[1:21:25] because I don't want to be completely
+[1:21:26] exhausted in the afternoon um and and go
+[1:21:30] to sleep at you know 4 p.m. or something
+[1:21:32] really disrupt my schedule but I thought
+[1:21:33] that was really interesting because it's
+[1:21:35] it's a it's a sort of um partial
+[1:21:37] inoculation of of the blood glucose
+[1:21:40] disruption caused by uh sleep
+[1:21:42] deprivation I I'm so glad you brought it
+[1:21:44] up it's a fantastic study and I um Rond
+[1:21:47] and I um I think even tried to discuss
+[1:21:50] it some years ago on a show but I like
+[1:21:53] it because it does offer some degree of
+[1:21:56] actionable Hope and a
+[1:21:59] strategy blood sugar absolutely critical
+[1:22:03] it is very sensitive to sleep when you
+[1:22:06] don't get enough it goes in bad
+[1:22:08] directions you used a very specific word
+[1:22:11] cleverly so that word was
+[1:22:15] partially at first you hear or read that
+[1:22:18] study and Ronda was never suggesting
+[1:22:19] this too I'm not saying that you think
+[1:22:23] well if it offsets blood sugar and the
+[1:22:26] city was saying exercise can nullify a
+[1:22:30] lack of
+[1:22:30] sleep you conflate that single outcome
+[1:22:34] benefit with the idea that well but
+[1:22:37] maybe it doesn't actually re or does it
+[1:22:41] compensate for the deficits in immune
+[1:22:44] function or
+[1:22:45] cardiovascular disease concerns or my
+[1:22:48] hormonal health or my learning in memory
+[1:22:51] or my emotional and brain health maybe
+[1:22:53] it does but maybe it doesn't so I think
+[1:22:55] I would always just caution people to
+[1:22:58] saying when you hear a study like that
+[1:23:00] it's very natural to think oh that must
+[1:23:02] mean that it translates to everything
+[1:23:04] else in my body and everything else in
+[1:23:06] my brain it may but it also may not
+[1:23:10] be terrific so if you don't sleep that
+[1:23:13] well do your best to still get some
+[1:23:15] exercise but just be mindful of the um
+[1:23:18] the fact that you know in the winter
+[1:23:20] months especially that might if you go
+[1:23:22] too hard in the gym or on a run you
+[1:23:24] might be a little bit immune compromised
+[1:23:27] just be mindful of the fact that you're
+[1:23:28] you're a more vulnerable being when
+[1:23:30] you're sleep deprived and that but that
+[1:23:32] exercise can help adjust things in the
+[1:23:34] right direction and if it's early in the
+[1:23:36] day um presumably that's not going to
+[1:23:38] disrupt your the proper bedtime and if
+[1:23:41] it's later in the day I suppose as long
+[1:23:44] as you don't need caffeine in order to
+[1:23:46] uh to do that exercise and or um if
+[1:23:50] you're familiar with exercising later in
+[1:23:53] the day fine I you know I find if I
+[1:23:55] exercise like I'm not one of these
+[1:23:56] people think can go for a run at you
+[1:23:58] know 7:00 at night and then just shower
+[1:24:01] you're a morning type because I'm a
+[1:24:02] morning type other people can okay we'll
+[1:24:04] get into exercise a bit more in a later
+[1:24:05] episode um we'll be sure to do that but
+[1:24:08] nonetheless I just rais that now um so
+[1:24:11] what are some of the other
+[1:24:13] unconventional protocols for sleep so I
+[1:24:16] think other suggestions I would have
+[1:24:18] after do nothing would be try to think
+[1:24:22] about limiting your time embed if you
+[1:24:24] are struggling with sleep this is
+[1:24:26] something that is used in the probably
+[1:24:30] the most well validated psychological
+[1:24:33] intervention for insomnia and it's
+[1:24:36] called cognitive behavioral therapy for
+[1:24:38] insomnia or cbti for short what happens
+[1:24:42] is that you work with a clinician they
+[1:24:44] interview you they assess all of the
+[1:24:46] reasons that you may not be sleeping and
+[1:24:48] then they create from the toolbox of
+[1:24:50] many different options a bespoke
+[1:24:53] tailored sort of saval R soup
+[1:24:55] prescription for you for your treatment
+[1:24:58] if you look at the studies of that
+[1:25:00] collection of different tools in the
+[1:25:01] cbti Box for intervention of insomnia
+[1:25:05] and you ask of all of those which seems
+[1:25:08] to carry the greatest impact on insomnia
+[1:25:12] which has the greatest sort of
+[1:25:14] Gravitas it seems to be this thing that
+[1:25:16] we call bedtime rescheduling it used to
+[1:25:19] be known as sleep restriction therapy
+[1:25:22] but obviously if you come to to mean you
+[1:25:24] say look I'm not sleeping very well I've
+[1:25:27] got insomnia I say I understand and I've
+[1:25:30] got a treatment for you it's called
+[1:25:31] Sleep restriction therapy and you say no
+[1:25:33] no no you didn't understand it I I'm not
+[1:25:35] getting enough
+[1:25:36] sleep but it's not quite that here's how
+[1:25:39] it works if you are spending so much
+[1:25:43] time in bed too much time in bed you are
+[1:25:46] not forcing your brain to be
+[1:25:49] efficient and by way of constraining
+[1:25:52] your sleep window even to let's say five
+[1:25:55] hours a night to begin with i Brute
+[1:25:59] Force ruthless efficiency from your
+[1:26:02] sleeping brain after several days so
+[1:26:04] another analogy would be let's say
+[1:26:06] you're trying to make a nice thin crust
+[1:26:08] of of pizza base and you put the dough
+[1:26:11] on the table and you start rolling it
+[1:26:13] out if you roll it too thin it starts to
+[1:26:15] get gaps and holes in it why because
+[1:26:19] you've spread it out too far and you've
+[1:26:21] started to create these absences
+[1:26:24] that's the same thing that happens and
+[1:26:26] it's very natural as an insomnia patient
+[1:26:28] you would say I'm just not getting
+[1:26:30] enough sleep so I'm going to start
+[1:26:31] spending more time in bed it's the very
+[1:26:33] worst idea another way would be to say
+[1:26:36] look I go to the gym and I you know
+[1:26:39] spend about an hour and a half working
+[1:26:40] out but if I were to videotape you a lot
+[1:26:42] of people are doing the I think you've
+[1:26:44] I've coed as your phrase but um the 11th
+[1:26:47] rep where people you know do the 10 reps
+[1:26:50] and then all of a sudden there's the
+[1:26:51] selfie or there's the social media oh
+[1:26:53] yeah the texting they finish the lastup
+[1:26:55] put down and then straight away on the
+[1:26:57] TT and if you look they're only working
+[1:27:00] out for about let's say 45 minutes and
+[1:27:03] the other is wasted so what if the next
+[1:27:06] day you came to the gym and I said look
+[1:27:08] I'm sorry and there's some big bouncer
+[1:27:10] guys at the door um you are only allowed
+[1:27:13] to work out for 40 minutes and then
+[1:27:14] we're going to eject you and the first
+[1:27:17] day you go back and you do the same
+[1:27:19] thing and then you've only got through
+[1:27:21] 30% of your workout so you get booted
+[1:27:24] the next day you come back in you do a
+[1:27:25] little bit more and you get booted again
+[1:27:27] after about five or six days you you've
+[1:27:30] built up such a strong desire and hunger
+[1:27:33] to get your workout in you walk in you
+[1:27:35] put your phone on silent you put it over
+[1:27:37] in the corner and you just get to it and
+[1:27:40] that's the same thing that we're trying
+[1:27:41] to do with sleep restriction therapy so
+[1:27:44] you have to be a little bit careful do
+[1:27:46] it under supervision especially if
+[1:27:47] you're driving or you're operating heavy
+[1:27:49] machinery we just want to keep an eye
+[1:27:51] it's not necessarily a big concern but
+[1:27:53] we would say Okay Andrew you're
+[1:27:55] currently spending almost total about
+[1:27:59] you know 8ish or 7 and a half hours in
+[1:28:01] bed tonight I'm going to restrict you
+[1:28:04] down to 5 hours a night and we're going
+[1:28:06] to do this for the next week and the way
+[1:28:08] that we normally do it is I don't change
+[1:28:10] your wakeup time I change your to bed
+[1:28:13] time why it's easier to stay awake
+[1:28:16] longer than it is to wake up earlier so
+[1:28:19] I put it on the front end to the
+[1:28:21] compromise and at first things don't
+[1:28:24] change but after maybe about four or
+[1:28:26] five days of going through this I build
+[1:28:29] up enough of a shortterm debt in your
+[1:28:34] system that your system all of a sudden
+[1:28:37] thinks gosh I just cannot be as lazy
+[1:28:39] anymore I can't do this thing of waking
+[1:28:41] up in the middle of the night and
+[1:28:43] spending an hour and a half awake I
+[1:28:45] don't have the choice anymore there's so
+[1:28:47] much physiological buildup and pressure
+[1:28:50] to do this and gradually what happens is
+[1:28:53] that you sleep longer you don't wake up
+[1:28:56] as much and after maybe about 2 weeks of
+[1:28:58] doing this all of a sudden you go to bed
+[1:29:02] at this later time so for you let's say
+[1:29:04] you normally go to bed at 88: I'm going
+[1:29:05] to have you go to bed at maybe 10:30 11:
+[1:29:08] but we're still going to have you wake
+[1:29:10] up at that sort of 4:30 a.m. Mark that
+[1:29:14] you would normally wake up and all of a
+[1:29:17] sudden you go to bed at 10:30 11 you're
+[1:29:20] out like a light and then again the next
+[1:29:23] thing you remember is your alarm going
+[1:29:25] off saying I'm sorry you've got to wake
+[1:29:27] up and what happens by way of that reset
+[1:29:30] is gradually we will then once you're
+[1:29:32] stable we will start to back it off
+[1:29:35] we'll start to have you go to bed at 10:
+[1:29:37] and if it stays stable then 9:45 then
+[1:29:40] 9:30 and tit trate you back to where you
+[1:29:43] were and if there's any sign that you're
+[1:29:46] starting to not sleep well we zip it
+[1:29:48] back up again the goal here is in some
+[1:29:51] ways almost like hitting the reset
+[1:29:54] button on your Wi-Fi router I'm trying
+[1:29:56] to retrain your brain to better sleep
+[1:29:59] because when you are not sleeping well
+[1:30:03] you've lost your confidence in your
+[1:30:05] ability to sleep and when I do this
+[1:30:08] technique with you gradually your system
+[1:30:11] and you cognitively relearn that you are
+[1:30:14] a good sleeper and you can trust in
+[1:30:16] sleep and now your sleep does not
+[1:30:19] control you you control your sleep the
+[1:30:22] hard part however is that it's not easy
+[1:30:25] to go through and we have to be we have
+[1:30:28] to usually ask two questions with
+[1:30:30] individuals firstly what is your
+[1:30:32] motivation for better sleep um we need
+[1:30:35] to know that you really are motivated
+[1:30:37] and then second you just stay with a hi
+[1:30:39] touch White Glove frequency checking in
+[1:30:41] on individuals and motivating them to
+[1:30:44] keep going because it's very easy to
+[1:30:45] fall off the wagon so that's the the
+[1:30:48] next suggestion sleep restriction
+[1:30:50] therapy or bedtime rescheduling as we
+[1:30:53] would call it you said it's difficult
+[1:30:55] for people to go through you know it
+[1:30:56] takes a little bit of rigor a little bit
+[1:30:58] of attention means in some cases getting
+[1:31:00] less sleep than one would like but as
+[1:31:03] compared to something that you know
+[1:31:05] sadly I've experienced a lot in my life
+[1:31:07] of having challenges with sleep and
+[1:31:10] trying to get things back in order and
+[1:31:11] looking at the the bed and just going oh
+[1:31:13] my God Battle Ground you know Battle
+[1:31:16] Ground you know it's um I think it it
+[1:31:18] makes a lot of sense and I love the
+[1:31:20] analogy to the gym somehow if there's a
+[1:31:23] restriction into 1 hour in and out the
+[1:31:25] door or maybe 70 minutes in and out the
+[1:31:27] door CU you need to put your stuff in
+[1:31:28] the locker or something like that it
+[1:31:30] always at least for me gets done best
+[1:31:33] when you just have those constraints I
+[1:31:34] think there's something about the human
+[1:31:35] brain that we don't do well in um un
+[1:31:39] unrestrained systems that I I really
+[1:31:41] think guard rails are are fantastic I
+[1:31:43] love deadlines for instance yeah
+[1:31:45] discipline is essentially the hard hard
+[1:31:48] deadlines like or as they say in
+[1:31:49] Academia because we you know write
+[1:31:51] grants all the time drop deadlines which
+[1:31:53] who up that ter but like if you don't
+[1:31:55] make it that's it it's like there isn't
+[1:31:57] a hey I'll send this in tomorrow 5:00
+[1:31:58] p.m. Pacific time that website
+[1:32:01] closes and you better Bo do you get
+[1:32:04] things done all of a sudden it's
+[1:32:06] surprising how much distraction you can
+[1:32:09] you know pull out the noise and focus on
+[1:32:11] the signal it's great signal to noise
+[1:32:13] ratio yeah and I I love the idea that
+[1:32:15] you that one can control their sleep as
+[1:32:17] opposed to sleep controlling them I
+[1:32:18] think that that's um and and this notion
+[1:32:20] of sleep
+[1:32:21] confidence um one's conf idence in their
+[1:32:24] ability to sleep these are important
+[1:32:26] terms and they're more than just terms
+[1:32:27] because I think that um a a field and
+[1:32:31] and an area of Health practice and gosh
+[1:32:33] what's more important than sleep it's
+[1:32:35] the foundation of mental health physical
+[1:32:36] health and performance period um really
+[1:32:39] thrives on a common um common
+[1:32:43] nomenclature and and I really appreciate
+[1:32:45] that you're you know peppering these
+[1:32:47] episodes with it with um new
+[1:32:49] nomenclature um that captures a lot of
+[1:32:52] the essence of the protocols and the
+[1:32:54] mechanisms so there that's my editorial
+[1:32:56] please please continue I would say that
+[1:32:59] in terms of other things maybe just to
+[1:33:00] go through them um a little more quickly
+[1:33:03] we've spoken some about a wind down
+[1:33:06] routine most people underappreciate the
+[1:33:08] importance of a wi down routine we often
+[1:33:11] think that sleep is like a light bulb
+[1:33:13] that we dive into bed we switch off the
+[1:33:16] light bulb and sleep should appear just
+[1:33:18] as quickly it's untrue sleep in terms of
+[1:33:22] a process is much more physiologically
+[1:33:24] like trying to land a plane it just
+[1:33:26] takes time to come down onto the
+[1:33:28] terraferma of good sleep at night
+[1:33:32] whatever it is you enjoy as a relaxation
+[1:33:35] method engage in it could be listening
+[1:33:37] to a podcast could be reading a book
+[1:33:39] maybe it's a meditation it's light
+[1:33:41] stretching maybe whatever it is that you
+[1:33:44] do just build it into your regiment you
+[1:33:48] know you would never you know be driving
+[1:33:50] down the road and then pull into your
+[1:33:53] garage
+[1:33:54] at the same 40 mph speed you gradually
+[1:33:58] decelerate and you come to a
+[1:34:00] stop it's the same thing with sleep so
+[1:34:03] you need to find some way to decelerate
+[1:34:05] and we've spoken about methods already
+[1:34:07] as to how to do
+[1:34:09] that the next tip is a little quirky and
+[1:34:12] funny do not count sheep there's a great
+[1:34:16] study from my colleague Dr Alison Harvey
+[1:34:18] at UC berley and she put this to the
+[1:34:20] test didn't make people fall asleep
+[1:34:23] faster it made them take longer to fall
+[1:34:26] asleep however she did find an
+[1:34:29] alternative if you are not into
+[1:34:32] meditation or podcasts or sleep stories
+[1:34:35] or whatever it is that you you wish for
+[1:34:38] try taking yourself on a mental walk and
+[1:34:42] it has to be a walk that you know very
+[1:34:44] well so let's say that you walk your dog
+[1:34:46] every day and you know there's a couple
+[1:34:48] of walks that you take with your dog do
+[1:34:50] it in hyperd detail So Close Your Eyes
+[1:34:53] you go to the front door you clip in the
+[1:34:56] dog to the leash you walk out you go
+[1:34:59] down the steps out to the driveway then
+[1:35:02] you take a right but you always cross
+[1:35:04] over and you look to the left and the
+[1:35:05] right CU that's the place where traffic
+[1:35:06] always comes you cross over and now
+[1:35:08] you're walking up and there's that
+[1:35:10] strange sort of set of garbage that's
+[1:35:13] been outside of that house for a long
+[1:35:15] time and you don't know why it hasn't
+[1:35:16] been cleared and then you move that type
+[1:35:19] of High Fidelity
+[1:35:22] detail allows you to do what we said
+[1:35:25] earlier which is get your mind off
+[1:35:28] itself and when you do that again
+[1:35:31] typically you fall asleep faster and
+[1:35:34] that's what she found it was a great
+[1:35:35] great study I really enjoyed that I'm
+[1:35:38] curious as to why it works so well and
+[1:35:43] I'm not challenging that it works I I
+[1:35:45] can imagine having just closed my eyes
+[1:35:47] and kind of imagine what that would be
+[1:35:48] like it's very pleasant um there might
+[1:35:52] be here I'm just specul ating something
+[1:35:54] about engaging one's procedural memory
+[1:35:56] because that's procedural memory you're
+[1:35:58] trying to remember how you do something
+[1:35:59] as opposed to declarative memory which
+[1:36:01] is about facts you know I remember this
+[1:36:03] and this is going to happen tomorrow I
+[1:36:05] wonder whether or not there's something
+[1:36:08] about using a procedural memory um as
+[1:36:12] opposed to a declarative memory
+[1:36:15] visualization somebody should do that
+[1:36:18] study they should and I think it's
+[1:36:20] certainly possible that when you're
+[1:36:21] incorporating some aspect you know some
+[1:36:23] aspects of the scene and the information
+[1:36:26] is more sort of veridical and maybe EP
+[1:36:28] sort of episodic declarative memory but
+[1:36:31] when you're taking yourself for a mental
+[1:36:33] walk what is the fundamental premise of
+[1:36:35] that it's a walk it's motion it's
+[1:36:37] procedural memory and so maybe it's
+[1:36:39] something to do about with being more
+[1:36:41] attentive to becoming embodied because
+[1:36:44] when you're out walking and you're
+[1:36:46] moving it is a more embodied experience
+[1:36:50] than just sitting there at your desk
+[1:36:52] which is your mostly your head and very
+[1:36:55] little your body so I think it's an
+[1:36:56] intriguing idea and um I think another
+[1:37:00] tip that I now think of which also comes
+[1:37:03] from the work of Dr Allison
+[1:37:05] Harvey when individuals come up to me um
+[1:37:09] after sort of public events or they see
+[1:37:12] me at the airport they'll say look every
+[1:37:15] night for some strange reason at 2:45
+[1:37:19] a.m. I wake up and it happens three or
+[1:37:22] four nights a week
+[1:37:24] my first question to them is how do you
+[1:37:27] know it's
+[1:37:29] 2:45 and they say well I look at the
+[1:37:32] clock or I look at my
+[1:37:33] phone best piece of advice next remove
+[1:37:37] all clock faces from the bedroom no
+[1:37:40] matter how bad your sleep is going to be
+[1:37:43] that night knowing what time it is is
+[1:37:46] only going to make matters worse it is
+[1:37:49] not going to make matters any
+[1:37:51] better and that can create
+[1:37:54] an anxiety trigger that you think it's
+[1:37:56] 245 and then you're tossing and turning
+[1:37:59] you look back at the clock and now it's
+[1:38:01] 3:14 a.m. and you think I've got to be
+[1:38:04] awake at 600 I've got that big meeting
+[1:38:06] and now it's
+[1:38:07] 5:2 don't do that to yourself and I even
+[1:38:11] though I don't typically struggle with
+[1:38:13] sleep I have no clock faces in my
+[1:38:16] bedroom the phone that I use to help do
+[1:38:19] the guided meditation is an old phone
+[1:38:22] and it has
+[1:38:23] only Wi-Fi connectivity and nothing else
+[1:38:26] on it and I will only hit play and then
+[1:38:31] I will never turn it around um I will
+[1:38:34] not look at the clock face just doesn't
+[1:38:35] help me another incentive for keeping
+[1:38:38] the phone out of the room um if if one
+[1:38:42] can I I understand there are reasons
+[1:38:44] when um one would want the phone in the
+[1:38:47] room if you know it's potentially
+[1:38:50] signaling an emergency you know well I
+[1:38:53] think I think it's a very important
+[1:38:54] point and we've done some work in this
+[1:38:56] area too what that phone does is create
+[1:39:00] a a low level of anxiety it's what we
+[1:39:04] call anticipatory
+[1:39:07] anxiety one of the mechanisms separate
+[1:39:10] from that well it's related to that if
+[1:39:12] you look at teen phone use one of the
+[1:39:14] reasons that they don't sleep very well
+[1:39:16] at night is that they're constantly
+[1:39:17] checking their phones because of fomo a
+[1:39:20] fear of missing out what has gone on as
+[1:39:22] I've been asleep and it's stunning the
+[1:39:24] data but for most adults the other
+[1:39:26] reason I don't like advocating for phone
+[1:39:30] use when your alarm goes off in the
+[1:39:33] morning what is the first thing that you
+[1:39:35] do as you're in bed you swipe right or
+[1:39:38] you unlock your phone and you instantly
+[1:39:41] start checking social media emails text
+[1:39:44] messages and this tsunami of Stress and
+[1:39:48] Anxiety just floods over you it hits you
+[1:39:51] like this wall of anxiet
+[1:39:54] and I bring this up because it again
+[1:39:57] trains your brain for expectation of
+[1:40:01] that anticipatory anxiety has a
+[1:40:04] consequence on your sleep and everyone
+[1:40:06] knows this let's say that you've booked
+[1:40:09] an early morning flight and you've got
+[1:40:12] to wake up at 5:00 a.m. when normally
+[1:40:14] you wake up at 7
+[1:40:16] a.m. two things will usually happen
+[1:40:19] first you know that you're just not
+[1:40:21] going to sleep as deeply that night
+[1:40:23] because you're on edge and this is for
+[1:40:24] an interview or it's for critical like
+[1:40:27] this is a non-negotiable trip that has
+[1:40:29] to happen you've got to wake up the
+[1:40:31] second thing is that when you
+[1:40:34] are expecting that that wave of sort of
+[1:40:40] a need to wake up and maybe it's just
+[1:40:42] I'm expecting the phone again you will
+[1:40:46] wake up just a few minutes before your
+[1:40:48] alarm it's stunning how many people will
+[1:40:50] say I had this big flight the next day
+[1:40:53] and you almost know I'm going to wake up
+[1:40:55] 2 minutes before my alarm goes off why
+[1:40:58] because your brain has stayed in this
+[1:41:00] shallow state of anticipatory anxiety
+[1:41:03] and you don't get as much deep sleep and
+[1:41:05] we've now demonstrated that we others
+[1:41:07] when you have that low level anxiety the
+[1:41:10] depth of your deep sleep is not as deep
+[1:41:12] you don't get the good so again not to
+[1:41:15] be trying to dictate what people do just
+[1:41:17] be aware that when you do create that
+[1:41:20] behavior and that regiment it becomes
+[1:41:23] almost like a knee Jack sort of trained
+[1:41:26] habitual response terrific let's talk
+[1:41:29] about some of the advanced tools for
+[1:41:31] Sleep enhancement you know what sorts of
+[1:41:34] methods could one incorporate um you
+[1:41:36] know what are some of the data and um
+[1:41:39] and is there any way that we can sort of
+[1:41:40] lump these into uh sort of a some
+[1:41:43] framework or categories because I know
+[1:41:45] there are a lot of different tools there
+[1:41:47] are and I suppose this would be you know
+[1:41:50] I know our friend pet has spoken about
+[1:41:52] medicine 3.0 I think this would probably
+[1:41:54] be sleep optimization 3.0 what is coming
+[1:41:57] down the pike what is in the research
+[1:42:00] and I think you know could make it to
+[1:42:04] Market or has made it to Market but yet
+[1:42:08] we're still right on the cusp we've seen
+[1:42:12] Wei again in the Royal Wii have been
+[1:42:14] able to augment human sleep in at least
+[1:42:18] four different ways there are methods
+[1:42:22] for electrical brain stimulation there
+[1:42:25] are methods for acoustic stimulation of
+[1:42:29] sleep so electrical stimulation of sleep
+[1:42:31] acoustic stimulation of
+[1:42:33] sleep thermal manipulation of sleep and
+[1:42:36] then finally kinesthetic manipulation of
+[1:42:39] sleep meaning movement based
+[1:42:42] stimulation and I maybe I can just of go
+[1:42:44] into each one of those the electrical
+[1:42:47] stimulation is probably the most well
+[1:42:50] rendered of all of those four
+[1:42:54] in part because we started there and we
+[1:42:57] and here it's not the Royal Wii we have
+[1:42:59] done a lot of work on on this and um I
+[1:43:01] can tell you a little bit about a
+[1:43:03] company emerging from that but when
+[1:43:05] you're trying to manipulate the human
+[1:43:08] brain the principal currency in which
+[1:43:10] the brain communicates is electricity
+[1:43:13] now there are lots of things that help
+[1:43:14] it do that such as chemicals but the
+[1:43:17] principal language and um verbiage of
+[1:43:20] the brain is electricity so if you're
+[1:43:22] going to manipulate the brain why don't
+[1:43:24] you speak in its currency of
+[1:43:26] electricity so we and others have
+[1:43:29] developed a method based on something
+[1:43:31] called direct current brain
+[1:43:35] stimulation and specifically something
+[1:43:37] called transcranial direct current
+[1:43:40] stimulation and I'll unpack that trans
+[1:43:42] meaning movement so if you've heard of
+[1:43:44] Transport it's about moving things from
+[1:43:46] one port to another um transatlantic
+[1:43:48] moving you know across the Atlantic so
+[1:43:52] here the start of it is moving you're
+[1:43:54] moving something from one place to the
+[1:43:56] next trans cranial means through your
+[1:43:59] skull so we're moving something through
+[1:44:00] your skull transcranial direct current
+[1:44:04] is the type of voltage or the type of
+[1:44:07] electrical impulse that we're putting in
+[1:44:09] it could be alternating current or it
+[1:44:11] could be direct current and early
+[1:44:14] methods and those we use have been
+[1:44:16] direct current so transcranial direct
+[1:44:18] current and then stimulation we're
+[1:44:19] trying to stimulate the brain
+[1:44:21] specifically the cortex
+[1:44:24] and the way that we do this is that we
+[1:44:26] apply electrode pads to your head and we
+[1:44:28] insert a small amount of voltage into
+[1:44:31] your brain now it's so small that you
+[1:44:34] typically don't feel it but it has a
+[1:44:36] measurable impact on that electrical
+[1:44:38] brain
+[1:44:39] activity so very early on scientists and
+[1:44:42] we weren't the first to do do this by
+[1:44:43] any means there was a great paper now
+[1:44:46] famous paper in my field by um wonderful
+[1:44:48] scientist yam born in Germany and they
+[1:44:51] took a group of subjects and they
+[1:44:53] applied these electrod pads and
+[1:44:55] specifically to the front of the brain
+[1:44:58] and I'll explain why we target the front
+[1:45:00] of the brain with sleep electrical
+[1:45:01] enhancement or the electrocutica as it
+[1:45:04] were they applied these electr pads to
+[1:45:06] two groups of participants and then they
+[1:45:09] let them go into sleep and as you'll
+[1:45:12] remember we described that in the first
+[1:45:14] 2 or 3 hours of sleep is when you get
+[1:45:16] most of your deep sleep and they were
+[1:45:18] targeting those deep slow brain waves
+[1:45:21] that we spoke about those big slow
+[1:45:23] powerful waves that define deep sleep
+[1:45:26] and what they did in one of those groups
+[1:45:28] the other group was the placebo group
+[1:45:30] they still had the electrodes applied
+[1:45:32] they still went to sleep in the
+[1:45:34] stimulation group they waited until
+[1:45:36] those individuals went into deep sleep
+[1:45:39] and I told you in the first episode that
+[1:45:41] those deep sleep brain waves were going
+[1:45:43] up and down very very slowly maybe just
+[1:45:46] once or twice a second so they started
+[1:45:49] to stimulate the brain inputting the
+[1:45:53] stimulation pulses at a very slow Rhythm
+[1:45:56] trying to match the rhythm of the brain
+[1:45:58] in fact they were less than one Hertz
+[1:46:00] less than one cycle per second in terms
+[1:46:02] of a pulse it's almost as though we're
+[1:46:06] trying to act like a a choir to a
+[1:46:09] flagging lead
+[1:46:11] vocalist and as these brain waves are
+[1:46:14] going up and down you're trying to sing
+[1:46:16] in time with those deep sleep brain
+[1:46:17] waves and in doing so you're trying to
+[1:46:19] boost and amplify the size of those deep
+[1:46:21] sleep brain waves now to begin with they
+[1:46:23] just waited until they went into deep
+[1:46:25] sleep and they started to stimulate at
+[1:46:27] that frequency and I'll come back to why
+[1:46:29] that's important in a second but sure
+[1:46:31] enough what they demonstrated they were
+[1:46:33] able to boost the electrical quality of
+[1:46:35] that deep sleep by about
+[1:46:37] 60% and they were also able to almost
+[1:46:40] double the amount of memory benefit that
+[1:46:43] sleep provided wow which is very
+[1:46:45] impressive that is impressive now I
+[1:46:47] should note that there was more recently
+[1:46:50] a replication attempt of that paper and
+[1:46:52] they did very good job they really did
+[1:46:54] it to the letter and they weren't able
+[1:46:56] to replicate the effects as powerfully
+[1:47:00] however subsequent Studies have now
+[1:47:03] taken a more nuanced approach and it's
+[1:47:05] the one that we've taken too and it's
+[1:47:07] called closed loop
+[1:47:10] stimulation Clos Loop here simply means
+[1:47:13] that I'm not going to just wait until
+[1:47:15] you go into deep sleep and then just
+[1:47:17] take a chance and start stimulating your
+[1:47:19] brain not knowing of the synchrony of my
+[1:47:23] pulses into your brain relative to the
+[1:47:26] brain waves that you're experiencing
+[1:47:28] closed loop does do that so what I'm
+[1:47:30] doing is I'm measuring the electrical
+[1:47:32] brain waves that occurring and because
+[1:47:35] they're nice and slow they're very
+[1:47:37] predictable and I can program my
+[1:47:39] algorithm and my brain stimulation
+[1:47:41] machine to say I'm going to wait and
+[1:47:43] wait and as soon as you are on this peak
+[1:47:47] of your slow wave it turns out to be the
+[1:47:49] negative trough but I'll forgo that we
+[1:47:52] then try to strike at that point of
+[1:47:55] midnight when you're going through the
+[1:47:57] biggest sort of powerful sort of dip in
+[1:48:00] the the brain wave and we're trying to
+[1:48:02] sort of enhance it and same with the
+[1:48:04] peak so this is where we take a we get a
+[1:48:08] stimulus from the brain your electrical
+[1:48:10] brain activity and then we create a
+[1:48:12] timed response so it's a stimulus
+[1:48:15] response it's a call and response Loop
+[1:48:17] and by way of doing that it's a much
+[1:48:19] smarter specific method than a more
+[1:48:23] generalized I'm just going to stimulate
+[1:48:24] and hope I catch those waves at the
+[1:48:26] Peaks the reason is important because
+[1:48:30] different people have different speeds
+[1:48:32] of their slow brain waves they're all
+[1:48:34] slow but your speed of brain wave may be
+[1:48:37] a little bit different to mine and if
+[1:48:39] I'm off with my stimulation by let's say
+[1:48:42] just half a second or a quarter of a
+[1:48:44] second time and time again I may be
+[1:48:46] leaving some benefit on the table but
+[1:48:49] closed loop stimulation creates this
+[1:48:52] personalized electrical prescription of
+[1:48:55] stimulation and when you do that you get
+[1:48:58] very reliable benefits you can boost
+[1:49:01] those deep slope brain waves you get the
+[1:49:03] memory benefits but also what we found
+[1:49:05] is you not only boost those deep sleep
+[1:49:07] brain waves you boost another electrical
+[1:49:09] signature that I spoke about in the
+[1:49:11] first episode called sleep spindles and
+[1:49:14] it seems to be the combination of those
+[1:49:16] two things by way of electrical
+[1:49:17] stimulation that provides the benefits
+[1:49:20] now I should know I haven't mentioned
+[1:49:23] this before you can buy these devices on
+[1:49:25] the internet DIY style do not do that if
+[1:49:29] you go on to the internet too you can
+[1:49:31] also find some horror stories people
+[1:49:33] have misappropriated the voltage they've
+[1:49:36] got skin burs they've lost their
+[1:49:37] eyesight for several weeks do not do
+[1:49:39] this at home I promise you use you know
+[1:49:42] wait until these products come out and
+[1:49:44] that's one of the reasons why we've
+[1:49:46] scaled it into a company and we're we're
+[1:49:47] trying to do this we've got a long way
+[1:49:50] to go yet huge number of trials that we
+[1:49:52] have to do before you know I feel ready
+[1:49:55] to to Really lay it on the on the table
+[1:49:58] and
+[1:49:59] say you should absolutely buy this it's
+[1:50:03] it's well worth it but we're getting
+[1:50:05] very very close I would say great what
+[1:50:07] about thermal manipulations temperature
+[1:50:11] I mean there's such a tight relationship
+[1:50:12] between temperature and sleep and and
+[1:50:16] wakefulness for that matter uh what sort
+[1:50:19] of Technologies tools protocols exist to
+[1:50:22] uh that use thermal manipulation as a
+[1:50:25] way to augment sleep I love this topic
+[1:50:29] because there are high-fi low-fi and noi
+[1:50:32] technologies that you can
+[1:50:35] use the story of sleep and temperature
+[1:50:38] as you mentioned before and
+[1:50:40] reiterated in terms of the three-part
+[1:50:43] stanza that tur set that I would
+[1:50:45] describe is again you need to warm up to
+[1:50:49] cool down to fall asleep you need to
+[1:50:50] stay cool to stay asleep you need to to
+[1:50:52] warm up to wake up what that refers to
+[1:50:55] technically in sleep science are what we
+[1:50:57] call the thermal trigger zones so
+[1:50:59] warming up to cool down to fall asleep
+[1:51:02] is what we call the Sleep onset thermal
+[1:51:04] trigger Zone cooling down or staying
+[1:51:08] cool to stay asleep is about the deep
+[1:51:10] sleep trigger Zone and then warming up
+[1:51:13] to wake up is the activating alertness
+[1:51:16] trigger
+[1:51:18] Zone studies if you looked at them to
+[1:51:20] begin with before they manipulated that
+[1:51:22] found something fascinating if I take
+[1:51:25] you Andrew huberman and I bring you into
+[1:51:27] my lab and I remove your phone all your
+[1:51:30] laptop and you say goodbye to your
+[1:51:32] friends and family and you I bring you
+[1:51:35] into the center and there are no cues as
+[1:51:37] to what time of day no windows no
+[1:51:39] nothing and I'm just going to say look
+[1:51:43] I'll keep asking you
+[1:51:45] but at the moment that you feel most
+[1:51:49] sleepy just let me know
+[1:51:52] it turns out that before that we' done
+[1:51:54] the um delightful um intervention of
+[1:51:58] inserting a rectal probe into you
+[1:52:00] because that's the best way that we can
+[1:52:02] measure your core body temperature so
+[1:52:04] we're measuring your core body
+[1:52:05] temperature and sure enough despite you
+[1:52:07] knowing nothing about what time it is
+[1:52:10] the moment that you will tell me I am
+[1:52:13] ready to go to bed and I am sleepy is
+[1:52:15] the moment when you are on the greatest
+[1:52:18] decelerating trajectory of your core
+[1:52:20] body temperature it is high highly
+[1:52:22] predictive of how sleepy you will feel
+[1:52:25] the way that your body does this is by
+[1:52:28] pushing blood out to the surface regions
+[1:52:31] of your skin notably your hands and your
+[1:52:34] feet because these are these highly
+[1:52:36] vascular regions and you had a great
+[1:52:38] podcast from one of my heroes and good
+[1:52:40] friend Craig hel who's done some amazing
+[1:52:43] work on this at Stanford so naturally as
+[1:52:47] we lie down blood races to our hands and
+[1:52:50] our feet and also our head and we start
+[1:52:53] to release that heat trapped in the core
+[1:52:56] of our body and by releasing that heat
+[1:52:59] at the surface our core body temperature
+[1:53:01] drops hence the outer surfaces of you
+[1:53:05] hands feet and face have to warm up for
+[1:53:08] your core to cool down for you to fall
+[1:53:12] asleep and in fact there was a great
+[1:53:14] nature paper some years ago they just
+[1:53:16] measured the temperature of someone's
+[1:53:18] feet and they looked at how quickly they
+[1:53:20] fell asleep and when they fell asleep
+[1:53:23] sure enough the warmer your feet the
+[1:53:26] faster you fell asleep why because the
+[1:53:29] Warmness reflects the blood dilation and
+[1:53:32] the pumping out of the blood to the
+[1:53:34] periphery and then they did it in rats
+[1:53:36] where they started to warm the pores of
+[1:53:38] the rats and the Rats fell asleep more
+[1:53:40] quickly and I love this notion of again
+[1:53:43] I we don't do an but kind of love the
+[1:53:45] notion of wrapping a beautiful little
+[1:53:47] rat up in Cotton wall and I'm I'm
+[1:53:49] warming its feet with this pad and it's
+[1:53:51] just Bliss out out and then poof he's
+[1:53:53] gone his after she I respect their
+[1:53:56] privacy um so that was the early
+[1:53:59] evidence that then led to a series of
+[1:54:01] manipulation studies the most notable is
+[1:54:04] brilliant it comes from a colleague uh
+[1:54:07] in the Netherlands usan summeran and his
+[1:54:09] group they created essentially what was
+[1:54:13] a a wet think about a wet suit but that
+[1:54:16] wet suit is covered with all of these
+[1:54:19] thin tubes almost like veins that go all
+[1:54:22] over the suit to all territories of your
+[1:54:26] body and then what they would be able to
+[1:54:29] do is peruse water warm water or hot
+[1:54:32] water exquisitly to different parts of
+[1:54:35] the brain or the body cool amazing yeah
+[1:54:39] no pun intended thank so what they did
+[1:54:41] was then they started to manipulate
+[1:54:43] these peripheral regions sort of and
+[1:54:47] sure enough when they did this they were
+[1:54:50] able to have indiv uals fall asleep 25%
+[1:54:55] faster and these were healthy
+[1:54:57] individuals who are normally sleeping
+[1:54:59] within a very natural quick period of
+[1:55:02] time but they were able to Lop off 25%
+[1:55:06] of that time simply by warming these
+[1:55:09] certain parts of the brain to lift the
+[1:55:11] blood away from the core of the body and
+[1:55:14] by doing that they
+[1:55:15] accelerated the temperature core
+[1:55:18] deceleration and therefore increased or
+[1:55:21] accelerated the the speed with which
+[1:55:23] sleep arrived to those individuals sleep
+[1:55:26] appeared with much greater alacrity than
+[1:55:29] it would have done otherwise even though
+[1:55:30] it was quick
+[1:55:32] anyway so then not being satisfied with
+[1:55:35] that they moved on to the deep sleep
+[1:55:38] trigger Zone and this isn't you need to
+[1:55:41] stay cool to stay asleep and here now
+[1:55:44] they started to just continue to cool
+[1:55:46] the core the central aspects of the
+[1:55:50] body what they were able to do is
+[1:55:52] increased the amount of deep sleep by
+[1:55:56] somewhere between 25 to look at some of
+[1:55:59] the data almost 40 minutes they were
+[1:56:01] able to boost the amount of deep sleep
+[1:56:03] with the thermal manipulation and when
+[1:56:06] they were measuring the electrical brain
+[1:56:08] waves and they decompose those brain
+[1:56:10] waves even the power and the electrical
+[1:56:13] quality of those slow waves was
+[1:56:15] increased very impressive too next not
+[1:56:18] being satisfied with that they turned to
+[1:56:20] older adults for the reasons that we've
+[1:56:21] just described what they found was that
+[1:56:24] in those older adults when they were not
+[1:56:26] manipulated with this thermal
+[1:56:28] temperature in the second half of the
+[1:56:30] night there was a 50% probability that
+[1:56:32] they were going to be awake for some
+[1:56:34] part of the second half of the night
+[1:56:36] when they did the thermal manipulation
+[1:56:38] they dropped that number down to
+[1:56:40] 5% so they reduced a 50% probability of
+[1:56:44] waking up down to 5% in older adults and
+[1:56:47] again they improved the quality of their
+[1:56:50] deep sleep Think About by by the way why
+[1:56:53] that was so effective for older adults I
+[1:56:55] guarantee you you've probably seen
+[1:56:57] you've been in a warm climate or you've
+[1:56:59] been down on the beach you know here
+[1:57:01] sort of um in Los Angeles and people are
+[1:57:04] out in shorts and t-shirts or crop tops
+[1:57:07] then occasionally there will be someone
+[1:57:09] and I love seeing these sites where you
+[1:57:11] know a child is sort of Wheeling along
+[1:57:14] their elderly parents it's a beautiful
+[1:57:16] sort of scene of caring but the older
+[1:57:19] adult they're not dressed in the same
+[1:57:21] way that every one else is dressed on
+[1:57:23] the beach they are wrapped up some of
+[1:57:25] them have a Woolen hat on why older
+[1:57:28] adults cannot Thermo regulate anywhere
+[1:57:31] near as well as young adults is that
+[1:57:34] right and it's the reason that older
+[1:57:36] adults will always be saying I'm I'm
+[1:57:37] just so cold and my hands and my feet
+[1:57:39] especially are always cold now that's a
+[1:57:42] problem for sleep because if you cannot
+[1:57:45] Vaso dilate at the level of your hands
+[1:57:47] and your feet you can't get the blood
+[1:57:50] out from the core you can't drop your
+[1:57:52] core body temperature as much and we
+[1:57:54] started to understand from those types
+[1:57:56] of data that part of the Aging sleep
+[1:57:59] related problem equation is not just
+[1:58:02] that the brain deteriorates in sleep
+[1:58:04] related regions which we've been doing
+[1:58:07] most of our work on it's also part of a
+[1:58:10] body equation and a thermo regulatory
+[1:58:13] equation there was also a great study
+[1:58:15] unrelated from Australia they looked at
+[1:58:17] insomnia patients and they put their
+[1:58:20] hands or their feet in warm water and by
+[1:58:22] doing that it's a manipulation you can
+[1:58:24] see how quickly their hands and their
+[1:58:25] feet what we call Vaso dilate filled
+[1:58:27] with
+[1:58:28] blood healthy people Faso dieted very
+[1:58:31] quickly in response to that warm water
+[1:58:33] meaning that their hands and their feet
+[1:58:35] sort of you know had this red or at
+[1:58:37] least for my feet they would be this red
+[1:58:39] tone to them however in the insomnia
+[1:58:43] patients they did not Vaso dilate
+[1:58:45] anywhere near as well so once again it
+[1:58:47] suggests that when you have problems
+[1:58:48] with Sleep part of the equation may be
+[1:58:51] that you have imper Thermo regulatory
+[1:58:54] ability and we do see this in insomnia
+[1:58:56] patients so that's that was I think a
+[1:59:00] brilliant causal manipulation the
+[1:59:03] problem is that most of us don't have
+[1:59:05] access to a sort of come to bed eyes
+[1:59:09] thermal suit so what can we do as a
+[1:59:13] con please don't cut that I get myself
+[1:59:16] into terrible trouble rightly so I
+[1:59:18] should be I should be punished you'll be
+[1:59:19] right what they did then was to say well
+[1:59:22] okay let's look at this is there
+[1:59:25] something that we could do that's
+[1:59:27] cheaper and more accessible to the
+[1:59:28] general public and if you look there's a
+[1:59:31] literature that preceded that
+[1:59:33] manipulation and it's so reliable that
+[1:59:36] we now have a term for it in sleep
+[1:59:37] science it's called the warm bath effect
+[1:59:40] and many people will say look I love to
+[1:59:43] have a a warm bath or a hot shower
+[1:59:46] before bed and I think when I get out
+[1:59:49] I'm nice and toasty and it's because I'm
+[1:59:51] nice and warm that I fall asleep and I
+[1:59:53] stay asleep it's the exact opposite when
+[1:59:56] you get out of the warm bath or the
+[1:59:58] shower you have once again vasod dilated
+[2:00:01] at the surface of your skin you get out
+[2:00:04] of the bath you get this huge thermal
+[2:00:06] dump of heat away from the core what
+[2:00:08] happens you fall asleep and you stay
+[2:00:10] asleep more soundly now there are other
+[2:00:12] reasons that that has a benefit it's
+[2:00:14] relaxing you decompress you're staying
+[2:00:16] away from technology Etc but that is one
+[2:00:19] of the the thermal benefits and in fact
+[2:00:22] there were Studies by a legend in my
+[2:00:24] field who passed away just a few years
+[2:00:25] ago um Jim horn at lury University in
+[2:00:28] the UK and they did some of these
+[2:00:30] pioneering studies they were able to
+[2:00:32] improve the amount of deep sleep by
+[2:00:34] almost 40 minutes in some individuals
+[2:00:38] what was the protocol there as I recall
+[2:00:41] I think they were in the bath for
+[2:00:43] somewhere around or the bath duration
+[2:00:45] time was somewhere around 30 minutes but
+[2:00:47] they were doing sort of segments where
+[2:00:49] it was maybe it was 40 minutes 10
+[2:00:51] minutes in and then you could sort of
+[2:00:53] get out I think the temperature because
+[2:00:55] it was UK was around about 40°
+[2:01:00] celsus somewhere in that region I may be
+[2:01:03] getting those numbers wrong because I
+[2:01:04] know we like to protocolized some of
+[2:01:06] this but they were able to show some
+[2:01:09] really Pleasant benefits to to Deep
+[2:01:12] Sleep it also helped people fall asleep
+[2:01:14] helped them fall asleep by about 25
+[2:01:16] minutes faster in those people who are
+[2:01:18] really having a hard time with sleep I'm
+[2:01:20] going to take a hot bath tonight I
+[2:01:22] sometimes do the sauna in the evening
+[2:01:24] before sleep I'm a big fan of cold in
+[2:01:26] the morning cold shower cold Plunge in
+[2:01:28] the morning reverse engineering the the
+[2:01:30] equation you're trapping the heat into
+[2:01:31] the core of your body you're waking
+[2:01:33] yourself up right and then the and in
+[2:01:34] the evening I've used sauna the one
+[2:01:37] issue with sauna is I really crank the
+[2:01:39] heat of the sauna and then sometimes if
+[2:01:41] you do that right before bed you take a
+[2:01:43] you know warmish shower right afterwards
+[2:01:44] you get into bed oftentimes I'll wake up
+[2:01:46] thirsty and then um because it
+[2:01:48] dehydrates you and then if I drink a lot
+[2:01:50] of water to hydrate after in the sauna
+[2:01:52] then I'm waking up too much in the
+[2:01:53] middle of the night so I think sauna is
+[2:01:55] great but um right before bed I try I
+[2:01:58] would love to I don't have a a sauna at
+[2:02:01] home or nor an access to I mean there
+[2:02:03] are saunas in and around where I live
+[2:02:07] but what I want to do is have it
+[2:02:09] proximal to my bedtime and my bedtime
+[2:02:12] because I'm a neutral type you know sort
+[2:02:14] of around 11-ish nowhere is open and
+[2:02:17] willing to allow me to sit in the S how
+[2:02:19] long do you you sit in there usually I
+[2:02:21] I'm a little Bonker about this I well if
+[2:02:22] it's in the evening and I just want to
+[2:02:24] relax I would say maybe 20 30 minutes
+[2:02:26] and I I tend to go really warm warmer
+[2:02:28] than I want to stay here P to do pet our
+[2:02:31] friend I've done Sonic cold plunge with
+[2:02:33] pet he usually does it in the evening
+[2:02:35] goes Sonic cold Sonic cold Sonic cold
+[2:02:37] okay uh warm shower um and I don't know
+[2:02:41] how many nights a week he's doing that
+[2:02:43] but terms of the temperature of the
+[2:02:44] sauna you know generally somewhere
+[2:02:46] between 175 and
+[2:02:49] 210° depending on how heat adapted you
+[2:02:51] are but I think a hot bath is great or a
+[2:02:54] nice hot shower yeah I've certainly done
+[2:02:56] that and when I'm traveling with jet lag
+[2:02:59] I will absolutely that's part of my sort
+[2:03:02] of jet lag protocol I'll make sure I do
+[2:03:05] I'll because I don't really struggle too
+[2:03:07] much with sleep at least at present but
+[2:03:10] when I go through jet lag and I go back
+[2:03:12] home to to London of course it's tough
+[2:03:14] the worst The Living Daylights out of
+[2:03:17] that and do as much as I can so I think
+[2:03:19] that's probably the end of the the
+[2:03:22] thermal story although we are now trying
+[2:03:25] to see if we can take lowf fire
+[2:03:27] approaches where we're going to do some
+[2:03:29] footw we're trying to develop some footw
+[2:03:31] technology that can be built
+[2:03:34] into
+[2:03:35] um maybe a mattress and some mattress
+[2:03:38] companies uh there are some great ones
+[2:03:40] uh I know obviously Mato at 8 sleep and
+[2:03:43] they are they are doing amazing things I
+[2:03:46] think his company again I have no
+[2:03:48] affiliation but I we connect very well
+[2:03:50] and he's brilliant so they're doing
+[2:03:52] something like that I do uh use and love
+[2:03:55] my eight sleep here's what I'd love
+[2:03:56] somebody to engineer and we got a lot of
+[2:03:59] people who listen to the podcast you
+[2:04:00] think about product
+[2:04:01] development it would be wonderful to
+[2:04:03] have a portable pair of socks so that
+[2:04:07] you can use them when you travel or when
+[2:04:08] you go you know sleep anywhere at home
+[2:04:10] or elsewhere that would warm your feet
+[2:04:12] up at the beginning of the night so this
+[2:04:14] is a place for us to recap warm up to
+[2:04:16] cool down to fall asleep right stay cool
+[2:04:20] stay cool to stay asleep and then warm
+[2:04:23] up in the morning to wake up and so that
+[2:04:27] is pretty straightforward to build into
+[2:04:28] a pair of socks somebody can do this
+[2:04:30] somebody do this okay uh so that's so
+[2:04:33] we've done electrical we've done thermal
+[2:04:36] what
+[2:04:37] about auditory auditory so acoustic
+[2:04:43] stimulation in a very similar way
+[2:04:46] to electrical stimulation where you're
+[2:04:49] trying to Target that deep sleep and see
+[2:04:53] if you a better analogy is probably a
+[2:04:56] metronome and you're trying to see if
+[2:04:58] you can kind of force the metronome
+[2:05:00] further over back and forth with these
+[2:05:03] types of Technologies so auditory
+[2:05:06] stimulation came on the map again I
+[2:05:07] think probably yam born's group in
+[2:05:09] Germany was some of the first to do this
+[2:05:11] they initially started with this same
+[2:05:14] generalized approach where they would
+[2:05:15] take acoustic tones and they would first
+[2:05:18] assess what is your level of awake
+[2:05:21] weening threshold so you would be asleep
+[2:05:24] and they would just have these tones
+[2:05:25] very light tones like a sort of ping
+[2:05:28] ping and they would gradually increase
+[2:05:30] the volume up and they would look to see
+[2:05:32] what is the point where that volume of
+[2:05:34] the tone wakes you up and then they
+[2:05:36] understood your specific threshold
+[2:05:38] what's called an Awakening threshold and
+[2:05:41] they would set the volume to a sub
+[2:05:43] Awakening threshold great so you've got
+[2:05:45] that locked in place and now you start
+[2:05:49] and they did this within the first 990
+[2:05:51] minutes of people falling asleep they
+[2:05:53] started to play these sub Awakening
+[2:05:56] level volume levels of tones but they
+[2:05:59] were playing them at this very slow
+[2:06:02] frequency as if again they're trying to
+[2:06:05] syn and match the slow dancing Rhythm of
+[2:06:10] the slow brain waves and sure enough in
+[2:06:13] that first study and it was
+[2:06:14] indiscriminate meaning they just set the
+[2:06:17] tones PL like a metronome set the tone
+[2:06:20] set the and sorry set the volume and
+[2:06:23] then set the Cadence of the volume the
+[2:06:25] speed the frequency of those tones to
+[2:06:29] just a little bit less than one Hertz a
+[2:06:30] little bit less than one cycle per
+[2:06:32] second and then off you drifted to sleep
+[2:06:34] and they played it for the first 90
+[2:06:35] minutes CU that's the rich phase of deep
+[2:06:37] sleep and they were able to increase the
+[2:06:40] amount of Deep Sleep significantly the
+[2:06:44] problem in that first study was that
+[2:06:46] they also did a memory test because in
+[2:06:48] all of these studies including my own
+[2:06:50] even if I boost your sleep tonight
+[2:06:53] Andrew hubman my next if that's the
+[2:06:55] result that you show me I have four
+[2:06:57] words for you as a scientist yes and so
+[2:07:01] what is it functional because if I boost
+[2:07:05] your sleep but it doesn't change
+[2:07:07] anything to you the organism the next
+[2:07:09] day I'm going to suggest that that
+[2:07:11] enhancement is Epi phenomenal not
+[2:07:14] functional so it has to improve some um
+[2:07:18] some reasonable metric in wakefulness
+[2:07:20] that like improves improved memory um
+[2:07:22] improved uh task switching ability so
+[2:07:25] it's outcome measures strength correct
+[2:07:28] something yeah so even if I for example
+[2:07:31] you know lower your blood pressure with
+[2:07:32] a new drug if I'm not changing your
+[2:07:35] cardiovascular disease risk then the
+[2:07:37] question is why am I just continuing on
+[2:07:40] with the drug if it's not really
+[2:07:41] changing much same thing here and what
+[2:07:43] they found was that when they did the
+[2:07:45] memory test the next morning by
+[2:07:47] enhancing that deep sleep there actually
+[2:07:48] wasn't a memory benefit so perhaps what
+[2:07:52] was happening is that this was just
+[2:07:54] non-specific so again they then returned
+[2:07:57] and now others have returned to the
+[2:07:58] closed loop mechanism where now I've got
+[2:08:01] electrodes on your head and I'm
+[2:08:03] measuring your slow wave brain waves and
+[2:08:05] literally I am next door in the room and
+[2:08:08] I'm watching those slow brainwaves go up
+[2:08:09] and down and then I've got a computer
+[2:08:11] algorithm that is watching those
+[2:08:13] watching in quotes watching that too and
+[2:08:16] it's predicting when the next wave is
+[2:08:17] going to come and when it does auditory
+[2:08:20] tone clicks Awakening you don't wake up
+[2:08:23] and sure enough when you sort of tone
+[2:08:26] into the brain at that time you boost
+[2:08:30] the the size of that brain wave and once
+[2:08:33] again they boosted the size of those
+[2:08:34] deep sleep brain waves they also improve
+[2:08:36] those more quick burst of activity the
+[2:08:39] sleep spindles and now sure enough they
+[2:08:42] were able to improve memory however if
+[2:08:44] you look at that paper and here's why I
+[2:08:46] think the first method may not have
+[2:08:48] worked very well and why I don't suggest
+[2:08:51] people start trying to set this up
+[2:08:54] themselves when they kept stimulating
+[2:08:57] the
+[2:08:58] brain slow wave after slow wave after
+[2:09:01] about three or four strikes of the
+[2:09:05] metronome to boost those slow waves the
+[2:09:08] benefits stopped and if they kept going
+[2:09:12] you started to inhibit the amount of
+[2:09:15] naturally occurring deep sleep brain
+[2:09:16] waves why would it do this deep sleep
+[2:09:19] brain waves I told you in the first
+[2:09:21] episode are a Act of incredible neural
+[2:09:24] coordination it's Mass coordination now
+[2:09:27] one of the extreme versions of mass
+[2:09:30] coordinated propagated activity that is
+[2:09:32] maladaptive that is pathological is
+[2:09:35] called an epileptic seizure and your
+[2:09:38] brain has in place for the most part
+[2:09:40] stop gaps to prevent that type of spread
+[2:09:45] of vast amounts of coordinated
+[2:09:47] spontaneous electrical oscillations
+[2:09:50] because the brain is such a conductive
+[2:09:52] device that once you get it going you've
+[2:09:54] got to be careful because it may start
+[2:09:56] to conduct out of control so we think
+[2:09:58] that these checks and balances that were
+[2:10:00] in place even though you can
+[2:10:02] artificially stimulate it for a while
+[2:10:04] after a while the brain
+[2:10:06] says you've got to back off for a while
+[2:10:09] because this is getting a little bit out
+[2:10:10] of control you do a breath pause and
+[2:10:12] then you restart again and you get the
+[2:10:14] benefit and then you breath pause so
+[2:10:16] You' got to do it a little bit
+[2:10:17] intimately now you've got to read the
+[2:10:19] what we call the supplemental materials
+[2:10:21] of that paper you've got to go it's like
+[2:10:23] the fine print on a legal document if
+[2:10:25] you dig into it you can see that that
+[2:10:27] was the case but um it it wasn't
+[2:10:29] necessarily evident so those were really
+[2:10:32] the data
+[2:10:33] on acoustic stimulation and now with
+[2:10:36] this closed loop acoustic stimulation
+[2:10:38] that we've got going on it seems to
+[2:10:41] provide these nice
+[2:10:42] benefits some people then will probably
+[2:10:45] be asking what about these noise
+[2:10:48] machines what about white noise Etc
+[2:10:51] I've taken a look at this and so far I
+[2:10:54] think for White Noise machines the data
+[2:10:56] is
+[2:10:57] equivocal there was a recent study
+[2:11:00] review article I think it looked at
+[2:11:02] about 37 different studies I could have
+[2:11:05] this wrong and what they found was that
+[2:11:08] there was no reliable robust directional
+[2:11:11] effect of white noise machines on sleep
+[2:11:15] some studies demonstrated that it helped
+[2:11:17] sleep some studies didn't change sleep
+[2:11:19] some studies suggested it may make sleep
+[2:11:21] a little bit worse just nothing reliable
+[2:11:23] but maybe it's masking external sound
+[2:11:26] correct so I think if and the one of the
+[2:11:28] positive studies in that scenario was a
+[2:11:30] study that was done in New York City and
+[2:11:33] it was in a region where there was a lot
+[2:11:38] of um external sound pollution and noise
+[2:11:42] as you could well imagine it's New York
+[2:11:44] City and sure enough that's where they
+[2:11:47] got some really nice benefits of the
+[2:11:49] white noise machine so I think it is
+[2:11:51] you're right context dependent there was
+[2:11:53] a an interesting recent study that came
+[2:11:56] out from uh eaman Learners group at uh
+[2:12:00] the University of Texas San Antonio and
+[2:12:03] they didn't use White Noise they used
+[2:12:06] pink noise now what's the difference
+[2:12:09] pink noise has a little less what we
+[2:12:13] call power or intensity in the higher
+[2:12:16] frequency ranges of the sound spectrum
+[2:12:19] and it's more enriched in the slower
+[2:12:23] domain of that power Spectrum which you
+[2:12:26] could argue is a bit more fitting with
+[2:12:28] sleep and I think this study may have
+[2:12:30] been a nap study or I may be wrong but
+[2:12:33] anyway what they found was that they
+[2:12:34] increased Total Sleep Time by I think it
+[2:12:38] was close to 30 minutes with the pink
+[2:12:40] noise they did not change the amount of
+[2:12:43] deep sleep but they did inhance the
+[2:12:45] amount of stage two non-rm sleep which
+[2:12:48] we have spoken about before and we will
+[2:12:50] in subsequent episod episodes that is
+[2:12:52] beneficial for things like learning in
+[2:12:53] memory including motor skills and they
+[2:12:56] increased the amount of REM sleep to a
+[2:12:58] much more modest degree but those
+[2:13:00] changes were significant so I'm not
+[2:13:04] trying to rule out noise machines right
+[2:13:08] now and I have no affiliation with any
+[2:13:10] company or anything in that space um I
+[2:13:13] don't want to throw the baby out with
+[2:13:14] the bath water I just simply think that
+[2:13:16] right now we don't have enough evidence
+[2:13:18] but as you and I know as scientists
+[2:13:21] absence of evidence is not evidence of
+[2:13:23] absence just because it doesn't exist
+[2:13:25] doesn't mean that I don't think that
+[2:13:27] it's still a potential root these types
+[2:13:29] of machines what about
+[2:13:33] kinesthetic stipular uh tools protocols
+[2:13:38] um you know body position is something
+[2:13:40] that has an interesting relationship to
+[2:13:42] propensity to fall asleep based on brain
+[2:13:44] cooling that we talked about in another
+[2:13:46] episode but what about manipulation of
+[2:13:50] the body's mov movement um uh yeah what
+[2:13:53] is there anything in that domain it
+[2:13:55] sounds wacky at first yeah it does but
+[2:13:59] but I said it so you I still want to
+[2:14:02] know come on social media just be be
+[2:14:05] nice be friendly um I would say that if
+[2:14:09] you look back in again the annals of
+[2:14:12] human
+[2:14:13] history from the very early Inception
+[2:14:16] you will see mentions of a child being
+[2:14:19] rocked in a Manger or rocked in a crib
+[2:14:22] often parents will have will take their
+[2:14:25] young infant and you will quote unquote
+[2:14:27] Rock them to sleep and we as adults will
+[2:14:33] sometimes get in a hammock and if you're
+[2:14:35] rocked what happens you will fall as
+[2:14:37] it's that prototypical image of someone
+[2:14:40] with their hat over their face and in a
+[2:14:42] hammock and they've sort of fallen
+[2:14:44] asleep so it was very clear that
+[2:14:47] something was going on in this space and
+[2:14:50] then a group from the University of
+[2:14:52] Geneva um led by another fantastic sleep
+[2:14:55] scientist Sophie Schwarz did an epic
+[2:14:59] study that again it's one of those
+[2:15:01] studies that I
+[2:15:03] probably once more wished I'd
+[2:15:06] done here's what they did they took a
+[2:15:09] bed frame and then they suspended it on
+[2:15:12] chains from the ceiling now stick with
+[2:15:14] me I'm not going in that you know
+[2:15:16] there's no hot candle wax being applied
+[2:15:18] here don't worry I'll I'll keep it PG
+[2:15:20] again and then the next thing that they
+[2:15:22] did was connect a rotating arm to that
+[2:15:25] bed at the side of the bed and that arm
+[2:15:29] would start to simply just push the bed
+[2:15:32] laterally from left to right left to
+[2:15:35] right and they started just swinging the
+[2:15:36] bed in a very controlled manner but here
+[2:15:39] and I should ask Sophie exactly why they
+[2:15:41] made this choice they were rotating the
+[2:15:44] bed not at this sort of around one Hertz
+[2:15:48] which is what we've done with electrical
+[2:15:49] stimulation or acoustic stimulation
+[2:15:51] they were doing it
+[2:15:52] at25 Herz which is much slower still
+[2:15:56] almost imper is rocking you know once
+[2:16:01] every four seconds it's a very
+[2:16:06] slow
+[2:16:08] lull and sure enough what they found in
+[2:16:12] the first series of studies they did a
+[2:16:13] nap study a 90-minute nap study when you
+[2:16:16] did this rocking Motion versus when the
+[2:16:18] bed was still they increased the speed
+[2:16:21] with which people fell asleep they
+[2:16:23] boosted the amount of deep sleep and
+[2:16:25] they boosted the amount of those sleep
+[2:16:28] spindle oscillations that we described
+[2:16:31] not satisfied they then said well what
+[2:16:32] happens across a night of sleep they did
+[2:16:35] it then across a night of sleep they
+[2:16:37] replicated the same findings and now
+[2:16:39] they got a memory benefit now the memory
+[2:16:41] benefit you could argue is modest it was
+[2:16:44] 10% of a memory improvement benefit when
+[2:16:47] you woke up from sleep relative to the
+[2:16:50] already able benefit that sleep
+[2:16:52] naturally gives when you're not rocking
+[2:16:53] the bed but you think well 10% if I were
+[2:16:58] let's say a student and I got you know a
+[2:17:02] b and someone the professor said Look by
+[2:17:05] the way there is something that you can
+[2:17:06] do and we can increase your grade by 10%
+[2:17:09] and you can get to an A or an A plus
+[2:17:11] depending on the grading system would
+[2:17:13] you take it would you take 10% benefit
+[2:17:16] absolutely you would s grade point
+[2:17:18] average in increase so it's it it isn't
+[2:17:22] trivial necessarily well I also I'm I'm
+[2:17:25] positively surprised how important this
+[2:17:28] um but so what uh condition is for you
+[2:17:31] sleep researchers you know that that an
+[2:17:34] enhancement in say deep sleep or rapid
+[2:17:36] eye Moon movement sleep needs to
+[2:17:37] translate to some Daytime benefit um in
+[2:17:40] order to really get you guys excited but
+[2:17:44] but here's why I I think that's great
+[2:17:45] it's always great to have a high
+[2:17:47] threshold for excitement um but one of
+[2:17:49] the things that that one could argue is
+[2:17:53] that you know there are only so many
+[2:17:55] tests that you can have in a Laboratory
+[2:17:57] um of daytime functioning I think I am
+[2:18:00] on board the the fact that sleep is the
+[2:18:04] Bedrock of mental health physical health
+[2:18:06] and performance so an improvement in in
+[2:18:09] you know sign a statistically
+[2:18:11] significant Improvement in deep sleep or
+[2:18:13] REM sleep to me just seems like that's
+[2:18:16] got to be good for something we might
+[2:18:18] not know what that something is to test
+[2:18:20] in the laborat
+[2:18:21] but it could be that the threshold for
+[2:18:22] improvement of say gut microbiome
+[2:18:24] production of neurotransmitters is you
+[2:18:27] know .1% Improvement in deep so we don't
+[2:18:29] know I made that up so don't quote that
+[2:18:31] statistic anyone but I so admire the the
+[2:18:34] the um kind of extreme thresholds of
+[2:18:36] what you what gets you guys excited well
+[2:18:38] no your point is a very good one because
+[2:18:40] you could argue based on what I just
+[2:18:42] went back and said regarding the
+[2:18:45] exercise study with Ronda Patrick I've
+[2:18:48] just reversed my own threshold logic I
+[2:18:51] said to you well okay exercise was able
+[2:18:53] to overcome some of the deficits that
+[2:18:57] occur by way of sleep deprivation for
+[2:18:58] your blood sugar but don't assume that
+[2:19:01] that necessarily means it overcomes the
+[2:19:04] detriments the other detriments that
+[2:19:05] you'll have for your hormonal Health
+[2:19:08] your you know Thermo regulatory capacity
+[2:19:10] your cardiovascular disease your brain
+[2:19:12] function so I've just said look simply
+[2:19:16] you know one thing doesn't mean that
+[2:19:18] you've assessed all things and now now
+[2:19:20] I'm saying okay if you don't show that
+[2:19:23] it improved that one thing then it's not
+[2:19:26] functional but Matt by your own logic
+[2:19:29] you've said that but you didn't assess
+[2:19:31] many of the other things so even if it
+[2:19:33] didn't improve memory as you said it's
+[2:19:35] the Bedrock of all things
+[2:19:38] Health you need to assess all of them
+[2:19:41] before you make your conclusion of the
+[2:19:44] yes and so what failed test so you're
+[2:19:46] absolutely right to point that out um so
+[2:19:51] what was interesting after that data
+[2:19:53] came out in humans which is usually the
+[2:19:55] opposite way around they started to look
+[2:19:57] in in animal models and you mentioned
+[2:19:59] the vestibular system this ability for
+[2:20:02] us to understand motion and movement and
+[2:20:05] there's lots of mechanisms for that they
+[2:20:07] looked at mice and they started doing
+[2:20:11] this rocking again and sure enough the
+[2:20:14] mice fell asleep faster but then they
+[2:20:17] found a strain of mice that did not have
+[2:20:21] the lateral vestibular sensation
+[2:20:25] mechanism and they rocked them just the
+[2:20:27] same way zero change in their sleep
+[2:20:31] because you could imagine well it's
+[2:20:33] important to understand the mechanism
+[2:20:34] here is it that when you're rocking
+[2:20:37] there is it's not just about vestibular
+[2:20:39] stimulation maybe that
+[2:20:41] rocking sort of modestly changes
+[2:20:44] friction which changes temperature you
+[2:20:47] could come up with all sorts of wacky
+[2:20:48] reasons this was a very clear C caal
+[2:20:50] manipulation of the lateral vestibular
+[2:20:53] system and if that is not in place you
+[2:20:55] fail to get the benefit so it clearly
+[2:20:57] has something to do with the vestibular
+[2:21:00] system can I Venture a guess as to why
+[2:21:02] that is yeah I interrupted but in case
+[2:21:05] that happen to be right by some chance I
+[2:21:07] previously talked about the um the need
+[2:21:11] to lose uh a sense of one's posture in
+[2:21:15] relationship to gravity in order to fall
+[2:21:17] asleep right you have to go into this uh
+[2:21:20] lack of proceptive awareness in order to
+[2:21:22] fall asleep propri reception being the
+[2:21:24] knowledge of where one's limbs are
+[2:21:25] relative to the body and body relative
+[2:21:27] to other surfaces and gravity yeah and
+[2:21:29] um this is something that can be
+[2:21:31] accomplished in these uh you know
+[2:21:32] flotation tanks and things like that um
+[2:21:35] and other ways go to outer space but um
+[2:21:39] the cheaper version the cheaper version
+[2:21:42] um
+[2:21:43] so could it be that the rocking at that
+[2:21:46] very slow frequency um is tapping into
+[2:21:49] the vestibular system in a way that that
+[2:21:51] propri receptive feedback about body
+[2:21:53] position is somehow um uh starts to
+[2:21:57] vanish and because I'm intrigued by this
+[2:22:00] idea that you have to lose perception of
+[2:22:03] your body's positioning and and propr
+[2:22:05] receptive awareness in order to fall
+[2:22:07] asleep uh and maybe your a description
+[2:22:10] earlier of a protocol of going on a
+[2:22:12] mental walk um in order to fall asleep I
+[2:22:15] I just feel like these things are
+[2:22:16] starting to converge on on on some
+[2:22:18] themes here central Comm pathway that
+[2:22:20] could be the absence of I think it's
+[2:22:23] entirely possible in some ways right now
+[2:22:26] we think that these two things are
+[2:22:28] associated that as you're falling asleep
+[2:22:30] gradually you will lose propri receptive
+[2:22:33] sensation okay
+[2:22:35] but simply the fact that two things are
+[2:22:38] associated doesn't necessarily mean
+[2:22:40] they're causal but your suggestion here
+[2:22:43] is a very elegant way of testing that
+[2:22:45] hypothesis which is that perhaps if you
+[2:22:48] could show that the symmetric of
+[2:22:51] proprioception becomes compromised when
+[2:22:53] you start doing
+[2:22:55] lateral sort of kinesthetic or movement
+[2:22:59] stimulation that's a very powerful
+[2:23:01] demonstration that it's not just so here
+[2:23:04] with the study in the mice they lacked
+[2:23:07] the lateral vestibular sensation and you
+[2:23:10] lost the Sleep benefit but maybe there's
+[2:23:12] one step down which is that when you
+[2:23:14] lose that vestibular stimulation you
+[2:23:17] lose the benefit on the thing that
+[2:23:19] really is augment ing the Sleep which is
+[2:23:21] the change in Pro reception so this is
+[2:23:24] the first step in a chain of command and
+[2:23:27] you've missed the final common
+[2:23:29] transactor of that ingredient called
+[2:23:31] better
+[2:23:32] sleep and those I would say are probably
+[2:23:34] the the four current bastions of sleep
+[2:23:39] augmentation hopefully that describes to
+[2:23:41] listeners the range of where sort of
+[2:23:44] sleep 3.0 sleep enhancement 3.0 is going
+[2:23:48] and also describes the way in which
+[2:23:50] which we can come down the strata from
+[2:23:52] high friction low friction to no
+[2:23:53] friction um and also in terms of cost
+[2:23:57] where you can have high cost minimal
+[2:23:58] cost low cost I mean hot bath or shower
+[2:24:01] is Pennies on the dollars so especially
+[2:24:03] if you take a cold shower in the morning
+[2:24:05] and save on your heating bill so you can
+[2:24:06] take a little bit longer hot shower in
+[2:24:08] the evening and then you net to zero
+[2:24:11] difference um it's just my way of saying
+[2:24:13] take a cold shower in the morning feels
+[2:24:15] great when you get
+[2:24:17] out what about some ways to enh rapid
+[2:24:21] eye movement sleep beyond what you've
+[2:24:23] covered up until now so I think there
+[2:24:27] are probably two emerging data sets that
+[2:24:30] I've been intrigued by one of which
+[2:24:32] we've been doing some work on and it
+[2:24:34] comes back to Thermal what I fail to
+[2:24:36] mention is not just that you need to
+[2:24:38] warm up to wake up which you do but you
+[2:24:41] also need to warm up to REM sleep but
+[2:24:44] not too much if you take an organism or
+[2:24:48] a human being and you strip them of bed
+[2:24:50] sheets and strip them of clothes so
+[2:24:52] they're basically almost on
+[2:24:55] natural if you warm the body up to what
+[2:24:58] we call the Thermon neutral point so it
+[2:25:02] tends to be and this sounds extreme and
+[2:25:04] it you don't have to do this because
+[2:25:06] you're under sheets and that makes a
+[2:25:08] world of difference but if you warm the
+[2:25:11] room to about 30° C which gets close to
+[2:25:16] at the surface ambient level for your
+[2:25:19] skin something that can bring your core
+[2:25:22] body temperature up back up to operating
+[2:25:24] because I told you when you go when
+[2:25:26] you're in that deep sleep trigger Zone
+[2:25:28] the middle Zone your core body
+[2:25:30] temperature drops and it drops
+[2:25:31] significantly and to wake up you have to
+[2:25:34] warm up but on the journey to warming up
+[2:25:37] you also have to get to Thermon
+[2:25:40] neutrality for you to have REM sleep if
+[2:25:43] I keep you too cold I can reduce the
+[2:25:47] amount of REM sleep if I get you too hot
+[2:25:50] but I can imper the amount of REM sleep
+[2:25:53] so it's a Goldilocks phenomenon not too
+[2:25:55] little not too much just the right
+[2:25:57] amount if I keep you there in terms of
+[2:26:00] your thermal um net neutrality I can
+[2:26:03] boost your RAM sleep now that's
+[2:26:11] fishlyn they run at different hot
+[2:26:13] temperatures they've got different
+[2:26:14] partner situations so you need a Clos
+[2:26:17] loop system again but it's something
+[2:26:19] that very interested in because almost
+[2:26:23] all of the methods that I've described
+[2:26:24] and you are smart to pick this up all
+[2:26:26] target deep non-rm sleep but we spoke
+[2:26:29] about in the first episode every stage
+[2:26:31] of sleep is important and in subsequent
+[2:26:33] episodes I'll tell you exactly why REM
+[2:26:35] sleep is so critical so how can we boost
+[2:26:38] that that's one way that we're starting
+[2:26:40] to explore it but nothing I think solid
+[2:26:43] yet the other is some of the drugs the
+[2:26:46] newer sleep medications that have come
+[2:26:48] onto the market and um again I think I
+[2:26:51] mentioned I I did take the task and I
+[2:26:54] feel perhaps rightfully so about the
+[2:26:56] classic sleep medications that if you
+[2:26:58] look at the scientific data if you can
+[2:27:00] avoid them it's probably best to do so
+[2:27:03] things like ambient Etc we call them the
+[2:27:06] Z drugs because they all start their
+[2:27:08] sort of generic names are sort of start
+[2:27:10] with a zed you know
+[2:27:13] um ambian for example um has uh has a
+[2:27:18] zed at the start of it for its generic
+[2:27:19] name but but I don't want to get into
+[2:27:21] naming any
+[2:27:23] necessarily yeah but um for
+[2:27:26] ambient what's interesting about those
+[2:27:29] medications again they're in a class of
+[2:27:31] drugs that we call the sedative
+[2:27:32] hypnotics so again sedation not sleep
+[2:27:35] and also there's been some great work
+[2:27:37] again by der and dyin colleagues if I
+[2:27:39] were to show you the that that
+[2:27:40] electrical signature of your deep sleep
+[2:27:43] it does look as though those drugs kind
+[2:27:44] of increased the amount of electrical
+[2:27:47] activity in that slower deep sleep range
+[2:27:49] except once you go all the way to the
+[2:27:51] far left to the slowest of those slow
+[2:27:53] brain movies which turns out to be the
+[2:27:57] the types of waves that are most
+[2:27:59] beneficial for most health related brain
+[2:28:01] and body functions you get this huge
+[2:28:05] dent in your electrical brain wave
+[2:28:07] activity it's almost as though those
+[2:28:09] drugs take a bite out of that realm of
+[2:28:13] of electrical activity and of course
+[2:28:15] there are issues with daytime sleepiness
+[2:28:18] and some safety related issues that has
+[2:28:20] been Health associations not necessarily
+[2:28:22] causal and so I was you know I I offered
+[2:28:26] one scientific Viewpoint of those
+[2:28:28] medications in the book and um and so be
+[2:28:31] it it's not as though i' I'm anti-m
+[2:28:33] medication as I said and some of the new
+[2:28:36] medications are very interesting brings
+[2:28:37] me back to REM sleep there's a new class
+[2:28:39] of sleep medications called the Doras
+[2:28:42] and it stands for it's d o r a small s
+[2:28:48] and it stands for Jew
+[2:28:50] orexin receptor
+[2:28:54] antagonists oh my goodness mouthful that
+[2:28:56] just sounds like word salad to anyone
+[2:28:58] who's not a
+[2:29:00] neuroscientist orexin which is part of
+[2:29:03] that um set of words is a chemical in
+[2:29:06] the brain and ereen became prominent
+[2:29:09] with the study of noopsy and what we we
+[2:29:12] as the Royal Wii people like Emanuel
+[2:29:14] Mano and others um at Stanford what they
+[2:29:17] discovered was that noptic patients have
+[2:29:19] a found deficit in this this chemical
+[2:29:23] orexin and receptors also called
+[2:29:26] hypocretin and it has a function both it
+[2:29:28] turns out for wakefulness and a function
+[2:29:31] for feeding and eating related behaviors
+[2:29:33] hypocretin was probably more related to
+[2:29:35] it when it was because it was discovered
+[2:29:37] right around the same time um two
+[2:29:39] different groups yes exactly beautiful
+[2:29:42] two different groups named it
+[2:29:44] differently but noopsy as some people
+[2:29:48] may know is it's a condition to sleep
+[2:29:50] disorder and one of the symptoms is
+[2:29:52] called excessive daytime sleepiness
+[2:29:54] where you have inappropriate invasions
+[2:29:56] of sleep during the day when you want to
+[2:29:59] be awake why well it turns out that this
+[2:30:02] chemical ereen acts like a finger on the
+[2:30:05] light switch of all of the apparatus in
+[2:30:08] your brain that switches on to force you
+[2:30:11] awake it reaches down into the it's
+[2:30:13] released from a central part of your
+[2:30:15] brain called the hypothalamus and it
+[2:30:16] releases down into the brain stem to
+[2:30:18] activate what we call the ascending
+[2:30:21] arousal system or the reticular
+[2:30:23] ascending arousal system of the brain
+[2:30:25] and when that lights up it's like the
+[2:30:26] light switch which says on for waking
+[2:30:29] brain activity and so what was happening
+[2:30:32] was that this ereen up higher up was not
+[2:30:37] forcing the finger of wakefulness on
+[2:30:40] during the day so almost instead of a
+[2:30:42] switch which is what you
+[2:30:44] want it was more like a dimmer switch
+[2:30:47] and you know when you get to that dimmer
+[2:30:48] switch point right in the middle where
+[2:30:50] it's flickering it's on it's off it's on
+[2:30:51] it's off that's almost the state in
+[2:30:54] which the narcoleptic brain was because
+[2:30:55] they had a deficiency of orexin so that
+[2:30:58] was the ereen story in nopy so why is it
+[2:31:02] relevant for insomnia well people
+[2:31:04] realized the problem with Epsy is that
+[2:31:07] they're asleep during the day when they
+[2:31:09] want to be awake but the opposite
+[2:31:11] problem is true of insomnia patients
+[2:31:14] they want to be asleep at night but
+[2:31:17] they're awake so why don't we
+[2:31:19] selectively de develop a drug that goes
+[2:31:21] after this finger that flips the light
+[2:31:24] switch on for wakefulness but now let's
+[2:31:26] block it at night so we flick the switch
+[2:31:30] back in the off position we turn out the
+[2:31:32] lights of the brain and we remove the
+[2:31:35] problem of insomnia which is excessive
+[2:31:39] wakefulness at night which is one of its
+[2:31:41] problems but and therefore when you
+[2:31:44] remove that indirectly what comes in its
+[2:31:47] place is this thing called more
+[2:31:49] naturalist sleep and that's why it's
+[2:31:51] being more favored now as the principal
+[2:31:53] drug um it's still not necessarily well
+[2:31:56] known by physicians or it's not very
+[2:31:58] well prescribed it's not very well
+[2:31:59] covered here in the United States
+[2:32:00] unfortunately with insurance so it's a
+[2:32:02] very expensive option right now Health
+[2:32:05] Providers will choose not to do that
+[2:32:07] unfortunately so what's interesting
+[2:32:10] about that drug though is that it's
+[2:32:12] mixed in terms of the studies but quite
+[2:32:14] reliably it does seem to improve sleep
+[2:32:17] very much so but it seems to unlike
+[2:32:19] those classic sleeping pills which
+[2:32:21] artificially look like they're
+[2:32:22] increasing deep sleep even though
+[2:32:24] they're they're not doing sedation these
+[2:32:27] drugs can improve most all aspects of
+[2:32:29] sleep but including REM sleep which
+[2:32:31] those classic sleeping pills did not why
+[2:32:34] is it doing that we still don't know but
+[2:32:36] one of the things that the these Dora
+[2:32:39] drugs do that block the erex in that
+[2:32:41] take off the the the on position of the
+[2:32:44] light switch and flip them off when you
+[2:32:47] switch it off it can actually then then
+[2:32:50] allow the activation or the stimulation
+[2:32:53] of something called melanin concentrated
+[2:32:56] hor hormone or MCH in the brain and that
+[2:33:00] when it is um triggered on can stimulate
+[2:33:04] another chemical called acety choline in
+[2:33:07] the brain which is a
+[2:33:09] neurotransmitter if there is one
+[2:33:10] neurotransmitter in the brain that seems
+[2:33:12] to be responsible almost exclusively for
+[2:33:15] this thing called REM sleep or
+[2:33:16] dominantly I should say for REM sleep it
+[2:33:18] is atile Coline this was discovered way
+[2:33:21] back in the 1970s by my former um uh one
+[2:33:25] of my former mentors Alan Hobson at
+[2:33:27] Harvard and what this drug may be doing
+[2:33:30] is indirectly boosting the amounts of
+[2:33:33] acetal choline in the brain particularly
+[2:33:35] in a region of the brain called the
+[2:33:36] basil forbrain which is a REM sleep
+[2:33:38] regulating region and that's the reason
+[2:33:40] that you get boosts in REM sleep and
+[2:33:42] people also report dreaming a little bit
+[2:33:44] more too on those medications so thermal
+[2:33:47] manipulation getting you to net neutral
+[2:33:50] thermal zones helps increase REM sleep
+[2:33:53] but also there are some medications that
+[2:33:55] were not necessarily designed for REM
+[2:33:57] sleep enhancements selectively but there
+[2:33:59] is evidence that they do that so if you
+[2:34:01] ask me where are we at with REM it's
+[2:34:04] it's certainly more bereft of methods
+[2:34:07] than deep non-rem sleep but we are
+[2:34:10] starting to find some now given what you
+[2:34:12] just told us about the role of ACL
+[2:34:14] choline in Rapid eyee movement sleep
+[2:34:17] what about taking um precur cursors to
+[2:34:20] acetylcholine I mean certainly a good
+[2:34:22] number of them exist yeah um you know
+[2:34:24] even like over-the-counter supplements
+[2:34:26] like Alpha
+[2:34:27] GPC um and then of course there are uh
+[2:34:30] choline donors and things like that that
+[2:34:33] can increase uh col energic transmission
+[2:34:35] um is that get into issues of um you
+[2:34:39] know if one does that globally is it
+[2:34:42] possible that you increase arousal and
+[2:34:43] have trouble falling asleep because some
+[2:34:45] of those coleric agents be activating so
+[2:34:49] one of the problems the second
+[2:34:52] is you may stop because you're going to
+[2:34:55] have to take them before bed you may
+[2:34:58] Brute Force REM sleep to arrive earlier
+[2:35:00] and you may therefore come at the cost
+[2:35:03] of of deep non-rem sleep and so you'd
+[2:35:06] have to get uh some kind of timed
+[2:35:08] release capsule which you can do you can
+[2:35:10] coat these capsule you can get a timed
+[2:35:12] release and you would want to take it
+[2:35:14] before bed and then maybe after about
+[2:35:17] four or five hours you would want to
+[2:35:19] kick it into gear because now you're in
+[2:35:21] so it's a littleit gets bit tricky yeah
+[2:35:24] this is one of the reasons why I
+[2:35:25] personally this is just my experience
+[2:35:27] I'm not a fan of of supplements that tap
+[2:35:29] into the serotonergic system for sake of
+[2:35:31] sleep because um certainly serotonin
+[2:35:34] plays an important role in sleep but
+[2:35:35] anytime I've taken something you know
+[2:35:37] 5htp or something like that to try and
+[2:35:40] improve sleep I find that um I fall
+[2:35:42] asleep and then I wake up very deep deep
+[2:35:44] sleep and then I wake up um very alert
+[2:35:47] and I have trouble with the later phases
+[2:35:48] of sleep and I think that is because yes
+[2:35:52] serotonin is involved in sleep but it's
+[2:35:53] involved in sleep at a very specific
+[2:35:55] point in this as you refer to it this
+[2:35:57] like Symphony or ballet of different
+[2:35:59] sleep stages and how they evolve and um
+[2:36:01] interdigitate with one another across
+[2:36:03] the night so um while I do think there
+[2:36:06] are things that one can use
+[2:36:07] pharmacologically or supplement based to
+[2:36:09] improve sleep generally I I like to
+[2:36:11] think of those as the kind of thing that
+[2:36:12] kind of pushes a away front of the whole
+[2:36:14] sleep process yeah as opposed to trying
+[2:36:16] to tap into one specific
+[2:36:17] neurotransmitter within the sleep
+[2:36:20] ballet exactly yeah I I like that way of
+[2:36:23] thinking and you you do have to be
+[2:36:24] careful because in biology it's often
+[2:36:28] rare that there are any free lunches in
+[2:36:31] truth you know Nature has optimized our
+[2:36:33] system so exquisitly that when you start
+[2:36:37] to try and gain the system for one thing
+[2:36:40] be very mindful that it may come at the
+[2:36:42] cost of something else and that's why
+[2:36:45] whenever we're doing these types of sort
+[2:36:47] of developments of Technologies for
+[2:36:49] sleep we are very cautious not just to
+[2:36:52] say did we improve the thing that we're
+[2:36:53] targeting but first call of business in
+[2:36:56] medicine is not will this drug help you
+[2:36:59] but firstly is there any downside in
+[2:37:02] terms of will this drug hurt you and
+[2:37:04] then you have to understand the cost
+[2:37:05] ratio benefit between those two things
+[2:37:08] yeah just one more anecdote uh that is
+[2:37:11] in agreement with what you said nowadays
+[2:37:12] there's an increased excitement around
+[2:37:15] peptides the use of peptides there is um
+[2:37:17] and I I currently don't use any but I
+[2:37:20] did a short run with you know occasional
+[2:37:23] use of cellin which is a secretagogue
+[2:37:25] which is a growth hormone right SEC it
+[2:37:28] promotes the secretion of growth hormone
+[2:37:30] not growth hormone itself I took it not
+[2:37:32] many times and I was tracking my sleep
+[2:37:34] and what I noticed is it um put me into
+[2:37:36] a little bit of a hypnotic State dreams
+[2:37:38] were very intense but um deep deep sleep
+[2:37:42] but according to my sleep tracker I only
+[2:37:44] ran this for maybe three nights um
+[2:37:47] according to my sleep tracker it
+[2:37:48] completely eliminate all my rapid eye
+[2:37:51] movement sleep at least as measured by
+[2:37:53] the sleep tracker but the amount of of
+[2:37:56] Deep Sleep of slow wave sleep just like
+[2:37:58] massively expanded so that that can't be
+[2:38:01] good that that can't be good I mean know
+[2:38:03] you don't want to mess with that
+[2:38:05] cocktail ratio that we described in the
+[2:38:07] first
+[2:38:08] episode presume that it's it's emerged
+[2:38:11] as the correct you know Da Vinci Code of
+[2:38:14] sleep stage recipes and there may be a
+[2:38:18] time and a place where you want to over
+[2:38:21] index on one of those things for
+[2:38:24] whatever reason but to do it
+[2:38:27] consistently and permanently I would
+[2:38:29] again say if if you think within the
+[2:38:33] space of a
+[2:38:34] lifetime
+[2:38:36] that you know something that you know
+[2:38:40] 2.6 million years of evolution has not
+[2:38:45] understood chances are you're probably
+[2:38:47] wrong I agree um um and certainly later
+[2:38:51] in this series we will touch into some
+[2:38:53] of the over-the-counter supplements and
+[2:38:55] other things that one can do in order to
+[2:38:57] augment sleep that do seem to have some
+[2:38:58] benefit because there are uh such things
+[2:39:01] um but in the
+[2:39:02] meantime thank you for providing this
+[2:39:05] incredible Arc of description of basic
+[2:39:10] sleep hygiene and regularity light dark
+[2:39:12] temperature getting out of bed when you
+[2:39:14] can't sleep alcohol food caffeine
+[2:39:17] cannabis unconventional
+[2:39:19] protocols and let's call them Advanced
+[2:39:23] protocols electrical protocol brain
+[2:39:25] stimulation in other words um thermal
+[2:39:28] manipulation auditory stimulation
+[2:39:31] kinesthetic and then these rapid eye
+[2:39:33] movement enhancing um drugs and on and
+[2:39:37] on um Matt uh I can't thank you enough
+[2:39:41] this has been a just
+[2:39:43] uh replete with actionable tools and
+[2:39:47] considerations and I love that you took
+[2:39:48] us to the the The Cutting Edge of of
+[2:39:51] what's Happening Now I think uh it's
+[2:39:53] wonderful to talk about the history of a
+[2:39:55] field and what was discovered it's
+[2:39:56] wonderful to talk about the present but
+[2:39:58] it's wonderful that you've um put our
+[2:40:00] eyes uh a bit into the future of what
+[2:40:03] the technology for Sleep uh enhancement
+[2:40:06] and monitoring holds so once again thank
+[2:40:09] you um you're so welcome if folks
+[2:40:12] haven't already seen um or listen to
+[2:40:14] episode one highly recommend they do and
+[2:40:17] of course we will be back soon with
+[2:40:20] episode three which is going to get into
+[2:40:23] all the science and acual
+[2:40:26] protocols related to napping and
+[2:40:29] caffeine and some other exciting things
+[2:40:32] that I know impact people's daily lives
+[2:40:34] and that they can get moving on should
+[2:40:36] they choose right away and by moving on
+[2:40:39] I mean to
+[2:40:40] sleep thank you again Delight cannot
+[2:40:43] wait for the next recording thank you
+[2:40:45] for joining me for today's episode with
+[2:40:47] Dr Matthew Walker to learn more about Dr
+[2:40:49] Walker's research and to learn more
+[2:40:51] about his book and his social media
+[2:40:53] handles please see the links in our show
+[2:40:55] note captions if you're learning from
+[2:40:57] Andor enjoying this podcast please
+[2:40:59] subscribe to our YouTube channel that's
+[2:41:00] a terrific zeroc cost way to support us
+[2:41:03] in addition please subscribe to the
+[2:41:04] podcast on both Spotify and apple and on
+[2:41:07] both Spotify and apple you can leave us
+[2:41:09] up to a five-star review please also
+[2:41:11] check out the sponsors at the beginning
+[2:41:12] and throughout today's episode that's
+[2:41:14] the best way to support this podcast if
+[2:41:16] you have any questions for me or
+[2:41:18] comments about the podcast or topics or
+[2:41:20] guests that you'd like me to feature on
+[2:41:21] the hubman Lab podcast please put those
+[2:41:23] in the comment section on YouTube I do
+[2:41:26] read all the comments on many episodes
+[2:41:28] of The hubman Lab podcast we discuss
+[2:41:30] supplements while supplements aren't
+[2:41:31] necessary for everybody many people
+[2:41:33] derive tremendous benefit from them for
+[2:41:35] things like improving sleep for hormone
+[2:41:37] support and for Focus to learn more
+[2:41:39] about the supplements discussed on the
+[2:41:40] hubman loud podcast go to live momentus
+[2:41:42] spelled o us that's Liv mous.com
+[2:41:45] huberman if you're not already following
+[2:41:47] me on social media I'm hubman lab on all
+[2:41:50] social media platforms so that's
+[2:41:52] Instagram X LinkedIn Facebook and
+[2:41:54] threads and on all those platforms I
+[2:41:56] discuss science and science related
+[2:41:58] tools some of which overlaps with the
+[2:42:00] content of the hubman Lab podcast but
+[2:42:02] much of which is distinct from the
+[2:42:03] content covered on the huberman Lab
+[2:42:04] podcast so again it's hubman lab on all
+[2:42:07] social media platforms if you haven't
+[2:42:09] already subscribed to our neural network
+[2:42:10] newsletter our neural network newsletter
+[2:42:13] is a zeroc cost newsletter that provides
+[2:42:15] podcast summaries as well as protocols
+[2:42:17] in the form of brief 1 to three page PD
+[2:42:19] f s that cover everything from
+[2:42:20] neuroplasticity and learning to sleep to
+[2:42:23] deliberate cold exposure and deliberate
+[2:42:24] heat exposure we have a foundational
+[2:42:26] Fitness protocol and much more all of
+[2:42:29] which again is completely zero cost you
+[2:42:31] simply go to huberman lab.com go to the
+[2:42:33] menu tab scroll down to newsletter and
+[2:42:35] by supplying your email you can
+[2:42:36] subscribe I want to point out that we do
+[2:42:38] not share your email with anybody thank
+[2:42:40] you once again for joining me for
+[2:42:42] today's discussion all about sleep with
+[2:42:44] Dr Matthew Walker and last but certainly
+[2:42:46] not least thank you for your interest in
+[2:42:48] sign that's
+[2:42:52] [Music]

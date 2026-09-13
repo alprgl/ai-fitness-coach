@@ -1,0 +1,3421 @@
+# Developing a Rational Approach to Supplementation for Health & Performance | Huberman Lab Podcast
+# id=tLS6t3FVOTI published=2023-01-09 lang=en generated=True
+
+[0:00:00] welcome to the huberman Lab podcast
+[0:00:01] where we discuss science and
+[0:00:03] science-based tools for everyday life
+[0:00:09] I'm Andrew huberman and I'm a professor
+[0:00:11] of neurobiology and Ophthalmology at
+[0:00:13] Stanford school of medicine today we are
+[0:00:15] discussing supplements or more
+[0:00:17] specifically a rational guide to
+[0:00:19] supplementation now to be forthright I
+[0:00:22] want to tell you that I am not a fan of
+[0:00:24] the word supplements because it stems
+[0:00:25] from this idea that all supplements are
+[0:00:27] somehow food supplements or designed to
+[0:00:30] compensate for what one could otherwise
+[0:00:32] get from food and that's simply not the
+[0:00:35] case many supplements are compounds that
+[0:00:38] are extremely efficacious for instance
+[0:00:40] for enhancing sleep or for enhancing
+[0:00:42] hormone function or for enhancing focus
+[0:00:45] and many of those compounds are simply
+[0:00:47] not found in food or are not found in
+[0:00:50] enough abundance in food to have the
+[0:00:52] desired effect
+[0:00:53] now that raises the issue as to whether
+[0:00:55] or not these compounds are good to take
+[0:00:57] safe to take and whether or not they are
+[0:00:59] actually beneficial for us and the short
+[0:01:01] answer is that like everything else
+[0:01:03] supplements can either be good for us or
+[0:01:05] dangerous for us depending on dosage
+[0:01:07] sourcing Etc but more importantly we
+[0:01:10] need to think about supplements and a
+[0:01:11] rational guide to supplementation as
+[0:01:13] taking into account a number of
+[0:01:15] different factors and we need to set
+[0:01:17] aside the idea that all non-prescription
+[0:01:19] compounds that fall under this umbrella
+[0:01:21] term supplements are simply things that
+[0:01:23] could be extracted from food but most
+[0:01:26] people don't either ingest enough of
+[0:01:29] those Foods or pay enough attention to
+[0:01:31] their diet in order to obtain them in
+[0:01:33] fact during today's episode I'm going to
+[0:01:35] give you a number of different very
+[0:01:36] specific questions that you can answer
+[0:01:38] in order to decide whether or not you
+[0:01:40] should be taking any so-called
+[0:01:42] supplements or not and whether or not
+[0:01:44] you should be taking one type of
+[0:01:45] supplement or another type of supplement
+[0:01:47] more or less than the other I'm also
+[0:01:49] going to discuss safety of course and I
+[0:01:51] will discuss cost because obviously
+[0:01:54] monetary cost is a serious consideration
+[0:01:56] for most if not everybody considering
+[0:01:58] the use of supplements during today's
+[0:02:00] episode I will also discuss which
+[0:02:02] specific supplements are optimal for
+[0:02:04] achieving specific endpoints such as
+[0:02:06] improved sleep such as improved focus
+[0:02:08] and such as improved hormone function
+[0:02:10] among other things I plan to cover the
+[0:02:13] full range of what I referred to as
+[0:02:14] supplements including so-called
+[0:02:16] foundational supplements that are
+[0:02:18] designed to act as a sort of insurance
+[0:02:20] policy against any deficiencies that
+[0:02:22] might exist within your diet all the way
+[0:02:24] up to very targeted outcome supplements
+[0:02:27] and compounds that is compounds that are
+[0:02:30] non-prescription that are designed to
+[0:02:31] achieve very specific endpoints such as
+[0:02:34] enhanced Focus over the next four to six
+[0:02:36] hours of physical work or mental work so
+[0:02:38] on and so forth
+[0:02:39] plan to cover everything in between that
+[0:02:41] as well and I promise to cover how
+[0:02:44] supplements interact with other things
+[0:02:45] such as behavioral tools prescription
+[0:02:47] drugs when supplements might be a good
+[0:02:50] alternative to prescription drugs when
+[0:02:51] they might not be a good alternative to
+[0:02:53] prescription drugs when supplements can
+[0:02:55] serve as an augment to already excellent
+[0:02:58] nutrition and prescription protocols and
+[0:03:02] every feature of supplements as it
+[0:03:04] relates to mental health physical health
+[0:03:05] and performance by the end of today's
+[0:03:07] episode you should be armed with a
+[0:03:09] number of different questions as I
+[0:03:10] mentioned before that will allow you to
+[0:03:12] develop the most biologically effective
+[0:03:14] and cost-effective supplement regimen
+[0:03:17] for you and of course I want to
+[0:03:19] acknowledge that for some people the
+[0:03:21] total amount or dosages of a given
+[0:03:23] supplement were supplements that you
+[0:03:25] might need to take could be zero there
+[0:03:27] are such individuals but that many
+[0:03:29] people can in fact arrive tremendous
+[0:03:31] benefit from supplements in a way that
+[0:03:32] can be more cost effective than trying
+[0:03:34] to obtain the same non-prescription
+[0:03:36] nutrients from food as we head into
+[0:03:38] today's conversation I want to emphasize
+[0:03:40] something very important not just as it
+[0:03:43] relates to supplements but as it relates
+[0:03:44] to all aspects of mental health physical
+[0:03:46] health and performance and that is I
+[0:03:49] take the stance that behavioral tools
+[0:03:51] that is specific actions that we take
+[0:03:53] and specific actions that we avoid form
+[0:03:56] the foundation of mental health physical
+[0:03:58] health and performance so things like
+[0:04:00] viewing morning sunlight and exercise
+[0:04:02] are behavioral tools they don't require
+[0:04:04] the ingestion of anything within the
+[0:04:07] realm of Behavioral tools there are also
+[0:04:08] some don'ts or do not that can greatly
+[0:04:11] enhance our mental health physical
+[0:04:12] health and performance such as avoiding
+[0:04:15] bright light exposure to your eyes
+[0:04:16] between the hours of 10 pm and 4 AM or
+[0:04:19] avoiding caffeine too late in the
+[0:04:21] afternoon because even if you can fall
+[0:04:23] asleep after ingesting caffeine in the
+[0:04:25] late afternoon we know it disrupts the
+[0:04:27] architecture of your sleep in ways that
+[0:04:28] greatly diminish your mental health
+[0:04:30] physical health and performance the
+[0:04:31] following day for instance so behavioral
+[0:04:34] tools form the foundational layer of all
+[0:04:37] tools for mental health physical health
+[0:04:39] and performance second to that I would
+[0:04:41] say the next layer is in fact nutrition
+[0:04:44] no amount of supplementation or
+[0:04:46] non-prescription compounds or
+[0:04:47] prescription compounds for that matter
+[0:04:49] can never compensate for poor nutrition
+[0:04:51] at least not for very long okay so this
+[0:04:54] is a key Point even though many
+[0:04:56] supplements are not simply food
+[0:04:58] supplements because they are not
+[0:05:00] designed to compensate for anything that
+[0:05:02] you could otherwise get from food that
+[0:05:04] is not to say that you can live on
+[0:05:06] supplements you know I suppose you could
+[0:05:07] live on whey protein and fish oil
+[0:05:09] capsules and vitamin capsules or tablets
+[0:05:13] for a short while but before long you'd
+[0:05:15] either suffer from boredom to the extent
+[0:05:18] that you'd want to go back to food or
+[0:05:20] some other deficiency would show up I
+[0:05:21] think it's the rare individual that
+[0:05:23] tries to survive entirely on food
+[0:05:26] supplements and things of that sort most
+[0:05:28] everybody and I would hope everybody is
+[0:05:30] paying attention to their nutrition so I
+[0:05:32] would Place behavioral tools do's and do
+[0:05:34] Nots as layer one the deepest layer the
+[0:05:37] Bedrock of all mental health physical
+[0:05:39] health and performance
+[0:05:40] on top of that I would Place nutrition
+[0:05:42] and of course that's going to mean
+[0:05:44] different things to different people
+[0:05:45] with the understanding that there's a
+[0:05:46] huge array of different food choices and
+[0:05:50] nutritional programs
+[0:05:52] nutrition is fundamentally important for
+[0:05:54] macronutrients for storage of energy in
+[0:05:57] the form of glycogen fats and
+[0:05:59] phosphocratine stores and so forth but
+[0:06:01] also for obtaining basic nutrients
+[0:06:03] vitamins minerals and micronutrients
+[0:06:05] Okay so we've got behavioral tools
+[0:06:07] nutritional tools then on top of that I
+[0:06:09] would place what is typically called
+[0:06:11] supplementation although today I'm
+[0:06:13] trying to expand that word to include
+[0:06:15] not just things that compensate for food
+[0:06:17] deficiencies or that are layered on top
+[0:06:19] of food as a way to enhance the amount
+[0:06:22] of nutrients that you could get from
+[0:06:23] food but as I mentioned before
+[0:06:25] compounds that are non-prescription that
+[0:06:28] can be for a variety of different
+[0:06:30] purposes and many of which are not
+[0:06:32] available in food so I would place
+[0:06:34] supplementation right on top of
+[0:06:35] nutrition then past that I would say
+[0:06:38] prescription drugs obviously prescribed
+[0:06:40] from a board-certified MD can serve a
+[0:06:44] very vital purpose in the treatment or
+[0:06:46] augmentation of mental health physical
+[0:06:48] health and performance goals so some
+[0:06:49] people do in fact need prescription
+[0:06:51] antidepressants other people do not some
+[0:06:53] people do in fact need prescription
+[0:06:55] drugs for attention deficit
+[0:06:57] hyperactivity disorder or sleep Related
+[0:06:59] Disorders so on and so forth
+[0:07:01] the whole issue of whether or not there
+[0:07:03] is an over prescription epidemic or not
+[0:07:07] um is a separate conversation for a
+[0:07:09] separate podcast I would argue that many
+[0:07:11] prescription drugs do in fact save lives
+[0:07:13] this includes the category of
+[0:07:15] prescription drugs related to statins
+[0:07:17] and cardiovascular health related to any
+[0:07:21] number of different things even sleep
+[0:07:22] disorders and insomnia narcolepsy and so
+[0:07:24] forth
+[0:07:25] that said there are many instances in
+[0:07:28] which people can either reduce their
+[0:07:30] dosages of prescription compounds or can
+[0:07:34] replace those prescription compounds
+[0:07:36] with quality behavioral tools nutrition
+[0:07:40] and supplementation but there are many
+[0:07:43] instances in which prescription drugs
+[0:07:45] are the only route by which people can
+[0:07:47] achieve the mental health physical
+[0:07:48] health and performance goals that they
+[0:07:50] wish to achieve so I would place that as
+[0:07:52] the fourth layer in this stack of layers
+[0:07:54] directed towards mental health physical
+[0:07:56] health and performance so just to list
+[0:07:58] off again I fundamentally believe that
+[0:08:00] behaviors do's and do Nots form the
+[0:08:03] foundation of mental health physical
+[0:08:04] health performance and next in line
+[0:08:06] would be nutrition
+[0:08:07] that is the specific Foods we eat the
+[0:08:11] amount that we eat the combinations of
+[0:08:13] foods that we eat in a given sitting and
+[0:08:15] the timing in which we eat our food then
+[0:08:17] on top of that I would Place
+[0:08:18] supplementation the topic of today's
+[0:08:20] episode and finally prescription drugs
+[0:08:23] and of course all of these things
+[0:08:24] interact in important and interesting
+[0:08:27] ways many of which interactions we will
+[0:08:29] discuss during today's podcast as we
+[0:08:31] drill into the topic of supplementation
+[0:08:33] developing a rational supplementation
+[0:08:35] protocol and one that is most
+[0:08:37] biologically and cost effective before
+[0:08:39] moving further into today's episode I
+[0:08:41] want to emphasize a very important point
+[0:08:43] which is that I am not a physician that
+[0:08:46] is I'm not a clinician so I do not
+[0:08:48] prescribe anything nor am I going to do
+[0:08:50] that today I'm a professor I review the
+[0:08:53] research literature I describe tools
+[0:08:55] gleaned from the research literature and
+[0:08:57] developed from the research literature
+[0:08:59] so I profess many things but I do not
+[0:09:01] prescribe anything and I think it's
+[0:09:03] vitally important that anytime you are
+[0:09:05] thinking of adding or subtracting any
+[0:09:08] behavioral protocols nutritional
+[0:09:10] protocols supplementation based
+[0:09:12] protocols and certainly prescription
+[0:09:13] drug based protocols
+[0:09:16] for whatever purpose that you consult a
+[0:09:18] trusted board-certified physician that's
+[0:09:21] absolutely essential I don't say that
+[0:09:23] merely to protect me I mainly say that
+[0:09:26] to protect you the most important aspect
+[0:09:28] of today's episode is not going to be
+[0:09:30] that you discover one particular
+[0:09:32] supplement or category of supplements or
+[0:09:34] blend of supplements that is going to
+[0:09:36] transform your mental health physical
+[0:09:37] health and performance
+[0:09:39] no the purpose of today's episode is for
+[0:09:42] you to understand where you have needs
+[0:09:45] that can be met by supplementation
+[0:09:46] better than any other approach and most
+[0:09:49] importantly how to think about
+[0:09:50] supplementation that is how to think
+[0:09:52] about the different categories of
+[0:09:54] supplements that are out there and how
+[0:09:56] those interact with your nutrition and
+[0:09:58] your behaviors so that you can maximize
+[0:10:01] your immediate and long-term health
+[0:10:04] what I mean by this is that we have this
+[0:10:07] word supplements or supplementation but
+[0:10:09] that means many many different things it
+[0:10:11] means vitamins it means minerals it
+[0:10:12] means adaptogens most people probably
+[0:10:14] don't even know what an adaptogen really
+[0:10:16] is and in fact many people talking about
+[0:10:19] adaptogens never actually Define what an
+[0:10:21] adaptogen is or designed for or the fact
+[0:10:24] that many adaptogens are also used for
+[0:10:26] other purposes so today's discussion is
+[0:10:29] really about you learning how to think
+[0:10:31] about supplementation the same way you
+[0:10:33] would learn to think about nutrition or
+[0:10:36] exercise or anything related to brain
+[0:10:38] and body health for that matter in a way
+[0:10:40] that lets you navigate this vast space
+[0:10:42] that we call supplementation and develop
+[0:10:45] protocols that are optimal for you and
+[0:10:47] indeed it may be the case that the ideal
+[0:10:50] dosage of a given supplement for you is
+[0:10:53] zero milligrams for instance if I ask
+[0:10:56] you are you sleeping deeply and enough
+[0:10:59] each night do you feel rested throughout
+[0:11:00] the day maybe you need a short nap and
+[0:11:02] that's it or maybe you don't and you say
+[0:11:04] yes I feel great I sleep great I wake up
+[0:11:06] feeling great I only need a short nap or
+[0:11:08] no nap during the day to feel rested
+[0:11:10] throughout the day well then there's
+[0:11:11] really no discussion about sleep
+[0:11:13] supplementation to be had between you
+[0:11:14] and me however
+[0:11:16] if you are not sleeping well then a big
+[0:11:19] discussion opens up as to what the
+[0:11:20] reasons are as it relate to nutrition or
+[0:11:22] when you're exercising or ingesting
+[0:11:24] caffeine in other words no discussion
+[0:11:26] about supplementation can be had in a
+[0:11:27] vacuum
+[0:11:28] rather discussions about supplementation
+[0:11:31] need to be considered in a larger
+[0:11:32] context so today you're going to learn
+[0:11:34] how to place the discussion and thinking
+[0:11:35] about supplementation in a larger
+[0:11:37] context and think about how specific
+[0:11:39] supplements that is specific ingredients
+[0:11:41] and combinations of ingredients can
+[0:11:44] indeed be used to buffer and support
+[0:11:47] your overall health and lead you to
+[0:11:49] specific health and performance outcomes
+[0:11:52] before we begin I'd like to emphasize
+[0:11:54] that this podcast is separate from my
+[0:11:55] teaching and research roles at Stanford
+[0:11:57] it is however part of my desire and
+[0:11:59] effort to bring zero cost to Consumer
+[0:12:01] information about science and science
+[0:12:03] related tools to the general public in
+[0:12:05] keeping with that theme I'd like to
+[0:12:07] thank the sponsors of today's podcast
+[0:12:08] our first sponsor is momentous momentous
+[0:12:11] makes supplements of the absolute
+[0:12:13] highest quality the huberman Lab podcast
+[0:12:15] has decided to partner with momentous
+[0:12:17] because of the extremely high quality of
+[0:12:19] momentous supplements and because they
+[0:12:21] have single ingredient formulations as
+[0:12:23] we'll discuss more on today's episode
+[0:12:25] single ingredient formulations are
+[0:12:27] essential for most all aspects effects
+[0:12:29] of developing a rational highly
+[0:12:31] efficacious supplement regimen and
+[0:12:33] that's because the ideal supplement
+[0:12:34] regimen allows you to adjust the dosages
+[0:12:37] of individual ingredients as well as
+[0:12:39] alternate days in which specific
+[0:12:41] ingredients are consumed it also allows
+[0:12:43] you for instance to assess whether or
+[0:12:45] not one given ingredient works for you
+[0:12:47] and another ingredient does not and it
+[0:12:49] also allows you to assess whether or not
+[0:12:50] any side effects originate from a
+[0:12:52] specific component of your supplement
+[0:12:55] protocol another advantage of momentous
+[0:12:57] supplements is that they ship anywhere
+[0:12:58] in the world because we realize that
+[0:13:00] many of you reside outside of the United
+[0:13:01] States if you'd like to try any of the
+[0:13:03] supplements mentioned in today's or
+[0:13:05] other episodes of The huberman Lab
+[0:13:06] podcast so for instance things related
+[0:13:08] to sleep augmentation hormone
+[0:13:09] augmentation enhancing Focus metabolic
+[0:13:12] health or otherwise you can go to live
+[0:13:14] momentous spelled ous so
+[0:13:15] livemomentis.com huberman and you'll get
+[0:13:18] 20 off any of their products today's
+[0:13:21] episode is also brought To Us by element
+[0:13:22] element is an electrolyte drink that has
+[0:13:25] everything you need and nothing you
+[0:13:26] don't that means plenty of sodium
+[0:13:28] magnesium and potassium the so-called
+[0:13:30] electrolytes and no sugar getting
+[0:13:33] sufficient hydration and electrolytes is
+[0:13:35] key to brain health and body health and
+[0:13:38] that's because every cell in your brain
+[0:13:39] and body relies on having enough
+[0:13:41] electrolytes available in order to
+[0:13:43] function this is especially true of the
+[0:13:44] so-called neurons or nerve cells in your
+[0:13:46] brain they actually require sufficient
+[0:13:48] amounts of sodium and potassium and
+[0:13:51] magnesium but especially sodium and
+[0:13:52] potassium available to them in order to
+[0:13:54] fire what are called Action potentials
+[0:13:56] or electrical signals that's what allows
+[0:13:58] you to think to feel to move what gives
+[0:14:00] you energy so on and so forth so when
+[0:14:02] you are dehydrated oftentimes you will
+[0:14:04] need to get electrolytes and that's true
+[0:14:06] if you're exercising a lot or if you
+[0:14:08] sweat a lot but for many people it's
+[0:14:09] just true because they're not consuming
+[0:14:11] enough water and electrolytes in the
+[0:14:12] form of liquids and Foods throughout the
+[0:14:14] day element contains a science back
+[0:14:16] electrolyte ratio of 1 000 milligrams of
+[0:14:18] sodium 200 milligrams of potassium and
+[0:14:20] 60 milligrams of magnesium if you'd like
+[0:14:23] to try element you can go to drink
+[0:14:24] element that's lmnt.com huberman to
+[0:14:27] claim a free element and sample pack
+[0:14:29] with your purchase again that's drink
+[0:14:31] element lmnt.com huberman to get a free
+[0:14:34] sample pack today's episode is brought
+[0:14:36] To Us by Helix sleep Helix sleep makes
+[0:14:38] mattresses and pillows that are
+[0:14:40] absolutely phenomenal I've been sleeping
+[0:14:42] on a helix mattress for close to two
+[0:14:43] years now and it's the best sleep that
+[0:14:45] I've ever had one of the reasons is the
+[0:14:48] mattress is customized to you so you
+[0:14:51] simply go to the Helix site you take a
+[0:14:52] brief two minute quiz it asks you
+[0:14:54] questions like you tend to sleep on your
+[0:14:55] back your side of your stomach or maybe
+[0:14:57] all of those across the night or maybe
+[0:14:59] you don't know you tend to run hot
+[0:15:01] during the night or cold during the
+[0:15:02] night or maybe you don't know and they
+[0:15:03] match you to the ideal mattress for you
+[0:15:06] for me it was the dusk dusk mattress
+[0:15:08] that allowed me to achieve the best
+[0:15:10] sleep of my life if you're interested in
+[0:15:12] upgrading your mattress you can go to
+[0:15:14] helixsleep.com huberman take their brief
+[0:15:16] two minute sleep quiz and they'll match
+[0:15:18] you to a customized mattress for your
+[0:15:19] sleep needs and you'll get up to 200 off
+[0:15:22] all mattress orders and two free pillows
+[0:15:24] they have a 10 year warranty on their
+[0:15:26] mattresses and you get to try it out for
+[0:15:27] 100 nights risk free three they'll even
+[0:15:29] pick it up for you if you don't love the
+[0:15:31] mattress although I think you absolutely
+[0:15:32] will again if you're interested you can
+[0:15:34] go to Helix sleep.com huberman to get up
+[0:15:37] to 200 off and two free pillows let's
+[0:15:39] talk about supplements and
+[0:15:40] supplementation and how to develop a
+[0:15:42] rational supplementation regimen one of
+[0:15:45] the things that's really emerged over
+[0:15:46] the last 20 years is that supplements
+[0:15:49] and there I'm referring to
+[0:15:50] non-prescription compounds designed to
+[0:15:52] augment nutrition prescription drugs and
+[0:15:55] behavioral protocols
+[0:15:58] have emerged as a Mainstay within the
+[0:16:02] health and wellness but also the medical
+[0:16:04] communities that are focused on
+[0:16:06] developing mental health physical health
+[0:16:07] and performance for their patients and
+[0:16:09] their athletes and for the everyday
+[0:16:11] person essentially what I'm saying is
+[0:16:13] that 20 years ago a discussion about
+[0:16:16] supplements would mainly take place
+[0:16:17] within the niche communities of health
+[0:16:19] food stores or particular athletes but
+[0:16:22] nowadays I think almost everyone is
+[0:16:24] familiar with the fact that yes indeed
+[0:16:26] there are standard vitamin supplements
+[0:16:28] but that there are also supplements such
+[0:16:30] as Vitamin D3 which are designed to make
+[0:16:33] sure that people have certain amounts of
+[0:16:35] hormones in their bloodstream because
+[0:16:37] they might not be getting enough
+[0:16:38] Sunshine although I'll be very clear
+[0:16:40] over and over throughout this episode
+[0:16:41] that there is no pill replacement for
+[0:16:44] Sunshine nor is there a pill replacement
+[0:16:46] or food replacement for that matter for
+[0:16:48] exercise or for social connection or for
+[0:16:51] sleep or for simply getting smarter
+[0:16:53] again there is no pill that's going to
+[0:16:55] replace excellent behavioral protocols
+[0:16:57] in fact a physician friend of mine has a
+[0:16:59] great saying that I think everybody
+[0:17:01] should keep in mind
+[0:17:02] as we wade into this conversation which
+[0:17:05] is that Better Living Through Chemistry
+[0:17:07] still requires Better Living
+[0:17:09] I think that's a very important phrase
+[0:17:11] to keep in mind when thinking about the
+[0:17:13] optimal supplementation or prescription
+[0:17:15] drug protocol for you so what is an
+[0:17:18] ideal supplementation protocol well I
+[0:17:20] think what we need to do is to take a
+[0:17:22] step back and ask what are different
+[0:17:24] supplements designed to do for instance
+[0:17:27] there are foundational supplements these
+[0:17:30] are supplements that are designed to
+[0:17:31] establish a foundation or provide
+[0:17:33] Insurance along with your nutritional
+[0:17:36] intake to ensure that you're getting all
+[0:17:38] the things that you need in order to
+[0:17:41] have a basic level of mental health
+[0:17:43] physical health and opportunity for
+[0:17:45] Optimal Performance now this is the one
+[0:17:48] category of supplements for which I
+[0:17:50] think it's appropriate and in fact
+[0:17:53] advantageous to have multiple
+[0:17:56] ingredients in a given supplement
+[0:17:57] throughout the rest of today's
+[0:17:59] discussion I'm going to talk about the
+[0:18:01] advantage of mainly focusing on taking
+[0:18:03] single ingredient formulations for a
+[0:18:06] variety of reasons but when it comes to
+[0:18:08] foundational supplements
+[0:18:09] what we're mainly talking about are
+[0:18:11] supplements that contain vitamins and
+[0:18:14] minerals that are designed to compensate
+[0:18:16] for any deficiencies you might have from
+[0:18:18] diet or from lack of adequate diet how
+[0:18:22] would such a lack of vitamin and mineral
+[0:18:24] intake arise well for instance if you're
+[0:18:27] somebody that practices intermittent
+[0:18:28] fasting or other components of fasting
+[0:18:30] or if you're somebody who does not get
+[0:18:33] enough vitamins and minerals from
+[0:18:36] vegetables and fruits and Grains and
+[0:18:40] meats well then taking a supplement that
+[0:18:43] can
+[0:18:44] act as a insurance policy against any
+[0:18:47] vitamin mineral deficiencies in many
+[0:18:49] ways can be advantageous although I will
+[0:18:51] talk about some of the safety concerns
+[0:18:53] in just a few minutes now I want to
+[0:18:55] acknowledge that as soon as we talk
+[0:18:56] about vitamin mineral supplements the
+[0:18:59] Skeptics immediately raise their hands
+[0:19:00] and say well all that vitamin and
+[0:19:02] mineral supplements do is give you very
+[0:19:04] expensive urine and there the Skeptics
+[0:19:06] are referring to the fact the reality
+[0:19:08] that when you ingest high levels of
+[0:19:11] water-soluble vitamins so think vitamin
+[0:19:13] C and some of the other vitamins that
+[0:19:15] indeed you will excrete them in your
+[0:19:17] urine
+[0:19:18] however
+[0:19:20] it's also the case that many people are
+[0:19:22] not getting enough of the water-soluble
+[0:19:24] vitamins from their foods and it's also
+[0:19:26] the case that many people are and it's
+[0:19:28] also the case that ingesting higher than
+[0:19:31] needed amounts of most water-soluble
+[0:19:33] vitamins provided those levels aren't
+[0:19:35] exceedingly High
+[0:19:37] is or at least we should say can be safe
+[0:19:40] and again this is provided that the
+[0:19:43] levels that they're ingesting are not
+[0:19:45] exceedingly high so the typical vitamin
+[0:19:47] mineral supplement is indeed going to
+[0:19:48] cover any gaps or deficiencies that
+[0:19:50] might arise in the water-soluble
+[0:19:52] vitamins from your food intake but the
+[0:19:54] reality is that most people are getting
+[0:19:56] enough of the water-soluble vitamins
+[0:19:58] from their food if they are paying
+[0:20:00] attention to a couple of things
+[0:20:02] and those things are very simple to lay
+[0:20:04] out regardless of whether or not you're
+[0:20:06] a vegan a vegetarian a more traditional
+[0:20:09] omnivore eating from both animal-based
+[0:20:12] and plant-based sources grains Etc or
+[0:20:14] even if you're in the pure carnivore or
+[0:20:17] strict I guess it's called The Lion diet
+[0:20:19] where it's just meat and salt regardless
+[0:20:22] of what type of nutrition you follow you
+[0:20:24] will get vitamins and minerals but
+[0:20:26] you'll get more or fewer of them
+[0:20:28] depending on the nutritional program you
+[0:20:30] follow and of course depending on how
+[0:20:32] often and how much you eat that's just
+[0:20:34] sort of obvious
+[0:20:36] most people who take a vitamin mineral
+[0:20:38] supplement
+[0:20:39] will indeed excrete a lot of the
+[0:20:41] water-soluble vitamins they will retain
+[0:20:44] the fat soluble vitamins and there again
+[0:20:47] the Skeptics will raise their hands and
+[0:20:48] say you do not want to take high levels
+[0:20:51] of fat soluble vitamins because they
+[0:20:52] will be stored in your system
+[0:20:53] potentially to levels that are dangerous
+[0:20:55] again provided that vitamin mineral
+[0:20:58] supplements are not taken in excess it's
+[0:21:00] unlikely that you're going to have such
+[0:21:02] a buildup of the fat soluble vitamins in
+[0:21:05] your system that they're going to be a
+[0:21:06] problem so that raises a very specific
+[0:21:08] question that you need to ask do you
+[0:21:10] want to take a vitamin mineral
+[0:21:11] supplement well the answer to that will
+[0:21:13] be highly individual but you really just
+[0:21:14] need to address two things first of all
+[0:21:17] is the cost within the range that you
+[0:21:19] can afford and want to pay right
+[0:21:22] oftentimes these vitamin mineral
+[0:21:23] supplements can be quite inexpensive but
+[0:21:26] some of them can be quite expensive and
+[0:21:28] you can see the full range of ones that
+[0:21:30] are pennies per day all the way up to
+[0:21:33] many dollars or tens of dollars per day
+[0:21:35] because of what are reported to be
+[0:21:37] variations in quality and sourcing and
+[0:21:40] so forth I'm not aware of any real
+[0:21:42] differences between the quality of the
+[0:21:44] water soluble and fat soluble vitamins
+[0:21:46] found in the less expensive versus the
+[0:21:48] more expensive vitamin mineral
+[0:21:50] supplements more typically the cost
+[0:21:52] scales with the dosages of these
+[0:21:55] different vitamins and minerals and as
+[0:21:58] could probably be expected the more
+[0:22:00] expensive to obtain and source
+[0:22:04] vitamins and minerals tend to be in
+[0:22:07] lower quantities in the less expensive
+[0:22:09] versions of vitamin mineral supplements
+[0:22:11] that's just kind of obvious so you need
+[0:22:12] to ask yourself can you afford it
+[0:22:13] financially and then you need to ask
+[0:22:15] yourself are you able to regularly
+[0:22:18] ingest enough foods with enough variety
+[0:22:20] to cover your vitamin mineral
+[0:22:23] needs just from food and for some people
+[0:22:26] the answer is going to be an immediate
+[0:22:28] yes they are careful to get enough of
+[0:22:30] the foods that allow them to obtain
+[0:22:32] their vitamin and mineral quota and for
+[0:22:35] other individuals the answer will be no
+[0:22:36] I would say for people that are
+[0:22:38] extremely physically and or mentally
+[0:22:40] active and for people that perhaps are
+[0:22:43] following a intermittent fasting
+[0:22:45] schedule so they are not ingesting a lot
+[0:22:47] of food in general or restricting their
+[0:22:49] food intake to specific times of day
+[0:22:51] well then a vitamin mineral supplement
+[0:22:53] likely makes sense for them however it's
+[0:22:55] going to be very important to ingest
+[0:22:57] that vitamin mineral supplement with
+[0:22:58] food and ideally early in the day so
+[0:23:01] that can set up a little bit of a
+[0:23:02] challenge for the intermittent fasters
+[0:23:04] who are restricting their feeding window
+[0:23:05] to late in the day why do I say this
+[0:23:07] well many of the water-soluble vitamins
+[0:23:09] in particular the B vitamins need to be
+[0:23:11] ingested with food because otherwise
+[0:23:13] they can cause some stomach upset and
+[0:23:15] again there's a range there some people
+[0:23:16] like myself can take B vitamins on an
+[0:23:18] empty stomach and feel fine other people
+[0:23:20] feel really lousy when they take B
+[0:23:21] vitamins there are a few other things
+[0:23:23] that we'll talk about later namely zinc
+[0:23:26] and coenzyme Q10 that really should also
+[0:23:28] be taken with food but the best time to
+[0:23:31] take a vitamin mineral supplement is
+[0:23:32] with food and I believe that if you're
+[0:23:35] going to take a vitamin mineral
+[0:23:36] supplement
+[0:23:38] that you want to take it with food and
+[0:23:40] you don't want to take dosages of
+[0:23:41] vitamins and minerals from supplements
+[0:23:43] that are exceedingly high for a couple
+[0:23:46] of reasons one is the buildup of fat
+[0:23:48] soluble vitamins that we talked about
+[0:23:49] before the other reason is that when
+[0:23:51] people tend to take very high levels of
+[0:23:53] vitamins and minerals from supplements
+[0:23:56] they tend to spend less time and focus
+[0:23:58] on making sure that they're optimizing
+[0:24:00] their nutrition or at least trying to
+[0:24:02] get their nutrition right what do I mean
+[0:24:03] by getting their nutrition right well I
+[0:24:06] think regardless of whether or not your
+[0:24:08] keto omnivore carnivore
+[0:24:11] vegan or any other nutritional plan
+[0:24:15] the key thing is to get most that is
+[0:24:19] about 75 to 80 of your Foods or more
+[0:24:21] from non-processed or minimally
+[0:24:24] processed sources I think there is
+[0:24:26] agreement across the board that most
+[0:24:28] people should avoid highly processed
+[0:24:30] foods highly processed foods are going
+[0:24:32] to be foods with very long ingredient
+[0:24:34] lists that have very long shelf lives so
+[0:24:37] this often includes snack foods it does
+[0:24:39] include snack foods like chips Etc
+[0:24:42] pastries that could sit on the Shelf a
+[0:24:44] long time
+[0:24:44] but it also includes things like canned
+[0:24:46] soups and number of different other
+[0:24:48] foods that have many many ingredients
+[0:24:50] preservatives most people would do well
+[0:24:52] to avoid those kinds of foods and focus
+[0:24:53] most of their intake on things that are
+[0:24:56] non-processed so these would be things
+[0:24:58] like fruits and vegetables you'll notice
+[0:24:59] that the non-processed foods will tend
+[0:25:01] to have very short shelf life or require
+[0:25:03] refrigeration in some cases such as meat
+[0:25:05] eggs Etc
+[0:25:07] or minimally processed foods such as you
+[0:25:10] know rice and oatmeals and pastas beans
+[0:25:12] and things of that sort beans oftentimes
+[0:25:14] can be completely unprocessed as well of
+[0:25:16] course these are two general categories
+[0:25:17] unprocessed and minimally process that
+[0:25:19] should make up about 80 or more of your
+[0:25:22] food intake if your goal is health and
+[0:25:23] obtaining adequate amounts of vitamins
+[0:25:25] and minerals the so-called foundational
+[0:25:27] supplements include of course vitamin
+[0:25:29] and mineral supplements
+[0:25:30] but has expanded over the last decade or
+[0:25:33] more to also include supplements that
+[0:25:36] have vitamins and minerals but also
+[0:25:38] things like digestive enzymes and again
+[0:25:41] here we have an example where indeed you
+[0:25:43] can get digestive enzymes from foods for
+[0:25:46] instance eating a bit of papaya or even
+[0:25:48] a little bit of Pineapple can
+[0:25:51] assist in the digestion of certain
+[0:25:53] aspects of macronutrients because these
+[0:25:55] are naturally occurring enzymes that
+[0:25:57] help digest things like carbohydrates
+[0:25:59] fats and proteins
+[0:26:01] and there are other food-based sources
+[0:26:03] of enzymes you're welcome to look those
+[0:26:04] up online if you just put food based
+[0:26:06] sources of enzymes and you'll find those
+[0:26:08] but nowadays A lot of the foundational
+[0:26:10] supplements will include
+[0:26:13] papain or they will include different
+[0:26:15] lipases or anytime you hear the word Ace
+[0:26:18] by the way it means an enzyme an enzyme
+[0:26:22] is designed to break down or to catalyze
+[0:26:24] some sort of reaction in biology and
+[0:26:26] nutrition in particular so you can find
+[0:26:29] foundational supplements that include
+[0:26:30] vitamins and minerals and digestive
+[0:26:32] enzymes and nowadays more and more the
+[0:26:35] quality foundational supplements are
+[0:26:36] also including things like adaptogens
+[0:26:38] and here the name adaptogens is sort of
+[0:26:42] vague and it indeed has no specific
+[0:26:45] operational definition this is something
+[0:26:47] really important to understand about
+[0:26:48] supplementation is that companies and
+[0:26:51] indeed podcasts can talk about
+[0:26:53] adaptogens without actually defining
+[0:26:54] what an adaptogen is
+[0:26:56] in an operational way when we say
+[0:26:58] operational what we mean is a definition
+[0:27:00] that everyone in a given Arena or space
+[0:27:03] research for instance can agree on so
+[0:27:06] that when we talk about the adaptogenic
+[0:27:08] effects of a given compound we're all
+[0:27:10] talking about the same things well
+[0:27:11] foundational supplements nowadays
+[0:27:13] include vitamins minerals digestive
+[0:27:15] enzymes and the so-called adaptogens and
+[0:27:17] the adaptogens broadly speaking are
+[0:27:20] thought to improve the body and brain's
+[0:27:22] ability ability to buffer against
+[0:27:24] various stressors so these could be
+[0:27:26] things like herbs like ashwagandha that
+[0:27:28] are designed to reduce cortisol levels
+[0:27:30] in that sense ashwagandha is an
+[0:27:32] adaptogen but ashwagandha has other
+[0:27:34] effects related to hormone augmentation
+[0:27:36] in both the testosterone and estrogen
+[0:27:38] and maybe even the thyroid Pathways
+[0:27:40] we'll talk about this a little bit later
+[0:27:41] when we talk about supplements for
+[0:27:42] hormone augmentation so foundational
+[0:27:44] supplements has really expanded to
+[0:27:46] include a lot of different categories of
+[0:27:48] nutrients and micronutrients vitamins
+[0:27:50] and minerals digestive enzymes designed
+[0:27:53] to achieve a broad spectrum of effects
+[0:27:56] again this is the one category of
+[0:27:58] supplementation where I think it makes
+[0:27:59] sense to explore
+[0:28:02] multi-ingredient formulations and the
+[0:28:04] other thing that's often included in
+[0:28:05] these so-called foundational supplements
+[0:28:08] are probiotics or prebiotics
+[0:28:12] which are designed to augment and
+[0:28:15] support the so-called gut microbiome the
+[0:28:17] gut microbiome is the collection of
+[0:28:19] trillions of little micro bacteria that
+[0:28:21] exist in all of us they mainly exist in
+[0:28:25] the mucous membrane-lined tissues of the
+[0:28:28] body so that would be your nasal
+[0:28:30] passages your mouth
+[0:28:31] the vagina the urethra and the gut the
+[0:28:35] whole way from your mouth all the way
+[0:28:37] out the other end so not just your
+[0:28:39] stomach trillions of bacteria live there
+[0:28:41] trillions of microbacteria also live on
+[0:28:44] your skin in fact every time you shake
+[0:28:46] someone's hand you're exchanging
+[0:28:47] microbacteria
+[0:28:49] these micro bacteria often are healthy
+[0:28:51] for us good for us they support a huge
+[0:28:54] number of positive biological functions
+[0:28:56] but there are other microbacteria that
+[0:28:59] live in our gut and Elsewhere on those
+[0:29:01] mucous line tissues that can be
+[0:29:02] disadvantageous for us that can harm our
+[0:29:05] health a growing idea these days based
+[0:29:07] on a number of different Laboratories
+[0:29:09] work including the laboratory of my
+[0:29:11] upstairs neighbor at Stanford Dr Justin
+[0:29:14] Sonnenberg who's been a guest on this
+[0:29:15] podcast is that having a great diversity
+[0:29:18] a range of microbiota as they're called
+[0:29:21] microbiome microbiota and these
+[0:29:24] microbacteria are all essentially
+[0:29:26] referring to the same thing the
+[0:29:27] microbiome is the whole collection of
+[0:29:29] these microbacteria but having a lot of
+[0:29:31] different so-called species of these
+[0:29:33] microbacteria is known to be
+[0:29:35] advantageous for immune system function
+[0:29:37] hormone function it supports the
+[0:29:39] so-called gut brain axis that's
+[0:29:41] important for a number of things
+[0:29:43] including mood and motivation actually
+[0:29:45] supports the production of
+[0:29:46] neurotransmitters in the brain and body
+[0:29:48] that can help keep you motivated
+[0:29:49] elevated mood
+[0:29:51] support the general function of neurons
+[0:29:53] well not surprisingly there are ways to
+[0:29:57] support the gut microbiome and there are
+[0:29:59] ways to harm the gut microbiome I'll
+[0:30:00] refer to to the podcast episode we did
+[0:30:03] with Justin Sonnenberg you can find that
+[0:30:05] at hubermanlab.com if you want to learn
+[0:30:07] all the different ways you can support
+[0:30:08] your gut microbiome but for sake of
+[0:30:10] today's discussion I want to emphasize
+[0:30:11] that some of those methods of supporting
+[0:30:14] the gut microbiome are through the
+[0:30:16] direct consumption of particular foods
+[0:30:18] and there are two categories of foods
+[0:30:20] that if you're getting enough of them
+[0:30:22] it's likely that your gut microbiome is
+[0:30:25] diverse and is going to support all
+[0:30:27] those important functions I just listed
+[0:30:29] off and other functions as well the two
+[0:30:32] sources of gut microbiota supporting
+[0:30:34] foods are low sugar fermented foods so
+[0:30:37] these would be things like sauerkraut
+[0:30:39] kimchi
+[0:30:40] Greek yogurt again low sugar Greek
+[0:30:43] yogurt
+[0:30:44] um
+[0:30:46] kombucha in particular as a drink things
+[0:30:49] like kefir there are a bunch of other
+[0:30:51] varieties of fermented foods different
+[0:30:54] cultures have different fermented foods
+[0:30:56] so Japanese natto is um another source
+[0:30:59] of of ferment that is very good for the
+[0:31:01] gut microbiome and work from Justin
+[0:31:04] sonnenberg's lab and close by Labs at
+[0:31:07] Stanford School of Medicine have shown
+[0:31:08] that
+[0:31:09] if people ingest
+[0:31:11] four servings a day of these low sugar
+[0:31:14] fermented foods it greatly improves the
+[0:31:17] function of the gut microbiome and in
+[0:31:18] particular enhances the function of the
+[0:31:21] immune system and it reduces the
+[0:31:23] so-called inflammatorium it reduces
+[0:31:25] inflammation in the brain and body in
+[0:31:26] the ways that are helpful and effective
+[0:31:29] for brain and body that is mental health
+[0:31:31] physical health and performance so there
+[0:31:32] are ways to support your gut microbiome
+[0:31:34] strictly from food but it should come as
+[0:31:37] no surprise that most people are not
+[0:31:39] ingesting four servings a day of
+[0:31:42] fermented foods hopefully they're
+[0:31:44] getting enough fiber
+[0:31:46] especially Prebiotic fiber which is one
+[0:31:49] other way to support the gut microbiome
+[0:31:51] although the studies from Justin
+[0:31:52] sonnenberg's lab point to the fact that
+[0:31:54] fiber intake itself was not directly
+[0:31:57] supportive of the gut microbiome in
+[0:32:00] everybody it was in some individuals but
+[0:32:02] not in others and some had no effect and
+[0:32:04] in other individuals it actually made
+[0:32:06] the
+[0:32:07] category or I should say the array of
+[0:32:10] inflammatory markers worse it actually
+[0:32:12] led to more inflammation so that's not
+[0:32:15] to say that fiber is bad in fact in the
+[0:32:17] episode that we did with Dr Lane Norton
+[0:32:19] he discussed the many benefits of
+[0:32:21] getting enough fiber there are a lot of
+[0:32:22] reasons why people should get enough
+[0:32:24] fiber in their diet but at least for
+[0:32:26] supporting the gut microbiome
+[0:32:29] four servings a day of low sugar
+[0:32:31] fermented foods
+[0:32:32] seems to be the best way to support the
+[0:32:35] gut microbiome through the intake of
+[0:32:37] nutrition again most people are not
+[0:32:39] achieving that and therefore these
+[0:32:40] foundational supplements that can be
+[0:32:43] just vitamin and mineral supplements or
+[0:32:45] it could be vitamin and mineral
+[0:32:46] supplements plus digestive enzymes or
+[0:32:49] both of those things plus adaptogens now
+[0:32:52] also tend to include prebiotics and
+[0:32:55] probiotics that are designed to support
+[0:32:57] the proliferation and maintenance of
+[0:33:00] enough gut microbiota in order to
+[0:33:02] support the gut microbiome and the gut
+[0:33:05] brain axis now because of the importance
+[0:33:07] of the gut microbiome and because most
+[0:33:09] people are not getting enough support
+[0:33:10] for the gut microbiome in the form of
+[0:33:12] low sugar fermented foods and Prebiotic
+[0:33:14] fiber from their diet
+[0:33:16] I think perhaps one of the most
+[0:33:19] essential foundational supplements
+[0:33:23] irrespective of whether or not it
+[0:33:25] includes vitamins and minerals
+[0:33:26] adaptogens and digestive enzymes is some
+[0:33:28] way to support the gut microbiome now
+[0:33:31] this gets into a whole dimension of
+[0:33:34] of categories of Prebiotic and probiotic
+[0:33:36] capsules and one needs to be very
+[0:33:38] careful there I do want to say that most
+[0:33:40] of the Prebiotic and probiotic capsules
+[0:33:43] that you can buy first of all are very
+[0:33:45] expensive the best ones are going to be
+[0:33:47] refrigerated or required Refrigeration
+[0:33:50] just as do any good low sugar fermented
+[0:33:53] foods by the way so for instance pickles
+[0:33:55] are a low sugar fermented food that can
+[0:33:57] support the gut microbiome but if you're
+[0:33:59] buying pickles from the section of the
+[0:34:00] grocery store where they the pickles are
+[0:34:02] not
+[0:34:04] refrigerated well then you're not going
+[0:34:06] to get the gut microbiome supporting
+[0:34:07] effects from those pickles it's so funny
+[0:34:10] we're even having this conversation
+[0:34:11] talking about pickles but the reality is
+[0:34:12] they can greatly enhance the microbiota
+[0:34:15] if you are getting the pickles that are
+[0:34:18] and require refrigeration and include
+[0:34:21] the brine which is the the liquid around
+[0:34:23] them the same is true for sauerkraut
+[0:34:25] non-refrigerated sauerkraut is not going
+[0:34:27] to support your gut microbiome it will
+[0:34:29] supply some other things perhaps but
+[0:34:31] it's not going to support your gut
+[0:34:32] microbiome it has to be the refrigerated
+[0:34:34] versions for the reason that most people
+[0:34:35] are not getting enough food based
+[0:34:37] support for the gut microbiome and
+[0:34:39] because of the importance of the gut
+[0:34:40] microbiome one of the key categories of
+[0:34:42] foundational supplements are supplements
+[0:34:44] that create
+[0:34:45] support for the microbiome through
+[0:34:47] prebiotics or probiotics again they tend
+[0:34:50] to be the refrigerated varieties are the
+[0:34:52] ones that are actually going to work
+[0:34:53] those also tend to be very expensive
+[0:34:56] and there are some evidence that taking
+[0:34:58] excessive amounts of prebiotics and
+[0:35:01] probiotics that is typical of these
+[0:35:03] capsule forms of prebiotics and
+[0:35:05] probiotics if they're taken ongoing not
+[0:35:08] for short periods of time but if they're
+[0:35:09] taken ongoing can lead to some issues
+[0:35:12] like brain fog there's a nice literature
+[0:35:14] on this that and a growing one at that
+[0:35:16] so my suggestion is that if people are
+[0:35:19] going to take supplements to support the
+[0:35:21] microbiome that those supplements
+[0:35:23] include low enough levels that is small
+[0:35:27] enough amounts of prebiotics and
+[0:35:29] probiotics that you don't start to
+[0:35:30] venture into the realm of brain fog and
+[0:35:33] some of the other issues that could be
+[0:35:35] associated with taking too much
+[0:35:37] Prebiotic and probiotic in the form of
+[0:35:39] supplements I'd like to take a brief
+[0:35:41] break and thank our sponsor inside
+[0:35:43] tracker inside tracker is a personalized
+[0:35:46] nutrition platform that analyzes data
+[0:35:48] from your blood and DNA to help you
+[0:35:50] better understand your body and help you
+[0:35:51] reach your health goals I've long been a
+[0:35:53] believer in getting regular blood work
+[0:35:55] done for the simple reason that many of
+[0:35:57] the factors that impact your immediate
+[0:35:59] and long-term Health can only be
+[0:36:01] analyzed from a quality blood test the
+[0:36:03] problem with a lot of blood and DNA
+[0:36:04] tests out there however is that you get
+[0:36:06] data back about metabolic factors lipids
+[0:36:09] and hormones and so forth but you don't
+[0:36:10] know what to do with those data inside
+[0:36:12] tracker solves that problem and makes it
+[0:36:14] very easy for you to understand what
+[0:36:16] sorts of nutritional behavioral maybe
+[0:36:19] even supplementation based interventions
+[0:36:21] you might want to take on in order to
+[0:36:23] adjust the numbers of those metabolic
+[0:36:25] factors hormones lipids and other things
+[0:36:27] that impact your immediate and long-term
+[0:36:28] Health to bring those numbers into the
+[0:36:31] ranges that are appropriate and indeed
+[0:36:32] optimal for you if you'd like to try
+[0:36:34] inside tracker you can visit inside
+[0:36:36] tracker.com huberman and get 20 off any
+[0:36:39] of inside tracker's plans that's inside
+[0:36:41] tracker.com huberman to get 20 off the
+[0:36:44] other category foundational supplements
+[0:36:46] are those adaptogens that we mentioned
+[0:36:48] earlier adaptogens again being a very
+[0:36:50] poorly defined category but these are
+[0:36:53] typically
+[0:36:55] micronutrients herbs sometimes they go
+[0:36:58] into the mushroom category again these
+[0:37:00] are non psychedelic mushrooms that
+[0:37:03] provide either some buffering to the
+[0:37:05] stress system by reducing cortisol
+[0:37:07] typically or that are thought to or
+[0:37:10] known to based on research studies to
+[0:37:12] enhance things like blood flow to the
+[0:37:14] brain or to enhance some aspect of
+[0:37:16] cognitive function by way of enhancing
+[0:37:17] neurotransmitter function
+[0:37:19] this category of so-called adaptogens is
+[0:37:22] an important one we'll get back to this
+[0:37:23] a little bit later the reason I mention
+[0:37:25] it now is that it is indeed hard to get
+[0:37:28] the so-called adaptogens in sufficient
+[0:37:30] concentrations from food-based sources I
+[0:37:33] have to assume that most people aren't
+[0:37:35] out there collecting chaga mushroom or
+[0:37:36] the ashwagandha herbs and then combining
+[0:37:39] them with their salads or their foods
+[0:37:40] and so that's why this adaptogen
+[0:37:42] category fits into foundational now this
+[0:37:45] opens up the category of foundational
+[0:37:47] supplements that are broad spectrum that
+[0:37:49] is that include vitamins and minerals
+[0:37:51] that have digestive enzymes that have
+[0:37:53] adaptogens and that also have prebiotics
+[0:37:56] and probiotics at the appropriate
+[0:37:57] dosages this is one reason why I'm a big
+[0:38:00] fan of supplements like athletic greens
+[0:38:02] which is as many of you know a sponsor
+[0:38:04] of this podcast and does really nicely
+[0:38:07] cover all of these categories of
+[0:38:08] foundational nutrition but I do want to
+[0:38:10] emphasize that this is not a way to
+[0:38:13] focus on athletic greens specifically
+[0:38:15] there are other categories and brands of
+[0:38:18] excellent foundational nutritional
+[0:38:20] supplements that cover these categories
+[0:38:22] of vitamins and minerals probiotics
+[0:38:24] prebiotics digestive enzymes and
+[0:38:27] adaptogens it just so happens that that
+[0:38:29] athletic greens is the one that I
+[0:38:31] discovered and that works best for me
+[0:38:32] and that many people find works really
+[0:38:34] well for them so this is why when people
+[0:38:36] approach me and they ask me as they
+[0:38:38] often do very very often do I should say
+[0:38:41] if I'm only going to take one supplement
+[0:38:43] what supplement should I take rather
+[0:38:45] than just give them one specific answer
+[0:38:47] I actually asked them three questions
+[0:38:49] first question I ask them is how well
+[0:38:51] are you sleeping at night are you
+[0:38:53] getting enough sleep are you waking up
+[0:38:54] feeling rested because if they're not
+[0:38:56] that opens up a whole different set of
+[0:38:59] interactions that we need to have and
+[0:39:00] discussions around what sorts of things
+[0:39:02] they need to do and possibly take in
+[0:39:05] order to get their sleep right because
+[0:39:06] sleep is the foundation of mental health
+[0:39:07] physical health and performance we will
+[0:39:09] have that discussion a little bit later
+[0:39:11] in this episode
+[0:39:12] the second question I asked them is
+[0:39:15] how's your nutrition that is are you
+[0:39:18] eating regularly have you found the
+[0:39:21] combination of macronutrients or which
+[0:39:23] diet is right for you do you think
+[0:39:25] you're getting enough vitamins and
+[0:39:26] minerals how's your digestion we have
+[0:39:28] that conversation and then the third
+[0:39:30] thing that I ask which is extremely
+[0:39:32] important is what's your budget because
+[0:39:36] if somebody has ten dollars a month
+[0:39:38] total to spend on supplements versus a
+[0:39:40] thousand dollars a month to spend on
+[0:39:41] supplements total well then there's a
+[0:39:44] different set of conversations to be had
+[0:39:46] as to which supplements they should take
+[0:39:47] now once those three questions have been
+[0:39:50] answered
+[0:39:51] assuming that somebody is able to spend
+[0:39:54] about a hundred dollars or more on
+[0:39:57] supplements per month
+[0:39:58] then my recommendation is that they not
+[0:40:01] focus on any specific supplements
+[0:40:03] directed towards sleep or toward Focus
+[0:40:05] or hormone augmentation but rather that
+[0:40:08] they focus on buffering and enhancing
+[0:40:09] their foundational nutrition adaptogens
+[0:40:12] probiotics prebiotics and digestive
+[0:40:15] enzymes because of the simple fact that
+[0:40:17] if they do that they're going to raise
+[0:40:20] the tide on all the biological and organ
+[0:40:22] systems that are going to lead to
+[0:40:23] enhanced mental health physical health
+[0:40:25] and performance including sleep
+[0:40:27] so this is one reason why if people say
+[0:40:30] well if I can only take one supplement
+[0:40:31] what should I take I say well what's
+[0:40:33] your budget if they say they can meet
+[0:40:34] that hundred dollar threshold per month
+[0:40:36] then my recommendation would be athletic
+[0:40:38] greens or something like it or that they
+[0:40:41] invest the time and energy to go find
+[0:40:43] the various combinations of vitamins and
+[0:40:44] minerals and probiotics and prebiotics
+[0:40:47] and adaptogens and so forth in
+[0:40:50] individual
+[0:40:51] components that they can then take in
+[0:40:54] combination in order to meet their
+[0:40:56] foundational needs but most people are
+[0:40:58] not interested in doing all that
+[0:40:59] homework and legwork to figure out
+[0:41:00] exactly what those dosages are that's
+[0:41:03] one reason why indeed I have taken
+[0:41:05] athletic green since 2012. I like it it
+[0:41:07] makes me feel better I have more energy
+[0:41:08] I sleep better my digestion is certainly
+[0:41:10] better and it supports the gut
+[0:41:11] microbiome I do that for that reason but
+[0:41:14] again I want to emphasize that there are
+[0:41:16] other great sources of all the relevant
+[0:41:18] things within those foundational
+[0:41:20] formulas that athletic greens contains
+[0:41:22] so it's certainly not the only route to
+[0:41:24] covering your foundational Health needs
+[0:41:27] there are other ways to do that now if
+[0:41:29] somebody has a budget lower than a
+[0:41:30] hundred dollars per month to spend on
+[0:41:32] foundational supplementation well then
+[0:41:34] there are a couple of discussions to be
+[0:41:36] had now if the amount of money that they
+[0:41:38] have to devote to foundational
+[0:41:40] supplementation is zero of course
+[0:41:42] respect that and then it becomes a
+[0:41:44] discussion about what sorts of foods and
+[0:41:47] patterns of food intake are going to
+[0:41:49] best support their mental health
+[0:41:51] physical health performance now if
+[0:41:53] somebody has somewhere between zero
+[0:41:56] dollars and fifty dollars to spend on
+[0:41:58] supplementation for sake of this thing
+[0:42:00] we're calling foundational Health per
+[0:42:02] month well then a different category of
+[0:42:04] supplement discussion arises and we'll
+[0:42:06] have that in a moment but to sort of
+[0:42:08] close the conversation on foundational
+[0:42:10] supplementation
+[0:42:12] again that means many different things
+[0:42:14] it's vitamins and minerals sometimes
+[0:42:16] that's one vitamin and mineral
+[0:42:18] supplement it means digestive enzymes
+[0:42:20] that could be its own supplement or in
+[0:42:22] combination with vitamins and minerals
+[0:42:24] it means often not always adaptogens
+[0:42:27] things like ashwagandha different
+[0:42:30] plant-based and mushroom-based
+[0:42:31] formulations that can buffer stress and
+[0:42:34] provide other brain and body support
+[0:42:36] and it often although not always but
+[0:42:39] should I believe include the probiotics
+[0:42:42] and prebiotics or anything that supports
+[0:42:44] healthy gut microbiome
+[0:42:46] once again I think a broad spectrum
+[0:42:49] supplement that has many many
+[0:42:50] ingredients of high quality that covers
+[0:42:53] all these bases is going to be the best
+[0:42:55] route to ensuring foundational
+[0:42:57] supplementation is covered and I do
+[0:43:00] think that should be the starting place
+[0:43:02] for any and all supplementation regimens
+[0:43:06] I'll say that once again I think
+[0:43:07] covering your foundational needs in the
+[0:43:11] realm of vitamins minerals probiotics
+[0:43:12] digestive enzymes and
+[0:43:15] adaptogens is going to give you the most
+[0:43:18] benefit
+[0:43:19] by cost and the most benefit across the
+[0:43:22] board in terms of brain and body systems
+[0:43:24] that's going to allow you to feel better
+[0:43:26] overall sleep better overall focus
+[0:43:29] better overall and support all the
+[0:43:31] different systems in your brain and body
+[0:43:33] that are going to allow you to be at
+[0:43:35] your best while of course also paying
+[0:43:37] careful attention to your nutrition
+[0:43:39] because you simply cannot abandon
+[0:43:42] nutrition again Better Living Through
+[0:43:43] Chemistry still requires Better Living
+[0:43:45] so now that we've had that discussion
+[0:43:47] about foundational supplementation
+[0:43:49] and again highlighting the fact that
+[0:43:51] that's the one category of
+[0:43:52] supplementation where multi-ingredient
+[0:43:55] formulations make the most sense I'd
+[0:43:58] like to now shift our attention to
+[0:44:00] single ingredient formulation
+[0:44:01] supplements that are designed to achieve
+[0:44:04] specific endpoints and here again rather
+[0:44:07] than focus on specific ingredients and
+[0:44:10] supplements to achieve specific
+[0:44:11] endpoints because we've done that
+[0:44:13] already in episodes related to sleep and
+[0:44:15] focus Etc
+[0:44:17] I'd like to take a step back and focus
+[0:44:19] on the larger theme of today's episode
+[0:44:21] which is how to think about
+[0:44:23] supplementation in a rational cost
+[0:44:26] effective and biologically effective way
+[0:44:28] for each of these categories and the
+[0:44:30] three categories that I'm going to cover
+[0:44:32] are sleep
+[0:44:34] hormone support and cognitive
+[0:44:37] enhancement and focus cognitive
+[0:44:38] enhancement and focus being the final
+[0:44:40] third category
+[0:44:42] let's talk about sleep and the rational
+[0:44:44] approach to thinking about
+[0:44:46] supplementation for sleep as I mentioned
+[0:44:48] earlier in this episode and on many
+[0:44:50] previous episodes of this podcast sleep
+[0:44:53] is the foundation of mental health
+[0:44:54] physical health and performance
+[0:44:57] you might be somebody who can do an
+[0:44:59] all-nighter and feel okay the next day
+[0:45:01] or maybe even great but most everybody
+[0:45:04] once they start to have minimal sleep
+[0:45:07] for one or two nights in the form of
+[0:45:09] broken sleep poor sleep not enough sleep
+[0:45:11] or sleeping at the wrong time of night
+[0:45:13] there is such a thing or day
+[0:45:16] they start to suffer their mood starts
+[0:45:19] to suffer their cognitive Clarity and
+[0:45:21] performance starts to suffer their
+[0:45:23] mental health can suffer severely and
+[0:45:25] physical performance definitely suffers
+[0:45:27] hormone suffer everything suffers
+[0:45:29] conversely
+[0:45:31] when people are sleeping well that is
+[0:45:34] deeply and enough eighty percent of the
+[0:45:36] nights of their life
+[0:45:38] mental health physical health and
+[0:45:40] performance all flourish and I think
+[0:45:42] most people start to be almost amazed at
+[0:45:45] how well they're doing in various
+[0:45:47] domains of life that previously they
+[0:45:49] might have struggled with so sleep is
+[0:45:51] fundamental that's that's established
+[0:45:54] when thinking about supplementation for
+[0:45:56] sleep we need to ask ourselves a number
+[0:45:58] of important questions first of all you
+[0:46:00] should ask yourself how well that is how
+[0:46:03] deeply and how much are you sleeping per
+[0:46:04] night assuming you're somebody who can
+[0:46:06] fall asleep easily stay asleep through
+[0:46:07] the night wake up feeling relatively
+[0:46:09] rested maybe a little groggy and then
+[0:46:11] can move about your day with plenty of
+[0:46:13] energy and focus you're not falling
+[0:46:15] asleep in class or at work or behind the
+[0:46:17] wheel whereas a passenger on public
+[0:46:19] transportation
+[0:46:21] well then you're probably getting enough
+[0:46:23] sleep and by the way it's perfectly
+[0:46:24] normal to require anywhere from a 10
+[0:46:27] minute to a 90 minute nap in the
+[0:46:28] afternoon for some people if you're not
+[0:46:30] a napper no big deal it's known that
+[0:46:33] naps can disrupt nighttime sleep but
+[0:46:35] provided that they're early enough in
+[0:46:37] the day if you take a nap and you are
+[0:46:39] still able to fall asleep at night then
+[0:46:42] naps are fine for you if you're somebody
+[0:46:43] who doesn't like naps because you wake
+[0:46:45] up groggy or grumpy which often happens
+[0:46:47] to certain people then don't nap
+[0:46:51] you certainly do not need to nap but if
+[0:46:53] you're feeling energetic throughout the
+[0:46:54] day chances are you're getting enough
+[0:46:56] sleep at night but there are people of
+[0:46:58] course who are struggling with sleep
+[0:46:59] either falling asleep staying asleep or
+[0:47:01] they're not feeling alert enough during
+[0:47:02] the day or all of the above and then it
+[0:47:04] makes sense to step back and take a look
+[0:47:06] at what supplementation can provide
+[0:47:09] if you are one of those people who is
+[0:47:11] not sleeping enough or well enough at
+[0:47:13] night that you are suffering during the
+[0:47:15] day in whatever way mild to severe there
+[0:47:18] are two questions you should ask
+[0:47:19] yourself first of all are you ingesting
+[0:47:20] caffeine after 2 pm if the answer is yes
+[0:47:23] you want to limit or eliminate caffeine
+[0:47:26] after 2 pm maybe even push it back to
+[0:47:28] noon or earlier I know that can be
+[0:47:30] excruciating for some folks but it can
+[0:47:33] really help with your ability to fall
+[0:47:35] and stay asleep at night second thing is
+[0:47:37] most people would do well to avoid food
+[0:47:39] within the two hours prior to bedtime
+[0:47:42] but of course you don't want to be so
+[0:47:44] hungry that you can't fall asleep all
+[0:47:46] right so those are the nutrition and
+[0:47:48] behavioral tools that everyone needs to
+[0:47:49] consider if you are not ingesting
+[0:47:51] caffeine
+[0:47:52] 2 p.m or onwards and you are not eating
+[0:47:56] excessively immediately prior to bedtime
+[0:47:58] or within the two hours prior to bedtime
+[0:47:59] and you're not hungry when you go to
+[0:48:01] sleep well then there are certain
+[0:48:03] supplements that can support your sleep
+[0:48:04] and we've talked about these in the
+[0:48:06] perfect sleep episode and in the episode
+[0:48:08] with our guest expert Matt Walker from
+[0:48:10] University of California Berkeley and in
+[0:48:12] the master your sleep episode and we
+[0:48:13] have a tool kit for sleep that you can
+[0:48:15] access zero cost by going to
+[0:48:17] hearinglab.com and going to the menu go
+[0:48:18] to the newsletter and you can find that
+[0:48:20] toolkit you can sign up for other free
+[0:48:21] toolkits like it but
+[0:48:24] the point here is not to go
+[0:48:26] systematically through each of the
+[0:48:27] supplements that is beneficial or has
+[0:48:29] been shown to be beneficial for sleep
+[0:48:30] but rather to address specific aspects
+[0:48:33] of sleep that can suffer and why and how
+[0:48:36] certain patterns of supplementation can
+[0:48:38] support or alleviate those pain points
+[0:48:41] if for instance you're somebody who
+[0:48:43] falls asleep just fine but wakes up in
+[0:48:46] the middle of the night
+[0:48:48] around 2 or 3 A.M or any time for that
+[0:48:50] matter and has trouble falling back
+[0:48:51] asleep there are two categories of
+[0:48:54] supplements that you might want to
+[0:48:55] consider the first is myoinositol
+[0:48:58] typically taken as 900 milligrams of
+[0:49:00] myoinositol myoinositol can help shorten
+[0:49:02] the amount of time that it takes to fall
+[0:49:04] back asleep if you wake up in the middle
+[0:49:06] of the night myoinositol has other
+[0:49:08] beneficial uses as well for mood Etc if
+[0:49:12] you'd like to see many of the different
+[0:49:14] effects that have been explored in the
+[0:49:15] scientific literature from myoinositol
+[0:49:17] you can go to examine.com it's an
+[0:49:19] excellent site not just for inositol but
+[0:49:21] for all supplements for that matter
+[0:49:23] talks about the human effect Matrix that
+[0:49:26] is the different effects of different
+[0:49:27] supplement compounds on different
+[0:49:29] aspects of hormone brain and body Health
+[0:49:30] where the evidence is strong where the
+[0:49:33] evidence is weak has links to studies
+[0:49:34] and so on again it's examine.com amazing
+[0:49:36] website wonderful website it's provided
+[0:49:39] such a rich resource for me and for you
+[0:49:41] know many many other people
+[0:49:44] other people who wake up in the middle
+[0:49:46] of the night will wake up because their
+[0:49:47] dreams are very intense or they were
+[0:49:50] having dreams that were so vivid that
+[0:49:52] suddenly they were jolted from their
+[0:49:54] dreams those people would do well to
+[0:49:56] avoid certain supplements so in a moment
+[0:49:59] I'll talk about the value of a
+[0:50:00] supplement called theanine for falling
+[0:50:03] asleep but theanine which typically is
+[0:50:06] taken in dosages anywhere from 100
+[0:50:08] milligrams to 400 milligrams depending
+[0:50:11] on body weight and experience and what
+[0:50:14] you find to be most effective for you
+[0:50:16] minimally effective for you well the
+[0:50:18] Indian can be great for many people but
+[0:50:19] for people who have excessively vivid
+[0:50:21] dreams
+[0:50:22] those excessively vivid dreams can lead
+[0:50:25] to immediate waking and sometimes a
+[0:50:27] little bit of anxiety upon waking in the
+[0:50:29] middle of the night so some people who
+[0:50:31] wake up in the middle of the night so
+[0:50:32] jolted
+[0:50:33] mentally and physically out of sleep
+[0:50:36] because of their intense dreams would do
+[0:50:40] well to avoid theanine supplementation
+[0:50:42] I've talked about this a bit before but
+[0:50:44] it's something that I think a lot of
+[0:50:46] nighttime middle of the night wakers
+[0:50:48] might be familiar with and would want to
+[0:50:51] take into consideration now for those of
+[0:50:53] you that are not waking up in the middle
+[0:50:54] of the night or not having excessively
+[0:50:55] vivid dreams but are having trouble
+[0:50:57] falling asleep
+[0:50:59] two supplements in particular have been
+[0:51:01] shown to be effective for shortening the
+[0:51:03] transition time to sleep and allowing
+[0:51:05] people to ease into sleep more readily
+[0:51:08] and those are magnesium 3 and 8 which is
+[0:51:11] interchangeable with magnesium bis
+[0:51:13] glycinate
+[0:51:14] magnesium bisclycinate and magnesium
+[0:51:17] threonate both
+[0:51:18] have transporter systems that allow them
+[0:51:21] to readily cross the blood-brain barrier
+[0:51:22] and they lead to a mild form of
+[0:51:24] drowsiness mild in the sense that it's
+[0:51:26] not going to prevent you from operating
+[0:51:28] a motor vehicle or kind of any
+[0:51:30] conditions under emergency that might
+[0:51:32] arise in the middle of the night or if
+[0:51:33] they did a rise during the middle of
+[0:51:34] night you'd still be able to function so
+[0:51:36] it's not like a sleeping pill but people
+[0:51:38] who take those often find that their
+[0:51:40] transition time into sleep is much
+[0:51:42] faster and their sleep is also much
+[0:51:43] deeper incidentally those supplements
+[0:51:45] are also thought to be useful for
+[0:51:48] cognitive support and neuroprotection
+[0:51:51] although there's less data on that
+[0:51:53] okay so that's for falling asleep that's
+[0:51:55] one category either magnesium magnesium
+[0:51:58] three and eight or bis glycine would be
+[0:51:59] interchangeable for assisting the
+[0:52:01] transition time into sleep and then the
+[0:52:03] other supplement is apogenin API
+[0:52:05] g-e-n-i-n apogenin which is a derivative
+[0:52:08] of chamomile I've talked about this in
+[0:52:09] various podcasts before also acts as a
+[0:52:12] bit of a anxiety lowering compound which
+[0:52:15] is essential prior to sleep for people
+[0:52:17] to essentially turn off their thinking
+[0:52:19] or to be able to reduce the amount of
+[0:52:21] ruminating and problem solving and
+[0:52:23] future anticipation that they're doing
+[0:52:24] which is a requirement for falling
+[0:52:25] asleep so what's the rational approach
+[0:52:28] to supplementing in a way that allows
+[0:52:31] you to fall asleep more quickly and stay
+[0:52:33] asleep well would you immediately take
+[0:52:36] magnesium three Nate and apogenin
+[0:52:38] together well that depends if you have
+[0:52:39] the budget and you just simply want to
+[0:52:41] fall asleep quicker and you don't care
+[0:52:42] which of those two ingredients is going
+[0:52:44] to be more effective for you well then
+[0:52:45] you could try one for instance magnesium
+[0:52:48] three and eight and try it for perhaps a
+[0:52:50] week and see how that affects your
+[0:52:52] latency to sleep time that is how
+[0:52:54] quickly you fall asleep or you can try
+[0:52:55] apogenic in the first week or you could
+[0:52:57] combine them both or you could try
+[0:52:59] magnesium three night for a week then
+[0:53:01] switch to only apogenin for a week and
+[0:53:04] evaluate which one works better for you
+[0:53:06] if neither works for you I do recommend
+[0:53:08] trying the combination together again
+[0:53:10] this is just the way that any scientist
+[0:53:12] would design an experiment to try and
+[0:53:14] understand which variables that is which
+[0:53:17] ingredients are most effective for the
+[0:53:20] result that you want as opposed to just
+[0:53:21] lumping them together and taking them
+[0:53:23] that said a lot of people want excellent
+[0:53:26] sleep so badly that they just say okay
+[0:53:28] I'm just going to take magnesium 3 and 8
+[0:53:30] I'm going to take apogen and I'm going
+[0:53:31] to take theanine if my dreams are too
+[0:53:33] Vivid and I'm waking up in the middle of
+[0:53:34] the night from excessively vivid dreams
+[0:53:36] I'll drop the theanine and many people
+[0:53:38] actually derive great benefit from that
+[0:53:40] approach but because today we're talking
+[0:53:42] about the most rational cost effective
+[0:53:43] and biologically effective approach to
+[0:53:45] supplementation if you're not sleeping
+[0:53:47] as well as you would like to
+[0:53:49] or if you want to explore what sleeping
+[0:53:52] even more deeply might do for your
+[0:53:54] mental health physical health and
+[0:53:56] performance well then it makes sense to
+[0:53:58] think about the various supplements for
+[0:54:01] falling asleep versus remaining asleep
+[0:54:03] what to include what not to include and
+[0:54:05] to do that systematically and again I
+[0:54:07] think one week's time of taking
+[0:54:09] something provided it doesn't
+[0:54:11] induce any negative effects right if
+[0:54:14] something induces a negative effect I
+[0:54:15] recommend ceasing taking it immediately
+[0:54:17] but if something does not produce any
+[0:54:19] negative effects then I think you want
+[0:54:21] to try a single ingredient formulation
+[0:54:23] for about a week while not varying
+[0:54:25] anything else not changing anything else
+[0:54:27] in your overall Protocols of nutrition
+[0:54:30] or supplementation I mean it's
+[0:54:32] impossible to clamp everything perfectly
+[0:54:34] from week to week but you know don't
+[0:54:36] change anything else dramatically and
+[0:54:38] just add that supplement for a given
+[0:54:40] week see how it benefits your sleep
+[0:54:42] maybe add in a second second supplement
+[0:54:44] if you like or rather Swap and try a
+[0:54:47] different supplement for a week and then
+[0:54:49] see what works best and see if the
+[0:54:51] combination works even better now I
+[0:54:53] acknowledge that what I just described
+[0:54:54] is exceedingly basic but it's something
+[0:54:57] that I don't think most people do most
+[0:54:59] people either decide they have the
+[0:55:01] budget and the interest in just
+[0:55:03] improving their sleep across the board
+[0:55:04] and they don't care what ingredient is
+[0:55:06] providing the maximum benefit or they
+[0:55:09] simply try something and decide oh well
+[0:55:11] it didn't work for me and so I'm not
+[0:55:13] going to try anything else supplements
+[0:55:14] don't work for me or magnesium doesn't
+[0:55:16] work for me or
+[0:55:17] um you know I woke up in the middle of
+[0:55:18] the night from vivid dreams and that's
+[0:55:19] because they're taking more of a shotgun
+[0:55:21] approach without teasing out the
+[0:55:23] different variables in fact if there's
+[0:55:24] an overriding theme of today's
+[0:55:25] conversation it's really about learning
+[0:55:28] how to isolate variables in the realm of
+[0:55:30] supplementation because once you do that
+[0:55:33] and once you start to develop that
+[0:55:36] Intuition or sensitivity of sorts to how
+[0:55:39] different ingredients impact you
+[0:55:41] it is an enormously powerful stance to
+[0:55:44] have because you're going to keep your
+[0:55:46] costs limited you're also going to find
+[0:55:48] the things that work particularly poorly
+[0:55:51] for you and more importantly the things
+[0:55:53] that work particularly well for you
+[0:55:54] toward your goals any discussion about
+[0:55:56] supplementation for sleep
+[0:55:59] I feel has to include a discussion about
+[0:56:01] melatonin I've talked about melatonin
+[0:56:03] before on numerous podcasts mine and
+[0:56:05] others and I will say once again I am
+[0:56:07] not a fan of melatonin for a couple of
+[0:56:09] reasons melatonin is a hormone known to
+[0:56:12] induce sleepiness but not keep us asleep
+[0:56:14] so oftentimes people will take melatonin
+[0:56:16] fall deeply asleep and then wake up and
+[0:56:18] have trouble falling back asleep the
+[0:56:20] other reason is that melatonin
+[0:56:22] supplements almost always include levels
+[0:56:24] of melatonin or amounts of melatonin
+[0:56:25] that far far exceed the normal
+[0:56:29] biological levels or so-called
+[0:56:31] endogenous levels of melatonin that we
+[0:56:33] would normally produce and yes it's true
+[0:56:34] that as we age we produce less melatonin
+[0:56:37] but melatonin as a hormone also impacts
+[0:56:40] other hormone systems in particular the
+[0:56:43] reproductive hormone access testosterone
+[0:56:44] estrogen Etc which is not to say that if
+[0:56:47] you've been taking melatonin for some
+[0:56:48] period of time that you've disrupted
+[0:56:50] your fertility or those hormone axes but
+[0:56:53] it's possible that you've disrupted them
+[0:56:55] somewhat and it's very clear that
+[0:56:57] melatonin can impact not just sleep but
+[0:57:00] other systems in the brain and body it
+[0:57:02] can be useful for jet lag and for
+[0:57:04] occasional use but they're also I want
+[0:57:07] to voice a message of caution
+[0:57:10] there have been studies exploring the
+[0:57:12] dosages of melatonin contained in
+[0:57:15] various supplements
+[0:57:16] and whether or not what's listed on the
+[0:57:18] bottle matches what's actually contained
+[0:57:20] in those formulations and despite those
+[0:57:23] formulations coming from quite reliable
+[0:57:25] quote unquote or thought to be reliable
+[0:57:27] sources it was found that these
+[0:57:30] supplements contain anywhere from 15
+[0:57:31] percent
+[0:57:32] of what's
+[0:57:34] thought to be or is told to be in those
+[0:57:37] supplements or
+[0:57:39] many times more melatonin than is listed
+[0:57:41] on the bottle so the dosaging does not
+[0:57:43] seem to be consistent with what's often
+[0:57:45] listed on the bottle and this is even
+[0:57:46] true within some of the more reputable
+[0:57:48] Brands so that's a real concern so we
+[0:57:51] need to highlight melatonin as perhaps
+[0:57:53] something that's only used occasionally
+[0:57:55] if you want to talk about dosages for
+[0:57:57] melatonin use for jet lag Etc go to
+[0:58:01] examine.com there's some excellent
+[0:58:03] references to studies there just put
+[0:58:05] melatonin into the search function it'll
+[0:58:07] tell you everything you need to know
+[0:58:08] about melatonin but now you know my
+[0:58:10] stance on melatonin one question I often
+[0:58:12] get about supplementation for sleep is
+[0:58:14] does it create a dependency that's an
+[0:58:16] excellent question to ask
+[0:58:18] I think most people
+[0:58:20] worry about even fear relying on
+[0:58:23] something so heavily that if they did
+[0:58:25] not have it for whatever reason that
+[0:58:26] they couldn't sleep
+[0:58:28] in my experience there is no problem
+[0:58:31] falling and staying asleep in the
+[0:58:34] absence of a supplement for sleep even
+[0:58:37] if you've been taking that supplement
+[0:58:38] for sleep
+[0:58:40] consistently seven days a week for
+[0:58:41] months and months maybe even years on
+[0:58:43] end I confess that I occasionally fall
+[0:58:46] asleep having not taken my pre-sleep
+[0:58:50] supplements and I happen to take
+[0:58:51] magnesium three and eight theanine and
+[0:58:53] epigenin I also take inositol it greatly
+[0:58:56] enhances my sleep and there have been
+[0:58:58] nights when I've fallen asleep not
+[0:58:59] having taken any of those things and
+[0:59:01] I've slept fine that said if I were to
+[0:59:04] explore multiple nights of trying to
+[0:59:06] sleep without that supplementation I
+[0:59:08] find that my sleep is not as good I'm
+[0:59:10] still able to fall asleep but the depth
+[0:59:13] of my sleep and the duration of my sleep
+[0:59:14] is not as good as when I'm supplementing
+[0:59:17] so I think that's
+[0:59:18] refreshing news at least to me that
+[0:59:21] there isn't a dependence on these
+[0:59:22] supplements in order to be able to fall
+[0:59:24] asleep it's not the same sort of
+[0:59:26] dependence that people experience from
+[0:59:28] things like sleeping pills that said
+[0:59:31] any compound any compound can create a
+[0:59:34] placebo type effect where we think we
+[0:59:37] need something in order to achieve a
+[0:59:39] certain effect we had a guest on this
+[0:59:41] podcast
+[0:59:42] some time ago Dr Ali Crum who's a
+[0:59:45] professor at Stanford and works on these
+[0:59:46] mindset effects belief effects and
+[0:59:49] Placebo effects and Placebo effects can
+[0:59:52] be very real and in some sense dovetail
+[0:59:56] with any conversation about dependency
+[0:59:58] meaning if you are somebody who loves
+[1:00:01] your sleep supplements and sleeps great
+[1:00:03] with them and one night you discover you
+[1:00:05] don't have them or you can't access them
+[1:00:07] for whatever reason that can create a
+[1:00:09] little bit of an anxiety around the idea
+[1:00:12] that oh in the in their absence you're
+[1:00:14] not going to be able to sleep and that's
+[1:00:15] a sort of a placebo effect in Reverse if
+[1:00:18] you will because what it suggests is
+[1:00:20] that there's a emotional or a cognitive
+[1:00:23] association with taking these things
+[1:00:25] that allows you to sleep well I would
+[1:00:27] highly recommend that people explore
+[1:00:29] this issue of dependency and Placebo
+[1:00:32] effects for Sleep supplements on their
+[1:00:34] own and under conditions in which
+[1:00:35] there's nothing pressing the next day
+[1:00:37] that is you don't have a big
+[1:00:38] presentation
+[1:00:39] Etc so what I recommend is that every
+[1:00:42] two weeks or so maybe every month or so
+[1:00:45] take one night off completely from all
+[1:00:48] your sleep supplements or leave out one
+[1:00:50] sleep supplement try to understand to
+[1:00:51] what extent you might have established a
+[1:00:54] dependency either real or Placebo based
+[1:00:57] on these sleep supplements and again I
+[1:00:59] suggest doing this on perhaps a Friday
+[1:01:01] night so that you know it's a weekend
+[1:01:03] the next day so you don't have to work
+[1:01:04] if perhaps you don't sleep well I think
+[1:01:07] what you'll find is what most people
+[1:01:08] find and that's
+[1:01:11] in the absence of taking your supplement
+[1:01:13] stack for Sleep one night you're still
+[1:01:16] gonna sleep just fine now does that mean
+[1:01:18] that these supplements are not actually
+[1:01:20] working under normal conditions where
+[1:01:22] you're taking them each night no what
+[1:01:24] this means is that many of these things
+[1:01:27] magnesiums in particular can build up in
+[1:01:30] the body and brain in a way that can be
+[1:01:32] beneficial and what probably explains
+[1:01:35] the fact that you can still sleep if you
+[1:01:37] miss a night of taking them is that the
+[1:01:39] neural circuits that are involved in
+[1:01:41] turning off thinking or in not thinking
+[1:01:44] and falling asleep those neural circuits
+[1:01:46] undergo what's called plasticity in
+[1:01:48] other words if you get better at falling
+[1:01:49] and staying asleep over time even if you
+[1:01:51] got better at that through the
+[1:01:53] Assistance or with the assistance of
+[1:01:55] some supplement or combination of
+[1:01:56] supplements well then those circuits are
+[1:01:58] still going to function just fine even
+[1:02:01] in the absence of not taking those
+[1:02:03] supplements just once we'll get back
+[1:02:05] into this conversation a little bit
+[1:02:07] later when we talk about cognitive
+[1:02:08] enhancement and focus
+[1:02:10] it's the same story there where indeed
+[1:02:13] there are things that people can take in
+[1:02:15] stimulant form and non-stimulant form
+[1:02:17] that can enhance cognitive ability and
+[1:02:19] focus but that does not mean that you
+[1:02:22] become so dependent on those that you
+[1:02:24] can't focus unless you take them this
+[1:02:26] has been shown multiple times over so
+[1:02:28] again to answer the question is there a
+[1:02:31] dependency established by taking
+[1:02:32] supplements for sleep
+[1:02:33] the short answer is no with the caveat
+[1:02:36] that Placebo effects and belief effects
+[1:02:38] are always going to be at play whether
+[1:02:40] or not you're talking about
+[1:02:40] supplementation prescription drugs or
+[1:02:42] even behavioral protocols for that
+[1:02:44] matter I'd like to take a brief break
+[1:02:45] and acknowledge our sponsor athletic
+[1:02:48] greens athletic greens is an all-in-one
+[1:02:50] vitamin mineral probiotic drink that
+[1:02:52] also contains digestive enzymes and
+[1:02:54] adaptogens I started taking athletic
+[1:02:56] Greens Way back in 2012 so that's 10
+[1:02:59] years now of taking athletic greens
+[1:03:00] every single day so I'm delighted that
+[1:03:02] they're sponsoring this podcast the
+[1:03:04] reason I started taking athletic greens
+[1:03:06] and the reason I still take athletic
+[1:03:07] greens is that it covers all of my
+[1:03:09] foundational nutritional needs so
+[1:03:11] whether or not I'm eating well or enough
+[1:03:12] or not I'm sure that I'm covering all of
+[1:03:15] my needs for vitamins minerals
+[1:03:16] probiotics adaptogens to combat stress
+[1:03:19] and the digestive enzymes really help my
+[1:03:21] digestion I just feel much better when
+[1:03:23] I'm drinking athletic greens if you'd
+[1:03:25] like to try athletic greens you can go
+[1:03:26] to athleticgreens.com huberman and for
+[1:03:29] the month of January they have a special
+[1:03:31] offer where they'll give you 10 free
+[1:03:33] travel packs plus a year's supply of
+[1:03:35] vitamin D3 K2 vitamin D3 and K2 are
+[1:03:38] vital for immune function metabolic
+[1:03:40] function Hormone Health but also calcium
+[1:03:42] regulation and heart health again that's
+[1:03:44] athletic greens.com huberman to claim
+[1:03:47] their special offer in the month of
+[1:03:48] January of 10 free travel packs plus a
+[1:03:50] year supply of vitamin D3 K2 the next
+[1:03:53] category of supplementation that I'd
+[1:03:55] like to talk about is hormone support
+[1:03:57] improving or so-called optimizing your
+[1:04:00] hormones is a critical aspect of mental
+[1:04:03] health physical health and performance
+[1:04:05] we've done multiple episodes about
+[1:04:07] hormones including testosterone and
+[1:04:09] estrogen
+[1:04:10] for both men and women and for people of
+[1:04:12] different ages we've also had episodes
+[1:04:14] on thyroid hormone growth hormone and so
+[1:04:17] on you can find all those at
+[1:04:18] hubermanlab.com in fact you can go to
+[1:04:20] the hubermanlab.com website there's a
+[1:04:22] search function where you can just put
+[1:04:23] in a keyword and it will take you to all
+[1:04:25] the episodes and specific time points
+[1:04:27] where that topic happens to be covered
+[1:04:29] now Hormone Health is such an important
+[1:04:31] topic to discuss in the context of
+[1:04:33] supplementation because
+[1:04:36] indeed there are compounds that are
+[1:04:39] non-prescription based so-called
+[1:04:40] supplements that can improve hormone
+[1:04:43] function again anytime we are discussing
+[1:04:46] a particular aspect of mental health
+[1:04:47] physical health or performance we need
+[1:04:50] to start with a mention of the few
+[1:04:52] behavioral tools and nutrition-based
+[1:04:54] tools or at least some top Contour
+[1:04:56] coverage of those in a way that frames
+[1:04:59] up the discussion about supplementation
+[1:05:00] appropriately
+[1:05:02] so in the context of hormone support and
+[1:05:05] augmentation and optimization
+[1:05:08] if you are not getting adequate calories
+[1:05:10] from high quality sources
+[1:05:14] hormones like testosterone and estrogen
+[1:05:16] will suffer this is one of the reasons
+[1:05:17] why women will stop having their periods
+[1:05:21] if they're not ingesting enough calories
+[1:05:22] this is one of the reasons why
+[1:05:24] testosterone levels will drop if people
+[1:05:27] are not ingesting enough calories in
+[1:05:28] fact on the episode with expert guest
+[1:05:31] and medical doctor Peter attia he
+[1:05:33] described how sex hormone binding
+[1:05:35] globulin this is a protein that's
+[1:05:38] present in males and females that binds
+[1:05:40] to testosterone and other hormones and
+[1:05:42] prevents it from being in its free form
+[1:05:44] which is the more active form well
+[1:05:47] insulin which of course is going to
+[1:05:49] increase after the ingestion of
+[1:05:50] carbohydrates in particular insulin
+[1:05:53] actually inhibits or reduces sex hormone
+[1:05:55] binding globulin what this means is that
+[1:05:57] for you intermittent fasters or people
+[1:05:59] that are ingesting very few
+[1:06:00] carbohydrates or have very low blood
+[1:06:02] glucose or perhaps are taking things
+[1:06:05] like metformin or berberine which is a
+[1:06:07] supplement based approach to reducing
+[1:06:10] blood glucose well your sex hormone
+[1:06:13] binding globulin is going to increase
+[1:06:15] dramatically conversely if you are
+[1:06:17] eating enough calories in the form of
+[1:06:20] foods that allow your insulin to be a
+[1:06:22] bit higher not excessively High we hope
+[1:06:24] but a bit higher well then sex hormone
+[1:06:26] bonding globulin will go down and free
+[1:06:28] testosterone will go up so the
+[1:06:30] discussion about hormone support and
+[1:06:32] augmentation has to include some nod
+[1:06:35] toward or understanding of the fact that
+[1:06:36] nutrition and the way that nutrition
+[1:06:38] impacts hormones and the way that
+[1:06:40] hormones such as insulin impact other
+[1:06:42] hormones such as free testosterone that
+[1:06:45] all has to be acknowledged that is not
+[1:06:46] the topic of today's discussion but it's
+[1:06:48] important that I remind everybody that
+[1:06:50] nutrition matters for General hormone
+[1:06:53] status
+[1:06:54] it's also important to remember that
+[1:06:56] behaviors matter for hormone status
+[1:06:59] getting morning sunlight increases
+[1:07:01] cortisol levels cortisol levels are very
+[1:07:04] important to have elevated early in the
+[1:07:07] day for focus and alertness and for
+[1:07:09] immune function and to make sure that
+[1:07:11] cortisol levels are low at night and
+[1:07:13] thereby levels of growth hormone and
+[1:07:16] testosterone which is secreted mainly in
+[1:07:18] the early morning can be elevated at
+[1:07:20] night and in the early morning so
+[1:07:22] getting morning sunlight getting
+[1:07:23] strenuous exercise in the form of both
+[1:07:25] cardiovascular exercise but also
+[1:07:28] relatively short meaning an hour or less
+[1:07:30] bouts
+[1:07:31] of intense resistance training a few
+[1:07:34] times per week can also dramatically
+[1:07:36] alter hormone profiles in fact in the
+[1:07:39] episode that we did with Dr Duncan
+[1:07:40] French again you find that episode at
+[1:07:42] hubermanlab.com he described a very
+[1:07:44] strenuous but still brief two day a week
+[1:07:48] protocol of using resistance training
+[1:07:51] specifically to increase testosterone
+[1:07:53] and free testosterone and growth hormone
+[1:07:54] and so on
+[1:07:56] so nutrition matters exercise matters
+[1:07:59] when it comes to increasing supporting
+[1:08:01] or augmenting different hormones and
+[1:08:03] that's just the discussion about
+[1:08:04] testosterone free testosterone and
+[1:08:06] estrogen there's also the vast
+[1:08:08] discussion about thyroid hormone Etc
+[1:08:10] again we've covered all those topics in
+[1:08:11] previous episodes but once those
+[1:08:14] behavioral
+[1:08:16] tools are in place once you're doing the
+[1:08:18] right things and you're avoiding the
+[1:08:19] wrong things
+[1:08:20] doing the right things to support your
+[1:08:22] hormones and avoiding the things that
+[1:08:24] diminish hormones in the ways that can
+[1:08:27] be detrimental
+[1:08:28] once your nutrition is in place to
+[1:08:31] support your hormones then it makes
+[1:08:32] sense to turn and consider what
+[1:08:36] supplements can support hormones but I
+[1:08:38] do believe that you want to get your
+[1:08:39] behaviors and your nutrition correct
+[1:08:41] before you start thinking about
+[1:08:42] supplementation for hormones again I'll
+[1:08:44] repeat that get your nutrition and your
+[1:08:46] behaviors correct
+[1:08:48] for sake of hormones and for other
+[1:08:50] health purposes before you start
+[1:08:52] thinking about supplementation for
+[1:08:53] hormones and certainly before you start
+[1:08:55] thinking about prescription-based
+[1:08:56] approaches to improving hormones
+[1:09:00] once all of those other elements are in
+[1:09:02] place
+[1:09:03] the supplements that make sense in terms
+[1:09:06] of augmenting hormones come in two forms
+[1:09:08] one are broadband support for multiple
+[1:09:12] hormones and then the others are
+[1:09:15] supplements that are designed to
+[1:09:17] increase or in some cases decrease
+[1:09:19] specific hormones or hormone Pathways so
+[1:09:21] let's consider each of those in tandem
+[1:09:24] there are certain supplements things
+[1:09:27] like Sheila G for instance something
+[1:09:28] from ayurvedic medicine which may mainly
+[1:09:31] uh has the active ingredient fulvic acid
+[1:09:33] which is known to for instance increase
+[1:09:36] things like FSH follicle stimulating
+[1:09:38] hormone which in women is going to
+[1:09:40] increase certain aspects of egg growth
+[1:09:44] hence the name follicle stimulating
+[1:09:46] hormone it's going to stimulate certain
+[1:09:49] aspects of fertility it's Pro fertile
+[1:09:51] and in males can make for more sperm
+[1:09:55] production or more motile sperm FSH is
+[1:09:58] also going to indirectly increase
+[1:10:00] testosterone in males it's known to
+[1:10:01] increase libido in both males and
+[1:10:03] females so things like shilaji can
+[1:10:06] indeed augment multiple hormones and
+[1:10:08] support multiple hormone systems
+[1:10:10] generally in the direction of
+[1:10:12] pro-fertility pro libido and increasing
+[1:10:16] estrogen and testosterone
+[1:10:18] now there are other supplements such as
+[1:10:21] ashwagandha that also fall into this
+[1:10:23] category of affecting multiple hormones
+[1:10:25] ashwagandha is a very potent
+[1:10:28] supplement in terms of reducing cortisol
+[1:10:30] levels it has also been shown to
+[1:10:33] increase testosterone levels but
+[1:10:35] probably indirectly and that's because
+[1:10:37] cortisol and testosterone sort of exist
+[1:10:39] on a seesaw in terms of Pathways they're
+[1:10:42] on separate Pathways but those Pathways
+[1:10:44] interact enough that when cortisol is
+[1:10:46] lowered in general testosterone tends to
+[1:10:48] increase now it is important that with
+[1:10:51] certain hormones like ashwagandha that
+[1:10:52] you don't take them for more than two
+[1:10:54] weeks at a time at high dosages if you
+[1:10:55] want to know more of the specifics
+[1:10:57] around ashwagandha and how long to take
+[1:10:58] it how to cycle it Etc
+[1:11:00] please see our episode on Master stress
+[1:11:03] please also see the examine.com website
+[1:11:06] and put in ashwagandha it will get into
+[1:11:08] some of that description
+[1:11:09] but
+[1:11:11] Sheila G ashwagandha and things for
+[1:11:14] instance like L-Carnitine a supplement
+[1:11:15] that we often discuss in terms of
+[1:11:18] fertility because it can indeed improve
+[1:11:20] sperm motility and quality and egg
+[1:11:23] quality so it's a pro fertile compound
+[1:11:25] but it also impacts various
+[1:11:27] mitochondrial Pathways so it's having a
+[1:11:30] more indirect effect on hormones there
+[1:11:32] are many other
+[1:11:34] compounds present and available
+[1:11:36] supplements that are purported to be
+[1:11:38] pro-hormone support in particular for
+[1:11:41] testosterone or estrogen fertility and
+[1:11:43] libido there is a description for
+[1:11:45] instance of things like maca root maca
+[1:11:48] root can increase libido it's
+[1:11:50] found to be particularly effective in
+[1:11:52] women but in men as well and in all
+[1:11:55] people who are suffering from lower
+[1:11:57] libido due to intake of ssris selective
+[1:12:01] serotonin reuptake inhibitors for
+[1:12:03] whatever reason ssris are used to treat
+[1:12:05] OCD they're used to treat depression any
+[1:12:07] number of different things maca root can
+[1:12:09] be in many instances effective in
+[1:12:11] increasing libido it does that however
+[1:12:13] through augmentation of dopamine related
+[1:12:16] Pathways and some of the hormone
+[1:12:18] Pathways Upstream of testosterone and
+[1:12:20] estrogen the reports that Maca increases
+[1:12:22] testosterone
+[1:12:24] are somewhat scant and a little bit weak
+[1:12:27] to be honest so it's having these
+[1:12:29] indirect effects that may impact
+[1:12:31] testosterone Downstream so again I'd put
+[1:12:33] Maca alongside ashwagandha alongside
+[1:12:35] shilaji as
+[1:12:37] supplements that are impacting multiple
+[1:12:39] hormone Pathways toward increased libido
+[1:12:42] increased fertility increased
+[1:12:44] testosterone or estrogen likely through
+[1:12:47] indirect pathways
+[1:12:48] now with all that said I'd like to
+[1:12:50] provide some examples of
+[1:12:53] supplements that work more directly on
+[1:12:55] specific hormone Pathways aimed at
+[1:12:57] achieving more specific goals such as
+[1:13:00] elevated testosterone or elevated free
+[1:13:02] testosterone or elevated growth hormone
+[1:13:05] for that matter and elevated thyroid
+[1:13:07] hormone I'd like to talk about growth
+[1:13:10] hormone first because it's actually a
+[1:13:11] pretty short discussion first of all the
+[1:13:14] best way to augment growth hormone is to
+[1:13:16] get quality deep sleep especially the
+[1:13:18] sleep that occurs in the first three or
+[1:13:19] four hours of the night is when growth
+[1:13:21] hormone is released and it's going to be
+[1:13:23] beneficial to avoid caloric intake in
+[1:13:26] the two hours preceding sleep again
+[1:13:28] don't go to bed so hungry that you wake
+[1:13:30] up an hour or an hour and a half later
+[1:13:32] or you have trouble falling asleep but
+[1:13:34] avoiding food intake in the two hours
+[1:13:36] prior to sleep and certainly avoiding
+[1:13:37] alcohol and cannabis is going to
+[1:13:40] facilitate growth hormone release in the
+[1:13:42] first hours of sleep many people use
+[1:13:45] intermittent fasting or even longer
+[1:13:47] periods of fasting to increase growth
+[1:13:48] hormone
+[1:13:49] one of the interesting things I learned
+[1:13:51] from an expert guest Dr Kyle Gillette
+[1:13:53] who's a medical doctor
+[1:13:55] on this podcast is that indeed while
+[1:13:58] lengthy or fast or intermittent fasting
+[1:14:00] can increase growth hormone levels very
+[1:14:02] substantially it has indirect effects on
+[1:14:06] the genetic Pathways and The receptors
+[1:14:08] for growth hormone that actually are
+[1:14:11] detrimental for the function of growth
+[1:14:12] hormone so avoiding food for the two
+[1:14:14] hours prior to bedtime is a good idea if
+[1:14:16] you avoid food for longer that's just
+[1:14:18] going to assist even more certainly
+[1:14:20] isn't going to hurt in terms of growth
+[1:14:22] hormone release but extended fast
+[1:14:25] specifically for the purpose of
+[1:14:27] increasing growth hormone
+[1:14:28] are not really logical when you look at
+[1:14:31] the broader effects of extended fast
+[1:14:33] that is not to say that extended fasting
+[1:14:36] is not appropriate for some people it
+[1:14:37] can be in certain instances or that
+[1:14:40] intermittent fasted so-called time
+[1:14:41] restricted feeding is not beneficial for
+[1:14:43] some people it can be here I'm only
+[1:14:45] referring to the effects or in this case
+[1:14:47] the lack of effects of intermittent
+[1:14:49] fasting time restricted feeding on
+[1:14:51] growth hormones specifically now in
+[1:14:53] terms of supplements to increase growth
+[1:14:55] hormone there are very few supplements
+[1:14:58] that have been shown to augment this
+[1:15:00] pathway there is some idea that Arginine
+[1:15:03] supplementation prior to bedtime can
+[1:15:05] further Elevate levels of growth hormone
+[1:15:08] especially when fasted that literature
+[1:15:10] is rather weak to be honest I encourage
+[1:15:12] you to go to examine.com if you want to
+[1:15:13] peruse those particular studies
+[1:15:16] really the things that increase growth
+[1:15:18] hormone very potently fall outside the
+[1:15:21] realm of supplementation they include
+[1:15:23] exercise again look at the Duncan French
+[1:15:25] episode or
+[1:15:27] in the Kyle Gillette episode on
+[1:15:29] optimizing hormones in males in
+[1:15:31] particular but this also pertains to
+[1:15:32] females that avoiding food two hours
+[1:15:34] prior to bedtime really can boost growth
+[1:15:36] hormone significantly in sleep beyond
+[1:15:39] what it would be otherwise but it's
+[1:15:40] really only once you get into the realm
+[1:15:42] of prescription compounds things like
+[1:15:44] peptides like sermorelin which increase
+[1:15:47] igf-1 and growth hormone things like
+[1:15:49] growth hormone Itself by prescription if
+[1:15:52] and only if it's prescribed by a doctor
+[1:15:54] of course and is safe for you that's
+[1:15:55] when you start getting into really
+[1:15:57] significant increases in growth hormone
+[1:15:59] not a lot of supplements out there to
+[1:16:02] increase growth hormone potently now
+[1:16:04] it's a different story when you start
+[1:16:06] thinking about and talking about
+[1:16:07] testosterone and free testosterone and
+[1:16:10] luteinizing hormone luteinizing hormone
+[1:16:12] is released from the pituitary which is
+[1:16:14] this gland
+[1:16:16] not far from the roof of your mouth and
+[1:16:18] its nearby neighbor the hypothalamus is
+[1:16:21] a collection of neurons that sits above
+[1:16:22] the roof of your mouth and talks to the
+[1:16:24] pituitary talks to it through neural
+[1:16:26] connections and hormone-based
+[1:16:27] connections there is a hormone called
+[1:16:29] GnRH gonadotropin releasing hormone that
+[1:16:32] is released from the hypothalamus into
+[1:16:34] the pituitary it stimulates the release
+[1:16:37] of luteinizing hormone or LH which then
+[1:16:39] travels in the bloodstream to impact
+[1:16:41] multiple tissues in the body but mainly
+[1:16:43] the ovary in females and the testes and
+[1:16:45] males to stimulate estrogen production
+[1:16:47] and testosterone production there are
+[1:16:50] supplements that can potently increase
+[1:16:52] GnRH
+[1:16:54] and or luteinizing a hormone and then
+[1:16:56] indirectly increase testosterone and
+[1:16:58] estrogen and I always like to remind
+[1:17:00] people testosterone and estrogen are
+[1:17:01] present in both males and females okay
+[1:17:04] and both are important for things like
+[1:17:06] libido muscle growth
+[1:17:08] and so on a lot of people think that oh
+[1:17:10] in males you know having very high
+[1:17:12] testosterone and low estrogen is
+[1:17:14] actually ideal it's actually not ideal
+[1:17:16] if you want to keep your libido anything
+[1:17:17] that lowers your estrogen too far is
+[1:17:20] going to reduce your libido you don't
+[1:17:22] want estrogen too high but you also do
+[1:17:24] not want it too low so supplements that
+[1:17:27] can tickle this pathway or actually can
+[1:17:30] act as a bit more of a directed hammer
+[1:17:32] on this luteinizing hormone pathway may
+[1:17:34] also impact GnRH are things like fedojia
+[1:17:39] agrestis this is an herb
+[1:17:41] that I've talked about before on the
+[1:17:42] podcast that when taken at dosages of
+[1:17:46] 600 milligrams per day many people not
+[1:17:49] all report elevated levels of libido
+[1:17:51] elevated sperm production elevated
+[1:17:54] testosterone in some cases elevated
+[1:17:57] estrogen a bunch of hormones Downstream
+[1:17:59] of luteinizing hormone now are you going
+[1:18:02] to be a fedojia agrestis responder or a
+[1:18:05] non-responder there's simply no way to
+[1:18:07] know except by trying it if you are
+[1:18:09] going to go down this route
+[1:18:11] there are two very important
+[1:18:13] considerations first of all there's a
+[1:18:14] fairly extensive literature on the fact
+[1:18:16] that fidoji agrestis can be toxic to
+[1:18:20] testicular cells and perhaps other cells
+[1:18:22] when taken at very high dosages so
+[1:18:24] obeying the particular dosages of
+[1:18:26] fedogio aggressus that are recommended
+[1:18:28] on various product labels and cycling
+[1:18:32] for doji Augustus can be important some
+[1:18:35] people need to cycle it eight weeks on
+[1:18:37] two weeks off other people opt for 12
+[1:18:39] weeks on a month off I know a few people
+[1:18:42] who have taken it continuously with no
+[1:18:44] issues but I do want to suggest caution
+[1:18:48] when taking fidochio agrestis
+[1:18:50] the cautionary notes are stay within the
+[1:18:53] recommended dosage ranges you can go
+[1:18:55] lower but certainly don't go higher and
+[1:18:57] I think it is wise to cycle every eight
+[1:19:00] weeks or so to come off it for two weeks
+[1:19:02] and then going back on if that's your
+[1:19:04] choice if you feel it benefited you
+[1:19:07] or taking it for 12 week periods of time
+[1:19:09] and then cycling off for a full month
+[1:19:11] before repeating again
+[1:19:14] the best way to know whether or not
+[1:19:16] fedojia or any of these other
+[1:19:18] supplements is impacting your hormone
+[1:19:19] levels in the direction that you want
+[1:19:20] and not impacting your hormone levels or
+[1:19:22] other aspects of your biology in ways
+[1:19:24] that you don't want is from a blood test
+[1:19:26] there is simply no better tool to
+[1:19:29] evaluate whether or not these
+[1:19:31] supplements are working to support your
+[1:19:33] hormones in the ways that you want and
+[1:19:34] not causing issues
+[1:19:36] except to take a blood test this podcast
+[1:19:38] has inside tracker as a sponsor that can
+[1:19:42] do in-home blood tests and give you
+[1:19:43] blood panels there are other sources of
+[1:19:45] blood tests that are quite good as well
+[1:19:47] of course and in the first episode of
+[1:19:50] The huberman Lab podcast that I did with
+[1:19:51] Dr Kyle Gillette again a medical doctor
+[1:19:54] expert in hormones diabetes and various
+[1:19:57] other aspects of medicine he described
+[1:19:59] and it is time stamped how to stand the
+[1:20:02] best probability of getting your
+[1:20:03] insurance to cover a blood test how to
+[1:20:05] talk to your doctor about getting a
+[1:20:06] hormone panel and so on so I'll refer
+[1:20:09] you to that episode for that but blood
+[1:20:10] tests are going to be very important I
+[1:20:13] recommend taking them before adding in
+[1:20:15] any supplement to increase
+[1:20:17] hormones of any kind or decreased
+[1:20:19] hormones of any kind for that matter and
+[1:20:21] then again after about four to eight
+[1:20:24] weeks of taking that particular
+[1:20:25] supplement in order to evaluate whether
+[1:20:27] or not it worked and whether or not it
+[1:20:29] had any negative effects that you would
+[1:20:31] like to avoid
+[1:20:33] I also wanted to remind people of the
+[1:20:35] dosage conversation that we had earlier
+[1:20:37] just because there's a recommended
+[1:20:38] dosage of fedogio agrestis of say 600
+[1:20:40] milligrams per day
+[1:20:43] first of all that is not an invitation
+[1:20:45] to take twice as much and expect twice
+[1:20:46] the positive effects that is not a good
+[1:20:49] approach especially with something like
+[1:20:50] fedogiograstis which can at high dosages
+[1:20:54] be toxic but it's also important to
+[1:20:57] perhaps consider taking a lower dosage
+[1:20:59] and seeing how that affects your
+[1:21:00] hormones
+[1:21:01] that approach requires a bit more
+[1:21:03] patience I know most people are thinking
+[1:21:04] I want the effect and I want it now but
+[1:21:06] I think it's very important when
+[1:21:08] thinking about exercise your nutrition
+[1:21:09] or supplementation to really play the
+[1:21:11] long game to think about what's going to
+[1:21:14] work for you in the immediate end in the
+[1:21:16] long term and to ease into any kind of
+[1:21:18] supplement regimen for instance by
+[1:21:20] taking one thing at a time varying One
+[1:21:22] supplement out and One supplement in
+[1:21:24] starting at minimal effective dose and
+[1:21:26] build up your protocols over a year or
+[1:21:29] several years it really can be
+[1:21:31] beneficial I can say for myself I
+[1:21:32] started exploring the supplement space
+[1:21:34] and taking different supplements in
+[1:21:36] different combination
+[1:21:38] and alone evaluating which ones worked
+[1:21:40] and did not work for me some were
+[1:21:42] absolutely dreadful for me I have tons
+[1:21:44] of stories about supplement fail some of
+[1:21:46] which were just kind of innocuous
+[1:21:47] meaning they were a waste of money which
+[1:21:49] isn't innocuous but at least it wasn't
+[1:21:51] detrimental to my health other
+[1:21:52] supplements which fortunately don't
+[1:21:54] exist on the market anymore
+[1:21:56] um I think actually uh were quite
+[1:21:58] dangerous and I feel lucky that I did
+[1:21:59] not experience even greater negative
+[1:22:02] effects from them other supplements have
+[1:22:03] been tremendously useful for me and for
+[1:22:06] other people for things like sleep and
+[1:22:07] hormone support focus and so on so for
+[1:22:10] Doja gracias is a good example of a
+[1:22:13] supplement that is known to have potent
+[1:22:15] effects but you need to approach it with
+[1:22:17] the appropriate um I would say respect
+[1:22:20] for the fact that the dosage ranges in
+[1:22:22] which it works
+[1:22:23] um have to be kept pretty narrow without
+[1:22:26] causing issues
+[1:22:28] it does increase luteinizing hormone and
+[1:22:31] thereby testosterone and estrogen so if
+[1:22:34] you're somebody who's already
+[1:22:35] excessively high in one or the other
+[1:22:37] it's going to be very hard to just
+[1:22:39] direct it to only testosterone or only
+[1:22:41] estrogen now the topic of today's
+[1:22:43] episode is not about fedoji Augustus per
+[1:22:46] se I highlight it because it is one of
+[1:22:49] the more potent
+[1:22:50] supplements for sake of hormone
+[1:22:52] augmentation but it's still fairly
+[1:22:54] Broadband it's a little more specific
+[1:22:55] than something like shilaji but it's
+[1:22:58] still fairly Broadband in terms of
+[1:23:00] hitting multiple endpoint hormones
+[1:23:02] testosterone and estrogen and maybe some
+[1:23:04] other hormones as well
+[1:23:06] there are other supplements in
+[1:23:08] particular Tonga Ali which is known to
+[1:23:11] for instance increase libido whether or
+[1:23:14] not it does that by way of augmenting
+[1:23:16] dopamine related Pathways or
+[1:23:18] testosterone Pathways still isn't clear
+[1:23:20] it is known to increase free
+[1:23:22] testosterone by reducing sex hormone
+[1:23:27] binding globulin
+[1:23:29] Tonga Ali can be beneficial both for men
+[1:23:32] and for women
+[1:23:34] in dosages anywhere from 200 milligrams
+[1:23:36] to 600 milligrams per day so there I
+[1:23:39] would say scale according to body size
+[1:23:41] although start with the minimum amount
+[1:23:42] and find the minimal effective dose for
+[1:23:44] you again blood work is going to be the
+[1:23:46] most effective way to determine what's
+[1:23:48] working or not working at the level of
+[1:23:50] objective numbers but subjective
+[1:23:52] experience matters too you know if you
+[1:23:54] take it at 400 milligrams for four weeks
+[1:23:56] and you don't notice any effect you
+[1:23:58] might try it at 600 milligrams but not
+[1:24:00] higher and if you still don't see an
+[1:24:03] effect well then it doesn't appear to
+[1:24:05] have worked for you other people
+[1:24:06] experience dramatic effects from things
+[1:24:08] like fedoja and Tonga Ali why would that
+[1:24:10] be the case well if you look to the
+[1:24:12] scientific literature what you find is
+[1:24:14] that the studies that report the biggest
+[1:24:16] effects of any supplement usually start
+[1:24:19] with a population that somehow
+[1:24:21] diminished or back on its heels in one
+[1:24:23] particular Dimension so for instance
+[1:24:25] people that are hypogonadal that are not
+[1:24:28] making enough testosterone or free
+[1:24:29] testosterone in fact their levels are
+[1:24:31] very very low they're subclinical
+[1:24:34] off range in terms of the charts
+[1:24:36] below the normal
+[1:24:39] well those people when they take
+[1:24:40] supplements like Tonga Ali fedoja tend
+[1:24:42] to experience greater effects because
+[1:24:44] they're starting from a lower level than
+[1:24:45] people who perhaps are close to the
+[1:24:47] optimal levels achieved through either
+[1:24:49] age genetics exercise nutrition or some
+[1:24:51] combination of those so that's an
+[1:24:53] important thing to think about these are
+[1:24:54] called floor effects and sealing effects
+[1:24:57] ceiling effects are for instance if an
+[1:24:59] individual already has very high
+[1:25:01] testosterone and free testosterone and
+[1:25:03] they take a supplement to increase it
+[1:25:04] further they might not see any increase
+[1:25:06] whereas somebody who sits more in the
+[1:25:07] middle to low range stands to experience
+[1:25:10] a much greater increase in fact one
+[1:25:13] individual I know who took Tonga Ali
+[1:25:15] admittedly on my recommendation his
+[1:25:18] testosterone was initially very low and
+[1:25:21] he was having a number of different
+[1:25:22] symptoms he did blood work he that's how
+[1:25:25] he knew it was low and he then took
+[1:25:27] Tonga Ali and fedoja in combination
+[1:25:29] because he decided he just wanted
+[1:25:31] results he didn't care which What which
+[1:25:34] thing was going to give him the results
+[1:25:35] and he experienced big increases in
+[1:25:37] testosterone this would be not free but
+[1:25:39] total testosterone of he experienced as
+[1:25:41] much as 600 nanograms per deciliter
+[1:25:43] increase from where he was before which
+[1:25:45] is very dramatic it was a near tripling
+[1:25:47] of where his testosterone had started
+[1:25:49] off to where he ended up I don't know if
+[1:25:51] he's ever done the experiment of
+[1:25:52] removing fidojia or Tonga to find out
+[1:25:54] which one it was and this is why many
+[1:25:56] people just take them in combination and
+[1:25:57] if you have the budget for it and you
+[1:25:59] are interested in just finding what
+[1:26:01] works but not isolating what works at
+[1:26:04] the level of single ingredients that
+[1:26:06] would be the approach I recommend
+[1:26:07] however again I think most people do
+[1:26:10] well to figure out which specific
+[1:26:11] ingredients are going to work best for
+[1:26:13] them by isolating the variables the way
+[1:26:15] I've described repeatedly throughout
+[1:26:16] this episode to my knowledge Tonga Ali
+[1:26:18] does not need to be cycled meaning you
+[1:26:20] don't have to take periods of time off
+[1:26:21] from it I should note that the effects
+[1:26:24] of Tonga Ali can take a little bit
+[1:26:25] longer to experience so perhaps blood
+[1:26:28] work should be done 8 to 12 weeks after
+[1:26:30] initiating the Tonga Ali protocol
+[1:26:32] as opposed to earlier and it does seem
+[1:26:35] to have sort of cumulative effects on
+[1:26:38] libido and that points to the likelihood
+[1:26:41] that it's having some impact on neural
+[1:26:43] Pathways as opposed to hormone Pathways
+[1:26:45] hormone Pathways can be slow but in
+[1:26:47] general
+[1:26:47] neural pathways are the ones that are
+[1:26:49] going to explain slow Rising shifts in
+[1:26:52] any kind of physical or mental aspect
+[1:26:54] that then remains stable over time so
+[1:26:57] the exact effects of Tonga Ali and where
+[1:27:00] meaning where they arise in the brain
+[1:27:02] and body aren't known I will provide a
+[1:27:04] link to a really beautiful review
+[1:27:06] article that covers the literature on
+[1:27:08] tonganali this came out fairly recently
+[1:27:10] and that I've reviewed with a number of
+[1:27:11] other
+[1:27:13] um MDS and medical or medicine related
+[1:27:17] podcasters it's a really nice review
+[1:27:18] I'll provide a link to that gives a
+[1:27:20] survey of Tonga Ali what people are
+[1:27:22] discovering what they're finding what
+[1:27:23] they're not finding and so forth as a
+[1:27:25] final note on supplements for hormone
+[1:27:27] augmentation and supplementation I want
+[1:27:29] to make a brief mention of something
+[1:27:30] specifically related to female Health
+[1:27:32] which is of course the menstrual cycle
+[1:27:34] and across the menstrual cycle different
+[1:27:36] hormones are present at different levels
+[1:27:37] follicle stimulating hormone is very
+[1:27:39] high during the so-called follicular
+[1:27:41] phase right and then you have your
+[1:27:42] luteal phase we have an entire episode
+[1:27:45] coming up about female hormones and
+[1:27:46] Hormone Health that will cover this we
+[1:27:48] also covered a little bit of this in the
+[1:27:50] other episodes on testosterone and
+[1:27:53] estrogen but the point I'd like to make
+[1:27:55] now is that for women
+[1:27:57] they should fully expect that certain
+[1:27:59] supplements not all but certain
+[1:28:01] supplements because of the way they
+[1:28:03] impact different hormones would have
+[1:28:05] different effects maybe even opposite
+[1:28:07] effects at different phases of the
+[1:28:09] menstrual cycle and for that reason I
+[1:28:10] believe it is especially important
+[1:28:13] to have tight control over dosage and
+[1:28:17] individual ingredients in your
+[1:28:18] supplement regimen so for instance if
+[1:28:20] you're somebody who takes Sheila Gene I
+[1:28:22] know many women who take Sheila G or
+[1:28:24] Tonga Ali
+[1:28:25] for instance or Maca and you find that
+[1:28:28] it really serves you well that is it
+[1:28:30] provides the mental and physical
+[1:28:31] benefits that you want and enjoy
+[1:28:34] at certain phases of your menstrual
+[1:28:36] cycle but at other phases of your
+[1:28:37] menstrual cycle it feels like too much
+[1:28:39] or it actually can start to give you
+[1:28:40] negative mental or physical effects well
+[1:28:42] then obviously having control over those
+[1:28:44] specific ingredients is going to be
+[1:28:46] extremely important so that you can
+[1:28:49] titrate the dosage or increase the
+[1:28:51] dosage as the case may be or cease
+[1:28:53] taking those things entirely at certain
+[1:28:55] phases of your menstrual cycle
+[1:28:57] that's not to say that some women can't
+[1:28:59] just continuously take these supplements
+[1:29:00] throughout their menstrual cycle some
+[1:29:02] can but some find that that makes them
+[1:29:05] very uncomfortable or that they would do
+[1:29:07] well to alter different ingredients at
+[1:29:09] different phases of their cycle so again
+[1:29:11] this speaks to the critical importance
+[1:29:12] of single ingredient control dosage
+[1:29:15] control and the ability to cease taking
+[1:29:18] individual or multiple ingredients
+[1:29:19] according to the backdrop of your health
+[1:29:22] generally and obviously the menstrual
+[1:29:23] cycle is a profound shift in the
+[1:29:25] hormones and thus the entire biological
+[1:29:28] and psychological milieu that exists in
+[1:29:30] the body and of course there's the issue
+[1:29:32] of birth control and whether or not
+[1:29:34] people are taking hormone-based birth
+[1:29:35] control certain forms of hormone-based
+[1:29:37] birth control and women involve
+[1:29:39] tonically elevating that means
+[1:29:41] consistently elevating estrogen that's
+[1:29:43] certainly going to reduce the
+[1:29:45] fluctuations and thus the probability
+[1:29:47] that certain hormones and hormone
+[1:29:49] Pathways will change across the
+[1:29:50] menstrual cycle but not eliminate it
+[1:29:51] altogether also there's the key issue of
+[1:29:54] fertility in both males and females one
+[1:29:57] important note even though this is not
+[1:29:58] an episode about fertility we're going
+[1:30:00] to have one soon but the important point
+[1:30:03] about fertility is that there are
+[1:30:05] supplements not just Sheila G but there
+[1:30:07] are supplements and supplement protocols
+[1:30:08] such as
+[1:30:09] L-Carnitine in particular injectable
+[1:30:12] L-Carnitine which does require a
+[1:30:13] prescription at least in the US but also
+[1:30:15] orally ingested L-Carnitine that can
+[1:30:18] improve sperm health and motility and
+[1:30:20] egg health and motility I mentioned that
+[1:30:21] earlier
+[1:30:22] but if couples are trying to conceive
+[1:30:25] it is important that if you're going to
+[1:30:27] take something that is a supplement
+[1:30:29] directed towards sperm and or egg Health
+[1:30:32] that you also consider how that
+[1:30:34] interfaces with some of the other
+[1:30:36] hormone-based
+[1:30:37] compounds that is prescription drugs
+[1:30:39] that you may be taking this is true for
+[1:30:40] people who are doing IVF in vitro
+[1:30:42] fertilization or not
+[1:30:44] again that entire discussion will be
+[1:30:46] handled in our episode on fertility and
+[1:30:49] on female hormone health and we already
+[1:30:50] did the episode with Dr Kyle Gillette on
+[1:30:52] male hormone Health optimization the
+[1:30:55] next category of supplementation that
+[1:30:56] I'd like to address is supplements
+[1:30:58] related to cognitive enhancement and
+[1:31:00] focus and here there are a number of
+[1:31:02] very useful strategies that one could
+[1:31:04] take I'd like to divide this
+[1:31:05] conversation into two general categories
+[1:31:08] of supplements to address cognitive
+[1:31:09] enhancement and focus the first category
+[1:31:12] are supplements that increase energy by
+[1:31:15] way of stimulant properties so the most
+[1:31:18] obvious of these is caffeine caffeine is
+[1:31:22] of course a molecule that can increase
+[1:31:25] levels of alertness it also can increase
+[1:31:27] levels of focus provided that dosages
+[1:31:30] are in the appropriate range the
+[1:31:33] appropriate range in most cases is going
+[1:31:35] to be one to three milligrams per
+[1:31:36] kilogram of body weight taken
+[1:31:39] 30 minutes or so before any kind of
+[1:31:42] mental or physical Endeavor we did an
+[1:31:44] entire episode about caffeine where you
+[1:31:45] can learn lots of facts about caffeine
+[1:31:48] how best to utilize caffeine and indeed
+[1:31:50] I'll just give you a few of those now
+[1:31:51] turns out that if your regular caffeine
+[1:31:54] user you can still derive the cognitive
+[1:31:57] enhancing and focus enhancing effects of
+[1:31:59] caffeine if you ingest caffeine every
+[1:32:02] day but if you were to take two days off
+[1:32:05] from caffeine completely and right now I
+[1:32:07] hear all the caffeine addicts out there
+[1:32:09] just kind of cringing at the idea and
+[1:32:12] then take caffeine in the 30 minutes
+[1:32:15] prior to some especially important event
+[1:32:18] physical or mental event where you
+[1:32:19] really need to focus and be able to
+[1:32:21] sustain that Focus for long periods of
+[1:32:23] time it would have an even greater
+[1:32:25] effect than it normally would but since
+[1:32:26] most people are taking caffeine in a
+[1:32:28] kind of ongoing regular way I just want
+[1:32:30] to emphasize that it still has Pro
+[1:32:32] cognitive and pro-focus effects even if
+[1:32:35] it's taken every day or even multiple
+[1:32:37] times per day again a cautionary note
+[1:32:39] don't drink caffeine too late in the day
+[1:32:41] past 2 p.m it can really start to impede
+[1:32:43] uh your sleep at night even if you can
+[1:32:46] fall asleep at night the architecture of
+[1:32:47] that sleep is not going to be great if
+[1:32:49] you're ingesting caffeine in the
+[1:32:50] preceding eight to ten and even 12 hours
+[1:32:53] and that actually raises another
+[1:32:55] tangential but still important point so
+[1:32:57] I'm going to make it and then get back
+[1:32:58] to supplements which is the best
+[1:33:00] cognitive enhancer that you will ever
+[1:33:02] take is a really good night's sleep of
+[1:33:06] sufficient duration okay so sleep is
+[1:33:09] going to be the Bedrock of your ability
+[1:33:11] to focus and remember things in fact
+[1:33:14] it's during sleep that neural
+[1:33:15] connections remodel so-called
+[1:33:17] neuroplasticity it's actually not when
+[1:33:20] you trigger learning but it's when you
+[1:33:21] consolidate and reinforce learning and a
+[1:33:23] number of other things that relate to
+[1:33:25] cognitive enhancement and focus the
+[1:33:27] other thing of course is that you're
+[1:33:28] going to need to have sufficient levels
+[1:33:31] of nutrition so you don't want to be
+[1:33:33] overly hungry or it's going to be hard
+[1:33:35] to focus nor do you want to be
+[1:33:36] overloaded with calories or a volume of
+[1:33:39] food or have your blood glucose to be so
+[1:33:41] high that it's going to make you sleepy
+[1:33:43] there's a reason why when discussing
+[1:33:45] stress and the so-called autonomic
+[1:33:48] nervous system that the phrase rest and
+[1:33:49] digest comes into play rest and digest
+[1:33:53] as the name implies relates to the fact
+[1:33:56] that when we have
+[1:33:58] a lot of food in our gut it tends to
+[1:34:00] make us sleepy in other words it's hard
+[1:34:03] for us to focus and it's hard for us to
+[1:34:05] maintain cognitive attention and
+[1:34:06] remember things Etc so there are a bunch
+[1:34:09] of Behavioral tools for enhancing Focus
+[1:34:10] we did an entire episode on enhancing
+[1:34:13] focus it does touch on supplementation
+[1:34:14] again you can find links to that in all
+[1:34:16] formats at hubermanlab.com we also have
+[1:34:19] a newsletter related to this topic also
+[1:34:21] at hubermanlab.com at zero cost
+[1:34:23] with all of that said and in particular
+[1:34:26] the Highlight about sleep being the best
+[1:34:27] way to enhance your cognitive abilities
+[1:34:29] and focus anytime we're having a
+[1:34:31] discussion about supplements for
+[1:34:33] enhancing cognitive ability and focus a
+[1:34:35] major category of those supplements is
+[1:34:37] going to fall into the stimulant
+[1:34:38] category and that's going to include
+[1:34:41] most often caffeine although there are
+[1:34:44] other sources of stimulants I'm not
+[1:34:46] going to touch on those for the moment
+[1:34:47] just talk about caffeine when people
+[1:34:49] hear caffeine they think well I can just
+[1:34:51] drink coffee and indeed that's a great
+[1:34:52] source of caffeine so is yerba mate I
+[1:34:55] would caution people to
+[1:34:57] um if you're going to use yerba mate for
+[1:34:58] whatever purpose caffeine or otherwise
+[1:35:00] that you avoid the smoked versions of
+[1:35:03] yerba mate they are carcinogenic that is
+[1:35:06] the smoked versions or carcinogenic I
+[1:35:09] know and to consume the non-smoked uh
+[1:35:11] varieties
+[1:35:13] um instead the important thing to
+[1:35:15] understand about caffeine is that while
+[1:35:18] it can be ingested in the form of a
+[1:35:19] drink or an energy drink to your coffee
+[1:35:23] it can also be ingested as a pure
+[1:35:26] supplement that is there are caffeine
+[1:35:28] supplements and I know a number of
+[1:35:29] people including a very very prominent
+[1:35:31] podcaster whose name I won't mention who
+[1:35:34] drinks herbal tea but takes a 100 to 300
+[1:35:37] milligram tablet of caffeine with the
+[1:35:40] herbal tea so in that case it is no
+[1:35:42] longer herbal tea it is caffeinated
+[1:35:44] herbal tea
+[1:35:45] when you take caffeine in pill form it
+[1:35:48] tends to have a much more potent and
+[1:35:50] long lasting effect than when you take
+[1:35:52] caffeine in
+[1:35:54] the form of coffee or tea it's actually
+[1:35:57] a world apart in terms of its effects
+[1:36:00] and if you haven't experienced this
+[1:36:02] before it might be something that you
+[1:36:04] want to explore it might not be
+[1:36:06] something you want to explore in
+[1:36:07] particular if you're somebody who
+[1:36:08] experiences anxiety or panic attacks be
+[1:36:10] very careful with your intake of
+[1:36:11] caffeine again see the episode of the
+[1:36:13] huberman law podcast all about caffeine
+[1:36:15] for more on that but
+[1:36:18] it is the case that even 100 milligrams
+[1:36:21] of caffeine in tablet form I suppose it
+[1:36:23] could be in capsule form as well but in
+[1:36:25] its pure form leads to much greater
+[1:36:28] enhancement of alertness and focus then
+[1:36:32] does often the comparable amount or even
+[1:36:35] twice the amount of caffeine contained
+[1:36:37] in coffee or tea now why would that be
+[1:36:39] has a lot to do with the other things
+[1:36:41] that are in coffee and tea so here I'm
+[1:36:44] not encouraging people to become reliant
+[1:36:47] on caffeine capsules or on caffeine
+[1:36:49] tablets but if you want to increase
+[1:36:51] alertness and focus caffeine is a potent
+[1:36:55] way to do that it works the other
+[1:36:58] category of stimulant that can work in
+[1:37:00] terms of enhancing alertness and focus
+[1:37:02] are going to be things that increase
+[1:37:05] adrenaline in some other way or
+[1:37:08] epinephrine as it's also called
+[1:37:10] adrenaline epinephrine same thing in
+[1:37:12] some other way that are going to
+[1:37:14] touch into or augment the so-called
+[1:37:17] adrenergic and adrenaline systems and
+[1:37:19] there are things like yohimbine and
+[1:37:22] different forms of yohimbine like Alpha
+[1:37:24] yohimbine
+[1:37:25] um there are multiple forms of these
+[1:37:27] things now I would go to examine.com to
+[1:37:29] explore the different forms of your
+[1:37:30] himbine about 10 20 years ago yohimbine
+[1:37:33] was marketed primarily as a pro libido
+[1:37:35] and pro-erectile agent turns out it has
+[1:37:38] very low efficacy for both of those
+[1:37:40] things but there are certain forms of
+[1:37:42] yohimbine that act as stimulants
+[1:37:45] that are effective and are separate from
+[1:37:48] those claims and Pathways one particular
+[1:37:50] form is called Alpha yohimbine it
+[1:37:53] sometimes goes by the name raulstein and
+[1:37:56] that's spelled
+[1:37:59] r-a-u-w-o-l-s-c-i-n-e again that's Alpha
+[1:38:01] yohimbine and it's used as a stimulant
+[1:38:04] often to also promote fat loss and
+[1:38:06] alertness I have to say that it's a very
+[1:38:08] potent and somewhat
+[1:38:10] um precarious supplement some people
+[1:38:13] experience a lot of anxiety on it that
+[1:38:15] could also be because they tend to take
+[1:38:16] it on either an empty stomach or in
+[1:38:20] combination with sub caloric diets it's
+[1:38:23] a it's sort of getting out on the edge
+[1:38:24] of things that for some people can work
+[1:38:26] not so well for other people they might
+[1:38:29] actually find it to be a very effective
+[1:38:30] stimulant in general in terms of
+[1:38:32] supplement based approaches to increase
+[1:38:34] cognitive
+[1:38:36] function and focus caffeine either in
+[1:38:39] coffee or tea form or in tablet or
+[1:38:42] capsule form but at lower dosages than
+[1:38:44] you would find in coffee and tea I think
+[1:38:47] is actually a reasonable way to explore
+[1:38:49] stimulant-based approaches
+[1:38:51] for enhancing cognitive function and
+[1:38:54] focus I mentioned all that not because I
+[1:38:56] think that you probably already didn't
+[1:38:57] know that caffeine can enhance alertness
+[1:39:00] and focus most people already know that
+[1:39:01] and I acknowledge that but rather as a
+[1:39:03] contrast point for the other supplement
+[1:39:05] based approach for increasing cognitive
+[1:39:08] function and focus which is
+[1:39:10] to increase certain neurotransmitter
+[1:39:13] Pathways that are not stimulant based so
+[1:39:16] for instance
+[1:39:18] Alpha GPC which is essentially a choline
+[1:39:21] donor acts in the pathways related to
+[1:39:23] the neuromodulator acetylcholine and can
+[1:39:25] enhance Focus so at dosages of anywhere
+[1:39:28] from 300 to 600 milligrams people
+[1:39:31] experience heightened levels of focus
+[1:39:33] for sake of mental work or physical work
+[1:39:36] the half-life of alpha GPC is about four
+[1:39:39] to six hours so it's relatively short
+[1:39:41] lasting although you wouldn't
+[1:39:43] necessarily want to take it right before
+[1:39:44] bed I don't recommend that it is not a
+[1:39:46] stimulant it tends to enhance focus by
+[1:39:49] augmenting acetylcholine and
+[1:39:50] acetylcholine Pathways specifically now
+[1:39:53] it does create a little bit of an
+[1:39:54] increase in alertness
+[1:39:56] so some people actually perceive it
+[1:39:58] subjectively as an increase in
+[1:40:01] overall stimulation but it's different
+[1:40:04] than a caffeine type stimulant so for
+[1:40:06] instance 300 milligrams to 600
+[1:40:09] milligrams of alpha GPC taken alone will
+[1:40:11] allow people to be more focused but
+[1:40:13] doesn't tend to make people feel jittery
+[1:40:15] or over stimulated
+[1:40:17] similarly
+[1:40:19] 500 milligrams to a thousand milligrams
+[1:40:21] or somewhere in between of something
+[1:40:24] like l-tyrosine which is amino acid
+[1:40:26] precursor to dopamine a different
+[1:40:28] neuromodulator taken a loan or in
+[1:40:31] conjunction with again I believe in
+[1:40:33] separating these things out by product
+[1:40:34] but I suppose you could take Alpha GPC
+[1:40:36] NL tyrosine together if you had already
+[1:40:38] tried them separately and decide they
+[1:40:40] worked well for you then you decide to
+[1:40:42] combine them what people tend to
+[1:40:44] experience is that the cholinergic
+[1:40:46] stimulation from alpha GPC and the
+[1:40:49] dopaminergic stimulation from l-tyrosine
+[1:40:52] or simply l-tyrosine alone or Alpha GPC
+[1:40:55] alone leads to increased levels of focus
+[1:40:58] without the kind of overall feelings of
+[1:41:01] stimulant-based alertness that one would
+[1:41:02] experience with caffeine and indeed or I
+[1:41:05] should say of course there are products
+[1:41:07] out there and there are people out there
+[1:41:08] that combine all three of these things
+[1:41:11] together caffeine Alpha GPC and
+[1:41:13] l-tyrosine and while I'm not suggesting
+[1:41:15] that's a good or a bad thing I would
+[1:41:18] suggest that anytime you start to
+[1:41:20] explore the cognitive enhancing effects
+[1:41:23] and the focus enhancing effects of any
+[1:41:25] supplement that you ask which ones are
+[1:41:27] stimulants so for instance caffeine and
+[1:41:29] Alpha human being
+[1:41:30] which ones tend to tap more into
+[1:41:33] neuromodulator systems like Alpha GPC
+[1:41:35] and l-tyrosine and to separate those out
+[1:41:39] conceptually because whereas things like
+[1:41:41] Alpha yohim binding caffeine will mostly
+[1:41:44] serve the role of increasing levels of
+[1:41:46] alertness but not tightening your focus
+[1:41:49] things like Alpha GPC and l-tyrosine
+[1:41:51] tend to serve the role of less elevation
+[1:41:55] and alertness but more tightening of
+[1:41:57] focus and this of course is why people
+[1:41:58] often stack these and take them in
+[1:42:00] combination so I think it's a very
+[1:42:02] important distinction that most people
+[1:42:03] aren't aware of and I'm not here to tell
+[1:42:06] you that the stimulant-based approach or
+[1:42:08] the neuromodulator based approach is
+[1:42:10] better or worse they are simply
+[1:42:12] different from one another although I
+[1:42:14] will say that I think it is important to
+[1:42:16] explore them separately if indeed you're
+[1:42:18] going to explore any of them before you
+[1:42:20] would start to combine them in a single
+[1:42:22] formula again individual ingredients are
+[1:42:25] going to be the way to go in terms of
+[1:42:26] figuring out what's best for you if
+[1:42:28] anything some people may find that even
+[1:42:31] the slightest bit of caffeine or even
+[1:42:32] the slightest spit of alpha GPC or
+[1:42:34] l-tyrosine just places them into a state
+[1:42:37] of mind and or body that's just
+[1:42:39] uncomfortable and not
+[1:42:41] compatible with the kind of work that
+[1:42:44] they want to do whereas other people
+[1:42:45] searching myself
+[1:42:47] regularly rely on taking 300 milligrams
+[1:42:50] of alpha GPC it turns out more than that
+[1:42:52] kind of doesn't work for me or it tends
+[1:42:55] to send my mind down a pathway that I
+[1:42:57] don't like to be in for sake of
+[1:42:59] cognitive work but I will routinely take
+[1:43:01] 300 milligrams of alpha GPC prior to
+[1:43:04] some cognitive work or prior to a
+[1:43:05] workout I do often combine that with
+[1:43:08] some caffeine not in capsule or pill
+[1:43:09] form but rather in the form of cup of
+[1:43:11] coffee or yerba mate and it turns out
+[1:43:13] that for me just by way of example
+[1:43:16] l-tyrosine is something that works very
+[1:43:18] powerfully to elevate my level of focus
+[1:43:20] but that I tend to crash pretty hard
+[1:43:23] afterward and so I tend to error away
+[1:43:25] from l-tyrosine but some people tolerate
+[1:43:27] it really well and actually really like
+[1:43:28] it I rely on something else for dopamine
+[1:43:30] augmentation which is
+[1:43:32] phenylethylamine which is a little bit
+[1:43:34] more short lasting again I arrived at
+[1:43:36] these protocols for myself by mixing and
+[1:43:39] matching but mostly by trying individual
+[1:43:41] ingredients alone before combining them
+[1:43:44] into any sort of cocktail before taking
+[1:43:46] them you for a workout or before a
+[1:43:49] cognitive work bout and I suggest that
+[1:43:51] you explore them in the same way because
+[1:43:52] that's going to deliver you to the best
+[1:43:54] possible protocols for you which only
+[1:43:57] you can determine and then of course
+[1:43:59] there's the category of supplements that
+[1:44:01] can support cognitive function and focus
+[1:44:03] but that also touch on other General
+[1:44:05] functions related to brain and body
+[1:44:07] Health such as metabolic Health mood Etc
+[1:44:10] and the one that comes to mind here are
+[1:44:12] the omega-3 fatty acids I've talked a
+[1:44:14] lot about omega-3 fatty acids that are
+[1:44:16] available in the form of foods so for
+[1:44:19] instance fatty ocean fish there's
+[1:44:21] certain plant-based sources for these as
+[1:44:23] well certain algaes and things of that
+[1:44:25] sort touched on this in the episodes on
+[1:44:27] depression that I've done
+[1:44:28] but
+[1:44:30] this topic mainly comes up around the
+[1:44:32] issue of fish oil fish oil capsules and
+[1:44:34] liquid and this is a discussion I think
+[1:44:36] is worth having
+[1:44:37] early on in the episode we talked about
+[1:44:39] foundational nutrition and supplements
+[1:44:42] that include a bunch of different
+[1:44:43] ingredients we touched on the idea that
+[1:44:45] some people might have the budget to
+[1:44:47] take one such product or any number of
+[1:44:50] different products that combine all
+[1:44:51] those ingredients
+[1:44:52] I should say that for those that are
+[1:44:55] interested in taking a supplement
+[1:44:58] but have a lower budget than would allow
+[1:45:00] for taking one of those General
+[1:45:02] categories of supplements we talked
+[1:45:04] about earlier for foundational nutrition
+[1:45:06] that combines everything vitamins
+[1:45:07] minerals probiotics prebiotics
+[1:45:09] adaptogens digestive enzymes
+[1:45:12] I do think that there's a category of
+[1:45:13] supplements that can greatly enhance the
+[1:45:16] probability of offsetting depression and
+[1:45:18] maybe even improve mood directly or
+[1:45:20] indirectly there's evidence for what I'm
+[1:45:22] about to tell you within the scientific
+[1:45:24] literature and or offset the amount of
+[1:45:26] antidepressant medication that people
+[1:45:27] need to take that's also been
+[1:45:28] demonstrated and improve metabolic
+[1:45:31] function cardiovascular function
+[1:45:33] and also
+[1:45:35] enhance our ability to do focused work
+[1:45:37] and here I'm referring to the so-called
+[1:45:39] omega-3 essential fatty acids in
+[1:45:40] particular the omega-3 form of the
+[1:45:43] essential fatty acids there's now a lot
+[1:45:45] of data showing that ingesting one to
+[1:45:48] three grams of EPA in particular
+[1:45:53] in the form of either fish oil capsules
+[1:45:55] or liquid can be beneficial for a number
+[1:45:58] of different aspects of brain and body
+[1:46:00] health and can enhance
+[1:46:02] focus and cognitive ability
+[1:46:05] this is especially true in developing
+[1:46:07] brains and there's actually an extensive
+[1:46:10] data out of a laboratory at University
+[1:46:11] of California Santa Barbara talking
+[1:46:13] about how mothers who supplement
+[1:46:15] Omega-3s in particular the epas although
+[1:46:18] they also need to get the dhas
+[1:46:20] that leads to Greater brain weights and
+[1:46:23] health of Offspring this is something we
+[1:46:25] will definitely explore in a future
+[1:46:26] episode likely with an expert guest
+[1:46:28] who's doing that work in that laboratory
+[1:46:30] at UC Santa Barbara
+[1:46:33] the point here is that if somebody has a
+[1:46:36] limited budget to purchase supplements
+[1:46:39] and cannot afford a foundational
+[1:46:41] supplement in the sort that we talked
+[1:46:43] about earlier athletic greens are
+[1:46:44] similar but they do have a budget that
+[1:46:46] would allow them to purchase a high
+[1:46:48] quality Omega-3
+[1:46:50] fatty acid fish oil that would and to
+[1:46:52] ingest it in quantity sufficient enough
+[1:46:54] to get above that one gram of EPA per
+[1:46:57] day again this is really important if
+[1:46:59] you look at the product labels you'll
+[1:47:00] often see you know 1500 or 1600
+[1:47:03] milligrams
+[1:47:06] of essential fatty acids but the key is
+[1:47:09] you get above that one gram of EPA per
+[1:47:12] day threshold and as high as three grams
+[1:47:14] per day we had a guest on this podcast
+[1:47:15] Dr Rhonda Patrick who takes anywhere
+[1:47:17] from I believe three to four maybe even
+[1:47:19] more grams of EPA per day for a variety
+[1:47:23] of reasons including some of the reasons
+[1:47:24] we're discussing now before we move on
+[1:47:26] to discussing some of the more Global
+[1:47:28] themes related to developing a rational
+[1:47:29] supplementation protocol
+[1:47:31] I do want to touch on this vast category
+[1:47:34] of supplementation that includes
+[1:47:36] food-based or food mimic type
+[1:47:38] supplements so this would be for
+[1:47:40] instance whey proteins or milk proteins
+[1:47:43] or egg proteins or plant proteins that's
+[1:47:46] a discussion that in and of itself
+[1:47:48] deserves an entire episode if you want
+[1:47:51] to understand which types of protein and
+[1:47:53] source of proteins are going to be the
+[1:47:55] most bioavailable the best for protein
+[1:47:58] synthesis for recovery from exercise
+[1:48:00] building muscle Etc I'd like to refer
+[1:48:02] you to a segment within the episode that
+[1:48:04] I did with Dr Lane Norton where he talks
+[1:48:06] about total protein needs per day it's
+[1:48:08] about one gram per pound of body weight
+[1:48:12] per day for most people although there's
+[1:48:13] some variation depending on activity Etc
+[1:48:15] and the quality of sourcing of those
+[1:48:19] various proteins is extremely important
+[1:48:21] and that of course leads to a discussion
+[1:48:24] about the quality and type of protein
+[1:48:25] that would be present in a supplement
+[1:48:27] like a whey protein supplement or casein
+[1:48:29] which is a milk protein based supplement
+[1:48:32] that discussion is segmented and time
+[1:48:35] stamped in the episode that I did with
+[1:48:37] them you can find at hubermanlab.com he
+[1:48:39] actually pointed to some interesting
+[1:48:40] data on potato protein as perhaps being
+[1:48:44] a great plant-based substitute for those
+[1:48:45] that don't want to take whey-based
+[1:48:47] protein but the fact that whey-based
+[1:48:48] proteins can be very useful for getting
+[1:48:51] to and above a protein threshold for all
+[1:48:55] sorts of reasons not just for muscle
+[1:48:57] building although it's great for that
+[1:48:59] but for other purposes as well
+[1:49:01] and that's about one category of
+[1:49:04] food-based or food mimic type
+[1:49:06] supplements there are for instance
+[1:49:08] branched chain amino acids there are for
+[1:49:11] instance green tea supplements there's a
+[1:49:13] huge landscape of this far too much for
+[1:49:15] us to get into in any kind of
+[1:49:17] um reasonable detail but I do want to
+[1:49:20] acknowledge that those all exist the key
+[1:49:23] thing to understand is that while they
+[1:49:25] can serve a great role in providing
+[1:49:28] replacement for meals that you perhaps
+[1:49:32] couldn't have consumed otherwise and
+[1:49:34] while they often are very convenient
+[1:49:35] because you can drink as opposed to eat
+[1:49:37] your calories I think that most people
+[1:49:39] would agree that
+[1:49:41] getting some significant fraction of
+[1:49:43] your nutrition from Whole Foods is going
+[1:49:46] to be useful for a variety of reasons in
+[1:49:48] particular the fiber that comes along
+[1:49:49] with it the bulk of the food that tends
+[1:49:51] to make us feel sated
+[1:49:52] and of course the fact that a lot of
+[1:49:55] vitamins and minerals and other things
+[1:49:56] that are contained within Foods as well
+[1:49:58] as essential fatty acids in foods like
+[1:50:01] animal-based proteins are not going to
+[1:50:03] be present in most if not all of those
+[1:50:05] kind of food mimic type powders and
+[1:50:08] replacements for food another point is
+[1:50:10] this question about
+[1:50:12] age-related effects so for instance
+[1:50:15] should kids be taking supplements well I
+[1:50:17] mentioned earlier that there's some
+[1:50:19] evidence that making sure that kids are
+[1:50:20] getting enough omega-3 fatty acids can
+[1:50:22] be beneficial they certainly could get
+[1:50:24] those from food-based sources just look
+[1:50:25] up online food-based sources of omega-3
+[1:50:27] fatty acids and epas and you'll see
+[1:50:29] lists there
+[1:50:31] some people choose to supplement on top
+[1:50:32] of that in particular in kids that are
+[1:50:35] developing very quickly
+[1:50:37] I regardless of whether or not they're
+[1:50:39] consuming enough epa's from food some
+[1:50:42] parents choose to supplement on top of
+[1:50:44] that I am personally not a fan of
+[1:50:47] children taking melatonin for the reason
+[1:50:49] that melatonin is already chronically
+[1:50:51] elevated in kids and there's a growing
+[1:50:53] body of literature that melatonin
+[1:50:55] supplementation in kids can be
+[1:50:57] potentially harmful I don't want to
+[1:50:59] create alarm among those who've already
+[1:51:01] been taking it or giving it to their
+[1:51:02] kids or that gave it to their kids in
+[1:51:04] the past but I do think that melatonin
+[1:51:07] in particular should be approached with
+[1:51:08] a lot of caution especially for kids and
+[1:51:12] then of course there's the issue of
+[1:51:13] whether or not all these other
+[1:51:14] supplements that we've discussed whether
+[1:51:16] or not kids can take them safely and
+[1:51:18] again it's highly individual I would say
+[1:51:20] that for the supplements that relate to
+[1:51:22] hormone augmentation and support
+[1:51:25] unless your physician a board-certified
+[1:51:28] MD specifically recommends them I would
+[1:51:31] strongly suggest avoiding intake of
+[1:51:34] those things until at least after
+[1:51:36] puberty and probably in to the late
+[1:51:38] teens and early 20s because the body and
+[1:51:41] brain are still developing and hormone
+[1:51:43] systems are still active even though
+[1:51:44] puberty may happen between ages you know
+[1:51:47] 11 and 14 or even 15. puberty can be a
+[1:51:50] long lasting event with a long taper and
+[1:51:52] tail
+[1:51:53] on it so you want to be cautious about
+[1:51:55] augmenting hormones in young people
+[1:51:58] through the use of supplementation
+[1:51:59] unless a physician is working very
+[1:52:01] closely with you or rather you with them
+[1:52:04] and then in ages of say 22 years old 24
+[1:52:06] and older I don't see any reason why
+[1:52:09] people who are in their 50s or 60s would
+[1:52:12] have any different protocols than people
+[1:52:14] in their 30s and 40s except perhaps in
+[1:52:16] the domain of cognitive enhancement
+[1:52:18] where it might make sense again might
+[1:52:20] provide it it can be done safely and
+[1:52:22] with the consult of a physician
+[1:52:25] it might be beneficial for people who
+[1:52:27] are approaching their later years to
+[1:52:28] consider increasing dosages or the
+[1:52:30] variety of things and approaches that
+[1:52:32] they take for cognitive enhancement
+[1:52:34] because age-related cognitive decline is
+[1:52:36] a reality there is no person that
+[1:52:39] escapes that the question is whether or
+[1:52:40] not the slope of that decline is very
+[1:52:42] steep or very shallow and of course this
+[1:52:45] is an opportunity for me to raise the
+[1:52:47] point that I made much earlier and that
+[1:52:48] I'll make over and over again because it
+[1:52:50] really is the most important point to
+[1:52:52] today's discussion which is that
+[1:52:55] behaviors both exercise sleep making
+[1:52:59] sure that your relationship to light
+[1:53:00] getting sufficient sunlight early in the
+[1:53:03] day and throughout the day if you can
+[1:53:04] and limiting your viewing of bright
+[1:53:07] artificial light in the late evening and
+[1:53:09] especially between the hours of 10 pm
+[1:53:11] and 4 a.m things of that sort all the
+[1:53:13] do's and don'ts
+[1:53:14] and of course cardiovascular exercise
+[1:53:16] and resistance training exercise and
+[1:53:18] maybe even flexibility training exercise
+[1:53:20] topics we've covered extensively on this
+[1:53:22] podcast and for which we'll soon have a
+[1:53:25] special series airing with Dr Andy
+[1:53:27] Galpin that gets into a lot of detail
+[1:53:28] and protocol development that you can
+[1:53:30] all employ
+[1:53:31] all of that needs to be done at every
+[1:53:34] age certainly past puberty in order to
+[1:53:38] maximize cognitive function in order to
+[1:53:41] maximize cardiovascular function in
+[1:53:43] order to maximize focus and every aspect
+[1:53:46] that we really all stand to and want to
+[1:53:50] enhance when we think about
+[1:53:51] supplementation so again get your sleep
+[1:53:53] right do that by getting your
+[1:53:55] relationship to light right get your
+[1:53:57] exercise right Quality Social connection
+[1:53:58] right and then of course there's that
+[1:54:00] landscape of nutrition that we talked
+[1:54:01] about extensively earlier and for which
+[1:54:03] we have other episodes that really dive
+[1:54:05] deep including that episode or I should
+[1:54:07] say in particular that episode with Dr
+[1:54:09] Lane Norton where we really took a full
+[1:54:11] survey of the landscape of nutrition
+[1:54:13] everything from protein needs vitamins
+[1:54:15] minerals fiber microbiome it's a
+[1:54:18] deep deep discussion with a lot of
+[1:54:20] actionable takeaways if you're curious
+[1:54:22] about nutrition and in particular if
+[1:54:24] you're a vegan or vegetarian or
+[1:54:27] carnivore based but even for the more
+[1:54:29] common omnivores such as myself I found
+[1:54:32] that to be an incredible Learning
+[1:54:34] Journey thanks to Dr Lane Norton just so
+[1:54:36] much useful knowledge in that episode if
+[1:54:39] you want to learn more about nutrition
+[1:54:41] the behavioral tools the nutritional
+[1:54:43] tools are really going to serve as the
+[1:54:45] primary two layers upon which your
+[1:54:47] supplementation Protocols are going to
+[1:54:49] rest and again I want to emphasize that
+[1:54:50] your supplementation protocol may be
+[1:54:52] zero supplements it could include no
+[1:54:55] supplements whatsoever and that would be
+[1:54:56] perfectly fine provided that you're
+[1:54:58] sleeping as well as you want to and need
+[1:55:00] to you're able to focus and work as well
+[1:55:02] as you want to and need to you're able
+[1:55:03] to perform physically as well as you
+[1:55:05] want to and need to and you feel that
+[1:55:06] your hormones and related functions are
+[1:55:09] where you want them
+[1:55:10] however for most people
+[1:55:12] who are doing most everything right
+[1:55:16] they want to explore how they can make
+[1:55:18] things like their sleep their focus
+[1:55:20] their hormone function even better and
+[1:55:22] that's where supplementation makes a lot
+[1:55:24] of sense and when I say it makes a lot
+[1:55:26] of sense I mean it makes a lot of sense
+[1:55:27] to explore in a rational and regimented
+[1:55:29] way there are a couple of big themes
+[1:55:31] that we've talked about a few times
+[1:55:32] during today's podcast that I'd like to
+[1:55:34] reiterate now because they are so
+[1:55:36] crucial to developing a rational
+[1:55:37] supplementation protocol the most
+[1:55:40] important of which is unless we're
+[1:55:41] talking about foundational nutritional
+[1:55:43] support that is coverage of vitamins
+[1:55:45] minerals digestive enzymes probiotics
+[1:55:48] prebiotics and adaptogens
+[1:55:51] we should really be focusing on single
+[1:55:53] ingredient formulations foundational
+[1:55:55] supplements that include all those
+[1:55:57] things I just listed off all combined in
+[1:55:59] One supplement are fine I simply don't
+[1:56:01] see any other practical or reasonable
+[1:56:03] way to get each and every one of those
+[1:56:05] things through single ingredient
+[1:56:06] formulations however when you want to
+[1:56:09] start thinking about and actually
+[1:56:10] practically exploring things like
+[1:56:12] supplementation for sleep or Hormone
+[1:56:14] Health or cognitive function the single
+[1:56:16] ingredient formulations are going to
+[1:56:18] give you the most power and control
+[1:56:19] they're going to make sure that you can
+[1:56:22] find the minimal effective doses that
+[1:56:23] you can rule out things that are not
+[1:56:26] effective for you or that may be
+[1:56:28] detrimental for you in whatever fashion
+[1:56:31] and it's not just about cost
+[1:56:33] Effectiveness it's also about arriving
+[1:56:36] at small kits or cocktails of
+[1:56:38] supplements that you can really manage
+[1:56:41] and work with that you're not dependent
+[1:56:42] on but that you really feel can augment
+[1:56:45] the various aspects of your health that
+[1:56:47] are important to you so that's really
+[1:56:48] what today's episode is about even
+[1:56:50] though we had coverage of specific
+[1:56:51] supplements and their functions in these
+[1:56:53] different domains of mental and physical
+[1:56:55] health and performance today's episode
+[1:56:57] was really geared toward giving you
+[1:56:59] resources and a framework to think about
+[1:57:02] how to approach supplementation how to
+[1:57:04] navigate sticking points and pain points
+[1:57:06] in supplementation how to get the most
+[1:57:09] out of your supplementation regimen
+[1:57:10] without spending an excessive amount of
+[1:57:12] money and if you don't have finances to
+[1:57:16] allow for a lot of exploration of
+[1:57:18] supplements how to narrow in on the most
+[1:57:19] effective supplements the most quickly
+[1:57:22] and derive all the benefits that you can
+[1:57:25] from them and as a final point the that
+[1:57:28] is redundant with a few of the themes we
+[1:57:30] talked about today but that I don't
+[1:57:31] think I ever really explicitly stated is
+[1:57:34] that
+[1:57:35] while the word supplement makes it sound
+[1:57:37] like these compounds are something just
+[1:57:40] to add on top of or compensate for
+[1:57:42] deficiencies in nutrition or other areas
+[1:57:44] of your life many of them are actually
+[1:57:47] quite potent compounds these are potent
+[1:57:50] non-prescription
+[1:57:52] molecules that really can move the
+[1:57:55] needle in terms of your ability to think
+[1:57:57] more clearly sleep better support your
+[1:57:59] hormone function but as always they are
+[1:58:03] just one element within an ecosystem of
+[1:58:05] other factors such as your behaviors
+[1:58:08] which includes do's and don'ts such as
+[1:58:10] your nutrition maybe even such as
+[1:58:12] prescription drugs that you also might
+[1:58:14] happen to be taking or hoping to be
+[1:58:16] taking less of or removing completely
+[1:58:18] again that has to be done in discussion
+[1:58:20] with Physicians if you're going to do it
+[1:58:21] at all but
+[1:58:23] the real Point here is that what we call
+[1:58:25] supplements are actually a powerful gear
+[1:58:28] within a larger system aimed at each and
+[1:58:31] every one of us customizing tools for
+[1:58:33] our mental physical health and
+[1:58:35] performance if you're learning from and
+[1:58:37] or enjoying this podcast please
+[1:58:39] subscribe to our YouTube channel that's
+[1:58:40] a terrific zero cost way to support us
+[1:58:42] in addition please subscribe to the
+[1:58:45] podcast on Apple and Spotify and on both
+[1:58:47] apple and Spotify you can leave us up to
+[1:58:49] a five-star review if you have questions
+[1:58:51] for us or topics you'd like me to cover
+[1:58:52] or guess that you'd like me to invite
+[1:58:54] onto the huberman Lab podcast please put
+[1:58:56] those in the comments section on YouTube
+[1:58:58] I do read all the comments also please
+[1:59:01] check out the sponsors mentioned at the
+[1:59:02] beginning and throughout today's episode
+[1:59:04] that's the best way to support this
+[1:59:06] podcast during today's podcast and on
+[1:59:08] many previous episodes of The huberman
+[1:59:10] Lab podcast we discuss supplements again
+[1:59:12] while supplements aren't necessary for
+[1:59:14] everybody many people can derive
+[1:59:15] tremendous benefit from them we've
+[1:59:17] partnered with momentous supplements
+[1:59:19] because momentous supplements are of
+[1:59:21] extremely high quality they have single
+[1:59:23] ingredient formula relations and they
+[1:59:25] ship internationally because we know
+[1:59:26] many of you reside outside of the United
+[1:59:28] States if you'd like to learn more about
+[1:59:30] the supplements discussed on the
+[1:59:31] huberman Lab podcast please go to live
+[1:59:33] momentous spelled ous so that's
+[1:59:35] livemomentis.com huberman if you're not
+[1:59:37] already following us on social media we
+[1:59:39] are huberman lab on Instagram Twitter
+[1:59:41] Facebook and Linkedin and in particular
+[1:59:44] on Instagram I cover science and science
+[1:59:46] related tools some of which overlap with
+[1:59:48] the contents of the huberman Lab podcast
+[1:59:50] much of which is distinct however from
+[1:59:52] the contents of the huberman Lab podcast
+[1:59:54] again it's huberman lab on all social
+[1:59:56] media platforms and if you haven't
+[1:59:58] already subscribe to our neural network
+[2:00:00] newsletter it's a zero cost monthly
+[2:00:02] newsletter you simply sign up with your
+[2:00:04] email by going to hubermanlab.com the
+[2:00:06] newsletter includes summaries of podcast
+[2:00:08] episodes we have tool kits for Sleep
+[2:00:10] tool kits for Focus tool kits related to
+[2:00:13] deliberate cold exposure heat exposure
+[2:00:15] and much much more again all zero cost
+[2:00:17] you provide your email to sign up we do
+[2:00:19] not share your email with anybody there
+[2:00:21] are also sample newsletters there that
+[2:00:23] you don't even need to sign up for you
+[2:00:24] can just download the PDF or just view
+[2:00:26] them on your computer or phone screen so
+[2:00:28] thank you once again for joining me for
+[2:00:30] today's discussion all about
+[2:00:31] supplementation and more importantly how
+[2:00:33] to develop a rational and especially
+[2:00:35] effective supplementation protocol for
+[2:00:37] you and last but certainly not least
+[2:00:40] thank you for your interest in science
+[2:00:42] [Music]

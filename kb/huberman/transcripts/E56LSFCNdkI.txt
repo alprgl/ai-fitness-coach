@@ -1,0 +1,931 @@
+# Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer
+# id=E56LSFCNdkI published=2026-08-27 lang=en generated=True
+
+[0:00:00] Welcome to Huberman Lab Essentials,
+[0:00:01] [music] where we revisit past episodes
+[0:00:04] for the most potent and actionable
+[0:00:06] science-based [music] tools for mental
+[0:00:08] health, physical health, and
+[0:00:09] performance.
+[0:00:11] I'm Andrew Huberman, and I'm a professor
+[0:00:13] of neurobiology and ophthalmology at
+[0:00:16] Stanford School of Medicine. And now for
+[0:00:18] my discussion with Dr. Chris Palmer.
+[0:00:20] Chris, Dr. Palmer, thank you for being
+[0:00:22] here.
+[0:00:23] >> Thank you, Andrew, for having me.
+[0:00:25] >> I have a lot of questions for you, and
+[0:00:27] I'm really excited about this topic
+[0:00:28] because I think most people know what
+[0:00:31] mental illness is, or they have some
+[0:00:33] idea what that is. Most people have some
+[0:00:35] idea what nutrition is.
+[0:00:37] Fewer people, certainly, know
+[0:00:39] how
+[0:00:40] closely those things can interact. I
+[0:00:44] think everybody is familiar with the
+[0:00:46] feeling of a food or the ingestion of a
+[0:00:48] food making them feel good in the short
+[0:00:51] term. But, I believe that very few
+[0:00:54] people understand or are familiar with
+[0:00:57] the fact that nutrition and our mental
+[0:01:00] health
+[0:01:01] interact in this very intimate, maybe
+[0:01:03] even causal, way. And that is something
+[0:01:06] that occurs over long periods of time,
+[0:01:08] meaning what I ate yesterday, the day
+[0:01:10] before, maybe even 10 years ago, could
+[0:01:12] be impacting the way that my brain and
+[0:01:14] body are making me feel now. So, if you
+[0:01:17] would, I'd love for you to just tell us
+[0:01:18] about a little bit of the the history,
+[0:01:21] in particular your history with
+[0:01:23] exploring the relationship between
+[0:01:24] nutrition and mental health, and then we
+[0:01:27] can dive into some of the um more
+[0:01:29] particulars of ketogenic diets versus
+[0:01:32] other diets, and
+[0:01:33] some of the truly miraculous findings
+[0:01:36] that you and others are coming up with
+[0:01:38] based on real patients and real
+[0:01:41] experiences of people who suffer and
+[0:01:43] then find relief by altering their
+[0:01:45] nutrition.
+[0:01:45] >> Sure. This story really starts with my
+[0:01:48] own personal story. I don't need to go
+[0:01:50] into great detail, but to set the stage,
+[0:01:53] when I was a kid, I definitely had
+[0:01:55] mental illness. Started with OCD. I went
+[0:01:59] on to have subsequent depression,
+[0:02:01] suicidality, all sorts of things. But
+[0:02:04] somehow or another, I pulled myself
+[0:02:05] together and got through medical school,
+[0:02:08] actually did quite well in medical
+[0:02:09] school, and then was doing my internship
+[0:02:12] and residency at Harvard. And at that
+[0:02:15] point in time, I was diagnosed with
+[0:02:17] metabolic syndrome.
+[0:02:19] So, I had high blood pressure, horrible
+[0:02:22] lipids, and pre-diabetes. And I was
+[0:02:25] doing everything right, supposedly. I
+[0:02:28] was on a low-fat diet, and I was
+[0:02:30] exercising regularly.
+[0:02:32] And year after year, my doctor kept
+[0:02:34] telling me, "Diet and exercise." I was
+[0:02:36] doing everything he kept telling me to
+[0:02:38] do. Everything was getting worse. My
+[0:02:40] blood pressure kept going higher. And at
+[0:02:42] some point, he said, "You're going to
+[0:02:44] have to go on medication for your
+[0:02:45] pre-diabetes, something for your
+[0:02:47] cholesterol, and something for your
+[0:02:48] blood pressure."
+[0:02:50] So, three pills. Basically, you're
+[0:02:51] screwed. It's your genes. You're just
+[0:02:54] going to have to bite the bullet and
+[0:02:55] take meds. As a physician, I knew what
+[0:02:57] that meant.
+[0:02:59] I knew that I'm in my 20s, if I'm
+[0:03:01] already on three meds for metabolic
+[0:03:03] syndrome, I'm going to be screwed by the
+[0:03:06] time I'm 40 or 50, and I'm probably
+[0:03:08] going to be having heart attacks. I'd
+[0:03:10] heard through the rumor mill that the
+[0:03:12] Atkins diet could somehow
+[0:03:15] help people improve their cholesterol
+[0:03:18] and pre-diabetes. I was highly
+[0:03:20] skeptical, and I I you know, I believed
+[0:03:22] everything I was taught in medical
+[0:03:24] school. Why would Why would my
+[0:03:26] professors lie to me? They They knew
+[0:03:28] what they were talking about. Low-fat
+[0:03:29] diet was the thing to do.
+[0:03:31] And the Atkins diet was clearly
+[0:03:33] dangerous and reckless. And I had been
+[0:03:36] trying the medical dogma for years, and
+[0:03:38] it wasn't working for me.
+[0:03:41] And so, for whatever reason, I decided
+[0:03:43] this is going to be my last attempt at
+[0:03:46] at something different. And then I'll
+[0:03:48] just bite the bullet and go on meds. So,
+[0:03:51] I tried the Atkins diet. Within 3
+[0:03:53] months, my metabolic syndrome was
+[0:03:55] completely gone. I probably lost about,
+[0:03:58] you know, 10 lb through this process,
+[0:04:00] but everything got normal. And when I
+[0:04:03] went back to my doctor, he was shocked.
+[0:04:05] The thing that was the most striking to
+[0:04:07] me after doing the diet for 3 months was
+[0:04:11] not the fact that my metabolic syndrome
+[0:04:13] was gone. That was my goal, and it was
+[0:04:16] a, you know, seemingly miraculous
+[0:04:19] uh achievement because I got rid of
+[0:04:21] everything
+[0:04:22] with one dietary change. But, the thing
+[0:04:25] that I noticed was dramatic improvement
+[0:04:28] in my mood, energy, concentration, and
+[0:04:31] sleep. For the first time in my life, I
+[0:04:34] started waking up before my alarm went
+[0:04:36] off and feeling rested. That never
+[0:04:39] happened to me before. I was meticulous
+[0:04:42] about planning when my alarm went off
+[0:04:44] and how many times I could push the
+[0:04:46] snooze button in order to be on time for
+[0:04:50] wherever I needed to be, whether it was
+[0:04:52] school or the hospital or whatever.
+[0:04:54] Prior to the diet, I always felt like
+[0:04:57] there are two types of people in the
+[0:04:58] world. There are these happy, peppy
+[0:05:00] people who just are so positive, and
+[0:05:03] they've got energy, and they have these
+[0:05:06] the saying, they like to work hard and
+[0:05:08] play hard. But, I never understood who
+[0:05:11] the hell wants to play hard. Like, who's
+[0:05:14] got energy for that? Like, aren't you
+[0:05:16] tired from working so hard? I assumed
+[0:05:19] that they were just lucky and
+[0:05:20] privileged. They either had good
+[0:05:22] genetics or maybe they had good
+[0:05:24] childhoods or good parents or something,
+[0:05:27] something that I didn't have.
+[0:05:28] >> What was the journey forward into the
+[0:05:30] the work that you're doing now?
+[0:05:32] >> So, within a few years, I'm, you know,
+[0:05:35] an attending physician. I've got all
+[0:05:37] these patients in my clinical practice
+[0:05:39] with treatment-resistant mental illness.
+[0:05:41] I'm in a tertiary care hospital. So, I
+[0:05:44] almost never get somebody off the street
+[0:05:47] with their first episode of depression.
+[0:05:50] Out of the gate as part of my career, I
+[0:05:52] get treatment-resistant mental
+[0:05:54] disorders. So, I get people who've
+[0:05:55] already been to six plus psychiatrists,
+[0:05:58] therapists. They've usually tried dozens
+[0:06:01] of different medications. They've been
+[0:06:03] in decades of psychotherapy. They've
+[0:06:05] often had ECT and other things, and
+[0:06:08] nothing's working.
+[0:06:10] And I'm thinking, you know, well, we're
+[0:06:11] kind of out of options for these other
+[0:06:13] people, and this diet is having this
+[0:06:15] really powerful antidepressant effect. I
+[0:06:18] think I'm going to try it and just see
+[0:06:19] if any of my patients are game to try it
+[0:06:22] to see if it might help them. Sure
+[0:06:24] enough, it did.
+[0:06:26] Didn't help everyone, and not everybody
+[0:06:28] was interested and or able to do it, but
+[0:06:31] some of the ones who were able to do it
+[0:06:33] ended up having a remarkable and
+[0:06:35] powerful antidepressant effect. One
+[0:06:38] woman actually became hypomanic within a
+[0:06:40] month.
+[0:06:41] And she had been depressed pretty much
+[0:06:43] non-stop for over 5 years, chronically
+[0:06:46] depressed, suicidal, in and out of
+[0:06:48] hospitals.
+[0:06:50] And I saw her become hypomanic, and I'm
+[0:06:51] thinking, wow, this really is a powerful
+[0:06:53] antidepressant effect. Like, this is
+[0:06:56] amazing. This is like a medication, but
+[0:06:58] better because it actually is working
+[0:07:01] for her. At that point, we didn't have
+[0:07:03] many clinical trials of the safety or
+[0:07:06] efficacy of the Atkins diet for even
+[0:07:08] weight loss or diabetes, let alone any
+[0:07:11] mental disorders. And so, I really
+[0:07:13] actually felt like I'm on the fringe
+[0:07:15] here, and this is not going to be met
+[0:07:18] with with praise by anyone. So, I'm just
+[0:07:21] going to lay low. I'm going to offer it
+[0:07:23] to patients.
+[0:07:25] And uh and I I went along that way up
+[0:07:29] until
+[0:07:31] 2016.
+[0:07:32] >> So, low-carbohydrate diet, certainly low
+[0:07:34] sugar.
+[0:07:35] >> Yeah.
+[0:07:35] >> I'm assuming you're not a nutritionist,
+[0:07:37] so how did you prescribe a nutrition
+[0:07:40] plan for your patients?
+[0:07:42] >> The first patients, it was try this
+[0:07:44] Atkins diet. I want to see ketosis, so I
+[0:07:47] was strongly recommending the patients
+[0:07:50] achieve urinary ketosis. And the
+[0:07:54] interesting thing is I noticed a pattern
+[0:07:56] that when they were trying the diet and
+[0:07:58] not getting ketones, they often did not
+[0:08:00] get a clinical benefit. It was once they
+[0:08:02] got into ketosis that I began to notice
+[0:08:05] the clinical benefit. The thing that
+[0:08:07] completely upended everything that I
+[0:08:09] knew as a psychiatrist, though, was when
+[0:08:10] I helped the patient in 2016.
+[0:08:14] 33-year-old man with schizoaffective
+[0:08:16] disorder. He'd been my patient for 8
+[0:08:18] years now. He had daily auditory
+[0:08:20] hallucinations. He had paranoid
+[0:08:22] delusions.
+[0:08:24] He could not go out in public without
+[0:08:26] being terrified. This man was tormented
+[0:08:28] by his illness. It ruined his life. He
+[0:08:31] had already tried 17 different
+[0:08:33] medications, and none of them stopped
+[0:08:35] his symptoms. He weighed 340 lb. And for
+[0:08:39] whatever reason, he gets it in his head,
+[0:08:41] I'm never going to get a girlfriend if I
+[0:08:43] don't lose some weight. He also
+[0:08:45] recognizes, I'm never going to get a
+[0:08:46] girlfriend cuz I'm a loser. I'm
+[0:08:48] schizophrenic. I live with my father. I
+[0:08:50] you know, I have nothing going for me.
+[0:08:53] For a variety of reasons, we ended up
+[0:08:54] deciding to try the ketogenic diet. He
+[0:08:57] decides to give it a try. Within 2
+[0:08:59] weeks, not only does he start losing
+[0:09:01] weight, but I begin to notice this
+[0:09:03] dramatic antidepressant effect. He's
+[0:09:06] making better eye contact. He's smiling
+[0:09:08] more. He's talking a lot more. I'm
+[0:09:11] thinking like, what's gotten into you?
+[0:09:12] Like, you're coming to life. Like,
+[0:09:13] you're I've never heard you talk this
+[0:09:15] much. I've never seen you so excited or
+[0:09:19] present or alive. I haven't changed his
+[0:09:21] meds at all. The thing that upended
+[0:09:24] everything that I knew as a psychiatrist
+[0:09:27] was 6 to 8 weeks in, he spontaneously
+[0:09:29] starts reporting, "You know those voices
+[0:09:32] that I hear all the time?
+[0:09:34] They're going away." And he says, "You
+[0:09:36] know, you know how I always thought that
+[0:09:38] there were all these families who were
+[0:09:39] controlling my thoughts and out to get
+[0:09:41] me and they had targeted me and I'm
+[0:09:43] thinking, oh, yeah,
+[0:09:45] we've been talking about that for eight
+[0:09:46] years. We could talk about that again.
+[0:09:48] He says, now that I think about it, I
+[0:09:49] don't think that's true.
+[0:09:52] And now that I say it, it sounds kind of
+[0:09:53] crazy. It probably never was. I've
+[0:09:56] probably had schizophrenia all along
+[0:09:58] like everybody's been trying to tell me.
+[0:10:00] And I think it's going away. He's now
+[0:10:03] lost 160 pounds and kept it off to this
+[0:10:05] day.
+[0:10:06] >> Wow.
+[0:10:06] >> He was able to do things he had not been
+[0:10:09] able to do since the time of his
+[0:10:10] diagnosis. He was able to complete a
+[0:10:12] certificate program. He's able to go out
+[0:10:14] in public and not be paranoid. He
+[0:10:16] performed improv in front of a live
+[0:10:18] audience.
+[0:10:20] At one point, he was able to move out of
+[0:10:22] his father's home and live
+[0:10:23] independently.
+[0:10:25] >> Did he stay on any kind of antipsychotic
+[0:10:28] or other medication?
+[0:10:29] >> We have slowly but surely tried to taper
+[0:10:31] him off his meds. He has been on meds
+[0:10:34] for a decades. He started medications
+[0:10:37] when he was a young child.
+[0:10:39] His brain is developed in response to
+[0:10:44] all sorts of psychiatric medications.
+[0:10:46] And it has not been easy to try to get
+[0:10:48] him off. And I just want to say for any
+[0:10:50] listeners, getting off your meds is very
+[0:10:53] difficult and dangerous and you need to
+[0:10:55] do it with supervision with a
+[0:10:57] a mental health
+[0:10:59] professional or a prescriber.
+[0:11:01] >> To stay in ketosis,
+[0:11:03] uh what sort of blood levels of ketones
+[0:11:05] do you like to see in your patients?
+[0:11:08] What is the range that you think most
+[0:11:10] people could aspire to?
+[0:11:12] >> So, it really depends on the patient and
+[0:11:15] what I'm treating, quite honestly. And I
+[0:11:17] don't think every patient needs the
+[0:11:18] ketogenic diet. For some patients,
+[0:11:20] simply getting rid of junk food can make
+[0:11:22] a huge difference in a mood disorder,
+[0:11:24] for instance.
+[0:11:25] >> So, a junk food meaning highly processed
+[0:11:27] food, food that could last on the shelf
+[0:11:29] a very long time.
+[0:11:30] >> Highly processed foods that are usually
+[0:11:32] high in both sugar, carbohydrate, and
+[0:11:36] carbs and fats. Those seem to be the
+[0:11:40] worst foods. That combination, high
+[0:11:43] sugar, high fat, um seems to be the
+[0:11:46] worst combination for metabolic health.
+[0:11:49] And lo and behold, we've got emerging
+[0:11:52] data that suggests that strongly
+[0:11:54] suggests it's also bad for mental
+[0:11:56] health. So, to step back from that. So,
+[0:11:58] for some patients, I might just want to
+[0:12:01] decrease glucose and insulin levels, and
+[0:12:03] I can do that by getting rid of sweets.
+[0:12:05] For other patients, like patients with
+[0:12:07] schizoaffective disorder or
+[0:12:09] schizophrenia or bipolar disorder, or
+[0:12:10] especially if it's chronic, if I'm using
+[0:12:13] it as a brain treatment, then I do want
+[0:12:16] a ketogenic diet, and I usually want
+[0:12:18] reasonably high levels of blood ketones.
+[0:12:21] For depression, I want to see at least
+[0:12:23] greater than probably 0.8 mmol. For
+[0:12:27] psychotic disorders and bipolar
+[0:12:29] disorder,
+[0:12:30] I usually want to see levels greater
+[0:12:33] than 1.5. That's what I'm shooting for
+[0:12:35] if at all possible.
+[0:12:37] >> I think that for a lot of listeners
+[0:12:40] and people out there who
+[0:12:42] are familiar with how changing your diet
+[0:12:45] or changing your exercise can positively
+[0:12:47] impact sleep and weight and all these
+[0:12:49] things, and it cascades into feeling
+[0:12:51] better. That makes perfect sense.
+[0:12:53] But for a lot of the world still,
+[0:12:56] the idea that changing or using
+[0:12:58] nutrition
+[0:13:00] as a dissection tool or as a treatment
+[0:13:03] tool to understand and treat mental
+[0:13:05] illness
+[0:13:07] is still a kind of heretical idea. That
+[0:13:09] to them, it kind of falls in the okay,
+[0:13:11] well, that's like a woo science or
+[0:13:13] something like that. They immediately
+[0:13:16] think, "Didn't Atkins die have a heart
+[0:13:17] attack?" You know, I hear that a lot,
+[0:13:19] you know, which I do think is throwing
+[0:13:20] the baby out with the bathwater, but
+[0:13:21] it's an interesting thing nonetheless.
+[0:13:23] And then I think that the majority of
+[0:13:25] people sit in the middle and just want
+[0:13:27] to see science and medicine come up with
+[0:13:29] treatments that work. And I have to say
+[0:13:31] I'm very relieved to hear what you said
+[0:13:34] earlier, which was you never said that
+[0:13:36] people should come off their medication
+[0:13:37] and just become go on a ketogenic diet
+[0:13:40] and everything will be cured. You're
+[0:13:41] certainly not saying that.
+[0:13:42] >> No.
+[0:13:43] >> And rather you're saying
+[0:13:46] if I understand correctly that nutrition
+[0:13:48] needs to be considered one of the major
+[0:13:50] tools in the landscape of effective
+[0:13:52] tools and that it can be very effective.
+[0:13:54] Talk about epilepsy and how the
+[0:13:56] ketogenic diet is not just used for
+[0:13:59] epilepsy, but is one of the oldest, if
+[0:14:02] not the oldest examples of the use of
+[0:14:04] nutrition to treat a condition of the
+[0:14:08] nervous system that can be incredibly
+[0:14:09] debilitating, even deadly.
+[0:14:11] >> Yeah. The reality is that this
+[0:14:13] literature and this clinical history and
+[0:14:16] all of the research we have was the
+[0:14:18] godsend that I needed to do the work
+[0:14:21] that I'm doing.
+[0:14:22] Otherwise, I would have been discredited
+[0:14:24] on day one. The ketogenic diet,
+[0:14:26] unbeknownst to most people, was actually
+[0:14:29] developed 100 years ago, 1921,
+[0:14:33] by a physician for one and only one
+[0:14:35] purpose, to treat epilepsy. It wasn't
+[0:14:39] developed as a weight loss diet. It
+[0:14:40] wasn't developed as the the diet that
+[0:14:43] all human beings should follow. And the
+[0:14:45] reason it was developed is because of
+[0:14:47] this
+[0:14:48] long-standing observation since the time
+[0:14:51] of Hippocrates
+[0:14:53] that fasting
+[0:14:55] can stop seizures. Most people think
+[0:14:57] going without food is bad and they
+[0:15:00] equate it with starvation. But in fact,
+[0:15:04] when we go without food, it causes
+[0:15:06] tremendous shifts in metabolism, both
+[0:15:09] brain and body metabolism.
+[0:15:12] And it puts the body into a mode of
+[0:15:15] autophagy and conservation of resources
+[0:15:18] and all sorts of things that are
+[0:15:20] beneficial to human health. And this is
+[0:15:23] why fasting has been used as a
+[0:15:25] therapeutic intervention in almost every
+[0:15:27] culture and almost every religion for
+[0:15:29] millennia. But for the most part, that
+[0:15:31] was all thought to be religious
+[0:15:33] folklore. In 1921,
+[0:15:36] one physician used intermittent fasting
+[0:15:39] on a child with seizures and found that
+[0:15:41] oh, lo and behold, this religious
+[0:15:43] folklore stuff has something to it.
+[0:15:45] Actually worked. The problem with
+[0:15:46] fasting is that you can only fast for so
+[0:15:48] long before you starve to death and
+[0:15:50] that's not a very effective treatment.
+[0:15:52] As soon as people start eating a normal
+[0:15:54] diet again, their seizures usually come
+[0:15:56] right back, often times with a
+[0:15:57] vengeance. And so it can be a good
+[0:15:59] short-term intervention. The fasting can
+[0:16:01] take a few days cuz it can take a few
+[0:16:03] days to get ketosis and then you can get
+[0:16:05] some relief from chronic seizures, but
+[0:16:09] it's not a good long-term treatment
+[0:16:10] because again, people will starve to
+[0:16:13] death. As soon as they start eating,
+[0:16:15] seizures come back. So it was actually
+[0:16:18] Dr. Russell Wilder at the Mayo Clinic
+[0:16:20] who developed the ketogenic diet with
+[0:16:23] one and only one purpose. He wanted to
+[0:16:25] see, can we mimic the fasting state
+[0:16:29] using this special diet
+[0:16:32] to see if it might stop seizures
+[0:16:34] long-term.
+[0:16:36] And lo and behold, it worked. Early
+[0:16:38] results were extraordinarily positive.
+[0:16:40] 50% of patients who used the ketogenic
+[0:16:43] diet became seizure-free and another 35%
+[0:16:47] had a 50% or greater reduction in their
+[0:16:50] seizure frequency. So about 85% efficacy
+[0:16:53] rate. By the 1950s,
+[0:16:56] pharmaceuticals were coming out and we
+[0:16:58] had many more anticonvulsant treatments
+[0:17:00] and there's no question they work for a
+[0:17:03] lot of people. That's great. And taking
+[0:17:06] a pill is so much easier than doing this
+[0:17:08] diet. But lo and behold, even to this
+[0:17:10] day, people with epilepsy, about 30%
+[0:17:14] don't respond to the current treatments
+[0:17:16] that we have available.
+[0:17:18] 30% will have treatment-resistant
+[0:17:20] epilepsy, which means they continue to
+[0:17:22] have seizures, no matter how many
+[0:17:23] anticonvulsants they're taking,
+[0:17:25] even if they've had brain surgery, it
+[0:17:28] just doesn't stop their seizures. And
+[0:17:29] so, in the 1970s, the ketogenic diet was
+[0:17:32] resurrected at Johns Hopkins for these
+[0:17:35] treatment-resistant cases, and lo and
+[0:17:37] behold, it works. Not for all of them,
+[0:17:40] but it works, and about 1/3 become
+[0:17:43] seizure-free. And these are people
+[0:17:45] who've tried everything, and nothing's
+[0:17:46] working. So, 1/3 become seizure-free.
+[0:17:48] Another third get a clinical benefit,
+[0:17:51] meaning a 50% or greater reduction in
+[0:17:53] their seizure frequency. And the other
+[0:17:55] third, it doesn't seem to work. And so,
+[0:17:57] the reality, the godsend for me, is that
+[0:17:59] we have decades of neuroscience research
+[0:18:02] on the ketogenic diet and what it is
+[0:18:04] doing to the brain. We know that the
+[0:18:06] ketogenic diet is influencing
+[0:18:08] neurotransmitter levels, in particular,
+[0:18:10] glutamate, GABA, adenosine. It changes
+[0:18:13] calcium channel regulation, uh and
+[0:18:16] calcium levels, which is really
+[0:18:18] important in the function of cells. It
+[0:18:20] changes gene expression. It reduces
+[0:18:23] brain inflammation. It changes the gut
+[0:18:25] microbiome, and there are, you know, gut
+[0:18:27] microbiome's a huge topic right now, and
+[0:18:29] there are some researchers who argue
+[0:18:30] that is the primary benefit of the
+[0:18:32] ketogenic diet. It's changing the gut
+[0:18:34] microbiome in beneficial ways.
+[0:18:37] Um so, it's doing a lot of things. It
+[0:18:39] obviously improves insulin resistance,
+[0:18:42] uh lowers glucose levels, lowers insulin
+[0:18:45] levels, which improves insulin
+[0:18:46] signaling. The key for
+[0:18:50] my research that I've outlined,
+[0:18:54] the real magic, is that this diet
+[0:18:57] stimulates two processes that relate to
+[0:19:00] mitochondria.
+[0:19:01] It stimulates a process called
+[0:19:03] mitophagy,
+[0:19:04] which is getting rid of old and
+[0:19:06] defective mitochondria and replacing
+[0:19:08] them with new ones. And it also
+[0:19:10] stimulates a process called
+[0:19:12] mitochondrial biogenesis,
+[0:19:14] which means that after people have done
+[0:19:16] the ketogenic diet for a while, months
+[0:19:19] or years, many of their cells in their
+[0:19:23] bodies and brains will have more
+[0:19:26] mitochondria, and those mitochondria
+[0:19:28] will be healthier.
+[0:19:30] And I believe that is the reason the
+[0:19:34] ketogenic diet is such a powerful
+[0:19:36] treatment not only for epilepsy, but
+[0:19:39] also for people with chronic mental
+[0:19:41] disorders. If you're looking for
+[0:19:42] randomized controlled trials documenting
+[0:19:45] efficacy in large numbers of patients
+[0:19:48] with these disorders, we don't have
+[0:19:50] them.
+[0:19:51] >> They're underway now, but we don't have
+[0:19:53] them yet. Maybe we could just talk about
+[0:19:55] mitochondria for a moment and then talk
+[0:19:57] about these two major effects. What are
+[0:19:59] some of the other things that
+[0:20:00] mitochondria are important for
+[0:20:02] in neurons and
+[0:20:04] maybe other cells of the brain?
+[0:20:06] >> If you think of the cell as a computer,
+[0:20:09] a lot of people think of mitochondria as
+[0:20:10] the power cord to that computer, cuz
+[0:20:12] they're providing the power. And they
+[0:20:14] are in fact the power cord to that
+[0:20:16] computer. But actually, their real
+[0:20:18] function is the motherboard of that
+[0:20:20] computer. So, mitochondria are directing
+[0:20:23] and allocating resources throughout a
+[0:20:25] cell. That is their primary function,
+[0:20:28] and then they happen to be powerhouses
+[0:20:30] as well. To give some clear examples,
+[0:20:32] mitochondria play a direct role in the
+[0:20:35] production and release and regulation of
+[0:20:39] some really key neurotransmitters,
+[0:20:41] including serotonin, dopamine,
+[0:20:44] glutamate, acetylcholine.
+[0:20:46] Those are pretty powerful
+[0:20:48] neurotransmitters.
+[0:20:49] >> Yeah, I would call those I would
+[0:20:50] consider those the I know you listed
+[0:20:52] more than three, but
+[0:20:53] the sort of primary colors of
+[0:20:55] neurotransmission. You know, any one of
+[0:20:58] those
+[0:20:59] in excess or deficiency is going to have
+[0:21:01] profound negative effects on a nervous
+[0:21:04] system.
+[0:21:04] >> Mitochondria are providing both some of
+[0:21:07] the
+[0:21:08] building blocks, if you will, for some
+[0:21:10] of those molecules. They're part of the
+[0:21:12] Krebs citric acid cycle. Some of the
+[0:21:15] some of the intermediate products
+[0:21:17] actually go into making those
+[0:21:19] neurotransmitters. Much more
+[0:21:20] importantly, mitochondria provide the
+[0:21:23] energy for the production of those
+[0:21:24] neurotransmitters. And fascinatingly,
+[0:21:27] mitochondria are directly related to the
+[0:21:30] release of neurotransmitters. ATP alone
+[0:21:34] is not enough. There have been some
+[0:21:36] research studies that have actually
+[0:21:38] found that mitochondria move along the
+[0:21:41] membrane of the synapse to release
+[0:21:46] batches of vesicles of
+[0:21:48] neurotransmitters.
+[0:21:49] And that if the mitochondria are removed
+[0:21:52] from the synapse, and researchers flood
+[0:21:55] that
+[0:21:56] cell with ATP,
+[0:21:58] neurotransmitters usually are not
+[0:22:00] getting released. Mitochondria are doing
+[0:22:03] other things. We don't entirely even
+[0:22:06] understand what all they're doing or how
+[0:22:08] they're doing it. But they're doing
+[0:22:11] other things than just providing the
+[0:22:13] power. Mitochondria at least play a role
+[0:22:17] in all of the aspects of the human
+[0:22:19] stress response.
+[0:22:21] So, um when humans are stressed either
+[0:22:23] physically or psychologically,
+[0:22:26] there are several things that happen.
+[0:22:28] Increased cortisol, increased
+[0:22:30] adrenaline, noradrenaline,
+[0:22:32] uh inflammation, and gene expression in
+[0:22:35] particular in the hippocampus occur with
+[0:22:38] the stress response. And one group of
+[0:22:40] researchers actually genetically
+[0:22:42] modified mitochondria in four different
+[0:22:44] ways and found that all those four
+[0:22:46] buckets of stress response were impacted
+[0:22:49] in one way or another.
+[0:22:51] Implying that mitochondria are somehow
+[0:22:54] playing a role
+[0:22:56] in those.
+[0:22:57] In terms of it their role in cortisol,
+[0:23:00] we know that mitochondria actually have
+[0:23:02] the enzyme required for the synthesis of
+[0:23:06] steroid hormones. So, that includes
+[0:23:09] cortisol, estrogen, testosterone, and
+[0:23:11] progesterone, some names that maybe
+[0:23:13] everybody's heard of. So, that means
+[0:23:16] that if mitochondria
+[0:23:18] are in short supply or dysfunctional,
+[0:23:21] the production of those hormones may
+[0:23:24] become
+[0:23:25] dysregulated.
+[0:23:27] Mitochondria play a direct role in
+[0:23:29] inflammation, and they turn
+[0:23:33] the inflammatory
+[0:23:35] system both on or they they at least
+[0:23:37] play a role in turning the inflammatory
+[0:23:39] system both on and off. One paper in
+[0:23:42] Cell actually
+[0:23:44] identified mitochondria as the key
+[0:23:46] regulator in turning certain
+[0:23:48] inflammatory cells off. And that when
+[0:23:50] you inhibit mitochondrial function,
+[0:23:52] those cells don't turn off that
+[0:23:55] mitochondrial levels of reactive oxygen
+[0:23:57] species are a key signaling process to
+[0:24:02] turn the inflammatory cell process off.
+[0:24:05] Another study found that macrophages, so
+[0:24:08] macrophages are an important immune cell
+[0:24:11] that play a role in healing. So, if you
+[0:24:13] cut yourself,
+[0:24:14] your your body will get you know, send
+[0:24:17] inflammation that way and
+[0:24:19] and send immune cells that way to try to
+[0:24:22] heal your skin. And macrophages play an
+[0:24:25] important role in that healing. One
+[0:24:27] group of researchers tried to figure out
+[0:24:30] how do macrophages know
+[0:24:32] to switch between the different phases
+[0:24:34] of wound healing? Cuz the macrophages do
+[0:24:37] different things in the different phases
+[0:24:39] of wound healing. And the conclusion of
+[0:24:42] all of their research was that it's
+[0:24:44] mitochondria. Mitochondria are sending
+[0:24:47] the essential signals that change the
+[0:24:50] state of the macrophages to induce these
+[0:24:54] different phases of wound healing. So,
+[0:24:56] I've just talked about
+[0:24:58] neurotransmitters, hormones, epigenetic
+[0:25:01] expression, inflammation.
+[0:25:03] For anybody familiar with the mental
+[0:25:05] health field,
+[0:25:07] they know these are like
+[0:25:10] some of the key variables that
+[0:25:13] researchers have been struggling with
+[0:25:15] for decades trying to figure out how do
+[0:25:17] these fit together. We know that all of
+[0:25:20] the those buckets
+[0:25:22] can be disrupted
+[0:25:24] in people with mental disorders, and our
+[0:25:27] field has struggled to understand but
+[0:25:29] how do they fit together? How can we
+[0:25:31] make sense of this disruption? I believe
+[0:25:35] once you understand the science of
+[0:25:38] mitochondria,
+[0:25:40] you can actually connect all of the dots
+[0:25:43] of the mental illness puzzle. What I'm
+[0:25:45] hearing
+[0:25:46] is that mitochondria, in addition to
+[0:25:49] being important sources of energy
+[0:25:51] production and output in cells, which of
+[0:25:53] course they are,
+[0:25:55] um probably have
+[0:25:57] other roles, and that maybe maybe
+[0:26:00] someday what we call mitochondria will
+[0:26:02] actually be two or three different
+[0:26:04] little subcellular organelle. In the
+[0:26:06] landscape of science education, uh often
+[0:26:08] times people will think, "Okay, energy
+[0:26:10] production." There'll be a picture or a
+[0:26:11] cartoon of mitochondria like flexing its
+[0:26:13] muscles. People go, "Okay, energy,
+[0:26:14] mitochondria, mighty mitochondria." And
+[0:26:16] then they'll think, "Oh, you know,
+[0:26:17] they're just sort of like a dumb jock
+[0:26:19] portion of the cell." Right? They're not
+[0:26:21] doing anything sophisticated. And
+[0:26:23] everything you listed off is that they
+[0:26:24] are doing many sophisticated, intricate
+[0:26:27] things within cells. So, now that um
+[0:26:30] everyone is well aware that mitochondria
+[0:26:32] are doing a large number of very
+[0:26:35] important things
+[0:26:36] in a very regulated way,
+[0:26:38] let's talk about mitophagy, which I have
+[0:26:40] to presume is the
+[0:26:42] um
+[0:26:43] intentional
+[0:26:44] or not gobbling up of mitochondria,
+[0:26:47] presumably to replace them with newer,
+[0:26:49] healthier mitochondria. Is that right?
+[0:26:50] >> It is. So, in in in many ways mitophagy
+[0:26:53] is a subset of autophagy, but it's got
+[0:26:56] its own name because it is specific to
+[0:26:58] mitochondria.
+[0:27:00] There do appear to be
+[0:27:03] some unique regulators of mitophagy
+[0:27:06] compared to autophagy more broadly.
+[0:27:09] Mitochondria actually are playing a a
+[0:27:11] role in autophagy itself.
+[0:27:14] Um and this makes sense because one of
+[0:27:16] the So, the global picture of autophagy
+[0:27:19] is stimulated by fasting states or
+[0:27:23] fasting mimicking states. So, when your
+[0:27:26] body senses that you don't have enough
+[0:27:30] food,
+[0:27:31] it actually hunkers down and starts to
+[0:27:35] recycle
+[0:27:37] dead old parts in this kind of carefully
+[0:27:41] orchestrated way, and it takes them to
+[0:27:44] lysosomes, they get degraded, and then
+[0:27:47] those
+[0:27:48] degradation products get used for either
+[0:27:51] energy or to build new things.
+[0:27:53] Autophagy's always occurring
+[0:27:56] um at a low level, but you can really
+[0:27:59] hyper-stimulate the process through
+[0:28:01] fasting, calorie restriction, fasting
+[0:28:04] mimicking diets, other things.
+[0:28:06] And this is why fasting and fast you
+[0:28:07] know, calorie restriction is so
+[0:28:10] kind of such hot topics in the medical
+[0:28:12] field now is because we it they've been
+[0:28:14] shown to induce longevity, and we think
+[0:28:17] it's probably through that process.
+[0:28:19] That you're you're stimulating the body
+[0:28:21] to become lean and
+[0:28:25] conservative in terms of its allocation
+[0:28:27] of resources.
+[0:28:30] And the body doesn't just destroy the
+[0:28:32] healthiest tissue along with the old
+[0:28:34] dead stuff. It has these processes that
+[0:28:36] identify the old and defective parts
+[0:28:38] first, and they go first. And that's
+[0:28:41] what's beautiful about the whole thing,
+[0:28:43] and that's why fasting is so important.
+[0:28:46] So, mitophagy
+[0:28:48] we know plays a really important role
+[0:28:50] because there's this term called
+[0:28:52] mitochondrial dysfunction, which some
+[0:28:54] researchers are actually wanting to get
+[0:28:56] rid of and move away from because, as
+[0:28:58] you just said, mitochondria do so many
+[0:29:00] different things, and different
+[0:29:01] mitochondria, even within the same cell,
+[0:29:04] may very well be specializing in
+[0:29:05] different tasks, and mitochondria from
+[0:29:07] one cell to another are sometimes doing
+[0:29:09] very different things. Like not all
+[0:29:11] mitochondria can produce cortisol.
+[0:29:13] That's specific to specific cells where
+[0:29:16] those genes are getting turned on. So,
+[0:29:18] it's not like all mitochondria are
+[0:29:20] producing cortisol, just the ones in
+[0:29:22] your adrenal gland, for instance, are
+[0:29:24] producing cortisol. And it has long been
+[0:29:28] known for decades
+[0:29:30] that mitochondrial dysfunction is
+[0:29:33] associated with everything that ails us,
+[0:29:36] essentially. So, David Sinclair uh
+[0:29:40] published a page paper in one of the
+[0:29:41] cell journals, I think, saying that,
+[0:29:44] "Oh, mitochondria are actually the
+[0:29:46] unifying link of everything that we know
+[0:29:48] about aging. Defective mitochondria or
+[0:29:50] defective mitochondrial function,
+[0:29:53] mitochondrial dysfunction, is possibly
+[0:29:56] the unifying cause of aging and all of
+[0:29:59] the aging-related disorders." So,
+[0:30:02] mitophagy
+[0:30:04] is trying to address all that. It's
+[0:30:06] trying to say, "Okay, this is bad. We
+[0:30:08] don't want defective mitochondria, and
+[0:30:10] how can we get rid of old ones or
+[0:30:12] defective ones and and replace them with
+[0:30:15] new ones?" And I think the most powerful
+[0:30:18] signal
+[0:30:20] and tool that we have right now
+[0:30:23] is, in fact, related to diet. It's
+[0:30:26] calorie restriction. That is the oldest,
+[0:30:29] truest, best-proven way to prevent aging
+[0:30:33] in a wide variety of animal species.
+[0:30:37] Fasting and intermittent fasting.
+[0:30:40] And again, you can only do those things
+[0:30:41] for so long, and then fasting mimicking
+[0:30:44] diets um can also stimulate this process
+[0:30:48] of
+[0:30:49] mitophagy.
+[0:30:51] >> So, what about the the typical person
+[0:30:53] who's an omnivore eating
+[0:30:55] um you know, some rice, some pasta. Do
+[0:30:58] you think that those people might feel
+[0:31:00] far better
+[0:31:02] or even a little bit better if they were
+[0:31:05] in a
+[0:31:06] lower glucose state? I ask this because
+[0:31:08] I think there are a lot of people out
+[0:31:09] there who suffer from full-blown
+[0:31:11] depression, but there are also a lot of
+[0:31:12] people who suffer from like moodiness
+[0:31:15] and feeling not so great, subclinical
+[0:31:17] depression.
+[0:31:18] >> Yes, burnout is what I would call it.
+[0:31:20] >> Yeah, and and just feeling like some
+[0:31:22] days are great, and then other days they
+[0:31:23] feel lousy for reasons they don't
+[0:31:25] understand.
+[0:31:26] >> I kind of break this field, and I'm
+[0:31:28] probably getting too nerdy right now,
+[0:31:30] but I kind of break this field into
+[0:31:32] cause, what's the actual root cause, and
+[0:31:36] what are effective treatments. And I
+[0:31:38] really see them as two separate things.
+[0:31:40] >> Calorie restriction, ketogenic diet,
+[0:31:44] carbohydrate restriction
+[0:31:46] are inducing metabolic changes in the
+[0:31:50] brain and body.
+[0:31:52] And [snorts]
+[0:31:53] regardless of what the person was eating
+[0:31:57] they are inducing metabolic changes that
+[0:31:59] can be really beneficial to brain
+[0:32:01] health. So, going to your broader
+[0:32:03] question about adults modern day, if
+[0:32:06] it's an average person who is not
+[0:32:09] currently under psychiatric care
+[0:32:11] not taking prescription medicines but is
+[0:32:14] saying, "I'm burned out. I'm exhausted.
+[0:32:17] I want some of that brain energy that
+[0:32:19] Andrew Huberman's talking about." I
+[0:32:21] He He talks about feeling good. I want
+[0:32:23] some of that. I'm probably actually
+[0:32:25] going to recommend, "Let's see if we can
+[0:32:26] just carb restrict for a while."
+[0:32:29] Um and see if that produces clinical
+[0:32:31] benefit. I have one he's not even a
+[0:32:34] patient, just a somebody who read my
+[0:32:36] book. He chronic anxiety, was trying
+[0:32:39] meditation, was trying all sorts of
+[0:32:41] things. He was ready to go on
+[0:32:42] prescription medicine. He read an early
+[0:32:44] copy of the book.
+[0:32:45] He took it upon himself without
+[0:32:46] consulting with me to restrict
+[0:32:48] carbohydrates alone. He did not go
+[0:32:50] ketogenic. He is a vegetarian. He
+[0:32:53] restricted carbs. Within 3 weeks said,
+[0:32:56] "I don't need prescription medicine. I
+[0:32:59] can't believe how much better I feel."
+[0:33:01] And all I did was cut out some of the
+[0:33:04] high-carb foods in my diet. So, I think
+[0:33:06] for some people it can be that simple.
+[0:33:09] For people with serious mental
+[0:33:11] disorders, if they are chronically
+[0:33:13] depressed, if they're on lots of
+[0:33:14] prescription meds, if they're disabled
+[0:33:16] by their symptoms, and certainly if
+[0:33:19] you're bipolar or have schizophrenia or
+[0:33:21] something, those are the people I really
+[0:33:23] do want them to work with a medical
+[0:33:25] professional because meds may need to be
+[0:33:27] adjusted, they really need a
+[0:33:30] They need a real shot at this diet. It's
+[0:33:34] not like weight loss. Weight loss,
+[0:33:35] everybody wings it.
+[0:33:37] And either you're successful or you
+[0:33:39] aren't. You You look on the internet or
+[0:33:40] you read a book and seeing whether it
+[0:33:43] works or not. But, if you're using it to
+[0:33:45] treat a serious disorder, I think you
+[0:33:47] need serious help.
+[0:33:49] On behalf of myself and the listeners
+[0:33:51] and
+[0:33:51] certainly just on behalf of everybody
+[0:33:53] out there because everyone
+[0:33:56] does need to be concerned about mental
+[0:33:58] health issues whether or not they have
+[0:33:59] them in in their family, themselves, or
+[0:34:01] otherwise because they impact everybody.
+[0:34:03] So, I really want to thank you for doing
+[0:34:05] the work that you're doing. You've given
+[0:34:06] us a lot of hints into the underlying
+[0:34:07] mechanisms that suggest as to why it
+[0:34:09] would work, and you've been us giving us
+[0:34:11] examples as to how it has worked in
+[0:34:14] patients that you've worked with. So,
+[0:34:16] thank you for being brave and for taking
+[0:34:19] this on and doing it in such a
+[0:34:20] structured way, and for communicating it
+[0:34:22] here today and with the general public
+[0:34:24] through your book and your online
+[0:34:26] presence. We will certainly point people
+[0:34:27] in the direction of those valuable
+[0:34:29] resources.
+[0:34:30] Thanks so much. We really appreciate it.
+[0:34:32] >> Thank you, Andrew, for being brave and
+[0:34:34] having me on your
+[0:34:35] >> [laughter]
+[0:34:36] >> show and uh
+[0:34:37] >> It's been a pleasure.
+[0:34:37] >> and for
+[0:34:38] uh for a great conversation.
+[0:34:41] >> [music]

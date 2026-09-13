@@ -1,0 +1,5365 @@
+# Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe
+# id=BMTt8gSl13s published=2023-02-13 lang=en generated=False
+
+[0:00:00] ANDREW HUBERMAN: Welcome to
+the Huberman Lab podcast,
+[0:00:02] where we discuss science
+and science-based tools
+[0:00:04] for everyday life.
+[0:00:05] [MUSIC PLAYING]
+[0:00:09] I'm Andrew Huberman,
+and I'm a professor
+[0:00:10] of nNeurobiology
+and ophthalmology
+[0:00:12] at Stanford School of Medicine.
+[0:00:14] Today, my guest is Dr. Gina Poe.
+[0:00:16] Dr. Gina Poe is a professor in
+the Department of Integrative
+[0:00:19] Biology and Physiology at the
+University of California Los
+[0:00:22] Angeles.
+[0:00:23] Her laboratory and research
+focuses on the relationship
+[0:00:26] between sleep and
+learning, in particular
+[0:00:28] how specific patterns
+of brain activity that
+[0:00:30] are present during
+specific phases of sleep
+[0:00:33] impact our ability
+to learn and remember
+[0:00:36] specific types of information.
+[0:00:38] For instance, procedural
+information-- that
+[0:00:40] is how to perform specific
+cognitive or physical tasks,
+[0:00:43] as well as encoding
+of emotional memories
+[0:00:46] and discarding
+emotional memories.
+[0:00:48] Indeed, her research focuses
+on how specific phases of sleep
+[0:00:51] can act as its own
+form of trauma therapy,
+[0:00:54] discarding the emotional
+tones of memories.
+[0:00:57] In addition, her
+laboratory focuses
+[0:00:59] on how specific phases
+of sleep impact things
+[0:01:01] like the release
+of growth hormone.
+[0:01:04] Growth hormone, of course,
+plays critical roles
+[0:01:06] in metabolism and tissue repair,
+including brain tissue repair,
+[0:01:09] and therefore has critical
+roles in vitality and longevity.
+[0:01:12] Today you will learn many
+things about the relationship
+[0:01:15] between sleep, learning,
+emotionality, and growth
+[0:01:18] hormone.
+[0:01:18] One basic but very
+important takeaway
+[0:01:21] that you'll learn about
+today, which was news to me,
+[0:01:23] is that it's not
+just the duration
+[0:01:26] and depth of your
+sleep that matter,
+[0:01:27] but actually getting to sleep
+at relatively the same time
+[0:01:30] each night ensures that you get
+adequate growth hormone release
+[0:01:34] in the first hours of sleep.
+[0:01:36] In fact, if you require, let's
+say, eight hours of sleep
+[0:01:39] per night, but you go
+to sleep two hours later
+[0:01:42] than your typical bedtime
+on any given night,
+[0:01:45] you actually miss the window
+for growth hormone release.
+[0:01:48] That's right.
+[0:01:49] Getting growth hormone
+release in sleep,
+[0:01:51] which is absolutely critical
+to our immediate and long term
+[0:01:54] health, is not a prerequisite
+of getting sleep,
+[0:01:56] even if we are
+getting enough sleep.
+[0:01:57] As Dr. Poe explains, there
+are critical brain circuits
+[0:02:00] and endocrine, that
+is hormone, circuits
+[0:02:02] that regulate not just the
+duration and depth and quality
+[0:02:05] and timing of sleep,
+but when we place
+[0:02:07] our bout of sleep, that is
+when we go to sleep each night,
+[0:02:10] plus or minus about
+a half hour or so,
+[0:02:12] strongly dictates
+whether or not we
+[0:02:14] will experience all the health
+promoting, including mind
+[0:02:17] promoting, benefits of sleep.
+[0:02:19] Today's episode covers
+that and a lot more
+[0:02:22] in substantial detail.
+[0:02:23] You will learn,
+for instance, how
+[0:02:24] to use sleep in order to
+optimize learning, as well
+[0:02:26] as forgetting, for those things
+that you would like to forget.
+[0:02:29] So during today's
+episode, Dr. Gina Poe
+[0:02:31] shares critical information
+about not just neuroscience,
+[0:02:34] but physiology and
+the hormone systems
+[0:02:36] of the brain and
+body that strongly
+[0:02:37] inform mental health, physical
+health, and performance.
+[0:02:40] So by the end of
+today's episode,
+[0:02:41] you'll be far more informed
+about sleep and how it works,
+[0:02:44] the different roles it
+performs, and you'll
+[0:02:46] have several new
+actionable steps
+[0:02:48] that you can take
+in order to improve
+[0:02:50] your mental health, physical
+health, and performance.
+[0:02:53] Before we begin, I'd
+like to emphasize
+[0:02:54] that this podcast is separate
+from my teaching and research
+[0:02:57] roles at Stanford.
+[0:02:58] It is, however, part
+of my desire and effort
+[0:03:00] to bring zero cost to
+consumer information
+[0:03:02] about science and
+science-related tools
+[0:03:04] to the general public.
+[0:03:05] In keeping with
+that theme, I'd like
+[0:03:07] to thank the sponsors
+of today's podcast.
+[0:03:09] Our first sponsor is LMNT.
+[0:03:11] LMNT is an electrolyte drink
+that has everything you need
+[0:03:14] and nothing you don't.
+[0:03:15] That means plenty of salt,
+magnesium, and potassium,
+[0:03:18] the so-called
+electrolytes, and no sugar.
+[0:03:20] The electrolytes are
+critical to the function
+[0:03:22] of every cell in your
+body, in particular,
+[0:03:24] the neurons, the nerve cells.
+[0:03:26] So I've talked about
+before on this podcast,
+[0:03:28] neurons, nerve cells, require
+adequate sodium and potassium,
+[0:03:32] as well as magnesium,
+in order to fire
+[0:03:34] action potentials, which are
+the electrical signals that
+[0:03:36] allow neurons to do
+everything from generate focus
+[0:03:39] and attention, allow you
+to learn, and generate
+[0:03:42] neuromuscular connection,
+and allow you to exercise
+[0:03:45] or train or do any kind
+of skilled activity
+[0:03:47] with a high degree of output.
+[0:03:48] I take LMNT about two
+or three times per day,
+[0:03:51] typically once in
+the morning and again
+[0:03:53] after or during my bout
+of exercise each day
+[0:03:56] and sometimes an
+additional one if I've
+[0:03:58] sat in a hot sauna
+and sweat a lot
+[0:03:59] or if the weather is very hot.
+[0:04:00] If you'd like to
+try LMNT, you can go
+[0:04:02] to drinklmnt.com/huberman to
+claim a free LMNT sample pack
+[0:04:07] with your purchase.
+[0:04:08] Again, that's
+drinklmnt.com/huberman to claim
+[0:04:12] a free sample pack.
+[0:04:13] Today's episode is also
+brought to us by Helix Sleep.
+[0:04:16] Helix Sleep makes
+mattresses and pillows
+[0:04:18] that are of the absolute
+highest quality.
+[0:04:20] Now, sleep is the foundation of
+mental health, physical health,
+[0:04:23] and performance.
+[0:04:23] When we are sleeping
+well, all of those things
+[0:04:26] excel, and when we
+are not sleeping well,
+[0:04:28] all of those things suffer.
+[0:04:30] Now, the surface
+that you sleep on,
+[0:04:32] that is the mattress that
+you sleep on, is critical,
+[0:04:34] and Helix understands
+that everybody has
+[0:04:36] slightly different sleep needs.
+[0:04:38] So if you were to go to the
+Helix site, which I invite you
+[0:04:40] to do, and take their
+brief two minute quiz,
+[0:04:42] it will match your body
+type and sleep preferences
+[0:04:45] to the perfect mattress for you.
+[0:04:46] It will ask you questions.
+[0:04:47] For instance, do you sleep
+on your back or your side
+[0:04:50] or your stomach?
+[0:04:51] Do you tend to run hot
+or cold during the night?
+[0:04:52] Or maybe you don't know the
+answers to those questions.
+[0:04:55] I went and took the
+sleep quiz at Helix,
+[0:04:57] and it matched me to the
+so-called Dusk Mattress--
+[0:04:59] D-U-S-K. I started sleeping on
+Dusk Mattress over a year ago,
+[0:05:02] and it's the best sleep
+that I've ever had.
+[0:05:04] It's completely transformed the
+depth and duration and quality
+[0:05:07] of my sleep in ways
+that make me feel
+[0:05:09] far better during the daytime.
+[0:05:11] If you're interested in
+upgrading your mattress,
+[0:05:13] you can go to
+helixsleep.com/huberman,
+[0:05:15] take their two
+minute sleep quiz,
+[0:05:17] and they'll match you to
+a customized mattress.
+[0:05:19] And you'll get up to $350 off
+any mattress order and two
+[0:05:23] free pillows.
+[0:05:23] Again, if interested, go to
+helixsleep.com/huberman for up
+[0:05:27] to $350 off and
+two free pillows.
+[0:05:29] Today's episode is also
+brought to us by Eight Sleep.
+[0:05:32] Eight Sleep makes smart mattress
+covers with cooling, heating,
+[0:05:35] and sleep tracking capacity.
+[0:05:37] Now, again, sleep
+is the foundation
+[0:05:39] of mental health, physical
+health, and performance.
+[0:05:41] But what many
+people don't realize
+[0:05:43] is that in order to
+fall and stay asleep,
+[0:05:45] your core body
+temperature has to drop
+[0:05:46] by about one to three degrees.
+[0:05:48] Conversely, in order
+to wake up each morning
+[0:05:50] and feel refreshed,
+your body temperature
+[0:05:53] actually has to increase
+by one to three degrees.
+[0:05:55] Therefore, controlling the
+temperature of your sleeping
+[0:05:57] environment is absolutely key.
+[0:05:59] With Eight Sleep,
+that's very easy to do.
+[0:06:01] Depending on whether
+or not you typically
+[0:06:03] run too cold or too
+hot during the night,
+[0:06:05] you can program
+your sleep mattress
+[0:06:07] cover so that it's the optimal
+temperature not just for you,
+[0:06:10] but for each phase--
+[0:06:11] the early, middle, and
+late phase of your sleep--
+[0:06:14] and for waking up
+in the morning.
+[0:06:15] In fact, you can even control
+the temperature of your sleep
+[0:06:18] mattress cover differentially
+across the mattress
+[0:06:20] if you're sleeping
+alongside somebody else.
+[0:06:22] If you'd like to
+try Eight Sleep,
+[0:06:23] you can go to
+eightsleep.com/huberman
+[0:06:25] and check out their Pod
+Pro cover and save $150
+[0:06:28] at checkout.
+[0:06:29] Eight Sleep currently ships
+in the USA, Canada, UK,
+[0:06:31] and select countries in
+the EU and Australia.
+[0:06:33] Again, that's
+eightsleep.com/huberman to save
+[0:06:37] $150 at checkout.
+[0:06:38] The Huberman Lab
+podcast is now partnered
+[0:06:40] with Momentous Supplements.
+[0:06:41] To find the supplements we
+discuss on the Huberman Lab
+[0:06:43] podcast, you can go to
+livemomentous.com/huberman.
+[0:06:49] And I should just
+mentioned that the library
+[0:06:50] of those supplements is
+constantly expanding.
+[0:06:53] Again, that's
+livemomentous.com/huberman.
+[0:06:56] And now for my discussion
+with Dr. Gina Poe.
+[0:06:58] Dr. Gina Poe, welcome.
+[0:07:00] GINA POE: Thank you.
+[0:07:01] ANDREW HUBERMAN: I've
+really been looking forward
+[0:07:03] to this conversation because
+I'm familiar with your work,
+[0:07:06] and I know that many
+people are going
+[0:07:08] to be excited to
+learn about your work
+[0:07:10] as it relates to
+sleep, as it relates
+[0:07:12] to problem solving, creativity,
+addiction and craving, relapse,
+[0:07:17] and a number of other
+important topics.
+[0:07:19] So to start things
+off, I would love
+[0:07:22] for you to educate us
+a bit about this thing
+[0:07:24] that we are all familiar
+with and yet very few of us
+[0:07:27] understand, which is sleep.
+[0:07:29] And if you would, could you
+describe the various phases
+[0:07:33] of sleep that exist?
+[0:07:34] What distinguish them?
+[0:07:36] And perhaps frame this
+within the context
+[0:07:39] of what would a perfect
+night's sleep look like?
+[0:07:41] GINA POE: OK.
+[0:07:42] ANDREW HUBERMAN: How long
+would it last, more or less,
+[0:07:44] and what would the
+biology look like?
+[0:07:47] What is a perfect night's sleep?
+[0:07:49] GINA POE: Yeah, that's
+a great question.
+[0:07:51] All right.
+[0:07:51] So sleep is really
+different from wakefulness,
+[0:07:54] and in fact can't be replaced
+by any state of wakefulness
+[0:07:58] that we've been able
+to come up with so far.
+[0:08:01] Our brain chemistry is
+completely different.
+[0:08:03] And in the different
+stages of sleep,
+[0:08:05] which there is non-REM and
+REM are the two major states
+[0:08:08] of sleep, and every animal
+we've studied so far
+[0:08:11] seems to have both
+of those states.
+[0:08:13] Anyway, those two states are
+entirely different from one
+[0:08:16] another, too.
+[0:08:17] And even within non-REM,
+there are three states.
+[0:08:19] Stage one, which is what
+you slip into when you first
+[0:08:22] falling asleep-- it's dozing.
+[0:08:24] There's kind of an
+interesting rhythm
+[0:08:26] that goes on in the brain.
+[0:08:27] It's kind of a
+fast, gamma rhythm.
+[0:08:29] And then there's
+stage two, which
+[0:08:31] is a really cool state we
+sort of used to ignore,
+[0:08:35] sleep researchers, because
+it was a transient state
+[0:08:37] between wakefulness
+and the deep stage
+[0:08:39] three, slow wave sleep, which
+is the most impressively
+[0:08:42] different.
+[0:08:43] And between that and REM sleep.
+[0:08:46] So stage two, I'll talk
+a little bit more about.
+[0:08:48] And then the deep,
+slow wave sleep state,
+[0:08:50] which is when big, slow waves
+sweep through our brain.
+[0:08:53] And now we realize that
+it cleans our brain.
+[0:08:56] One of the things that
+those big, slow waves do
+[0:08:58] is cleans our brain and does
+other really important things
+[0:09:01] to restore us from a
+day of wakefulness.
+[0:09:05] And then REM sleep,
+which is the most popular
+[0:09:07] because that's where we
+have the most active dreams.
+[0:09:09] And when you wake up
+someone out of REM sleep,
+[0:09:13] they'll almost always
+report having dreamed
+[0:09:16] something really bizarre.
+[0:09:17] That's called REM sleep,
+rapid eye movement sleep.
+[0:09:20] So those are the four states
+of sleep, of human sleep,
+[0:09:22] and we cycle through them
+every 90 minutes or so.
+[0:09:26] When we go to sleep,
+say 10:30, 11:00,
+[0:09:30] our first REM sleep period
+comes about 105 minutes
+[0:09:34] after we fall asleep and
+lasts about 20 minutes.
+[0:09:38] Actually, it comes
+about 95 minutes
+[0:09:41] and lasts 10 or 15 minutes.
+[0:09:44] And then we start over again.
+[0:09:47] And we have about five of those
+per night for a perfect night's
+[0:09:49] sleep--
+[0:09:50] four or five,
+something like that.
+[0:09:51] So a perfect night's sleep is
+seven and a half, eight hours.
+[0:09:55] There was a really
+great study that
+[0:09:58] put people in a semi-darkened
+room with nothing
+[0:10:01] but the bed for 12 hours
+every day for a month.
+[0:10:04] And what people did
+initially, because we're
+[0:10:06] in a sleep deprived
+nation, is that they
+[0:10:09] slept a lot more than usual,
+like 10 or 11 hours of the 12.
+[0:10:13] And then they leveled
+off after a week or two
+[0:10:16] to about eight hours
+and 15 minutes of sleep.
+[0:10:19] So you actually can't oversleep.
+[0:10:20] I mean, they had nothing
+else to do but sleep,
+[0:10:23] and they would round off to
+an average eight hours and 15
+[0:10:26] minutes a night and then spend
+the rest of the time twiddling
+[0:10:28] their thumbs, humming tunes--
+[0:10:30] ANDREW HUBERMAN: Interesting.
+[0:10:31] GINA POE: --daydreaming.
+[0:10:32] ANDREW HUBERMAN:
+I want to get back
+[0:10:32] to the contour of a
+perfect night's sleep,
+[0:10:34] but I'm intrigued by this idea
+that people can't oversleep.
+[0:10:37] I'm often asked whether or
+not we can get too much sleep
+[0:10:40] and whether or not sleeping
+too long can make us groggy
+[0:10:44] the next day.
+[0:10:45] Is there anything to that?
+[0:10:47] And how does one
+determine how long
+[0:10:50] they should sleep on average?
+[0:10:52] GINA POE: On average, yeah.
+[0:10:53] Well, that's interesting
+because different people seem
+[0:10:57] to need different
+amounts of sleep,
+[0:10:58] but we don't really even know
+exactly what sleep is for.
+[0:11:02] So what they need is kind of--
+[0:11:06] it's murky.
+[0:11:10] So we do know a lot of things
+that sleep does now for us,
+[0:11:14] but we don't know how
+long those things take.
+[0:11:17] So how long we need to sleep is
+also just a big question mark.
+[0:11:21] But some people
+don't feel rested
+[0:11:23] until they've slept nine hours.
+[0:11:24] Some people don't feel rested
+after three or four and a half.
+[0:11:28] But most people, if they
+consistently deprive themselves
+[0:11:32] of sleep so that
+they're only sleeping
+[0:11:34] for four and a
+half hours a night,
+[0:11:36] build up a cognitive deficit
+that just builds up over time.
+[0:11:41] The more nights you have with
+sleep deprivation, the more
+[0:11:45] cognitive deficit you have.
+[0:11:46] And so you need sleep, again,
+to sleep more to recover.
+[0:11:50] Now, the question
+you had about um--
+[0:11:53] ANDREW HUBERMAN:
+Can you oversleep--
+[0:11:55] GINA POE: Can you
+oversleep, right.
+[0:11:56] ANDREW HUBERMAN: Can
+you sleep to the point
+[0:11:56] where it's too much?
+[0:11:58] You know, growing up,
+when I was in high school,
+[0:12:02] my girlfriend's
+dad had this belief
+[0:12:04] that no one should
+sleep in past 6:00 AM.
+[0:12:07] So he would wake all the--
+[0:12:09] there were two
+children in the home.
+[0:12:10] He would wake up the
+kids in that house.
+[0:12:12] He had this thing
+against oversleeping,
+[0:12:13] regardless of when
+people went to sleep,
+[0:12:16] and I always thought that
+was an interesting mentality.
+[0:12:18] GINA POE: Yeah.
+[0:12:19] It's not terrible, actually,
+because what that will do
+[0:12:22] is it will make you
+sleepier the next night
+[0:12:25] to get to bed on time.
+[0:12:26] So it'll build up
+your homeostatic need
+[0:12:29] if you wake up too early.
+[0:12:30] But so I don't think
+you can oversleep.
+[0:12:34] But people who sleep
+a lot, like people
+[0:12:36] who sleep over nine
+hours, it's probably
+[0:12:38] indicative of some other
+problem because in fact,
+[0:12:41] if you have a lot of
+different conditions,
+[0:12:44] it will cause you
+to sleep a lot more.
+[0:12:46] Probably because
+what it does is it
+[0:12:47] interferes with your
+efficient sleep,
+[0:12:49] the efficiency of your sleep.
+[0:12:51] So if you find yourself
+sleeping consistently nine hours
+[0:12:55] plus every night,
+then you might want
+[0:12:57] to consult a doctor about
+maybe what else it might be.
+[0:13:00] It could be cancer.
+[0:13:02] It could be sleep apnea,
+which affects a lot of people.
+[0:13:07] It could be that your
+sleep is super inefficient
+[0:13:09] because you're snoring a
+lot more than you know,
+[0:13:11] or you're waking up a lot more
+than you know every night.
+[0:13:14] So you might want
+a sleep study just
+[0:13:16] to see how your
+sleep is, and then
+[0:13:19] see what else might be
+causing you to sleep so much.
+[0:13:22] ANDREW HUBERMAN:
+And that wouldn't
+[0:13:23] be if somebody is
+sleeping nine or 10
+[0:13:25] hours every once in a while.
+[0:13:27] You mean if they're
+consistently sleeping
+[0:13:29] for more than nine hours.
+[0:13:30] GINA POE: If they feel
+like they need it in order
+[0:13:32] to function cognitively
+the next day,
+[0:13:34] it might be that your sleep
+is just not efficient,
+[0:13:37] and you might want to look
+into why that's the case.
+[0:13:40] ANDREW HUBERMAN: Interesting.
+[0:13:41] Forgive me for the anecdote,
+but I can't resist.
+[0:13:43] Years ago I went to
+an acupuncturist,
+[0:13:45] and he gave me these
+red pills, of which I
+[0:13:50] don't know what they contained.
+[0:13:51] GINA POE: Uh-oh.
+[0:13:52] ANDREW HUBERMAN: But I took
+them because he told me
+[0:13:53] they would help with my sleep.
+[0:13:55] GINA POE: OK.
+[0:13:55] ANDREW HUBERMAN: And
+I would fall asleep
+[0:13:57] about 30 minutes
+after taking them,
+[0:13:58] and I would have
+incredibly vivid dreams.
+[0:14:02] And I'd wake up
+four or five hours
+[0:14:05] after having gone to sleep
+feeling completely rested,
+[0:14:08] something that I've
+never really experienced
+[0:14:10] on a consistent basis.
+[0:14:12] I want to do mass
+spec on these pills.
+[0:14:13] I still have no idea what
+was in them, whatsoever.
+[0:14:16] GINA POE: I want to do mass
+spec on those pills, too.
+[0:14:17] ANDREW HUBERMAN: Yeah, exactly.
+[0:14:18] Some people thought perhaps they
+had GHB, gamma hydroxybutyrate,
+[0:14:21] which is, by the
+way, an illegal drug.
+[0:14:23] It can kill you.
+[0:14:24] It's not something
+you want to take.
+[0:14:25] GINA POE: No, that's not good.
+[0:14:26] ANDREW HUBERMAN: But anyway,
+if ever someone can figure out
+[0:14:29] what the red pills
+were, I'll be very--
+[0:14:30] GINA POE: That's really great.
+[0:14:32] ANDREW HUBERMAN: And this is
+not a red pill of the other sort
+[0:14:34] red pill.
+[0:14:34] This is just the
+red sleep pills.
+[0:14:36] GINA POE: Interesting.
+[0:14:37] I mean, it could have
+been even a placebo effect
+[0:14:39] because placebo is
+extremely strong.
+[0:14:41] ANDREW HUBERMAN:
+Although, I don't know.
+[0:14:43] There was really something
+to these red pills.
+[0:14:45] So shout out to
+the acupuncturists
+[0:14:47] in Eastern medicine.
+[0:14:50] But to return this to this
+idea of the architecture
+[0:14:54] of a perfect night's sleep.
+[0:14:55] So you said we fall asleep.
+[0:14:58] The first 90 minutes of sleep.
+[0:15:01] REM sleep, rapid
+eye movement sleep,
+[0:15:03] will arrive at
+about 95 minutes in.
+[0:15:05] Does that mean that the
+rest of that 90 minutes
+[0:15:09] is consumed with
+slow wave sleep?
+[0:15:11] GINA POE: Yeah, non-REM sleep.
+[0:15:12] ANDREW HUBERMAN: OK.
+[0:15:13] And what about the sleep
+where we are lightly asleep,
+[0:15:16] and we might have a
+dream that has us somehow
+[0:15:20] thinking about movement or
+that we jolt ourselves awake?
+[0:15:22] That often happens early
+in the night, right?
+[0:15:24] GINA POE: Yeah, that's
+the first stage--
+[0:15:26] stage one and
+stage two of sleep.
+[0:15:28] And stage two sleep
+is really cool
+[0:15:30] because that has something
+called sleep spindles
+[0:15:34] and K-complexes.
+[0:15:35] And what sleep spindles are are
+a little bit of activity that's
+[0:15:40] 10 to 15 hertz in frequency.
+[0:15:43] It's a conversation between
+the thalamus and the cortex.
+[0:15:47] The thalamus is the
+gateway to consciousness,
+[0:15:49] and the neocortex processes
+all our cognition.
+[0:15:53] And so it's these spindles.
+[0:15:57] They're called sleep spindles.
+[0:15:59] And if you wake up
+out of that state,
+[0:16:01] you will often report a dream,
+like a hallucination style
+[0:16:05] dream.
+[0:16:05] It won't be a long dream report
+like you have out of REM sleep,
+[0:16:09] but it will be some
+hallucination state.
+[0:16:11] And while we're
+falling asleep, one
+[0:16:13] of the reasons we
+call it falling asleep
+[0:16:15] is because in stage
+one and stage two
+[0:16:17] our muscles are relaxing.
+[0:16:19] And if there's part of our
+brain that's conscious enough
+[0:16:22] to sort of recognize
+that relaxation,
+[0:16:24] we'll feel like we're
+falling, and we'll jerk awake.
+[0:16:28] So often that hallucination--
+it's called hypnagogic
+[0:16:31] hallucination-- will feel like--
+[0:16:33] it'll include some
+falling aspect
+[0:16:35] that we'll wake up out of.
+[0:16:37] ANDREW HUBERMAN: That's
+really interesting to me.
+[0:16:39] I've long felt that
+sensation of almost, like,
+[0:16:43] dropping back into my head.
+[0:16:45] So much so that if I elevate
+my feet just slightly
+[0:16:48] and I tilt my head back
+just slightly in order
+[0:16:51] to go to sleep, I find that
+I fall asleep much faster.
+[0:16:53] GINA POE: Interesting.
+[0:16:54] ANDREW HUBERMAN:
+But it does feel
+[0:16:54] as if I'm going to
+fall, like, almost going
+[0:16:56] to do a backward somersault.
+I actually really like
+[0:16:58] the sensation and
+usually because it
+[0:17:00] precedes falling deeply asleep.
+[0:17:01] GINA POE: Yeah, that's
+really interesting.
+[0:17:03] Somebody has to do a study
+of elevated feet and--
+[0:17:06] ANDREW HUBERMAN: Yeah, there's
+a little bit on body position
+[0:17:10] and sleep in some of the
+washout that we'll talk about.
+[0:17:12] So early in the night you've got
+these lighter stages of sleep,
+[0:17:16] less rapid eye movement sleep.
+[0:17:18] What can we say about the
+dreams that occur during the,
+[0:17:21] say, first and second
+90-minute cycles of sleep.
+[0:17:26] Are they quite different
+than the patterns
+[0:17:29] of sleep and dreaming that
+occur later in the night
+[0:17:31] or toward morning?
+[0:17:32] GINA POE: Well, OK, that's
+an interesting question,
+[0:17:34] and there's a lot
+of facets to it.
+[0:17:37] There is some evidence that
+the first four hours of sleep
+[0:17:41] are very important
+for memory processing.
+[0:17:44] And in fact, if you've
+learned something new that day
+[0:17:49] or have experienced a new
+sensory motor experience,
+[0:17:54] then your early
+sleep dreams will
+[0:17:58] incorporate that experience
+much more than the later sleep
+[0:18:01] dreams.
+[0:18:02] Later, as that memory
+gets consolidated
+[0:18:04] from the early
+structures, which are
+[0:18:07] the hippocampus deep in the
+temporal lobe to the cortex
+[0:18:10] in a distributed
+fashion, that memory
+[0:18:13] seems to move from that
+hippocampus to the cortex.
+[0:18:17] And also the dreams that
+incorporate that memory also
+[0:18:20] move later in the night.
+[0:18:21] So nobody knows
+why, but it does.
+[0:18:25] There was a great study
+by Siddhartha Ribeiro
+[0:18:29] who studied the consolidation
+of memories from the hippocampus
+[0:18:33] to the cortex in a rat across
+the period of a full day's
+[0:18:39] sleep because rats
+sleep in the daytime.
+[0:18:41] And he found that each
+subsequent REM sleep period
+[0:18:45] moved that memory
+from the hippocampus
+[0:18:48] to the first area
+that projects to it,
+[0:18:51] and then the second area,
+and then the third area.
+[0:18:53] And you can see the memory
+moving throughout the sleep
+[0:18:57] period.
+[0:18:58] ANDREW HUBERMAN: Cool.
+[0:18:58] Very cool.
+[0:18:59] I have to read that study.
+[0:19:01] So there's a number of
+different hormones associated
+[0:19:05] with the different
+stages of sleep.
+[0:19:06] We know that melatonin
+is a hormone--
+[0:19:09] GINA POE: Of nighttime.
+[0:19:10] ANDREW HUBERMAN: --of
+nighttime that makes us sleepy.
+[0:19:12] What about growth
+hormone release?
+[0:19:14] When does that
+occur during sleep?
+[0:19:15] GINA POE: So growth
+hormone release
+[0:19:17] happens all day long
+and all night long,
+[0:19:19] but the deep, slow
+wave sleep that you
+[0:19:21] get the very first
+sleep cycle is
+[0:19:25] when you get a big bolus
+of growth hormone release,
+[0:19:28] in men and women equally.
+[0:19:31] And if you miss that first
+deep, slow wave sleep period,
+[0:19:34] you also miss that big bolus
+of growth hormone release.
+[0:19:38] And you might get, ultimately
+across the day, just as much
+[0:19:42] overall growth hormone
+release, but endocrinologists
+[0:19:45] will tell you that big
+boluses do different things
+[0:19:48] than a little bit
+eked out over time.
+[0:19:50] So that is what we know.
+[0:19:53] There's also a big push
+to synthesize proteins.
+[0:19:58] So that's when the
+protein synthesis
+[0:20:02] part that builds memories,
+for example, in our brain
+[0:20:05] happens in that
+first cycle of sleep.
+[0:20:08] So you don't want to miss
+that, especially if you've
+[0:20:10] learned something really big
+and needs more synaptic space
+[0:20:14] to encode it.
+[0:20:14] ANDREW HUBERMAN:
+How would somebody
+[0:20:16] miss that first 90 minutes?
+[0:20:17] GINA POE: Sleep
+depriving themselves.
+[0:20:19] Yeah.
+[0:20:19] ANDREW HUBERMAN: So
+let's say I normally
+[0:20:21] go to sleep at 10:00 PM.
+[0:20:24] And then from 10:00
+to 11:30 would
+[0:20:26] be this first phase
+of sleep, and that's
+[0:20:28] when the big bolus of growth
+hormone would be released.
+[0:20:31] Does that mean that
+if I go to sleep
+[0:20:33] instead at 11:30 or
+midnight that I missed
+[0:20:35] that first phase of sleep?
+[0:20:37] Why is it not the case that I
+get that first phase of sleep
+[0:20:40] just simply starting later?
+[0:20:41] GINA POE: It is
+a beautiful clock
+[0:20:44] that we have in
+our body that knows
+[0:20:45] when things should happen.
+[0:20:46] And it's-- every cell
+in our body has a clock.
+[0:20:49] And all of those clocks
+are normally synchronized.
+[0:20:52] And those circadian
+clocks are synchronized.
+[0:20:56] And so our cells are ready to
+respond to that growth hormone
+[0:21:01] release at a particular time.
+[0:21:03] And if we miss it-- and it's a
+time in relation to melatonin
+[0:21:06] also--
+[0:21:07] so if you miss it, yeah, you
+might get some growth hormone
+[0:21:10] release.
+[0:21:11] But it's occurring at a time
+when your clock has already
+[0:21:14] moved to the next phase.
+[0:21:15] And so it's just a clock thing.
+[0:21:18] ANDREW HUBERMAN: Yeah.
+[0:21:19] I don't think we can overstate
+the importance of what you just
+[0:21:22] described.
+[0:21:22] And to be honest,
+despite knowing a bit
+[0:21:24] about the sleep research
+in circadian biology,
+[0:21:26] this is the very first time
+that I've ever heard this
+[0:21:30] that if you normally go to sleep
+at a particular time and growth
+[0:21:34] hormone is released in
+that first phase of sleep,
+[0:21:36] that you can't simply
+initiate your sleep out
+[0:21:38] later and expect to capture
+that first phase of sleep.
+[0:21:41] GINA POE: Yeah.
+[0:21:42] ANDREW HUBERMAN:
+That's incredible
+[0:21:43] and I think
+important and as many
+[0:21:46] listeners are probably realizing
+also highly actionable.
+[0:21:49] So what this means
+is that we should
+[0:21:50] have fairly consistent
+bedtimes in addition
+[0:21:53] to fairly consistent wake times.
+[0:21:54] Is that right?
+[0:21:55] GINA POE: Exactly.
+[0:21:56] And in fact, one
+of the best markers
+[0:21:58] of good neurological
+health when we get older
+[0:22:01] is consistent bedtimes.
+[0:22:04] ANDREW HUBERMAN: Wow.
+[0:22:05] OK.
+[0:22:07] I don't want to backtrack.
+[0:22:08] But I did write down
+something that I
+[0:22:10] think is important for me to
+resolve or for you to resolve.
+[0:22:14] So I'm going to ask
+this people that
+[0:22:16] sleep nine hours or more perhaps
+that reflecting an issue--
+[0:22:20] some underlying
+issue, perhaps, is
+[0:22:23] being a teenager
+or an adolescent
+[0:22:25] and undergoing a
+stage of development
+[0:22:28] where there's a lot of
+bodily and brain growth
+[0:22:30] and exception to that, because--
+[0:22:31] GINA POE: Yes.
+[0:22:32] ANDREW HUBERMAN: --I don't
+recall sleeping a ton
+[0:22:34] when I was a teenager.
+[0:22:35] I had a ton of energy.
+[0:22:36] But I know a few teenagers.
+[0:22:39] And they sleep a lot.
+[0:22:40] GINA POE: Yeah
+[0:22:41] ANDREW HUBERMAN: Like they'll
+just sleep, and sleep,
+[0:22:42] and sleep, and sleep.
+[0:22:43] Should we let them sleep,
+and sleep, and sleep?
+[0:22:44] GINA POE: Let them sleep.
+[0:22:45] ANDREW HUBERMAN: OK.
+[0:22:45] So that's the one exception.
+[0:22:47] What about--
+[0:22:47] GINA POE: Just like babies.
+[0:22:48] ANDREW HUBERMAN: OK.
+[0:22:49] GINA POE: When you're developing
+something in your brain
+[0:22:51] or the rest of your
+body, you really
+[0:22:53] need sleep to help
+organize that.
+[0:22:56] Sleep is doing really hard
+work in organizing our brains
+[0:22:59] and making it develop right.
+[0:23:01] And if we deprive
+ourselves of sleep,
+[0:23:03] we will-- actually,
+also just like I said,
+[0:23:06] we have a daily clock.
+[0:23:08] We also have a
+developmental clock.
+[0:23:10] And we can miss a
+developmental window
+[0:23:12] if we don't let ourselves
+sleep extra like we need to.
+[0:23:16] ANDREW HUBERMAN: What other
+things inhibit growth hormone
+[0:23:18] release or other components
+of this first stage of sleep?
+[0:23:21] In other words, if I
+go to sleep religiously
+[0:23:23] every night at
+10:00 PM, are there
+[0:23:26] things that I, perhaps,
+do in the preceding
+[0:23:28] hours of the preceding day
+like ingest caffeine or alcohol
+[0:23:32] that can make that
+first stage of sleep
+[0:23:34] less effective even if I'm
+going to sleep at the same time?
+[0:23:37] GINA POE: Alcohol definitely
+will do that because alcohol
+[0:23:39] is a REM sleep suppressant.
+[0:23:41] And it even suppresses
+some of that stage two
+[0:23:43] transition to REM with
+those sleep spindles.
+[0:23:45] And those sleep
+spindles, we didn't
+[0:23:46] talk about their
+function yet, but they're
+[0:23:48] really important for moving
+memories to our cortex.
+[0:23:52] It's a unique time
+when our hippocampus,
+[0:23:55] like the RAM of our brains,
+writes it to a hard disk which
+[0:24:01] is the cortex.
+[0:24:02] And it's a unique time
+when they're connected.
+[0:24:04] So if you don't
+want to miss that,
+[0:24:06] you don't want to miss
+REM sleep when it's also
+[0:24:08] a part of the consolidation
+process and schema changing
+[0:24:13] process, and alcohol in
+there before we go to sleep
+[0:24:17] will do that.
+[0:24:18] Until we've metabolized alcohol
+and put it out of our bodies,
+[0:24:21] it will affect our sleep badly.
+[0:24:24] ANDREW HUBERMAN: So
+probably fair to say
+[0:24:26] no ingestion of alcohol
+within the four to six
+[0:24:30] hours preceding sleep?
+[0:24:31] GINA POE: Yeah.
+[0:24:32] ANDREW HUBERMAN:
+Given the half life?
+[0:24:33] GINA POE: Given the half--
+[0:24:33] ANDREW HUBERMAN: Or at all--
+or at all would be better.
+[0:24:35] But I know some people
+refuse to go that way.
+[0:24:37] GINA POE: And maybe
+a little bit is OK.
+[0:24:39] I don't know what
+the dose response is.
+[0:24:41] But there are studies out
+there you can look at.
+[0:24:44] ANDREW HUBERMAN: Great.
+[0:24:45] GINA POE: Yeah.
+[0:24:46] ANDREW HUBERMAN: So we're still
+in the first stage of sleep.
+[0:24:48] And I apologize for
+slowing us down.
+[0:24:49] But it sounds like it's
+an incredibly important,
+[0:24:52] first phase of sleep.
+[0:24:54] What about the second and third
+90-minute blocks of sleep?
+[0:24:57] Is there anything that
+makes those unique?
+[0:25:00] What is their signature
+besides the fact that they come
+[0:25:03] second and third in the night?
+[0:25:05] GINA POE: There's more
+and more REM sleep
+[0:25:06] the later the night we get.
+[0:25:08] There's also a
+change in hormones.
+[0:25:11] The growth hormone and melatonin
+levels are starting to decline.
+[0:25:16] But other hormones
+are picking up.
+[0:25:18] So it is a really
+different stage
+[0:25:21] that you also don't want
+to shortchange yourself on.
+[0:25:24] And I think that's the stage
+many studies are showing
+[0:25:27] that those are the
+times in sleep when
+[0:25:30] the most creativity can happen.
+[0:25:32] That's when our dreams can
+incorporate and put together
+[0:25:35] old and new things
+together into a new way.
+[0:25:40] And our schema are
+built during that time.
+[0:25:42] So yeah, we can
+change our minds best
+[0:25:46] during those phases of sleep.
+[0:25:47] ANDREW HUBERMAN: Could you
+elaborate a little bit more
+[0:25:49] on schema?
+[0:25:50] GINA POE: Yeah.
+[0:25:51] ANDREW HUBERMAN: No one--
+[0:25:51] I don't think anyone
+on this podcast
+[0:25:53] has ever discussed schema.
+[0:25:54] I'm a little bit
+familiar with schema
+[0:25:56] from my courses on psychology.
+[0:25:58] But it's been a while.
+[0:25:59] So maybe you could just
+refresh mind and everyone--
+[0:26:01] GINA POE: Well, it's
+still a concept.
+[0:26:03] ANDREW HUBERMAN: Sure.
+[0:26:04] GINA POE: Schema--
+[0:26:04] ANDREW HUBERMAN: How do you--
+how do you define schema?
+[0:26:06] GINA POE: Right.
+[0:26:07] I think of schema as--
+[0:26:11] like we have a schema
+of Christmas, right?
+[0:26:14] We have all kinds of ideas
+that were so together
+[0:26:17] and called Christmas,
+a holiday season.
+[0:26:20] In the northern
+hemisphere, it's cold.
+[0:26:22] We have Santa Claus, and
+reindeer, and jingle bells,
+[0:26:26] and even things that are
+false but we normally
+[0:26:30] associate with Christmas
+presents, family gathering when
+[0:26:33] it is.
+[0:26:34] All of this stuff is
+sewn together into one--
+[0:26:37] there's a thread
+linking them all.
+[0:26:39] And we can just give ourselves a
+list of words, and none of them
+[0:26:44] contain the word Christmas.
+[0:26:45] And then ask people later,
+give them another list of words
+[0:26:50] and include the word Christmas.
+[0:26:51] And they'll say, oh,
+yeah, that word was there,
+[0:26:53] because in their
+minds they brought up
+[0:26:55] that word, Christmas, because
+it's part of that whole schema.
+[0:26:58] So that's what-- it's
+sort of a related--
+[0:27:02] lot of related
+concepts, I guess.
+[0:27:04] ANDREW HUBERMAN: I think about
+the desktop of my computer
+[0:27:07] would scare some people.
+[0:27:08] But it's just a ton of folders.
+[0:27:10] GINA POE: Yeah.
+[0:27:10] ANDREW HUBERMAN: But
+each of the folder names
+[0:27:11] mean something very
+clear and specific to me.
+[0:27:13] GINA POE: Right.
+[0:27:14] ANDREW HUBERMAN:
+And inside of those
+[0:27:15] folders are collections
+of things that make sense
+[0:27:17] in terms of how they're batch.
+[0:27:19] Is that one way to think about--
+[0:27:20] GINA POE: No, that's a
+great way to think of it.
+[0:27:22] And when you're in REM
+sleep in the later parts
+[0:27:24] of the night and that
+transition to REM,
+[0:27:27] that's when your
+computer of your brain
+[0:27:30] is opening folders and comparing
+documents, seeing if-- is there
+[0:27:33] anything the same?
+[0:27:35] These two documents
+look very much the same,
+[0:27:37] but there's a little
+bit of difference.
+[0:27:39] And it can link
+those conceptually.
+[0:27:41] So that's probably one of
+the origins of creativity
+[0:27:44] is finding things
+that are related,
+[0:27:47] maybe just linked a little bit.
+[0:27:49] And you can find that
+link and strengthen it
+[0:27:51] if it makes your schema
+interesting and different.
+[0:27:56] ANDREW HUBERMAN: Yeah,
+very interesting.
+[0:27:58] Many people, including
+myself tend to wake
+[0:28:00] up maybe once during
+the middle of the night
+[0:28:02] to use the restroom.
+[0:28:03] I've tried to drink less
+fluid before going to sleep.
+[0:28:06] I've heard also that the impulse
+to urinate, forgive the topic,
+[0:28:12] but a lot of people deal with
+this, so the impulse to urinate
+[0:28:15] is also dictated by how quickly
+you drink fluid, not just
+[0:28:17] the total volume.
+[0:28:18] So I've switched
+to sipping fluids
+[0:28:20] more slowly from my last
+beverage of the day which
+[0:28:22] seems to help.
+[0:28:23] But the point here is that
+I think a lot of people
+[0:28:25] wake up once in the middle
+of the night oftentimes
+[0:28:27] to use the restroom but
+oftentimes just around 3:00 AM
+[0:28:30] and might be up
+for a few minutes,
+[0:28:32] hopefully not on their phone or
+viewing any bright light which
+[0:28:35] can cause more wakefulness,
+but then go back to sleep.
+[0:28:38] Is there any known detriment to
+this middle of the night waking
+[0:28:42] or should we
+consider it a normal
+[0:28:44] feature for some people's
+sleep architecture?
+[0:28:46] GINA POE: Yeah.
+[0:28:47] I think we shouldn't
+worry about it actually.
+[0:28:49] I think sleep is really
+incredibly well homeostatically
+[0:28:53] regulated.
+[0:28:53] And so really, don't worry
+about how much you're sleeping,
+[0:28:57] as long as you're
+not intentionally
+[0:28:58] depriving yourself of sleep
+by doing something really
+[0:29:01] rewarding and exciting
+because even that is
+[0:29:03] stressful to your body and
+deprives you of a lot of things
+[0:29:06] we're talking about.
+[0:29:07] So don't worry about it.
+[0:29:10] It's absolutely normal
+to wake up at least
+[0:29:12] once in the middle of the
+night to go to the bathroom.
+[0:29:15] And as long as you
+can get back to sleep
+[0:29:17] in a reasonable
+amount of time or even
+[0:29:20] if it takes you an hour,
+don't worry about it,
+[0:29:22] as long as you have a lifestyle
+that allows you to then make up
+[0:29:26] that sleep either the next
+morning or the next night
+[0:29:29] or going to bed
+a little earlier.
+[0:29:31] ANDREW HUBERMAN: So if
+I understand correctly,
+[0:29:32] there's a little bit of
+asymmetry to sleep that
+[0:29:34] catching that first phase of
+sleep it's like you either get
+[0:29:38] it or you don't.
+[0:29:38] And you have to get
+it by going to sleep
+[0:29:40] essentially the same time each
+night, maybe plus or minus
+[0:29:43] 15 minutes or so.
+[0:29:44] GINA POE: Yeah.
+[0:29:45] ANDREW HUBERMAN: But then
+if I wake up in the middle
+[0:29:47] of the night and go back
+to sleep I cannot catch up,
+[0:29:49] but I can gather all the sleep
+that I would have gotten had I
+[0:29:52] just slept the whole
+way through the night.
+[0:29:54] Is that right?
+[0:29:54] GINA POE: Yeah, yeah, yeah.
+[0:29:55] And we don't know
+actually the answer to
+[0:29:58] whether or not the sleep in the
+middle between that early sleep
+[0:30:01] and the late sleep is, in fact,
+different for another reason.
+[0:30:04] And whether depriving
+yourself of sleep from say,
+[0:30:07] 1:00 to 2:30 in the morning
+is bad in a different way,
+[0:30:11] we don't know.
+[0:30:12] ANDREW HUBERMAN:
+Well, I suppose I
+[0:30:13] am the experiment in
+that case, because I do
+[0:30:15] tend to wake up once per night.
+[0:30:16] And I've come to recognize
+it as part of my normal sleep
+[0:30:20] architecture.
+[0:30:20] I don't obsess over it.
+[0:30:22] I do notice that when
+I go back to sleep
+[0:30:24] and especially toward morning
+that my sleep is incredibly
+[0:30:27] deep.
+[0:30:28] My dreams are incredibly vivid.
+[0:30:29] GINA POE: That's great.
+[0:30:30] ANDREW HUBERMAN: I don't
+always remember them.
+[0:30:32] But what is unique, perhaps,
+about the architecture
+[0:30:35] of dreams and
+sleep in the, let's
+[0:30:37] say the last third of the
+night or the second half
+[0:30:40] of the night?
+[0:30:41] GINA POE: Right, yeah.
+[0:30:41] In the second half
+of the night, we
+[0:30:43] have longer REM sleep periods.
+[0:30:44] And those are considered
+the deepest sleep,
+[0:30:48] even though slow wave sleep, big
+slow wave is considered deep.
+[0:30:52] It is deep.
+[0:30:53] ANDREW HUBERMAN: They call
+slow wave sleep deep sleep
+[0:30:55] and REM sleep rapid.
+[0:30:56] But now, you're telling me
+that REM sleep is actually
+[0:30:58] the deeper sleep?
+[0:30:59] OK.
+[0:30:59] There needs to be
+a new nomenclature
+[0:31:01] of sleep researchers.
+[0:31:01] GINA POE: You really shouldn't
+call it deeper night.
+[0:31:03] ANDREW HUBERMAN: No, please.
+[0:31:04] GINA POE: The
+reason why they call
+[0:31:05] slow wave sleep deep
+sleep is because it's
+[0:31:07] difficult to arouse
+people out of that state.
+[0:31:10] And when you do arouse
+them out of that state,
+[0:31:12] they are most often confused and
+just want to go back into sleep
+[0:31:16] and can go back pretty easily.
+[0:31:18] If you arouse someone
+out of REM sleep,
+[0:31:20] they're more likely to
+report something that was
+[0:31:22] really almost like wakefulness.
+[0:31:24] It was so vivid.
+[0:31:26] But in fact, if you give
+someone a non-threatening kind
+[0:31:32] of stimulation like somebody
+dropping keys, or a ping,
+[0:31:37] or something like that,
+instead of waking--
+[0:31:39] that same volume will wake
+someone up out of non-REM sleep
+[0:31:44] but out of REM sleep and instead
+lengthen the amount of time
+[0:31:47] or make it even more dense--
+[0:31:49] your rapid eye
+movements more dense.
+[0:31:51] And often people will
+incorporate that sound
+[0:31:53] into their dreams.
+[0:31:55] ANDREW HUBERMAN: So the
+body and brain are somehow
+[0:31:57] conscious of the of the sound.
+[0:32:00] And I've heard also
+smells can even make it
+[0:32:02] into our dreams in REM sleep.
+[0:32:05] But that it doesn't rouse us--
+[0:32:07] GINA POE: It doesn't
+arouse us as often, yeah.
+[0:32:09] ANDREW HUBERMAN: Interesting.
+[0:32:09] GINA POE: And maybe one of
+the reasons why REM sleep
+[0:32:12] is deeper especially in adults
+and older people, that deep
+[0:32:16] slow wave sleep goes away.
+[0:32:17] So it's not as deep.
+[0:32:19] It's not as big.
+[0:32:20] The slow waves aren't as large
+which is probably problematic,
+[0:32:23] but we are not sure.
+[0:32:24] And so then REM sleep
+becomes the deepest stage.
+[0:32:28] Actually in children,
+it's kind of a toss
+[0:32:31] up, because it's really
+hard to wake them up out
+[0:32:34] of that deep slow wave sleep.
+[0:32:35] And in fact, fire alarms
+don't wake them up,
+[0:32:39] even really loud fire alarms
+out of that state of sleep.
+[0:32:43] So that's why they're trying
+to change fire alarms so
+[0:32:46] that instead of something
+that the kids don't associate
+[0:32:51] with anything like the,
+whatever, they don't associate
+[0:32:54] them, it says their
+name or something else
+[0:32:57] that may be less loud
+but more salient to them
+[0:33:01] and will wake them up.
+[0:33:02] ANDREW HUBERMAN: I don't
+know having carried
+[0:33:04] sleeping children
+in from the car,
+[0:33:05] I don't know that I want
+children to start waking up
+[0:33:07] from sleep because that's
+one of the best things when
+[0:33:09] we get home and the kids
+are asleep in the backseat.
+[0:33:11] You can literally throw
+them over your shoulder,
+[0:33:13] gently of course, and
+put them to sleep.
+[0:33:16] They are completely out.
+[0:33:18] GINA POE: Yeah, it's wonderful.
+[0:33:19] ANDREW HUBERMAN:
+It is wonderful,
+[0:33:20] one of nature's gifts.
+[0:33:22] I'd like to take a quick
+break and acknowledge
+[0:33:24] one of our sponsors,
+Athletic Greens.
+[0:33:26] Athletic Greens, now called AG1,
+is a vitamin mineral probiotic
+[0:33:31] drink that covers all of your
+foundational nutritional needs.
+[0:33:34] I've been taking Athletic
+Greens since 2012.
+[0:33:37] So I'm delighted that they're
+sponsoring the podcast.
+[0:33:39] The reason I started
+taking Athletic Greens,
+[0:33:41] and the reason I still
+take Athletic Greens once
+[0:33:43] or usually twice a day is
+that it gets me the probiotics
+[0:33:47] that I need for gut health.
+[0:33:48] Our gut is very important.
+[0:33:49] It's populated by
+gut microbiota that
+[0:33:52] communicate with the brain, the
+immune system, and basically
+[0:33:54] all the biological
+systems of our body
+[0:33:56] to strongly impact our
+immediate and long term health.
+[0:34:00] And those probiotics
+and Athletic Greens
+[0:34:02] are optimal and vital
+for microbiome health.
+[0:34:05] In addition, Athletic
+Greens contains a number
+[0:34:07] of adaptogens,
+vitamins, and minerals
+[0:34:09] that make sure that all of my
+foundational nutritional needs
+[0:34:12] are met.
+[0:34:12] And it tastes great.
+[0:34:14] If you'd like to
+try Athletic Greens,
+[0:34:16] you can go to
+athleticgreens.com/huberman.
+[0:34:19] And they'll give you
+five free travel packs
+[0:34:21] that make it really easy to mix
+up Athletic Greens while you're
+[0:34:24] on the road, in the car,
+on the plane, et cetera.
+[0:34:26] And they'll give you a year
+supply of vitamin D-3 K-2.
+[0:34:29] Again, that's
+athleticgreens.com/huberman
+[0:34:32] to get the five free travel
+packs and the year supply
+[0:34:35] of vitamin D-3 K-2.
+[0:34:36] So this enhanced
+volume or proportion
+[0:34:41] of rapid eye movement sleep in
+the second half of the night
+[0:34:44] relates to more
+elaborate dreams.
+[0:34:47] We are paralyzed during
+REM sleep, correct?
+[0:34:49] GINA POE: Yes,
+normally paralyzed.
+[0:34:51] And that's really
+good, because that's
+[0:34:53] the time when we're actively
+dreaming storyline dreams.
+[0:34:57] And we could hurt ourselves.
+[0:34:59] We're actually really cut
+off from the outside world
+[0:35:03] in terms of responding
+to, say, this table,
+[0:35:07] or window, or a door.
+[0:35:09] And so different from
+sleepwalking which
+[0:35:12] is out of slow wave sleep.
+[0:35:13] And out of slow wave
+sleep, that sleepwalking
+[0:35:15] is a mixture between
+sleep and wakefulness.
+[0:35:18] So you actually will
+respond to the door,
+[0:35:19] or you can cook a full meal,
+drive your car while you're
+[0:35:23] in deep slow wave sleep.
+[0:35:24] It's scary, because you never
+know what you're going to do.
+[0:35:27] You don't have voluntary,
+involuntary control over it.
+[0:35:30] You have no conscious
+control over it.
+[0:35:31] But you can actually
+safely navigate
+[0:35:34] some situations in
+sleepwalking and actually have
+[0:35:39] a conversation.
+[0:35:40] Although, it may not make
+much sense when you're sleep
+[0:35:42] talking.
+[0:35:43] In REM sleep, you're not
+processing the outside world.
+[0:35:47] And instead, when you're
+acting out your dreams,
+[0:35:50] you could be doing things like
+walking through a plate glass
+[0:35:53] window or falling off of down
+the stairs, things like that.
+[0:35:58] So you really want
+your muscles to be
+[0:36:01] inactivated during REM sleep.
+[0:36:03] Otherwise, you will
+act out those dreams
+[0:36:05] and really hurt yourself
+or your bed partner.
+[0:36:08] ANDREW HUBERMAN: What about
+sleep talking or talking
+[0:36:11] in sleep?
+[0:36:12] I don't know how many
+relationships have
+[0:36:14] been saved by sleep talking.
+[0:36:16] But I'm guessing a few
+have been destroyed.
+[0:36:18] And I'm guessing that talking
+in sleep could have meaning
+[0:36:22] or perhaps has no
+meaning just as dreams
+[0:36:25] could have meaning or no
+meaning, as we recall them.
+[0:36:27] GINA POE: Yeah.
+[0:36:28] Do not take sleep talking
+seriously no matter
+[0:36:30] what people say.
+[0:36:31] It doesn't necessarily
+reflect truth.
+[0:36:34] So it's not like you're
+being more truthful when
+[0:36:36] you're sleep talking.
+[0:36:37] ANDREW HUBERMAN: You just saved
+a number of relationships.
+[0:36:39] GINA POE: I hope so.
+[0:36:41] ANDREW HUBERMAN: I'm not
+directing this at anyone
+[0:36:42] in particular.
+[0:36:42] But I guarantee you just did.
+[0:36:45] Noted.
+[0:36:47] So as people start to
+approach morning or the time
+[0:36:51] when they normally
+would wake up,
+[0:36:54] I've heard that it's
+important to, if possible,
+[0:36:57] complete one of these 90-minute
+cycles prior to waking up.
+[0:37:01] That is if you set
+your alarm for halfway
+[0:37:04] through one of these 90-minute
+cycles that come late
+[0:37:06] in the night of sleep,
+that it can lead to rather
+[0:37:11] groggy patterns of waking.
+[0:37:13] So I'll just ask you directly.
+[0:37:15] Do you use an alarm clock?
+[0:37:17] GINA POE: I do not.
+[0:37:18] Thankfully, I'm
+in a line of work
+[0:37:20] that doesn't require me
+normally to do anything
+[0:37:23] at any particular time.
+[0:37:24] I do it when I do it.
+[0:37:25] Unless I have to
+catch a plane and then
+[0:37:27] I always set my
+alarm just in case.
+[0:37:29] ANDREW HUBERMAN: Well,
+as a fellow academic,
+[0:37:30] I can tell you there are
+plenty of punishing features
+[0:37:32] about being an
+academic scientist that
+[0:37:35] offset the fact that you don't
+have to use an alarm clock.
+[0:37:37] But it is nice that you can
+often set your own schedule.
+[0:37:40] So would you recommend
+that if possible
+[0:37:42] that people not
+use an alarm clock?
+[0:37:44] GINA POE: Yeah, absolutely.
+[0:37:45] If you can just
+listen to your body
+[0:37:47] and wake up when you need to
+wake up, that would be great.
+[0:37:51] But one of the reasons why we
+have such a grogginess, it's
+[0:37:55] called sleep inertia
+when we wake up
+[0:37:56] out of the wrong state which
+is deep slow wave sleep,
+[0:38:00] is because--
+[0:38:01] I liken it to like a
+washing machine cycle.
+[0:38:04] This 90-minute cycle is like
+a washing machine cycle.
+[0:38:07] And the first part is
+to add water, right?
+[0:38:10] And then your clothes
+are soaking wet.
+[0:38:13] You don't want to open
+the washing machine
+[0:38:15] and try and function, put
+them on, and wear them around
+[0:38:18] while they're soaking
+wet and full of soap.
+[0:38:20] So you have to wait until
+the cycle is through
+[0:38:23] before you can, well, actually,
+let's put it in the dryer,
+[0:38:27] too, before you
+want to wear them.
+[0:38:30] So yeah, you can function.
+[0:38:34] It just takes a little
+while for those clothes,
+[0:38:36] that brain to dry out, so you
+can actually function well.
+[0:38:39] But it's better to wait through
+the whole cycle is complete.
+[0:38:43] And so that's why
+you want to set
+[0:38:46] that 90-minute, alarm clock.
+[0:38:49] And again, that's
+around 90 minutes
+[0:38:51] because the first stage of
+sleep, the first cycle of sleep
+[0:38:55] is actually a little longer,
+more like 105, 110, minutes.
+[0:38:59] But then the second
+ones and third ones,
+[0:39:01] they get shorter and shorter
+as the night goes on.
+[0:39:04] And in the last
+few cycles, you're
+[0:39:06] just doing the end to REM sleep
+cycle which takes less time.
+[0:39:10] And if you wake up
+out of REM sleep,
+[0:39:12] there's usually no
+problem cognitively.
+[0:39:14] You're good to go.
+[0:39:16] ANDREW HUBERMAN: Are you
+a fan of sleep trackers?
+[0:39:20] GINA POE: Sure, yeah.
+[0:39:21] ANDREW HUBERMAN: Do you use one?
+[0:39:22] GINA POE: I have one on.
+[0:39:23] I don't take--
+[0:39:27] I don't live my life
+by them, because they
+[0:39:30] are-- the best ones
+right now are about 70%
+[0:39:33] effective at staging your sleep.
+[0:39:35] So 70%, it's OK, it's OK.
+[0:39:38] But take it with a grain
+of salt is what I'm saying.
+[0:39:40] ANDREW HUBERMAN: Yeah.
+[0:39:41] I've tried various ones.
+[0:39:42] And I compare the
+mattress based one to--
+[0:39:45] actually wear it on my
+ankle instead of my wrist.
+[0:39:47] And I do find it informative.
+[0:39:49] But a colleague of
+mine at Stanford,
+[0:39:51] Ali Crum, who works on mindset
+and belief effects talked
+[0:39:55] to me about a study they
+did where people often
+[0:39:57] will bias their sense
+of daytime wakefulness
+[0:40:01] based on their sleep score more
+than their subjective score.
+[0:40:05] In other words,
+if they were told
+[0:40:06] they got a poor night's
+sleep, even if they
+[0:40:07] got a great night's sleep--
+[0:40:09] and this was of course
+measured in the sleep lab
+[0:40:11] so they were able
+to compare-- people
+[0:40:13] report feeling more groggy.
+[0:40:14] And the opposite is also true
+that if it says 100% or 90%
+[0:40:18] on your sleep score,
+then people go, oh, I
+[0:40:19] feel great, even though they
+might not have slept well.
+[0:40:21] So this speaks to the, I don't
+want to say placebo effect,
+[0:40:24] but the belief effects that
+are woven in with a score.
+[0:40:26] GINA POE: Yeah.
+[0:40:27] That's right.
+[0:40:28] ANDREW HUBERMAN:
+So it seems to me
+[0:40:29] that combining subjective
+and objective data
+[0:40:31] is probably best.
+[0:40:32] GINA POE: And I do believe
+that you should trust your own
+[0:40:36] physiology and the way that
+your body is telling you to feel
+[0:40:40] because in fact, it used to
+be that people with insomnia
+[0:40:45] weren't--
+[0:40:45] were often not believed because
+you put them in a sleep lab,
+[0:40:48] and they look like
+they slept great.
+[0:40:50] And you wake them
+up in the morning,
+[0:40:51] they say, oh, I didn't
+sleep very well at all.
+[0:40:53] And that's because
+probably we just came out
+[0:40:56] with a paper that shows that
+subcortical structures can
+[0:40:59] be in a completely
+different sleep state
+[0:41:01] than cortical structures which
+is what we measure in the sleep
+[0:41:04] lab what the cortex is doing.
+[0:41:06] ANDREW HUBERMAN: Interesting.
+[0:41:07] GINA POE: So it
+might be that people
+[0:41:09] who say, I did not sleep
+all night long even
+[0:41:11] though the cortex is saying,
+oh, no, you had great sleep,
+[0:41:14] was because they're
+monitoring their subcortical,
+[0:41:19] hypothalamus, hippocampus,
+thalamus, other structures
+[0:41:24] that the sleep lab
+just can't access
+[0:41:27] unless you have depth electrodes
+which nobody really wants.
+[0:41:30] ANDREW HUBERMAN: Right.
+[0:41:31] Because that requires holes
+in the skull and wires.
+[0:41:34] Wow.
+[0:41:34] So does that mean that the last
+50 plus years of sleep science
+[0:41:39] is potentially
+flawed in some way,
+[0:41:41] because they're only
+recording from--
+[0:41:43] I guess this would
+be the analogy
+[0:41:44] would be-- it's like
+recording from the surface
+[0:41:47] of the ocean as opposed
+to the depth of the ocean.
+[0:41:49] GINA POE: Right.
+[0:41:50] And trying to ascertain the life
+moving down deep in the depth--
+[0:41:54] ANDREW HUBERMAN: Brace
+yourselves colleagues
+[0:41:56] at Stanford sleep
+lab and elsewhere.
+[0:41:58] But please just tell us
+because I think scientists
+[0:42:00] want to know the truth.
+[0:42:02] GINA POE: Yeah.
+[0:42:02] It's not for nothing
+that you want
+[0:42:05] to know what the
+cortex is doing.
+[0:42:06] The cortex is really
+important for a lot of things.
+[0:42:09] But it doesn't
+necessarily tell you
+[0:42:11] what a lot of other really
+important parts of the brain
+[0:42:13] are doing in terms of sleep.
+[0:42:17] But there's hope, because
+in fact, it would be great.
+[0:42:21] I think that's possible, from
+the paper if you look at it,
+[0:42:24] it's in PNAS this year, that
+you could detect subtle changes
+[0:42:30] in the cortical
+EEG that might be
+[0:42:32] able to tell you what the
+subcortical structures are
+[0:42:35] doing.
+[0:42:35] Things like the absolute
+power in that sleep
+[0:42:39] spindle band, that
+sigma band would change
+[0:42:43] if the hippocampus is in
+REM sleep and the cortex
+[0:42:46] is in that sleep spindle
+state and vise versa.
+[0:42:50] So there is some
+hope that we can
+[0:42:53] gain from people with
+depth electrodes or animals
+[0:42:57] with depth electrodes that we
+could backwards machine learn
+[0:43:01] what the cortex might
+be able to tell us
+[0:43:04] about subcortical structures
+from the cortical EEG, so.
+[0:43:07] ANDREW HUBERMAN: Interesting.
+[0:43:09] This is going to be a
+stimu-- yes, stay tuned.
+[0:43:11] It's going to be a stimulus for
+development of new technology
+[0:43:14] which is always going to
+assist in scientific discovery.
+[0:43:19] There is one more
+thing I wanted to ask
+[0:43:20] about the architecture
+of the night sleep
+[0:43:24] in terms of early
+part of the night.
+[0:43:26] Earlier, you
+mentioned the washout
+[0:43:29] of debris and the
+so-called lymphatic system,
+[0:43:32] I think is what
+you're referring to.
+[0:43:33] Could you tell us
+a little bit more
+[0:43:35] about the washout that occurs
+in the brain during sleep,
+[0:43:38] what that is, and what
+roles it's thought to serve,
+[0:43:41] and perhaps if there are any
+ways to ensure that it happens
+[0:43:44] or to ensure that
+it doesn't happen,
+[0:43:46] and obviously we
+want this to happen?
+[0:43:48] GINA POE: Yeah.
+[0:43:50] All right, great question.
+[0:43:51] We talked about
+the circadian clock
+[0:43:53] and how certain things
+happen at certain times.
+[0:43:56] Well, one of the
+things that happens
+[0:43:57] when we're awake and
+talking to each other
+[0:44:00] is that there's a
+lot of plasticity.
+[0:44:03] There's something that I'm
+learning from you today.
+[0:44:05] And you're learning from me.
+[0:44:06] And that changes
+our synapses, and it
+[0:44:09] changes the way our proteins are
+going to be folded and changed
+[0:44:14] during sleep.
+[0:44:16] It unfolds.
+[0:44:17] This process actually uses a
+lot of ATP, the power structure
+[0:44:22] the fuel of the brain.
+[0:44:23] And it unfolds also proteins
+while we're doing this,
+[0:44:28] while we're using them.
+[0:44:29] And so during that first part
+of the night, when we first
+[0:44:33] fall asleep in the
+first 20 minutes or so,
+[0:44:35] we're building that
+adenosine back into ATP.
+[0:44:39] And that's probably
+why power naps
+[0:44:41] are called power naps,
+because we're actually
+[0:44:44] rebuilding the power.
+[0:44:45] And then we're also cleaning
+out through the deep slow waves
+[0:44:51] of slow wave sleep.
+[0:44:52] We're cleaning out all
+those misfolded proteins,
+[0:44:54] unfolded proteins,
+and other things that
+[0:44:58] get broken down and
+need to be rebuilt
+[0:45:03] when we're asleep because of
+its use during wakefulness.
+[0:45:07] So I liken that to having a
+big party during wakefulness.
+[0:45:11] And you need all those
+partygoers to leave in order
+[0:45:14] to do the cleanup.
+[0:45:15] And so what I think the
+mechanism is, and this is still
+[0:45:18] something to be
+tested, is actually
+[0:45:19] slow waves themselves
+which is bad news for us
+[0:45:22] as we get older.
+[0:45:23] And those slow
+waves get smaller.
+[0:45:25] And so your sleep goes away.
+[0:45:29] So what happens when a neuron
+is firing is that it expands,
+[0:45:34] the membrane expands a little
+bit, becomes more translucent.
+[0:45:37] That's how we know--
+one of the ways
+[0:45:38] we know that neurons
+expand when they fire.
+[0:45:41] And so every action
+potential, the membrane
+[0:45:44] expands a little bit, as sodium
+brings water into the cell.
+[0:45:48] And then when they're
+silent, they contract.
+[0:45:51] And so during slow
+waves, the cool thing
+[0:45:53] is that the reason why
+you can measure them
+[0:45:56] is that all the neurons
+at the same time--
+[0:45:58] not all of them but a
+good portion of them--
+[0:46:00] are firing at the same time
+and silent at the same time.
+[0:46:03] And so you think about that
+as contracting and expanding
+[0:46:07] all at the same time.
+[0:46:08] It's like a bilge
+pump of the brain.
+[0:46:11] So that can pump out--
+[0:46:12] glia are also really
+important for this
+[0:46:15] in terms of cleaning up
+debris and transferring it
+[0:46:19] to where it needs to go.
+[0:46:21] So I think of it
+actually as a bilge
+[0:46:23] pump cleaning out our brain.
+[0:46:26] ANDREW HUBERMAN: Interesting.
+[0:46:27] I've heard about the lymphatic
+system and lymphatic wash out.
+[0:46:30] I've never thought about
+the mechanical aspects of it
+[0:46:32] before.
+[0:46:33] I always thought that for
+some reason that now it's
+[0:46:36] obvious to me, there had to be
+something mechanical but only
+[0:46:39] now that you've
+educated me about this.
+[0:46:41] I thought that for some reason
+the cerebral spinal fluid just
+[0:46:45] starts washing through.
+[0:46:46] But here, you're talking
+about literally an expansion
+[0:46:48] and a contraction of
+the neurons in unison
+[0:46:51] and pushing the fluid
+through, cleaning out
+[0:46:54] any misfolded proteins
+or debris that
+[0:46:56] might occur on the basis of
+these metabolic pathways.
+[0:46:59] And the consequence
+of that is to, what,
+[0:47:03] to leave the brain in a
+state of more pristine action
+[0:47:09] for the next day.
+[0:47:10] is?
+[0:47:10] That right?
+[0:47:10] GINA POE: Yeah you think
+of it, again, like a party.
+[0:47:13] And if you don't clean
+up after that party
+[0:47:14] and you try and hold
+another one the next day,
+[0:47:17] it's going to get more clogged.
+[0:47:19] People have a harder time moving
+around and enjoying themselves.
+[0:47:22] And if that builds
+up day after day,
+[0:47:25] it's going to be cognition.
+[0:47:27] That would be the
+partygoers moving around
+[0:47:30] becomes hard, yeah.
+[0:47:33] ANDREW HUBERMAN:
+And so this bilge
+[0:47:35] pump that you
+describe is associated
+[0:47:36] with the big slow
+waves of deep-- well,
+[0:47:41] of slow wave sleep.
+[0:47:43] So this is going to occur more
+or less in the first third
+[0:47:45] of the night, is that right?
+[0:47:46] GINA POE: That's right.
+[0:47:47] ANDREW HUBERMAN:
+And are there things
+[0:47:49] that inhibit this process
+and are there things
+[0:47:52] that facilitate this process?
+[0:47:53] GINA POE: Yeah.
+[0:47:55] So well, one thing to inhibit
+is not to get it but--
+[0:47:59] ANDREW HUBERMAN: Right.
+[0:48:00] And here, too-- sorry
+to interrupt but--
+[0:48:03] and is this similar to the
+case with growth hormone
+[0:48:06] where if you go to sleep
+later than you would normally,
+[0:48:09] you miss the washout?
+[0:48:10] GINA POE: Yeah.
+[0:48:11] ANDREW HUBERMAN: It's
+not you don't delay it.
+[0:48:12] You miss-- you
+missed the washout.
+[0:48:14] GINA POE: That's right.
+[0:48:14] That's right.
+[0:48:15] So if you go to sleep at
+1:00 or 2:00 in the morning,
+[0:48:18] your sleep is still going
+to be dominated by N2,
+[0:48:20] NREM sleep not by
+slow wave sleep.
+[0:48:23] So you need to--
+[0:48:25] you need to get that
+first bit of sleep.
+[0:48:27] ANDREW HUBERMAN:
+Would a caveat to that
+[0:48:28] be if somebody normally goes
+to sleep at 1:00 or 2:00
+[0:48:31] AM and wakes up at 10:00 AM
+if that's their normal sleep
+[0:48:34] cycle--
+[0:48:35] GINA POE: Yeah.
+[0:48:36] That should be OK.
+[0:48:37] It should be OK.
+[0:48:40] You would probably want to do--
+[0:48:42] somebody would want to do
+a sleep study with people
+[0:48:44] who do that normally and see if
+also the melatonin release is
+[0:48:48] later and the corticosterone
+rise that happens normally
+[0:48:52] in the morning
+also happens later.
+[0:48:54] So if everything shifted, good.
+[0:48:56] ANDREW HUBERMAN: OK.
+[0:48:57] Yeah.
+[0:48:58] There are a few
+studies I've come
+[0:49:00] across that really do argue
+for the fact that waking up
+[0:49:05] circa sunrise, that doesn't mean
+at sunrise but within an hour
+[0:49:08] or two, maybe three
+hours of sunrise
+[0:49:10] and going to sleep within
+four hours after sunset
+[0:49:15] or so is actually better for
+the health of all human beings
+[0:49:20] than is being a night owl.
+[0:49:22] And the night owl,
+there's almost
+[0:49:23] like a night owl posse
+out there, especially
+[0:49:26] on social media.
+[0:49:26] They get very upset when
+you say that you should
+[0:49:29] see morning sunlight
+that after 10:00 AM,
+[0:49:31] you kind of miss the boat.
+[0:49:33] They get very upset,
+because I think
+[0:49:35] there are about 20% or
+30% of people perhaps
+[0:49:39] who really feel like they
+function better staying up
+[0:49:41] late and waking up late.
+[0:49:42] And they function much
+less well waking up early
+[0:49:45] and going to bed early.
+[0:49:46] But the data on health metrics
+suggests that, sorry night
+[0:49:50] owls, that they are wrong.
+[0:49:52] GINA POE: Yeah, sorry me
+because I'm a night owl.
+[0:49:54] ANDREW HUBERMAN: Oh, boy.
+[0:49:54] OK.
+[0:49:55] Well, then I'm
+apologizing directly.
+[0:49:56] Here, I'm not a really
+early morning person.
+[0:49:59] I'm more typical.
+[0:50:00] I wake up naturally around 6:30,
+somewhere between 6:30 and 7:30
+[0:50:04] AM, go to sleep somewhere
+between 10:00 and 11:00 PM.
+[0:50:09] These are averages.
+[0:50:11] But I do notice
+that when I force
+[0:50:13] myself to get up
+a little earlier
+[0:50:14] and go to sleep a little
+earlier, that my mood
+[0:50:19] and alertness and just overall
+productivity is much higher.
+[0:50:22] And there could be other
+variables to that, too.
+[0:50:24] GINA POE: You're
+absolutely right.
+[0:50:25] I'm a night owl.
+[0:50:26] I love staying up late
+at night doing you know,
+[0:50:29] writing grants, writing
+papers, watching movies,
+[0:50:32] whatever it is.
+[0:50:32] I love it.
+[0:50:34] But like you and like
+every human being on earth
+[0:50:38] would do better if I go to bed
+earlier and wake up earlier.
+[0:50:42] So one good thing
+for night owls is
+[0:50:44] to have a child, because
+they will wake you up.
+[0:50:47] Their circadian
+rhythms are so strong.
+[0:50:50] They will wake up.
+[0:50:51] And even if you
+deprive them of sleep
+[0:50:53] in the first half
+of the night they
+[0:50:55] will still wake
+up like clockwork,
+[0:50:57] because their circadian rhythms
+are so strong at 6:00 AM.
+[0:51:00] And so what you've-- you
+haven't done anything good
+[0:51:02] for your kid.
+[0:51:03] You haven't moved their cycle
+to later and be more in line
+[0:51:06] with yours.
+[0:51:06] In fact, you've just
+sleep deprived them
+[0:51:08] and made them miss a window and
+made them cranky the next day
+[0:51:11] and made your life
+more miserable.
+[0:51:12] So go to bed soon after
+your kids go to bed and wake
+[0:51:16] up with them.
+[0:51:16] That's the way to do it.
+[0:51:17] ANDREW HUBERMAN: Great.
+[0:51:17] The child alarm clock, another
+reason to have children.
+[0:51:20] GINA POE: Yes.
+[0:51:21] ANDREW HUBERMAN: I
+got a dog, a puppy,
+[0:51:23] and then that became a
+dog, specifically, well,
+[0:51:26] for many reasons.
+[0:51:27] But one reason was I wanted to
+be one of those early morning
+[0:51:30] rides, 5:30 AM every morning.
+[0:51:32] But I ended up getting a
+bulldog that would literally
+[0:51:34] sleep 16 hours if he could.
+[0:51:36] A nuclear bomb could go off,
+and he wouldn't wake up.
+[0:51:40] But what I started to learn
+was that Bulldogs actually
+[0:51:43] have sleep apnea.
+[0:51:44] As far as I know,
+they're the only species
+[0:51:46] that has a genetically--
+[0:51:49] they're essentially an
+inbred sleep defect.
+[0:51:52] And so I actually
+don't encourage
+[0:51:53] people to get bulldogs because
+it's kind of a cruel breed.
+[0:51:56] They suffer a lot in that
+body that they're born into.
+[0:51:58] Anyway, a dog can
+accomplish some of this.
+[0:52:02] But get the breed of dog that
+is going to wake up early.
+[0:52:06] So in other words, don't
+get a bulldog or a mastiff.
+[0:52:08] GINA POE: Well, interestingly,
+all predatory animals
+[0:52:12] like dogs, and cats,
+and lions, and us--
+[0:52:16] well, more dogs, cats,
+and lions, then us,
+[0:52:19] well, can sleep 16 hours a day.
+[0:52:23] Ferrets are predatory.
+[0:52:24] ANDREW HUBERMAN: I
+had a pet ferret.
+[0:52:26] I used to-- and
+sadly, I also used
+[0:52:28] to work on ferrets,
+published a number of papers,
+[0:52:30] delightful animals.
+[0:52:31] GINA POE: Yeah.
+[0:52:31] And great because you
+can study development.
+[0:52:34] It's really cool,
+because they're
+[0:52:36] born very artricial like
+we are with brains that
+[0:52:39] are not very well developed.
+[0:52:40] And so you can see what
+happens through development
+[0:52:43] and how important these
+different phases of development
+[0:52:46] really are.
+[0:52:47] But yes, yeah, maybe we're
+not as much predators
+[0:52:52] as we think because in
+fact, our sleep is somewhere
+[0:52:55] between the prey
+and the predators
+[0:52:59] in terms of the amount of sleep
+that we usually need a night.
+[0:53:02] But those predators can sleep
+16 hours, napping all day long.
+[0:53:07] And they're more
+crepuscular, perhaps,
+[0:53:09] like their prey are, more--
+[0:53:10] ANDREW HUBERMAN: So
+dawn and dusk active.
+[0:53:12] GINA POE: Yeah, dawn
+and dusk active.
+[0:53:15] Yeah.
+[0:53:16] But anyway, yes,
+children and dogs--
+[0:53:20] actually, there was a poll
+done by the National Sleep
+[0:53:22] Foundation to see what
+the number one thing is
+[0:53:25] that wakes people up at night.
+[0:53:26] And number two is
+going to the bathroom.
+[0:53:29] Number three is
+children, because--
+[0:53:32] when your children are young.
+[0:53:33] But that only lasts a few
+years that they'll wake you up
+[0:53:36] when they're babies.
+[0:53:38] But the number
+one thing is pets.
+[0:53:40] And pets needing
+to go out or cats
+[0:53:43] wanting to curl up
+with you or whatever
+[0:53:45] it is, pets' needs
+will wake you up more
+[0:53:47] in the middle of the
+night than anything else.
+[0:53:49] ANDREW HUBERMAN: Another reason
+to not get a nocturnal pet.
+[0:53:52] People who get
+hamsters, pretty quickly
+[0:53:54] realize that they are
+nocturnal, and they want
+[0:53:56] to run on their wheel around.
+[0:53:57] GINA POE: Yeah, you got to
+put them in the living room
+[0:53:58] away from where you sleep.
+[0:54:00] ANDREW HUBERMAN: I vote fish
+tank, folks, freshwater fish
+[0:54:03] tank.
+[0:54:03] There are all sorts of reasons
+to not get a salt water fish
+[0:54:06] tank or a child.
+[0:54:08] [LAUGHS]
+[0:54:09] I appreciate that vote.
+[0:54:10] And I appreciate you
+mentioning ferrets.
+[0:54:12] And by the way, folks,
+they are carnivores.
+[0:54:14] They are not rodents.
+[0:54:15] And they are-- they have very
+elaborate brain structures.
+[0:54:18] They're very smart, in the same
+family as the honey badgers
+[0:54:22] and the other mustelids.
+[0:54:23] Anyway, I shouldn't geek out
+too much on the mustelids
+[0:54:27] or else I'll take the
+remainder of all our time.
+[0:54:31] I'd love for you to
+tell us about REM sleep
+[0:54:34] and the sleep later in
+the night as it relates
+[0:54:36] to dreams and emotionality.
+[0:54:38] And this is probably the
+appropriate time for you
+[0:54:41] to introduce us to this
+incredible structure
+[0:54:43] in the brain, which is the locus
+coeruleus a difficult structure
+[0:54:48] to spell but a beautiful-- a
+beautifully named structure.
+[0:54:53] I find locus coeruleus
+to be just fascinating.
+[0:54:56] And I know a small
+fraction of what it does.
+[0:54:59] And I'm hoping you're
+going to educate me
+[0:55:01] and our audience more about
+what it does and hopefully
+[0:55:04] tell us a little bit
+about its relationship
+[0:55:06] to epinephrine a.k.a.
+[0:55:08] adrenaline.
+[0:55:09] GINA POE: Yeah.
+[0:55:09] I am so glad you
+brought this up,
+[0:55:11] because I can totally geek
+out on the locus coeruleus.
+[0:55:14] ANDREW HUBERMAN: Please do.
+[0:55:15] GINA POE: Locus, meaning
+spot or place and coeruleus,
+[0:55:18] meaning blue so you could
+just call it the blue spot.
+[0:55:20] That's the easiest.
+[0:55:21] Every animal with a brain
+has a blue spot and--
+[0:55:27] yeah, and I mean,
+every other animal
+[0:55:28] with a brain because
+of course, there
+[0:55:31] are animals with nervous
+systems that are not
+[0:55:33] centralized like jellyfish.
+[0:55:36] But anyway, we're
+digressing there.
+[0:55:39] So the local coeruleus
+is filled with neurons
+[0:55:41] that have in them
+norepinephrine which
+[0:55:43] is the brain's version of
+epinephrine or adrenaline,
+[0:55:47] is also called noradrenaline.
+[0:55:48] And what it does is,
+just like adrenaline
+[0:55:51] and the rest of our
+bodies, it helps
+[0:55:53] prime us to respond
+to our environment.
+[0:55:56] So when locus coeruleus neurons
+fire and fire in a burst,
+[0:56:01] we can switch our attention.
+[0:56:03] And they will fire in a burst
+if, for example, a loud noise
+[0:56:06] happens in the middle of your
+concentrating on something.
+[0:56:09] So you can-- it
+helps-- it fires.
+[0:56:11] And it helps you switch
+your attention to that thing
+[0:56:13] and then learn quickly from it.
+[0:56:15] So it's really important
+in a stress response.
+[0:56:18] It helps us do quick
+one trial learning.
+[0:56:21] And then tonic
+activity during the day
+[0:56:24] when you're just
+doing normal going
+[0:56:27] about your normal concentration
+activities is really
+[0:56:31] good for sustained attention.
+[0:56:35] It works with the cholinergic
+system of our basal forebrain
+[0:56:39] which is really important
+for learning and memory
+[0:56:41] also to help us learn about
+things and put things together.
+[0:56:46] But just tonic
+levels are signature
+[0:56:50] of wakefulness and alertness.
+[0:56:52] So too much is panic with
+a locus coeruleus activity.
+[0:56:56] A burst is switching attention.
+[0:56:59] And then tonic levels are
+sustained constant attention.
+[0:57:03] And then when we go to
+sleep, the locus coeruleus
+[0:57:05] slows and goes from
+about on average two
+[0:57:10] Hertz to about one Hertz, one
+cycle per second, tonically.
+[0:57:15] And then when we
+go into REM sleep,
+[0:57:17] it's the only time when
+it shuts off completely.
+[0:57:19] And it appears that,
+that complete silence
+[0:57:23] is really, really important
+for a number of things.
+[0:57:26] And the main thing that I
+think it's important for
+[0:57:29] is the ability to erase and
+break down synapses that
+[0:57:34] are no longer working for us.
+[0:57:35] So they encode things
+that are false now,
+[0:57:38] or they are encoding things
+that we learned in the novelty,
+[0:57:43] encoding pathway of our brain
+that have now been consolidated
+[0:57:48] to other pathways.
+[0:57:49] And so we need to now erase
+them from the novelty encoding
+[0:57:52] pathway.
+[0:57:52] And that is really,
+really important
+[0:57:54] for being able to continue to
+learn things all of our lives,
+[0:57:59] so like erasing
+that REM or that--
+[0:58:02] what you call those, disks that
+you stick into computers that--
+[0:58:05] ANDREW HUBERMAN: Hard drive--
+[0:58:06] no, thumb drives.
+[0:58:08] GINA POE: Yeah, erasing
+your thumb drive.
+[0:58:10] So that thumb drive is what
+you carry around all day long.
+[0:58:13] And then during sleep, you write
+that thumb drive to the cortex,
+[0:58:16] to the long term
+memory structures.
+[0:58:18] And you need to refresh
+that thumb drive.
+[0:58:20] And that's what happens
+during REM sleep
+[0:58:22] when the locus coeruleus is
+off, because whenever it's on
+[0:58:25] and noradrenaline
+is there, it helps
+[0:58:27] us to put things together.
+[0:58:28] It helps us to learn
+and strengthen synapses.
+[0:58:31] But it does not allow
+us to actually weaken
+[0:58:34] synapses that are also a really
+important part for life--
+[0:58:37] important part of
+lifelong learning.
+[0:58:40] Yeah, so much more I
+could say about that.
+[0:58:42] ANDREW HUBERMAN: Yeah, locus
+coeruleus sounds fascinating.
+[0:58:45] So it's connected to the basal
+forebrain cholinergic system.
+[0:58:49] The neurons in locus
+coeruleus, if I'm not mistaken,
+[0:58:52] release norepinephrine,
+perhaps epinephrine as well?
+[0:58:58] GINA POE: Well, no, the
+brain's version of epinephrine
+[0:59:01] is norepinephrine.
+[0:59:02] The other thing it also--
+[0:59:04] the precursor to
+norepinephrine is dopamine.
+[0:59:07] And so the source of
+dopamine in the hippocampus
+[0:59:11] seems to be the locus coeruleus.
+[0:59:12] And it's still a mystery
+is under what conditions
+[0:59:15] the locus coeruleus
+also releases dopamine.
+[0:59:17] But it's really important when
+we're learning something new
+[0:59:21] to also release dopamine
+or to at least activate
+[0:59:24] the dopaminergic receptors
+in our hippocampus.
+[0:59:26] So yeah, so dopamine,
+norepinephrine,
+[0:59:30] and then there's
+also galanin which
+[0:59:34] is important for releasing
+when we're stressed.
+[0:59:36] And it helps also
+without rapid learning.
+[0:59:40] It works in concert
+with norepinephrine
+[0:59:42] and in doing what it needs to
+do to strengthen synapses so
+[0:59:45] that we learn really quickly.
+[0:59:47] ANDREW HUBERMAN:
+I love that there
+[0:59:49] are multiple molecules involved,
+because that signals us
+[0:59:53] to a principle which is that
+even if people can't remember
+[0:59:57] all the names, that
+rarely in biology
+[1:00:01] is something handled by just
+one molecule or pathway.
+[1:00:04] That redundancy is the rule
+because signaling attention
+[1:00:09] to specific events
+is so important.
+[1:00:11] So that-- I'm going to
+use that as just a story.
+[1:00:14] I always say I wasn't
+consulted at the design phase.
+[1:00:17] But it makes sense to
+me as to why redundancy
+[1:00:19] would exist in this system.
+[1:00:20] GINA POE: Absolutely.
+[1:00:21] And in fact, when we form a
+hypothesis about the brain,
+[1:00:24] we are always wrong.
+[1:00:25] And the reason why
+we're always wrong
+[1:00:27] is because it's more complicated
+than we'd like to think.
+[1:00:30] And because in our brains
+when we're forming hypotheses,
+[1:00:32] it's we fail to account
+for all of the factors that
+[1:00:36] are involved, the glia,
+the neuropeptides,
+[1:00:38] the neurotransmitters, the
+physical structure of synapses.
+[1:00:42] And so when I was going through
+grad school 35 years ago, we--
+[1:00:48] the dogma was that every neuron
+contains one neurotransmitter
+[1:00:51] and releases one
+neurotransmitter.
+[1:00:53] And you had excitatory
+neurotransmitters,
+[1:00:55] and inhibitory
+neurotransmitters, and neuro--
+[1:00:57] modulatory neurotransmitters.
+[1:00:58] But that's as
+complicated as it's got.
+[1:01:00] And then we started talking
+about neuropeptides.
+[1:01:03] And people said, oh, no,
+please don't complicate it.
+[1:01:06] And then we started talking
+about how neurons contain
+[1:01:08] both neuropeptides and
+neurotransmitters and maybe
+[1:01:10] more than one neurotransmitter--
+[1:01:11] ANDREW HUBERMAN: Maybe
+even hormones, too.
+[1:01:13] GINA POE: And hormones and-- oh,
+Lord, it's just so complicated.
+[1:01:16] But I've got to admit
+that's why it works, right?
+[1:01:19] And every time the brain teaches
+us something new about itself
+[1:01:21] that we didn't
+hypothesize, we say,
+[1:01:23] oh, of course, that wouldn't
+work if the way I hypothesized
+[1:01:27] it-- with it.
+[1:01:28] We actually need redundancy.
+[1:01:29] We need all of these
+systems to work together.
+[1:01:32] ANDREW HUBERMAN: Yeah.
+[1:01:33] It's daunting
+sometimes, but it also
+[1:01:35] insures many careers in science
+and neuroscience in particular.
+[1:01:39] So note that
+aspiring scientists,
+[1:01:43] there's plenty of
+room for discovery.
+[1:01:46] GINA POE: Do you want me to
+talk about norepinephrine--
+[1:01:48] ANDREW HUBERMAN: Yeah.
+[1:01:48] So what--
+[1:01:48] GINA POE: Emotion and--
+[1:01:49] ANDREW HUBERMAN: Yes.
+[1:01:50] Well, what I'd love-- what
+I'd love for you to tell
+[1:01:52] us about is what role this
+lack of norepinephrine release
+[1:01:57] during rapid eye movement
+sleep is thought to achieve?
+[1:02:01] And maybe you can also
+review some of your work,
+[1:02:05] describing conditions under
+which norepinephrine invades--
+[1:02:08] GINA POE: Yeah, invade sleep.
+[1:02:10] ANDREW HUBERMAN:
+Rapid eye movement
+[1:02:11] sleep and other
+patterns of sleep
+[1:02:12] and how that can be detrimental.
+[1:02:14] GINA POE: Yeah.
+[1:02:14] So a lot of this is
+hypothetical but based
+[1:02:17] on a lot of good evidence
+that we're sewing together
+[1:02:19] into a schema from which
+these hypotheses come,
+[1:02:22] so a model schema from
+which the hypotheses come.
+[1:02:25] But one thing that
+happens to people
+[1:02:27] with post-traumatic
+stress disorder
+[1:02:29] is that there is
+a lot of evidence
+[1:02:32] that the locus coeruleus doesn't
+stop firing in REM sleep.
+[1:02:36] So-- whereas their
+levels of norepinephrine
+[1:02:39] might be similar to
+people without PTSD
+[1:02:43] during the day and even during
+the first part of the night,
+[1:02:46] during the wee hours
+of the morning.
+[1:02:49] And when you measure
+norepinephrine levels
+[1:02:51] from metabolites in the blood
+or the cerebrospinal fluid,
+[1:02:55] you see that people
+with PTSD, it's
+[1:02:57] during the wee
+hours of the morning
+[1:02:59] when you have the most
+REM sleep that they
+[1:03:00] have their norepinephrine levels
+differentiate most from those
+[1:03:04] that don't have PTSD.
+[1:03:06] And so that's evidence that
+the locus coeruleus is not
+[1:03:09] shutting down during REM
+sleep like it should.
+[1:03:11] Other evidence is
+heart rate variability.
+[1:03:13] When our locus
+coeruleus is firing,
+[1:03:17] our heart rates are
+generally a little higher.
+[1:03:19] And they don't vary
+as much as they
+[1:03:21] do when the locus
+coeruleus is not firing.
+[1:03:25] So during slow wave
+sleep, normally,
+[1:03:26] have this big, juicy variability
+in heart rate with every breath
+[1:03:30] in and breath out because
+our noradrenergic levels
+[1:03:33] or norepinephrine levels are
+lower during REM sleep that
+[1:03:36] goes away entirely.
+[1:03:37] And our heart rate is dominated
+by parasympathetic rather than
+[1:03:45] sympathetic activity and also
+what our brain is driving,
+[1:03:49] what our dreaming about.
+[1:03:50] For example, if we're
+dreaming we're running,
+[1:03:51] our heart rates will go up.
+[1:03:53] But norepinephrine levels
+still should be low or off.
+[1:03:57] So people with PTSD that
+noradrenergic's we're
+[1:04:02] studying these in
+rats, too, is it true
+[1:04:04] that our locus coeruleus
+doesn't shut off
+[1:04:06] when we have post-traumatic
+stress disorder?
+[1:04:09] And the preliminary
+evidence is yes, it's
+[1:04:11] true that it doesn't shut off.
+[1:04:13] So what that would do
+is norepinephrine would
+[1:04:16] act at synapses to prevent
+that weakening that you really
+[1:04:21] need for example of novelty
+encoding structures.
+[1:04:23] And it keeps memories in that
+novelty encoding structure
+[1:04:27] even once it's consolidated
+to the rest of the brain.
+[1:04:31] So in the hippocampus which
+is important for remembering
+[1:04:35] things throughout our lives
+and it's that thumb drive,
+[1:04:41] we need it to be
+erased so that we
+[1:04:43] can learn new things once
+it's been consolidated
+[1:04:47] to the hard drive of our cortex.
+[1:04:50] And so if we're not
+able to do that,
+[1:04:52] we fill up that
+RAM really quickly
+[1:04:56] or that thumb drive
+really quickly,
+[1:04:57] and we're not able
+to learn new things.
+[1:04:59] So for example,
+after a trauma, I
+[1:05:02] talked about the locus
+coeruleus responding
+[1:05:04] in stressful situations.
+[1:05:05] That's great.
+[1:05:05] It's very adaptive.
+[1:05:06] But then you need it to stop.
+[1:05:08] Once you've learned what
+you need to learn from it
+[1:05:10] and you want to go to
+sleep, you need the locus
+[1:05:12] coeruleus to calm down.
+[1:05:13] And during REM sleep,
+you want it to stop,
+[1:05:15] because then when
+you consolidated
+[1:05:17] that traumatic
+memory to the cortex,
+[1:05:19] you need to erase it from the
+novelty encoding structures,
+[1:05:22] for example, in the
+hippocampus so that then when
+[1:05:25] you're in the context
+of safety, you
+[1:05:26] can learn those new
+things, those new contexts
+[1:05:29] and stop responding
+to those same stimuli
+[1:05:35] as though you're in
+that original situation.
+[1:05:38] So if you're not able to
+erase that thumb drive,
+[1:05:41] you will always feel
+like that trauma happened
+[1:05:45] that same day,
+earlier that same day
+[1:05:48] and respond as you
+would to an early--
+[1:05:53] a recent trauma which is with
+beating heart and all of that.
+[1:05:57] So even memories
+that are years past,
+[1:06:00] if you're never able to
+downscale that novelty encoding
+[1:06:04] structure and purge it
+from that traumatic memory,
+[1:06:07] it will stay fresh, and new,
+and then become maladaptive.
+[1:06:12] ANDREW HUBERMAN: I'd like
+to just take a brief moment
+[1:06:15] and thank one of
+our podcast sponsors
+[1:06:16] which is Inside Tracker.
+[1:06:18] Inside Tracker is a
+personalized nutrition platform
+[1:06:20] that analyzes data
+from your blood and DNA
+[1:06:23] to help you better
+understand your body
+[1:06:25] and help you reach
+your health goals.
+[1:06:26] I've long been a believer in
+getting regular blood work done
+[1:06:29] for the simple reason that blood
+work is the only way that you
+[1:06:32] can monitor the markers such
+as hormone markers, lipids,
+[1:06:34] metabolic factors, et cetera.
+[1:06:36] The impact, your immediate
+and long term health.
+[1:06:39] One major challenge
+with blood work,
+[1:06:40] however, is that most of the
+time it does not come back
+[1:06:44] with any information
+about what to do in order
+[1:06:46] to move the values for hormones,
+metabolic factors, lipids, et
+[1:06:49] cetera into the
+ranges that you want.
+[1:06:51] With Inside Tracker,
+changing those values becomes
+[1:06:54] very straightforward because
+it has a personalized
+[1:06:56] dashboard that you can use to
+address the nutrition based,
+[1:06:59] behavior based, supplement
+based approaches
+[1:07:02] that you can use in order
+to move those values
+[1:07:04] into the ranges that are
+optimal for you, your vitality,
+[1:07:07] and your longevity.
+[1:07:08] Inside Tracker now
+includes a measurement
+[1:07:10] of apolipoprotein B, so-called
+ApoB, and their ultimate plan.
+[1:07:14] ApoB is a key marker of
+cardiovascular health.
+[1:07:16] And therefore,
+there's extreme value
+[1:07:18] to knowing your ApoB levels.
+[1:07:20] If you'd like to
+try Inside Tracker,
+[1:07:21] you can go to
+insidetracker.com/huberman
+[1:07:24] to get 20% off any of
+Inside Trackers plans.
+[1:07:26] Again, that's
+insidetracker.com/huberman
+[1:07:29] to get 20% off.
+[1:07:31] What approaches are
+you aware of that
+[1:07:34] can turn down the output
+of locus coeruleus
+[1:07:38] during these phases of sleep?
+[1:07:40] And for that matter,
+what things can
+[1:07:43] cause ramping up
+of locus coeruleus
+[1:07:45] during this phase of sleep?
+[1:07:47] We've had a couple of podcast
+episodes, solo episodes
+[1:07:50] and with guests
+talking about trauma.
+[1:07:52] We had Dr. Paul Conti who's
+a Stanford trained, Harvard
+[1:07:54] trained psychiatrist who
+talked a lot about trauma
+[1:07:57] wrote an excellent
+book on trauma
+[1:07:58] and certainly sleep was
+emphasized as a key thing like
+[1:08:03] get enough sleep.
+[1:08:04] But here, you're saying
+even if somebody with trauma
+[1:08:06] gets enough sleep,
+if locus coeruleus is
+[1:08:08] hyperactive during sleep, those
+traumas are going to persist.
+[1:08:11] And most of the trauma
+treatments that I'm aware of
+[1:08:13] are everything ranging from
+cognitive behavioral therapy,
+[1:08:17] talk therapy, drug
+therapy, EMDR, hypnosis.
+[1:08:20] Nowadays, there's a lot
+of interest and attention
+[1:08:22] on clinical studies on exploring
+psychedelics, high dose
+[1:08:27] psilocybin, and MDMA.
+[1:08:29] So it's a vast landscape, none
+of which, as far as I know,
+[1:08:32] is really focused on
+sleep specifically.
+[1:08:34] GINA POE: No, they're not.
+[1:08:35] And they should be, because
+actually, psychedelics
+[1:08:38] is a sleep like state.
+[1:08:40] And it's a REM sleep like state.
+[1:08:42] Although of course, there
+are some major differences.
+[1:08:45] So yeah, so much
+to talk about here.
+[1:08:49] So antidepressants are often
+noradrenergic or serotonergic
+[1:08:54] reuptake inhibitors.
+[1:08:55] So they leave
+norepinephrine actually
+[1:08:58] out there in the synapses.
+[1:08:59] And what that does is
+it inhibits REM sleep.
+[1:09:03] And if you're able
+to get REM sleep,
+[1:09:04] it would probably
+be REM sleep with
+[1:09:06] some noradrenergic activity.
+[1:09:08] So actually, I think--
+[1:09:10] anyway, I'm not a physician--
+that antidepressants
+[1:09:13] are counter indicated.
+[1:09:14] You don't want to take them
+if you've experienced a trauma
+[1:09:17] and you're experiencing
+PTSD, because if anything,
+[1:09:20] it's going to make
+it worse or at least
+[1:09:22] prevent the type of
+adaptive REM sleep
+[1:09:24] that you really need in order
+to resolve those emotions
+[1:09:28] and move on.
+[1:09:29] ANDREW HUBERMAN:
+Is that statement
+[1:09:31] specific to
+antidepressants that tickle
+[1:09:33] the noradrenergic pathway?
+[1:09:35] So the one that
+comes to mind is--
+[1:09:38] can never pronounce it,
+buproprion, which is what--
+[1:09:41] I think brand name
+is Wellbutrin.
+[1:09:42] It's a dopaminergic and
+noradrenergic agonist.
+[1:09:46] So that's the net
+effect as opposed
+[1:09:47] to the Prozac, Zoloft
+variety which are SSRIs.
+[1:09:50] GINA POE: Yes, yes.
+[1:09:51] But SSRIs themselves
+also are problematic,
+[1:09:55] because-- we didn't
+talk about it yet,
+[1:09:57] but the dorsal
+raphe nucleus which
+[1:09:59] produces serotonin which
+specific serotonin-- specific
+[1:10:03] serotonin reuptake inhibitors
+block from being reuptake
+[1:10:07] and leaves too much
+serotonin out there.
+[1:10:10] And what serotonin also is
+another noradrenergic-- sorry,
+[1:10:14] another neurotransmitter that's
+downregulated during REM sleep.
+[1:10:18] That's specifically
+off during REM sleep.
+[1:10:20] And what serotonin does is it
+weights all of our cognition
+[1:10:25] to being able to
+recognize novelty again.
+[1:10:29] So it weights our brain away
+from a sense of familiarity
+[1:10:34] and toward novelty.
+[1:10:36] And it might be
+one reason why it's
+[1:10:38] an effective antidepressant
+because it makes the world feel
+[1:10:43] fresh and new again, right?
+[1:10:45] But you-- when you
+have too much, you're
+[1:10:51] holding a novel traumatic
+memory in your novelty encoding
+[1:10:56] structure too
+strongly already, you
+[1:10:59] don't want to, again, weight
+things toward novelty.
+[1:11:02] You need that
+absence of serotonin
+[1:11:04] also to help you get
+that sense of familiarity
+[1:11:08] and to start erasing the
+novelty encoding structures.
+[1:11:11] So you need both to be absent.
+[1:11:12] ANDREW HUBERMAN: It's
+really interesting.
+[1:11:14] We hear a lot about serotonin.
+[1:11:16] And it's not often discussed in
+terms of its features related
+[1:11:20] to novelty enough I think.
+[1:11:22] And what you just described
+cues me to something
+[1:11:25] that Dr. Paul Conti and others
+have said in terms of trauma.
+[1:11:28] And here, I'm paraphrasing,
+so my apologies to them
+[1:11:31] for not getting
+this exactly right,
+[1:11:33] that an effective
+treatment for trauma
+[1:11:35] does not erase the
+traumatic memory.
+[1:11:38] But it causes a transition
+of what once was disturbing,
+[1:11:42] and invasive, and maladaptive
+to eventually just become
+[1:11:48] a boring old story that has
+a fuzzy texture to it as
+[1:11:53] opposed to this sharp
+high friction texture that
+[1:11:57] invades our thinking
+and obviously,
+[1:12:00] our sleeping states as well.
+[1:12:01] So again, and I
+appreciate the disclaimer,
+[1:12:05] the caveats around not being
+a clinician, et cetera.
+[1:12:08] But I do think that there's
+a lot of interest now
+[1:12:10] in whether or not
+antidepressants are
+[1:12:12] effective for trauma or not.
+[1:12:13] And I think these aspects
+of neuromodulation
+[1:12:16] as they relate to, let's call
+it, erasing traumas or changing
+[1:12:20] the emotional load of
+traumas during sleep
+[1:12:23] is something important
+to take note.
+[1:12:24] We also have a lot of clinicians
+that listen to this podcast.
+[1:12:27] So they should also
+take note, please.
+[1:12:29] So if I want to reduce the
+amount of norepinephrine
+[1:12:34] released from locus coeruleus
+during rapid eye movement sleep
+[1:12:38] to eliminate the troubling or
+maybe even traumatic memories
+[1:12:43] and allow late stages of
+sleep each night to have
+[1:12:48] their maximum positive
+effect, is there anything
+[1:12:51] that I can do besides avoiding--
+[1:12:54] avoiding traumas, avoiding
+serotonergic or noradrenergic
+[1:12:57] compounds?
+[1:12:58] GINA POE: Well, I would also
+avoid anything just prior
+[1:13:01] to going to sleep that
+might excite those systems,
+[1:13:04] so a lot of novelty, a
+lot of the exciting stress
+[1:13:10] inducing video games.
+[1:13:12] Try and enter sleep with
+as much calm as you can,
+[1:13:18] so maybe deep
+breathing exercises.
+[1:13:20] That's a beautiful way to
+calm your sympathetic fight
+[1:13:24] or flight system
+is deep breathing.
+[1:13:26] And we haven't been able
+to test this with rats
+[1:13:29] because we can't ask them to
+do a deep breathing exercise.
+[1:13:33] There might be a
+way we can do that.
+[1:13:35] But I haven't found out
+or figured it out yet.
+[1:13:38] But if there's a way you can
+make your sympathetic system,
+[1:13:42] nervous system calm down
+before you go to sleep,
+[1:13:45] might free for you
+meditation, or deep breathing
+[1:13:48] exercises might be
+for some, a warm bath,
+[1:13:51] or a comforting book, nothing
+too exciting but also nothing
+[1:13:55] too boring, perhaps,
+just something
+[1:13:58] right in the middle which
+makes you feel happy and calm
+[1:14:02] is what you should do.
+[1:14:03] And if you instead go to
+sleep while you're anxious
+[1:14:06] or you're hyped up, then your
+sleep could become maladaptive.
+[1:14:12] Another thing that happens
+in rats that we have yet
+[1:14:15] to know if it
+happens in women is
+[1:14:18] that female rats have three
+phases of their estrus cycle
+[1:14:23] that their locus coeruleus
+doesn't seem to calm down
+[1:14:26] during REM sleep as much.
+[1:14:27] And we don't know why, but
+during the high estrogen phases
+[1:14:32] of their estrus cycle, the
+locus coeruleus shuts down
+[1:14:36] just like it does in male rats.
+[1:14:37] But in the other three
+phases, it doesn't.
+[1:14:39] So one thing that might
+work and in fact, there
+[1:14:43] are a few studies that show
+it could work really well
+[1:14:46] is giving women
+after a trauma event,
+[1:14:53] something that
+contains estrogen,
+[1:14:55] because estrogen somehow
+is protective against PTSD.
+[1:14:59] And they know that through
+a retrospective studies,
+[1:15:02] where they gave women in
+emergency room either a pill
+[1:15:05] with estrogen and/or without.
+[1:15:07] And those that had the
+pill with estrogen in it
+[1:15:10] were much less likely to
+get PTSD from that trauma
+[1:15:12] as measured a year
+later than those
+[1:15:14] that had the pill without.
+[1:15:15] So there's really good
+studies by Bronwyn Graham--
+[1:15:22] she's out of Australia--
+to really hone in
+[1:15:24] on how much estrogen do you
+need and also testosterone
+[1:15:28] just so you know, gets converted
+to estrogen in the brain.
+[1:15:31] So testosterone also
+can be protective,
+[1:15:33] because it gets
+converted to estrogen.
+[1:15:35] But there's something
+about estrogen
+[1:15:37] that's really helpful
+and protective
+[1:15:39] about from the high
+locus coeruleus firing.
+[1:15:43] And this is, again, preliminary
+data that we don't have full--
+[1:15:47] we don't have all
+the answers yet.
+[1:15:48] And we are looking into
+it actively right now.
+[1:15:52] But it's really important.
+[1:15:53] The other thing about
+women is that we
+[1:15:55] are two to four times more
+susceptible to anxiety related
+[1:15:59] mental health disorders
+including post-traumatic stress
+[1:16:01] disorder.
+[1:16:02] So if we could figure out what's
+happening to locus coeruleus
+[1:16:06] during sleep in women
+and then figure out a way
+[1:16:09] to normalize that so the
+locus coeruleus is silent
+[1:16:13] when it needs to
+be silent, I think
+[1:16:15] we could go a long
+way in helping
+[1:16:17] women be more resilient to
+stress related disorders.
+[1:16:22] ANDREW HUBERMAN: What are
+some other sex differences
+[1:16:25] as they relate to sleep?
+[1:16:27] GINA POE: Yeah.
+[1:16:27] That's a really good question.
+[1:16:29] There have been very few
+studies, unfortunately,
+[1:16:34] of women and sleep, women and
+estrus cycle or menstrual cycle
+[1:16:38] and sleep.
+[1:16:40] But what we have found which
+actually largely replicated
+[1:16:44] a study in 1960 is
+that women or females
+[1:16:51] rather at high estrogen,
+high hormonal phases
+[1:16:54] of their estrus cycle
+or menstrual cycle sleep
+[1:16:57] a lot less.
+[1:16:58] But that sleep is
+more efficient.
+[1:17:00] So that sleep is more dense
+in those sleep spindles, which
+[1:17:04] I haven't gone into
+what they might
+[1:17:05] do except this connection
+between the hippocampus
+[1:17:08] and cortex.
+[1:17:09] But those sleep spindles are
+more dense and more coherent
+[1:17:12] across the brain areas.
+[1:17:13] The theta cycle which
+is 5 to 10 Hertz
+[1:17:17] in the hippocampus important
+for one-year learning
+[1:17:19] and also important
+during REM sleep
+[1:17:21] is also bigger
+and juicier during
+[1:17:23] the high hormonal phases.
+[1:17:25] So even though
+there's less sleep,
+[1:17:27] it's more efficient and better.
+[1:17:32] So all of that efficiency
+seems to be reduced
+[1:17:35] in those other hormonal phases.
+[1:17:39] So even though you might
+sleep a little more,
+[1:17:42] you might need more
+sleep, in fact,
+[1:17:45] in order to accomplish
+the same thing that you
+[1:17:48] can get with that short
+very efficient sleep
+[1:17:53] of high hormonal phases.
+[1:17:54] ANDREW HUBERMAN:
+Very interesting.
+[1:17:55] I think there is
+a growing trend,
+[1:17:58] at least among NIH-funded
+grants to require
+[1:18:03] that as they refer to it in
+the grants of biological sex
+[1:18:07] as a variable.
+[1:18:07] And here, we're
+talking-- nothing here
+[1:18:09] about sex, the
+verb, although, I'm
+[1:18:11] sure there are studies
+about that, too.
+[1:18:13] But biological
+sex is a variable,
+[1:18:14] because there is a dearth
+of studies exploring sex
+[1:18:17] differences in most everything.
+[1:18:20] There are all sorts
+of reasons for that.
+[1:18:22] But more importantly
+that fortunately,
+[1:18:24] the trend is shifting.
+[1:18:25] GINA POE: Yeah.
+[1:18:26] And even when you study males
+versus females, a lot of people
+[1:18:30] just say include
+females in their studies
+[1:18:33] but then don't track the estrus
+cycle or menstrual cycle.
+[1:18:37] And hormones have huge
+effects on our behavior.
+[1:18:41] Just think about-- when you said
+sex before our hormones come
+[1:18:45] in, we're not interested in it.
+[1:18:47] And suddenly, that's kind of
+a main driver of behaviors.
+[1:18:50] Hormones can definitely change
+who we are and what we do.
+[1:18:54] So we should be studying
+hormones not just sex.
+[1:18:57] ANDREW HUBERMAN: I always
+say that puberty is perhaps
+[1:19:00] the most massive
+transformation and rate
+[1:19:02] of aging that any of us go
+through in a short amount
+[1:19:04] of time.
+[1:19:05] An individual, their
+cognition changes.
+[1:19:06] Their worldview changes.
+[1:19:07] And that's largely
+hormonal-driven.
+[1:19:09] And obviously, neural
+architectures change, too.
+[1:19:13] I'm very happy that
+you mentioned--
+[1:19:15] I'm trying to get
+into calmer states
+[1:19:17] prior to sleep and
+some ways to do that.
+[1:19:20] I'm a big fan and I've talked
+a lot before on this podcast
+[1:19:23] about things like yoga nidra
+which is a non-movement based
+[1:19:26] practice, sometimes called
+non-sleep depressed where
+[1:19:29] people actually take some
+time each day to practice how
+[1:19:31] to go into a more
+parasympathetic a.k.a relaxed
+[1:19:34] state deliberately, because
+it's a bit of a skill.
+[1:19:37] GINA POE: Yeah.
+[1:19:37] ANDREW HUBERMAN: It's-- and
+there there's some good data
+[1:19:39] really, mostly out of a
+laboratory in Scandinavia
+[1:19:42] showing huge increases in
+nigrostriatal dopamine when
+[1:19:47] people go--
+[1:19:49] basically, engage in a practice
+of deliberate non-movement
+[1:19:53] and that the brain
+actually enters
+[1:19:55] states of a very shallow sleep.
+[1:19:56] So it's sort of nap-ish.
+[1:19:59] But the idea is to actually
+stay awake but motionless.
+[1:20:01] And it does seem to restore
+a certain number of features
+[1:20:04] of neurochemistry.
+[1:20:05] But perhaps more
+importantly, it teaches
+[1:20:07] people to relax which is
+something that most people are
+[1:20:11] not very good at.
+[1:20:12] But in any event--
+[1:20:15] and people who listen
+to this podcast
+[1:20:16] have heard me say this
+over and over again,
+[1:20:18] so I sound like a broken
+record, but this practice
+[1:20:20] as a zero cost practice
+that doesn't require
+[1:20:22] any pharmacology does seem to
+really enhance people's ability
+[1:20:26] to fall asleep more
+quickly and to fall back
+[1:20:28] asleep if they wake up in
+the middle of the night.
+[1:20:30] So in any event, another
+plug for NSDR, yoga nidra.
+[1:20:33] GINA POE: Well, I
+just also want to add
+[1:20:36] to that, that's one of
+the reasons why insomnia
+[1:20:38] is so insidious is because when
+people feel like they haven't
+[1:20:41] gotten enough sleep, and they're
+not getting enough sleep,
+[1:20:42] and they become anxious
+about getting enough sleep,
+[1:20:44] and then they're anxious
+before going to sleep,
+[1:20:46] like I'm not going
+to fall asleep,
+[1:20:48] it's going to be 45
+minutes, and then that's
+[1:20:49] a positive feedback loop.
+[1:20:51] So you need to break
+that loop, say, OK,
+[1:20:54] my body is going to get
+as much sleep as it needs,
+[1:20:56] I needn't worry about it, and
+then practice this relaxation
+[1:21:00] to say, hey it's all OK,
+it's going to be all right,
+[1:21:04] and then concentrate on
+things that relax you,
+[1:21:08] whether it's
+concentrating or not
+[1:21:09] concentrating, whatever it is.
+[1:21:12] You mentioned yoga nidra.
+[1:21:15] And that reminded me of
+transcendental meditation
+[1:21:20] which is something that also
+hasn't been studied well,
+[1:21:23] largely because we can't ask
+nonhuman animals to do it.
+[1:21:26] And so we don't know
+what's happening
+[1:21:29] with our neurochemistry
+and our brain activity
+[1:21:33] in a deep and meaningful way.
+[1:21:36] But one thing that
+has been shown
+[1:21:38] in those that can
+do it really well
+[1:21:40] is that, that theta
+activity that I said
+[1:21:43] happens when you're
+learning something
+[1:21:44] or when you're in REM
+sleep, it's well established
+[1:21:49] and increases during the
+transcendental meditation.
+[1:21:53] So it might be that some
+states of meditation
+[1:21:57] could in some ways
+replace or mimic
+[1:22:01] some functions of, for
+example, REM sleep.
+[1:22:03] But again, we don't know
+if all the neurochemistry
+[1:22:06] is right to do, for example, the
+thing that I was talking about,
+[1:22:09] which is erasing the
+novelty encoding structures
+[1:22:11] of the brain.
+[1:22:12] That needs an absence of
+norepinephrine and serotonin,
+[1:22:15] which we don't know
+if that goes away
+[1:22:18] with transcendental meditation.
+[1:22:20] We just don't know the
+answer to that yet.
+[1:22:22] ANDREW HUBERMAN: Yeah.
+[1:22:23] The studies on yoga nidra
+and sleep replacement
+[1:22:25] are interesting.
+[1:22:27] It does seem to be the case
+that nothing can really
+[1:22:30] replace sleep except sleep.
+[1:22:32] But that if one
+is sleep deprived
+[1:22:34] or is having trouble
+falling back asleep
+[1:22:35] that these things like--
+[1:22:39] and I hear it's--
+[1:22:40] I acknowledge this is
+essentially like yoga nidra,
+[1:22:42] but we now call it
+non-sleep deep rest or NSDR,
+[1:22:45] because oftentimes, for
+names like yoga nidra
+[1:22:47] act as a barrier for what
+would otherwise be people
+[1:22:51] willing to try a practice.
+[1:22:52] It sounds mystical.
+[1:22:53] GINA POE: --and yoga.
+[1:22:54] ANDREW HUBERMAN: It sounds
+like flying carpets.
+[1:22:56] And it sounds like you
+have to go to Esalen.
+[1:22:58] By the way, Esalen
+is a beautiful place.
+[1:22:59] But it sounds like you have to
+go there or live in the West
+[1:23:02] Coast to believe in this stuff.
+[1:23:03] But it's simply not the case.
+[1:23:05] These are practices
+that are really
+[1:23:07] just self-directed relaxation
+as a practice that allows people
+[1:23:12] to get better and better
+at directing their brain
+[1:23:14] states towards more relaxation.
+[1:23:16] And most people
+have an asymmetry.
+[1:23:18] Like for instance,
+most people can force
+[1:23:20] themselves to stay up later.
+[1:23:22] But they have a hard time
+going to sleep earlier.
+[1:23:24] And that just speaks
+to the asymmetry
+[1:23:26] that's probably adaptive
+in survival-based
+[1:23:28] that we can ramp ourselves up
+far more easily than we can
+[1:23:32] tend to calm ourselves down.
+[1:23:33] GINA POE: Yeah.
+[1:23:33] And actually to appeal to
+other Christians like me,
+[1:23:37] prayer can be a wonderful
+way to calm yourself down,
+[1:23:41] because through prayer you're
+giving your carries to God
+[1:23:46] and saying--
+[1:23:47] and then you are
+relaxed, more relaxed.
+[1:23:51] And I just want to say that
+because, the same reason
+[1:23:54] that yoga might put
+some people off.
+[1:23:56] It might put some people
+off to talk about prayer,
+[1:24:00] but it's the same process of
+being able to relax, and yeah.
+[1:24:07] ANDREW HUBERMAN: And get
+outside our own experience
+[1:24:09] a little bit.
+[1:24:09] GINA POE: Yeah.
+[1:24:11] Back out get a world
+view that might actually
+[1:24:13] also help us to relax.
+[1:24:15] ANDREW HUBERMAN: Well,
+you might be surprised
+[1:24:17] at how many clinicians
+and scientists who've
+[1:24:19] come on this podcast have
+mentioned things like prayer
+[1:24:22] from various perspectives,
+Christianity, Judaism,
+[1:24:25] Muslim traditions,
+and others that--
+[1:24:28] as a parallel to
+all of these things.
+[1:24:30] And I think what it speaks to
+is the fact that, ultimately,
+[1:24:33] the biological architectures
+that we're all contending with
+[1:24:36] are going to be
+identical, right?
+[1:24:38] And so different ways to
+tap into them and ones
+[1:24:40] that are congruent with people's
+beliefs, I think are great.
+[1:24:45] GINA POE: Yeah,
+because anything,
+[1:24:47] non-congruent with your
+beliefs is also stressful.
+[1:24:49] ANDREW HUBERMAN:
+And feels forced.
+[1:24:50] And that's why this
+idea of calling it
+[1:24:52] non-sleep deep rest in
+addition to yoga nidra
+[1:24:54] was not to detract from
+the naming or the history
+[1:24:57] around yoga nidra.
+[1:24:58] But I was finding
+that it was a barrier.
+[1:25:00] Likewise, yoga nidra tends to
+include things like intentions
+[1:25:04] whereas NSDR scripts.
+[1:25:05] And by the way, we will provide
+links to some NSDRs and yoga
+[1:25:08] nidra scripts.
+[1:25:08] But NSDR has no intentions.
+[1:25:10] It's simply a body scan
+deep relaxation-based.
+[1:25:13] So it's the scientific
+version of all of this stuff.
+[1:25:16] And actually, we study
+it in the laboratory
+[1:25:18] and some of the brain
+states that people go into.
+[1:25:20] But that's a discussion
+for another time.
+[1:25:22] GINA POE: This is hard not to--
+[1:25:24] My mother used to tell
+me when I would complain,
+[1:25:26] I can't go to sleep, she'd
+say, well, start with your toes
+[1:25:30] and relax.
+[1:25:30] So you would clench your
+muscles around your toes
+[1:25:33] then relax them and do that
+all the way from your toes
+[1:25:36] all the way to your head.
+[1:25:37] And I don't know
+where she got this,
+[1:25:38] it might have been
+her own common sense
+[1:25:40] or she might have gotten
+it from this NPR shows
+[1:25:44] called The Mind Can Keep You
+Well she used to listen to.
+[1:25:47] But that's another
+intentional relaxation
+[1:25:50] that focuses on the
+body rather than
+[1:25:54] on your own mental
+processes, but.
+[1:25:56] ANDREW HUBERMAN: I do a little
+bit of work with the military.
+[1:25:59] And there's a method
+within certain communities
+[1:26:01] of Special Operations
+in the US military,
+[1:26:03] where if they can't sleep
+or they're having challenges
+[1:26:06] sleeping, they will
+deliberately try and relax
+[1:26:10] their facial muscles in
+particular like drape
+[1:26:13] the facial muscles
+and use long or exhale
+[1:26:17] emphasized breathing
+does seem to increase
+[1:26:20] the probability of
+transitioning back into sleep.
+[1:26:23] And those are hallmarks of yoga
+nidra, non-sleep deep rest,
+[1:26:27] body scans.
+[1:26:28] And so I think all
+of these things
+[1:26:29] converge on a common theme.
+[1:26:31] As neurobiologist, we can
+say, all of the things
+[1:26:34] that we are describing
+certainly move the needle away
+[1:26:38] from locus coeruleus activation.
+[1:26:39] And we haven't
+done the experiment
+[1:26:41] to really look at that.
+[1:26:42] But it seems all these things
+are counter to noradrenaline
+[1:26:45] release.
+[1:26:45] GINA POE: Right.
+[1:26:46] Another one is yawning.
+[1:26:48] Yawning in itself
+is, in fact, kind
+[1:26:50] of tensing of all the
+muscles in your face
+[1:26:53] and then relaxing them.
+[1:26:55] So it might be why we yawn.
+[1:26:56] We don't know why we yawn yet.
+[1:26:58] But it might also-- it
+would be really great.
+[1:27:01] Actually, animals yawn, too.
+[1:27:03] ANDREW HUBERMAN: My bulldog
+was a-- perpetually.
+[1:27:05] If he wasn't sleeping,
+he was yawning.
+[1:27:07] GINA POE: And it would be
+interesting to see what yawning
+[1:27:09] does to the locus coeruleus.
+[1:27:11] Does that also calm and switch
+the locus coeruleus activity,
+[1:27:14] because it's an interesting
+that facial nerve
+[1:27:17] like trigeminal nerve
+through the vagus
+[1:27:20] connects indirectly
+to the locus coeruleus
+[1:27:23] and has a powerful
+effect on that.
+[1:27:25] ANDREW HUBERMAN: Interesting.
+[1:27:26] A common, I think friend of ours
+and direct colleague of yours,
+[1:27:29] Jack Feldman was a guest
+on this podcast telling us
+[1:27:32] about all the amazing structures
+he and others have discovered
+[1:27:34] in respiration and breathing.
+[1:27:36] It sounds like we
+have a collaboration
+[1:27:38] brewing the three of us
+should definitely carry out.
+[1:27:41] I'd love for you to share
+with us a little bit more
+[1:27:44] about the spindles that
+have come up a few times.
+[1:27:47] And I don't know if
+it's relevant to this.
+[1:27:49] So if it's not, let's
+separate it out.
+[1:27:51] But I'd love for you
+to tell us a little bit
+[1:27:53] about the role of sleep in
+problem solving and creativity.
+[1:27:57] And if spindles are
+involved, then I'll
+[1:27:59] consider myself lucky
+for batching them
+[1:28:00] in the same question.
+[1:28:01] And if they're not
+involved, simply
+[1:28:03] feel free to separate them out.
+[1:28:04] GINA POE: I think they
+could be involved.
+[1:28:06] And the reason why
+I think they could
+[1:28:07] be involved because we now
+know a lot more about spindles.
+[1:28:10] First of all, the first
+thing that we knew--
+[1:28:11] first of all, we ignored them.
+[1:28:13] Then we thought
+they had something
+[1:28:14] to do with keeping us asleep.
+[1:28:16] And that was their function is
+when an external stimulus came,
+[1:28:18] they would keep us asleep
+because they would arise.
+[1:28:21] But now, we know that
+the density of our sleep
+[1:28:23] spindles, the number that
+we produce per minute
+[1:28:26] is well correlated
+with our intelligence
+[1:28:28] in the first place
+and that no matter
+[1:28:30] what your intelligence is and no
+matter what your sleep spindle
+[1:28:33] density is, if you're learning
+something during the day
+[1:28:36] and increase your
+sleep spindle density,
+[1:28:38] it's really almost perfectly
+correlated with our ability
+[1:28:42] to consolidate that
+information and incorporate it
+[1:28:45] into the schema that we
+already have in our brain.
+[1:28:47] So if you try and
+learn something new,
+[1:28:50] even if your sleep spindle
+density at baseline
+[1:28:52] is great, if you don't increase
+your sleep spindles that night,
+[1:28:55] you're not going to use
+sleep to really incorporate.
+[1:28:59] Interestingly,
+sleep spindles are
+[1:29:02] poor in those with
+schizophrenia.
+[1:29:04] It's one of the
+characteristic signatures
+[1:29:07] of sleep is that sleep spindles
+are very few and far between,
+[1:29:10] which might mean that
+people with schizophrenia
+[1:29:14] might not be able to incorporate
+new information into already
+[1:29:18] existing schema.
+[1:29:19] And instead, it flaps
+in the breeze out there
+[1:29:22] and can be accessed
+erroneously at times when you
+[1:29:26] don't want it to be involved.
+[1:29:28] So I digress, so sleep
+spindles and creativity.
+[1:29:32] So one of the things we now
+through some great studies
+[1:29:35] by Julie Seibt and Anita
+Lüthi is that sleep spindles
+[1:29:39] are accompanied by an
+incredible plasticity
+[1:29:43] out in the distal
+dendrites, the listening
+[1:29:45] branches of our neurons that
+listen to other cortical areas.
+[1:29:50] So there are proximal
+dendrites in our neurons
+[1:29:53] that listen to
+the external world
+[1:29:56] and are conducted
+through the thalamus.
+[1:29:58] And then there are
+distal dendrites
+[1:29:59] which listen to an internal
+conversation that's
+[1:30:03] happening in our brains.
+[1:30:05] It's kind of our
+internal state, really.
+[1:30:08] And during sleep
+spindles, that's
+[1:30:10] when those distal dendrites
+are able to best learn
+[1:30:14] from other cortical areas
+and from the hippocampus.
+[1:30:18] It is during sleep spindles that
+the hippocampus and the cortex
+[1:30:20] are best connected and when
+that incredible plasticity
+[1:30:25] can happen.
+[1:30:25] When I talk about schema, that's
+a cortical, cortical thing.
+[1:30:28] That's when the image of
+Santa Claus and presents
+[1:30:32] comes together.
+[1:30:33] It's not through
+some external thing.
+[1:30:35] Once we learn those
+things together,
+[1:30:37] it's our cortex that
+encodes that and brings
+[1:30:39] those images back up together.
+[1:30:41] And that's during
+sleep spindles when
+[1:30:43] that's happening, when that--
+[1:30:45] there's big surges of calcium
+into those distal dendrites,
+[1:30:51] and where plasticity happens
+in just huge amounts.
+[1:30:55] During that sleep spindle stage
+of sleep which is N2 stage,
+[1:30:59] there's also another
+excitatory event
+[1:31:03] that comes all the
+way from the brainstem
+[1:31:04] and projects everywhere
+in our cortex which
+[1:31:07] is called PGO waves.
+[1:31:09] That's P for pons, G
+for geniculo nucleus
+[1:31:12] of the thalamus which is where
+they're first discovered,
+[1:31:15] and O for occipital
+area which is
+[1:31:17] our visual area which is, again,
+where they're first discovered.
+[1:31:20] But in fact, it's now been shown
+that PGO waves, which we should
+[1:31:24] generalize to P waves because
+they come from the pons
+[1:31:26] and go to the thalamus
+and then the cortex,
+[1:31:29] happens all over the brains.
+[1:31:30] And that is where glutamate,
+which is a major excitatory
+[1:31:34] neurotransmitter involved
+in learning and plasticity
+[1:31:37] is being released
+in big amounts,
+[1:31:39] also in those distal dendrites.
+[1:31:41] So P waves and
+spindles work together
+[1:31:43] to cause plasticity and
+sew our schema together
+[1:31:47] which could be the origins
+for insight and creativity.
+[1:31:51] Now, when PGO waves or P
+waves were first discovered,
+[1:31:54] it was thought to be random,
+because this small area that
+[1:31:59] generates P waves
+all over the brain
+[1:32:02] projects all over the thalamus
+and causes P waves all over.
+[1:32:06] And you don't measure P
+waves all over the brain
+[1:32:09] at the same time.
+[1:32:10] In fact, it's just seems
+sporadic and random.
+[1:32:13] So that's probably-- and P
+waves also happening even more
+[1:32:17] during REM sleep, rapid
+eye movement sleep.
+[1:32:19] So that's why people
+think that REM dreams are
+[1:32:25] so random is because
+these P waves are random.
+[1:32:27] And they could generate
+dreams because they're
+[1:32:30] an internal source of excitation
+that replaces the outside world
+[1:32:37] during our dream state.
+[1:32:38] And so these P waves, if they
+are random, could function--
+[1:32:43] could be the
+underlying reason why
+[1:32:45] REM sleep dreams are random.
+[1:32:48] And it might also be why
+creativity can happen there
+[1:32:52] because we're
+randomly activating--
+[1:32:54] co-activating different
+things in our brain
+[1:32:56] that we can then sew together.
+[1:32:59] But it might not be
+as random as we think.
+[1:33:01] So that's the caveat there.
+[1:33:02] ANDREW HUBERMAN: I just
+learned a lot from you,
+[1:33:04] because I teach brain
+stem to medical students.
+[1:33:07] And I talk about the pons.
+[1:33:10] And the pons is like
+this dense collection
+[1:33:11] of all these different
+nuclei involved
+[1:33:13] in a bunch of different things.
+[1:33:15] And it's close by a bunch
+of interesting things.
+[1:33:17] And it's still a
+mysterious brain area.
+[1:33:20] But when I learned
+about PGO waves,
+[1:33:22] I thought
+pons-geniculo-occipital,
+[1:33:24] because occipital is
+most commonly associated
+[1:33:26] with visual cortex,
+I thought it was
+[1:33:29] the origin of the visual
+component of dreams.
+[1:33:32] GINA POE: And probably is.
+[1:33:33] ANDREW HUBERMAN: I'm
+very happy to learn
+[1:33:35] that they should be called P
+waves, because they include
+[1:33:38] lots of different
+areas of the brain.
+[1:33:39] And it makes really
+good sense to me
+[1:33:42] why the pseudo
+randomness of dreams
+[1:33:45] especially these late
+night and early morning--
+[1:33:49] later in sleep I should say
+and early morning dreams
+[1:33:52] seem to be cobbled together
+from disparate experiences.
+[1:33:57] You walk through a
+door and suddenly, it's
+[1:33:59] a completely different
+context and landscape.
+[1:34:01] GINA POE: Yes,
+beautiful. beautiful.
+[1:34:03] ANDREW HUBERMAN: I
+like this idea a lot.
+[1:34:04] It makes intuitive sense
+it makes biological sense.
+[1:34:07] It also gives me
+something to talk
+[1:34:08] about to the medical
+students next quarter
+[1:34:10] when I talk about pons.
+[1:34:11] GINA POE: Right.
+[1:34:11] You want to talk about
+where in the pons,
+[1:34:13] it's right below
+the locus coeruleus.
+[1:34:14] It's called the sub coeruleus.
+[1:34:16] They're glutamatergic.
+[1:34:17] It's also called SLD, sub
+lateral dorsal nucleus, so.
+[1:34:23] ANDREW HUBERMAN: So note to
+any aspiring neurobiologist,
+[1:34:26] there's a vast landscape of yet
+to be undiscovered structure
+[1:34:31] and functions in the pons.
+[1:34:32] You want to work
+on something that
+[1:34:33] is sure to reveal something
+novel, work on the pons
+[1:34:36] because it's in every textbook.
+[1:34:37] It's clinically very
+important structure.
+[1:34:41] Sadly, gliomas and other cancers
+of the brain can sometimes--
+[1:34:46] can often surface in the pons.
+[1:34:48] But we still know
+very little about it.
+[1:34:52] I read a paper this
+last year or-- and I
+[1:34:54] think it was covered in
+a bit of popular press,
+[1:34:57] that during rapid
+eye movement sleep,
+[1:35:00] people can solve problems or
+respond to external stimuli.
+[1:35:04] For instance, they would
+give them math problems.
+[1:35:06] They'd whisper in their
+ear while they were
+[1:35:08] in REM sleep, what's 2 plus 2.
+[1:35:09] And then people would say, even
+though they were paralyzed,
+[1:35:12] apparently they could
+still move their mouth,
+[1:35:14] because they'd say four
+or something like that.
+[1:35:16] Or they'd say, what's your name.
+[1:35:18] And people could respond.
+[1:35:19] And so that in REM
+sleep, perhaps, people--
+[1:35:22] some elements of cognition
+are still active.
+[1:35:25] GINA POE: I'm glad
+you brought that up.
+[1:35:27] ANDREW HUBERMAN: What
+are you thinking--
+[1:35:29] and I don't know the
+authors of that study and--
+[1:35:31] listen, if ever I
+say something wrong,
+[1:35:33] it's great on this podcast
+because someone will tell us
+[1:35:36] in the YouTube comments.
+[1:35:37] It's one of the great
+uses of YouTube comments.
+[1:35:39] But I'd love to know your
+thoughts on that study.
+[1:35:42] Is that just kind of an
+odd feature that or does
+[1:35:47] this have meaning.
+[1:35:48] Should we actually
+care about this result?
+[1:35:49] GINA POE: There is
+no just about it.
+[1:35:51] It's really actually
+intriguing and interesting
+[1:35:53] and might relate to
+this paper that I
+[1:35:55] talked about where we said
+different areas of the brain
+[1:35:58] can be in different
+states at the same time.
+[1:36:00] So lucid dreaming
+is another thing
+[1:36:03] we can't ask animals
+to do or can't ask them
+[1:36:05] if they've done it.
+[1:36:06] But we can certainly
+ask humans to do it.
+[1:36:09] And some people can
+do it really well.
+[1:36:11] And it would be really
+interesting to see
+[1:36:13] in those people who could lucid
+dream really well whether they
+[1:36:16] spend more or less time
+in this asymmetrical state
+[1:36:21] where one area of the
+brain is in one state
+[1:36:23] and another area of the
+brain is in another.
+[1:36:24] And it might be that those
+people can respond to questions
+[1:36:28] during REM sleep.
+[1:36:29] Best are those that have the
+most asymmetry or dissimilarity
+[1:36:35] or dissociation between
+subcortical and cortical
+[1:36:37] structures.
+[1:36:38] Or it might be that they're the
+ones with the most symmetry,
+[1:36:40] we don't know.
+[1:36:42] I do worry a little bit
+about lucid dreaming,
+[1:36:45] because people are-- it's a fad.
+[1:36:46] People are really
+excited about it.
+[1:36:48] And to be able to
+remember one's dreams
+[1:36:49] is fun often unless
+there are nightmares.
+[1:36:52] But it's really interesting.
+[1:36:54] Or to be able to direct one's
+dreams if they are a nightmare
+[1:36:56] is really a wonderful
+power to have,
+[1:36:59] to be able to redirect
+a nightmare that
+[1:37:01] has been repeated
+to something else
+[1:37:03] and then kick
+yourself out of that.
+[1:37:05] Repetitive nightmare
+is really nice.
+[1:37:07] But I worry a
+little bit about it,
+[1:37:10] because we know so
+little about what's
+[1:37:13] actually going on in the brain.
+[1:37:14] And if this lucid dreaming
+state is preventing us
+[1:37:18] from, for example, from the
+locus coeruleus from calming
+[1:37:21] down or the serotonergic system
+from silencing like it should,
+[1:37:25] and maybe what we're
+doing during this state
+[1:37:27] is Yeah we're activating the
+learning and memory structures
+[1:37:30] but in a way that's maladaptive
+in terms of the erasure
+[1:37:34] that we need to do.
+[1:37:35] So maybe one of the reasons
+why most people don't
+[1:37:37] remember most of their
+dreams is for good reason.
+[1:37:41] Your hippocampus
+is in a state where
+[1:37:43] it's not writing new memories.
+[1:37:44] In fact, it's writing out
+its-- the memories it learned
+[1:37:47] during the day to the cortex.
+[1:37:49] And it's immune from
+incoming new information.
+[1:37:54] So maybe lucid dreaming
+is bad, because you're
+[1:37:57] activating the hippocampus
+in a way that's
+[1:37:59] writing new memories.
+[1:38:01] And it might be
+really maladaptive
+[1:38:03] for things like PTSD.
+[1:38:05] On the other hand, let me just
+argue myself right out of this,
+[1:38:09] when I used to have a repeated
+nightmare when I was a kid,
+[1:38:12] my mother who was so wise would
+tell me, well, listen, just--
+[1:38:17] next time you're in that
+dream, say, hey, I'm in a dream
+[1:38:21] and then change
+something about it.
+[1:38:23] So she and I rehearsed
+what the horrible
+[1:38:25] dream that it was, big
+monster running after me.
+[1:38:28] And my legs were like mud,
+and I couldn't run away.
+[1:38:31] And it was just terrifying.
+[1:38:32] And that was a dream I would
+have time and time again.
+[1:38:35] She said, OK, next
+time what are you
+[1:38:37] going to do when that
+monster comes after you?
+[1:38:39] I'm going to run away.
+[1:38:40] No, that's what
+you do every time.
+[1:38:42] And it's always
+the same outcome.
+[1:38:43] You can't run.
+[1:38:44] So let's do something different.
+[1:38:46] What could you do
+that's different?
+[1:38:48] So I came up with all--
+[1:38:49] I could turn around and
+punch it in the nose.
+[1:38:52] Yeah, that's great.
+[1:38:53] And so the next time
+I had that dream--
+[1:38:55] I did recognize this is
+that same old dream which
+[1:38:58] means that there's
+part of my brain
+[1:39:00] that's conscious enough to know
+that I'm in a dreaming state.
+[1:39:04] And then I didn't have
+the courage in my dream
+[1:39:07] because I was still
+terrified to punch or touch
+[1:39:09] the monster in any way.
+[1:39:10] But I did have the
+courage to turn around
+[1:39:12] and look it in the
+eye and say no.
+[1:39:15] That was enough.
+[1:39:15] I said no.
+[1:39:16] And that was enough to knock me
+out of that rut of that dream
+[1:39:20] so that I never had it again.
+[1:39:22] I never had that
+same dream again.
+[1:39:24] And in fact, it gave me
+peace about dreaming,
+[1:39:27] because I knew
+that if ever there
+[1:39:29] was a nightmare that
+was just too scary,
+[1:39:31] I could probably do something to
+change it and knock myself out
+[1:39:35] of it.
+[1:39:35] So even though, I don't
+recommend lucid dreaming
+[1:39:38] on a normal day-to-day basis, if
+it's enough that can knock you
+[1:39:43] out of a rut--
+[1:39:45] one thing that happens
+with people with PTSD
+[1:39:47] is they have the same repeated
+horrible nightmare which
+[1:39:50] is often a reliving of
+the days trauma that had.
+[1:39:55] So maybe lucid dreaming
+can be used on occasion
+[1:39:59] to be a powerful tool, because
+there's so much plasticity that
+[1:40:04] happens during REM
+sleep to knock you out
+[1:40:06] of that rut of reliving that
+event and just change it.
+[1:40:11] And you could probably practice
+that during wakefulness,
+[1:40:15] rehearse the event that
+happened that was so traumatic
+[1:40:18] and then just introduce a new
+element like, now, I'm safe.
+[1:40:23] Now, the sound that was
+associated with that really
+[1:40:27] traumatic thing, I should now
+associate with something else.
+[1:40:30] And the next time
+I have that dream,
+[1:40:32] I'm going to change it
+so that sound is now
+[1:40:34] this new thing that it should
+be associated with safety.
+[1:40:37] And that might be
+enough, maybe, I
+[1:40:39] hope, to knock you out of
+that repeated nightmare
+[1:40:43] and maybe even start you
+on the path to recovery,
+[1:40:45] because if you can calm
+down about those nightmare
+[1:40:48] states of sleep, then maybe
+your local coeruleus which
+[1:40:51] is involved in stress
+can also relax.
+[1:40:53] And you can do the erasure
+parts that need to be done.
+[1:40:56] ANDREW HUBERMAN: I love it.
+[1:40:57] I seem to recall a paper--
+[1:41:00] and I'll have to find the
+reference and send it to you,
+[1:41:03] we will also put in the
+show note captions--
+[1:41:05] that described a protocol
+essentially matches this idea.
+[1:41:10] And I think what they had people
+do was either cue themselves
+[1:41:13] to a particular smell
+or tone in wakefulness
+[1:41:16] then to try and recall
+a recurring nightmare.
+[1:41:20] Then during the
+night sleep, they
+[1:41:22] had the tone playing in the
+background which would then
+[1:41:24] cue them to the wakeful
+state-- they're still asleep,
+[1:41:26] mind you, but in the pseudo
+lucid or lucid state,
+[1:41:29] and then try and change some
+variable as you're describing.
+[1:41:33] Some either look the
+predator in the eyes
+[1:41:35] or do something different.
+[1:41:37] And then in the waking state,
+take a little bit of time
+[1:41:40] to try and script out a
+different narrative altogether.
+[1:41:44] And it took several
+nights, as I recall,
+[1:41:46] or more but that they were
+able to escape this recurring
+[1:41:48] nightmare.
+[1:41:49] GINA POE: It's like a
+week or something, yeah.
+[1:41:51] ANDREW HUBERMAN: So you're
+familiar with the study?
+[1:41:52] GINA POE: That's
+a beautiful study.
+[1:41:53] I loved it.
+[1:41:54] ANDREW HUBERMAN: Yeah, we
+will put a reference to that.
+[1:41:56] I need to revisit that study.
+[1:41:58] It was pretty recent, but I
+need to dive into it again,
+[1:42:01] because I think I didn't go as
+deep into it as I should have.
+[1:42:03] GINA POE: No, no but the
+one thing that you-- you
+[1:42:06] said many right things.
+[1:42:07] But one of the
+things you said is
+[1:42:09] that they were able to cue the
+dreamer when they knew-- when
+[1:42:13] they were going to REM sleep.
+[1:42:15] And then they played the
+sound or had the odor.
+[1:42:17] Now, when you're normally
+asleep alone in your bed,
+[1:42:20] you're not going to be
+able to cue yourself.
+[1:42:21] But it might be that rehearsal
+enough before you go to sleep
+[1:42:25] is enough to help cue you
+to that repeated nightmare,
+[1:42:29] remembering what the nightmare
+is and then figuring out
+[1:42:33] how to cue yourself to
+do something different.
+[1:42:36] ANDREW HUBERMAN:
+For years, I had
+[1:42:37] the same recurring nightmare
+over, and over, and over again.
+[1:42:41] And it was so
+salient and so clear.
+[1:42:43] And I'm not going to share
+what it is, because it's not
+[1:42:45] that it's that disturbing.
+[1:42:46] It was just--
+[1:42:47] I think it was the
+emotional load of it
+[1:42:49] and just how salient
+certain features were,
+[1:42:52] like one person who's
+a real life person had
+[1:42:55] a particular clothing on.
+[1:42:59] And it's like, and that
+just served as this cue.
+[1:43:01] And I don't know if I ever did
+any direct work to try and deal
+[1:43:03] with it.
+[1:43:04] But now, it almost seems
+silly to describe it.
+[1:43:06] GINA POE: Oh, yeah.
+[1:43:06] Well, dreams are usually
+silly to describe.
+[1:43:08] ANDREW HUBERMAN:
+It pretty silly.
+[1:43:10] But it was a pretty
+violent dream.
+[1:43:11] GINA POE: Yeah.
+[1:43:12] And your emotional
+system is so geared
+[1:43:14] up during REM sleep
+which is another thing we
+[1:43:17] could talk about.
+[1:43:18] ANDREW HUBERMAN: Yeah, please.
+[1:43:19] I would love to.
+[1:43:20] Yeah, so locus coeruleus
+is ideally suppressed.
+[1:43:23] So we can't release
+norepinephrine.
+[1:43:25] We can't act out our dreams
+during these very emotionally
+[1:43:29] laden thoughts and
+storylines during sleep.
+[1:43:34] This almost starts to sound
+like a little bit of a built
+[1:43:37] in while sleeping
+trauma therapy,
+[1:43:41] because most trauma
+therapies involved
+[1:43:42] trying to get people
+into states of counter
+[1:43:45] to what most people
+think you actually
+[1:43:47] want to get close to the trauma
+in terms of the narrative
+[1:43:50] or try and suppress the
+emotional activity of it or--
+[1:43:53] I guess that's the motivation
+for ketamine-based therapies
+[1:43:56] for trauma--
+[1:43:57] or I've also heard, and this
+is still perplexing to me,
+[1:43:59] that other waking-based
+trauma therapies involve
+[1:44:02] taking people the other way,
+making it very cathartic,
+[1:44:05] take them to the peak of
+the emotional response
+[1:44:07] but then allow that
+to finally cycle down
+[1:44:09] into a more relaxed response.
+[1:44:11] So please, if there's
+anything about locus coeruleus
+[1:44:16] and dreams and that can help
+people basically extinguish
+[1:44:20] traumas or traumatic
+features to real life events,
+[1:44:23] we definitely want
+to know about them.
+[1:44:25] GINA POE: Yeah.
+[1:44:26] Well, I think one of
+the things that people
+[1:44:29] thought might help after a
+trauma like a school shooting
+[1:44:32] or whatever, car accident,
+is to talk about it.
+[1:44:36] But in fact that ended up
+being counterproductive.
+[1:44:39] And I think one of the reasons
+why it was counterproductive
+[1:44:41] is because it didn't
+take them back down.
+[1:44:44] It brought them up and
+continued to reactivate
+[1:44:47] the emotions of
+it but then didn't
+[1:44:51] emphasize the safety of
+the fact that it's over
+[1:44:54] or help them work through
+how they might avoid it again
+[1:44:58] in the future to calm the
+sympathetic nervous system down
+[1:45:02] again before they went to sleep.
+[1:45:03] And none of these studies has
+sleep ever been considered.
+[1:45:06] But to me, that's the key
+part, is bringing down
+[1:45:10] your sympathetic nervous
+system before you
+[1:45:12] go to sleep so that your
+sleep can be adaptive,
+[1:45:15] your locus release can
+shut off like it normally
+[1:45:17] does or should do and then able
+to erase the novelty of it.
+[1:45:23] The other thing that I
+just mentioned a minute ago
+[1:45:27] was that the emotional system is
+highly activated in REM sleep.
+[1:45:30] And that's definitely true.
+[1:45:31] And that might seem
+counterproductive
+[1:45:34] in terms of the
+nightmares and how
+[1:45:37] to help REM sleep be
+a therapeutic thing
+[1:45:41] rather than reinforcing the
+emotionality of the trauma.
+[1:45:47] And I think the key
+to that again is
+[1:45:50] the absence of norepinephrine.
+[1:45:52] So even though the emotional
+system is in high gear,
+[1:45:56] without norepinephrine,
+you can actually
+[1:46:02] divorce those highly
+activated emotions
+[1:46:05] from the cognitive
+parts of the memory
+[1:46:09] that you have just written
+out in that N2 stage of sleep
+[1:46:13] when the sleep
+spindles are going.
+[1:46:16] So you've just now
+consolidated the information
+[1:46:19] that you'll need to survive
+and to make that adaptive.
+[1:46:23] And now, you need to
+divorce from that schema
+[1:46:27] and from that semantic parts
+of memory, the emotional part,
+[1:46:31] because whenever you
+remember something,
+[1:46:33] it's fine if you remember the
+being emotional at the time.
+[1:46:37] But you don't want to bring
+back and sew into that memory
+[1:46:41] all of the same
+emotional systems.
+[1:46:42] You don't want to bring
+back the heart rate
+[1:46:45] changes, and the
+sweating, and all of that.
+[1:46:48] You want to be able to
+remember all the parts of it
+[1:46:51] and even remember that
+you were traumatized
+[1:46:53] and that you did cry
+and that you did have--
+[1:46:56] your heart was racing.
+[1:46:57] But when you're talking
+about it years later,
+[1:47:00] you don't want to have to
+relive all that, otherwise who
+[1:47:03] would ever want to recall a
+traumatic memory because you're
+[1:47:06] basically putting yourself
+through the same trauma which
+[1:47:08] is what people with PTSD have.
+[1:47:10] They don't want to recall
+this traumatic memory,
+[1:47:13] because it's reliving it.
+[1:47:15] Like it's just happening again.
+[1:47:16] So that's what we're thinking
+is that the emotional parts are
+[1:47:21] no longer-- are not
+able to be divorced
+[1:47:24] because the norepinephrine
+system is not
+[1:47:27] downscaled during REM sleep.
+[1:47:28] And so that REM sleep serves to
+instead reinforce and in fact
+[1:47:33] amplify the emotions because
+your emotional system is up,
+[1:47:37] locus coeruleus
+is high, re-sewing
+[1:47:41] in every night the
+emotionality of those memories
+[1:47:44] and with the memory itself.
+[1:47:46] ANDREW HUBERMAN: You've told
+us a lot about locus coeruleus
+[1:47:50] and norepinephrine
+from locus coeruleus.
+[1:47:52] Is there any role for
+norepinephrine, epinephrine,
+[1:47:56] and cortisol released
+from the adrenals?
+[1:47:59] My understanding is that
+norepinephrine and epinephrine
+[1:48:04] will not cross the blood brain
+barrier which is probably
+[1:48:06] why we have a brain-based
+noradrenergic system,
+[1:48:10] locus coeruleus,
+and other neurons.
+[1:48:12] Actually, that's a
+question I should ask you.
+[1:48:14] Are there other
+sites in the brain
+[1:48:16] where norepinephrine
+is released from
+[1:48:17] or is it just locus coeruleus?
+[1:48:19] GINA POE: So there are seven,
+nine different adrenergic.
+[1:48:23] Yes, there's nine different
+adrenergic structures.
+[1:48:26] ANDREW HUBERMAN: I'm
+sorry I didn't ask.
+[1:48:28] But it just occurred to me that
+in some cases like with raphe,
+[1:48:32] there are other sources
+of serotonergic drive
+[1:48:35] in the brain.
+[1:48:36] But raphe is like the main side.
+[1:48:38] GINA POE: Yeah, that's the
+one that goes to the cortex
+[1:48:41] and the locus coeruleus
+is also the one
+[1:48:42] that goes to the cortex.
+[1:48:44] But there are other adrenergic
+sources, some that--
+[1:48:46] from the brainstem that descend
+and help us to ignore pain,
+[1:48:50] for example, when we're
+stressed and needing to run away
+[1:48:54] from the tiger, right?
+[1:48:55] We don't want to be
+thinking, oh, my ankle hurts.
+[1:48:57] You want to just be
+able to ignore it
+[1:48:58] and go do what you need to do.
+[1:49:00] So yeah, so there are lots of
+other noradrenergic nuclei.
+[1:49:05] But the locus coeruleus
+is the main one that
+[1:49:07] projects all over the brain.
+[1:49:09] Actually, the only place
+that doesn't project
+[1:49:11] is the dorsal striatum.
+[1:49:12] You talked about ventral
+striatum and addiction.
+[1:49:15] The dorsal striatum
+is the only place
+[1:49:16] the locus coeruleus
+doesn't project to.
+[1:49:19] And that's involved in
+procedural learning and motor
+[1:49:22] learning, kinds of
+learning that take over
+[1:49:25] when your hippocampus, for
+example, is compromised.
+[1:49:28] Bilateral, if you don't
+have good hippocampus,
+[1:49:30] you can still do procedural
+learning and do--
+[1:49:32] and it's great.
+[1:49:33] It's a redundant system.
+[1:49:34] And so if your locus
+coeruleus is not
+[1:49:37] working, if you don't have it
+anymore, you can still do a--
+[1:49:40] if you don't have
+a good hippocampus,
+[1:49:42] you can still do learning
+through this dorsal striatum
+[1:49:44] on the structure.
+[1:49:45] So it might be for those
+kinds of learning functions,
+[1:49:50] sleep deprivation
+where you never
+[1:49:52] let the locus coeruleus
+stop firing is OK,
+[1:49:55] because it doesn't have any
+receptors for norepinephrine
+[1:49:59] anyway.
+[1:49:59] So yeah.
+[1:50:01] ANDREW HUBERMAN: And what
+about bodily like adrenals.
+[1:50:06] I often remind people there's no
+such thing as adrenal burnout,
+[1:50:09] per se, that adrenals
+don't actually burn out.
+[1:50:13] But some people have adrenal
+insufficiency syndrome.
+[1:50:16] Other people have
+adrenals that are just
+[1:50:18] chronically cranking out
+epinephrine, norepinephrine,
+[1:50:22] and cortisol at the wrong
+times in particular.
+[1:50:25] GINA POE: Yeah.
+[1:50:26] So that-- those are
+great questions.
+[1:50:30] And I think the answers
+to them have yet
+[1:50:32] to be discovered,
+the connections
+[1:50:34] between our periphery and
+our central nervous system.
+[1:50:36] But we know that there
+are beautiful connections.
+[1:50:39] And it's untapped
+source of being
+[1:50:42] able to manipulate our brains
+is to work through our bodies.
+[1:50:45] And so our adrenals
+do great things.
+[1:50:49] They constrict
+our blood vessels,
+[1:50:51] causing higher blood pressure
+which helps blood rush out
+[1:50:54] to all the extremities that need
+blood, our muscles for example,
+[1:50:59] for running away from
+the lion, or the tiger--
+[1:51:03] ANDREW HUBERMAN: Or
+meeting a grant deadline
+[1:51:04] or catching a train.
+[1:51:07] GINA POE: Or catching
+a train, yeah.
+[1:51:09] The adrenals help our
+hearts pump faster.
+[1:51:11] Our muscles get perfused
+with the blood it needs.
+[1:51:16] It diverts blood
+and everything away
+[1:51:18] from our parasympathetic system
+which is rest and digest.
+[1:51:22] We don't really need to
+digest that croissant
+[1:51:24] when we're running for a train.
+[1:51:26] We can do that later.
+[1:51:28] So it's doing really
+important things.
+[1:51:31] What we don't know, because it
+doesn't cross the blood brain
+[1:51:33] barrier, is how that affects
+the brain and whether our--
+[1:51:37] if we can independently activate
+our adrenals, when a time when
+[1:51:43] our brain thinks that we should
+be fine and calm and asleep,
+[1:51:47] how our brain detects that.
+[1:51:50] Is it a feedback
+through heart is racing?
+[1:51:52] And then our brainstem
+says, what's going on,
+[1:51:54] my heart is racing,
+and then wakes us up.
+[1:51:57] And then our hearts were racing
+together with our brain racing.
+[1:52:00] We just don't know the answers
+to these questions yet.
+[1:52:04] There are some good
+studies, old studies.
+[1:52:07] But we need a lot more.
+[1:52:10] ANDREW HUBERMAN: I will--
+another nod to the fact
+[1:52:12] that there's lots of great
+work ongoing and still to do.
+[1:52:15] I'd love for you to tell
+us about some of the work
+[1:52:17] that you're doing more
+recently on the relationship
+[1:52:19] between sleep and
+opiate use, withdrawal
+[1:52:24] relapse, and craving,
+just addiction, generally.
+[1:52:29] I get a lot of questions
+about people trying
+[1:52:32] to come off benzodiazepines
+or people's challenges
+[1:52:36] with benzodiazepine and
+other types of addiction.
+[1:52:41] What is the role of sleep
+in addiction and recovery
+[1:52:44] from addiction and
+opiates in particular?
+[1:52:46] GINA POE: Yeah.
+[1:52:47] This is a very young area.
+[1:52:49] And in fact, my laboratory
+has just started.
+[1:52:51] I have a graduate student
+who's been in my lab
+[1:52:54] for just one year.
+[1:52:54] She's done amazing work already
+but completely groundbreaking
+[1:52:59] work.
+[1:52:59] And what she has
+discovered already--
+[1:53:01] we don't have the paper out
+yet, but we're working on it--
+[1:53:04] is that when animals
+withdraw from opiates--
+[1:53:09] and this has been
+replicated in other ways
+[1:53:12] with other types of things--
+[1:53:15] our sleep is disturbed.
+[1:53:16] Our sleep is terribly disturbed.
+[1:53:18] And the amount of
+sleep disturbance
+[1:53:19] predicts relapse behaviors.
+[1:53:22] And you might think,
+well, of course,
+[1:53:24] you're going to relapse
+if you can't sleep
+[1:53:26] because opiates calm you down.
+[1:53:27] Well, then one of the reasons
+why opiates calm you down
+[1:53:29] is because the locus coeruleus,
+again, the blue spot,
+[1:53:32] is covered with
+opiate receptors that
+[1:53:35] are normally really responsive
+to our endogenous opiates.
+[1:53:39] And so what happens
+when we are pleased,
+[1:53:43] for example, or
+laughing or whatever,
+[1:53:45] endogenous dodges
+opiates activate
+[1:53:48] those receptors in the locus
+coeruleus and calm it down.
+[1:53:51] It actually suppresses
+locus coeruleus activity.
+[1:53:55] It makes us happy and relaxed.
+[1:53:57] One of the things, reasons
+why opiates are so addictive
+[1:53:59] is because it also calms us
+down and makes us relaxed.
+[1:54:03] But the problem with
+exogenous opiates
+[1:54:06] is that they really strongly
+bind these receptors
+[1:54:10] on our locus coeruleus.
+[1:54:11] And if you take exogenous
+opiates again and again
+[1:54:15] like you're recovering
+from surgery, for example,
+[1:54:17] and take these
+pain medications is
+[1:54:19] that our locus
+coeruleus struggles
+[1:54:21] to do what it's supposed to
+do which is keep us awake,
+[1:54:23] and learning, and
+concentrating on things.
+[1:54:26] So it will down regulate.
+[1:54:27] It will internalize
+these receptors
+[1:54:30] that are normally only
+occupied by endogenous opiates.
+[1:54:33] And it will do
+this-- it will change
+[1:54:35] our genes that are associated
+with producing these receptors.
+[1:54:38] So you actually have very
+many fewer receptors.
+[1:54:41] So the locus coeruleus, at
+least, during wakefulness
+[1:54:43] can fire and to help us
+to do these things learn
+[1:54:46] about our environment.
+[1:54:48] And so if you long term
+reduce the number of receptors
+[1:54:51] out there, then when you
+withdraw the exogenous opiate,
+[1:54:55] there is not enough
+of your endogenous
+[1:54:57] opiates to be able to occupy
+those few receptors that
+[1:55:02] are there.
+[1:55:02] And our locus has nothing
+to calm it down anymore,
+[1:55:05] no pacifier.
+[1:55:06] And it just fires,
+and fires, and fires.
+[1:55:08] And that physic and
+tonic high activity
+[1:55:13] stresses us out,
+because it's normally
+[1:55:15] associated with stress.
+[1:55:17] And so any exogenous
+stressor that adds to that
+[1:55:20] and also activates
+our locus coeruleus,
+[1:55:22] there's nothing to
+calm it down again.
+[1:55:24] And so it just keeps firing.
+[1:55:26] It disturbs our sleep.
+[1:55:28] And that's why maybe
+sleep disturbance
+[1:55:30] is an indicator of
+hyperactive locus coeruleus
+[1:55:35] and such a good
+predictor of relapse
+[1:55:39] behaviors because nobody likes
+to live in that high stress
+[1:55:43] state.
+[1:55:43] And they will do anything
+to get back to normal.
+[1:55:48] So the problem with
+taking these drugs
+[1:55:52] is that it leaves you excited--
+[1:55:56] I'm sorry, excited,
+relaxed and happy.
+[1:55:59] But then when you
+come off of it,
+[1:56:00] you're worse than when
+you were at baseline.
+[1:56:04] You take it again.
+[1:56:05] It only brings you up
+this far, because you
+[1:56:07] have fewer receptors.
+[1:56:08] When you come off it, you're
+down, even more depressed
+[1:56:12] and anxious and--
+[1:56:14] depressed is a
+word I use loosely,
+[1:56:16] and that's not what I--
+[1:56:17] ANDREW HUBERMAN: Certainly,
+central nervous system
+[1:56:19] depression, sleepier, less
+motivated, lower mood.
+[1:56:23] GINA POE: Yeah.
+[1:56:23] Our locus coeruleus
+is actually--
+[1:56:26] it's a anxiety kind of
+depression actually,
+[1:56:28] the anxiety related depression.
+[1:56:30] So yeah.
+[1:56:32] So we don't know yet what--
+[1:56:34] and there's some good
+research going on right now--
+[1:56:36] what could restore our own
+endogenous receptors so
+[1:56:40] that our endogenous opiates
+can properly calm our locus
+[1:56:44] coeruleus once that they
+have been tamped down
+[1:56:48] by exogenous opiates.
+[1:56:49] But that would be really one way
+that you can access the sleep
+[1:56:53] disturbance.
+[1:56:54] So we talked about sleep
+and the importance of sleep
+[1:56:56] in terms of learning and
+memory, the importance
+[1:56:58] of the structure of the
+90-minute cycle for all
+[1:57:01] of that.
+[1:57:01] So you can imagine if your
+sleep is disturbed by too much
+[1:57:04] locus coeruleus activity.
+[1:57:07] The structure and the function
+of those sleep spindles
+[1:57:10] and that theta during REM sleep
+and the lack of norepinephrine,
+[1:57:14] all of those structures, all
+those functions for learning
+[1:57:20] something new, like a new
+behavior that doesn't involve
+[1:57:24] the drugs becomes compromised.
+[1:57:26] And so that's something that
+Tania Lugo, in collaboration
+[1:57:30] with Pamela Kennedy
+at UCLA, that we're
+[1:57:33] looking at how is learning and
+memory affected by the sleep
+[1:57:36] disturbance.
+[1:57:36] If there's a way we can--
+[1:57:38] in animals that are
+coming off of opiates.
+[1:57:41] Can we restore their
+sleep to normal
+[1:57:43] so that then they
+are less likely to do
+[1:57:47] relapse kinds of behaviors.
+[1:57:49] ANDREW HUBERMAN: Fascinating.
+[1:57:50] And I will certainly have to
+have you back on to tell us
+[1:57:54] the results of those studies.
+[1:57:55] Meanwhile, I think
+for anyone who's
+[1:57:57] trying to come off
+opiates, exogenous opiates
+[1:58:00] and restore these
+systems, what I'm hearing
+[1:58:03] is that it's going to take
+some time but that any and all
+[1:58:06] things that people
+can do to buffer
+[1:58:08] their healthy normal sleep
+architecture like morning
+[1:58:11] and daytime sunlight, limiting
+bright light exposure,
+[1:58:14] lowering the temperature at
+night, a number of things
+[1:58:16] that we've talked
+about in this podcast--
+[1:58:18] GINA POE: Breathing
+exercises, meditation,
+[1:58:20] whatever it is that helps you
+calm yourself before sleep,
+[1:58:22] yeah.
+[1:58:23] ANDREW HUBERMAN: Right.
+[1:58:24] Would facilitate not just sleep
+but perhaps even accelerate
+[1:58:27] the recovery and
+shorten this period
+[1:58:30] of withdrawal, which
+from the questions I get
+[1:58:32] and from what I hear can
+be absolutely brutal.
+[1:58:36] GINA POE: Yeah.
+[1:58:37] Oh, I can imagine.
+[1:58:38] I had to take opiates for--
+[1:58:40] I only took it for three
+days after giving birth
+[1:58:43] to my first son, I think,
+second son, one of them.
+[1:58:48] And just-- I just said after
+three days, this is enough.
+[1:58:51] I'm just going to try Tylenol.
+[1:58:53] And so I weaned
+myself-- not weaned,
+[1:58:56] I just did a sudden
+sharp cut off.
+[1:58:58] And even though I felt--
+[1:59:00] I didn't get the high
+of opiates when I
+[1:59:02] was taking the Tylenol codeine.
+[1:59:07] When I went off it, boy,
+it was like PMS times 100.
+[1:59:11] I was so anxious and
+upset at little things.
+[1:59:15] And thankfully, it only
+lasted a few hours.
+[1:59:17] But if I had taken it
+for a week or two weeks,
+[1:59:19] who knows if my endogenous
+opiate receptors would
+[1:59:23] have been permanently
+downregulated
+[1:59:24] and I would have
+been an addict--
+[1:59:27] or an addict-- I would
+have been addicted.
+[1:59:29] I shouldn't say an addict.
+[1:59:30] There's negative connotations.
+[1:59:31] It's just a very
+physiological state.
+[1:59:33] So no judgments at all
+associated with it.
+[1:59:37] So yeah, They're powerful,
+powerful painkillers
+[1:59:41] but can also alter your
+entire brain and rewire it.
+[1:59:45] ANDREW HUBERMAN: Well,
+all the more reason
+[1:59:47] why I and many others
+are grateful that you're
+[1:59:49] doing this work
+to figure out ways
+[1:59:50] that people can recover more
+quickly and more thoroughly.
+[1:59:55] I must say you've taught
+us a tremendous amount
+[1:59:59] in a relatively
+short amount of time
+[2:00:01] about the architecture of
+sleep, the different phases,
+[2:00:04] the relationship between
+sleep and dreaming
+[2:00:06] and this incredible
+structure, locus coeruleus.
+[2:00:08] And I'm so happy we
+also got into the pons.
+[2:00:10] That just delights me,
+because we rarely talk
+[2:00:13] about the pons on this podcast.
+[2:00:14] It's such an
+interesting structure.
+[2:00:16] Sex differences that are
+important in creativity
+[2:00:19] and problem solving and trauma
+sleep spindles, just such
+[2:00:23] a wealth of information.
+[2:00:25] And much of it that's
+actionable for people.
+[2:00:27] So first of all, I
+want to say thank you
+[2:00:29] for taking the time
+to sit down and have
+[2:00:30] this conversation that
+so many people are
+[2:00:32] sure to benefit from.
+[2:00:33] I also want to thank you
+for doing the work you do.
+[2:00:35] Even though I'm a
+fellow neurobiologist,
+[2:00:38] I think that it's not often that
+we take a step back and realize
+[2:00:43] that it's really
+the work of hard--
+[2:00:47] thinking hard, strongly
+motivated PIs--
+[2:00:52] it stands for
+principal investigator
+[2:00:54] by the way, PIs like
+yourself, graduate students,
+[2:00:56] and post-docs that really
+drive the discovery forward
+[2:00:58] and that lead to these
+new therapeutics.
+[2:01:01] Physicians are wonderful.
+[2:01:02] Clinicians are
+absolutely wonderful.
+[2:01:04] But clinicians don't
+develop new treatments.
+[2:01:06] They only implement the ones
+that researchers discover.
+[2:01:08] So thank you for
+being a brain explorer
+[2:01:12] with a focus on growing
+the good in the world.
+[2:01:16] I know I speak for everybody
+when I say thank you so much.
+[2:01:20] GINA POE: Thank you
+so much, Andrew.
+[2:01:21] Thank you for being an
+amazing interviewer.
+[2:01:23] You brought a lot out of
+me in a coherent fashion
+[2:01:26] that normally I can't do
+when I'm speaking in public.
+[2:01:29] ANDREW HUBERMAN: I
+don't know about that.
+[2:01:30] I've heard your lectures,
+and they're superb.
+[2:01:31] We'll direct people to
+some of the other ones.
+[2:01:33] GINA POE: Well, thank you.
+[2:01:34] And I also want to put a
+plug-in for graduate students
+[2:01:36] in general and the
+key and amazing role
+[2:01:39] that they play in research.
+[2:01:41] I'm a PI, as you said.
+[2:01:43] I used to be a graduate student
+and a post-doc trainee myself,
+[2:01:46] doing all of this on the ground
+hands on experimentation.
+[2:01:50] It's so hard to do.
+[2:01:51] It's so hard to do, right?
+[2:01:52] It's so hard to think
+through all of that.
+[2:01:54] Now, I'm a PI, I get
+to be an idea person
+[2:01:57] and just say, hey,
+why don't you do this
+[2:01:59] and hey, what do you
+think about that.
+[2:02:01] And they, of course,
+intellectually
+[2:02:03] contributes so much to
+these planned experiments.
+[2:02:08] But they also do the
+really hard work.
+[2:02:10] And so I just want to say
+thank you graduate students.
+[2:02:14] Thank you to my
+graduate students
+[2:02:15] and all graduate
+students out there.
+[2:02:17] Thank you post-docs.
+[2:02:17] ANDREW HUBERMAN: --underpaid.
+[2:02:18] And listen, and to the major
+institutions, Stanford UCLA
+[2:02:22] and all other major
+institutions, pay them more,
+[2:02:24] please.
+[2:02:24] GINA POE: Yes.
+[2:02:25] ANDREW HUBERMAN: We need them.
+[2:02:26] And they need to have
+a standard of living.
+[2:02:28] I'm not afraid to say that
+despite my primary employer.
+[2:02:31] Pay them more.
+[2:02:31] They need it.
+[2:02:32] They deserve it.
+[2:02:32] GINA POE: They deserve
+it, absolutely.
+[2:02:34] ANDREW HUBERMAN: Great.
+[2:02:35] Well, we will absolutely
+have you back again
+[2:02:37] if you'll be willing.
+[2:02:38] And meanwhile, we
+will direct people
+[2:02:41] to where they can
+learn more about you
+[2:02:43] and your exciting work.
+[2:02:44] And once again, thanks so much.
+[2:02:45] GINA POE: Thank you so much.
+[2:02:46] ANDREW HUBERMAN: Thank
+you for joining me today
+[2:02:48] for my discussion about sleep,
+mental health, physical health,
+[2:02:50] and performance
+with Dr. Gina Poe.
+[2:02:53] I hope you found it to be as
+informative and as actionable
+[2:02:55] as I did.
+[2:02:56] In fact, I'm already
+implementing the regularity
+[2:02:59] of bedtime plus or
+minus half an hour
+[2:03:01] in order to get that
+growth hormone release.
+[2:03:03] And I can already see
+both my sleep scores
+[2:03:05] improving and my
+feelings of daytime vigor
+[2:03:08] and focus and other markers of
+sleep health improving as well.
+[2:03:11] If you're learning from
+and/or enjoying this podcast,
+[2:03:13] please subscribe to
+our YouTube channel.
+[2:03:15] That's a terrific zero
+cost way to support us.
+[2:03:18] In addition, please
+subscribe to the podcast
+[2:03:20] on both Spotify and Apple.
+[2:03:21] And on both Spotify
+and Apple, you
+[2:03:23] can also leave us up
+to a five-star review.
+[2:03:25] If you have questions for us
+or comments or suggestions
+[2:03:27] about guests you'd like me
+to include on the podcast,
+[2:03:29] please put those in the
+comments section on YouTube.
+[2:03:31] I do read all the comments.
+[2:03:33] In addition, please
+check out the sponsors
+[2:03:35] mentioned at the beginning and
+throughout today's episode.
+[2:03:37] That's the best way to
+support this podcast.
+[2:03:40] On the Huberman Lab podcast,
+we often discuss supplements.
+[2:03:43] While supplements aren't
+necessary for everybody,
+[2:03:45] many people derive tremendous
+benefit from them for things
+[2:03:47] like enhancing the quality
+and duration of sleep,
+[2:03:50] for enhancing focus,
+and for hormone support.
+[2:03:52] The Huberman Lab podcast
+is proud to announce
+[2:03:54] that we've partnered with
+Momentous supplements.
+[2:03:56] We've done that for
+several reasons.
+[2:03:58] First of all,
+Momentous supplements
+[2:03:59] are of the very highest quality.
+[2:04:01] Second of all, they mainly
+focus on single ingredient
+[2:04:04] formulations which is
+absolutely key if you
+[2:04:06] want to develop a
+supplement regimen that's
+[2:04:08] most biologically
+and cost effective.
+[2:04:10] It, for instance, allows you to
+alternate dosages across days
+[2:04:13] to change the dosages of
+individual ingredients,
+[2:04:15] so on and so forth.
+[2:04:17] In addition,
+Momentous supplements
+[2:04:18] ship internationally,
+which we know
+[2:04:20] is important because many of
+you reside outside of the United
+[2:04:22] States.
+[2:04:23] If you'd like to see the
+supplements discussed
+[2:04:25] on the Huberman Lab podcast,
+please go to livmomentous,
+[2:04:27] spelled o-u-s, so that's
+livmomentous.com/huberman.
+[2:04:31] You can get a 20% discount
+on any of those supplements.
+[2:04:34] Again, it's a
+livmomentous.com/huberman.
+[2:04:37] The Huberman Lab podcast
+has a zero cost newsletter
+[2:04:40] that includes summaries of
+podcast episodes and toolkits,
+[2:04:43] so checklist of
+actionable tools that you
+[2:04:45] can use for all aspects of
+mental health, physical health,
+[2:04:48] and performance.
+[2:04:49] You can access this
+completely zero cost
+[2:04:51] by going to hubermanlab.com,
+go to the menu,
+[2:04:53] and scroll down to newsletter.
+[2:04:55] Just put in your email.
+[2:04:56] We do not share your
+email with anybody.
+[2:04:58] And you will get our
+monthly newsletter
+[2:05:00] and there are also some
+examples of previous newsletters
+[2:05:02] also there at hubermanlab.com.
+[2:05:04] You're not already following
+me on social media,
+[2:05:06] it is Huberman Lab on all
+platforms, Instagram, Twitter,
+[2:05:09] Facebook, and LinkedIn.
+[2:05:11] And at all of those
+places, I cover
+[2:05:13] science and science-related
+tools, some of which
+[2:05:15] overlap with the content
+of the Huberman Lab podcast
+[2:05:17] but much of which is distinct
+from the Huberman Lab
+[2:05:20] podcast content.
+[2:05:20] Again, that's Huberman Lab on
+all social media platforms.
+[2:05:23] Thank you again for joining
+me for today's discussion
+[2:05:26] with Dr. Gina Poe all about
+sleep and its relationship
+[2:05:29] to mental health, physical
+health, and performance.
+[2:05:31] And last but
+certainly not least,
+[2:05:33] thank you for your
+interest in science.
+[2:05:35] [MUSIC PLAYING]

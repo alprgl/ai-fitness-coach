@@ -1,0 +1,6175 @@
+# Using Caffeine to Optimize Mental & Physical Performance
+# id=iw97uvIge7c published=2022-12-05 lang=en generated=False
+
+[0:00:00] ANDREW HUBERMAN: Welcome to
+the Huberman Lab podcast,
+[0:00:02] where we discuss science
+and science-based tools
+[0:00:04] for everyday life.
+[0:00:05] [MUSIC PLAYING]
+[0:00:09] I'm Andrew Huberman,
+and I'm a professor
+[0:00:11] of Neurobiology
+and Ophthalmology
+[0:00:13] at Stanford School of Medicine.
+[0:00:15] Today we are
+discussing caffeine.
+[0:00:17] Caffeine is one of the
+most widely used substances
+[0:00:20] on the planet.
+[0:00:21] Estimates are that more than
+90% of adults and as many as 50%
+[0:00:25] of kids that is
+adolescents and teenagers
+[0:00:28] use caffeine on a daily basis.
+[0:00:31] Caffeine is an amazing molecule.
+[0:00:33] Most people are familiar
+with caffeine's ability
+[0:00:35] to increase alertness and
+to reduce our feelings
+[0:00:39] of sleepiness and fatigue.
+[0:00:40] And indeed, it does that.
+[0:00:42] But what most people
+are not aware of
+[0:00:44] is that caffeine acts
+as a strong reinforcer.
+[0:00:47] What I mean by reinforcer
+is that, when caffeine
+[0:00:49] is present in a drink or food--
+[0:00:51] and yes, indeed, caffeine
+is present in many foods
+[0:00:55] even unbeknownst to us.
+[0:00:57] When it's present
+in drinks and foods,
+[0:00:59] we actively come to like those
+foods and drinks more than
+[0:01:03] if caffeine were not contained
+in those foods and drinks.
+[0:01:07] So it reinforces our liking of
+particular foods and drinks.
+[0:01:11] And indeed, it even
+reinforces our liking
+[0:01:13] of the containers
+they are consumed from
+[0:01:16] and the company we keep when we
+consume foods and drinks that
+[0:01:20] contain caffeine.
+[0:01:22] That is, caffeine is
+not just a stimulant.
+[0:01:24] Caffeine is a reinforcer.
+[0:01:26] And it's a reinforcer that
+plays an active role in almost
+[0:01:30] everybody's daily life.
+[0:01:32] We can say that with confidence
+because, as I mentioned
+[0:01:34] a moment ago, more than 90% of
+people are consuming caffeine.
+[0:01:37] And most people think that they
+consume caffeine because it
+[0:01:40] makes them feel more alert.
+[0:01:41] But there are many reasons
+why you're consuming caffeine.
+[0:01:44] And I'm not going to tell you
+that consuming caffeine is
+[0:01:46] necessarily bad.
+[0:01:47] In fact, today, I'm going
+to tell you about many
+[0:01:49] of the positive health
+benefits of caffeine,
+[0:01:52] including
+neuroprotective effects,
+[0:01:54] antidepressive
+effects, and certainly
+[0:01:56] performance-enhancing effects,
+both for mental performance
+[0:02:00] and for physical performance.
+[0:02:01] Now that said, there are
+certain situations in which you
+[0:02:04] want to avoid caffeine, and
+there are certain people who
+[0:02:06] might opt to avoid caffeine.
+[0:02:08] That's especially the case
+when one thinks about caffeine
+[0:02:11] not just as a stimulant
+but as a reinforcer.
+[0:02:13] In fact, caffeine is
+such a strong reinforcer
+[0:02:15] that, if even tiny
+amounts of caffeine
+[0:02:17] are present in certain
+foods and drinks,
+[0:02:20] you will very quickly
+come to prefer those foods
+[0:02:22] and drinks over
+other choices, which
+[0:02:24] can be a good thing
+or a bad thing,
+[0:02:26] depending on what sorts
+of food and drink choices
+[0:02:28] you're trying to make.
+[0:02:29] So today, I'm
+going to inform you
+[0:02:31] about how caffeine works
+at a mechanistic level.
+[0:02:33] I promise to do
+that with a minimum
+[0:02:35] of nomenclature and such
+that, even if you don't have
+[0:02:37] a background in
+biology, you will
+[0:02:39] be able to digest that
+information easily.
+[0:02:41] And then I'll tell you how to
+use caffeine to your advantage
+[0:02:44] or conversely how to avoid
+caffeine at certain times
+[0:02:48] to your advantage.
+[0:02:49] So today's episode will focus
+both on mechanisms and tools
+[0:02:53] that is the use and
+leverage of caffeine
+[0:02:55] to improve mental
+health, physical health,
+[0:02:57] and performance.
+[0:02:58] Before we go any further
+into today's discussion,
+[0:03:01] I want to tell you about some
+recent results about a molecule
+[0:03:04] that's found in certain
+caffeinated beverages
+[0:03:07] and that has been proven to
+be very useful for both weight
+[0:03:11] loss, mental performance, and
+controlling blood sugar levels.
+[0:03:14] And that's GLP-1 or
+glucagon-like peptide 1.
+[0:03:18] Glucagon-like peptide 1 is
+found in the brain and body.
+[0:03:22] It acts both on
+the brain and body.
+[0:03:24] It does many different things.
+[0:03:25] But one of its primary
+effects that's been discovered
+[0:03:28] is to reduce hunger.
+[0:03:29] And it does that in two ways.
+[0:03:31] It does that by
+activating certain neurons
+[0:03:33] in your hypothalamus.
+[0:03:34] So that's a brain region that
+controls hunger and satiety.
+[0:03:37] It makes us feel full at
+the level of the brain,
+[0:03:39] so it makes us feel
+sated, that is.
+[0:03:41] And it actually
+makes us feel full.
+[0:03:43] It turns out that GLP-1 acts
+on certain receptors in the gut
+[0:03:47] to make us feel as if
+we've ingested enough food.
+[0:03:50] It doesn't necessarily
+make us feel
+[0:03:52] as if our gut is distended,
+but it makes us feel full.
+[0:03:54] That's really interesting
+because, if you
+[0:03:56] think about it, when we eat,
+our stomach fills up, obviously.
+[0:03:59] And that information has to be
+communicated to the brain such
+[0:04:03] that the brain can then send
+satiety signals that actually
+[0:04:06] shut off our hunger.
+[0:04:07] And believe it or not,
+the brain actually
+[0:04:08] activates signals
+to reduce the desire
+[0:04:11] to chew when our
+stomach is full.
+[0:04:13] And GLP-1, as I mentioned,
+works on the brain
+[0:04:16] to create these feelings of
+satiety as if we've had enough
+[0:04:19] and to reduce our
+desire to eat more.
+[0:04:21] And GLP-1 acts
+directly on the gut
+[0:04:24] to give us a slight sense of
+fullness in the gut, which then
+[0:04:27] is communicated to the brain.
+[0:04:28] So really, there are
+two parallel signals
+[0:04:30] being sent when we have
+GLP-1 present in our system.
+[0:04:33] Now a little bit of
+relevant history on GLP-1.
+[0:04:35] It was actually discovered
+in Gila monsters.
+[0:04:37] These are these reptiles that
+can go long periods of time
+[0:04:41] without eating.
+[0:04:41] And a very clever
+scientist decided
+[0:04:43] to study why it is that certain
+animals like Gila monsters
+[0:04:47] can go a long period of time
+without ingesting anything.
+[0:04:50] And it's because they produce
+very large amounts of GLP-1.
+[0:04:54] They isolate the
+peptide from GLP-1,
+[0:04:56] then they looked for the
+analogous peptide in humans.
+[0:05:00] And it turns out
+that does exist.
+[0:05:01] And as I mentioned, it's
+released in both brain and body
+[0:05:04] to make you feel full and sated.
+[0:05:06] Why am I telling you all this?
+[0:05:07] Well, today we're going
+to talk about caffeine.
+[0:05:09] And there's one particular
+caffeine source,
+[0:05:11] which is yerba maté, and there
+are some other forms of teas
+[0:05:14] similar to yerba mate that
+stimulate the release of GLP-1
+[0:05:18] significantly.
+[0:05:19] There are also nowadays drugs
+which are called analogues
+[0:05:23] of GLP-1.
+[0:05:24] So these are drugs
+that mimic or are
+[0:05:27] identical to the kind of
+GLP-1 that you would make.
+[0:05:29] And those drugs are proven
+to be very effective
+[0:05:31] for the treatment of
+certain forms of diabetes
+[0:05:34] and for the
+treatment of obesity,
+[0:05:35] but they trigger
+enormous amounts
+[0:05:37] of GLP-1 pathway activation.
+[0:05:39] So those are extreme cases
+for people that are really
+[0:05:41] struggling for weight loss.
+[0:05:42] But the clinical trials and
+the data that are out there
+[0:05:45] in the general
+population now are very,
+[0:05:47] very promising for
+GLP-1 analogues.
+[0:05:49] Yerba maté tea, provided
+it's not the smoked variety--
+[0:05:53] and I mention that because a
+number of people have cued me
+[0:05:56] to the fact that yerba maté
+teas come in smoked varieties
+[0:06:00] and nonsmoked varieties.
+[0:06:01] And the smoked
+varieties are thought
+[0:06:03] to perhaps be carcinogenic.
+[0:06:04] That is, procancer-causing.
+[0:06:06] So I advise people to avoid
+smoked varieties of yerba maté
+[0:06:10] tea.
+[0:06:11] But yerba maté teas are known
+to stimulate significant amounts
+[0:06:14] of GLP-1 release.
+[0:06:15] And so they can be effective
+as a weight loss tool,
+[0:06:18] mainly by blunting appetite.
+[0:06:20] And again, they do that both
+at the level of the brain
+[0:06:23] and at the level of the gut.
+[0:06:25] Now all of what I
+just told you has
+[0:06:26] been known for some
+period of time,
+[0:06:28] but there are new set of
+findings that were just
+[0:06:30] published in Cell Reports
+Medicine, Cell Press
+[0:06:32] journal, excellent journal--
+[0:06:34] which indicate exactly
+how it is that GLP-1
+[0:06:37] stimulates both satiety and
+can trigger additional weight
+[0:06:41] loss through other mechanisms.
+[0:06:43] And I find the mechanism to be
+really interesting and actually
+[0:06:46] really important, given
+some other topics we've
+[0:06:48] covered on this podcast before.
+[0:06:49] So the basic finding
+is that GLP-1,
+[0:06:53] whether or not it's stimulated
+through the release of analogue
+[0:06:56] drug that one is prescribed
+or by drinking yerba maté tea,
+[0:07:00] for instance, and stimulate
+release of your own so-called
+[0:07:02] endogenous GLP-1, yes, it makes
+you feel more full at the level
+[0:07:07] of brain and body.
+[0:07:07] But it turns out it also
+stimulates thermogenesis.
+[0:07:10] Now thermogenesis is
+the active utilization
+[0:07:15] of more metabolic energy.
+[0:07:16] And fat cells, in particular--
+so-called beige and brown fat
+[0:07:21] cells--
+[0:07:22] are a potent source of
+thermogenic activity
+[0:07:24] in your body.
+[0:07:25] The basic background is that
+you have white adipose cells, so
+[0:07:28] white fat cells.
+[0:07:30] You have beige fat cells,
+and you have brown fat cells.
+[0:07:32] And the beige and brown
+ones are fat cells
+[0:07:36] that you actually want more of.
+[0:07:37] They are not abundant
+under your skin.
+[0:07:39] They're abundant really
+around your clavicles
+[0:07:40] and your upper neck.
+[0:07:41] They are the ones
+that generate heat.
+[0:07:43] And the beige and
+brownness of them
+[0:07:45] is actually the consequence of
+having a lot of mitochondria
+[0:07:48] in those cells.
+[0:07:49] When GLP-1 is elevated
+in your system,
+[0:07:52] it turns out that
+it communicates
+[0:07:53] to those white fat cells
+and helps convert them
+[0:07:57] into beige and brown fat cells.
+[0:07:59] That is, it takes fat
+cells that are not
+[0:08:01] doing anything useful for you
+except being stored energy.
+[0:08:04] And I think most
+people out there
+[0:08:05] would like to have fewer of
+those white adipose cells.
+[0:08:08] There are few of you
+out there that actually
+[0:08:10] need more of them that
+are too thin, too lean,
+[0:08:12] but most people are suffering
+from having too many
+[0:08:14] of these white adipose cells.
+[0:08:16] Well, when you ingest yerba maté
+tea or you were to take a GLP-1
+[0:08:19] analogue or stimulate GLP-1 in
+any number of different ways,
+[0:08:23] yes, you stimulate
+increased satiety,
+[0:08:25] but you're also stimulating the
+conversion of these white fat
+[0:08:29] cells into beige
+and brown fat cells,
+[0:08:33] which makes you more thermogenic
+and over time raises your basal
+[0:08:37] metabolic rate.
+[0:08:38] So you're burning more
+calories even at rest.
+[0:08:40] It also makes you
+feel as if you're
+[0:08:42] more comfortable in colder
+environments at rest.
+[0:08:45] This is very much the same
+as the mechanism that's
+[0:08:50] induced when you were to,
+say, take a cold shower
+[0:08:53] or do regular ice baths or
+get into cold water regularly.
+[0:08:55] That, too, stimulates the
+conversion of white fat cells
+[0:08:58] to beige and brown fat cells.
+[0:09:00] So I like these
+findings very much
+[0:09:01] because they provide a
+mechanistic coherence.
+[0:09:04] They provide that is a
+really nice story as to how
+[0:09:07] something like GLP-1 could be
+so effective for weight loss.
+[0:09:11] Yes, on the one hand,
+GLP-1 is reducing appetite,
+[0:09:14] and that, of course, will help
+people maintain or lose weight.
+[0:09:17] But it's also increasing
+basal metabolic rate.
+[0:09:20] And we now know how
+that's accomplished.
+[0:09:21] It's likely accomplished
+at least through this one
+[0:09:24] mechanism by the
+stimulation of conversion
+[0:09:27] of these white fat cells,
+which don't do much for us
+[0:09:29] except as energy storage
+units to these metabolically
+[0:09:34] mitochondrial-rich beige
+and brown fat cells,
+[0:09:36] which you can think of as
+sort of the oil in the candle
+[0:09:39] that allows your furnace, your
+metabolism to burn at a higher
+[0:09:43] temperature and a higher rate.
+[0:09:44] So that's the mechanism.
+[0:09:45] And the basic tool
+takeaway is that,
+[0:09:47] if you are somebody who's
+interested in losing weight
+[0:09:50] and you want to leverage
+the GLP-1 pathway,
+[0:09:52] drinking a cup or two of yerba
+maté tea early in the day would
+[0:09:57] be a great way to
+stimulate GLP-1 release.
+[0:10:00] There are other ways to
+stimulate GLP-1 release.
+[0:10:02] You can get it through
+certain forms of exercise.
+[0:10:04] In particular, fasted exercise.
+[0:10:05] This is actually a vote in
+favor of fasted exercise.
+[0:10:07] There's a debate as
+to whether or not
+[0:10:09] fasted cardio burns more
+fat than nonfasted cardio.
+[0:10:12] And the data basically say
+no, it doesn't really matter.
+[0:10:15] But that doesn't really
+take into account
+[0:10:18] the longer arc of things
+like GLP-1 release,
+[0:10:20] so that needs to be
+taken into consideration.
+[0:10:22] So you could do fasted cardio.
+[0:10:23] You could drink yerba maté tea,
+keeping in mind that yerba maté
+[0:10:26] tea does contain caffeine.
+[0:10:27] We'll talk more about the
+specific forms of stimulants
+[0:10:30] including caffeine
+that maté has.
+[0:10:32] But maté would be a great way
+to stimulate GLP-1 release.
+[0:10:35] And then, of course, for those
+of you that are interested
+[0:10:37] in more robust
+activation of GLP-1,
+[0:10:41] then perhaps you might want
+to consider some of the new
+[0:10:43] prescription GLP-1 analogues
+that are out there.
+[0:10:45] But that's a more severe
+stimulus for GLP-1, of course.
+[0:10:48] And for everybody, regardless
+of whether or not you're trying
+[0:10:51] to lose weight, gain
+weight, or maintain weight,
+[0:10:53] I think we're going to be
+hearing a lot more about GLP-1
+[0:10:56] analogues and drinks and
+supplements and things of that
+[0:10:58] sort that stimulate GLP-1 in
+the very near future because it
+[0:11:02] does appear to be a very
+important biological mechanism.
+[0:11:05] Before we begin, I'd
+like to emphasize
+[0:11:07] that this podcast is separate
+from my teaching and research
+[0:11:10] roles at Stanford.
+[0:11:11] It is, however, part
+of my desire and effort
+[0:11:13] to bring zero cost to
+consumer information
+[0:11:15] about science and
+science-related tools
+[0:11:17] to the general public.
+[0:11:18] In keeping with
+that theme, I'd like
+[0:11:20] to thank the sponsors
+of today's podcast.
+[0:11:22] Our first sponsor is Levels.
+[0:11:24] Levels is a program
+that lets you
+[0:11:25] see how different foods affect
+your health by giving you
+[0:11:28] real-time feedback on your
+diet using a continuous glucose
+[0:11:30] monitor.
+[0:11:31] The blood glucose or blood
+sugar is a critical aspect
+[0:11:34] of your immediate and
+long-term health and, indeed,
+[0:11:36] your feelings of vigor and
+mental clarity and well-being
+[0:11:39] at any moment.
+[0:11:41] One of the key things is to know
+how different foods and food
+[0:11:43] combinations and
+timing of food intake
+[0:11:46] is impacting blood glucose.
+[0:11:47] And with Levels,
+you're able to assess
+[0:11:49] all of that in real time.
+[0:11:51] I tried Levels,
+and what it taught
+[0:11:53] me, for instance, was that
+I can eat certain foods
+[0:11:55] at certain times of day.
+[0:11:56] But if I eat them at
+other times a day,
+[0:11:58] I get a blood sugar crash.
+[0:12:00] It also taught me,
+for instance, how
+[0:12:02] to space my exercise
+and my food intake.
+[0:12:05] Turns out for me exercising
+fasted is far more beneficial.
+[0:12:08] That's something I
+learned using Levels,
+[0:12:10] and it's completely transformed
+not just the spacing and timing
+[0:12:13] of my diet and
+exercise but also use
+[0:12:16] of things like the sauna
+and other activities.
+[0:12:18] It's been a tremendous
+learning for me
+[0:12:20] that's really shaped an enormous
+number of factors in my life
+[0:12:23] that have led to me feeling
+far more vigorous with far more
+[0:12:26] mental focus and physical
+strength and endurance.
+[0:12:29] So if you're interested in
+learning more about Levels
+[0:12:31] and trying a continuous
+glucose monitor yourself,
+[0:12:33] go to levels.link/huberman.
+[0:12:36] Again, that's
+levels.link/huberman.
+[0:12:39] Today's episode is also
+brought to us by Eight Sleep.
+[0:12:42] Eight Sleep make smart mattress
+covers with cooling, heating,
+[0:12:45] and sleep-tracking capacity.
+[0:12:47] I've talked many
+times on this podcast
+[0:12:49] about the critical relationship
+between sleep and body
+[0:12:52] temperature.
+[0:12:53] That is, in order to fall
+asleep and stay deeply asleep
+[0:12:56] throughout the night,
+our body temperature
+[0:12:57] needs to drop by
+about 1 to 3 degrees.
+[0:13:00] And conversely, when we
+wake up in the morning,
+[0:13:03] that is in large part
+because of our body
+[0:13:05] heating up by 1 to 3 degrees.
+[0:13:07] Now people have different
+core body temperatures,
+[0:13:09] and they tend to run colder or
+hotter throughout the night.
+[0:13:12] Eight Sleep allows you
+to adjust the temperature
+[0:13:14] of your sleeping
+environment so that you
+[0:13:16] have the optimal temperature
+that gets you the best night's
+[0:13:18] sleep.
+[0:13:19] I started sleeping on
+an Eight Sleep mattress
+[0:13:21] cover about eight months
+ago, and it has completely
+[0:13:23] transformed my sleep.
+[0:13:24] I sleep so much deeper.
+[0:13:26] I wake up far less during the
+middle of the night, if at all.
+[0:13:29] And I wake up feeling far
+better than I ever have even
+[0:13:32] after the same amount of sleep.
+[0:13:34] If you want to try
+Eight Sleep, you can go
+[0:13:35] to eightsleep.com/huberman to
+save up to $400 off their Sleep
+[0:13:40] Fit Holiday Bundle, which
+includes their new Pod 3 Cover.
+[0:13:43] Eight Sleep currently
+ships in the USA,
+[0:13:45] Canada, United Kingdom,
+selected countries in the EU,
+[0:13:48] and Australia.
+[0:13:49] Again, that's
+eightsleep.com/huberman.
+[0:13:52] Today's episode is also
+brought to us by ROKA.
+[0:13:54] ROKA makes eyeglasses
+and sunglasses
+[0:13:56] that are of the absolute
+highest quality.
+[0:13:59] The company was founded by
+two all-American swimmers
+[0:14:01] from Stanford.
+[0:14:02] And everything about ROKA
+eyeglasses and sunglasses
+[0:14:04] were designed with
+performance in mind.
+[0:14:06] I've spent a lifetime working on
+the biology, the visual system.
+[0:14:09] And I can tell you that
+your visual system has
+[0:14:11] to contend with an enormous
+number of challenges in order
+[0:14:13] for you to see clearly,
+for instance, when you move
+[0:14:15] from a sunny area
+to a shady area
+[0:14:17] and back again, whether or not
+you're looking at something up
+[0:14:19] close or often to the distance.
+[0:14:21] ROKA understands the
+biology of the visual system
+[0:14:23] and has designed their
+eyeglasses and sunglasses
+[0:14:25] accordingly, so you always
+see with perfect clarity.
+[0:14:28] ROKA eyeglasses and
+sunglasses were initially
+[0:14:30] designed for activities
+such as running and cycling.
+[0:14:33] And indeed, they are
+very lightweight.
+[0:14:35] Most of the time I
+can't even remember
+[0:14:36] that they're on my face.
+[0:14:37] They're so lightweight.
+[0:14:38] But the important thing to
+know about ROKA eyeglasses
+[0:14:40] and sunglasses is
+that, while they
+[0:14:42] can be used during
+sports activities,
+[0:14:45] they also have a
+terrific aesthetic,
+[0:14:47] and they can be used just as
+well for wearing to work or out
+[0:14:50] to dinner, et cetera.
+[0:14:51] If you'd like to try ROKA
+eyeglasses and sunglasses,
+[0:14:54] you can go to ROKA.
+[0:14:55] That's R-O-K-A.com and enter the
+code Huberman to save 20% off
+[0:15:00] on your first order.
+[0:15:00] Again, that's Roka, R-O-K-A, dot
+com and enter the code Huberman
+[0:15:04] at checkout.
+[0:15:05] The Huberman Lab
+podcast is now partnered
+[0:15:06] with Momentous supplements.
+[0:15:08] To find the supplements we
+discuss on the Huberman Lab
+[0:15:10] podcast, you can go to
+livemomentous, spelled O-U-S,
+[0:15:13] livemomentous.com/huberman.
+[0:15:15] Huberman.
+[0:15:15] And I should just
+mention that the library
+[0:15:17] of those supplements is
+constantly expanding.
+[0:15:19] Again, that's
+livemomentous.com/huberman.
+[0:15:22] Let's talk about caffeine.
+[0:15:24] So as I mentioned
+earlier, caffeine
+[0:15:26] is consumed by basically most
+all adults every single day
+[0:15:30] and consumed at very
+regular times each day.
+[0:15:34] In fact, if you were to take
+a look at your caffeine intake
+[0:15:37] or the caffeine intake
+of somebody close
+[0:15:39] to you, what you
+would realize is
+[0:15:41] that they don't do so well if
+their caffeine intake arrives
+[0:15:45] even 10, 20, or 30 minutes past
+their expected or usual intake
+[0:15:51] of caffeine.
+[0:15:52] That's pretty
+remarkable, and it brings
+[0:15:54] to mind ideas that
+we are all, quote
+[0:15:57] unquote, "addicted to caffeine"
+or that caffeine is somehow
+[0:15:59] bad.
+[0:16:00] I'm certainly not going to make
+the argument that caffeine is
+[0:16:03] bad.
+[0:16:03] First of all, I'm a
+regular caffeine user.
+[0:16:05] I wouldn't call myself
+a caffeine abuser,
+[0:16:07] but I am a regular
+caffeine user.
+[0:16:08] And caffeine is known to
+have certain health benefits.
+[0:16:12] I listed off a few
+of them earlier,
+[0:16:13] but I'll mention those again
+now before going forward.
+[0:16:17] Caffeine is known to have
+certain neuroprotective
+[0:16:20] effects.
+[0:16:21] And that is because
+of its ability
+[0:16:23] to increase neuromodulators,
+such as dopamine,
+[0:16:26] but also other
+so-called catecholamines
+[0:16:28] like norepinephrine.
+[0:16:29] If you don't know
+what those names mean,
+[0:16:30] these are molecules that
+increase levels of alertness,
+[0:16:33] motivation, and drive.
+[0:16:34] And so then therefore not
+surprisingly the large scale
+[0:16:37] analyses of the relationship
+between depression and caffeine
+[0:16:41] shows that, provided people are
+not drinking so much caffeine,
+[0:16:44] that it makes them
+overly anxious,
+[0:16:46] that regular intake of
+caffeine is inversely related
+[0:16:50] to levels of depression.
+[0:16:52] So it may have some
+antidepressant effects.
+[0:16:54] And those could be
+direct or indirect.
+[0:16:56] What do I mean by that?
+[0:16:57] Well, you can imagine that if
+people are ingesting caffeine
+[0:16:59] and they are more motivated
+to do work and pursue
+[0:17:01] quality social
+interactions, then
+[0:17:03] the probability that they will
+have depression could be lower.
+[0:17:07] It could also be that
+there are direct effects
+[0:17:09] on the chemical systems
+of the brain that
+[0:17:11] relate to mood and well-being
+that could offset depression.
+[0:17:13] It is not clear whether
+or not the effects
+[0:17:16] of caffeine in
+countering depression
+[0:17:18] are direct or indirect.
+[0:17:19] Nonetheless, there's
+a relationship there,
+[0:17:21] and it's an interesting
+and positive one.
+[0:17:24] Or I should say
+negative correlation,
+[0:17:27] positive effect overall on mood
+and well-being, to be exact.
+[0:17:32] Now it's also the
+case that caffeine
+[0:17:34] can improve mental performance
+and physical performance.
+[0:17:37] This has been demonstrated in
+tens of thousands of studies.
+[0:17:40] I will review a few studies
+on this, in particular, today.
+[0:17:43] But to just give
+you a sense of how
+[0:17:44] caffeine works at the level
+of its timing and impact
+[0:17:48] on mental performance and
+physical performance, when
+[0:17:51] we ingest caffeine,
+provided that we don't have
+[0:17:53] a lot of food in our stomach
+and that our blood sugar isn't
+[0:17:57] particularly high, generally,
+we experience an increase
+[0:18:00] in alertness within
+about five minutes.
+[0:18:02] And that increase in
+focus and alertness peaks
+[0:18:04] around 30 minutes after
+ingestion of caffeine
+[0:18:07] and persists for as
+long as 60 minutes.
+[0:18:10] Now this is assuming that one
+takes caffeine in pill form
+[0:18:13] or drinks the entire
+caffeine drink
+[0:18:15] within a short period of time.
+[0:18:16] But a little bit
+later, I'll talk
+[0:18:17] about how you can consume
+caffeine at regular intervals
+[0:18:21] while doing mental work or
+physical work in a way that
+[0:18:24] can further increase
+mental performance
+[0:18:26] and physical performance.
+[0:18:27] But let's just touch
+on what caffeine
+[0:18:29] intake really does
+for mental performance
+[0:18:31] and physical performance.
+[0:18:32] Perhaps the most robust
+finding across all
+[0:18:36] of the studies
+that I've examined
+[0:18:37] is that caffeine reduces
+our reaction time.
+[0:18:41] That is, it improves
+our reaction time.
+[0:18:43] It doesn't make it longer.
+[0:18:44] It makes it shorter.
+[0:18:45] So for instance, in
+a laboratory study
+[0:18:47] where people were asked to hit
+a lever every time they hear
+[0:18:50] a tone, you can greatly reduce
+the time between the tone
+[0:18:54] and the pressing of the lever
+if people ingest caffeine
+[0:18:57] about 30 minutes before
+they do that task.
+[0:19:00] Now that seems like
+a trivial task,
+[0:19:01] but this is also seen in the
+domain of sports performance
+[0:19:04] and even in cognitive
+performance, where
+[0:19:07] people have to arrive
+at a particular answer
+[0:19:09] to a question.
+[0:19:10] And the answer to
+that question has
+[0:19:12] to be pulled from
+their memory banks
+[0:19:14] within their brain,
+their hippocampus,
+[0:19:15] for instance, a brain
+structure involved in memory.
+[0:19:18] And if you are asking
+people, for instance,
+[0:19:21] to remember the capitals of
+different states or cities
+[0:19:24] or to remember certain
+historical facts,
+[0:19:27] they will do that at
+a particular rate.
+[0:19:29] But if they've ingested
+caffeine within the hour prior,
+[0:19:33] their ability to
+recall that information
+[0:19:35] is much, much better.
+[0:19:37] They are faster, and
+it does not appear
+[0:19:39] that accuracy is reduced.
+[0:19:40] In fact, in many cases,
+accuracy is enhanced.
+[0:19:43] And that's because caffeine
+both works on the reaction time
+[0:19:47] systems of the brain and body.
+[0:19:49] I'll talk about the mechanisms
+for that in a little bit.
+[0:19:51] But it also stimulates
+certain neurotransmitters
+[0:19:55] and so-called neuromodulators
+within the brain and body
+[0:19:57] that give the neural
+circuits in the brain that
+[0:20:00] are associated with
+learning and memory a lower
+[0:20:04] threshold to activation.
+[0:20:05] What does that mean?
+[0:20:06] That means that we are
+better able to access
+[0:20:09] the brain circuitry involved
+in learning and memory
+[0:20:12] when we have a certain amount
+of caffeine circulating
+[0:20:14] in our system.
+[0:20:15] So this makes
+caffeine an incredible
+[0:20:17] performance-enhancing compound.
+[0:20:19] And I could give you
+tens of thousands
+[0:20:20] of examples of this in humans.
+[0:20:23] But before I do that,
+I want to just touch
+[0:20:26] on what we know about the
+existence of caffeine in nature
+[0:20:29] and what the existence
+of caffeine in nature
+[0:20:32] and its effects on other
+animals tells us about what
+[0:20:35] caffeine does in humans.
+[0:20:36] Because as I alluded to
+earlier, what caffeine is doing
+[0:20:40] for us is not just
+making us more alert,
+[0:20:44] improving our memory, improving
+our reaction time, and so on.
+[0:20:48] It's actually acting as
+a powerful reinforcer
+[0:20:51] of experience.
+[0:20:52] And it's acting as not
+just a powerful reinforcer
+[0:20:55] of the caffeine-containing
+drink that we drink
+[0:20:58] but also the mug that
+it's contained in,
+[0:21:01] plus the person that
+we might be sitting
+[0:21:03] across from when we consume
+that caffeine, and so on and so
+[0:21:06] forth.
+[0:21:07] If it's a little
+bit hard for you
+[0:21:08] to conceptualize
+what a reinforcer is
+[0:21:11] and why I'm calling
+it a reinforcer,
+[0:21:14] let me spell it out in
+three specific ways.
+[0:21:18] We often hear about
+the word reward,
+[0:21:20] and we think, OK, if
+we do certain things
+[0:21:22] and we like the outcome,
+then those certain things
+[0:21:25] are rewarded.
+[0:21:26] Right?
+[0:21:26] If we're doing something,
+we receive praise.
+[0:21:29] The praise is the reward.
+[0:21:30] And therefore, we
+are more likely to do
+[0:21:31] that thing in the future.
+[0:21:33] In fact, a lot of
+parenting is like that.
+[0:21:35] And a lot of life is like that.
+[0:21:37] However, when we
+hear the word reward,
+[0:21:40] we often think about something
+that feels good to us.
+[0:21:42] And certainly, if we've worked
+hard and we get some praise,
+[0:21:45] that's natural for the
+praise to feel good to us.
+[0:21:48] Or for instance, if
+we work very hard
+[0:21:51] and we get a certain outcome--
+[0:21:53] a trophy, a financial outcome,
+a degree outcome, recognition,
+[0:21:58] et cetera-- all of those
+can act as rewards,
+[0:22:00] but those are all
+conscious rewards.
+[0:22:02] We are aware that
+they are happening.
+[0:22:05] Reinforcers are a little bit
+different because the word
+[0:22:07] reinforcement can apply to
+conscious rewards of the sort
+[0:22:10] that I just described,
+but there are also
+[0:22:12] many ways in which
+caffeine stimulates
+[0:22:14] the release of chemicals in our
+body that act as reinforcers.
+[0:22:18] But those reinforcers
+are subconscious.
+[0:22:21] That is, we are
+not aware that they
+[0:22:23] cause this preference
+for the activities that
+[0:22:27] cause their release.
+[0:22:28] So the study I'm about
+to describe beautifully,
+[0:22:32] I believe,
+encapsulates how is it
+[0:22:34] that humans came
+to consume caffeine
+[0:22:37] and why caffeine exists in
+nature and the powerful effects
+[0:22:41] of caffeine as a reinforcing
+agent both in animals, insects,
+[0:22:45] and in you and me.
+[0:22:46] And the title of the
+paper is "Caffeine
+[0:22:48] and floral nectar enhances a
+pollinator's memory of reward."
+[0:22:51] Keep in mind that caffeine
+is made from plants.
+[0:22:54] Some of you will say, duh,
+but I think some of us
+[0:22:56] don't realize that the reason
+why there is caffeine in coffee
+[0:23:00] is because coffee
+comes from a plant.
+[0:23:01] It's a coffee
+bean, certain teas,
+[0:23:03] which, of course, are
+plants that people brew.
+[0:23:07] Caffeine is contained in those
+teas, such as yerba maté.
+[0:23:11] Well, why would this
+bitter substance-- because,
+[0:23:14] in fact, caffeine is quite
+bitter in high concentrations.
+[0:23:16] Why would this bitter
+substance be something
+[0:23:18] that insects or animals
+would want to consume at all?
+[0:23:21] It turns out that,
+in most plants,
+[0:23:22] caffeine is present in
+small enough quantities
+[0:23:26] that insects and other animals--
+and in fact, we can't actually
+[0:23:29] taste the caffeine.
+[0:23:30] If I were to give you a
+little bit of pure caffeine,
+[0:23:32] yes, it would be a
+stimulant for you,
+[0:23:35] but you would say
+that it tasted awful.
+[0:23:37] It's in a category of compounds
+that would strongly stimulate
+[0:23:39] the bitter receptors
+on your tongue
+[0:23:42] and would make you
+cringe and pucker
+[0:23:44] and essentially walk away from
+whatever it is that contain
+[0:23:47] that caffeine and from
+the experience that
+[0:23:50] contain that caffeine.
+[0:23:51] Well, in nature, caffeine
+is present in very low
+[0:23:54] concentrations or is
+masked by other flavors
+[0:23:58] within flowers,
+beans, and plants.
+[0:24:02] And what this paper
+really points to
+[0:24:04] is that caffeine
+in nature is acting
+[0:24:07] as a reinforcer for bees that
+are consuming different nectar.
+[0:24:11] So the way that it works
+is that bees, of course,
+[0:24:13] go from flower to flower, and
+they are consuming the nectar.
+[0:24:17] They are bringing nectar
+and pollen back to the hive,
+[0:24:21] and that provides critical
+nourishment for the bee colony.
+[0:24:26] The bees are foraging in a
+way that includes information
+[0:24:31] about color, in particular,
+ultraviolet color, things
+[0:24:33] that we can't see
+but they can see,
+[0:24:34] because they have different
+photoreceptors than we do.
+[0:24:36] And what the study shows is
+that plants and nectars that
+[0:24:41] contain very small
+amounts of caffeine
+[0:24:45] are the preferred
+sources of food for bees.
+[0:24:49] And the study is
+beautiful because they
+[0:24:51] were able to confirm that they
+could mask the caffeine taste.
+[0:24:54] So they know that the
+bees are not preferring
+[0:24:56] the taste of caffeine.
+[0:24:57] But what they do is
+they pair caffeine
+[0:24:59] with different food
+sources for the bees,
+[0:25:01] then they remove the caffeine.
+[0:25:02] And what they find is that
+the bees very strongly
+[0:25:04] prefer flavors that
+contain caffeine,
+[0:25:08] not because they could taste the
+caffeine but rather for the way
+[0:25:12] that those caffeine-containing
+flavors made the bees feel.
+[0:25:16] So how do those
+caffeine-containing flavors
+[0:25:20] make the bees feel?
+[0:25:21] The same way that
+they make you and I
+[0:25:23] feel, a little bit
+more alert and thereby
+[0:25:26] able to do more work.
+[0:25:27] For the bee, the more
+work is the consumption
+[0:25:30] of more food, which then has
+a further reinforcing effect.
+[0:25:34] So what we're really
+talking about here
+[0:25:36] is the fact that A, caffeine
+exists in nature, in plants.
+[0:25:40] It exists in concentrations that
+are very low, so low, in fact,
+[0:25:44] that they are not detectable to
+the taste receptors of insects,
+[0:25:47] and, in many cases, to the
+taste receptors of humans.
+[0:25:49] And, of course, there
+can be high levels
+[0:25:51] of caffeine in a plant.
+[0:25:52] But if the plant also
+contains compounds
+[0:25:55] that mask the
+flavor of caffeine,
+[0:25:57] well then, those plants
+are going to essentially
+[0:26:00] be even stronger reinforcers
+for the flavor of the plant, OK?
+[0:26:03] So now we're talking
+about strong flavors
+[0:26:05] plus strong neurostimulant
+effects of caffeine.
+[0:26:09] And the most
+important point here
+[0:26:11] is that all of these effects
+of caffeine are subconscious.
+[0:26:15] It is not because the bee or
+you likes the taste of caffeine.
+[0:26:20] In fact, most people, when they
+take their first sip of coffee,
+[0:26:23] they find it taste bitter
+and kind of noxious.
+[0:26:26] They don't like it.
+[0:26:27] You may not even remember that
+because it happened so long ago
+[0:26:30] and because caffeine is
+such a strong reinforcer
+[0:26:32] that very quickly you come
+to like the taste of coffee.
+[0:26:36] You might even come to like
+the feeling of your mug
+[0:26:39] in your hand.
+[0:26:40] You might even come to
+like the smell of coffee
+[0:26:43] and so on and so forth.
+[0:26:44] And that's because
+caffeine stimulates
+[0:26:46] the release of certain
+neurochemicals in the brain,
+[0:26:48] in particular, dopamine
+and acetylcholine,
+[0:26:51] two neuromodulators
+that increase our focus
+[0:26:54] and alertness and our
+feelings of well-being.
+[0:26:56] A little bit later,
+I'll tell you
+[0:26:57] that caffeine stimulates
+the release of dopamine
+[0:27:00] in a way that's
+very much distinct
+[0:27:02] from the classical
+dopamine pathway associated
+[0:27:05] with addiction and reward.
+[0:27:06] In fact, we can
+think of caffeine
+[0:27:07] as having a somewhat privileged
+access to the reward systems.
+[0:27:11] I'll give you a bit of a
+hint of where this is going.
+[0:27:14] Caffeine stimulates the release
+of dopamine and acetylcholine
+[0:27:17] not within the classic so-called
+mesolimbic reward pathway.
+[0:27:21] That's just fancy nerd
+speak for the reward
+[0:27:22] pathways of the brain.
+[0:27:23] They're associated with
+things like sex and food
+[0:27:26] and drugs of abuse, like
+cocaine and methamphetamine.
+[0:27:28] But rather, caffeine
+seems to stimulate
+[0:27:31] the release of dopamine in
+the parts of the brain that
+[0:27:33] are associated with
+alertness and cognition,
+[0:27:36] meaning the forebrain.
+[0:27:38] This is very important.
+[0:27:40] We have multiple dopamine
+systems in the brain and body,
+[0:27:42] and caffeine seems to
+stimulate dopamine directly
+[0:27:45] within the components of the
+brain that are associated
+[0:27:47] with clarity of
+thought and well-being,
+[0:27:51] but more so clarity of thought.
+[0:27:53] Now, I'm also talking
+about caffeine
+[0:27:56] as a strong reinforcer in that
+it makes you feel good overall.
+[0:28:01] And it does.
+[0:28:02] And that suggests that it
+also taps into the more
+[0:28:04] classic reward pathway.
+[0:28:06] But it does that in a very
+interesting and frankly almost
+[0:28:08] diabolical way.
+[0:28:10] When we regularly
+ingest caffeine,
+[0:28:12] it stimulates the increase
+in dopamine receptors
+[0:28:16] at multiple sites throughout
+the brain but, in particular,
+[0:28:18] within the reward
+pathways of the brain.
+[0:28:20] So not the areas
+of the brain that
+[0:28:21] are associated with focus
+and clarity of thought
+[0:28:23] and cognition.
+[0:28:24] It does that, but it
+is also increasing
+[0:28:27] the level of dopamine receptors
+in the reward pathway.
+[0:28:31] And what that means is that,
+for any dopamine that's
+[0:28:33] released in response to
+a positive experience,
+[0:28:36] social experience, or any
+number of the other things
+[0:28:38] that can stimulate
+dopamine release,
+[0:28:41] there are more receptors,
+more parking spots,
+[0:28:44] if you will, for that
+dopamine to arrive at
+[0:28:46] and to exert its increases in
+mood, increases in motivation,
+[0:28:51] and overall feelings of
+drive and excitement.
+[0:28:55] So there are four ways
+that caffeine works
+[0:28:57] that we need to understand.
+[0:28:58] First of all, caffeine acts
+as a reinforcing agent.
+[0:29:01] It increases the
+probability that you
+[0:29:03] will return to and engage
+in a certain activity
+[0:29:07] or consume a certain
+beverage or food.
+[0:29:09] Second of all,
+caffeine increases
+[0:29:12] dopamine and
+acetylcholine, which
+[0:29:14] are both neuromodulators
+in the forebrain, which
+[0:29:17] helps us improve our ability to
+think, to modify our rule sets.
+[0:29:22] That is, to adjust
+our strategies
+[0:29:24] for different social
+situations and mental demands
+[0:29:27] and physical demands.
+[0:29:29] And third, it increases
+the number and efficacy
+[0:29:33] of dopamine receptors in the
+reward pathways of the brain.
+[0:29:36] That is, it makes things
+that would feel pretty good
+[0:29:40] feel even better.
+[0:29:42] And fourth, caffeine
+acts as an antagonist
+[0:29:44] to adenosine, which offsets
+the sleepiness that we would
+[0:29:48] otherwise feel from the
+accumulation of adenosine that
+[0:29:51] occurs as we are awake
+for more and more hours
+[0:29:53] throughout the day.
+[0:29:54] So let's talk first
+about caffeine
+[0:29:56] as a reinforcing agent.
+[0:29:57] Again, this was first most
+beautifully demonstrated
+[0:30:00] in this study on honeybees
+where the bees prefer
+[0:30:03] nectars that contain caffeine.
+[0:30:05] And that all makes
+perfect sense in terms
+[0:30:07] of the ecology of bees and
+flowers that contain nectar.
+[0:30:11] There's an advantage, at
+least in terms of adaptation,
+[0:30:14] that the flower benefits because
+of distribution of things
+[0:30:17] from the flower, which is good
+for the flowers and the bees
+[0:30:19] benefit, because
+they're getting food.
+[0:30:21] And so there's a kind
+of a symbiosis there.
+[0:30:24] But with humans, we're consuming
+caffeine-containing beverages
+[0:30:27] for our sake.
+[0:30:28] I don't think we
+have it in mind,
+[0:30:29] nor do the bees have
+it in mind, frankly,
+[0:30:31] that we're trying to
+preserve the plants that
+[0:30:33] provide the caffeine.
+[0:30:34] I think we would all suffer,
+or I should say 90% of adults
+[0:30:38] would suffer greatly if all
+the caffeine-containing coffee
+[0:30:41] and tea plants were
+gone, certainly.
+[0:30:43] But most of us are not
+consuming coffees and teas
+[0:30:46] and caffeine-containing
+foods because we're
+[0:30:48] thinking about the
+plants they come from
+[0:30:50] and we want to
+help those plants.
+[0:30:51] We're thinking about how
+we want to help ourselves.
+[0:30:53] And yet the point of the
+reinforcing effects of caffeine
+[0:30:57] are that they are
+largely subconscious.
+[0:30:59] We are not aware of them.
+[0:31:01] Now you might say,
+no, that's not true.
+[0:31:03] When I drink caffeine, it
+makes me feel really good.
+[0:31:05] So I'm aware that it
+makes me feel good.
+[0:31:08] In order to illustrate how
+reinforcement really works,
+[0:31:11] let me give you the
+counter example, which
+[0:31:13] would be an aversive agent.
+[0:31:16] So we have reinforcing agents
+and we have aversive agents.
+[0:31:18] Let's say that there were
+compounds in nature that exist
+[0:31:22] in plants that are aversive.
+[0:31:24] And indeed, they are.
+[0:31:25] And let's say that
+these compounds
+[0:31:26] were present at such
+low concentrations
+[0:31:28] that you couldn't taste them.
+[0:31:30] Let's say you wake
+up in the morning
+[0:31:32] and you go to your
+refrigerator and you open it up
+[0:31:34] and you are thirsty,
+and so you reach
+[0:31:36] for a nice rich red-containing
+beverage in a glass jar.
+[0:31:40] Maybe it looks like
+cranberry juice or something
+[0:31:42] of that sort.
+[0:31:43] Or even a nice clear
+glass of water.
+[0:31:46] It looks like a jug of
+water or a glass of water,
+[0:31:48] and you drink that.
+[0:31:49] Taste fine to you.
+[0:31:50] Maybe even tastes great to you.
+[0:31:52] And then let's say
+about 30 minutes later,
+[0:31:54] you feel a little queasy,
+you feel a little off,
+[0:31:57] you feel like going
+back to sleep,
+[0:31:58] you just don't feel very good.
+[0:32:00] You don't know why,
+but your nervous system
+[0:32:05] is a predictive machine, and it
+has a process in which it back
+[0:32:10] integrates.
+[0:32:11] Or I should say
+integrates backwards
+[0:32:13] into your immediate experience
+that preceded that not so
+[0:32:16] good feeling.
+[0:32:17] We can reliably say that there
+is a much lower probability
+[0:32:21] that the next day
+when you wake up
+[0:32:23] that you would reach
+for that same beverage
+[0:32:26] or for that same container even.
+[0:32:29] And maybe if you're in
+a novel environment,
+[0:32:31] maybe you're staying in an
+Airbnb or a hotel or something
+[0:32:33] of that sort, you might even
+find that you don't really
+[0:32:36] like the kitchen in which
+you consume that beverage
+[0:32:39] in the first place.
+[0:32:40] And you don't know why.
+[0:32:42] And unless you got very,
+very sick the day before,
+[0:32:45] it's unlikely that you would
+have such a strong response
+[0:32:48] that you would entirely avoid,
+for instance, water or glass
+[0:32:50] jars containing
+liquids, et cetera.
+[0:32:52] Let's say you went back
+to the refrigerator
+[0:32:55] and you consume a beverage
+again and you just
+[0:32:57] didn't feel so well,
+you felt less good
+[0:33:00] than you normally would.
+[0:33:01] Well, even without
+any ability to taste
+[0:33:05] what's in that beverage and
+even without any understanding
+[0:33:08] of what was happening to
+you at a conscious level,
+[0:33:11] there is a very,
+very high probability
+[0:33:14] that you will avoid drinking
+that particular beverage
+[0:33:17] and certainly at that location
+and in the same volume
+[0:33:21] in the subsequent days.
+[0:33:23] That's just the way that
+aversive agents work.
+[0:33:25] And they work by way
+of activating neurons
+[0:33:27] in the gut that communicate with
+areas in the brain that give us
+[0:33:30] this feeling of queasiness.
+[0:33:32] And for some of
+you hearing this,
+[0:33:34] that pathway and
+that association
+[0:33:37] with times in which you felt
+queasy and as if you wanted
+[0:33:39] to vomit is so powerful that
+you might even be feeling
+[0:33:44] some of that symptomology now.
+[0:33:47] For certain people that's going
+to be increased salivation
+[0:33:50] which precedes vomiting,
+we know that there's
+[0:33:52] a class of neurons
+in the brain relate
+[0:33:54] to an area called area postrema
+that actually stimulates
+[0:33:56] vomiting.
+[0:33:57] And if I keep
+talking about this,
+[0:33:58] I'll probably feel
+like I want to vomit,
+[0:33:59] so I'm going to move on
+from this in a moment.
+[0:34:01] So when we ingest
+caffeine-containing beverages
+[0:34:03] and foods, it's the
+exact opposite scenario
+[0:34:06] as to what I just described.
+[0:34:07] Caffeine, as a
+reinforcer, makes us
+[0:34:11] feel slightly better
+or a lot better
+[0:34:14] in the immediate minutes and
+hours after we ingest it.
+[0:34:18] So it's acting as
+a reinforcing agent
+[0:34:20] not just while you are under
+the effects of caffeine
+[0:34:23] but for the things that preceded
+the ingestion of caffeine,
+[0:34:26] which is why you
+return again and again
+[0:34:28] to caffeine-containing
+beverages, such as coffee
+[0:34:31] and tea or maybe even foods
+that contain caffeine,
+[0:34:34] even if the taste of those
+foods is not something
+[0:34:36] that you would otherwise
+consider, especially delicious.
+[0:34:40] In fact, most people when they
+take their first sip of coffee
+[0:34:43] or tea or other
+caffeine-containing beverage,
+[0:34:45] they find it to be very bitter.
+[0:34:46] And that's not because
+of the taste of caffeine.
+[0:34:49] It's because of the taste of
+the beverage itself independent
+[0:34:52] of caffeine.
+[0:34:53] However, when caffeine
+is present in there,
+[0:34:56] they come to prefer that
+taste over most all tastes.
+[0:35:00] In fact, they will, as
+I mentioned earlier,
+[0:35:03] will invest a lot of financial
+resources and time and energy
+[0:35:05] to make sure that they
+get that beverage.
+[0:35:07] What they're trying to make sure
+is not that they get that taste
+[0:35:11] but that they get the caffeine.
+[0:35:13] It is that positively
+reinforcing.
+[0:35:15] And the taste therefore takes on
+new significance, new meaning,
+[0:35:19] and we come to associate
+it as positive.
+[0:35:21] And in fact, most of
+us, including myself,
+[0:35:24] love the taste of espresso,
+love the taste of coffee,
+[0:35:26] love the taste of yerba maté
+even if the initial taste,
+[0:35:30] the very first time that
+we consume that beverage,
+[0:35:33] was either neutral or negative.
+[0:35:36] And that is all because of
+the reinforcing properties
+[0:35:38] of caffeine.
+[0:35:39] And then, of course, there
+are the more direct actions
+[0:35:41] of caffeine.
+[0:35:42] That is, the faster
+actions of caffeine.
+[0:35:44] And just to list those off
+again very briefly so that you
+[0:35:47] have them in mind going
+forward, caffeine also
+[0:35:50] increases the release of
+dopamine and acetylcholine,
+[0:35:53] both of which are
+neuromodulators
+[0:35:55] in the forebrain, which
+increases clarity of thought
+[0:35:58] and your ability to rule
+switch, your ability
+[0:36:02] to move from one
+context to another
+[0:36:04] and change and understand
+the rules of engagement,
+[0:36:07] social engagement, physical
+engagement, mental engagement,
+[0:36:11] and so forth.
+[0:36:12] And as I mentioned
+before, caffeine also
+[0:36:13] increases the number of
+dopamine receptors in the reward
+[0:36:17] pathway, such that any good
+thing that happens to you.
+[0:36:20] Any positive experience
+that you have
+[0:36:22] will have a more potent effect
+on your feelings of well-being.
+[0:36:27] And last but certainly
+not least, caffeine
+[0:36:30] acts as an adenosine antagonist.
+[0:36:32] It reduces your feelings
+of lethargy and fatigue
+[0:36:37] and your desire to
+sleep by parking
+[0:36:39] in the receptors for
+adenosine and not
+[0:36:41] allowing adenosine to have
+its pro-sleepy, if you will,
+[0:36:45] effects on your brain and body.
+[0:36:47] I'd like to take a quick
+break and acknowledge
+[0:36:49] one of our sponsors,
+[0:36:50] Athletic Greens.
+[0:36:51] Athletic Greens, now called AG1,
+is a vitamin mineral probiotic
+[0:36:55] drink that covers all of your
+foundational nutritional needs.
+[0:36:58] I've been taking Athletic
+Greens since 2012,
+[0:37:01] so I'm delighted that they're
+sponsoring the podcast.
+[0:37:04] The reason I started taking
+Athletic Greens and the reason
+[0:37:06] I still take Athletic Greens
+once or usually twice a day
+[0:37:09] is that it gets
+me the probiotics
+[0:37:11] that I need for gut health.
+[0:37:13] Our gut is very important.
+[0:37:14] It's populated by
+gut microbiota that
+[0:37:16] communicate with the brain, the
+immune system, and basically
+[0:37:19] all the biological
+systems of our body
+[0:37:21] to strongly impact our
+immediate and long-term health.
+[0:37:24] And those probiotics
+and Athletic Greens
+[0:37:26] are optimal and vital
+for microbiotic health.
+[0:37:30] In addition, Athletic
+Greens contains a number
+[0:37:32] of adaptogens,
+vitamins, and minerals
+[0:37:33] that make sure that all of my
+foundational nutritional needs
+[0:37:36] are met.
+[0:37:37] And it tastes great.
+[0:37:39] If you'd like to
+try Athletic Greens,
+[0:37:40] you can go to
+athleticgreens.com/huberman,
+[0:37:43] and they'll give you five
+free travel packs that make it
+[0:37:46] really easy to mix up
+Athletic Greens while
+[0:37:48] you're on the road, in the
+car, on the plane, et cetera.
+[0:37:50] And they'll give you a year
+supply of Vitamin D3K2.
+[0:37:54] Again, that's
+athleticsgreen.com/huberman
+[0:37:57] to get the five free travel
+packs and the year supply
+[0:37:59] of Vitamin D3K2.
+[0:38:01] I'd like to just briefly
+talk about adenosine and some
+[0:38:04] of its molecular features.
+[0:38:06] And again, if you don't have
+a background in biology,
+[0:38:09] don't worry.
+[0:38:09] I promise to make this
+very clear to everyone.
+[0:38:12] First of all, caffeine is
+what's called a methylxantine.
+[0:38:16] It's a plant alkaloid.
+[0:38:17] That's why caffeine
+itself is very bitter.
+[0:38:19] Again, if I were to give
+you just the tiniest
+[0:38:21] little bit of pure
+caffeine, you would find
+[0:38:23] it to be extremely aversive.
+[0:38:26] So these plants that have
+snuck small enough amounts
+[0:38:28] of caffeine into
+them or that have
+[0:38:30] masked the flavor of
+caffeine with other flavors
+[0:38:33] such that bees and humans
+want to consume them,
+[0:38:36] while we don't know what
+plants think, it does
+[0:38:38] seem very diabolical
+and very clever
+[0:38:40] in that we are seeking out these
+caffeine-containing plants,
+[0:38:44] beverages, and foods even
+though caffeine itself
+[0:38:47] is this alkaloid that
+is very, very bitter.
+[0:38:51] Methylxantine--
+that is caffeine--
+[0:38:54] binds to adenosine receptors.
+[0:38:56] And there are really two
+types of adenosine receptors.
+[0:38:58] There are these so-called A1
+receptors and the A2 receptors.
+[0:39:01] And they are present in
+different parts of the brain
+[0:39:03] and body at different levels.
+[0:39:05] We don't have to get too
+far into receptor subtypes.
+[0:39:07] More importantly
+to understand is
+[0:39:09] that adenosine makes us feel
+tired because of the way
+[0:39:13] that it taps into
+the ATP pathway.
+[0:39:17] The ATP pathway is central to
+energy production and feelings
+[0:39:21] of overall energy in
+our brain and body
+[0:39:23] in all cells and organ systems.
+[0:39:26] When caffeine binds to
+adenosine receptors,
+[0:39:29] it prevents adenosine
+from breaking down
+[0:39:32] certain components of the
+energy production pathway.
+[0:39:35] And the net consequence of
+that is increased cyclic AMP.
+[0:39:39] So basically, when
+we ingest caffeine,
+[0:39:42] we are biasing
+our system towards
+[0:39:44] the pro-energetic aspects
+of these cellular pathways.
+[0:39:47] Now it's really important to
+understand that, in biology,
+[0:39:51] even if you block a
+receptor or you prevent
+[0:39:53] the activity of an enzyme and--
+[0:39:55] at least, in this
+case, you end up
+[0:39:57] with more cyclic
+AMP, more energy.
+[0:39:59] You're not really
+getting more energy.
+[0:40:01] You're actually borrowing
+energy against an overall system
+[0:40:06] that is frankly nonnegotiable.
+[0:40:08] What do I mean by that?
+[0:40:09] Well, let's say that you were
+to wake up after six or eight
+[0:40:12] hours of sleep and to
+drink a lot of caffeine
+[0:40:16] and keep drinking caffeine
+throughout the day blocking
+[0:40:19] those adenosine receptors.
+[0:40:20] Yes, you'll offset fatigue.
+[0:40:23] You'll offset sleepiness
+because that adenosine simply
+[0:40:26] can't function.
+[0:40:27] But at the point where the
+caffeine becomes dislodged
+[0:40:31] from the adenosine
+receptors, you
+[0:40:33] will have a massive glut,
+a backlog of adenosine,
+[0:40:38] and you will feel
+extra, extra sleepy.
+[0:40:40] So really, there's no
+way to create more energy
+[0:40:43] in your system.
+[0:40:43] Really, what you're
+doing is you're
+[0:40:45] changing the timing in which
+the sleepy signals and the more
+[0:40:49] energetic signals are arriving.
+[0:40:51] And this is really important
+to understand as the backdrop
+[0:40:54] to the various tools
+that we're going
+[0:40:55] to get into next, in which you
+can use caffeine for enhancing
+[0:40:59] mental performance and
+physical performance
+[0:41:01] and other aspects of health.
+[0:41:03] But it's very important
+to understand this concept
+[0:41:06] that, when you wake up in the
+morning provided that you slept
+[0:41:10] well and enough
+the night before,
+[0:41:12] your levels of adenosine
+will be about as
+[0:41:15] low as they will ever be.
+[0:41:16] Actually, in order to get
+your adenosine levels really
+[0:41:19] bottomed out, you want to avoid
+caffeine in the first 90 to 120
+[0:41:22] minutes after waking.
+[0:41:23] We'll talk about why that
+is because it turns out
+[0:41:25] there's a way to
+completely clear adenosine
+[0:41:27] out of your system in the
+hour or so after waking.
+[0:41:30] But for most people,
+adenosine levels
+[0:41:33] are going to be
+close to their lowest
+[0:41:34] after a good night's sleep.
+[0:41:37] But there's really no
+negotiating the accumulation
+[0:41:39] of adenosine that's
+going to occur
+[0:41:42] and going to bias you towards
+feeling more sleepy than you
+[0:41:45] would.
+[0:41:45] Otherwise, that's going to
+occur throughout the day.
+[0:41:47] There's really no way
+to eliminate adenosine.
+[0:41:49] All you can really do
+is block its function.
+[0:41:51] So it's sort of like borrowing
+energy against the fatigue
+[0:41:54] that you will inevitably feel.
+[0:41:56] Now this actually
+has a very important
+[0:41:57] socioeconomical relevance.
+[0:42:02] Before caffeine was regularly
+consumed by human beings,
+[0:42:06] we were really slaves
+to the light/dark cycle.
+[0:42:10] And this was especially
+true before the presence
+[0:42:12] of artificial lighting.
+[0:42:13] But even before the advent
+of artificial lighting,
+[0:42:16] humans were largely constrained
+to the outside light/dark
+[0:42:20] cycle.
+[0:42:21] We need to be active during the
+day and working during the day,
+[0:42:24] and we need to be
+asleep at night.
+[0:42:25] Caffeine allows us
+to divorce ourselves
+[0:42:27] from that circadian cycle.
+[0:42:29] Circadian just
+means about 24 hour.
+[0:42:31] Caffeine allows us to do
+that at least somewhat by way
+[0:42:35] of increasing our alertness.
+[0:42:36] That is, spiking our
+alertness at various times
+[0:42:39] throughout the day
+and even at night.
+[0:42:41] This is how we can have
+shift workers, for instance,
+[0:42:43] that can sleep during
+the day and then drink
+[0:42:45] a strong cup of
+coffee at 8:00 PM
+[0:42:47] and then work into the night.
+[0:42:48] That ability completely
+transformed our society.
+[0:42:52] Now, of course, the
+healthiest schedule-- and we
+[0:42:54] know this with certainty.
+[0:42:55] The healthiest schedule
+for brain and body
+[0:42:58] is going to be alert during the
+daytime and asleep at night.
+[0:43:00] There's no question about that.
+[0:43:02] Shift workers run into all
+sorts of health problems.
+[0:43:04] And thank you shift workers
+for doing the important work
+[0:43:06] that you do.
+[0:43:07] We need you.
+[0:43:08] Air traffic controllers,
+paramedics, firefighters,
+[0:43:10] police officers, et cetera.
+[0:43:11] But we know that there are
+serious health consequences,
+[0:43:15] negative health consequences,
+that is, for shift workers.
+[0:43:18] But for most people out
+there, about 95% of people
+[0:43:21] follow a typical schedule.
+[0:43:23] They're awake during the
+day and asleep at night.
+[0:43:25] And yet it used to
+be before the advent
+[0:43:27] of caffeine-containing
+beverages that, if you were
+[0:43:29] sleepy in the
+afternoon, you either
+[0:43:31] had to take a nap or
+battle that sleepiness,
+[0:43:33] that your activity rhythms
+and your sleep rhythms were
+[0:43:36] governed by these circadian
+changes in availability
+[0:43:42] of sunlight and when you slept.
+[0:43:45] And you just didn't
+have the ability
+[0:43:47] to ingest a beverage
+that would increase
+[0:43:49] your levels of alertness
+because you block adenosine.
+[0:43:51] So this is important
+to understand
+[0:43:53] that, nowadays,
+we certainly live
+[0:43:55] in a time in which we use--
+[0:43:57] in fact, 90% or more of
+adults and half or more
+[0:44:00] of adolescents and
+teenagers use caffeine
+[0:44:03] as a way to negotiate
+with, to borrow
+[0:44:06] against this natural pattern
+of adenosine making us sleepy.
+[0:44:11] But again, you're
+just offsetting
+[0:44:12] the effects of sleepiness
+that adenosine causes.
+[0:44:15] You can't eliminate
+the adenosine entirely.
+[0:44:17] The important point
+is that adenosine
+[0:44:19] as a pro-sleep molecule
+is a nonnegotiable aspect
+[0:44:23] of your biology.
+[0:44:24] In fact, it's so nonnegotiable
+that, every 24 hours, you
+[0:44:28] are going to release
+adenosine, and you're
+[0:44:31] going to release adenosine in
+direct proportion to how long
+[0:44:33] you've been awake.
+[0:44:34] So the longer you've
+been awake, the more
+[0:44:36] adenosine circulating
+in your system.
+[0:44:37] There are really only a handful
+of ways to completely clear out
+[0:44:41] adenosine.
+[0:44:41] The major one
+being to get sleep.
+[0:44:44] The other is to take a short
+nap, which, of course, is
+[0:44:47] sleep, but it's shallow sleep.
+[0:44:49] Or non-sleep deep
+rest, so-called NSDR,
+[0:44:51] has been shown to reduce
+levels of adenosine.
+[0:44:54] And there are certain things
+such as viewing morning
+[0:44:58] sunlight, which because of
+its effects on cortisol,
+[0:45:01] can quote unquote,
+"clear out adenosine."
+[0:45:03] We'll talk about this in
+more detail in a few minutes.
+[0:45:06] And there's also evidence that
+certain forms of exercise,
+[0:45:10] provided that it's
+brief and intense,
+[0:45:12] can also reduce adenosine,
+not just block its effects.
+[0:45:16] Now that we've talked about some
+of the incredible mechanisms
+[0:45:18] by which caffeine changes
+our experience of life,
+[0:45:21] increases alertness
+and mood, et cetera,
+[0:45:23] I want to talk about the
+use of caffeine as a tool.
+[0:45:27] Now caffeine is a very
+potent and useful tool
+[0:45:30] for enhancing mental
+health, physical health,
+[0:45:32] and performance.
+[0:45:33] But there are certain
+considerations
+[0:45:35] one has to keep in mind,
+in particular, dose.
+[0:45:38] Now, first off,
+not everybody will
+[0:45:40] respond to the same dose
+of caffeine the same way,
+[0:45:43] but we can reliably say
+that your body weight is
+[0:45:47] a good measure by
+which you can estimate
+[0:45:50] what a healthy, useful
+dose of caffeine would be.
+[0:45:54] So for most people,
+ingesting 1 to 3 milligrams
+[0:45:57] of caffeine per
+kilogram of body weight
+[0:46:00] is going to be the
+range in which caffeine
+[0:46:03] can have positive effects
+without making us feel overly
+[0:46:07] anxious and give us that
+feeling that we're jumping out
+[0:46:10] of our skin and
+turn the otherwise
+[0:46:12] positive experience of
+caffeine into an aversive one.
+[0:46:16] For those of you that aren't
+familiar with thinking in terms
+[0:46:19] of kilograms and
+normally think in pounds,
+[0:46:21] I'll just quickly give you
+some general estimations
+[0:46:25] that, for instance, 100
+kilograms equals 220 pounds.
+[0:46:29] So for me, I weigh
+100 kilograms.
+[0:46:31] That means that 1
+to 3 milligrams--
+[0:46:36] again, milligrams,
+thousandth of a gram.
+[0:46:38] 1 to 3 milligrams of caffeine
+per kilogram of body weight
+[0:46:42] would mean for me.
+[0:46:43] I could safely ingest 100 to
+300 milligrams of caffeine
+[0:46:48] in a single dose,
+in a single drink,
+[0:46:51] if that's the way
+I'm consuming it,
+[0:46:52] or pill form if that's the
+way that I'm consuming it.
+[0:46:55] And it's very likely that
+that will be a tolerable dose.
+[0:46:58] However, if you are
+not somebody that's
+[0:47:00] accustomed to drinking
+caffeine on a regular basis,
+[0:47:04] I suggest you start on the
+lower end of that 1 to 3
+[0:47:08] milligrams per kilogram
+of body weight range.
+[0:47:10] So for instance,
+if you're somebody
+[0:47:12] who weighs 50 kilograms, that's
+approximately 110 pounds.
+[0:47:16] And you would be
+pretty comfortable
+[0:47:19] ingesting somewhere between 50
+and 150 milligrams of caffeine.
+[0:47:23] So what I recommend is that
+people who are considering
+[0:47:25] using caffeine as a tool or who
+are already ingesting caffeine,
+[0:47:29] start to think about
+the dosage of caffeine
+[0:47:31] that you are ingesting
+or plan to ingest
+[0:47:33] and the timing in which
+you ingest that caffeine
+[0:47:36] relative to certain tasks
+throughout your day,
+[0:47:39] your waking, and your sleep.
+[0:47:40] And we'll talk about
+that in just a moment.
+[0:47:42] But the first step for
+you is to figure out
+[0:47:44] how much you weigh
+in kilograms and then
+[0:47:47] to go to that number of 1
+to 3 milligrams of caffeine
+[0:47:51] per kilogram of body weight.
+[0:47:53] And that's a good
+range in which you
+[0:47:55] might want to explore
+the use of caffeine
+[0:47:57] in a single application,
+meaning a single dose.
+[0:48:01] Now, I do realize that
+some people out there are
+[0:48:04] drinking coffee all day long
+or having coffee in the morning
+[0:48:07] and again in the afternoon.
+[0:48:09] What I'm referring to here
+is the ingestion of caffeine
+[0:48:13] in a single bout, right?
+[0:48:15] 1 cup of coffee or 2 cups
+of coffee, for instance,
+[0:48:19] to achieve that 100
+to 300 milligram
+[0:48:20] range if that's what's
+appropriate for your body
+[0:48:22] weight.
+[0:48:23] But to avoid any confusion,
+when I talk about dosage
+[0:48:26] of caffeine, what I'm
+really talking about
+[0:48:28] is not the total amount of
+caffeine ingested per day.
+[0:48:30] I'm talking about
+the total amount
+[0:48:32] of caffeine ingested in one
+sitting or setting, that is.
+[0:48:37] And if you're somebody who's
+drinking caffeine multiple
+[0:48:39] times throughout the day, you
+can imagine-- for instance,
+[0:48:42] let's say the
+appropriate dose for you
+[0:48:45] in order to get an enhancement
+in mental performance
+[0:48:48] or physical performance
+is 200 milligrams.
+[0:48:50] And you are somebody who's
+doing some work in the morning,
+[0:48:52] and you want to have
+that lift in the morning
+[0:48:54] to be able to focus better.
+[0:48:55] And you're doing some physical
+exercise in the afternoon
+[0:48:57] or vice versa that you
+would ingest 200 milligrams
+[0:49:01] of caffeine at two
+separate times per day
+[0:49:03] separated by about four hours.
+[0:49:05] Now you don't have
+to separate them.
+[0:49:07] You could put them two
+hours apart, for instance.
+[0:49:10] But we'll talk about half-life
+of caffeine and so forth.
+[0:49:13] Just keep in mind that, if
+you're ingesting 200 milligrams
+[0:49:16] of caffeine and that's the
+appropriate dose for you
+[0:49:19] based on your body
+weight and then you
+[0:49:20] are ingesting another 200
+milligrams of caffeine an hour
+[0:49:23] later, you are effectively
+ingesting approximately 400
+[0:49:27] milligrams of caffeine,
+which is going
+[0:49:28] to start exceeding the dose
+in which you can normally
+[0:49:32] tolerate without feeling
+anxious and jittery.
+[0:49:34] With all of that
+said, there is a range
+[0:49:36] of tolerance for caffeine
+that's based on two things.
+[0:49:39] One is a preexisting disposition
+that is whether or not
+[0:49:42] your genetics and nervous system
+and the backdrop of your life,
+[0:49:45] how much stress
+you're experiencing
+[0:49:46] tends to make you feel more
+anxious and alert and jittery
+[0:49:49] before you ingest any caffeine.
+[0:49:51] And the other is how so-called
+caffeine-adapted you are.
+[0:49:54] We often hear about tolerance.
+[0:49:56] Tolerance means
+something very specific.
+[0:49:57] It's the ability to ingest
+more and more of something
+[0:50:00] with a plateau that is a no
+increase or an actual reduction
+[0:50:06] in the effectiveness
+of that thing.
+[0:50:07] But here we're not really
+talking about tolerance
+[0:50:10] to caffeine.
+[0:50:10] What we're talking about
+is being caffeine-adapted.
+[0:50:12] A simple way to
+understand whether or not
+[0:50:14] your caffeine-adapted or not
+is that, if you drink caffeine
+[0:50:17] and it tends to
+increase your heart rate
+[0:50:20] and make you feel more alert
+and a bit more anxious,
+[0:50:22] then chances are you are
+not caffeine-adapted,
+[0:50:25] provided the amount of caffeine
+is within the healthy range
+[0:50:27] for you, that is, the ranges
+we talked about a moment ago.
+[0:50:30] However, here's somebody
+who drinks caffeine
+[0:50:32] and you actually feel
+alert and relaxed,
+[0:50:34] chances are you are
+caffeine-adapted.
+[0:50:37] And so at various times
+during today's episode,
+[0:50:39] I'll talk about people
+who are caffeine-adapted
+[0:50:41] and people who are
+not caffeine-adapted.
+[0:50:43] We'll talk about the use of
+caffeine every other day.
+[0:50:45] I know a few habitual caffeine
+drinkers including myself,
+[0:50:48] just the simple mention of
+that probably sounds aversive.
+[0:50:52] But there is actually
+great utility
+[0:50:54] to using caffeine every other
+day as opposed to every day.
+[0:50:57] But just keep in
+mind that some people
+[0:50:59] will drink caffeine and not get
+much of a lift from it at all.
+[0:51:02] Other people will
+drink caffeine,
+[0:51:04] and they will feel extremely
+anxious even at dosages
+[0:51:06] far lower than that 1 to
+3 milligrams per kilogram
+[0:51:10] of body weight range that
+I described a moment ago.
+[0:51:14] So you have to take into
+account individual differences.
+[0:51:17] That said, 1 to 3 milligrams of
+caffeine per kilogram of body
+[0:51:20] weight for a given sitting.
+[0:51:23] For your morning coffee or
+your morning yerba maté tea is
+[0:51:26] a good range from
+which to start.
+[0:51:28] And I do encourage you
+to go online and look up
+[0:51:31] the various beverages and
+foods that you might be
+[0:51:33] eating that contain caffeine.
+[0:51:35] For instance, some people
+are surprised to discover
+[0:51:39] that the coffee that they get
+from some of the more standard
+[0:51:42] popular vendors out
+there, the small coffee
+[0:51:46] or the medium
+coffee, for instance,
+[0:51:48] can contain as much as 400 to
+600 milligrams of caffeine.
+[0:51:52] And the large
+coffee that is often
+[0:51:54] sold at those
+commercial vendors can
+[0:51:56] contain as much as 1 gram,
+1,000 milligrams, of caffeine.
+[0:52:00] Now you may be
+adapted to that such
+[0:52:02] that it doesn't make
+you feel anxious,
+[0:52:04] but if you wonder why
+you feel irritable
+[0:52:06] and you get a headache
+when you don't
+[0:52:09] get that caffeine or
+that amount of caffeine
+[0:52:12] at precisely the time that
+you're used to getting it
+[0:52:15] each day, that's because
+you are consuming
+[0:52:17] quite large quantities of
+caffeine on a regular basis.
+[0:52:21] So I do recommend whether or not
+you drink soda or coffee or tea
+[0:52:25] that you figure out
+the source of that.
+[0:52:27] OK, so figure out what
+vendor you purchase it
+[0:52:30] from, what kind of coffee,
+and go online and spend
+[0:52:32] a little bit of time
+because the information is
+[0:52:34] out there to discover
+what levels of caffeine
+[0:52:38] you're actually ingesting.
+[0:52:39] Now if you happen to be
+ingesting more than 1
+[0:52:41] to 3 milligrams per kilogram
+of body weight of caffeine,
+[0:52:44] that's not necessarily bad.
+[0:52:46] However, you do want to
+be careful about ingesting
+[0:52:49] very high levels of caffeine
+over long periods of time
+[0:52:53] in your life because there can
+be issues that start to arise.
+[0:52:56] In particular, a bias
+towards higher levels
+[0:52:59] of anxiety and depletion
+of certain electrolytes.
+[0:53:02] Because caffeine
+is a diuretic can
+[0:53:04] cause you to lose sodium and
+other things of that sort.
+[0:53:06] And also just from simply
+a dependent standpoint,
+[0:53:11] it does appear that if you
+ingest high levels of caffeine
+[0:53:14] that is exceeding the
+dosages that normally you
+[0:53:17] could get away with
+and get just as
+[0:53:19] much mental-enhancing and
+physical-enhancing benefits
+[0:53:23] that you can cause
+some disruption
+[0:53:25] to the microvasculature.
+[0:53:27] You can bias yourself towards
+headaches, anxiety attacks,
+[0:53:29] and you can become
+actually quite irritable
+[0:53:31] when you're not getting those
+higher levels of caffeine.
+[0:53:34] So I do encourage
+you to figure out
+[0:53:35] not just what an appropriate
+caffeine dosage would
+[0:53:38] be for you but also
+how much caffeine
+[0:53:40] you might already be ingesting.
+[0:53:42] The first tool I'd
+like to talk about
+[0:53:43] is one that I've
+mentioned before
+[0:53:45] on this podcast several times.
+[0:53:47] And it's something that
+if you haven't heard of
+[0:53:50] will be very useful to you.
+[0:53:51] And if you have heard
+this tool before,
+[0:53:54] I'm going to add some
+additional features
+[0:53:56] to the description
+of this tool that
+[0:53:57] should make this
+worthwhile for you as well.
+[0:53:59] And that is to delay
+your caffeine intake
+[0:54:03] to 90 to 120 minutes after
+waking up on most days.
+[0:54:08] And I'll be very
+clear as to days
+[0:54:11] in which you might want
+to ingest caffeine more
+[0:54:13] closely to when you wake up.
+[0:54:15] Why would you want to delay
+your caffeine intake to 90
+[0:54:19] to 120 minutes after waking?
+[0:54:21] The answer to that
+is very simple.
+[0:54:23] Many people wake
+up in the morning.
+[0:54:26] They drink caffeine within
+10, 20, 30, sometimes
+[0:54:30] within 2 minutes of waking.
+[0:54:32] And they feel more
+alert naturally.
+[0:54:34] That makes sense because
+of the effects of caffeine
+[0:54:36] in blocking the
+effects of adenosine
+[0:54:38] that I talked about
+earlier and its effects
+[0:54:40] on other
+neurotransmitter systems.
+[0:54:42] But then what they find is
+that, in the early afternoon,
+[0:54:46] in particular, after lunch,
+they experience a dramatic dip
+[0:54:50] in their overall levels of
+energy, the so-called afternoon
+[0:54:52] crash.
+[0:54:53] And in most cases, the
+way they respond to that
+[0:54:56] is to ingest more
+caffeine, which
+[0:54:58] indeed can increase their
+levels of mood and alertness.
+[0:55:02] However, as we'll
+soon talk about,
+[0:55:04] there is a problem
+with ingesting caffeine
+[0:55:06] in the afternoon if it
+falls within 8 or 10
+[0:55:11] or dare I even say 12
+hours of going to sleep.
+[0:55:14] And that is, the caffeine
+ingested in the afternoon--
+[0:55:18] for most everybody, let's say
+for 95-plus percent of people--
+[0:55:23] disrupts the
+architecture and quality
+[0:55:25] of their nighttime sleep.
+[0:55:27] And I should say that
+it doesn't necessarily
+[0:55:28] impact their ability to fall
+asleep and maybe even sleep
+[0:55:31] through the night but that the
+depth and quality of that sleep
+[0:55:35] is disrupted by consuming
+caffeine in the afternoon.
+[0:55:38] A little bit later,
+I'll talk about how
+[0:55:39] you can offset some of
+those negative effects
+[0:55:41] if you absolutely require
+caffeine in the afternoon.
+[0:55:44] But there's a huge advantage
+to restricting your caffeine
+[0:55:47] intake to the early
+part of your day
+[0:55:49] but not consuming caffeine
+within the first 90
+[0:55:52] to 120 minutes after waking.
+[0:55:55] In fact, many people find that
+if they delay their caffeine
+[0:55:58] intake to 90 to 120
+minutes after waking up
+[0:56:01] that they feel more
+alert in the morning,
+[0:56:04] and they completely avoid
+that afternoon crash.
+[0:56:07] Now that said, many
+people, including myself,
+[0:56:09] do need a short nap
+or non-sleep deep rest
+[0:56:14] or other form of relaxation
+for 10 to 30 minutes
+[0:56:16] in the afternoon.
+[0:56:17] That is natural and healthy.
+[0:56:19] I'm not referring
+to the need for that
+[0:56:22] when I refer to the
+so-called afternoon crash.
+[0:56:24] What I'm talking about
+in the afternoon crash
+[0:56:26] is a inability to recover
+energy and focus and a need
+[0:56:30] to consume more caffeine just to
+make it through the afternoon.
+[0:56:34] By delaying caffeine intake to
+90 to 120 minutes after waking,
+[0:56:38] there are a couple of things
+that are accomplished.
+[0:56:40] First of all, you offset
+that afternoon crash.
+[0:56:43] And this is an effect that
+many people experience
+[0:56:45] the very first time they
+start delaying their caffeine
+[0:56:47] intake to 90 to 120
+minutes after waking.
+[0:56:50] And the reason this works
+so well is the following.
+[0:56:53] As I mentioned
+earlier, adenosine
+[0:56:55] is a molecule that builds up
+the longer that we are awake.
+[0:56:58] It is a molecule that
+is reduced or cleared
+[0:57:01] from our system by sleep.
+[0:57:03] So when we emerge
+from sleep regardless
+[0:57:06] of how long we've slept,
+our adenosine levels
+[0:57:09] are lower than they
+were when we went
+[0:57:11] to sleep the previous night.
+[0:57:13] If you slept well
+enough and long enough,
+[0:57:17] those adenosine levels
+can be very, very low,
+[0:57:20] but they are never
+completely zero.
+[0:57:23] When you wake up in
+the morning, even
+[0:57:24] if you're one of these people
+that springs out of bed
+[0:57:27] and is ready to attack the
+day-- and here I'm certainly
+[0:57:29] not describing myself.
+[0:57:31] I'm not one of those people.
+[0:57:33] I tend to wake fairly slowly.
+[0:57:34] But if you're one of those
+spring up and attack the day
+[0:57:37] or you're one of
+the people who moves
+[0:57:40] more slowly into your
+day, regardless, there's
+[0:57:44] still some residual
+adenosine in your system.
+[0:57:46] And this is
+particularly the case
+[0:57:48] if you did not get enough
+sleep or enough depth of sleep
+[0:57:51] the night before.
+[0:57:51] The correct ratio is a slow-wave
+sleep and rapid eye movement
+[0:57:54] sleep.
+[0:57:55] And for those of you
+interested in optimizing sleep,
+[0:57:57] I'll just refer you to our
+master your sleep episode
+[0:57:59] of the Huberman Lab podcast,
+the perfect your sleep episode
+[0:58:02] of the Huberman Lab podcast.
+[0:58:03] And we have a tool kit for sleep
+all of which are available,
+[0:58:06] zero cost, time-stamped, et
+cetera at hubermanlab.com.
+[0:58:11] You wake up in the morning.
+[0:58:12] And your adenosine levels are
+low, but they're not zero.
+[0:58:16] And if you didn't sleep that
+well or deeply enough the night
+[0:58:19] before, you're going to have
+more adenosine in your system.
+[0:58:24] You might think
+the logical thing
+[0:58:25] to do is therefore
+to drink caffeine
+[0:58:27] and to block the
+adenosine that's there.
+[0:58:29] But what happens
+if you do that is
+[0:58:31] there's an accumulation, a
+sort of glut of adenosine
+[0:58:33] that hangs around.
+[0:58:35] And then in the afternoon, when
+the effects of that caffeine
+[0:58:38] start to wear off,
+you will experience
+[0:58:40] the so-called afternoon crash.
+[0:58:42] As I mentioned
+earlier, there is a way
+[0:58:45] to clear out the adenosine
+that's present when you wake up
+[0:58:48] in the morning and to
+clear it out essentially
+[0:58:51] completely without just
+blocking its receptors
+[0:58:55] and letting it accumulate
+or hang around.
+[0:58:57] And the way to do that
+is to deliberately spike
+[0:59:01] your cortisol.
+[0:59:02] Now, many of you have heard of
+cortisol, the so-called stress
+[0:59:04] hormone, as a bad thing.
+[0:59:06] And indeed, chronically elevated
+cortisol is a bad thing.
+[0:59:09] It depletes your immune system.
+[0:59:11] It's bad for
+psychosocial effects.
+[0:59:13] It tends to make us feel
+anxious and on and on.
+[0:59:16] But cortisol itself is not bad.
+[0:59:18] Cortisol is wonderful.
+[0:59:19] Cortisol enhances the
+efficiency of the immune system.
+[0:59:23] It makes us alert and focused.
+[0:59:25] It stimulates our metabolism.
+[0:59:26] It does a huge number of
+positive things, provided
+[0:59:30] that it is released in
+a circadian fashion.
+[0:59:33] That is, at the
+appropriate times
+[0:59:35] every 24 hours and that it tends
+to peak very close to waking.
+[0:59:38] In fact, one of the reasons
+you wake up in the morning,
+[0:59:41] assuming that you weren't
+woken up by some noise
+[0:59:43] or sleeping in an environment
+that's too warm, et cetera,
+[0:59:46] is that your cortisol
+levels start to rise.
+[0:59:49] And shortly after waking,
+your cortisol levels
+[0:59:51] will start to reach their peak.
+[0:59:52] And when I refer to
+a cortisol pulse,
+[0:59:55] that's just biology
+nerd speak for a rise
+[0:59:59] and peak in cortisol.
+[1:00:01] You want that cortisol pulse
+to occur early in the day close
+[1:00:05] to waking, and you want that
+for a couple of reasons.
+[1:00:07] First of all, if you don't
+restrict that cortisol pulse
+[1:00:10] to early in the
+day, it will tend
+[1:00:12] to bleed into the
+later parts of the day.
+[1:00:14] And actually, a late
+shifted cortisol peak
+[1:00:17] is one of the
+hallmark signatures
+[1:00:19] of depression,
+low-level depression,
+[1:00:21] and serious depression.
+[1:00:22] And it can start
+to disrupt sleep
+[1:00:23] and certainly can
+disrupt mood metabolism
+[1:00:26] and your immune system.
+[1:00:27] So you want that cortisol
+peak early in the day.
+[1:00:29] How do you ensure
+that that happens?
+[1:00:31] Well, you wake up
+in the morning.
+[1:00:32] And whether or not you're
+a bounce-out-of-bed type
+[1:00:34] or you're more groggy, you kind
+of wade slowly into the day
+[1:00:37] type like I am, you wake up,
+and you don't ingest caffeine.
+[1:00:43] Fine and, in fact,
+beneficial to hydrate
+[1:00:46] with water and electrolytes.
+[1:00:49] Terrific.
+[1:00:50] In fact, I would
+say necessary to get
+[1:00:54] bright light in your eyes
+ideally from sunlight.
+[1:00:56] I've talked about
+this many, many times
+[1:00:57] before on the podcast.
+[1:00:58] If you wake up before
+the sun comes out,
+[1:00:59] then turn on bright
+artificial lights.
+[1:01:01] But then certainly once the sun
+is out and even on cloudy days,
+[1:01:04] in fact, especially on cloudy
+days, get outside for anywhere
+[1:01:07] from 5 to 20, maybe
+even 30 minutes.
+[1:01:09] Do some work outside, take
+your breakfast outside
+[1:01:12] if you're a breakfast eater.
+[1:01:14] Get something done outside even
+if it's just to get outside
+[1:01:17] and get bright
+light in your eyes.
+[1:01:18] Why?
+[1:01:19] Well, because it's
+been shown in studies
+[1:01:22] on humans that getting
+bright light in your eyes
+[1:01:25] in the first hour after
+waking or as soon as possible
+[1:01:28] after waking increases the
+peak of that cortisol pulse
+[1:01:32] by 50%, 5-0.
+[1:01:34] And that cortisol pulse, yes,
+increases mood, yes, increases
+[1:01:38] alertness, but it does one
+other very important thing,
+[1:01:40] which is that, through
+an indirect pathway,
+[1:01:43] it can clear out any
+residual adenosine that
+[1:01:46] might be present in your
+system when you wake up
+[1:01:48] in the morning.
+[1:01:49] Again, this is going to be
+especially important for those
+[1:01:52] of you that are not
+getting as much sleep
+[1:01:53] or as much quality
+sleep as you would like.
+[1:01:56] It's going to be very important
+for you to get that morning
+[1:01:59] bright light ideally
+from sunlight,
+[1:02:01] get that cortisol peak going.
+[1:02:02] Other ways to increase
+that cortisol peak
+[1:02:04] would be to do some
+physical activity.
+[1:02:06] If you don't have time to do
+a full workout, well then,
+[1:02:09] getting some movement--
+[1:02:11] 10 minutes of
+skipping rope or even
+[1:02:13] 5 minutes of skipping rope
+or jumping jacks or walking
+[1:02:16] if that's all you have time
+for ideally while getting
+[1:02:18] the sunlight in your eyes.
+[1:02:19] But that's going to zero
+out the adenosine present
+[1:02:22] in your system.
+[1:02:25] If, however, you were to
+wake up and immediately
+[1:02:28] drink caffeine--
+[1:02:29] caffeine itself can
+stimulate the release
+[1:02:32] of cortisol a little bit
+more than it would otherwise
+[1:02:35] be present in your system.
+[1:02:36] But by blocking those
+adenosine receptors
+[1:02:40] and because of the
+indirect effects
+[1:02:43] of caffeine on the
+cortisol system,
+[1:02:45] you actually are reducing
+the clearance of adenosine
+[1:02:48] that would otherwise occur.
+[1:02:50] So I realize that's a mouthful.
+[1:02:51] Just to be very
+clear, if you wake up
+[1:02:53] and you ingest
+caffeine right away,
+[1:02:55] you're blocking the
+adenosine receptor,
+[1:02:57] but you're not clearing it out.
+[1:02:58] You're also preventing cortisol
+from having its normal increase
+[1:03:02] and rise such that it can
+directly clear out adenosine
+[1:03:06] because cortisol can
+clear out adenosine.
+[1:03:10] And that's what you want.
+[1:03:11] You want to be at
+maximum alertness
+[1:03:13] and focus in your morning
+and throughout your day.
+[1:03:15] And by delaying your caffeine to
+90 to 120 minutes after waking,
+[1:03:20] you set up your system so that
+you get that morning cortisol
+[1:03:23] peak.
+[1:03:24] Ideally, a peak that's
+even greater because you're
+[1:03:26] getting your bright
+light viewing.
+[1:03:29] And then when you ingest your
+caffeine 90 to 120 minutes
+[1:03:32] after waking, not only will
+you be craving it just a little
+[1:03:35] bit, but you will be
+drinking that caffeine
+[1:03:38] on an already existing backdrop
+of increased alertness for two
+[1:03:43] reasons.
+[1:03:43] One is adenosine is zeroed
+out, and your cortisol peak
+[1:03:49] is higher.
+[1:03:50] And so now when you
+ingest caffeine,
+[1:03:51] you can actually ingest
+levels of caffeine
+[1:03:53] that are a little
+more reasonable that
+[1:03:55] almost with certainty are
+going to fall in this 1 to 3
+[1:03:58] milligrams per kilogram dosage
+and will allow you to feel
+[1:04:02] really alert and will
+carry that alertness well
+[1:04:06] into the afternoon hours without
+the need to drink more caffeine
+[1:04:09] and thereby will prevent
+you from drinking
+[1:04:12] caffeine and disrupting
+your nighttime sleep.
+[1:04:14] And, of course, by getting
+better nighttime sleep,
+[1:04:17] you're going to zero out
+your adenosine even more.
+[1:04:19] So what I'm describing here
+are essentially two tools.
+[1:04:22] I'm telling you to get
+morning sunlight and maybe
+[1:04:24] some exercise in
+conjunction with that
+[1:04:25] even if it's brief exercise.
+[1:04:27] But the main tool
+of delaying caffeine
+[1:04:30] 90 to 120 minutes after
+waking has immediate effects,
+[1:04:35] but it also sets in
+motion a cascade or domino
+[1:04:38] falls that lead to better
+sleep and more wakefulness
+[1:04:42] the next night and the next
+day and so on and so forth.
+[1:04:46] Now I realize there are some
+people who just simply cannot
+[1:04:49] or will not delay their caffeine
+90 to 120 minutes after waking
+[1:04:53] for whatever reason.
+[1:04:54] First off, let me say
+that, if you are somebody
+[1:04:56] who likes to wake up and
+do very intense exercise
+[1:04:59] within the first 90
+minutes after waking, well,
+[1:05:02] in that case, it would
+be appropriate to ingest
+[1:05:04] your caffeine just prior
+to doing that exercise.
+[1:05:06] Not a problem.
+[1:05:07] Not a problem.
+[1:05:08] But you should expect that
+the combination of drinking
+[1:05:12] caffeine very shortly after
+waking plus exercising very
+[1:05:15] intensely shortly after
+waking will increase
+[1:05:18] the intensity of that early
+afternoon and afternoon fatigue
+[1:05:22] that you feel.
+[1:05:23] Now for some people,
+that's a great thing.
+[1:05:25] They can afford to take a nap
+or do non-sleep deep rest, step
+[1:05:28] away from work, and so forth.
+[1:05:30] In that case, I
+strongly encourage
+[1:05:32] you to do whatever
+it is that allows
+[1:05:33] you to get regular exercise
+because regular exercise is
+[1:05:37] going to be very beneficial.
+[1:05:38] In fact, we did
+an entire episode
+[1:05:40] called tool kit for fitness that
+describes a couple of different
+[1:05:43] but really one
+main structure that
+[1:05:44] allows you to get the
+appropriate amount
+[1:05:46] of resistance training and
+cardiovascular training
+[1:05:49] and flexibility training
+throughout the week.
+[1:05:51] I happen to follow that
+program, and it works very well.
+[1:05:55] And it does involve
+some of those workouts
+[1:05:58] to come very early in the
+morning shortly after waking.
+[1:06:01] And in those cases,
+I do ingest caffeine
+[1:06:03] just prior to those, so within
+10, 20 minutes of waking.
+[1:06:06] However, on other
+days, I personally
+[1:06:09] delay my caffeine intake
+90 to 120 minutes,
+[1:06:11] and I've done that
+to great benefit.
+[1:06:13] And most people, if not,
+all people that try that,
+[1:06:16] have reported the same.
+[1:06:17] I should mention that some
+people will find getting out
+[1:06:20] to that 90 minutes
+to be excruciatingly
+[1:06:22] difficult because they're
+so accustomed to ingesting
+[1:06:25] caffeine close to waking up.
+[1:06:27] In that case, maybe just
+push out your caffeine intake
+[1:06:29] by about 15 minutes
+each day until you
+[1:06:31] hit that 90 to 120-minute mark.
+[1:06:34] And that will make
+it much easier.
+[1:06:35] It might take you a
+week or so to get there.
+[1:06:36] But once you get
+there, you'll find it
+[1:06:38] to be quite easy to maintain.
+[1:06:40] The other thing is that,
+if you are somebody
+[1:06:41] who insists on drinking caffeine
+very shortly after waking,
+[1:06:45] I would encourage you to drink
+half of your caffeine then
+[1:06:48] and then the other half of your
+caffeine about an hour later.
+[1:06:52] That also will help offset
+some of the afternoon crash
+[1:06:55] for reasons related to the
+so-called kinetics of caffeine.
+[1:06:58] Caffeine has a quarter
+life of about 12 hours.
+[1:07:01] That means that if you were
+to ingest a cup of coffee
+[1:07:03] at let's say 8:00 AM--
+[1:07:06] and let's say 100
+milligram coffee
+[1:07:08] just for sake of simplicity,
+that about 25% of that caffeine
+[1:07:12] action--
+[1:07:13] we wouldn't really say 25
+milligrams, but about 25%
+[1:07:16] of that caffeine
+action will still
+[1:07:18] be present at 8:00
+PM that night,
+[1:07:23] which is pretty remarkable.
+[1:07:24] So there's a long arc
+of caffeine effects,
+[1:07:26] and this is why it
+can impede sleep if we
+[1:07:29] take caffeine in the afternoon.
+[1:07:30] But again, if you're
+somebody who wakes up
+[1:07:32] and you really need
+caffeine right away
+[1:07:34] and you refuse to do this
+90 to 120-minute delay thing
+[1:07:37] that I'm talking about,
+well then, in that case,
+[1:07:39] I would drink half of
+your caffeine upon waking
+[1:07:41] and then a little bit more or
+the other half about an hour
+[1:07:45] later.
+[1:07:46] And that will extend the
+arc of that caffeine effects
+[1:07:49] such that you don't need
+it again in the afternoon
+[1:07:51] because you won't experience
+the afternoon crash.
+[1:07:53] Because of the way
+caffeine works,
+[1:07:54] I should mention that,
+if you ingest caffeine
+[1:07:57] on an empty stomach, it will
+have a more potent stimulant
+[1:08:00] effect.
+[1:08:01] That will also tend to increase
+the level of jitteriness
+[1:08:05] that caffeine can produce.
+[1:08:06] Later, I'll talk about ways
+to offset that jitteriness,
+[1:08:08] but I'll just tell
+you one tool now.
+[1:08:10] Many people opt to take
+100 milligrams of theanine,
+[1:08:14] T-H-E-A-N-I-N-E, theanine, as
+a way to offset some of that
+[1:08:18] jitteriness.
+[1:08:20] Theanine will reduce
+the jitteriness
+[1:08:22] of caffeine, which is
+why many energy drink
+[1:08:24] manufacturers and even
+some coffee manufacturers
+[1:08:27] are now putting theanine
+in energy drinks
+[1:08:29] and in ground coffee
+because, no surprise,
+[1:08:33] it allows people to consume
+more of that beverage
+[1:08:35] and thereby purchase more
+of that beverage, which
+[1:08:38] is what these vendors want
+without feeling overly
+[1:08:41] anxious and jittery.
+[1:08:42] So you can take
+pill form theanine
+[1:08:43] if you want with your caffeine.
+[1:08:45] I don't tend to do that.
+[1:08:46] Rather, I control the total
+dosage of my caffeine.
+[1:08:48] I do tend to consume
+caffeine on an empty stomach
+[1:08:50] because I do restrict
+my caffeine intake
+[1:08:52] to the early part of the day.
+[1:08:54] And I generally eat my first
+meal somewhere around 11:00 AM,
+[1:08:58] and then I generally my last
+meal some time around 8:00
+[1:09:01] PM or so.
+[1:09:03] Those are averages.
+[1:09:04] I would say plus
+or minus an hour.
+[1:09:06] And that's not because
+I'm religiously
+[1:09:07] following any kind of
+time-restricted feeding.
+[1:09:11] It's just that
+tends to work best
+[1:09:13] with my schedule
+and my appetite.
+[1:09:15] But again, that's
+a general theme.
+[1:09:17] There are days in which I
+wake up and I'm very hungry,
+[1:09:20] and I might ingest something,
+small snack or something.
+[1:09:23] Or if I'm meeting
+somebody for breakfast,
+[1:09:25] sometimes I'll have breakfast.
+[1:09:26] Sometimes I won't.
+[1:09:27] And so on and so forth.
+[1:09:29] The point is that
+you can get away
+[1:09:31] with drinking less caffeine to
+get the stimulant effect if you
+[1:09:34] do it on an empty stomach.
+[1:09:35] And if you're somebody
+who likes to exercise
+[1:09:37] on an empty stomach--
+[1:09:39] and I'm one of those people--
+[1:09:40] well then, ingesting caffeine
+just prior to exercise
+[1:09:43] can be a fantastic tool.
+[1:09:44] A little bit later,
+we'll talk about some
+[1:09:46] of the physical
+performance-enhancing effects
+[1:09:50] of caffeine.
+[1:09:50] But I'll just briefly
+jump to a point about that
+[1:09:54] as we relate to
+morning exercise.
+[1:09:56] If you are somebody who
+regularly ingests caffeine--
+[1:09:59] and we can define
+regularly by, if you've
+[1:10:02] ingested caffeine every
+day for the last two weeks,
+[1:10:06] you're a regular
+consumer of caffeine.
+[1:10:07] Whereas if you're somebody
+who only ingests caffeine
+[1:10:10] somewhere between two and four
+times per week, well then,
+[1:10:12] you are not a regular
+consumer of caffeine.
+[1:10:15] You're an intermittent
+user of caffeine.
+[1:10:17] Well, if you're somebody who's
+a regular user of caffeine,
+[1:10:19] the performance-enhancing
+effects of caffeine are going
+[1:10:22] to be most dramatic if you
+take two or three days off from
+[1:10:26] drinking caffeine,
+which to my mind as a--
+[1:10:29] I don't want to call
+myself a caffeine addict
+[1:10:31] but a regular caffeine user.
+[1:10:32] That's a horrible notion to
+me, it is an aversive notion,
+[1:10:36] because I do like the
+effects of caffeine so much.
+[1:10:38] But if you really want
+to see the maximum
+[1:10:40] performance-enhancing
+effects of caffeine,
+[1:10:42] you will do either
+one of two things.
+[1:10:44] You will either
+abstain from caffeine
+[1:10:46] for a few days or three days
+prior to ingesting caffeine,
+[1:10:50] or you will use caffeine
+on an empty stomach.
+[1:10:54] It's very clear that
+caffeine on an empty stomach
+[1:10:56] enhances both the mental
+and physical enhancing
+[1:10:59] effects of caffeine.
+[1:11:00] And, of course, all of
+that has to be stated
+[1:11:02] on the backdrop of consideration
+that you're very, very hungry,
+[1:11:06] it can be make it
+hard to concentrate
+[1:11:07] and so on and so forth.
+[1:11:08] So I'm not encouraging people to
+starve themselves by any means.
+[1:11:12] Certainly, don't do that.
+[1:11:13] But if you want to maximize the
+performance-enhancing effects
+[1:11:15] of caffeine, you will consume
+it on an empty stomach.
+[1:11:18] And then as a final point to
+that, caffeine is a diuretic.
+[1:11:22] It causes us to lose fluid
+and, along with that fluid,
+[1:11:25] to excrete sodium because
+of the effects of caffeine
+[1:11:28] on various processes
+within the kidney.
+[1:11:30] So one thing that works
+very well to maintain mood
+[1:11:34] and alertness longer given
+a certain amount of caffeine
+[1:11:39] intake and to avoid
+the jitteriness
+[1:11:41] and what can sometimes feel
+like a crash or low blood sugar
+[1:11:43] feeling or even blurry
+vision is to make sure
+[1:11:46] that you consume at least
+an equal volume of water
+[1:11:50] with your caffeine.
+[1:11:51] And ideally, that
+water would contain
+[1:11:53] maybe a small pinch
+of salt or some sort
+[1:11:54] of electrolyte drink--
+[1:11:56] or powder, rather.
+[1:11:57] For me, I use element.
+[1:11:58] Full disclosure, they are a
+podcast affiliate and sponsor.
+[1:12:01] But you don't need to do that.
+[1:12:03] You could simply just have
+a glass of water alongside
+[1:12:06] your coffee or espresso or your
+yerba maté and just put a small
+[1:12:09] pinch of sea salt in that or
+evem just playing table salt.
+[1:12:13] And that will help offset some
+of the jitteriness of caffeine.
+[1:12:16] A lot of people think that,
+when they ingest caffeine,
+[1:12:18] they get the jitteriness and
+crash because their blood
+[1:12:20] sugar is low.
+[1:12:21] And while that can be the
+case, oftentimes, it's
+[1:12:23] simply because of the
+excretion of sodium
+[1:12:25] that's occurred when
+they've ingested caffeine.
+[1:12:27] So I encourage you
+to hydrate well
+[1:12:30] and to hydrate with
+something that contains
+[1:12:32] a little bit of sodium.
+[1:12:33] Obviously, not so much
+that increases hypertension
+[1:12:35] or something of that sort
+but a small amount of sodium
+[1:12:37] or an electrolyte
+drink like Element.
+[1:12:39] And there are other
+electrolyte drinks
+[1:12:41] out there that can accomplish
+the same, of course.
+[1:12:43] Just a couple of
+quick notes about
+[1:12:44] theanine because there are
+a growing number of products
+[1:12:48] out there that contain theanine.
+[1:12:49] And there's certainly a growing
+number of people out there
+[1:12:51] who are using theanine for the
+effect that I described before,
+[1:12:54] which is to offset some of
+the jitteriness associated
+[1:12:56] with caffeine-containing
+beverages or foods.
+[1:12:59] And, of course, I
+should mention that I've
+[1:13:02] talked about the
+effects of theanine
+[1:13:04] on sleep at that sleep
+tool kit that you
+[1:13:07] can find as a free download.
+[1:13:08] You don't even have
+to sign up for.
+[1:13:09] Anything you just download
+it from hubermanlab.com.
+[1:13:11] Go to the menu, go
+to a newsletter.
+[1:13:13] You'll see the
+tool kit for sleep.
+[1:13:14] You'll see that the
+so-called sleep stack
+[1:13:17] that I use and recommend
+includes magnesium 3 and 8,
+[1:13:21] something called
+apigenin and theanine,
+[1:13:24] although that sleep
+stack is designed
+[1:13:27] to be taken 30 to 60
+minutes prior to sleep.
+[1:13:29] And I make the point
+there, and I'll
+[1:13:31] make it again here that
+ingesting theanine prior
+[1:13:34] to sleep is not a good
+idea if you are somebody
+[1:13:37] who tends to have very vivid
+dreams, night terrors, or night
+[1:13:40] walk--
+[1:13:41] sleepwalking, excuse
+me, et cetera.
+[1:13:44] In that case, eliminate theanine
+from the sleep stack.. .
+[1:13:47] However, a number of
+people are using theanine,
+[1:13:49] and products are using
+theanine to offset jitteriness
+[1:13:52] from caffeine-containing
+products
+[1:13:53] during the daytime, daytime
+consumption, that is.
+[1:13:57] A couple of notes about
+theanine-- theanine
+[1:13:59] is something that is
+present in green tea, right?
+[1:14:01] It's now been created
+as a supplement.
+[1:14:03] It's what's called a
+nonprotein amino acid.
+[1:14:05] So while there are amino
+acids and proteins,
+[1:14:07] there are, of course, amino
+acids and nonproteins.
+[1:14:10] And theanine is one such
+nonprotein amino acid.
+[1:14:13] Theanine tends to stimulate
+the so-called glutamate and
+[1:14:17] glutamine pathway.
+[1:14:19] It's actually very similar
+to glutamate and glutamine,
+[1:14:22] and it has a lot of effects
+on a lot of different aspects
+[1:14:25] of the nervous system.
+[1:14:26] But the general
+effect of theanine
+[1:14:28] is to compete for the receptors
+for certain neurotransmitters.
+[1:14:32] And the neurotransmitters
+I'm referring to
+[1:14:35] are all excitatory
+neurotransmitters,
+[1:14:37] things like glutamate.
+[1:14:38] And they govern a tremendous
+amount of our daily thinking
+[1:14:41] and action and
+feeling, et cetera,
+[1:14:43] because they're present
+at so many connections
+[1:14:44] between neurons in the brain.
+[1:14:47] Theanine competes for the
+receptors for glutamate
+[1:14:50] and tends to reduce our
+overall levels of alertness.
+[1:14:54] So really, when people
+take theanine along
+[1:14:57] with caffeine,
+what they're doing
+[1:14:58] is they're really
+taking a slight--
+[1:15:01] I don't want to call it
+depressant to the point
+[1:15:03] where it misleads people and
+makes people think that it
+[1:15:05] will make you depressed.
+[1:15:06] The word is a little
+bit misleading.
+[1:15:08] But it tends to
+reduce or blunt some
+[1:15:10] of the more excitatory
+pro-alertness actions
+[1:15:14] of neurons in the brain.
+[1:15:15] So when you take it
+alongside caffeine,
+[1:15:17] tends to, quote unquote,
+"even things out a bit."
+[1:15:19] I should mention that
+the dosages of theanine
+[1:15:21] that are effective
+for offsetting
+[1:15:23] the jitteriness of caffeine
+is 200 to 400 milligrams,
+[1:15:27] and the studies that
+I was able to find
+[1:15:30] showed that essentially up
+to 900 milligrams per day
+[1:15:33] can be safe.
+[1:15:34] But that's a very high
+dosage of theanine.
+[1:15:36] In fact, so much so
+that it might increase
+[1:15:39] sleepiness to the point
+where it wouldn't feel good.
+[1:15:41] There are also some
+positive effects
+[1:15:44] of daytime consumption
+of theanine
+[1:15:46] that are independent of reducing
+the jitteriness of caffeine.
+[1:15:49] For instance, there's
+a study demonstrating
+[1:15:51] that 17 days of ingesting
+theanine at these 200 to 400
+[1:15:55] milligram dosage at one
+to three times per day
+[1:16:00] can reduce depression
+and anxiety.
+[1:16:02] There are also some good
+data out there showing
+[1:16:04] that theanine can have positive
+effects on endothelial cells--
+[1:16:07] so blood vessels,
+capillaries, and so on--
+[1:16:09] and increase some of the
+function of blood vessels,
+[1:16:12] allowing them to pass
+more blood through them
+[1:16:15] and give them a little bit
+more elasticity, if you will.
+[1:16:18] So theanine has certain
+pro-sleep effects
+[1:16:21] if it's taken prior to sleep.
+[1:16:22] It can enhance the quality,
+depth, and duration of sleep.
+[1:16:25] Again, if you're a
+sleepwalker or somebody who
+[1:16:27] has extremely vivid dreams
+from which you wake up
+[1:16:30] in the middle of the
+night, probably best
+[1:16:31] to leave out theanine or
+maybe reduce the dosage down
+[1:16:34] to 100 milligrams.
+[1:16:35] And if that's still too much,
+then eliminate it completely.
+[1:16:37] But theanine can be terrific
+for enhancing quality, depth,
+[1:16:41] and duration of sleep.
+[1:16:42] It can also reduce
+the jitteriness
+[1:16:46] associated with
+caffeine-containing beverages
+[1:16:48] and foods.
+[1:16:49] And it has certain
+antidepressant
+[1:16:52] and pro-endothelial effects.
+[1:16:55] That is, it can
+offset depression.
+[1:16:58] It can offset anxiety, although
+those are minor effects,
+[1:17:01] subtle effects.
+[1:17:03] And it has been shown to
+improve endothelial cell.
+[1:17:06] That is, vessel and capillary
+function and structure
+[1:17:10] in ways that can be beneficial
+for both brain and body.
+[1:17:13] Now one final point
+about theanine
+[1:17:15] that's worth paying
+attention to is
+[1:17:16] that the kinetics
+of theanine are
+[1:17:18] such that you don't need to take
+theanine every time you ingest
+[1:17:22] a caffeinated beverage.
+[1:17:25] When we ingest caffeine,
+the peak effects of caffeine
+[1:17:28] occur about 30 minutes
+after we drink it.
+[1:17:32] And there, I'm assuming
+one takes it all at once.
+[1:17:35] And this is a key point that
+we'll come back to later rather
+[1:17:38] than sipping your coffee
+slowly over a couple of hours
+[1:17:41] or an hour.
+[1:17:42] If you drink all 200 or
+300 milligrams of caffeine
+[1:17:45] in your coffee or 600
+milligrams of your coffee
+[1:17:48] if you're getting one of
+those commercial coffees
+[1:17:51] and you take theanine
+along with it,
+[1:17:53] theanine will block
+some of the jitteriness
+[1:17:56] and anxiety-inducing
+effects of caffeine
+[1:17:59] that can occur for much
+longer than the effects that
+[1:18:03] caffeine lasts.
+[1:18:03] So the peak in theanine occurs
+about an hour after ingestion.
+[1:18:08] I suppose if you want
+to get really fancy
+[1:18:10] and really dial in
+the kinetics, you
+[1:18:12] could ingest theanine
+about half hour
+[1:18:14] before you ingest your caffeine.
+[1:18:15] But I think that's getting a
+little bit excessive in terms
+[1:18:18] of controlling your
+microenvironment, if you will.
+[1:18:21] I think it would be perfectly
+fine to take a 100 to 200
+[1:18:26] milligram capsule of theanine
+along with your coffee or tea
+[1:18:30] or so forth and just realize
+that if you drink more caffeine
+[1:18:34] or you extend your caffeine
+intake over several hours
+[1:18:37] that you don't necessarily
+have to take theanine repeated
+[1:18:39] times throughout the day.
+[1:18:40] I'd like to take a
+brief break and thank
+[1:18:43] our sponsor, InsideTracker.
+[1:18:45] InsideTracker is a
+personalized nutrition platform
+[1:18:48] that analyzes data
+from your blood and DNA
+[1:18:50] to help you better
+understand your body
+[1:18:52] and help you reach
+your health goals.
+[1:18:54] I've long been a believer in
+getting regular blood work done
+[1:18:56] for the simple reason that
+many of the factors that impact
+[1:18:59] your immediate and
+long-term health
+[1:19:01] can only be analyzed from
+a quality blood test.
+[1:19:03] The problem with a
+lot of blood and DNA
+[1:19:05] tests out there, however,
+is that you get data
+[1:19:07] back about metabolic factors,
+lipids, and hormones,
+[1:19:10] and so forth, but you don't
+know what to do with those data.
+[1:19:12] InsideTracker
+solves that problem
+[1:19:14] and makes it very easy
+for you to understand
+[1:19:16] what sorts of nutritional,
+behavioral, maybe even
+[1:19:20] supplementation-based
+interventions
+[1:19:22] you might want to
+take on in order
+[1:19:24] to adjust the numbers of those
+metabolic factors, hormones,
+[1:19:27] lipids, and other
+things that impact
+[1:19:28] your immediate and
+long-term health to bring
+[1:19:30] those numbers into the
+ranges that are appropriate
+[1:19:33] and indeed optimal for you.
+[1:19:35] If you'd like to
+try InsideTracker,
+[1:19:36] you can visit
+insidetracker.com/huberman
+[1:19:39] and get 20% off any of
+InsideTracker's plans.
+[1:19:41] That's
+insidetracker.com/huberman
+[1:19:44] to get 20% off.
+[1:19:45] Let's talk for a moment
+about when to avoid caffeine.
+[1:19:48] And in the same stroke,
+let's also talk about some
+[1:19:52] of the myths around caffeine.
+[1:19:53] For instance, one of the
+major myths around caffeine
+[1:19:55] is that it can
+increase osteoporosis.
+[1:19:59] It turns out that, while there
+is a relationship, of course,
+[1:20:02] between calcium
+and osteoporosis--
+[1:20:04] that is reductions
+in bone density.
+[1:20:07] And it is the case that
+caffeine can extract calcium
+[1:20:11] from certain tissues.
+[1:20:12] The large scale studies that
+are out there essentially
+[1:20:16] prove that, if people are
+ingesting enough calcium
+[1:20:19] through their diet, which
+most everybody is-- although
+[1:20:22] certainly, there
+are some people that
+[1:20:24] need to supplement calcium
+or make it a point to consume
+[1:20:27] more calcium-containing foods.
+[1:20:28] But assuming that
+you are getting
+[1:20:30] adequate levels
+of calcium, there
+[1:20:32] is no direct relationship
+between caffeine intake
+[1:20:36] and osteoporosis, at least
+not that I'm aware of.
+[1:20:39] I know this was debated
+for a number of years
+[1:20:41] in the literature,
+but the literature
+[1:20:43] seems to have arrived
+at a general consensus
+[1:20:46] now that caffeine itself is not
+going to create or exacerbate
+[1:20:50] osteoporosis, provided people
+are getting enough calcium
+[1:20:53] through their diet.
+[1:20:55] That is, through foods, through
+supplementation, or both.
+[1:20:59] Some of the other
+myths around caffeine
+[1:21:01] are that, for instance, caffeine
+will reduce testosterone levels
+[1:21:05] or will reduce estrogen levels.
+[1:21:08] Other myths out there
+are in exact opposite
+[1:21:12] to that, that caffeine will
+increase testosterone levels,
+[1:21:16] in particular, free
+testosterone levels.
+[1:21:18] There have been some large scale
+studies addressing the hormone
+[1:21:21] effects of caffeine.
+[1:21:22] They are a little
+bit difficult to do.
+[1:21:24] I should just
+mention that caveat.
+[1:21:26] And the reason they
+are difficult to do
+[1:21:28] is because 90% of adults
+are consuming caffeine.
+[1:21:31] And therefore, you
+can imagine it's
+[1:21:33] very hard to find a control
+group to compare the caffeine
+[1:21:37] consumers to.
+[1:21:39] In particular, a
+control group that's
+[1:21:41] well controlled for other things
+like lifestyle, diet, exercise,
+[1:21:44] et cetera.
+[1:21:45] However, when one controls
+as well as one can
+[1:21:50] for all the various factors that
+could impact hormones, what one
+[1:21:54] discovers is that caffeine
+intake, at least at the dosages
+[1:21:57] we talked about earlier, 1
+two 3 milligrams per kilogram
+[1:22:00] of body weight or even
+up to double that,
+[1:22:04] that there are no consistent
+increases or reductions
+[1:22:09] in testosterone or
+estrogen in men or women
+[1:22:13] that can be directly attributed
+to the caffeine intake.
+[1:22:16] And I say directly attributed
+because in these association
+[1:22:18] studies, one always
+has to wonder,
+[1:22:20] for instance, if because people
+are ingesting more caffeine,
+[1:22:24] they have more energy and
+therefore exercising more.
+[1:22:26] And exercise is
+known to have effects
+[1:22:28] on testosterone, estrogen,
+and other hormones,
+[1:22:30] whether or not the effects
+of caffeine on those hormones
+[1:22:33] is indirect and so
+on and so forth.
+[1:22:34] And this all just
+underscores the challenges
+[1:22:36] of doing studies on
+humans in the wild
+[1:22:39] in their natural habitat
+of living as opposed
+[1:22:41] to an acute study as it's
+called to bring someone
+[1:22:43] into the laboratory
+and studying them just
+[1:22:45] for those hours or moments.
+[1:22:47] With all that said, there does
+appear to be a relationship
+[1:22:50] between caffeine intake and
+so-called sex hormone binding
+[1:22:54] globulin, which is a protein
+present in the body of both men
+[1:23:01] and women that binds to
+the sex steroid hormones--
+[1:23:04] testosterone and estrogen--
+and prevents them
+[1:23:06] from being in their
+free or active form.
+[1:23:09] It has been shown that
+ingestion of caffeine--
+[1:23:13] even in the sorts of dosage
+ranges that are considered safe
+[1:23:16] and that we've been discussing--
+can increase sex hormone
+[1:23:19] binding globulin such
+that it can slightly
+[1:23:22] reduce overall levels
+of free testosterone
+[1:23:25] and free estradiol in women.
+[1:23:28] Now those effects are relatively
+minor, but they do exist.
+[1:23:31] If any of you are interested
+in reading further
+[1:23:33] into the effects of
+caffeine on hormones,
+[1:23:36] I'll just refer you to
+a couple of studies.
+[1:23:38] We will link to this in
+the show note caption.
+[1:23:40] The title of the
+study is "Consumption
+[1:23:42] of caffeinated beverages and
+serum concentrations of sex
+[1:23:45] steroid hormones in US men."
+[1:23:47] And within this study,
+there is a reference
+[1:23:49] to a equally sized
+empowered study done
+[1:23:53] on women, both of
+which converged
+[1:23:55] on the same conclusion, by
+examining more than a thousand.
+[1:23:59] So in this case, 1,410 men or
+more than a thousand women,
+[1:24:03] that there are increases in
+sex hormone binding globulin
+[1:24:06] associated with increased
+intake of coffee, in particular.
+[1:24:11] But they were able to narrow
+that down specifically
+[1:24:14] to ingestion of caffeine.
+[1:24:15] So it's not coffee per se that's
+causing the increase in sex
+[1:24:18] hormone binding globulin.
+[1:24:20] It's actually caffeine itself.
+[1:24:22] So again, the increases in
+sex hormone binding globulin
+[1:24:25] were not so significant
+that, at least to my mind,
+[1:24:27] they seem like a
+concern, although I
+[1:24:29] think that it is worth noting
+that if you're going to consume
+[1:24:32] caffeine that you probably
+want to consume caffeine
+[1:24:35] in a way that is in dosages and
+with the sort of timing that
+[1:24:40] will allow you to get away
+with ingesting caffeine
+[1:24:42] but not to excess, so to
+derive the benefits of caffeine
+[1:24:46] without for instance driving
+up sex hormone binding globulin
+[1:24:49] too far.
+[1:24:50] Now why would that
+be a good idea?
+[1:24:51] Why would you want to make
+sure that you have enough free
+[1:24:54] testosterone and free estrogen?
+[1:24:55] Well, some of that is
+related to the acute effects
+[1:24:58] of those hormones in terms
+of well-being and libido
+[1:25:01] and strength and mood, et
+cetera, but some of those
+[1:25:05] also relates to the longer
+term effects of sex steroid
+[1:25:08] hormones.
+[1:25:09] Many people don't
+realize this, but the sex
+[1:25:11] steroid hormones
+operate on the receptors
+[1:25:14] at the surface of cells
+to have immediate effects.
+[1:25:17] But they also can enter
+cells and actually
+[1:25:19] go into the nucleus of cells
+where the DNA of those cells
+[1:25:22] are contained and control gene
+expression in those cells.
+[1:25:25] So the sex steroid hormones,
+testosterone and estrogen,
+[1:25:27] are controlling a lot of
+different cellular functions
+[1:25:30] over long periods of time.
+[1:25:31] So blunting their action
+over long periods of time
+[1:25:35] is probably not a great idea.
+[1:25:37] But again, at the
+dosages of caffeine
+[1:25:38] that we're talking about
+today, 1 to 3 milligrams
+[1:25:41] per kilogram of body
+weight, unlikely
+[1:25:43] that the increases in sex
+hormone binding globulin
+[1:25:46] that one experiences from that
+are going to be detrimental.
+[1:25:48] And certainly, the
+positive effects
+[1:25:50] of caffeine that one experiences
+in terms of mental performance
+[1:25:53] and physical
+performance and the fact
+[1:25:54] that it increases energy
+to do the sorts of things
+[1:25:57] like exercise that we
+know can profoundly
+[1:26:00] improve hormone
+profiles, twofold
+[1:26:03] or threefold improvement
+in hormone profiles.
+[1:26:07] In that case, it seems that
+ingesting caffeine is overall
+[1:26:10] a good thing, provided
+it's not in excess.
+[1:26:13] That also makes this
+the appropriate time
+[1:26:15] to mention one of the more
+impressive effects of caffeine,
+[1:26:18] which is on overall levels
+of mood and mental health.
+[1:26:21] There are several
+studies on this,
+[1:26:23] but the one that I'm
+particularly fond of
+[1:26:26] was published in 2019
+in Psychiatry Research.
+[1:26:29] And the title of the paper
+is "Inverse association
+[1:26:32] between caffeine intake
+and depressive symptoms
+[1:26:34] in US adults."
+[1:26:35] And these are data from the
+National Health and Nutrition
+[1:26:38] Examination Survey.
+[1:26:39] And the basic takeaway is
+that, while, of course,
+[1:26:42] there are a ton of
+different factors
+[1:26:44] that are going to
+relate to whether or not
+[1:26:46] people are depressed or
+not, life circumstances,
+[1:26:48] genetics, and so on, that--
+[1:26:50] and here I'm quoting
+from the study.
+[1:26:52] "Caffeine's psychostimulant
+properties--
+[1:26:54] that just means
+the ability to make
+[1:26:55] us feel more alert
+and positive--
+[1:26:57] appeared to protect against
+depressive symptoms."
+[1:26:59] And, of course, they acknowledge
+that additional studies are
+[1:27:02] needed, but this is just one
+of several studies pointing
+[1:27:04] to the fact that people who
+regularly ingest caffeine
+[1:27:07] in the appropriate
+dosages do seem
+[1:27:09] to enjoy an antidepressive
+effect overall.
+[1:27:12] I wouldn't want anyone
+to consider caffeine
+[1:27:15] a treatment for
+severe depression
+[1:27:18] or at least not
+alone a treatment
+[1:27:19] for severe depression.
+[1:27:20] But provided the
+anxiety-inducing effects
+[1:27:23] of caffeine can be kept in
+check through use of theanine
+[1:27:26] or making sure that the dosage
+and the timing of caffeine
+[1:27:28] ingestion is correct,
+then caffeine overall
+[1:27:31] seems to be good for our
+mood and prevent depression
+[1:27:34] or at least keep
+depression at bay
+[1:27:37] when depression might otherwise
+surface or be more severe.
+[1:27:41] And, of course, there are the
+don'ts surrounding caffeine
+[1:27:43] intake as it relates to sleep.
+[1:27:47] And to put it very
+simply, sleep--
+[1:27:49] that is getting
+enough quality sleep
+[1:27:51] each night-- is the foundation.
+[1:27:53] It is the bedrock of mental
+health, physical health,
+[1:27:55] and performance.
+[1:27:56] Sleep and the power of sleep
+far exceeds any nootropic
+[1:28:00] you could ever take,
+any prescription drug
+[1:28:03] you could ever take, any
+health-promoting tool
+[1:28:06] for your immune system,
+your metabolism,
+[1:28:09] your mental function,
+your physical function you
+[1:28:11] could ever take.
+[1:28:11] Sleep is the bedrock.
+[1:28:13] I know a lot of people
+experience challenge
+[1:28:16] with sleep.
+[1:28:17] Nobody is perfect about sleep.
+[1:28:18] That's important
+to keep in mind.
+[1:28:20] I think a good goal is
+to get enough quality
+[1:28:23] sleep of sufficient duration
+80% of the nights of your life
+[1:28:26] and then as much as possible
+to make sure that the remaining
+[1:28:29] 20% of nights you are
+not getting enough
+[1:28:31] sleep for good reasons as
+opposed to hard reasons.
+[1:28:33] Good reasons would
+include raising children.
+[1:28:36] That's important.
+[1:28:36] After all, every species
+desires to make more of itself
+[1:28:41] and to preserve and extend
+the well-being of its young,
+[1:28:44] so child-rearing is a
+perfectly legitimate reason
+[1:28:47] to get a lack of sleep.
+[1:28:49] But you really want to strive
+to get quality sleep most nights
+[1:28:53] of your life, which means that,
+even if you're somebody who
+[1:28:57] can, quote unquote,
+"drink an espresso"
+[1:28:59] and then fall right asleep,
+that you avoid caffeine intake
+[1:29:03] in the 12 hours prior to sleep.
+[1:29:06] I realize not everyone
+will be able to do that.
+[1:29:09] And in fact, I
+sometimes violate that,
+[1:29:10] so I tend to go to sleep
+around 10:00 PM every night,
+[1:29:15] sometimes 11:00,
+occasionally 12:00 midnight,
+[1:29:18] but usually around
+10:00 PM every night.
+[1:29:22] I confess that my last
+ingestion of caffeine
+[1:29:25] is not always 10:00
+AM or prior to that,
+[1:29:29] so sometimes I will
+have caffeine up
+[1:29:31] until 11:00 AM or maybe noon.
+[1:29:34] And very, very rarely, I'll have
+an afternoon coffee or espresso
+[1:29:39] or noncalorie-containing
+soda or tea or something
+[1:29:44] that's of that sort.
+[1:29:45] But I really tried to
+restrict my caffeine intake
+[1:29:47] to the early part of my day
+that is before noon, given
+[1:29:51] that I go to sleep around
+10:00 PM each night.
+[1:29:54] And I strongly encourage
+everyone out there
+[1:29:57] to try and limit their
+afternoon caffeine intake.
+[1:30:00] This is something that Dr.
+Matt Walker, who's an expert
+[1:30:04] sleep researcher out of
+University of California
+[1:30:07] Berkeley Psychology and
+neuroscience department there,
+[1:30:09] author of the incredible
+book Why We sleep.
+[1:30:11] He's been on this podcast,
+many other podcasts,
+[1:30:14] talking about the
+importance of sleep.
+[1:30:16] He will remind us, and
+I'll remind you now
+[1:30:19] that the quarter life
+of caffeine is 12 hours.
+[1:30:22] I mentioned this earlier, but
+I'm going to repeat it again.
+[1:30:25] And that means that, if you
+ingest caffeine at noon,
+[1:30:29] 25% of its effects
+more or less, OK?
+[1:30:32] I'm using a broad stroke here
+to talk about quarter life.
+[1:30:34] 25% of that is still going
+to be bioactive at midnight
+[1:30:39] that night, which will disrupt
+the early phase of your night,
+[1:30:42] the amount of slow-wave
+sleep, which then in turn
+[1:30:45] will disrupt the amount of rapid
+eye movement sleep, which will
+[1:30:48] disrupt your
+emotional processing
+[1:30:50] during the following day
+and so on and so forth.
+[1:30:53] None of this is
+to say that if you
+[1:30:54] have the occasional cup of
+coffee in the afternoon,
+[1:30:56] that it's going to
+completely demolish
+[1:30:58] your sleep/wake cycle forever.
+[1:30:59] But I really encourage people
+to avoid drinking caffeine
+[1:31:03] in the 12 hours prior to sleep.
+[1:31:05] And if you can't do that, within
+the 10 hours prior to sleep.
+[1:31:08] And if you can't do that, within
+the 8 hours prior to sleep.
+[1:31:10] So really try and
+limit your caffeine
+[1:31:12] intake in the 8
+to 12 hours prior
+[1:31:15] to going to sleep at night.
+[1:31:16] And, of course, slow-wave
+sleep, aka deep sleep,
+[1:31:18] is the sleep that's associated
+with somewhat mundane dreams,
+[1:31:22] which makes it sound like it
+might not be that important.
+[1:31:25] But it's also the sleep that's
+associated with growth hormone
+[1:31:29] release, which is important
+for protein synthesis,
+[1:31:32] repair of all bodily
+tissues and metabolism.
+[1:31:35] And slow-wave sleep
+is also critically
+[1:31:38] attached to your
+immune system's ability
+[1:31:40] to clear out bacteria and
+viruses that might otherwise
+[1:31:43] infect your tissues.
+[1:31:44] Now I'd like to talk about
+caffeine and performance.
+[1:31:47] And that includes both
+mental performance
+[1:31:49] and physical performance.
+[1:31:51] Now I'd like to
+talk about caffeine
+[1:31:53] and its positive
+effects on performance
+[1:31:55] when used correctly.
+[1:31:57] And here we are referring
+to both mental performance
+[1:32:00] and physical performance.
+[1:32:02] The exploration of caffeine
+as a pro-performance tool
+[1:32:06] has been explored since
+the 1930s, at least
+[1:32:09] that's some of the earliest
+documented literature on this.
+[1:32:13] Although I have
+to imagine, given
+[1:32:14] that people have been
+using caffeine for much
+[1:32:16] longer than that, that long
+ago somebody realized that,
+[1:32:20] by ingesting a certain
+plant, that they
+[1:32:22] felt much more
+alertness and were
+[1:32:24] able to hunt and gather or do
+any number of different things
+[1:32:27] better and, as a
+consequence, decide
+[1:32:29] to consume more of that plant.
+[1:32:32] Now these days, we
+consume a lot of caffeine
+[1:32:34] in the form of coffee
+and tea mainly,
+[1:32:36] and some people consume it in
+the form of caffeine tablets
+[1:32:39] or energy drinks, et cetera.
+[1:32:42] Across the board, one
+finds that caffeine intake
+[1:32:45] at a level of 1 to 3 milligrams
+per kilogram of body weight
+[1:32:48] improves reaction time.
+[1:32:51] That is, it reduces
+the amount of time
+[1:32:53] to take a physical action or
+to answer a question correctly
+[1:32:58] with a verbal response.
+[1:33:01] It can also improve
+coordination.
+[1:33:02] It can also improve
+memory, although I
+[1:33:05] do want to mention that, whereas
+most studies of the effects
+[1:33:08] of caffeine on improving
+mental and physical performance
+[1:33:12] involve taking caffeine at 1
+to 3 milligrams per kilogram
+[1:33:16] of body weight before the
+mental task or physical task,
+[1:33:20] there is also a pro-performance
+effect of caffeine on memory
+[1:33:24] if one takes caffeine after
+learning certain material
+[1:33:28] or I should say being
+exposed to certain material.
+[1:33:31] We'll come back to
+that in a few minutes.
+[1:33:34] If one examines reaction
+time, mood, alertness, focus,
+[1:33:40] and memory or the
+ability to call up
+[1:33:44] information from memory, or
+physical dexterity, power
+[1:33:48] output, endurance, and
+overall feelings of well-being
+[1:33:53] during exercise and
+exertion, caffeine
+[1:33:57] has been shown in numerous
+studies in both men and women
+[1:34:00] to improve all of those
+metrics significantly.
+[1:34:04] So this is all just
+to say that caffeine
+[1:34:07] is an incredible
+performance-enhancing tool.
+[1:34:10] Now, what's not obvious from
+the statement that caffeine is
+[1:34:13] a performance-enhancing
+tool across the board
+[1:34:16] and in men and women and
+in different contexts
+[1:34:18] is that the way in
+which caffeine is taken
+[1:34:22] is very important.
+[1:34:24] Because 90% or more of
+adults consume caffeine,
+[1:34:30] finding controls for studies of
+caffeine is really challenging.
+[1:34:34] That is, finding people
+who don't ingest caffeine
+[1:34:36] regularly is a very challenging
+task for the researcher.
+[1:34:40] And as a consequence,
+many of the studies
+[1:34:42] of caffeine on
+human beings involve
+[1:34:45] depriving regular
+caffeine users of caffeine
+[1:34:48] and then examining the
+effects of caffeine
+[1:34:51] given after a period of, say,
+5 to 15 days of abstinence
+[1:34:55] in a person that is essentially
+experiencing mild withdrawal
+[1:35:00] symptoms because they haven't
+had the caffeine that they were
+[1:35:02] used to getting.
+[1:35:03] So this is an important point.
+[1:35:04] And it's a point that
+likely exacerbates
+[1:35:07] the observed pro-performance
+effects of caffeine.
+[1:35:11] Now all of that isn't
+necessarily a problem,
+[1:35:13] provided you keep it in mind.
+[1:35:15] And it actually points
+to a way in which
+[1:35:18] even if you're a
+regular caffeine user,
+[1:35:20] you can extract more of
+the benefits of caffeine.
+[1:35:23] The simplest way to
+do this, for instance,
+[1:35:25] is to look back to what we
+talked about earlier in terms
+[1:35:29] of the need to have most of your
+cortisol increase restricted
+[1:35:32] to the hour or hours just
+after waking in terms of mood
+[1:35:36] and alertness and performance.
+[1:35:38] One of the ways to increase
+the peak of that cortisol
+[1:35:41] early in the day is to
+consume caffeine shortly
+[1:35:46] after that peak occurs.
+[1:35:48] And this was really
+nicely demonstrated
+[1:35:50] in a study entitled
+caffeine stimulation
+[1:35:52] of cortisol secretion across
+the waking hours in relation
+[1:35:55] to caffeine intake levels.
+[1:35:57] We will provide a
+link to this study.
+[1:35:59] It's a somewhat
+complicated study
+[1:36:01] because they looked at a bunch
+of different times of day
+[1:36:03] for caffeine intake.
+[1:36:05] And I should mention,
+in this study,
+[1:36:07] they use this 300 milligrams per
+day or 600 milligrams per day.
+[1:36:11] So that's quite high, although
+for people of sufficient body
+[1:36:13] weight and who are accustomed
+to taking caffeine,
+[1:36:15] it's certainly not
+going to be in excess
+[1:36:18] of what a lot of people
+out there are taking.
+[1:36:20] But basically, what they
+observed was the following.
+[1:36:24] Cortisol responses to
+caffeine are reduced but not
+[1:36:27] eliminated in people who consume
+caffeine on a daily basis.
+[1:36:31] What this means is
+that, if you wake up--
+[1:36:33] as I recommended
+earlier, you avoid
+[1:36:35] drinking caffeine for the first
+90 to 120 minutes after waking,
+[1:36:39] but you do get some sunlight or
+other bright light in your eyes
+[1:36:42] in that time, maybe
+even get some exercise
+[1:36:45] in that time, which
+would be even better--
+[1:36:46] and then you ingest caffeine,
+you will get a further increase
+[1:36:50] in cortisol, which,
+provided it's restricted
+[1:36:52] to the early part of the day,
+is a good thing overall for mood
+[1:36:55] and alertness.
+[1:36:56] So this is a simple
+performance-enhancing tool,
+[1:37:00] which is to stack
+caffeine on the tail
+[1:37:02] of that early cortisol peak.
+[1:37:04] I should also mention,
+however, that, in this study,
+[1:37:06] they had people do a five-day
+caffeine abstinence prior
+[1:37:10] to being tested with 300
+milligrams or 600 milligrams
+[1:37:14] of caffeine.
+[1:37:15] So the simple tool to extract
+from this and other studies
+[1:37:18] like it is that, if
+you want to experience
+[1:37:20] the maximum alertness-promoting
+effects of caffeine
+[1:37:23] when you ingest it
+early in the day,
+[1:37:25] you would abstain from
+caffeine for five days
+[1:37:28] and then ingest caffeine 90
+to 120 minutes after waking.
+[1:37:31] I would still hope that you
+were doing all the other things
+[1:37:33] that I described-- morning
+sunlight, exercise, et cetera--
+[1:37:36] correctly.
+[1:37:36] But regardless, it's very clear
+that a five-day abstinence
+[1:37:40] from caffeine however
+painful that might be
+[1:37:42] will increase the
+performance-enhancing effects
+[1:37:45] of caffeine when you take
+caffeine on that sixth day.
+[1:37:48] Now, I'm sure many of you out
+there are saying, why would
+[1:37:50] I ever want to abstain
+from caffeine for five days
+[1:37:53] in order to just get this
+six-day performance-enhancing
+[1:37:56] effect?
+[1:37:57] Well, there are a couple
+of reasons for doing that.
+[1:37:59] Perhaps you're planning to
+travel to a new time zone,
+[1:38:02] and you want to use
+caffeine as a stimulant
+[1:38:04] to stay up during the
+day in the new time zone.
+[1:38:07] That's a somewhat unusual case.
+[1:38:09] Others of you
+might be interested
+[1:38:10] in the pro-physical performance
+effects of caffeine.
+[1:38:13] We'll talk more about
+these in a little bit.
+[1:38:15] But you want to get
+the maximum strength
+[1:38:17] increase or the maximum
+endurance increase
+[1:38:20] from ingesting, in this
+case, 300 to 600 milligrams
+[1:38:24] of caffeine.
+[1:38:25] Well, in that case, abstaining
+from caffeine for five days
+[1:38:27] will greatly exacerbate
+the pro-performance effects
+[1:38:31] of caffeine when you take
+it on that sixth day,
+[1:38:33] although admittedly,
+those five days are
+[1:38:35] likely to be pretty painful if
+you're a regular caffeine user.
+[1:38:38] Another variation
+on this, however,
+[1:38:40] might be to have the
+amount of caffeine
+[1:38:42] that you ingest on a daily
+basis and then go back
+[1:38:45] to your regular level of
+caffeine intake on that
+[1:38:48] day in which you need the
+caffeine to really boost
+[1:38:50] your mood, energy,
+and performance.
+[1:38:51] Another reason why you might
+want to abstain from caffeine
+[1:38:54] or reduce your caffeine
+intake for a period of time
+[1:38:56] and then go back to your
+regular caffeine intake
+[1:38:59] is simply to identify how
+much of an effect caffeine
+[1:39:03] is really having on your overall
+level of daily functioning
+[1:39:07] and mood.
+[1:39:08] This was something
+that was actually
+[1:39:09] covered in beautiful detail
+in a book by Michael Pollan
+[1:39:11] all about caffeine.
+[1:39:12] It's available on Audible.
+[1:39:14] I really enjoyed that book.
+[1:39:16] It describes his experience
+with the decision
+[1:39:18] to completely
+abstain from caffeine
+[1:39:20] for a period of months, although
+I confess that after hearing
+[1:39:25] that book, what it
+basically made me want to do
+[1:39:27] is never quit drinking
+caffeine because it sounded
+[1:39:29] as if, at least my
+interpretation was, that
+[1:39:31] even after several weeks
+or months of abstaining
+[1:39:33] from caffeine, that
+he still fantasized
+[1:39:36] about the effects of caffeine.
+[1:39:37] But he did mention that, when
+returning to ingesting caffeine
+[1:39:41] after a period of
+long abstinence,
+[1:39:43] that it had almost a--
+[1:39:46] let's not call it a
+psychedelic property,
+[1:39:48] but it had such
+obvious effects on mood
+[1:39:52] and alertness and
+feelings of well-being
+[1:39:54] that it really highlighted
+for him the extent
+[1:39:57] to which caffeine normally was
+allowing him to just function
+[1:40:00] what he thought was normally.
+[1:40:01] So in other words,
+many of us don't even
+[1:40:03] really know what our
+normal basal level
+[1:40:05] of cognitive and
+physical functioning
+[1:40:07] is because we're
+ingesting caffeine
+[1:40:09] on such a regular basis.
+[1:40:10] I confess that, as much
+as I enjoyed that book
+[1:40:13] and as intriguing as his
+description of caffeine
+[1:40:16] abstinence and then the
+return to caffeine was,
+[1:40:18] I don't intend to ever
+find out personally.
+[1:40:20] Now a very good
+reason why you might
+[1:40:22] want to abstain from caffeine
+for a deliberate period of time
+[1:40:25] and then return
+to caffeine intake
+[1:40:28] is for its physical
+performance-enhancing effects.
+[1:40:32] And here we can look to a
+really interesting study.
+[1:40:35] The title of which
+is "Time course
+[1:40:37] of tolerance to the performance
+effects of caffeine."
+[1:40:39] And what I like about this
+study is that, while yes,
+[1:40:41] it does say that
+abstaining from caffeine
+[1:40:43] and then returning
+to caffeine intake
+[1:40:45] can enhance physical performance
+in a very specific way,
+[1:40:48] it also says that, if you
+take caffeine regularly,
+[1:40:50] you can still see the physical
+performance-enhancing effects
+[1:40:53] of caffeine.
+[1:40:54] Although they are not quite
+as robust as they would be had
+[1:40:58] you abstained from caffeine.
+[1:41:00] The design of the study
+is pretty straightforward.
+[1:41:04] They had people either
+ingest 3 milligrams
+[1:41:06] per kilogram of caffeine
+for 20 consecutive days.
+[1:41:09] Many people are already
+doing that, I realize,
+[1:41:11] but they had people
+do that or ensure
+[1:41:13] that they were doing that.
+[1:41:14] Or others ingested a
+placebo for 20 days,
+[1:41:17] so they abstained from
+caffeine without realizing it.
+[1:41:20] Then after that 20 days of
+either ingesting caffeine
+[1:41:25] or a placebo, their
+peak performance
+[1:41:29] was measured in terms
+of aerobic output.
+[1:41:32] But prior to that measurement,
+they had caffeine, OK?
+[1:41:34] So it's 20 days of caffeine
+and then a 21st day of caffeine
+[1:41:38] and then the physical
+task on that 21st day.
+[1:41:40] Or it's 20 days of
+abstinence from caffeine.
+[1:41:43] And then on day 21,
+you get caffeine,
+[1:41:45] and you get the
+same physical test.
+[1:41:46] And what they discovered was
+that the ingestion of caffeine
+[1:41:51] increased peak performance
+in this aerobic output
+[1:41:55] dramatically if people had
+abstained from caffeine.
+[1:42:00] But for people that had consumed
+caffeine all the way through up
+[1:42:04] until that day, it still was
+effective to ingest caffeine
+[1:42:08] on day 21 but not as effective
+as it would have been had
+[1:42:12] they abstained.
+[1:42:14] And in fact, the
+magnitude of what
+[1:42:17] they call ergogenic
+effect, which
+[1:42:19] is the pro-performance-enhancing
+effect of caffeine,
+[1:42:22] was higher on the first
+day than in subsequent days
+[1:42:26] when they allowed people to
+continue caffeine intake.
+[1:42:29] So the takeaway from this study
+is really straightforward.
+[1:42:31] If you want to get the maximum
+physical performance-enhancing
+[1:42:33] effects of caffeine, you abstain
+from caffeine for 20 days.
+[1:42:37] Then on day 21,
+when you're going
+[1:42:39] to do the physical
+thing, the task,
+[1:42:42] you ingest caffeine about
+30 minutes to an hour
+[1:42:45] before you do that
+physical challenge.
+[1:42:48] Now 20 days of
+abstinence is going
+[1:42:50] to be rough for a lot of people.
+[1:42:51] I certainly don't want to
+sign up for this study.
+[1:42:54] In which case, you might want
+to do five days of abstinence
+[1:42:56] as we talked about before.
+[1:42:58] And then on day six is the day
+that you ingest caffeine and do
+[1:43:02] the physical task.
+[1:43:03] There are even some
+studies showing
+[1:43:04] that you can abstain from
+caffeine for just two days,
+[1:43:07] for just 48 hours.
+[1:43:09] And, in particular, if you are
+a regular user of caffeine,
+[1:43:12] this allows you
+to, on day three,
+[1:43:15] ingest caffeine at the dose
+that's appropriate for you
+[1:43:18] and do the physical, or I should
+mention mental performance task
+[1:43:22] and perform significantly
+better than those
+[1:43:25] that have been taking caffeine
+throughout the entire period
+[1:43:28] leading up to the challenge.
+[1:43:30] So you don't necessarily
+need to abstain for 20 days
+[1:43:33] in order to get the
+pro-performance effects
+[1:43:35] of caffeine on day 21.
+[1:43:36] You could do five days of
+abstinence prior or even
+[1:43:38] two days of abstinence prior.
+[1:43:40] Or if that's intolerable
+to you as it is in my mind,
+[1:43:43] to me, to just reduce your
+caffeine intake slightly
+[1:43:46] or even perhaps have it
+if you can tolerate that
+[1:43:50] in the week or two weeks
+or maybe even three
+[1:43:53] weeks preceding some
+physical or mental challenge.
+[1:43:55] Now again, this sort of
+implies that you're going up
+[1:43:58] against a marathon,
+or you're going up
+[1:44:00] against a series of long
+tests, maybe standardized tests
+[1:44:03] in one day.
+[1:44:04] There, I just really
+want to point out
+[1:44:06] that there is an abundant
+literature showing that people
+[1:44:09] perform best on mental tests
+if they are in the state
+[1:44:13] that they were when they
+studied for that material.
+[1:44:17] Now in college, I knew
+a number of people
+[1:44:19] who took this to the extreme,
+thinking that if they were
+[1:44:21] to study under the
+effects of alcohol,
+[1:44:23] that they would be best
+off consuming alcohol
+[1:44:26] prior to taking exams.
+[1:44:27] And it turns out
+to not be the case.
+[1:44:29] Here we're talking,
+in particular, about
+[1:44:31] psychostimulant effects of
+caffeine and other compounds.
+[1:44:34] So don't think
+that you can drink
+[1:44:36] or be under the influence
+of THC and then take--
+[1:44:40] when you study and then take an
+exam under the same influence
+[1:44:42] and do just as well as you would
+had you not ingested anything.
+[1:44:44] Please don't let
+that be the takeaway.
+[1:44:46] However, do let
+it be the takeaway
+[1:44:49] that caffeine's
+effects are made more
+[1:44:51] potent by a brief to not so
+brief period of abstinence
+[1:44:55] prior to taking a
+dosage of caffeine.
+[1:44:57] And then the final
+point to make is
+[1:44:59] that, if you are somebody who
+is not accustomed to drinking
+[1:45:02] caffeine, meaning you're
+hypersensitive to caffeine
+[1:45:04] or you don't regularly
+ingest caffeine, please
+[1:45:06] do not ingest
+caffeine on the day
+[1:45:08] of any important mental
+or physical challenge
+[1:45:10] or performance, because
+what you will find
+[1:45:12] is that because you are
+not caffeine-adapted,
+[1:45:15] you will experience changes
+in your thermal regulation,
+[1:45:18] in your levels of
+anxiety and jitteriness,
+[1:45:20] and your levels of
+focus that could
+[1:45:22] be very detrimental to mental
+or physical performance.
+[1:45:25] So you don't want to throw
+yourself in the deep end
+[1:45:28] by ingesting caffeine if
+you're not used to it.
+[1:45:30] And I should mention
+that for people
+[1:45:32] that are not accustomed
+to ingesting caffeine
+[1:45:34] or are very sensitive
+to caffeine.
+[1:45:35] Even 25 to 50 milligrams
+of caffeine in the amount
+[1:45:39] that's found in, for
+instance, a piece
+[1:45:40] of certain types of chocolate
+can actually cause anxiety.
+[1:45:44] So be careful there.
+[1:45:45] Here, I'm referring only to
+people that are accustomed
+[1:45:47] with caffeine intake.
+[1:45:48] So what I recommend is to
+explore the ergogenic effects
+[1:45:53] of caffeine during your training
+and then to make a decision
+[1:45:56] about what you can
+reasonably and reliably do
+[1:45:59] in terms of abstinence and
+then pulse with caffeine
+[1:46:02] on the day of the challenge.
+[1:46:04] I get a lot of questions
+as to whether or not
+[1:46:05] caffeine has different
+effects on the nervous system
+[1:46:08] and on performance in
+particular, depending on phases
+[1:46:10] of the menstrual cycle.
+[1:46:12] So I explored that in my
+research for this episode,
+[1:46:14] and I found two
+studies both of which
+[1:46:16] we will reference in
+the show note captions.
+[1:46:18] The first one is entitled
+"Caffeine consumption
+[1:46:21] and menstrual function."
+[1:46:22] So it's actually the
+relationship between caffeine
+[1:46:24] and menstrual function.
+[1:46:25] We will do an entire episode
+about the menstrual cycle
+[1:46:27] and menstrual function.
+[1:46:28] But the other one as it
+relates to performance
+[1:46:30] was published in 2020 in the
+European Journal of Nutrition,
+[1:46:34] which is "Ergogenic
+effects of caffeine
+[1:46:36] on peak aerobic cycling power
+during the menstrual cycle."
+[1:46:39] And the basic takeaway
+of this study is--
+[1:46:42] frankly, a very nice study,
+showed that quote, "Caffeine
+[1:46:45] increased peak aerobic cycling
+power in the early follicular,
+[1:46:49] preovulatory, and midluteal
+phases of the menstrual cycle."
+[1:46:53] Thus, the ingestion--
+and again, here they
+[1:46:55] use 3 milligrams of caffeine
+per kilogram of body mass
+[1:46:59] might be considered an
+ergogenic aid for women
+[1:47:03] who are in the menstrual
+cycle during all three
+[1:47:06] phases of their cycle.
+[1:47:07] So keep that in mind, women--
+[1:47:09] for those of you that are
+regular users of caffeine
+[1:47:11] or you're using caffeine to
+enhance physical performance,
+[1:47:14] there does not seem to be any
+menstrual cycle phase-dependent
+[1:47:18] effects of caffeine
+on performance.
+[1:47:20] That is, caffeine seems
+to always increase
+[1:47:22] physical performance
+regardless of the phase
+[1:47:25] of the menstrual cycle
+you might happen to be in.
+[1:47:27] I'd like to touch on a little
+bit more of the use of caffeine
+[1:47:31] for enhancing
+mental performance.
+[1:47:33] Yes, it is the case that
+ingesting 1 to 3 milligrams
+[1:47:37] of caffeine per kilogram of
+body weight in the 30 minutes
+[1:47:40] or so prior to
+doing a memory task
+[1:47:42] or sitting down to
+doing some studying
+[1:47:45] or learning of any kind,
+physical or mental performance,
+[1:47:49] of any kind is beneficial
+for all the reasons we talked
+[1:47:52] about before, relate to dopamine
+and acetylcholine, et cetera.
+[1:47:56] But it turns out that
+it is also the case that
+[1:48:00] spiking one's adrenaline
+and other so-called
+[1:48:04] catecholamines-- so this would
+be dopamine, norepinephrine,
+[1:48:06] and epinephrine-- after
+a bout of learning
+[1:48:10] can greatly enhance
+memory for the information
+[1:48:13] that one was trying to learn.
+[1:48:15] That's right.
+[1:48:16] Spiking your adrenaline
+after learning
+[1:48:19] can greatly increase
+memory for the material
+[1:48:22] you're trying to learn.
+[1:48:24] In fact, this is a practice that
+dates back centuries and was
+[1:48:27] written about in a beautiful
+Annual Review of Neuroscience
+[1:48:31] on the biology of memory by
+James McGaugh, where he talks
+[1:48:34] about medieval
+practices of children
+[1:48:37] being taught information and
+then being thrown literally
+[1:48:40] into cold water to stimulate
+the release of adrenaline
+[1:48:43] and that increase in adrenaline.
+[1:48:46] While the mechanism wasn't
+completely understood,
+[1:48:48] it was understood that
+that sort of shock
+[1:48:51] to the system from
+the cold water
+[1:48:53] led to better memory and
+retention of the information
+[1:48:57] that these children
+had been exposed to.
+[1:48:59] And it turns out
+the exact same thing
+[1:49:00] is true for adults
+in the laboratory
+[1:49:03] or kids in the laboratory.
+[1:49:04] And here I'm not
+suggesting throwing anyone
+[1:49:06] into cold water.
+[1:49:06] If you want to get
+into cold water,
+[1:49:08] there's a reason we
+call it deliberate
+[1:49:09] cold exposure on the
+podcast is that it
+[1:49:11] should be deliberate and
+controlled by you, not
+[1:49:13] by somebody else.
+[1:49:14] And if it's controlled
+by somebody else,
+[1:49:16] that might be military
+screening or something.
+[1:49:19] But here we're talking about
+deliberately increasing
+[1:49:23] your levels of adrenaline and
+other catecholamines, dopamine,
+[1:49:26] norepinephrine, et cetera.
+[1:49:28] You can do that certainly
+by deliberate cold exposure
+[1:49:30] with a cold shower or
+getting in up to your neck
+[1:49:34] in cold water of any kind.
+[1:49:36] But the other way to do that
+is to spike your adrenaline
+[1:49:39] by ingesting 1 to 3 milligrams
+per kilogram of caffeine
+[1:49:44] after sitting down to try and
+learn some material I confess
+[1:49:48] that, more often than not, I
+use caffeine in the same way
+[1:49:51] that most people
+use it, which is OK.
+[1:49:52] I'm going to sit down.
+[1:49:53] I'm going to research
+information for a podcast
+[1:49:56] or assemble some information
+for a paper or grant,
+[1:50:00] and I want to focus.
+[1:50:01] So I will drink a cup of
+coffee at the beginning of that
+[1:50:04] and maybe even throughout
+that or a couple of yerba maté
+[1:50:07] at the beginning
+or throughout that.
+[1:50:09] Or I'll sip on one or both
+throughout trying to learn.
+[1:50:13] And that works
+quite well in terms
+[1:50:15] of maintaining focus and
+alertness and retention
+[1:50:19] of information, but
+it is indeed the case.
+[1:50:22] That is, the research
+supports the fact.
+[1:50:24] And I've experienced
+the fact that,
+[1:50:25] if I abstain from caffeine while
+I'm trying to learn something--
+[1:50:28] but then I drink caffeine
+immediately after.
+[1:50:31] Somewhat surprisingly to me
+but certainly in a way that's
+[1:50:35] consistent with the
+research literature, memory
+[1:50:39] for the information that I was
+focused on prior to ingesting
+[1:50:43] that caffeine is much greater.
+[1:50:44] And here I'm talking about
+as a personal anecdote,
+[1:50:46] but this is actually what the
+data point to both in animals
+[1:50:49] and in humans.
+[1:50:50] And if you think about
+it, it makes perfect sense
+[1:50:52] because the way that the
+memory systems of the brain
+[1:50:56] are organized is that we go
+through life experiencing
+[1:50:59] things.
+[1:51:00] We encounter surprises
+both good and bad.
+[1:51:02] We go through the motions of
+things both typical, mundane,
+[1:51:07] exciting, and novel,
+and not novel.
+[1:51:11] And then every once
+in a while, something
+[1:51:13] will happen that will
+spike our catecholamines.
+[1:51:15] Dopamine, typically if
+it's a positive surprise.
+[1:51:19] Adrenaline, which
+can be associated
+[1:51:20] with both positive
+surprise or positive events
+[1:51:23] and negative events
+or surprises.
+[1:51:26] And without fail, increases
+in the catecholamines
+[1:51:31] tend to lock in
+memories for things
+[1:51:34] that preceded the increase
+in those catecholamines.
+[1:51:37] Again, the catecholamines
+being dopamine, epinephrine,
+[1:51:39] and norepinephrine, sometimes
+all three in combination,
+[1:51:42] sometimes just two of those,
+sometimes just one of those,
+[1:51:44] depending on the experience.
+[1:51:46] So it makes perfect
+sense that using caffeine
+[1:51:49] at the end of a
+learning bout would
+[1:51:52] enhance our memory
+for the information
+[1:51:54] that we are trying to learn.
+[1:51:55] So if you decide that you
+want to try and extract
+[1:51:58] this performance-enhancing
+effect of caffeine, what
+[1:52:00] I recommend would be to try and
+abstain from caffeine for a day
+[1:52:05] or two prior.
+[1:52:06] But if you can't,
+you just continue
+[1:52:07] with your normal
+caffeine intake.
+[1:52:09] But then when you sit down
+to study or learn something
+[1:52:11] to not ingest any caffeine as
+you do that but then afterward
+[1:52:16] to ingest caffeine.
+[1:52:18] Now in theory, you could
+probably further enhance
+[1:52:20] the memory encoding
+effects of adrenaline
+[1:52:23] and the other catecholamines
+by drinking caffeine
+[1:52:25] and then taking a cold shower or
+doing deliberate cold exposure
+[1:52:29] if you really wanted to
+or had the ability to
+[1:52:31] or doing some sort of
+intense form of exercise.
+[1:52:34] And we'll talk in
+a moment about how
+[1:52:36] caffeine, exercise, and the
+adrenaline system interact.
+[1:52:40] But as a brief but
+relevant to side,
+[1:52:42] brief bouts of intense exercise
+ranging from 10 to 50 minutes
+[1:52:47] or so have been shown to
+improve memory for information
+[1:52:51] that one was trying to learn
+prior to the intense exercise.
+[1:52:54] This is work from Dr.
+Wendy Suzuki's lab at NYU
+[1:52:57] as well as other
+laboratories, some of the work
+[1:53:00] that's being done at Stanford
+in the Mind, Body Laboratories.
+[1:53:04] And our laboratory points in
+the direction of these kinds
+[1:53:07] of effects as well.
+[1:53:08] They all come back to the
+same general neurochemical
+[1:53:12] theme, which is that,
+when we experience
+[1:53:15] an increase in these
+catecholamines that include
+[1:53:18] adrenaline, dopamine,
+and norepinephrine,
+[1:53:21] the memory systems of the
+brain flip on in a way that
+[1:53:24] try to capture the information
+and the perceptions
+[1:53:28] and the experiences that we
+were exposed to just prior
+[1:53:31] to the increase in
+catecholamines and caffeine
+[1:53:35] but also exercise
+and also cold water.
+[1:53:37] And, of course, any of those
+alone or in combination
+[1:53:41] all increase the levels
+of catecholamines,
+[1:53:43] so it makes perfect
+logical mechanistic sense
+[1:53:46] as to why this would work.
+[1:53:47] And in fact, it does work.
+[1:53:48] If you want to remember
+specific information,
+[1:53:51] you might consider using
+caffeine as you move through
+[1:53:54] and absorb and are exposed
+to that information.
+[1:53:56] But you might also
+consider using caffeine
+[1:53:59] after being exposed
+to that information
+[1:54:01] because studies in
+animals and humans
+[1:54:03] show that that is a potent way
+to increase memory for what
+[1:54:06] you are just exposed to.
+[1:54:08] I should mention that
+what I just described also
+[1:54:10] pushes back on something that
+I know a number of people
+[1:54:13] perhaps have heard about
+and maybe even use, which is
+[1:54:16] this notion of the nappuccino.
+[1:54:17] I remember hearing about
+this a few years back.
+[1:54:19] It was sort of
+trend, if you will.
+[1:54:22] The trend involved
+drinking a cup of coffee
+[1:54:25] or a double espresso and then
+going down for a nap typically
+[1:54:28] in the afternoon
+and then waking up.
+[1:54:29] And the idea was that the
+caffeine would hit your system
+[1:54:32] right at the time that
+you awake from the nap
+[1:54:34] and that you would be better
+able to focus and exercise.
+[1:54:38] There are a couple of things
+about that practice that I
+[1:54:40] don't like.
+[1:54:41] First of all, it
+implies, in most cases,
+[1:54:44] that you're napping
+and ingesting
+[1:54:47] caffeine in the afternoon, which
+I realize for many students
+[1:54:51] and for people that are
+comfortable staying up
+[1:54:52] until the wee hours of the
+night and then waking up
+[1:54:55] late the next day might be
+compatible with their schedule.
+[1:54:58] But again, because of the
+sleep-diminishing effects
+[1:55:02] of caffeine--
+[1:55:04] and we talked about earlier.
+[1:55:05] I'm not crazy about
+the idea of people
+[1:55:07] ingesting caffeine
+in the late afternoon
+[1:55:09] in order to perform better
+in the late afternoon.
+[1:55:12] Far better would be to
+restrict caffeine intake
+[1:55:14] to the early part of the day
+as we talked about earlier.
+[1:55:16] The other reason
+is that the data
+[1:55:19] on things like
+non-sleep deep rest
+[1:55:22] and naps in the afternoon--
+and again, the rule here
+[1:55:26] is that you don't have to nap.
+[1:55:27] But if you want
+to nap, it's been
+[1:55:28] shown that naps of
+90 minutes or less
+[1:55:31] or non-sleep deep rest
+protocols-- and you
+[1:55:33] can find those-- for instance,
+there's one with me speaking.
+[1:55:35] You just put NSDR
+Huberman into YouTube.
+[1:55:38] You can hear that.
+[1:55:39] It's completely zero cost.
+[1:55:40] There are other NSDR
+scripts out there
+[1:55:41] now, of course, if you prefer
+those, that those can all
+[1:55:45] lead to increases in one
+of the catecholamines
+[1:55:48] at least, which is dopamine.
+[1:55:50] That's been shown in a really
+nice neurotransmitter labeling
+[1:55:55] study, not from my laboratory,
+but from another laboratory,
+[1:55:57] but also can improve mood,
+focus, and alertness on its own
+[1:56:01] without the need to
+ingest caffeine prior
+[1:56:03] to going into those states.
+[1:56:05] And in fact, ingesting
+caffeine prior to a nap
+[1:56:07] or ingesting caffeine
+prior to NSDR
+[1:56:10] is most certainly going to
+reduce the effectiveness
+[1:56:14] of that nap and
+NSDR in restoring
+[1:56:16] natural levels of
+alertness and focus
+[1:56:18] that would lead to the
+performance-enhancing effect.
+[1:56:20] So I'm not such a fan of
+the so-called nappuccino,
+[1:56:22] although if any of you
+out there have derived
+[1:56:24] great benefit from
+it, definitely
+[1:56:26] let me know your protocol
+and what you've experienced.
+[1:56:28] Put it in the comment
+section if you would.
+[1:56:31] I'd appreciate that.
+[1:56:33] There's another very important
+and potent use of caffeine
+[1:56:36] for enhancing performance.
+[1:56:37] And this relates not just to
+the dopamine and epinephrine
+[1:56:42] and the arousal-inducing
+effects of caffeine.
+[1:56:45] And it doesn't even just relate
+to the effect of caffeine
+[1:56:50] on enhancing frontal
+lobe function.
+[1:56:51] It does include all
+that, but it also
+[1:56:53] includes those reinforcing
+effects of caffeine
+[1:56:56] that we talked about at the
+beginning of the episode.
+[1:56:59] And the best way to illustrate
+these performance-enhancing
+[1:57:03] effects of caffeine
+that stem directly
+[1:57:05] from its association
+with reinforcement
+[1:57:08] is to highlight a study.
+[1:57:10] And the title of the study
+is "Blood dopamine level
+[1:57:13] enhanced by caffeine in men
+after treadmill running."
+[1:57:16] And as the title suggests,
+this was carried out in men,
+[1:57:19] but there's no reason to think
+that the same results wouldn't
+[1:57:22] also be present in women.
+[1:57:24] There are some sex-dependent
+effects of caffeine.
+[1:57:26] I'll touch on just
+briefly at the end.
+[1:57:28] But those are largely
+present in kids.
+[1:57:31] That is, adolescents and
+teens as opposed to adults.
+[1:57:35] So this study is
+really interesting.
+[1:57:37] What they had people do was
+run on a treadmill and either
+[1:57:40] ingest caffeine-- again, 3
+milligrams per kilogram of body
+[1:57:44] weight--
+[1:57:45] or to not ingest caffeine.
+[1:57:47] And then they looked
+at levels of dopamine
+[1:57:50] and other neurotransmitters
+and hormones,
+[1:57:53] such as prolactin and cortisol.
+[1:57:55] And the basic takeaway
+is, as the title suggests,
+[1:57:58] that exercise, while on its
+own, can increase cortisol
+[1:58:02] in healthy ways, provided it's
+not too intense and too long.
+[1:58:05] A little note here, if you
+have trouble recovering
+[1:58:09] from exercise or
+you want to continue
+[1:58:10] to derive the benefits from
+exercise, in general, best not
+[1:58:14] to do high-intensity exercise
+for longer than 75 minutes.
+[1:58:17] Or 90 minutes probably
+being the outer threshold.
+[1:58:20] I realized that there are
+some genetic freaks out there
+[1:58:22] or people that are
+chemically assisted
+[1:58:24] that can recover from very
+intense long bouts of exercise.
+[1:58:27] But most people don't do
+well through long bouts
+[1:58:31] of intense exercise
+on a regular basis.
+[1:58:33] And limiting their
+intense exercise
+[1:58:35] to 60 minutes or less--
+[1:58:37] that doesn't include
+the warm-up--
+[1:58:39] is going to be beneficial.
+[1:58:40] See the episode on
+tool kit for fitness
+[1:58:43] if you'd like details on that.
+[1:58:45] Exercise is known to increase
+levels of dopamine, cortisol,
+[1:58:49] and other catecholamines and
+neurotransmitters very potently
+[1:58:53] and things like
+testosterone and estrogen
+[1:58:55] in ways that we know
+are beneficial to us
+[1:58:57] and, of course, have all
+these positive effects
+[1:58:59] on the musculoskeletal system
+and cardiovascular effects.
+[1:59:02] But unbeknownst to most
+people, ingesting 3 milligrams
+[1:59:07] per kilogram of caffeine
+prior to exercise further
+[1:59:10] increases the dopamine release
+associated with exercise
+[1:59:14] specifically.
+[1:59:15] And this has two
+important effects.
+[1:59:17] First of all, that
+increase in dopamine
+[1:59:19] is great because it provides
+a long-lasting increase
+[1:59:22] in focus alertness
+and motivation,
+[1:59:24] not just during the exercise,
+but also after the exercise.
+[1:59:28] And second, it-- that
+is, caffeine and dopamine
+[1:59:34] in combination--
+act as a reinforcer
+[1:59:36] to make the experience of
+exercise and the period
+[1:59:39] immediate after exercise
+more pleasant and, in fact,
+[1:59:43] reinforcing.
+[1:59:44] So in other words, one
+way to enjoy exercise more
+[1:59:48] and to enjoy the activities
+that follow exercise more
+[1:59:52] and to experience a genuine
+increase in dopamine that's
+[1:59:55] beneficial for
+mood and alertness
+[1:59:57] is to ingest caffeine
+prior to exercise.
+[2:00:02] Now this is important because
+a number of people out there
+[2:00:05] are exercising, love
+exercise, love eating great,
+[2:00:09] love doing all the
+things that are
+[2:00:11] beneficial for their health,
+but a number of people out there
+[2:00:13] really don't like to exercise.
+[2:00:15] And that serves as a serious
+block for their willingness
+[2:00:20] and their consistency
+to exercise.
+[2:00:24] Ingesting caffeine gives
+us energy to exercise.
+[2:00:28] It increases the release of
+neurochemicals and hormones
+[2:00:31] that are good for
+us during exercise.
+[2:00:33] But as I'm highlighting
+here, it also
+[2:00:36] increases the
+reinforcement pathways
+[2:00:39] associated with exercise.
+[2:00:41] That is, it creates
+a positive feeling
+[2:00:44] about the general theme
+of engaging in exercise,
+[2:00:48] and it creates a general
+positive experience
+[2:00:51] of the things that
+follow exercise.
+[2:00:53] So I think this, if nothing
+else is a call for or support
+[2:00:58] for the idea, that
+ingesting caffeine
+[2:01:00] as a performance-enhancing
+tool makes perfect sense.
+[2:01:03] But for those out there
+that don't enjoy exercise,
+[2:01:06] in particular, certain
+forms of exercise,
+[2:01:08] ingesting caffeine can
+change your relationship
+[2:01:11] to that exercise.
+[2:01:13] In other words, make it more
+positive, much in the same way
+[2:01:16] that ingesting caffeine
+alongside a certain taste that
+[2:01:19] would otherwise be neutral
+or maybe even negative
+[2:01:21] can actually make the taste of
+that particular drink or food
+[2:01:25] positive.
+[2:01:25] So again, this brings us back
+to the reinforcing properties
+[2:01:28] of caffeine that
+are subconscious.
+[2:01:30] It's not just about the
+enhanced performance in the test
+[2:01:34] or the enhanced performance
+on the treadmill
+[2:01:36] or with the weights in the gym.
+[2:01:38] It's enhanced feelings
+of mood and well-being
+[2:01:40] that are genuine because
+of the effect of caffeine
+[2:01:43] on certain neurotransmitter
+and hormone systems,
+[2:01:45] but it also is creating
+an overall milieu
+[2:01:48] of reinforcing all
+of the things that
+[2:01:51] led in to occur during
+and occur after exercise.
+[2:01:55] I do want to point out something
+that's very important as it
+[2:01:57] relates to combining
+things like caffeine
+[2:02:01] and exercise in order
+to increase dopamine.
+[2:02:03] This is something that
+came up in the episode
+[2:02:05] that I did on dopamine,
+motivation, and drive, which
+[2:02:08] turns out to be one of
+our most popular episodes.
+[2:02:11] Again, you can find that at
+hubermanlab.com and links
+[2:02:13] to all formats with
+time stamps, et cetera.
+[2:02:15] This also came up in
+the episode on ADHD
+[2:02:18] because of the relationship
+between ADHD and dopamine.
+[2:02:21] And that's this notion
+of dopamine stacking.
+[2:02:24] In the episode on dopamine,
+motivation, and drive,
+[2:02:27] I pointed out that, while there
+are a near-infinite number
+[2:02:31] of things that can
+increase dopamine release,
+[2:02:34] most notably positive surprise
+or positive anticipation
+[2:02:39] or experiencing a win.
+[2:02:41] Certainly, there are compounds,
+both drugs of abuse, food, sex,
+[2:02:46] and certain supplements
+that can increase dopamine
+[2:02:48] to varying levels and
+to varying degrees,
+[2:02:50] both healthy and unhealthy.
+[2:02:52] That's all contained in
+that episode on dopamine,
+[2:02:54] motivation, and drive.
+[2:02:55] But what I pointed
+out is that, if you
+[2:02:57] are somebody who tends
+to experience difficulty
+[2:03:00] with motivation-- that
+so-called dopamine
+[2:03:03] stacking as I called
+it might be something
+[2:03:05] that you want to avoid.
+[2:03:06] What's dopamine stacking?
+[2:03:07] Dopamine stacking
+would be combining
+[2:03:10] a highly caffeinated energy
+drink that also includes
+[2:03:13] the amino acid tyrosine, which
+is a precursor to dopamine,
+[2:03:16] plus loud music plus getting
+yourself really ramped up
+[2:03:19] then an intense workout.
+[2:03:21] All of that can be great if you
+do it every once in a while.
+[2:03:24] But what you will quickly find
+is that the extent to which
+[2:03:28] your dopamine
+peaks also dictates
+[2:03:31] the extent to which
+your dopamine will
+[2:03:33] drop after that peak.
+[2:03:34] And when I say drop, I
+mean drop below baseline.
+[2:03:36] So a lot of people find that,
+if they stack a lot of things
+[2:03:39] to peak their dopamine,
+then they experience a low,
+[2:03:42] and it does take some time for
+them to return to baseline.
+[2:03:45] And I highly recommend
+not engaging in activities
+[2:03:49] or consuming compounds that
+are in attempt to accelerate
+[2:03:54] that return to baseline
+because all it will do
+[2:03:56] is drive that baseline
+lower and lower.
+[2:03:58] So this requires
+being able to tolerate
+[2:04:00] a drop in dopamine baseline for
+a period of time, et cetera.
+[2:04:02] Now the reason I'm
+bringing this up now
+[2:04:04] in the context of
+this caffeine episode
+[2:04:06] is I just described a study
+in which using caffeine
+[2:04:09] prior to exercise increases
+dopamine after exercise.
+[2:04:12] And so you might be
+saying, especially
+[2:04:14] if you heard that earlier
+episode, wait, isn't
+[2:04:16] that dopamine stacking?
+[2:04:18] Aren't you encouraging
+me to stack my dopamine?
+[2:04:20] Well, in some sense, yes.
+[2:04:22] But keep in mind,
+I'm not suggesting
+[2:04:23] that you do this every
+time you exercise.
+[2:04:25] So just as in that
+earlier episode,
+[2:04:27] I emphasized the fact
+that, while stacking
+[2:04:30] multiple stimuli--
+[2:04:32] caffeine or energy drinks
+and music and et cetera--
+[2:04:36] for exercise or for mental
+work or for any experience
+[2:04:39] for that matter is OK to do
+every once in a while for most
+[2:04:42] people, you don't want to
+get in the habit of doing it
+[2:04:44] consistently every
+time you exercise
+[2:04:47] or every time you go
+out, for instance.
+[2:04:49] And so you really
+want to be cautious.
+[2:04:51] That is, you want to
+protect your both baseline
+[2:04:53] levels of dopamine and your
+peak levels of dopamine.
+[2:04:56] That said, for people
+that want to experience
+[2:04:59] an increase in mood,
+alertness, and performance,
+[2:05:01] or who want to
+condition themselves--
+[2:05:03] because that's
+really what it is.
+[2:05:04] It's conditioning yourself
+by the reinforcing effects
+[2:05:06] of dopamine to increase
+your liking or maybe even
+[2:05:12] your loving of exercise.
+[2:05:14] Occasionally, using
+caffeine or frequently
+[2:05:17] using caffeine prior to exercise
+is fine but be very careful.
+[2:05:21] And by being very
+careful, what I mean
+[2:05:23] is pay attention to how you
+feel in the hours and days
+[2:05:26] after that dopamine
+increase wears off.
+[2:05:29] So for instance, if you ingest
+caffeine and then exercise
+[2:05:33] very intensely and you're
+feeling great afterwards
+[2:05:36] but then eight hours
+later or the next day,
+[2:05:38] you're feeling a
+little bit low, I
+[2:05:40] suggest you don't go back and
+do the exact same thing right
+[2:05:42] away.
+[2:05:42] I would give yourself
+a little bit of time
+[2:05:44] to let that baseline of
+dopamine return to normal.
+[2:05:48] So again, stacking
+different things,
+[2:05:50] chemical and behavioral, in
+order to increase dopamine
+[2:05:53] can be done in a safe way
+that's beneficial to you,
+[2:05:56] depending on your goals.
+[2:05:57] But be careful about not
+stacking too many stimuli
+[2:06:01] for dopamine too often.
+[2:06:02] That's the key.
+[2:06:03] Early in the
+episode, I mentioned
+[2:06:05] one possible
+caffeine-consuming schedule
+[2:06:08] that works very well that
+doesn't fortunately subject you
+[2:06:12] to long 20-day bouts or 5-day or
+even 2-day bouts of abstinence.
+[2:06:17] And that's the every other
+day schedule of caffeine.
+[2:06:20] If you look at the
+half-life of caffeine
+[2:06:22] and you look at its effects
+on the dopamine system
+[2:06:25] and its
+performance-enhancing effects
+[2:06:28] and how a period of abstinence
+can, in fact, increase
+[2:06:31] the performance-enhancing
+effects of caffeine--
+[2:06:33] but also take into
+consideration that caffeine
+[2:06:36] can be habit-forming, and we
+can develop a sort of tolerance
+[2:06:39] to caffeine.
+[2:06:40] Well then, what emerges
+from all of that
+[2:06:42] is that being a person
+who consumes caffeine
+[2:06:46] every other day
+can actually help
+[2:06:49] you maximize most of the
+positive effects of caffeine
+[2:06:52] without subjecting you to the
+kind of misery that occurs
+[2:06:55] if you're accustomed
+to consuming
+[2:06:56] caffeine every single day and
+then suddenly go into a 2 or 5
+[2:07:00] or 20-day abstinence.
+[2:07:02] So I myself have never tried
+an every other day caffeine
+[2:07:05] approach, although
+I'm considering
+[2:07:07] doing it based on the
+literature that I've read.
+[2:07:10] And I'm considering doing it
+in a very specific way, which
+[2:07:12] would be to only consume
+caffeine on the days in which I
+[2:07:15] resistance train.
+[2:07:16] And since I tend to do that
+about three or four days
+[2:07:17] per week organized in a way
+that's every other day-- again,
+[2:07:20] if you want to see the exercise
+schedule that I follow,
+[2:07:22] including cardiovascular
+exercise and weight
+[2:07:24] training and all the reasons
+and rationale for what I do
+[2:07:27] and how it maps on to the
+scientific literature,
+[2:07:31] relate to health span and
+lifespan, vitality, et cetera,
+[2:07:33] you can find that
+at hubermanlab.com.
+[2:07:35] And we had a tool
+kit for fitness
+[2:07:37] that ought to be posted to
+our website before long.
+[2:07:40] The every-other-day schedule
+of caffeine intake, to me,
+[2:07:43] seems like the most
+rational one if one
+[2:07:45] wants to maximize on the
+performance-enhancing effects
+[2:07:48] of caffeine without suffering
+the effects of caffeine
+[2:07:52] withdrawal that are
+associated with being
+[2:07:54] a regular consumer of
+caffeine and then stopping
+[2:07:56] caffeine intake, such as
+headache and irritability
+[2:07:59] and so forth.
+[2:08:00] Not I nor anyone
+in my life wants
+[2:08:02] me to experience
+those effects, and I'm
+[2:08:04] sure you don't
+want to experience
+[2:08:05] those effects for you either.
+[2:08:06] So if you're
+somebody that decides
+[2:08:08] to try the every
+other day protocol
+[2:08:10] or you are somebody who's
+already doing that protocol,
+[2:08:13] please let me know what your
+experiences with that are.
+[2:08:16] At least by my read of
+the literature on caffeine
+[2:08:18] and it's
+performance-enhancing effects
+[2:08:20] but also the effects of caffeine
+on neurotransmitter and hormone
+[2:08:23] systems, the every-other-day
+caffeine schedule
+[2:08:27] does seem to be the most
+rational and scientifically
+[2:08:30] grounded one in order to
+maximize on all those effects.
+[2:08:32] In addition to so-called
+performance-enhancing effects
+[2:08:35] of caffeine, there are also
+the well studied and now fairly
+[2:08:39] well mechanistically understood
+pro-health effects of caffeine.
+[2:08:44] Now, here when I talk about
+pro-health effects of caffeine,
+[2:08:47] I want to be very clear that,
+if your schedule of caffeine
+[2:08:52] intake--
+[2:08:52] that is, your timing
+of caffeine intake
+[2:08:54] or anything else
+for that matter--
+[2:08:57] offsets getting regular
+high quality sleep
+[2:09:01] of sufficient duration,
+well, then you
+[2:09:02] are undermining the pro-health
+effects of that thing.
+[2:09:05] This is true for exercise.
+[2:09:06] This is true for caffeine.
+[2:09:07] This is true for
+supplementation.
+[2:09:08] This is true for
+prescription drugs.
+[2:09:10] Again, you don't want to
+be neurotically attached
+[2:09:12] to the idea that you have to
+get perfect sleep every night
+[2:09:15] because that's simply not
+true but is absolutely
+[2:09:17] the case that anything, whether
+or not it's good for you
+[2:09:20] or bad for you in the short
+term, that disrupts your sleep
+[2:09:24] because of the timing in which
+you're doing that thing is
+[2:09:27] going to undermine your
+immediate and long-term health
+[2:09:30] before long.
+[2:09:31] So with that said,
+there are several well
+[2:09:34] described health-promoting
+effects of caffeine ingestion.
+[2:09:39] And once again, when I
+say caffeine ingestion,
+[2:09:42] I'm referring to that 1 to
+3 milligrams per kilogram
+[2:09:44] of body weight dosage.
+[2:09:46] There are really nice studies
+showing that being a regular
+[2:09:49] consumer of caffeine can help
+offset some of the probability,
+[2:09:54] some of the probability
+of developing
+[2:09:57] Parkinson's and maybe
+Alzheimer's-related dementia
+[2:09:59] as well.
+[2:10:00] These are not terribly
+controversial data
+[2:10:02] because of the
+fact that caffeine
+[2:10:04] is known to increase the
+release of those catecholamines,
+[2:10:07] dopamine, epinephrine, and
+norepinephrine, as well
+[2:10:10] as acetylcholine.
+[2:10:11] All those neurotransmitter
+and neuromodulator systems
+[2:10:14] are the ones that are
+known to be defective
+[2:10:17] in Parkinson's and
+Alzheimer's, although there
+[2:10:19] are other transmitter
+and hormone systems that
+[2:10:22] are defective as well.
+[2:10:23] There are beautiful reviews
+on the neuroprotective effects
+[2:10:26] of caffeine and
+neurodegenerative diseases.
+[2:10:29] They're quite extensive.
+[2:10:30] And I'll just refer you to one
+and the references therein,
+[2:10:33] and we'll provide a link to
+this in the show note caption.
+[2:10:35] So the title as the
+topic at hand suggests
+[2:10:39] is the neuroprotective
+effects of caffeine
+[2:10:41] and neurodegenerative diseases.
+[2:10:42] This was published in 2016.
+[2:10:44] I'm sure there have been
+other reviews since then,
+[2:10:46] but it includes many, many
+quality references and studies,
+[2:10:50] both in animals and in
+humans, pointing to the fact
+[2:10:52] that specific enzymes
+that are associated
+[2:10:54] with the health of, in
+particular, dopamine neurons
+[2:10:57] are made more robust by
+regular ingestion of caffeine.
+[2:11:02] It also points to the
+fact that the increase
+[2:11:04] in dopamine receptors
+that is induced
+[2:11:07] by regular ingestion of caffeine
+that I referred to earlier
+[2:11:10] is another way in which
+dopamine, however many dopamine
+[2:11:14] neurons remain around in people
+with Parkinson's or people
+[2:11:17] who are aging that lose
+dopamine neurons naturally,
+[2:11:20] that dopamine can have
+its maximal effect because
+[2:11:23] of the increase in receptors for
+dopamine that caffeine induces.
+[2:11:27] And there are other
+biological mechanisms
+[2:11:30] that further
+support why caffeine
+[2:11:33] ought to be
+neuroprotective, including
+[2:11:35] its effects on the
+acetylcholine system, which
+[2:11:37] is one of the major
+systems disrupted
+[2:11:40] in Alzheimer's dementia.
+[2:11:41] So in other words, it
+makes perfect sense
+[2:11:43] as to why caffeine would
+be neuroprotective.
+[2:11:45] Caffeine has also been
+shown to diminish headache,
+[2:11:48] particularly when taken in
+combination with aspirin.
+[2:11:51] And that's because of the
+effects of caffeine and aspirin
+[2:11:53] on blood flow.
+[2:11:54] There's also evidence
+that caffeine
+[2:11:55] can provide brief but
+substantial relief from asthma.
+[2:11:59] So I wouldn't want people
+to rely on caffeine
+[2:12:01] as a lifesaving approach
+to an asthmatic attack.
+[2:12:06] That said, for people that
+suffer from minor asthma,
+[2:12:09] that caffeine intake--
+[2:12:10] again, of the dosages
+that we talked
+[2:12:12] about before has been
+shown to alleviate some
+[2:12:15] of the major symptoms
+of asthma for anywhere
+[2:12:16] from one to four hours.
+[2:12:19] And I know this is of relevance
+to a lot of people out there.
+[2:12:23] Because caffeine increases
+the catecholamines
+[2:12:26] and in particular because
+caffeine increases
+[2:12:29] dopamine transmission in
+the prefrontal cortex--
+[2:12:32] this area of the brain that's
+associated with focus and rule
+[2:12:35] setting and context
+and task switching--
+[2:12:37] caffeine is known to
+improve focus and alertness,
+[2:12:42] in particular, in
+people who have
+[2:12:43] symptoms of ADHD or other
+attention and focus issues.
+[2:12:50] Now caffeine alone
+does not appear
+[2:12:52] to be as potent for
+the treatment of ADHD
+[2:12:55] as are things like Ritalin,
+Adderall, modafinil,
+[2:12:59] or modafinil and Vyvanse.
+[2:13:01] If you would like a sort
+of head by head comparison
+[2:13:04] of prescription
+drugs, supplements,
+[2:13:08] and things like
+caffeine as well as
+[2:13:11] coverage of behavioral tools
+and nutritional tools, et cetera
+[2:13:14] that can positively offset
+some of the symptoms of ADHD,
+[2:13:19] please see the episode
+that I did on ADHD.
+[2:13:21] Again, that's available at
+hubermanlab.com in all formats.
+[2:13:23] But that said, caffeine
+does increase focus,
+[2:13:25] and it does it through a
+number of different mechanisms,
+[2:13:28] not the least of which is to
+increase dopamine transmission
+[2:13:30] in the forebrain just as a drug
+like Ritalin or Adderall would,
+[2:13:34] although not to the same
+extent as a drug like Ritalin
+[2:13:37] or Adderall does.
+[2:13:38] Before we close today, I do
+want to just briefly return
+[2:13:41] to the reinforcing
+effects of caffeine
+[2:13:43] that we talked about earlier.
+[2:13:45] This study on the
+honeybees that showed
+[2:13:47] that bees prefer certain vectors
+because they contain caffeine.
+[2:13:50] Even though they are not aware
+that those vectors contain
+[2:13:52] caffeine, they just come to like
+the feeling that those nectars
+[2:13:56] provide them so much
+that they associate that
+[2:13:59] in a subconscious way with
+the flowers themselves,
+[2:14:02] and they come to
+like those flowers.
+[2:14:03] Or human beings.
+[2:14:04] For instance, children that
+ingest caffeinated beverages
+[2:14:08] come to adore the taste
+of those beverages.
+[2:14:11] And beautiful studies have been
+done that describe how children
+[2:14:16] and adults truly cannot
+distinguish between the taste
+[2:14:19] of a caffeinated and
+noncaffeinated beverage.
+[2:14:22] And caffeine can be placed
+into essentially any beverage
+[2:14:25] in order to give us a preference
+for that beverage or food.
+[2:14:29] In fact, the studies have
+been done with yogurt.
+[2:14:31] If you put caffeine into
+yogurt of different flavors--
+[2:14:35] even plain yogurt which
+most kids don't like--
+[2:14:39] they will come to prefer
+whatever flavor contain
+[2:14:43] the caffeine even
+if then you remove
+[2:14:45] the caffeine from that flavor.
+[2:14:47] Now eventually, their
+preference for that flavor
+[2:14:49] will be extinguished,
+but all of this
+[2:14:51] is just to say that so many
+of the things that we like,
+[2:14:54] whether or not it's coffee or
+tea or a given flavor of food
+[2:14:58] or a given experience
+or even exercise,
+[2:15:02] occur because we ingest
+caffeine in conjunction
+[2:15:05] with those activities.
+[2:15:06] Now these are not tricks
+that your nervous system
+[2:15:09] plays on you.
+[2:15:09] These are real
+neurochemical-reinforcing
+[2:15:12] effects.
+[2:15:12] And I think that we
+would all do well
+[2:15:14] to think about and to leverage
+these reinforcing effects
+[2:15:17] much in the same
+way we would do well
+[2:15:19] to think about and hopefully
+not leverage aversive effects
+[2:15:23] of certain compounds, right?
+[2:15:25] The simple way to put
+this is I or anyone
+[2:15:27] could get you to dislike
+something, someone,
+[2:15:30] or some place by making you feel
+slightly less good, lower mood.
+[2:15:36] I don't even have to make you
+feel nauseous but less good
+[2:15:39] after ingesting
+something or having
+[2:15:41] a certain kind of interaction or
+being in a certain environment,
+[2:15:45] very straightforward to do
+that, because of the way
+[2:15:47] that your nervous system
+is wired for conditioning.
+[2:15:50] However, there's the
+positive side of all this,
+[2:15:52] which is that it's very
+straightforward to reinforce
+[2:15:55] the experience of a given
+food, including its taste,
+[2:15:58] but all the context around it,
+the container, the texture,
+[2:16:01] the people you consume it
+with, where you consume it,
+[2:16:03] et cetera.
+[2:16:05] For instance, I
+wonder why we are not
+[2:16:09] pairing caffeine with broccoli.
+[2:16:11] And here I'm not suggesting
+that people actually
+[2:16:14] do that experiment or
+play that trick on people,
+[2:16:18] but you have to sort of
+imagine that, if caffeine
+[2:16:21] is this incredible reinforcer
+of all sorts of things,
+[2:16:25] in particular, things that we
+ingest and would want to ingest
+[2:16:27] more of if it's paired
+with caffeine, well then,
+[2:16:31] you actually can use
+caffeine as a tool
+[2:16:33] to increase reinforcement
+of different things.
+[2:16:35] And you can avoid caffeine as a
+way to further reinforce things
+[2:16:41] that you would like to stop.
+[2:16:42] And here I'd like to just give
+the example of sugar cravings.
+[2:16:44] A lot of people ask me, how
+do I avoid sugar cravings?
+[2:16:47] I've talked about the use
+of L-glutamine for that.
+[2:16:49] I've talked about
+making sure you're
+[2:16:51] getting enough essential fatty
+acids and essential amino acids
+[2:16:55] as a way to reduce
+sugar cravings.
+[2:16:58] Please note,
+however, that if you
+[2:16:59] are somebody who likes to have
+your sugar, whether or not
+[2:17:02] it's a piece of chocolate
+or your dessert, et cetera--
+[2:17:04] I'm not saying that's
+bad, but if you're
+[2:17:06] trying to reduce your sugar
+cravings, ask yourself,
+[2:17:09] are you ingesting sugar
+along with caffeine?
+[2:17:12] Could be the caffeine contained
+in that sugar-containing food
+[2:17:14] like chocolate.
+[2:17:15] Or it could be
+that you're having
+[2:17:16] a cup of coffee along
+with your pastry,
+[2:17:18] and then you're struggling
+with sugar cravings.
+[2:17:20] Well, think about it.
+[2:17:21] You're not just being reinforced
+by the sugar and the effects
+[2:17:24] of sugar on dopamine
+which are real
+[2:17:25] and both conscious
+and subconscious
+[2:17:27] through the gut to the
+brain dopamine system
+[2:17:29] and direct on the
+brain dopamine system.
+[2:17:31] But by coingesting
+caffeine, you are also
+[2:17:35] further enhancing the
+reinforcing effects of sugar.
+[2:17:39] The flip side to all of this
+is that you could use caffeine
+[2:17:42] as a way to increase your
+appetite for certain things.
+[2:17:45] I actually know somebody.
+[2:17:46] I won't reveal who
+this person is,
+[2:17:47] but they are quite
+prominent podcaster
+[2:17:49] who ingests 125 to 150
+milligrams of in tablet
+[2:17:56] form along with herbal
+tea and use this
+[2:17:58] as a way to develop a
+preference for herbal tea
+[2:18:01] because they found that
+coffee was giving them
+[2:18:05] other effects that
+weren't good for them.
+[2:18:07] So it works quite
+well in animals,
+[2:18:09] and it works quite
+well in insects.
+[2:18:10] And it works quite
+well in humans.
+[2:18:12] I suppose animals,
+insects, and humans
+[2:18:14] are all animals at the end of
+the day, so no surprise there.
+[2:18:17] But it all underscores the
+extent to which caffeine
+[2:18:20] is an absolutely
+fascinating molecule.
+[2:18:23] I mean, its ability to
+offset the sleepiness system,
+[2:18:27] if you will, this
+adenosine system,
+[2:18:28] and to control our
+schedules in that way
+[2:18:30] to essentially take a
+withdrawal against the bank that
+[2:18:33] is adenosine and
+then pay that back
+[2:18:34] later in the form of
+getting sleepy later as
+[2:18:37] opposed to when we
+want to be alert,
+[2:18:38] its ability to enhance
+focus, alertness, and mood.
+[2:18:42] And if taken after trying to
+learn something and remember
+[2:18:44] it, to enhance
+memory, especially.
+[2:18:47] And its ability to increase
+VO2 max, increased strength.
+[2:18:51] We didn't even talk
+today about it,
+[2:18:52] but I'll just briefly
+mention that caffeine
+[2:18:55] ingested in the sorts of
+doses we talked about earlier.
+[2:18:57] Because its effects on
+the neuromuscular system
+[2:19:00] and the calcium system
+associated with neuromuscular
+[2:19:04] exertion and fatigue can
+increase peak power output
+[2:19:07] and muscle contractability.
+[2:19:10] It's enhancing
+performance there as well.
+[2:19:12] And, of course, caffeine
+does a number of other things
+[2:19:14] just generally related to
+overall and basal level of mood
+[2:19:18] and alertness, not
+the least of which are
+[2:19:20] these increases in dopamine.
+[2:19:21] So caffeine is really
+an incredible molecule.
+[2:19:24] It's affecting all these
+various neurotransmitter
+[2:19:26] systems but not haphazardly.
+[2:19:28] It's increasing dopamine and
+acetylcholine in the forebrain
+[2:19:32] to increase attention.
+[2:19:33] It's reducing fatigue.
+[2:19:34] It's improving mental
+and physical performance
+[2:19:36] for some obvious and some
+not so obvious reasons.
+[2:19:39] And what I think is among the
+more miraculous and powerful
+[2:19:42] effects of caffeine, it is
+a potent, potent, potent
+[2:19:45] reinforcer of things, foods,
+people, and experiences.
+[2:19:51] And it's one that you can
+leverage in any direction
+[2:19:54] that you like once
+you understand
+[2:19:56] the way that caffeine exerts
+those reinforcing properties.
+[2:19:59] So today, I've really tried
+to cover as much as I could
+[2:20:02] about the mechanisms of caffeine
+action in the brain and body,
+[2:20:05] as well as tools and
+schedules and dosages
+[2:20:08] in which you can leverage
+caffeine in order
+[2:20:10] to meet your
+physical performance,
+[2:20:12] mental performance, and
+frankly mental health,
+[2:20:15] and overall health goals.
+[2:20:16] If you're learning from
+and/or enjoying this podcast,
+[2:20:19] please subscribe to
+our YouTube channel.
+[2:20:20] That's a terrific zero-cost
+way to support us.
+[2:20:23] In addition, please
+subscribe to the podcast
+[2:20:25] on both Spotify and Apple.
+[2:20:26] And on both Spotify
+and Apple, you
+[2:20:28] can leave us up to
+a five-star review.
+[2:20:30] If you have questions for us
+or comments about the podcast
+[2:20:33] or guest that you'd like me to
+interview on the Huberman Lab
+[2:20:35] podcast, please put those in
+the comment section on YouTube.
+[2:20:38] We do read all the comments.
+[2:20:40] In addition, please
+check out the sponsors
+[2:20:42] mentioned at the beginning and
+throughout today's episode.
+[2:20:44] That's the best way to
+support this podcast.
+[2:20:47] If you're not already following
+Huberman Lab on social media,
+[2:20:49] we are Huberman Lab
+on all platforms,
+[2:20:51] so that's Instagram, Twitter,
+LinkedIn, and Facebook.
+[2:20:55] And all of those places,
+I describe science
+[2:20:57] and science-related
+tools, some of which
+[2:20:59] overlap with the contents
+of the Huberman Lab podcast,
+[2:21:01] but much of which is distinct
+from content on the Huberman
+[2:21:04] Lab podcast.
+[2:21:04] So again, it's Huberman Lab
+on all social media platforms.
+[2:21:07] During today's episode and
+on many previous episodes
+[2:21:10] of the Huberman Lab podcast,
+we discuss supplements.
+[2:21:12] While supplements aren't
+necessary for everybody,
+[2:21:14] many people derive
+tremendous benefit from them
+[2:21:17] for things like sleep, hormone
+augmentation, and focus.
+[2:21:19] If you'd like to see the
+supplements discussed
+[2:21:21] on various episodes of
+the Huberman Lab podcast,
+[2:21:24] please go to
+livemomentous.com/huberman.
+[2:21:27] We partnered with
+Momentus because they
+[2:21:30] are extremely high quality,
+they ship internationally,
+[2:21:33] and they formulated supplements
+in the precise ways that
+[2:21:36] are discussed as optimal to
+take for various outcomes
+[2:21:40] here on the Huberman
+Lab podcast.
+[2:21:41] If you haven't already
+subscribed to the Huberman Lab
+[2:21:43] podcast newsletter, it
+is a monthly newsletter
+[2:21:46] that includes summaries
+of podcast episodes
+[2:21:49] as well as tool kits, all of
+which are completely zero cost.
+[2:21:52] All you have to do is provide
+your email to sign up.
+[2:21:55] We do not share your
+email with anybody.
+[2:21:57] You do this by going
+to hubermanlab.com.
+[2:21:59] Go to the menu and tap
+down to newsletter.
+[2:22:02] Provide your email.
+[2:22:03] You'll get a confirmation link.
+[2:22:04] Click on that link
+and you'll receive
+[2:22:06] our monthly newsletters.
+[2:22:07] And you can also access any
+of the previous newsletters
+[2:22:09] that we've released, including
+the tool kist for sleep,
+[2:22:11] for fitness, deliberate
+cold exposure, and so on.
+[2:22:14] By going to hubermanlab.com,
+go into the Menu,
+[2:22:17] go into Newsletter,
+and there you'll
+[2:22:18] see those as immediately
+downloadable PDFs.
+[2:22:20] Thank you for joining me
+for today's discussion
+[2:22:22] about caffeine,
+both its mechanisms,
+[2:22:24] and its many powerful uses.
+[2:22:26] And last but
+certainly not least,
+[2:22:28] thank you for your
+interest in science.
+[2:22:30] [MUSIC PLAYING]

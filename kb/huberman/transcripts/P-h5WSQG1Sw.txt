@@ -1,0 +1,3756 @@
+# Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs
+# id=P-h5WSQG1Sw published=2026-08-17 lang=en generated=True
+
+[0:00:00] I see somebody come up behind me. They
+[0:00:02] can see I'm trying to park. They can
+[0:00:04] move over. No, they come right up behind
+[0:00:05] me, go on the horn, and you know, you
+[0:00:08] immediately feel just an immediate anger
+[0:00:11] response, right?
+[0:00:13] >> Well, after the ice bath, it's flat. So,
+[0:00:16] there was an immediate automatic
+[0:00:18] downregulation of my autonomic emotional
+[0:00:20] response to a psychological stressor, to
+[0:00:23] somebody honking at me that was trained
+[0:00:26] and generalized from the ice bath. It's
+[0:00:28] an experiment of one. I'm not claiming
+[0:00:29] this as a published study, but so I
+[0:00:32] think there's a there's a direct
+[0:00:34] autonomic training component as well in
+[0:00:37] terms of the strength and the
+[0:00:38] automaticity, the ease with which you
+[0:00:41] can regulate emotions that they can
+[0:00:42] become kind of automatically regulated.
+[0:00:45] You don't have to overthink it. It
+[0:00:47] becomes smooth and effortless to some
+[0:00:50] extent. And that's that's the place
+[0:00:51] where where you where you want to get.
+[0:00:53] Hey everyone. To celebrate the launch of
+[0:00:55] my new book entitled Protocols, I'm
+[0:00:57] pleased to share that I'll be hosting
+[0:00:59] three live events very soon. The first
+[0:01:01] live event is in New York City at Radio
+[0:01:04] City Music Hall on September 17th. The
+[0:01:07] second event is in Los Angeles at the
+[0:01:09] Dolby Theater on October 8th. And the
+[0:01:11] third live event is in San Francisco at
+[0:01:13] the Masonic on October 28th. At each of
+[0:01:16] these events, I'll be discussing topics
+[0:01:17] from the book and my favorite part,
+[0:01:19] taking questions directly from you, the
+[0:01:21] audience. To get tickets, you can go to
+[0:01:23] hubbermanlab.com/events
+[0:01:26] and use the code protocols to get early
+[0:01:28] access. Again, that's
+[0:01:29] hubbermanlab.com/events
+[0:01:31] and use the code protocols to get early
+[0:01:34] access to tickets. Welcome to the
+[0:01:36] Huberman Lab podcast where we discuss
+[0:01:38] science [music] and science-based tools
+[0:01:40] for everyday life.
+[0:01:43] [music]
+[0:01:44] I'm Andrew Huberman and I'm a professor
+[0:01:46] of neurobiology and opthalmology at
+[0:01:49] Stanford School of Medicine. My guest
+[0:01:51] today is Dr. Dr. Ralph Adolfs. Dr. Ralph
+[0:01:53] Adolfs is a professor of psychology,
+[0:01:55] neuroscience, and biology at Caltech
+[0:01:58] University and a world expert in the
+[0:02:00] neurobiology of emotions. Today, we
+[0:02:02] discuss what emotions are, how they grow
+[0:02:05] and shrink in our brain and body, and
+[0:02:07] why some emotions seem to recruit our
+[0:02:08] behavior and decision-m and some simply
+[0:02:11] don't. We also discuss where and how
+[0:02:13] emotions are mapped in the body. and we
+[0:02:15] dispel common myths about the brain body
+[0:02:17] storage of emotions from our past, which
+[0:02:20] is a very commonly discussed topic that
+[0:02:22] frankly, as you'll learn today, many, if
+[0:02:24] not most people get wrong. We also
+[0:02:26] discuss why some people are able to
+[0:02:28] observe but not react to their emotions
+[0:02:30] and what tools may assist in helping you
+[0:02:32] build better emotion regulation. As
+[0:02:34] you'll soon realize, Dr. Adolf is
+[0:02:36] uniquely positioned to explain the real
+[0:02:38] neuroscience and psychology of emotions
+[0:02:40] and how to put that information to use.
+[0:02:43] Today's conversation therefore ought to
+[0:02:44] be valuable for people of every age and
+[0:02:46] profession and for anyone interested in
+[0:02:48] improving their emotional life and
+[0:02:50] understanding of others. And now for my
+[0:02:52] conversation with Dr. Ralph Adolfs. Dr.
+[0:02:55] Ralph Adolfs. Welcome.
+[0:02:57] >> Thank you, Andrew. Pleasure to be here.
+[0:02:59] >> Longtime admirer of your work because
+[0:03:02] you're one of the few people who has
+[0:03:03] studied these things we call emotions,
+[0:03:05] brain states, cognition, and much more
+[0:03:07] in humans. There have been others in the
+[0:03:09] field of neuroscience of course, but I
+[0:03:11] would argue few people have combined a
+[0:03:14] real grounding in neuroscircuits with an
+[0:03:16] interest in what most people think of as
+[0:03:18] a psychological set of issues in a way
+[0:03:20] that also takes into account the animal
+[0:03:23] data and really the broadest picture of
+[0:03:25] this thing that we call emotions. I'm
+[0:03:26] just going to start with a statement of
+[0:03:28] gratitude. Thank you for doing that
+[0:03:29] because it's so easy for people to
+[0:03:31] stimulate a brain area, see an animal or
+[0:03:33] a human behave or speak in a certain way
+[0:03:35] and say, "Oh, this is the brain region
+[0:03:36] for this." And you've long been pushing
+[0:03:38] back on that.
+[0:03:39] >> It's a tall order, you know, and one
+[0:03:40] impetus for the work that I've been
+[0:03:42] doing in the book that I co-wrote with
+[0:03:43] David Anderson, the book uh that I have
+[0:03:46] forthcoming with Princeton University
+[0:03:48] Press, is precisely to do what you just
+[0:03:50] said is to kind of integrate and pull
+[0:03:52] together uh findings and emotion from
+[0:03:54] animal studies, findings from social
+[0:03:56] psychology. Typically, those people in
+[0:03:58] those fields don't talk to one another.
+[0:04:00] They do very different studies, very
+[0:04:02] different methodologies. And so trying
+[0:04:04] to integrate across disciplines that are
+[0:04:06] that far apart to really try and get a
+[0:04:09] get a sense for what are emotions in a
+[0:04:11] sense that would satisfy psychologists
+[0:04:14] and lay people about human emotions but
+[0:04:16] they would also speak to the mechanisms
+[0:04:18] that you can study in mice for example
+[0:04:20] or flies as David Anderson does.
+[0:04:22] >> So how do you think about emotions and
+[0:04:25] how do they relate to brain and bodily
+[0:04:27] states? The basic answer is that I think
+[0:04:30] of emotions as functional states of a
+[0:04:33] particular type. They should be
+[0:04:35] understood by what they do, their
+[0:04:37] function rather than how they happen to
+[0:04:39] be constituted in the human brain or
+[0:04:41] differently in an octopus nervous system
+[0:04:43] or in an AI which we should talk about.
+[0:04:45] Um and so the way to situate them is to
+[0:04:49] think of control of behavior in response
+[0:04:52] to particular types of environmental
+[0:04:54] challenges. So at the sort of simplest
+[0:04:56] level, you would have reflexes. You
+[0:04:58] know, I put my hand out on a hot stove
+[0:05:00] or you tap the patellar tendon on my
+[0:05:02] knee and there's like a very rigid
+[0:05:04] behavior that's adaptive that's very
+[0:05:06] rigid, but just for that particular
+[0:05:08] circumstance, I withdraw my hand. That's
+[0:05:10] a reflex. At the opposite end, you would
+[0:05:13] have, you know, goal-directed
+[0:05:15] general valition and planning
+[0:05:17] everything, you know, the stuff we do
+[0:05:18] all the time that's extremely flexible.
+[0:05:21] And so if you have a bear or a tiger,
+[0:05:24] you know, something charging at you,
+[0:05:26] that challenge requires a control of
+[0:05:28] behavior that's intermediate between
+[0:05:30] those two extremes. I can't have a
+[0:05:31] reflex for a bear if it's far away or if
+[0:05:34] it's close or if it's a rattlesnake or
+[0:05:36] or or a tiger or all the different kinds
+[0:05:38] of potential threats out there. Instead,
+[0:05:41] I need something that's more flexible,
+[0:05:42] which emotions are. So that's the sort
+[0:05:45] of big picture that emotions are
+[0:05:47] functional states that have particular
+[0:05:50] features or operating characteristics
+[0:05:53] for dealing with certain types of
+[0:05:55] environmental challenges like running
+[0:05:56] away from a bear. I mean first of all I
+[0:05:58] think the question what is an emotion is
+[0:06:01] a good and a valid question. It's not an
+[0:06:03] illposed question. You occasionally run
+[0:06:05] into the view that [snorts] well
+[0:06:07] emotions don't really exist or we don't
+[0:06:09] really you can't really say anything
+[0:06:11] about them. question is just ill-posed
+[0:06:13] or meaningless. I don't think that's the
+[0:06:14] case. Paul Griffith's philosopher wrote
+[0:06:17] a book some years ago, I think 97 or so,
+[0:06:20] what emotions really are, uh, where he
+[0:06:23] first kind of made the claim that, well,
+[0:06:25] they don't really exist, you know, and
+[0:06:27] you could see how people come to that
+[0:06:29] conclusion if you survey all the
+[0:06:30] different theories that are out there,
+[0:06:32] Joe Leoo or Lisa Feldman Barrett or Paul
+[0:06:35] Ecman, they look pretty different. And
+[0:06:38] so you might come away with the
+[0:06:39] impression, look, even the experts can't
+[0:06:41] agree on what emotions are. The words we
+[0:06:44] have for emotions predate modern
+[0:06:46] science. So it's just a confused
+[0:06:48] concept. I don't think that's the case.
+[0:06:50] I think I mean there's room for
+[0:06:52] revision, but I think everybody kind of
+[0:06:54] knows what emotions are and I think it
+[0:06:57] deserves a straight answer that science
+[0:07:00] should provide. I think the question is
+[0:07:02] well posed enough to admit of an answer
+[0:07:05] and then how could you start getting to
+[0:07:08] an answer. So let's just start sort of
+[0:07:10] from the simplest case would be to list
+[0:07:13] some examples. So you could say well you
+[0:07:15] know emotions are anger, fear, disgust.
+[0:07:18] You could list specific examples that
+[0:07:20] are uncontentious I would hope where
+[0:07:22] pretty much everybody agrees. Okay,
+[0:07:24] these are examples of emotions right?
+[0:07:26] You could do the same if I asked you
+[0:07:27] what's a car, right? And you would say,
+[0:07:29] well, you know, it's a Mercedes and a
+[0:07:31] Honda and a Toyota. Or if I asked you,
+[0:07:34] what's a bird? And you would say, it's a
+[0:07:35] robin and a hummingbird and an eagle. So
+[0:07:38] you could list examples. That's not an
+[0:07:40] answer yet. What you would then want to
+[0:07:42] say is, well, what is it in virtue of
+[0:07:44] which these examples, what makes them
+[0:07:47] all instances of an emotion? What do
+[0:07:50] fear, anger, etc. share in common? What
+[0:07:52] [clears throat] features do they have
+[0:07:54] that makes them emotions? just like what
+[0:07:56] the cars or the bird species have in
+[0:07:58] common that makes them cars or birds.
+[0:08:01] And so David Anderson and I did that in
+[0:08:04] our book a decade ago or so now the
+[0:08:06] neuroscience of emotion where we listed
+[0:08:09] some features of emotions that helps to
+[0:08:12] answer the question and sort of get a
+[0:08:13] handle on what is it that these all
+[0:08:16] share in common. I elaborate on that and
+[0:08:18] have a longer list and really go into
+[0:08:20] detail and okay so what are the features
+[0:08:22] of emotions in my forthcoming book?
+[0:08:25] Maybe I'll just list a couple to go
+[0:08:26] through them quickly. So, one feature of
+[0:08:29] emotions is priority, which is that they
+[0:08:32] can take over your behavior that they
+[0:08:34] share in common with reflexes. If I put
+[0:08:36] my head on a hot stove, you know, I
+[0:08:38] can't help but withdraw it. And if
+[0:08:40] you're suddenly confronted by the bear,
+[0:08:42] you can't help but run away or crawl
+[0:08:44] into a ball or whatever your adaptive
+[0:08:45] behavior is. So they have priority and
+[0:08:48] interrupt your behavior which is
+[0:08:50] something that the the noble laurate
+[0:08:52] Herbert Simon already pointed out in a
+[0:08:54] paper back in the 50s or 60s that
+[0:08:57] they're interrupt mechanisms of a
+[0:08:59] certain kind. If you're just going about
+[0:09:00] your business and normal goal- directed
+[0:09:03] behavior you always need to be
+[0:09:04] monitoring for the bear or the tiger the
+[0:09:07] predator that's out there and if you
+[0:09:09] detect that emotions have to take over
+[0:09:11] or you're dead. So priority is sort of
+[0:09:13] one that doesn't distinguish emotions
+[0:09:16] from reflexes or fixed action patterns.
+[0:09:18] They they share that. Another one is
+[0:09:21] veilance that psychologists ubiquitously
+[0:09:23] mention which is sort of the simplest
+[0:09:27] dimension along which you can organize
+[0:09:29] emotions in terms of their similarity.
+[0:09:32] So anger, disgust, fear you might say
+[0:09:35] are more similar to one another than
+[0:09:36] either of those is with say happiness.
+[0:09:38] There's some similarity structure. Some
+[0:09:40] emotions cluster together. Some are
+[0:09:42] further apart and the simplest dimension
+[0:09:44] which is one that Charles Darwin already
+[0:09:47] mentioned in his book the expression of
+[0:09:48] the emotion in man and animals he called
+[0:09:51] it principle of antithesis is veilance
+[0:09:53] which is approach or avoid pleasant or
+[0:09:56] unpleasant this basic veilance
+[0:09:59] dimension. Are there any neutral
+[0:10:01] emotions? I I ask this because your
+[0:10:04] colleague at Caltech who I respect
+[0:10:06] tremendously, Marcus Meister once wrote
+[0:10:08] a review where he said, you know, a good
+[0:10:10] way to think about sensory systems and
+[0:10:12] maybe neural systems of all kind is that
+[0:10:14] they're encoding for yum, yuck, or meh.
+[0:10:17] >> And the me is a very interesting one.
+[0:10:19] Just like an animal or including us can
+[0:10:21] go forward, backward, or stay put. Now,
+[0:10:23] we can go side to side, too, of course.
+[0:10:25] Those are just different versions of
+[0:10:26] forward in in this context. And I
+[0:10:28] sometimes wonder because algorithms are
+[0:10:31] repurposed across different neural
+[0:10:32] systems if there is indeed a meh emotion
+[0:10:36] or maybe the emotion is meh. I don't
+[0:10:38] want to take us down a philosophical
+[0:10:40] path but does that make sense because as
+[0:10:41] as long as we're talking about veilance
+[0:10:43] >> sure anger and happiness clearly you
+[0:10:46] know sad and happy okay opposite ends of
+[0:10:48] the spectrum but what was it apathy is
+[0:10:51] there a state of prioritization of doing
+[0:10:53] nothing? It's a really good question. I
+[0:10:55] mean I think you know when you list
+[0:10:56] these features um like priority veilance
+[0:11:00] I I'll get to some others. One question
+[0:11:03] is which of these are necessary? Um you
+[0:11:05] know like a package of uh all of these
+[0:11:08] features uh that emotions have. Do you
+[0:11:11] need all of them or can are some of them
+[0:11:13] sufficient? And I think the answer is
+[0:11:15] some of them are sufficient but there's
+[0:11:16] some that are necessary. I think
+[0:11:18] priority is necessary. I think veilance
+[0:11:20] maybe not as you were alluding to. I
+[0:11:22] could imagine there's still veilance but
+[0:11:25] it's at a neutral region of the of the
+[0:11:28] spectrum. But then there's other ones
+[0:11:30] which are the ones that David Anderson
+[0:11:31] has studied in particular in the
+[0:11:32] hypothalamus in mice and I think goes
+[0:11:35] into great detail in the podcast that
+[0:11:37] you had with them which are scalability
+[0:11:39] and temporal persistence. And so
+[0:11:41] scalability would be that an emotion can
+[0:11:44] scale in intensity. uh one of the best
+[0:11:47] examples of that has been is is for the
+[0:11:50] case of fear and the bear coming at you.
+[0:11:52] So typically it would scale from anxiety
+[0:11:55] and monitoring you know there's the bear
+[0:11:56] sort of out there to fear where you
+[0:11:59] might run away or hide to panic. So that
+[0:12:02] sort of threat imminence scalability and
+[0:12:05] that's something where emotions are
+[0:12:07] different now from reflexes because
+[0:12:08] reflexes are binary. It's all or
+[0:12:10] nothing. I either pull my hand away or
+[0:12:12] nothing. The knee jerks or not. It's not
+[0:12:14] there's not like some scalable package
+[0:12:16] in there. And then temporal persistence
+[0:12:19] is even more something that's essential
+[0:12:21] to emotions and speaks to their function
+[0:12:24] which is you have this internal state
+[0:12:26] let's say of aggression or of fear that
+[0:12:29] has to last some time because the the
+[0:12:32] bear might be around for some time. So
+[0:12:34] you might be running away or you might
+[0:12:36] be attacking in anger. Those are phasic
+[0:12:38] little bouts but the actual internal
+[0:12:41] state that is motivating those persists
+[0:12:43] for quite a long time. So temporal
+[0:12:45] persistence is really important and it
+[0:12:47] allows the person or the animal to
+[0:12:50] incorporate lots and lots of information
+[0:12:52] that's coming in and to have a
+[0:12:54] motivational state that would be suited
+[0:12:56] for that kind of environmental
+[0:12:57] challenge. It's not like a hot plate
+[0:12:59] where if you pull your hand away you're
+[0:13:00] done. The bear is out there and it might
+[0:13:02] might come back. It might still be
+[0:13:04] lurking in the forest. So you better be
+[0:13:05] afraid for some period of time. David
+[0:13:08] Anderson studied this a lot in terms of
+[0:13:10] what neural circuits, what properties of
+[0:13:13] neurotransmitters in the brain could
+[0:13:15] actually implement persistence. Would
+[0:13:17] you have really slow neurotransmitters
+[0:13:19] like neuropeptides for instance, which
+[0:13:20] is what he studied. But my colleagues at
+[0:13:22] the University of Iowa actually did a
+[0:13:25] really cool study in humans that showed
+[0:13:27] the temporal persistence of emotions
+[0:13:30] independent of memory. So here's a
+[0:13:32] study. They took patients with amnesia.
+[0:13:35] So these were like four or five people
+[0:13:37] who had medial temporal lo hippocample
+[0:13:40] damage. They live in a time window of
+[0:13:42] maybe a minute or so. I used to study
+[0:13:44] these patients when I first started as a
+[0:13:46] posttock at the University of Iowa with
+[0:13:48] with Damasio. And you know, you can talk
+[0:13:50] to them, you they can uh process
+[0:13:53] information, but if you go to the toilet
+[0:13:54] and you come back five minutes later,
+[0:13:56] they would stand up and shake your hand,
+[0:13:58] introduce themselves to you because they
+[0:14:00] would have no recollection of having met
+[0:14:02] you before. So just no memory, very
+[0:14:04] strong antrograde amnesia as it's
+[0:14:06] called. So they had those end controls.
+[0:14:08] They showed them really sad movie clips
+[0:14:10] in all cases. The patients can
+[0:14:13] understand and watch the movie clip.
+[0:14:14] They get really sad and weepy. Right
+[0:14:17] after watching these sad movie clips,
+[0:14:18] everybody rates, "How sad do you feel?"
+[0:14:21] The amusement patients feel really sad.
+[0:14:23] The controls feel really sad. You wait
+[0:14:25] five minutes. You then ask the controls,
+[0:14:28] "Well, how do you how sad do you feel?"
+[0:14:29] And they say, "Yeah, I still feel a
+[0:14:30] little bit of sad sadness in me because
+[0:14:33] I remember having seen the movie." And
+[0:14:35] if you ask them, "Why do you feel sad?"
+[0:14:37] They say, "Well, because you showed me
+[0:14:38] the sad movie 5 minutes ago." The
+[0:14:40] amnesic patients, you ask, "How do you
+[0:14:42] feel?" They say, "I feel really sad and
+[0:14:44] I don't know why. I have no idea." and
+[0:14:46] you ask them, "Do you remember seeing a
+[0:14:48] movie?" Say, "Nope." There's like no
+[0:14:50] declarative memory of the movie, but
+[0:14:52] there's still the temporal persistence
+[0:14:54] of the sadness. It lasts some time.
+[0:14:57] >> So, I thought this was a really cool
+[0:14:58] study because it showed very clearly
+[0:15:00] that there is temporal persistence in
+[0:15:02] emotions and sadness probably has one of
+[0:15:04] the longest time constants as we know
+[0:15:06] from personal experience. But it's
+[0:15:08] separate from just declarative memory.
+[0:15:10] It's not that you're remembering that
+[0:15:11] the bear is there. That's going on too.
+[0:15:13] But independently of that, the emotion
+[0:15:15] state has its own temporal persistence.
+[0:15:18] The state has to last some time. And
+[0:15:20] again, that's something that reflexes
+[0:15:21] don't have. It just goes straight
+[0:15:23] through. There's there's no temporal
+[0:15:24] persistence.
+[0:15:26] >> I'd like to take a quick break and
+[0:15:27] acknowledge our sponsor, Helix Sleep.
+[0:15:30] Helix Sleep makes mattresses and pillows
+[0:15:32] that are customized to your unique sleep
+[0:15:34] needs. Now, I've spoken many times
+[0:15:36] before on this and on other podcasts
+[0:15:38] about the fact that getting a great
+[0:15:40] night's sleep is the foundation of
+[0:15:41] mental health, physical health, and
+[0:15:43] performance. When we aren't getting
+[0:15:44] great sleep on a consistent basis,
+[0:15:46] everything suffers. And when we are
+[0:15:48] sleeping well and enough, our mental
+[0:15:50] health, physical health, and performance
+[0:15:51] in all endeavors improve marketkedly.
+[0:15:54] Now, the mattress you sleep on makes a
+[0:15:56] huge difference in the quality of sleep
+[0:15:58] that you get each night. how soft it is
+[0:16:00] or how firm it is all play into your
+[0:16:02] comfort and need to be tailored to your
+[0:16:04] unique sleep needs. If you go to the
+[0:16:06] Helix website, you can take a brief
+[0:16:08] two-minute quiz and it will ask you
+[0:16:10] questions such as, "Do you sleep on your
+[0:16:11] back, your side, or your stomach? Maybe
+[0:16:13] you know, maybe you don't. Do you tend
+[0:16:14] to run hot or cold during the night?
+[0:16:16] Things of that sort. You answer those
+[0:16:18] questions and Helix will match you to
+[0:16:20] the ideal mattress for you. For me, that
+[0:16:22] turned out to be the Dusk Dusk mattress.
+[0:16:25] I've been sleeping on a Dusk mattress
+[0:16:26] for more than four years now, and it's
+[0:16:29] been far and away the best sleep that
+[0:16:31] I've ever had. If you'd like to try
+[0:16:33] Helix, you can go to
+[0:16:34] helixleep.com/huberman,
+[0:16:36] take that 2-minute sleep quiz, and Helix
+[0:16:38] will match you to a mattress that's
+[0:16:40] customized for you. Right now, Helix is
+[0:16:42] giving up to 27% off their entire site.
+[0:16:46] Helix has also teamed up with True Med,
+[0:16:48] which allows you to use your HSA FSA
+[0:16:50] dollars to shop Helix's award-winning
+[0:16:53] mattresses. Again, that's
+[0:16:54] helixleep.com/huberman
+[0:16:57] to get up to 27% off. Today's episode is
+[0:17:00] also brought to us by Rura. Rurora makes
+[0:17:02] what I believe are the best water
+[0:17:03] filters on the market. It's an
+[0:17:05] unfortunate reality, but tap water often
+[0:17:07] contains contaminants that negatively
+[0:17:09] impact our health. In fact, a 2020 study
+[0:17:12] by the Environmental Working Group
+[0:17:14] estimated that more than 200 million
+[0:17:16] Americans are exposed to PAS chemicals,
+[0:17:18] also known as forever chemicals, through
+[0:17:20] drinking of tap water. These forever
+[0:17:22] chemicals are linked to serious health
+[0:17:24] issues such as hormone disruption, gut
+[0:17:26] microbiome disruption, fertility issues,
+[0:17:28] and many other health problems. The
+[0:17:31] Environmental Working Group has also
+[0:17:32] shown that over 122 million Americans
+[0:17:35] drink tap water with high levels of
+[0:17:37] chemicals known to cause cancer. It's
+[0:17:39] for all these reasons that I'm thrilled
+[0:17:40] to have Aurora as a sponsor of this
+[0:17:42] podcast. I've been using the Aurora
+[0:17:44] countertop system for almost a year now.
+[0:17:46] Roro's filtration technology removes
+[0:17:48] harmful substances, including endocrine
+[0:17:50] disruptors and disinfection byproducts
+[0:17:52] while preserving beneficial minerals
+[0:17:54] like magnesium and calcium. It requires
+[0:17:56] no installation or plumbing. It's built
+[0:17:58] from medical grade stainless steel, and
+[0:18:00] its sleek design fits beautifully on
+[0:18:01] your countertop. In fact, I consider it
+[0:18:03] a welcome addition to my kitchen. It
+[0:18:05] looks great, and the water is delicious.
+[0:18:07] If you'd like to try Rora, you can go to
+[0:18:09] roora.com/huberman
+[0:18:11] and get an exclusive discount. Again,
+[0:18:13] that's rura r o r a.com/huberman.
+[0:18:17] It is striking to me that maybe 30 years
+[0:18:20] or ago or so, there was discussion about
+[0:18:22] whether animals have emotions based on
+[0:18:24] these criteria, priority, veilance,
+[0:18:26] scalability and persistence. Is it
+[0:18:29] generally agreed upon that animals have
+[0:18:32] emotions? I believe they do because I
+[0:18:33] love my dog and other animals and I want
+[0:18:35] to believe that. But as scientists, if
+[0:18:37] we step back, do they meet the criteria
+[0:18:38] for emotions that you're setting up here
+[0:18:40] for us?
+[0:18:41] >> Absolutely. Yes. So if you have those
+[0:18:43] criteria, those functional criteria and
+[0:18:46] you would add one or two others, many
+[0:18:48] states in animals and certainly the
+[0:18:50] states that we would ordinarily
+[0:18:52] interpret as emotions in our pets, in
+[0:18:55] our dogs, cats. By the way, I loved your
+[0:18:57] dog in the in the waiting room there.
+[0:19:00] They would meet those criteria and they
+[0:19:02] would have functional emotions.
+[0:19:04] >> Uh we should talk more about this is
+[0:19:06] also the the claim now from anthropic
+[0:19:08] that large language models have
+[0:19:10] functional emotions as well.
+[0:19:11] >> That's so wild. we have to return to
+[0:19:12] that because I think it it kind of
+[0:19:14] boggles the mind you know how could a
+[0:19:16] machine have emotions but
+[0:19:18] >> well but again these are functionally
+[0:19:19] defined emotions and there's I think
+[0:19:21] there's no problem assigning to AI to
+[0:19:24] some extent and certainly to many
+[0:19:27] animals uh those functional emotions
+[0:19:29] where it gets complicated is that in us
+[0:19:31] and also by assumption in animals I have
+[0:19:35] no doubt they also have conscious
+[0:19:37] experiences of emotions and most people
+[0:19:41] take the conscious experience of the
+[0:19:43] emotion as the ground truth for the
+[0:19:46] emotion. Emotions without conscious
+[0:19:48] experiences of emotions sound like an
+[0:19:49] oxymoron. It's like you can't have that.
+[0:19:52] They the conscious experience is the
+[0:19:53] emotion,
+[0:19:54] >> which is what William James said, which
+[0:19:56] is what Joe Leoo says. And I think it's
+[0:19:58] implicitly there across essentially
+[0:20:00] every psychological theory is the
+[0:20:02] assumption that emotions really are
+[0:20:05] types of conscious experiences which I
+[0:20:07] think is the intuition that if I ask you
+[0:20:09] how do you know what's the ground truth
+[0:20:11] right how do you know you're having an
+[0:20:13] emotion you would say because it's a
+[0:20:15] certain type of conscious experience
+[0:20:17] because of how it feels. And if I asked
+[0:20:19] you more specifically how do you know
+[0:20:21] it's sadness versus anger versus fear
+[0:20:24] you would say because of how they feel.
+[0:20:25] They feel different. And so we take the
+[0:20:28] conscious experience, our own
+[0:20:30] introspective access to the conscious
+[0:20:31] experience as the ground truth. That has
+[0:20:35] a lot of problems associated with it.
+[0:20:37] Deep philosophical problems. But just
+[0:20:39] practically it has two big problems that
+[0:20:42] I think science should avoid. One is it
+[0:20:45] gets really problematic to know whether
+[0:20:46] or not animals have emotions because we
+[0:20:49] don't know how to test whether or not
+[0:20:51] they have conscious experiences. I have
+[0:20:53] no doubt that they do. It's just that
+[0:20:55] there's no scientific way to test
+[0:20:57] currently. So we should have different
+[0:20:58] criteria. And the other question is if
+[0:21:00] you tie emotion to the the conscious
+[0:21:04] experience of emotion, that is you
+[0:21:05] equate you conflate emotions with
+[0:21:08] feelings. Well, then you're not studying
+[0:21:10] emotions, you're studying consciousness.
+[0:21:12] We spoke about Kristoff Kau earlier.
+[0:21:14] Great respect for people that are
+[0:21:16] studying consciousness, but I don't want
+[0:21:18] to study consciousness. That's too hard.
+[0:21:20] >> And there's lots and lots of debates and
+[0:21:22] disagreements. So if we can avoid that
+[0:21:25] and study emotions in the absence of
+[0:21:28] needing to study conscious experiences
+[0:21:30] of emotions, we can move forward with
+[0:21:32] the science which is what every other
+[0:21:34] discipline does. So if you're a vision
+[0:21:37] researcher, right? So you study vision,
+[0:21:40] you study consciousness. No, you don't
+[0:21:41] you don't need to. I mean you can but
+[0:21:43] there's a huge amount of work that
+[0:21:45] people do studying vision and how that
+[0:21:47] works in the brain studying memory you
+[0:21:50] know any other cognitive process without
+[0:21:53] needing to study conscious experiences
+[0:21:56] they're typically accompanied in humans
+[0:21:57] and if you if you talk to the lay person
+[0:21:59] on the street and you say I'm a vision
+[0:22:01] researcher they take you to be studying
+[0:22:04] the conscious experience of seeing
+[0:22:06] perhaps or if you say I'm a memory
+[0:22:08] researcher they take you to be studying
+[0:22:10] the conscious experience of recollection
+[0:22:12] But scientifically most people working
+[0:22:14] in those fields don't study
+[0:22:15] consciousness and it's perfectly valid
+[0:22:17] to study vision and memory you know in
+[0:22:19] in in horseshoe crabs or alesia where
+[0:22:22] nobody has any claims about
+[0:22:24] consciousness. We should do the same
+[0:22:25] thing with emotion and then we can have
+[0:22:27] an integrated science across species
+[0:22:30] that can move forward without needing to
+[0:22:32] tackle the difficult problem of
+[0:22:34] consciousness. Again, yes, for sure we
+[0:22:38] and other animals have conscious
+[0:22:39] experiences of emotions and that's very
+[0:22:42] important. But we also have conscious
+[0:22:43] experiences of seeing and memory. As a
+[0:22:45] scientific discipline, we should
+[0:22:47] separate the conscious experience from
+[0:22:49] the process from the emotion and that's
+[0:22:51] the way we make progress. That's the one
+[0:22:53] of the main arguments that David and I
+[0:22:55] had in our book and that I reiterate in
+[0:22:57] the forthcoming book. At risk of taking
+[0:23:00] us in a philosophical direction, I'd
+[0:23:01] like to actually ask a biological
+[0:23:04] psychological question. Given these
+[0:23:06] criteria, you know, priority, veilance,
+[0:23:08] scalability, and persistence, but really
+[0:23:10] focusing mainly on priority. I think all
+[0:23:12] of us have had the experience of an
+[0:23:14] emotion coming on, but not in its kind
+[0:23:17] of overtaking maximal form. Like, okay,
+[0:23:19] we feel ourselves getting annoyed and we
+[0:23:21] can observe the emotion growing. The
+[0:23:24] arousal state is familiar to us. We
+[0:23:26] understand. Let's assume in this example
+[0:23:28] that we understand why it's happening.
+[0:23:30] Maybe you're in line at the store and
+[0:23:31] the person ahead of you is taking
+[0:23:32] everybody's time by doing something
+[0:23:35] that's really unnecessary and kind of
+[0:23:37] obnoxious to us in that moment. And so
+[0:23:38] our frustration is is rising and we are
+[0:23:40] observing the emotion even though the
+[0:23:43] emotion is us, right? It's within us.
+[0:23:46] And then at some point we might blurt
+[0:23:48] something out or we might feel compelled
+[0:23:50] that we have to just say, "Excuse me,
+[0:23:51] like could this maybe be taken care of?"
+[0:23:53] >> But you have some control.
+[0:23:54] >> You have some control. And and there's
+[0:23:56] this almost like running together of two
+[0:23:58] consciousnesses like there's like two of
+[0:24:00] us in there at the same time observing
+[0:24:03] self observing the outside world and
+[0:24:05] then at some point the prioritization
+[0:24:07] gets to the point where like we just do
+[0:24:10] something and sometimes it's a decision
+[0:24:11] and sometimes it overtakes us. Now at
+[0:24:13] the opposite extreme, we've all observed
+[0:24:15] I you can just go on X the social media
+[0:24:17] platform and for some reason the
+[0:24:18] algorithm likes to serve up a lot of
+[0:24:20] examples of people like on planes losing
+[0:24:22] it, people get going unhinged like you
+[0:24:24] know I like people just like completely
+[0:24:25] melting down and it's and it's very uh
+[0:24:28] in our language hypothalamic, right? And
+[0:24:30] so people are are drawn to that.
+[0:24:32] >> I have an antidote to those people.
+[0:24:34] >> They should take ice baths. I can tell
+[0:24:35] you more. Take ice baths. I think this
+[0:24:37] helps seriously.
+[0:24:38] >> Yeah. Well, ice baths. Yeah, let's
+[0:24:39] definitely talk about ice pass and ultra
+[0:24:41] um ultra races because uh you you're
+[0:24:43] training for one.
+[0:24:44] >> No, but [clears throat] I think I think
+[0:24:45] what you said is exactly right and
+[0:24:48] extremely important for humans and
+[0:24:49] probably unique to humans as opposed to
+[0:24:51] other animals which is that we can be
+[0:24:54] conscious of and monitor our own
+[0:24:55] emotions and by doing so we can regulate
+[0:24:59] them to some extent. So emotion
+[0:25:01] regulation and control and monitoring
+[0:25:03] emotion being aware of what emotion you
+[0:25:05] have those two go hand in hand and your
+[0:25:07] Stanford colleague you know James Gross
+[0:25:10] start spawned this huge field in the '9s
+[0:25:13] I guess when it started of emotion
+[0:25:14] regulation that is now huge um I just
+[0:25:18] finished my term as co-editor of this
+[0:25:20] journal a effect of science and I would
+[0:25:23] say like a quarter or so or a third of
+[0:25:26] the submissions are about emotion
+[0:25:29] regulation it is so important in in in
+[0:25:32] humans and most of pathologies and
+[0:25:34] difficulties about emotions are not
+[0:25:36] about the emotion per se. It's about our
+[0:25:38] ability or disability to control them to
+[0:25:41] regulate them.
+[0:25:42] >> If you don't mind, um because of your
+[0:25:45] understanding of emotions and states and
+[0:25:48] and neuroscience, but also your
+[0:25:50] experience as a human in the world, has
+[0:25:52] anything you've learned changed the way
+[0:25:54] that you watch your emotions grow,
+[0:25:56] decide when to step in, when not to step
+[0:25:58] in? you don't seem like an impulsive
+[0:25:59] person. So, we're not but most people
+[0:26:00] aren't. We're not talking about uh
+[0:26:02] pathology here. And I'll seed this
+[0:26:04] question by saying, you know, I have a
+[0:26:05] few friends who were in tier one special
+[0:26:08] operations and you know, that's
+[0:26:09] high-risisk, high consequence work.
+[0:26:10] We've had Alex Honold on the podcast,
+[0:26:12] high-risisk, high consequence endeavors.
+[0:26:14] Um, and they all say the same thing,
+[0:26:16] which are that emotions cloud logical
+[0:26:19] judgment. So, they're somehow far from
+[0:26:21] emotions or their emotions don't get
+[0:26:23] prioritized. But of course these are
+[0:26:25] this all of these people that come to
+[0:26:27] mind have you know healthy marriages now
+[0:26:30] you know healthy families they they're
+[0:26:32] loving people they have anger they have
+[0:26:34] they have emotions but they they've sort
+[0:26:36] of categorized emotions as cloud
+[0:26:38] judgment in the professional or you know
+[0:26:40] peak performance context. Therefore they
+[0:26:42] don't allow them to be prioritized.
+[0:26:44] Sounds a little bit robotic sounds a
+[0:26:46] little bit mechanical quote unquote on
+[0:26:48] the spectrum. people like will say these
+[0:26:50] things, right? But in some ways,
+[0:26:54] provided they're allowed to allow
+[0:26:55] themselves to be emotional emotional and
+[0:26:58] let emotions quote unquote take over in
+[0:27:00] the right context, that's kind of the
+[0:27:02] ideal circumstance, right? So, so what
+[0:27:04] do you know that allow that has impacted
+[0:27:06] the way that you think about emotion
+[0:27:08] regulation that perhaps people could
+[0:27:10] consider if not benefit from?
+[0:27:12] >> Yeah, I think it's, you know, it's a
+[0:27:13] mixture. On the one hand, you absolutely
+[0:27:16] need emotions. If you have no emotions
+[0:27:18] as we know from Antonio Damasio's
+[0:27:21] original work in his book Daycart's
+[0:27:22] error uh which he put out just as I was
+[0:27:25] starting as a posttock in Iowa 1994 I
+[0:27:27] think you know if you have massive
+[0:27:29] frontal lobe lesions that make it the
+[0:27:31] case that you're no longer emotionally
+[0:27:33] responding to stimuli the consequences
+[0:27:35] are devastating which is that you cannot
+[0:27:38] make decisions complex decisions in your
+[0:27:40] life you can't organize your life you're
+[0:27:42] not motivated to take the right path
+[0:27:44] through life because you don't feel one
+[0:27:46] one way or the other about the different
+[0:27:48] options that are available. So, it's
+[0:27:50] clear that not having emotions is very
+[0:27:52] bad and certainly if you were out facing
+[0:27:54] the bear, which may not happen to too
+[0:27:55] many people these days, that would be
+[0:27:57] very bad. On the other hand, being able
+[0:28:00] to regulate them and control them um is
+[0:28:03] definitely a human skill that's very
+[0:28:05] important and that helps you a lot. The
+[0:28:07] first part is what you were talking
+[0:28:08] about first uh earlier which is the
+[0:28:11] ability to uh monitor your emotions to
+[0:28:15] identify your emotions. I think Lisa
+[0:28:16] Felman Barrett actually first did the
+[0:28:18] main work on this. It's a topic called
+[0:28:21] emotional granularity. It's like at what
+[0:28:23] how fine a grain can you conceptualize
+[0:28:27] and be aware of your own emotions.
+[0:28:29] >> And then once you're aware of them, you
+[0:28:32] can bring em various emotion regulation
+[0:28:34] strategies mostly cognitive reappraisal
+[0:28:36] type of strategies to bear on the
+[0:28:39] emotion and thereby to some extent
+[0:28:41] control your emotions. How important is
+[0:28:43] it to use language to provide that
+[0:28:47] granularity? I've certainly experienced
+[0:28:49] like feeling a bunch of things around a
+[0:28:51] particular scenario and it if you can't
+[0:28:54] separate out the elements, it can feel
+[0:28:56] overwhelming. People always say if you
+[0:28:58] can name the emotion, but I I find that
+[0:28:59] a little tricky because sometimes it's
+[0:29:01] not one emotion. It's a bunch of things.
+[0:29:03] It's confusion. It's frustration. Are
+[0:29:05] those the same thing? I don't know, you
+[0:29:07] know. And and I think many people,
+[0:29:10] >> myself included, sometimes just like it
+[0:29:12] just feels like too much. Not because
+[0:29:15] the emotion is so big, but because it's
+[0:29:17] such a tangled jungle of of where there
+[0:29:19] isn't really language to disinfect.
+[0:29:22] >> Absolutely. Yeah. I don't think you need
+[0:29:23] to put it into language. And I think
+[0:29:24] people's strategies vary. Some people,
+[0:29:26] you know, some people think in words,
+[0:29:28] some people think in pictures, most
+[0:29:30] people are a mixture. And if you look at
+[0:29:32] different languages, you know, if you're
+[0:29:34] French or German speaking like me,
+[0:29:37] bilingual, we have different words for
+[0:29:39] different emotions. But you need some
+[0:29:42] sense of the concept which I think the
+[0:29:44] concepts for emotions are pretty much
+[0:29:46] universal across languages. Uh so you
+[0:29:49] know there there all these different
+[0:29:50] examples of emotion words from different
+[0:29:52] languages like shoden fo is one that
+[0:29:55] people know now you know joy at another
+[0:29:57] person's misfortune from the German uh
+[0:29:59] gigiel I think is often trumpeted as
+[0:30:02] another example. I forget what the
+[0:30:04] culture is but this is the emotion you
+[0:30:05] feel if something is just unbearably
+[0:30:08] cute. There's a great book uh Tiffany
+[0:30:10] Watts Smith has a book I think it's
+[0:30:11] called the book of human emotions which
+[0:30:13] is basically like a little uh dictionary
+[0:30:16] an entry from a toz of all the different
+[0:30:19] emotion words in different languages but
+[0:30:23] the fact that we don't have a word for
+[0:30:25] gig or for shaden for in English you
+[0:30:27] perfectly well have the concept I just
+[0:30:29] described it to you you have no problem
+[0:30:31] understanding what the emotion is and so
+[0:30:32] I think as long as you have some kind
+[0:30:34] some concept which need not be put into
+[0:30:36] words some way to think about and
+[0:30:39] differentiate the different emotions
+[0:30:41] that are going on in you that gives you
+[0:30:44] a purchase on your ability to to some
+[0:30:47] extent evaluate them and say this is an
+[0:30:49] emotion I want or this is an emotion
+[0:30:51] that I don't want and then to act on it
+[0:30:54] through various strategies cognitive
+[0:30:56] reappraisal for example or acceptance
+[0:30:58] depending on what your strategy is
+[0:31:01] >> yeah the psychologists seem to disagree
+[0:31:02] here because um many people some who've
+[0:31:05] been on this podcast all of whom are
+[0:31:07] experts will say you know if you don't
+[0:31:09] allow yourself to feel the emotion then
+[0:31:10] it grows and other people will say well
+[0:31:12] if you focus on something then it grows
+[0:31:14] and um and this is where I think
+[0:31:16] neuroscience can be of great help
+[0:31:17] because probably both things are true
+[0:31:19] and it depends on the context but
+[0:31:21] >> yeah that's exactly right
+[0:31:22] >> maybe this is a good opportunity to talk
+[0:31:23] about um sort of dynamic attractor
+[0:31:26] states which is and I don't throw out
+[0:31:28] that language to confuse people but but
+[0:31:30] there is this idea in neuroscience right
+[0:31:32] like if we if you and I both you know
+[0:31:33] talk about this cup and I slide it
+[0:31:35] forward and then we start looking at it
+[0:31:36] and you know more and more brain brain
+[0:31:38] circuits are going to be devoted to. We
+[0:31:39] could spend several hours. It's not a
+[0:31:41] very interesting conversation, but
+[0:31:43] >> we if we do that about an emotion we
+[0:31:45] feel because of something somebody said
+[0:31:46] to us at work or online. I think we're
+[0:31:48] all familiar with the idea that we can
+[0:31:49] go down these rabbit holes within our
+[0:31:51] own mind.
+[0:31:51] >> Absolutely.
+[0:31:52] >> And it's a very dangerous way to live
+[0:31:55] >> and just knowing that it exists perhaps
+[0:31:57] can be helpful but because it's almost
+[0:31:59] like if you go far enough down a path,
+[0:32:01] it's like a horror movie. If you go far
+[0:32:02] enough down a path, it's very hard to
+[0:32:04] extract yourself.
+[0:32:05] >> Absolutely. Absolutely. I think I mean
+[0:32:06] cognitive reappraisal or any other sort
+[0:32:09] of complex reappraisal strategy for
+[0:32:11] emotions it is a double-edged sword and
+[0:32:14] it it's trainable. It's as you say if I
+[0:32:17] really focus on okay now you know I'm
+[0:32:19] starting to feel sad. I really don't
+[0:32:21] want to feel sad. I really don't want to
+[0:32:22] feel sad. I really don't want to feel
+[0:32:23] sad. Well the more I think about it the
+[0:32:25] sadder I get. Right.
+[0:32:26] >> Um or same with anxiety. Some emotions
+[0:32:28] are probably more prone to going down
+[0:32:29] this rabbit hole than others. But again,
+[0:32:31] it's a trainable skill that there are
+[0:32:33] other ways of dealing with it where you
+[0:32:34] can kind of just stop that process from
+[0:32:37] going down at all. You want to stop it
+[0:32:39] at the earliest front end. I mean, one
+[0:32:41] quick answer to the question of what's
+[0:32:43] the most successful strategy is the
+[0:32:45] earlier you can stop that process, the
+[0:32:48] better. And so, in the first place,
+[0:32:50] don't get yourself into a situation
+[0:32:51] where you're going to be anxious or
+[0:32:53] guilty or sad or whatever emotion you
+[0:32:54] want to avoid. So situational avoidance
+[0:32:57] just in terms of structuring your
+[0:32:58] environment would be one strategy and
+[0:33:00] then once you're in it I think it's
+[0:33:02] idiosyncratic to a large extent. So you
+[0:33:04] would have to figure out what works for
+[0:33:06] you but it's definitely trainable. Two
+[0:33:08] parts are trainable. One is the specific
+[0:33:10] strategy so you can do cognitive
+[0:33:13] reappraisal without overthinking it and
+[0:33:15] going down the rabbit hole and actually
+[0:33:16] feeling the emotion even more. And the
+[0:33:18] other one is just the strength and
+[0:33:21] automaticity of control that you have.
+[0:33:24] Which brings me to the ice bath. So
+[0:33:26] briefly talk about the ice because this
+[0:33:27] is relevant actually. So I I started
+[0:33:30] doing these a while back. One of my
+[0:33:33] former colleagues Justin Feinstein who
+[0:33:34] now runs a a float clinic on Maui. Um I
+[0:33:38] forget how it came about, but we were
+[0:33:40] talking about floating ice baths and he
+[0:33:43] mentioned you and he mentioned Wimhof
+[0:33:45] and said, you know, take a look at these
+[0:33:46] guys. And I saw, you know, whims
+[0:33:47] swimming in some frozen lake. Looked
+[0:33:50] kind of interesting. Anyway, so I
+[0:33:51] started doing ice baths some time ago.
+[0:33:53] They weren't that popular yet back then.
+[0:33:55] And now my wife bought Amazon like a
+[0:33:58] horse watering trough or some big thing.
+[0:34:00] Insulated it, put on a lot safer than
+[0:34:03] being out on a lake, too.
+[0:34:04] >> Put on the talk about that.
+[0:34:05] >> And I get, you know, these
+[0:34:06] [clears throat] 40 lb ice bags every
+[0:34:08] week. They know me very well at at Joe's
+[0:34:10] Ice up there. Every time I go in, they
+[0:34:12] say, "Hey, boss. Having a good party
+[0:34:14] again tonight?" Yep. cuz I can eat a lot
+[0:34:16] of ice. But so this is the interesting
+[0:34:18] thing when I start first week it is
+[0:34:20] terrible super painful. You know you go
+[0:34:22] in it's like a whole body cold pressure
+[0:34:23] task right second week it's also you
+[0:34:26] know your breathing goes up your heart
+[0:34:28] rate goes up but gradually and kind of
+[0:34:32] with some automaticity to it. Now I go
+[0:34:35] into the ice bath immediately my heart
+[0:34:37] rate goes down my breathing goes down I
+[0:34:39] beget I get super relaxed. So this is
+[0:34:42] the interesting part that I propose of
+[0:34:44] emotion regulation. It generalizes for
+[0:34:47] me. This is an experiment of one, but
+[0:34:49] for me it generalizes. So previously
+[0:34:52] prior to the ice bath and driving around
+[0:34:54] Pasadena and I don't know in the last
+[0:34:56] year or two, this seems to have risen
+[0:35:00] somehow. I'm trying to park on the
+[0:35:02] street. There's a lane next to me. I
+[0:35:05] have my signal out. There's a parking
+[0:35:06] space. It's clear what I'm trying to do.
+[0:35:08] I see somebody come up behind me. They
+[0:35:10] can see I'm trying to park. They can
+[0:35:11] move over. No, they come right up behind
+[0:35:13] me, go on the horn, and you know, you
+[0:35:16] immediately feel just an immediate anger
+[0:35:19] response, right?
+[0:35:21] >> Well, after the ice bath, it's flat. So,
+[0:35:24] there was an immediate automatic
+[0:35:26] downregulation of my autonomic emotional
+[0:35:28] response to a psychological stressor,
+[0:35:31] somebody honking at me,
+[0:35:33] >> that was trained and generalized from
+[0:35:35] the ice bath. It's an experiment of one.
+[0:35:36] And I'm not claiming this as a published
+[0:35:38] study, but so I think there's a there's
+[0:35:41] a direct autonomic training component as
+[0:35:44] well in terms of the strength and the
+[0:35:46] automaticity, the ease with which you
+[0:35:48] can regulate emotions that they can
+[0:35:50] become kind of automatically regulated.
+[0:35:53] You don't have to overthink it. It
+[0:35:55] becomes smooth and effortless to some
+[0:35:58] extent. And that's that's the place
+[0:35:59] where where you where you want to get.
+[0:36:01] I've known Whim a long time and um
+[0:36:03] although I sometimes in my opinion
+[0:36:05] unfairly get tacked to the the
+[0:36:07] deliberate cold exposure as we call it
+[0:36:09] thing a little too much because we talk
+[0:36:10] about many things on this podcast not
+[0:36:12] just that I do find it very useful and
+[0:36:14] years ago my lab had collaborations with
+[0:36:16] the special operations community and
+[0:36:17] they'll tell you that the one of the
+[0:36:19] reasons it's such a wonderful tool is
+[0:36:21] it's so reliable. You always get an
+[0:36:24] increase in adrenaline, norepinephrine
+[0:36:26] in the brain, and to some extent, and
+[0:36:28] this might surprise you, perhaps not,
+[0:36:30] you get often reductions in cortisol,
+[0:36:32] which is kind of paradoxical, but when
+[0:36:34] people practice, it's very reliable, and
+[0:36:36] provided it's not so cold or it's an
+[0:36:38] open lake where you [laughter]
+[0:36:38] >> reliable and super efficient and safe
+[0:36:41] unless you're doing it in a lake or
+[0:36:42] you're doing hyperventilation.
+[0:36:43] >> 5 minutes after a shower, it's extremely
+[0:36:45] efficient. So, I
+[0:36:46] >> was That's a lot. That's good.
+[0:36:47] >> Well, after 5 minutes, you can look at
+[0:36:49] my body mass index. After 5 minutes, I
+[0:36:51] get hypothermic. So I can't stay in
+[0:36:53] >> that's a good long while and even in a
+[0:36:55] cold shower and there are now evidence
+[0:36:57] of um improved resilience to subsequent
+[0:37:00] stressors of the sort that you described
+[0:37:02] there there's some okay papers I think
+[0:37:03] it's a wonderful tool um especially for
+[0:37:06] this uh buffering this immediate stress
+[0:37:08] or anger response very powerful
+[0:37:11] >> before we went on Mike we were talking
+[0:37:13] about a different type of stressor which
+[0:37:15] is the ultramarathons that you're
+[0:37:17] currently training for a 100 mile race
+[0:37:19] which is by the way super impressive
+[0:37:21] even to shoot for it. I know you've done
+[0:37:22] others.
+[0:37:23] >> Trying is the operative word here.
+[0:37:25] >> Well, I have I have confidence in you.
+[0:37:27] >> Talk to me in two months.
+[0:37:28] >> I will. I have confidence in you. You're
+[0:37:30] going to finish this 100 mile race. But
+[0:37:31] we were talking about something that I
+[0:37:33] think is relevant to bring up now, which
+[0:37:34] is uh you were describing how you know
+[0:37:37] at some points during the these races
+[0:37:40] you just feel like complete garbage, but
+[0:37:43] then you start to feel better. And so
+[0:37:45] then the next time you feel like
+[0:37:47] complete garbage, you have the cognitive
+[0:37:49] knowledge. Yeah. that you felt terrible
+[0:37:52] then better again and so you're starting
+[0:37:53] to integrate over longer periods of
+[0:37:55] time. So here's another example of
+[0:37:56] emotion regulation but over much longer
+[0:37:59] time scales. It's a little bit harder to
+[0:38:01] access for most people than a cold
+[0:38:03] shower.
+[0:38:03] >> No, but I think this is one thing one
+[0:38:04] one reason there many reasons but
+[0:38:06] there's one reasons that I that I love
+[0:38:07] these ultramarathons and sort of
+[0:38:09] identify as an as an ultra runner uh
+[0:38:11] even though I didn't do it for decades
+[0:38:13] and I'm just now getting back into it
+[0:38:15] because of that nonlinearity. You have
+[0:38:16] these major ups and downs and you know
+[0:38:19] sort of mantra that ultra running has
+[0:38:20] co-opted is you know relentless forward
+[0:38:22] momentum but the sort of psychological
+[0:38:25] equivalent is just relentless optimism
+[0:38:27] like optimism in the face of adversity.
+[0:38:29] You have to just keep that mindset and
+[0:38:32] everybody there is like that you know
+[0:38:33] you you come around like mile 40 mile 50
+[0:38:35] mile 60 you come around some curve and
+[0:38:37] you look and feel like crap people go
+[0:38:40] looking good looking nobody says looks
+[0:38:44] like you're not going to make it. No,
+[0:38:45] nobody says that, right? So, everybody
+[0:38:47] is super positive. You're hanging in
+[0:38:50] there and it is really hard and you
+[0:38:51] know, you've just been going downhill,
+[0:38:53] your knees are shot, you have blisters,
+[0:38:55] you've been vomiting, super tired, and
+[0:38:58] you extrapolate and you think this this
+[0:39:01] is not going to work. But if you refuse
+[0:39:04] to give up, doesn't always work, but
+[0:39:06] about half the time or so, it levels out
+[0:39:08] and it starts going back up again. You
+[0:39:10] keep going. I mean, you feel wrecked at
+[0:39:13] mile 50. I feel wrecked or earlier mile
+[0:39:15] 30. So trying to think forward and say,
+[0:39:17] "Wow, I have to do this over again. This
+[0:39:19] is like not fathomable."
+[0:39:21] >> Uh so it's a really interesting exercise
+[0:39:23] in not giving up and being able to do
+[0:39:26] something that you think is impossible
+[0:39:28] to do. For that matter, all of your
+[0:39:30] listeners would think it's impos if any
+[0:39:32] any of your listeners went running with
+[0:39:34] me, they would conclude two things. One
+[0:39:36] is they're faster than I am. and two,
+[0:39:39] I'm not going to be able to do a 100
+[0:39:41] miles, which means if I actually
+[0:39:43] finished the 100 miles, all of you would
+[0:39:46] be able to do so as well, which I think
+[0:39:48] is true. I think anybody can do it.
+[0:39:50] Anybody who's basically healthy if they
+[0:39:53] only wanted to, which is the key, could
+[0:39:55] actually do it. So, it's just a really
+[0:39:57] interesting exercise. You know, it's
+[0:39:59] only 30 hours. Well, only, but it's only
+[0:40:01] 30 hours. It's not like, you know,
+[0:40:02] years. How hard can it be? How bad?
+[0:40:05] Well, it's it's hard, but it's doable.
+[0:40:08] It's definitely doable. And so it's just
+[0:40:10] in that sweet spot of something that
+[0:40:12] seems impossible and is just
+[0:40:14] unbelievably hard but doable and that's
+[0:40:18] attractive somehow one if if you can do
+[0:40:20] it which of course doesn't happen all
+[0:40:21] the time.
+[0:40:22] >> Yeah. And I don't know if there are any
+[0:40:23] data on this, but there for people that
+[0:40:25] have lived through really hard things
+[0:40:27] and come out better or have pushed
+[0:40:29] themselves to deliberately do hard
+[0:40:31] things of the sort that you're
+[0:40:33] describing, I do think that the memory
+[0:40:35] of that
+[0:40:36] >> can recall our body and brain's ability
+[0:40:40] to lean into other hard things. I think
+[0:40:42] so. I mean, it must be the case. I don't
+[0:40:44] know of any good experiments on that,
+[0:40:46] but you know, was that post-traumatic
+[0:40:48] resilience, I guess they call it. You
+[0:40:49] know, I mean, some people come out of
+[0:40:51] very difficult circumstances. Maybe they
+[0:40:53] do quote unquote the work they need to
+[0:40:54] or not, and and they just say, "Okay,
+[0:40:56] like I'm better for life cuz I'm out of
+[0:40:58] it." Other people carry the wounds of
+[0:40:59] that forward in a way that they, you
+[0:41:02] know, their psychological and sometimes
+[0:41:03] their physical health is a downward
+[0:41:05] trajectory. It's a very interesting
+[0:41:07] thing about like how do how should we
+[0:41:08] conceptualize pain and pain ending? Like
+[0:41:11] some people seem to live in the
+[0:41:13] discomfort of the pain having even
+[0:41:15] happened.
+[0:41:16] >> Yeah, you can certainly persevere and
+[0:41:17] overcome you know severe adversity if
+[0:41:21] it's time limited and I think just your
+[0:41:23] own sort of belief in yourself and your
+[0:41:25] capability to overcome adversity as you
+[0:41:28] were saying is one important component.
+[0:41:31] Another one is something like gratitude
+[0:41:33] or awe
+[0:41:34] >> and you get to appreciate and just value
+[0:41:37] you know just the fact that I'm here
+[0:41:39] talking to you. I mean, I'm just I'm
+[0:41:40] actually grateful and feeling some sense
+[0:41:43] of awe right now at just existing.
+[0:41:47] >> And so, G getting to that point where
+[0:41:49] you're just every morning you wake up
+[0:41:51] and you have this sense of I guess
+[0:41:53] gratitude and awe or some combination of
+[0:41:55] those emotions, I think that's a really
+[0:41:58] valuable thing to carry out of all of
+[0:42:01] this. And, you know, it takes time to
+[0:42:02] kind of accumulate, but I like living
+[0:42:05] that way. I want to get back to the
+[0:42:07] emotion system, but I'll just I feel um
+[0:42:09] inclined to um mention we had Dhacker
+[0:42:11] Kelner on the podcast studies on awe and
+[0:42:14] he defined it so beautifully. He said
+[0:42:16] it's when we bring our attention from a
+[0:42:19] small spatial scale to a large spatial
+[0:42:21] scale or from large to small
+[0:42:23] >> but then during the course of our
+[0:42:25] discussion he added that this is also
+[0:42:27] true in the time domain. So when we live
+[0:42:29] our life dayto-day, we start to feel
+[0:42:31] kind of lost in time. Yeah. And awe
+[0:42:33] becomes less common. But when perhaps we
+[0:42:37] run a 100 mile race across 30 hours, we
+[0:42:40] realize how much can happen in 30 hours.
+[0:42:42] One could say, "Oh, well then you finish
+[0:42:44] the race and the rest of life seems
+[0:42:45] trivial." But it seems the opposite is
+[0:42:47] true that we realize that time is this
+[0:42:49] very elastic thing, at least in our
+[0:42:51] minds, and all of a sudden we have awe
+[0:42:53] for the fact that we have so many days
+[0:42:55] of life to live forward. It's very
+[0:42:56] interesting and it almost speaks to the
+[0:42:58] ice bath again like you have this very
+[0:43:00] compressed stressful experience that
+[0:43:02] gives you that gap that gap between
+[0:43:04] stimulus and response that seems very
+[0:43:06] hard to access unless we subject
+[0:43:07] ourselves to these kinds of
+[0:43:08] >> no and I think that capability the I
+[0:43:11] mean people think you know chimpanzees
+[0:43:12] maybe can feel awe but I think it it I
+[0:43:15] think it's a uniquely at least as we
+[0:43:16] have it it's uniquely human emotion and
+[0:43:19] it's based on a broad sort of
+[0:43:21] metacognitive ability we have which is
+[0:43:23] to detach our conscious experience from
+[0:43:25] the here and now and do like mental time
+[0:43:27] travel. It's pretty derivative to the
+[0:43:31] need to understand other people. So I
+[0:43:32] could put myself into your shoes right
+[0:43:34] now. I I can I can do that. I could
+[0:43:36] imagine sitting where you're sitting and
+[0:43:38] I'm seeing Ralph Adolf's here. You know,
+[0:43:40] I could imagine zooming around and
+[0:43:41] adopting another person's perspective in
+[0:43:44] space. We certainly zoom around in time
+[0:43:46] and reminisce, you know, stuff from the
+[0:43:48] past, imagine things in the future. And
+[0:43:51] I think a is like that too. We adopt a
+[0:43:53] different perspective that's not just
+[0:43:56] tied to the here and now, which I think
+[0:43:58] is probably a crucial ability that
+[0:44:01] distinguishes the nature of conscious
+[0:44:03] experience in humans, which is that we
+[0:44:04] have some control over it. I can
+[0:44:07] simulate what it's like to be you. I can
+[0:44:10] imagine being in the past or in the
+[0:44:12] future. I can zoom out broadly when I'm
+[0:44:15] feeling awe. And I think animals are
+[0:44:18] more just stuck with whatever the senses
+[0:44:21] are delivering to them right now. That's
+[0:44:23] the content of their conscious
+[0:44:25] experience. We can use it flexibly. And
+[0:44:27] that's I think why we can plan and write
+[0:44:30] novels and fiction and think about most
+[0:44:32] of the time, right? When what if I ask
+[0:44:35] you what's in your consciousness? What
+[0:44:36] are you thinking about? It's not stuff
+[0:44:38] that's in front of you. You're
+[0:44:39] daydreaming. You're like all all kinds
+[0:44:41] of places. And that really gives the
+[0:44:43] human mind the power that distinguishes
+[0:44:45] it from any other animals and is is is
+[0:44:48] the reason we have everything that we
+[0:44:49] have that makes us so so different. So
+[0:44:52] awe I think is an example of a uniquely
+[0:44:55] human emotion that deres from that that
+[0:44:58] ability to adopt a vast point of view or
+[0:45:00] a point of view that's not tied to just
+[0:45:02] whatever the senses are delivering to
+[0:45:04] you.
+[0:45:05] >> I'd like to take a quick break and
+[0:45:06] acknowledge our sponsor AG1. I'm excited
+[0:45:09] to share that AG1 has just launched
+[0:45:11] their newest formulation, AG1 Pro. AG1
+[0:45:15] Pro takes the clinically backed AG1
+[0:45:16] formula, which is a blend of vitamins,
+[0:45:18] minerals, probiotics, and adaptogens,
+[0:45:20] and adds three important new
+[0:45:22] ingredients: creatine monohydrate,
+[0:45:24] calcium HMBB, and zinc carnosine. Each
+[0:45:26] serving has 5 g of creatine monohydrate
+[0:45:29] to support muscle strength and
+[0:45:30] performance, as well as brain health.
+[0:45:32] calcium HMBB to support muscle recovery
+[0:45:34] and reduce muscle breakdown and zinc
+[0:45:36] carnosine to support and improve the
+[0:45:38] lining of your gut. All three of these
+[0:45:40] ingredients have compelling science to
+[0:45:41] support them and therefore I love seeing
+[0:45:43] them added to the existing AG1 formula.
+[0:45:46] As most of you know, I've been taking
+[0:45:47] AG1 every day for nearly 14 years now. I
+[0:45:51] started taking it long before I even
+[0:45:52] knew what a podcast was. It's a great
+[0:45:54] product and it's now made even better
+[0:45:55] with the new AG1 Pro formula. If you
+[0:45:58] would like to try AG1 Pro, you can go to
+[0:46:00] drinkaga1.com/huberman
+[0:46:03] to get a special offer. AG1 is giving
+[0:46:05] away a free bottle of omega-3 co-enzyme
+[0:46:07] Q10 with your first subscription. Again,
+[0:46:10] go to drinkag1.com/huberman
+[0:46:13] to get a free bottle of omega-3
+[0:46:14] co-enzyme Q10 with your first AG1
+[0:46:17] subscription. As long as we're talking
+[0:46:19] about assessing the emotions or the
+[0:46:21] perspective of another, what are some
+[0:46:23] favorite experiments either yours or
+[0:46:25] others in the field about perception and
+[0:46:28] assessment of emotions? You know, I've
+[0:46:30] seen a number of studies like, oh, you
+[0:46:31] know, people with lesions here or there
+[0:46:32] see scary faces as not that scary.
+[0:46:35] What's what's the sort of general
+[0:46:37] conclusions about those studies now in
+[0:46:39] 2026? Because I have a feeling a lot of
+[0:46:41] what was in the textbooks when I was a
+[0:46:43] graduate student may may not still hold
+[0:46:45] up. When I started as a posttock in the
+[0:46:47] early 90s with Damasio, I started my
+[0:46:51] career on that topic by studying this uh
+[0:46:53] this famous patient SM who had selective
+[0:46:56] bilateral amydala lesions and the
+[0:46:57] finding was that she's unable to
+[0:47:00] perceive fear in emotional facial
+[0:47:02] expressions and
+[0:47:03] >> perceive fear. Could she feel fear?
+[0:47:04] >> Subsequently, we also did that. It took
+[0:47:07] for some reason because it's just harder
+[0:47:08] to do. It took some years. Um Justin
+[0:47:11] Feinstein who has the float uh clinic in
+[0:47:13] Maui was the first author on that paper.
+[0:47:15] So some years later we took that same
+[0:47:17] patient to haunted houses. We took her
+[0:47:19] to an exotic pet store where there were
+[0:47:21] snakes and spiders. We showed her horror
+[0:47:23] movies, a whole bunch of things and
+[0:47:25] found also she doesn't seem to
+[0:47:27] consciously experience fear either. So
+[0:47:30] there seem to be this very specific
+[0:47:32] deficit for fear tied to the amydala
+[0:47:35] from one patient. So that's a big
+[0:47:37] caveat. Does this generalize? Well, yes.
+[0:47:40] The amiga is important for fear, but
+[0:47:42] just saying it's a center for fear is
+[0:47:44] overly simplistic. It's it's embedded in
+[0:47:46] a big network of structures. There's
+[0:47:48] individual differences and so on and so
+[0:47:50] forth. The perception of emotions has
+[0:47:53] been has been studied a lot and probably
+[0:47:55] has been the topic of the most
+[0:47:57] acrimonious debates to some extent. So
+[0:47:59] Paul Ecman back in the 70s uh famous by
+[0:48:02] the way I dedicate my forthcoming book
+[0:48:04] to him because he probably had the
+[0:48:06] biggest impact on modern emotion science
+[0:48:09] of any single person. But his claim to
+[0:48:12] fame was he went to New Guinea and you
+[0:48:14] know these non-western cultures and
+[0:48:16] claimed that universally across all
+[0:48:19] cultures people recognize these
+[0:48:20] so-called basic emotions from facial
+[0:48:22] expressions. If you Google this now, you
+[0:48:24] know, emotional facial expressions, you
+[0:48:26] will find pictures of emotional facial
+[0:48:29] expressions. Lots of AI companies and
+[0:48:32] computer algorithms are predicated on
+[0:48:34] the idea that you can read out the
+[0:48:36] emotion from somebody's facial
+[0:48:37] expression. He had six of them.
+[0:48:39] Happiness, surprise, fear, anger,
+[0:48:41] disgust, and sadness. Sometimes contempt
+[0:48:44] um added in there. Well, it turns out
+[0:48:46] it's more complicated than that. And
+[0:48:47] actually Lisa Felman Barrett of all
+[0:48:49] people co-authored a paper with me and
+[0:48:52] three other people a couple of years
+[0:48:54] back that uh the title was something
+[0:48:57] like emotional facial expressions
+[0:48:59] reconsidered. We took stock of the whole
+[0:49:01] literature and asked is this really
+[0:49:03] true? Is Ecman's claim really true? Can
+[0:49:04] you tell how someone feels from their
+[0:49:06] facial expression? And the answer is
+[0:49:08] well not nearly as well as you would
+[0:49:10] think and in general not. And the
+[0:49:13] reasons are methodological and once you
+[0:49:15] think about it, they make a lot of
+[0:49:16] sense, which is that the emotional
+[0:49:18] facial expressions that Ecman pioneered,
+[0:49:20] I used them in the first 1994 nature
+[0:49:23] paper with his amydala leion patient,
+[0:49:25] >> those aren't actually what you normally
+[0:49:26] see walking around the world. People
+[0:49:28] don't have those facial expressions.
+[0:49:30] They are posed facial expressions by
+[0:49:32] actors. Yeah, they're very extreme. And
+[0:49:34] then the task is like, well, here's a
+[0:49:36] list of emotion words, happiness, fear,
+[0:49:39] anger, disgust, etc. Pick the one that
+[0:49:41] matches the face. That's the typical
+[0:49:43] task.
+[0:49:43] >> So, it's multiple choice.
+[0:49:44] >> Look, if I gave you a bunch of emoticons
+[0:49:46] and a bunch of emotion words and ask you
+[0:49:48] to match them, you could do that very
+[0:49:50] easily. Wouldn't show you anything about
+[0:49:52] emotions. It shows you that there's by
+[0:49:55] convention there's some association
+[0:49:58] between these things and these things.
+[0:49:59] That's it. So when you actually see real
+[0:50:03] world facial expressions and when
+[0:50:04] instead of giving a list you just ask
+[0:50:06] people just generate freely a word that
+[0:50:08] describes that you get something that's
+[0:50:10] much has much more variation much more
+[0:50:13] heterogeneity which then was part of the
+[0:50:15] ingredient for Lisa's whole claim that
+[0:50:19] variation is the norm and that in fact
+[0:50:21] emotions are in some sense constructed
+[0:50:24] rather than packages to be found in
+[0:50:26] nature which I disagree with that part
+[0:50:28] but emotional facial expression for the
+[0:50:30] perception of emotions in others and in
+[0:50:33] animals. Um, I was just talking before
+[0:50:35] coming in here to one of your colleagues
+[0:50:37] about your cute dog and they've done
+[0:50:41] studies, there's several studies now
+[0:50:43] where dog owners, if you ask them, can
+[0:50:45] you tell if your dog feels guilty when
+[0:50:48] you come home because it did something
+[0:50:49] bad? Dog owners are pretty convinced
+[0:50:52] they can tell. Well, if you do a control
+[0:50:54] experiment, they're a chance. They think
+[0:50:56] they can tell. So our conviction that we
+[0:50:59] can tell something about people or
+[0:51:01] animals, their their emotion states just
+[0:51:03] from looking at the facial expressions,
+[0:51:05] our conviction vastly outstrips our
+[0:51:07] accuracy. We're pretty convinced we can
+[0:51:09] do it. We're mostly not so accurate,
+[0:51:11] which makes sense because ordinarily
+[0:51:14] it's not the it's not just some facial,
+[0:51:16] you know, if I see you now and you look
+[0:51:18] sad, I wouldn't stop there and I but I
+[0:51:20] would say Andrew Huberman is sad. I
+[0:51:22] would ask you how are you feeling?
+[0:51:24] What's going on? I would probe you and
+[0:51:26] get a lot more information. Maybe you
+[0:51:27] would say, "Oh, no. I'm just this drink
+[0:51:29] I had tasted bad or something, you know,
+[0:51:31] that caused me to make a certain facial
+[0:51:32] expression." So, in general, these
+[0:51:35] artificial lab situations where all you
+[0:51:37] see is a picture of a face and asked for
+[0:51:39] the emotion. We don't do that in the
+[0:51:41] real world anyway. We would probe
+[0:51:43] further. We would take into account the
+[0:51:45] whole circumstances. We would ask the
+[0:51:47] person and then you can disambiguate
+[0:51:49] these emotions. So it's not that we
+[0:51:51] cannot tell what emotions people or
+[0:51:53] animals feel, but we don't do so
+[0:51:55] normally just from a single slice like a
+[0:51:58] facial expression. I feel like at least
+[0:52:00] in the context of romantic partnership,
+[0:52:03] so much more of our assessment of
+[0:52:05] another person and their assessment of
+[0:52:07] us is actually a mathematical
+[0:52:09] integration of noticing when frequency
+[0:52:12] of speech
+[0:52:14] >> or frequency of text is heading in a
+[0:52:16] negative direction relative to the mean,
+[0:52:19] right, at a particular time of day. And
+[0:52:20] I think the brain is really good at
+[0:52:21] saying like like normally somebody's
+[0:52:23] pretty communicative in the morning but
+[0:52:25] less at night for sake of example. But
+[0:52:27] suddenly they're like a little more tur
+[0:52:29] with us in the morning but maybe not
+[0:52:30] even harshness. There's fewer words
+[0:52:32] exchange and then the the the brain
+[0:52:34] doesn't think oh like they they looked
+[0:52:36] angry or they looked frustrated. They
+[0:52:38] you go oh like they were like a little
+[0:52:40] little quieter this morning than than
+[0:52:42] usual. And then if it's a very quiet
+[0:52:44] person you have you have fewer data
+[0:52:45] points to work from. But we become
+[0:52:47] exquisitely tuned to this.
+[0:52:49] >> Absolutely. much more than like, oh,
+[0:52:51] they're they're carrying their shoulders
+[0:52:53] differently. At the extremes, I think we
+[0:52:54] see this. Somebody walks in the door and
+[0:52:56] you can tell like they're sad.
+[0:52:57] >> We're looking for change like it's a
+[0:52:59] time series. The number of times or even
+[0:53:02] just like if you've probably had this
+[0:53:04] experience like in an email with a
+[0:53:05] colleague, let's move it to a different
+[0:53:07] domain. There's a certain kind of
+[0:53:08] language that's used in an email that's
+[0:53:10] different than the usual language. Like
+[0:53:12] they've never really used these words
+[0:53:13] before. You don't even identify which
+[0:53:15] words those are.
+[0:53:16] >> Yeah. years ago there was this chart
+[0:53:18] that some graduate student or postoc put
+[0:53:20] out that if the director of a lab signs
+[0:53:23] off with their name it means one thing
+[0:53:24] if they punctuate their email it means
+[0:53:26] like let's meet you know like you're in
+[0:53:28] trouble you know if there's [laughter]
+[0:53:29] just a dash with a first initial you
+[0:53:31] know there's all this and you kind I
+[0:53:33] laugh too and then you realize you go
+[0:53:34] wow like they're really paying attention
+[0:53:36] to all these subtle cues but those seem
+[0:53:39] like the kind of cues that we rely on
+[0:53:41] much more than than like do they look
+[0:53:44] sad do they sound happy And I think we
+[0:53:46] vastly underestimate this. I don't know
+[0:53:48] if there are any good studies of this,
+[0:53:49] but this feels like the
+[0:53:50] >> more bunch of Yeah, we just finished a
+[0:53:53] study like this where people texted.
+[0:53:54] That's all they had. But it's dynamic.
+[0:53:56] It's a conversation. There's like a
+[0:53:58] whole transcript. And then the question
+[0:54:00] is, what can you tell about a person
+[0:54:01] both in terms of their stable
+[0:54:03] personality and their current mood just
+[0:54:05] from that text? It turns out you can
+[0:54:07] tell a lot. So people did the study
+[0:54:09] recently where people generated I think
+[0:54:11] it's about a page or so of sort of diary
+[0:54:14] type written text and asked just large
+[0:54:18] language models like GPT or Claude to
+[0:54:21] analyze that text without knowing
+[0:54:23] anything else and just tell me the the
+[0:54:25] personality profile and it's as good as
+[0:54:28] the ground truth or as another person or
+[0:54:30] a clinician would be
+[0:54:31] >> as good as a clinician. It gets close to
+[0:54:34] the ground truth and it's as good as
+[0:54:36] like a a a good friend or a person who
+[0:54:38] knows the person. So if you score the
+[0:54:40] big five, which is what they did in that
+[0:54:42] study, extraversion, conscientiousness,
+[0:54:43] neuroticism, etc.,
+[0:54:44] >> you can tell that AI can tell that just
+[0:54:47] from a transcript of text quite well. So
+[0:54:51] the information is there clearly in what
+[0:54:54] we say, what we write and the order in
+[0:54:56] which that progresses that tells a lot
+[0:54:59] about a person enough that AI can
+[0:55:02] basically diagnose your personality from
+[0:55:04] just text. It's almost like our brain is
+[0:55:07] very attuned to when we don't get what
+[0:55:10] we were expecting to get in terms of the
+[0:55:12] amount of interaction. Like I have some
+[0:55:14] people that clean up the graffiti on the
+[0:55:16] street where I live and there's always
+[0:55:19] an exchange of hello or like a hi if one
+[0:55:21] of us is on a call or busy
+[0:55:23] >> and I can say with certainty because
+[0:55:25] this happened the other day that if I
+[0:55:26] looked over and the person saw me and
+[0:55:28] then turned away even though we we I
+[0:55:29] don't know their name. Well maybe I do
+[0:55:31] now but that there's very little
+[0:55:33] familiarity except with we always
+[0:55:35] acknowledge the other's presence. Yeah.
+[0:55:37] >> If they were to do that I would think
+[0:55:39] gosh like this person's like maybe
+[0:55:42] upset. One of the key ingredients of
+[0:55:44] Lisa Feldman Barrett's thinking
+[0:55:45] certainly in recent years which is
+[0:55:47] prediction that the most of the
+[0:55:49] information comes from the when there's
+[0:55:51] a mismatch between what you're
+[0:55:53] predicting about a circumstance and
+[0:55:55] something that's just different because
+[0:55:56] that carries information something
+[0:55:57] changed right like what you were saying
+[0:56:00] um and and Lisa's work Lisa's thinking
+[0:56:02] on emotions incorporates prediction in a
+[0:56:06] big way these days that there's
+[0:56:07] something that you're predicting about
+[0:56:08] the world but suddenly you know there's
+[0:56:10] a tiger or something unexpected and you
+[0:56:12] need to incorporate that and that
+[0:56:14] carries important information but
+[0:56:16] absolutely we're always predicting and
+[0:56:19] there's we're taking into account things
+[0:56:21] that change like the facial expressions
+[0:56:23] you know the original studies like the
+[0:56:25] ones I started doing as a postoc where
+[0:56:27] you just show these static Paul Ecman
+[0:56:30] pictures of facial affect well we never
+[0:56:32] see that in people it's always dynamic
+[0:56:35] the face is changing and so Philip Shins
+[0:56:37] Rachel Jack colleagues in Scotland for
+[0:56:40] instance have studied this in great
+[0:56:41] detail and used dynamic actual videos of
+[0:56:44] people making faces and asked at what
+[0:56:47] point does the brain start to represent
+[0:56:49] different emotions depending on not how
+[0:56:51] the face looks but how the face is
+[0:56:53] changing.
+[0:56:55] dynamics are everywhere. It's super
+[0:56:56] important
+[0:56:57] >> because when we look at babies and they
+[0:56:59] start to smile for the first time or
+[0:57:01] they express what we think is, you know,
+[0:57:03] humor or something like that, we are so
+[0:57:04] tuned to faces because they they can't
+[0:57:06] really do much. And whether or not
+[0:57:08] they're interacting with us or not is
+[0:57:11] really dependent on our behavior.
+[0:57:13] There's a lot of control there. We're
+[0:57:14] putting them in front of us. As they
+[0:57:16] develop more autonomy, then these sorts
+[0:57:18] of dynamics really emerge. Right. The
+[0:57:20] face I mean the face is visible and the
+[0:57:22] face the human face has way more muscles
+[0:57:24] and control than other animals do. Great
+[0:57:27] apes have similar sets of muscles but
+[0:57:29] monkeys or your dog. You can't make
+[0:57:32] those kinds of faces. It just side every
+[0:57:34] once in a [laughter] while and I project
+[0:57:36] onto him what that's about. But he's a
+[0:57:38] real sweetie. I had another bulldog mut.
+[0:57:40] They're both mutza who is much much more
+[0:57:43] coarse, less affectionate. This one is
+[0:57:44] like pure butter. But of course I don't
+[0:57:46] know what's going on in his head. He
+[0:57:48] could be thinking like this guy's the
+[0:57:49] biggest jerk in the world, you know,
+[0:57:50] like I we should be walking right now.
+[0:57:52] This patient SM who had bilateral
+[0:57:55] amydala lesions, could she experience
+[0:57:58] autonomic arousal? Could she experience
+[0:58:00] stress? Could she experience anxiety
+[0:58:02] under any conditions?
+[0:58:03] >> She could. Um, and that and that's
+[0:58:05] really important. So, it's you might
+[0:58:07] think that, you know, it's just like the
+[0:58:09] whole emotion system is gone. You just
+[0:58:11] sort of denerated the entire autonomic
+[0:58:13] nervous system and that's why you don't
+[0:58:15] have emotions. But it's much more
+[0:58:17] specific than that and fits with
+[0:58:19] thinking about emotions as evolved
+[0:58:22] functional modules for dealing with
+[0:58:24] particular types of statistically
+[0:58:27] recurring environmental challenges that
+[0:58:29] share some some challenging feature in
+[0:58:32] common. So she doesn't have fear to
+[0:58:35] external stressors like we went with her
+[0:58:38] into a haunted house. She poked the
+[0:58:41] monsters and wanted to touch things.
+[0:58:42] Same with the u the snakes and the
+[0:58:44] spiders in the pet store. But we did a
+[0:58:47] study again Justin Feinstein uh I think
+[0:58:49] was the first author on this one as well
+[0:58:52] with her and with a couple two maybe or
+[0:58:55] three patients who had similar lesions
+[0:58:58] in collaboration with Renee um Hurleman
+[0:59:00] from Germany where we put a mask on them
+[0:59:04] and in have had them inhale carbon
+[0:59:06] dioxide. If you do that you get a panic
+[0:59:09] attack in about half the population
+[0:59:11] because it makes you feel like you're
+[0:59:12] suffocating. So as soon as you get that
+[0:59:14] carbon dioxide in, it changes the pH in
+[0:59:16] your blood that's detected by the brain
+[0:59:19] and it you get this massive air hunger
+[0:59:21] like you suddenly can't breathe. That's
+[0:59:22] what your so your brain goes into this
+[0:59:24] alarm mode of some suffocation like a
+[0:59:27] panic and she and the other amydala
+[0:59:29] patients had a full-blown panic attack
+[0:59:32] when they inhaled the carbon dioxide. So
+[0:59:34] this intraceptive signal seems not to
+[0:59:37] depend on the amydala and to depend on
+[0:59:39] other brain stem circuits. Uh so we had
+[0:59:42] a a very important association between
+[0:59:44] different types of fear which is I think
+[0:59:47] a bottom line story for the way that the
+[0:59:50] science is informing our folk psychology
+[0:59:52] which is these categories we have like
+[0:59:54] anger or fear or disgust there many
+[0:59:58] varieties. It's much more finely
+[0:59:59] differentiated than that once you look
+[1:00:01] at the science. And once you look at the
+[1:00:02] brain systems, they're distinct brain
+[1:00:04] systems in this instance for fear to
+[1:00:07] something out there in the world versus
+[1:00:08] panic of something happening inside you
+[1:00:10] like having a heart attack or not
+[1:00:11] getting enough air.
+[1:00:12] >> I see. Yeah.
+[1:00:13] >> Maybe we could talk a little bit about
+[1:00:15] the bodily representation of these
+[1:00:18] things we're calling emotions. Uh years
+[1:00:20] ago, I posted on social media a picture
+[1:00:22] of a figure from your paper with uh from
+[1:00:25] your book, excuse me, with David
+[1:00:26] Anderson, which was describing a study
+[1:00:28] where people self-described, so it's
+[1:00:31] purely subjective record reporting as I
+[1:00:33] recall,
+[1:00:34] >> where in their body they felt different
+[1:00:36] emotions. So, it's kind of like a heat
+[1:00:38] map in the forehead for certain um
+[1:00:40] emotions and in the whole body for
+[1:00:42] others. And and there were wide range of
+[1:00:43] emotions. And admittedly, it's
+[1:00:45] subjective report, but does this hold
+[1:00:48] up? Like I think to myself like where do
+[1:00:50] I feel sadness like heartache? Well I
+[1:00:52] tend to feel it around my heart but
+[1:00:53] maybe that's because it's called
+[1:00:54] heartache. Where do I feel anger? Well
+[1:00:56] extreme anger I'm going to feel as a
+[1:00:58] whole body experience. Same thing with
+[1:00:59] awe. So what if anything is important
+[1:01:03] about the regularity
+[1:01:06] andor the variation in kind of where in
+[1:01:09] our body we feel emotions. Some people
+[1:01:11] would say this is like their whole
+[1:01:13] experience of life. They feel things in
+[1:01:15] their body all the time. Some people
+[1:01:17] feel I think are more cerebral. They
+[1:01:20] they kind of think things more than they
+[1:01:21] feel things.
+[1:01:22] >> You know, I think it's a great it's a
+[1:01:23] great question. I mean that figure that
+[1:01:25] you're alluding to came from a paper I
+[1:01:27] think in PNAS by Lowry Newman and
+[1:01:29] colleagues in Finland and he and his
+[1:01:32] colleague Haney Serimaki. They've done
+[1:01:34] some of the great uh great recent
+[1:01:36] studies also on uh experience of
+[1:01:40] emotions in humans using functional MRI.
+[1:01:42] But what you mentioned so the experiment
+[1:01:44] is I just give you a word right I'm not
+[1:01:47] actually making you feel the emotion I'm
+[1:01:49] asking you sadness draw you know where
+[1:01:53] on the body you think you would feel
+[1:01:54] that emotion [clears throat] so if you
+[1:01:56] think about it it's certainly not about
+[1:01:58] actual physiological changes in the body
+[1:02:00] nothing's measured in the body they
+[1:02:01] don't have electrodes on the body or
+[1:02:02] whatever there's people just drawing on
+[1:02:04] a little mannequin where they think they
+[1:02:06] would feel the emotion it's also not
+[1:02:08] about conscious experiences of emotion
+[1:02:10] I'm not making I'm not showing you sad
+[1:02:11] movie clips or anything like that. I'm
+[1:02:13] giving you a word, a single word. So,
+[1:02:15] it's about concepts. It's about where in
+[1:02:18] the body, people's concept of sadness or
+[1:02:21] happiness or fear where that corresponds
+[1:02:24] to changes in the body. Now, that's an
+[1:02:27] interesting question, but you have to
+[1:02:28] narrow it down to that which is a
+[1:02:30] fundamental problem with most emotion,
+[1:02:33] including that one. I think the title, I
+[1:02:35] forget what the title is, but it's
+[1:02:36] something like bodily maps of emotions
+[1:02:38] or bodily maps of subjective experience.
+[1:02:40] Maybe even it should be something like
+[1:02:43] people's concept of where in the body
+[1:02:46] emotion words are associated with
+[1:02:48] changes or something like that. What's
+[1:02:50] interesting about that study is that
+[1:02:53] Lowry has gone on to look at it in
+[1:02:55] different cultures. He's looked at it
+[1:02:57] developmentally across children and
+[1:02:59] asked how these concepts and where in
+[1:03:01] the body you would feel emotion develop.
+[1:03:03] So, it's super interesting work, but
+[1:03:05] it's ultimately about people's concepts
+[1:03:07] of how emotions correspond to changes in
+[1:03:09] the body, not the real actual changes in
+[1:03:12] the body. But then, as you were saying,
+[1:03:15] of course, there are real changes in the
+[1:03:17] body when you really feel an emotion as
+[1:03:19] well. And that's harder to study, but
+[1:03:22] people have studied it quite a bit with
+[1:03:23] a focus on the part of the brain that
+[1:03:26] gets a lot of input from the body, which
+[1:03:28] is a part of cortex called the insula.
+[1:03:31] And so there's lots and lots of work on
+[1:03:33] the insula. It gets input from all the
+[1:03:36] organs in your body, everywhere in your
+[1:03:37] body. So you know, from your heart, from
+[1:03:40] your liver, from your kidney. I had a
+[1:03:42] kidney stone not too long ago. We should
+[1:03:43] talk about the kid. Have you had a
+[1:03:44] kidney stone?
+[1:03:45] >> Don't. It's really interesting. You have
+[1:03:48] to pass it.
+[1:03:49] >> Eventually, it's passed. But it's uh it
+[1:03:51] evokes very interesting adaptive
+[1:03:53] behaviors. Well, just as an aside uh
+[1:03:56] before I forget it. So normally for
+[1:03:58] pain, extra receptive pain, like we were
+[1:04:00] talking about the hot plate before, you
+[1:04:01] know, you pull your hand away or there's
+[1:04:03] some kind of reflex.
+[1:04:04] >> For the kidney stone, that's not
+[1:04:06] adaptive. There's nothing to pull away.
+[1:04:08] So my wife, this was in Switzerland,
+[1:04:10] we're in a remote little town in the
+[1:04:12] middle of the night. My wife sees me
+[1:04:13] curled up into a ball right on the floor
+[1:04:16] just kind of breathing loudly and kind
+[1:04:18] of curled up and making rocking motions
+[1:04:20] and goes, "What's wrong?" And I tell
+[1:04:22] her, "Well, I have a kidney stone." And
+[1:04:24] then she asked me, "Can't you just stop
+[1:04:25] that behavior? You know, can we get on a
+[1:04:27] plane and fly to the US so you can get
+[1:04:29] ultrasound, maybe get treated for the
+[1:04:31] kidney stone? Can you stop curling up
+[1:04:32] into a ball and, you know, making
+[1:04:34] rocking motions?" And I was kind of
+[1:04:36] thinking about that through my haze of
+[1:04:38] pain and said, "Well,
+[1:04:40] >> no, it's kind of like the hot plate and
+[1:04:42] pulling away. It's a really strongly
+[1:04:45] motivated behavior to just kind of
+[1:04:46] withdraw basically." So it was a very
+[1:04:48] interesting adaptive behavior. and she
+[1:04:51] called, you know, the equivalent of 911.
+[1:04:54] And in the middle of the guy of the
+[1:04:55] night, some guy came down and uh, you
+[1:04:58] know, put a bunch of opiates into me and
+[1:05:02] he kept having the scale of, you know,
+[1:05:04] on a scale from 0 to 10, how painful is
+[1:05:06] it? I would sort of go from 10 to 9.5
+[1:05:10] and it was extremely painful. But
+[1:05:11] eventually they got me to a clinic
+[1:05:13] there. I passed the stone and it was an
+[1:05:16] interesting experience. I mean, it's
+[1:05:17] pain, but just like what we were talking
+[1:05:19] about for emotions, pain is not pain. If
+[1:05:22] you have a pain in your eye or you have
+[1:05:23] a pain from a hot stove, this is a very
+[1:05:26] different type of pain and one that's I
+[1:05:29] would say worse than the hot stove. It's
+[1:05:30] like because you can't escape
+[1:05:32] >> when you can't rub it,
+[1:05:33] >> you can't do anything. Just curl up into
+[1:05:35] a ball and pray. I mean, it it was
+[1:05:36] horrible. At any rate, so at that
+[1:05:39] moment, had I been in an MRI study, my
+[1:05:42] insula would have been strongly
+[1:05:44] activated. So this you know this is a
+[1:05:46] region of the brain that according to
+[1:05:49] theorists but Craig was the first
+[1:05:51] Antonio Damasio has theories in a
+[1:05:54] similar vein this would be the substrate
+[1:05:56] for the conscious experience of the
+[1:05:59] emotion or of pain in your body. So it's
+[1:06:01] getting all this input from your body
+[1:06:03] and representing the changes in your
+[1:06:05] body as a conscious experience. This was
+[1:06:08] the original theory that William James
+[1:06:10] had back in 1884. He wrote this paper in
+[1:06:12] mind. what is an emotion? And his theory
+[1:06:15] was that you see the bear, you run away,
+[1:06:18] your heart rate goes up, and then you
+[1:06:20] feel the emotion which is a consequence
+[1:06:23] of you perceiving all the changes in
+[1:06:24] your body that happened first. Now,
+[1:06:27] that's I think the conscious experience
+[1:06:29] of emotion. Yes. And a lot of that
+[1:06:31] depends on representing perceiving
+[1:06:34] everything that changes in in our body.
+[1:06:36] But to my mind, that leaves the question
+[1:06:39] of what the emotion is. That's still
+[1:06:40] antecedent to that. You first have to
+[1:06:42] trigger all the changes in your body and
+[1:06:43] run away. What's doing that? Right?
+[1:06:45] >> That's the emotion. The conscious
+[1:06:47] experience may well come later and
+[1:06:48] unfold over some time. But the emotion
+[1:06:51] state separate from the conscious
+[1:06:53] experience as I've emphasized would be
+[1:06:55] the one that actually motivates all the
+[1:06:56] behaviors and all the different changes
+[1:06:57] in your body. So long answer to your
+[1:07:00] question. There's there's two different
+[1:07:03] ways of talking about the role of the
+[1:07:04] body. The one that you alluded to in
+[1:07:07] this figure from Loi Newman and
+[1:07:08] colleagues that we reproduced in her
+[1:07:10] book is about people's concepts of
+[1:07:12] emotions and they're certainly tied to
+[1:07:15] changes in the body. Whether or not
+[1:07:17] those are accurate, I think we just
+[1:07:20] don't know. So, is it the case that
+[1:07:22] those drawings that they have uh in in
+[1:07:24] in the figure that we were speaking
+[1:07:25] about, if you put electrodes on, you
+[1:07:27] measured blood flow changes, that's
+[1:07:29] actually where things change when you
+[1:07:30] have awe or anger. I think we just don't
+[1:07:33] know. I think that's a set of studies
+[1:07:34] that remains to be done.
+[1:07:36] >> But then in addition there is the fact
+[1:07:38] that all of the changes in your body are
+[1:07:40] represented in your brain in the insula
+[1:07:42] and that seems to be a big part of the
+[1:07:45] substrate for feeling the emotion for
+[1:07:48] the conscious experience of the emotion
+[1:07:50] and other things nausea pain kidney
+[1:07:52] stones. So it's not limited to emotions
+[1:07:55] but the strong feelings that we have
+[1:07:57] like you know you have a tightness in
+[1:07:59] your chest uh if you're feeling really
+[1:08:01] sad for example that would be
+[1:08:03] represented in your insula
+[1:08:05] >> because in eastern medicine there's
+[1:08:07] strong beliefs about different organs
+[1:08:09] being associated with different
+[1:08:11] emotional states even like gall you know
+[1:08:13] someone has a lot of gallbladder you
+[1:08:15] know but then again I I I always have to
+[1:08:18] remind people that a key feature of
+[1:08:20] schizophrenia and psychosis of other
+[1:08:22] kinds is clang associations. Two words
+[1:08:24] sound alike and some and people link
+[1:08:26] them. And so we also are subject to this
+[1:08:28] in a much milder way in the world of of
+[1:08:31] health and science and especially in the
+[1:08:32] public discourse. People will say, "Oh,
+[1:08:34] you know, a a walnut looks like a brain.
+[1:08:36] Walnuts are good for your brain." Well,
+[1:08:38] they have some fatty acids that are
+[1:08:40] probably good for for neurons, but it
+[1:08:42] has absolutely nothing to do with the
+[1:08:43] shape of the walnut. It's amazing how
+[1:08:44] these ideas can kind of perpetuate.
+[1:08:46] >> Well, and I think there is some truth to
+[1:08:48] them. I think it just has the honest
+[1:08:50] answer is it has not been tested. Mhm.
+[1:08:52] >> So if you ask someone like Lisa Feldman
+[1:08:54] Barrett has has has made this point
+[1:08:56] repeatedly that there really is no
+[1:08:58] systematic association between specific
+[1:09:01] emotions and specific changes in your
+[1:09:03] body. Well, if you look at those
+[1:09:04] studies, people put a few electrodes on
+[1:09:06] and they measure, you know, heart rate
+[1:09:08] changes, blood pressure changes, etc. It
+[1:09:10] is extremely crude. You're looking at a
+[1:09:13] tiny tiny slice of what's going on in
+[1:09:15] your body. What you would want to do is
+[1:09:17] have a detailed highdimensional readout
+[1:09:19] of okay your your gallbladder and your
+[1:09:22] liver and your kidney and your heart and
+[1:09:25] changes all over your body and look at
+[1:09:28] that and ask is there is there some kind
+[1:09:30] of association between specific emotion
+[1:09:32] states and changes some kind of complex
+[1:09:35] change in your body and I would bet that
+[1:09:37] there is but we just don't have those
+[1:09:39] data yet so those studies remain to be
+[1:09:41] done
+[1:09:41] >> yeah they really should be done because
+[1:09:43] I could make up a story where if someone
+[1:09:47] or an animal feels extreme anger like of
+[1:09:49] the sort that they would have right
+[1:09:50] before they were in a fight that certain
+[1:09:53] immune organs would deploy a bunch of
+[1:09:55] things that prepare for wound healing or
+[1:09:58] prepare for resilience in the in the
+[1:09:59] aftermath. That that just stands to
+[1:10:01] reason. I of course I have no data for
+[1:10:03] that but
+[1:10:04] >> well and the link between the brain and
+[1:10:05] the body I mean we now understand that
+[1:10:08] that is so detailed and so intricate
+[1:10:10] that really brain and body are very very
+[1:10:12] tightly coupled and we do know that
+[1:10:15] there are signatures they're distributed
+[1:10:18] they're complicated but Lisa Filman
+[1:10:19] Barrett herself in collaboration with
+[1:10:21] Tor has published neuroiming studies
+[1:10:24] showing that for basic emotions like
+[1:10:27] anger and fear and sadness and so on
+[1:10:30] there are reliable signatures of brain
+[1:10:32] activation. They're distributed. They're
+[1:10:35] spread out. They're complicated. They're
+[1:10:36] not just like in one place. But given
+[1:10:38] that, given that association between
+[1:10:40] emotions and patterns of the brain and
+[1:10:42] the fact that the brain and the body are
+[1:10:43] so intimately tied together, I think
+[1:10:45] it's a completely reasonable hypothesis
+[1:10:47] that you would find a similar
+[1:10:49] highdimensional signature of changes
+[1:10:51] throughout your body that are
+[1:10:53] systematically associated with certain
+[1:10:55] types of emotions. I had a thought
+[1:10:57] spring to mind based on our earlier
+[1:10:59] discussion. From the perspective of
+[1:11:01] media and advertising, it makes perfect
+[1:11:03] sense why all media and advertising is
+[1:11:06] incentivized to get you to prioritize an
+[1:11:10] emotion to the point where it takes over
+[1:11:12] behavior to go click and buy something
+[1:11:14] or to vote a certain way or to hate a
+[1:11:16] certain group or to like a certain
+[1:11:18] group. And so really what they're
+[1:11:20] fighting for is this prioritization
+[1:11:22] thing like like the the path to behavior
+[1:11:24] is through the prioritization
+[1:11:26] >> in attentional capture. It captures your
+[1:11:28] attention
+[1:11:29] >> which is what emotions are are designed
+[1:11:31] to do. And once you've captured people's
+[1:11:33] attention you have a captive audience
+[1:11:35] and you can control them much more.
+[1:11:37] >> And in some sense it's obvious right you
+[1:11:39] get people emotional they're more likely
+[1:11:40] to behave in a certain way versus
+[1:11:42] another. I think we underestimate the
+[1:11:44] extent to which all day long we are
+[1:11:45] bombarded with these signals like like
+[1:11:47] subtle advertising doesn't really work
+[1:11:50] well someone [clears throat] said I
+[1:11:52] don't know who said it but you know all
+[1:11:53] AB testing leads to like you know sex or
+[1:11:56] violence because if you really just look
+[1:11:58] at what's likely to grab people's
+[1:12:00] attention you know eventually you
+[1:12:02] regress into the hypothalamus the more
+[1:12:04] primitive states like inspire more
+[1:12:06] attention which tells you a lot about
+[1:12:08] the world you know and there and there
+[1:12:09] are ethical lines and there there are
+[1:12:11] societal lines where where you say, "No,
+[1:12:13] no, that's that's too extreme, too much
+[1:12:15] violence, too much skin." But it's all
+[1:12:16] veering in the like toward the
+[1:12:18] hypothalamus, so to speak. It's all
+[1:12:20] getting more and more primitive. There's
+[1:12:21] a lot of processing that goes on in all
+[1:12:23] these subcortical structures and
+[1:12:24] certainly what we understand best in
+[1:12:26] terms of emotions are all these
+[1:12:28] subcortical circuits and a lot of that
+[1:12:30] is below the radar of our conscious
+[1:12:33] awareness.
+[1:12:34] >> I'd like to take a quick break and
+[1:12:36] acknowledge our sponsor, Function.
+[1:12:38] Function provides over 160 advanced lab
+[1:12:41] tests to give you a clear snapshot of
+[1:12:43] your bodily health. This snapshot gives
+[1:12:45] you insights into your heart health,
+[1:12:47] your hormone health, autoimmune
+[1:12:48] function, nutrient levels, and much
+[1:12:50] more. They've also recently added access
+[1:12:52] to advanced MRI and CT scans. Function
+[1:12:56] not only provides testing of over 160
+[1:12:58] biomarkers key to your physical and
+[1:12:59] mental health, it also analyzes these
+[1:13:02] results and provides recommendations for
+[1:13:04] improving your health from top doctors.
+[1:13:06] For example, in a recent test with
+[1:13:08] function, I learned that some of my
+[1:13:09] blood lipids were slightly out of range.
+[1:13:12] As a result, I decided to start
+[1:13:13] supplementing with nattokinise, which
+[1:13:16] can naturally help reduce LDL
+[1:13:17] cholesterol, and it did. In a follow-up
+[1:13:20] test, I could confirm that this strategy
+[1:13:21] worked. My blood lipids are now back
+[1:13:23] exactly where I want them. Comprehensive
+[1:13:25] lab testing of the sort that function
+[1:13:27] offers is just so important for health.
+[1:13:29] I mean, how else are you going to know
+[1:13:30] what's going on under the hood? And
+[1:13:32] while I've been doing blood work for
+[1:13:33] years, it used to be timeconuming,
+[1:13:35] complicated, and expensive. In fact, I
+[1:13:37] used to spend thousands of dollars per
+[1:13:39] year trying to get this kind of data.
+[1:13:41] And the data, frankly, were not all that
+[1:13:43] good. But now with Function, it's
+[1:13:45] extremely easy and affordable. A
+[1:13:47] Function membership is only a dollar a
+[1:13:49] day, $365 a year. And if you think about
+[1:13:52] the information it provides and the
+[1:13:53] health challenges it helps you avoid and
+[1:13:55] the proactive things that it can do for
+[1:13:57] you to enhance your health, I truly look
+[1:13:59] at it as a savings. To learn more, visit
+[1:14:02] functionhealth.com/huberman
+[1:14:04] and use the code huberman for a $50
+[1:14:07] credit towards your membership. Again,
+[1:14:08] that's functionhealth.com/huberman.
+[1:14:12] At the opposite extreme, what happens
+[1:14:15] when I go to like the mom and I see a
+[1:14:19] piece of art that just for some reason
+[1:14:21] makes me feel a certain way, maybe
+[1:14:24] sadness, maybe happiness. Do you think
+[1:14:26] that art of that sort is is able to
+[1:14:30] capture the circuitry related to
+[1:14:32] particular emotions across people? So
+[1:14:34] not just about my unique experience and
+[1:14:36] and art is subjective, right? So there's
+[1:14:38] things related to taste, but let's
+[1:14:40] assume this is abstract art. So there's
+[1:14:41] no apparent faces or animals or no
+[1:14:44] depictions of scenes. But let's say out
+[1:14:47] of a hundred people, you know, more than
+[1:14:49] half say, "Yeah, I look at that and I
+[1:14:51] just feel peace." Is it the case that
+[1:14:54] some art can tap into neural circuits or
+[1:14:56] some music can tap into neural circuits
+[1:14:58] independent of the lyrics? I mean, we
+[1:15:01] don't have the brain imaging presumably,
+[1:15:02] but there is a kind of a more
+[1:15:04] sophisticated example. We're not
+[1:15:06] regressing to the hypothalamus.
+[1:15:08] Absolutely.
+[1:15:09] >> But this is the stuff that like the
+[1:15:11] richness of life is also about that.
+[1:15:13] >> Sure.
+[1:15:13] >> Right. And so the interesting question
+[1:15:14] is which particular features in the
+[1:15:16] music or in the abstract art is it that
+[1:15:19] are driving those generalizable emotion
+[1:15:21] responses? And they're certainly there.
+[1:15:22] One of the earliest studies on emotion
+[1:15:24] actually was done by Anne Blood and
+[1:15:27] Robert Sattorii in the mid '9s or
+[1:15:29] something I believe using I'm pretty
+[1:15:31] sure using position tomography PET
+[1:15:34] rather than fMRI at the time. And what
+[1:15:36] they did was they played music to people
+[1:15:38] and I think they set it up so that you
+[1:15:40] and I could hear the same piece of
+[1:15:42] music. In your case, the music really
+[1:15:44] does something for you. And the
+[1:15:46] particular measure was does it send
+[1:15:48] shivers down your spine? Do you get like
+[1:15:50] chills, goosebumps from listening to the
+[1:15:52] music? And it does that for you, but not
+[1:15:54] for me. And in your case, same auditory
+[1:15:56] stimulus, different emotion. And from
+[1:15:59] the imaging, they show that the insula,
+[1:16:00] the structure we're just talking about,
+[1:16:02] the amygdala, several of these emotion
+[1:16:04] related structures are indeed activated
+[1:16:06] when you have shivers, chills down your
+[1:16:09] spine listening to music. For abstract
+[1:16:11] art, my Caltech colleague John Doherty
+[1:16:14] had a paper a little while ago where
+[1:16:16] again he found something generalizable.
+[1:16:18] decomposed abstract art into the
+[1:16:21] constituent sort of visual features that
+[1:16:23] you can feed it into a neural network
+[1:16:26] and get a representation of all the
+[1:16:28] different you know shades and colors and
+[1:16:31] the basic visual composition basic
+[1:16:33] visual features that constitute that and
+[1:16:36] from that you can reconstitute whether
+[1:16:38] or not it is liked or not liked whether
+[1:16:41] it's a pleasant whether people find it
+[1:16:43] pleasant or unpleasant so it doesn't
+[1:16:46] come out of nowhere yes there's
+[1:16:47] something about even if it's abstract,
+[1:16:49] even if it's abstract music or if it's
+[1:16:52] abstract art, there's some auditory or
+[1:16:54] visual features there that are
+[1:16:57] generalizable and that can be used to
+[1:16:59] evoke emotions. And the big question
+[1:17:02] then is, can we link that back?
+[1:17:04] Obviously, the emotions didn't evolve in
+[1:17:06] order to appreciate abstract art, but
+[1:17:08] they evolved to detect tigers and bears
+[1:17:10] and other things. Well, are there
+[1:17:12] similar kinds of visual features?
+[1:17:14] Presumably, there are. So there's some
+[1:17:16] visual features in the real world that
+[1:17:19] for which particular emotions evolved
+[1:17:22] that can also then find find a place
+[1:17:25] again in abstract art and evoke similar
+[1:17:27] emotions. That's the basic story. But
+[1:17:29] the answer to your question is yes. Even
+[1:17:31] for these very uniquely human sort of
+[1:17:33] abstract kinds of stimuli. Uh people
+[1:17:35] have done work and found particular
+[1:17:37] features in those stimuli that will
+[1:17:39] trigger emotion states in humans and and
+[1:17:42] they're great stimuli to use. talk a
+[1:17:44] little bit about um hard wiring versus
+[1:17:47] learned emotional states at the brain
+[1:17:49] level. We know there are brain areas
+[1:17:52] that process faces just the organization
+[1:17:55] of two dots and a vertical line and a
+[1:17:57] horizontal line below it. There are
+[1:17:58] neurons that like that organization of
+[1:18:01] features and I should know the answer to
+[1:18:03] the next question, but I don't. Are
+[1:18:06] there neurons that are tuned to a
+[1:18:08] smiling face versus a frowning face at
+[1:18:11] the level of like almost like like very
+[1:18:13] sparse emoji like level? We call them
+[1:18:15] units in the brain. Are there units that
+[1:18:16] are tuned to frowning faces or smiling
+[1:18:19] faces? And of course, you'd love to be
+[1:18:20] able to do the experiment in somebody
+[1:18:22] who was you had never been exposed to
+[1:18:24] them for the first time, but that's
+[1:18:25] impossible to do. So, right. Right.
+[1:18:27] >> I have to assume the experiment has been
+[1:18:30] at least thought about if not done.
+[1:18:32] >> Yeah. I mean, it's a great question. I
+[1:18:33] mean, you know, with respect to face
+[1:18:35] processing in general, the sort of
+[1:18:37] consensus is it's both hardwired and
+[1:18:40] innate in some sense that there's
+[1:18:42] something there in the brain already at
+[1:18:44] birth that's that's experience
+[1:18:46] independent. Uh but then it also depends
+[1:18:49] on normal maturation and development and
+[1:18:51] experience. And so people like Rebecca
+[1:18:53] Saxs at MIT for instance has done
+[1:18:56] functional neuroiming studies on on
+[1:18:58] babies and shown them faces and asked
+[1:19:00] the question how does this pulse system
+[1:19:02] develop? It's always a mixture. People
+[1:19:04] tend to think in terms of black and
+[1:19:06] white. It's you know it's hardwired and
+[1:19:07] innate or it's learned. Nothing is
+[1:19:10] either or there it's always both. A good
+[1:19:12] example is the visual word form area. So
+[1:19:14] there's regions in the brain that like
+[1:19:16] like the ones that my former Celtic
+[1:19:18] colleague Doris SA studied that are
+[1:19:20] specialized for faces, but there's also
+[1:19:22] a region in the brain typically on the
+[1:19:24] left in most people that's for
+[1:19:26] recognizing words, letters. Now [snorts]
+[1:19:28] that couldn't have evolved because uh
+[1:19:31] you know we we had a long history of
+[1:19:34] brain evolution before language written
+[1:19:36] language was was ever there. So the
+[1:19:38] question is how does it come about?
+[1:19:40] can't be hardwired or innate because
+[1:19:43] there wasn't long enough evolutionary
+[1:19:44] time to evolve a region of the brain for
+[1:19:46] figuring out words. But if you take a
+[1:19:48] look in preverbal infants at the
+[1:19:50] connectivity of this region that's going
+[1:19:52] to become specialized for processing
+[1:19:55] words once the infant can read, it's
+[1:19:58] already wired up in a way to other brain
+[1:20:00] regions that predisposes it to be able
+[1:20:03] to do those computations that with
+[1:20:06] experience it can later be used in order
+[1:20:08] to recognize words. I see. So there are
+[1:20:10] certain preset innate uh systems. Coming
+[1:20:14] back to your question, smiling versus
+[1:20:15] frowning faces, there are two parts to
+[1:20:18] it. The first part is I can find you a
+[1:20:20] single neuron in the brain that responds
+[1:20:23] selectively for anything you like.
+[1:20:25] There's like no shortage of them. But
+[1:20:27] those in general, those single neurons
+[1:20:30] don't do anything. The re or aren't
+[1:20:31] important to understand how the brain
+[1:20:33] works because the rest of the brain that
+[1:20:36] is getting its input from all these
+[1:20:38] neurons and all the downstream
+[1:20:40] processing is not like a reflex. It's
+[1:20:43] not listening to only that one neuron.
+[1:20:45] It's getting input from tens of
+[1:20:46] thousands of neurons. So at the
+[1:20:48] population level, if we record from
+[1:20:50] thousands of neurons and we ask from
+[1:20:52] that, is there information in a thousand
+[1:20:54] neurons from which the rest of the brain
+[1:20:57] listening to those thousand neurons or
+[1:20:59] we as the scientist could decode smiles
+[1:21:02] versus frowns? The answer is yes. We've
+[1:21:04] done that in collaboration with Ulut
+[1:21:06] Saer and Shu Wang and and colleagues
+[1:21:10] where we can record from epilepsy
+[1:21:12] patients like what Eddie Chang does.
+[1:21:14] Same same kind of work. And so you can
+[1:21:16] you have information and of course if
+[1:21:18] you think about it there has to be
+[1:21:20] information in the brain neurons that
+[1:21:23] would distinguish frowns from smiles
+[1:21:25] because you can distinguish them. So
+[1:21:26] where else would it come from? It has to
+[1:21:28] be there in the brain. But it's not
+[1:21:30] there mechanistically at the level of
+[1:21:32] single neurons. They're very noisy. Uh
+[1:21:35] they typically respond to many different
+[1:21:37] types of cues. So you always have to
+[1:21:39] think about hundreds or thousands a
+[1:21:42] large ensemble of neurons because that's
+[1:21:44] really the kind of unit of relevant
+[1:21:46] information because that's what the rest
+[1:21:47] of the brain listens to.
+[1:21:48] >> Yeah. I was thinking about how you know
+[1:21:51] in a hierarchical system like the visual
+[1:21:53] system like we have neurons that are
+[1:21:54] tuned to circles more or less you know
+[1:21:56] center surround. We we talk about
+[1:21:58] circles, then bars, then oriented bars
+[1:22:00] of a particular angle, then moving bars,
+[1:22:03] etc., etc., and it's so built up from
+[1:22:04] from simple stuff to more complex stuff.
+[1:22:06] So, you can build feature detectors for
+[1:22:08] lots of different things. I I guess I
+[1:22:10] was wondering when we come into the
+[1:22:12] world, are there cells in the fusifiform
+[1:22:15] area that not just like faces but that
+[1:22:17] are prepared to respond to two dots the
+[1:22:21] eyes a vertical thing the nose and then
+[1:22:24] a bar that is either you know bent up at
+[1:22:26] the edges or bent down at the edges and
+[1:22:28] then we build on that scaffold. I don't
+[1:22:30] know that anyone's done these
+[1:22:31] experiments
+[1:22:31] >> that exact experiment but I think that
+[1:22:33] in broad strokes the answer would be
+[1:22:35] that at birth it's it's crude and it
+[1:22:37] becomes more much more refined and more
+[1:22:40] granular through experience and then
+[1:22:42] indeed exactly what you said happens you
+[1:22:44] know and coming back to emotions if you
+[1:22:46] think about so how does the state of
+[1:22:49] fear come about in the brain from seeing
+[1:22:52] the the seeing the bear or or the tiger
+[1:22:54] well at the level of the retina it's
+[1:22:56] just a bunch of pixels it's some you
+[1:22:57] know blobby black shape that is looming
+[1:22:59] and coming closer etc. But then
+[1:23:02] progressively you have to construct more
+[1:23:04] and more abstract representations and
+[1:23:06] you well know how this works in the
+[1:23:08] visual system and artificial systems
+[1:23:10] deep convolutional neural networks that
+[1:23:12] do object classification do exactly
+[1:23:15] that. They take just you know pixel-wise
+[1:23:17] input but then build something abstract
+[1:23:19] like right now I recognize Andrew
+[1:23:21] Huberman there. If I look over here, you
+[1:23:23] know, I can still recognize you whether
+[1:23:25] you're on the left or the right, whether
+[1:23:27] you're close or far away, I would be
+[1:23:29] able to recognize you invariantly with
+[1:23:31] respect to those details. Even though at
+[1:23:34] level of the retina, like like a camera
+[1:23:36] taking a picture, the detailed pixels
+[1:23:38] can be vastly different. You can be left
+[1:23:40] or right or close or lit in different
+[1:23:42] ways. And you need to abstract from that
+[1:23:45] an invariant representation regardless
+[1:23:47] of the details. Same thing for emotions.
+[1:23:50] Regardless of whether whether it's a
+[1:23:51] bear or a tiger or a big armed pickup
+[1:23:54] truck coming at you or lots of other
+[1:23:55] kinds of stimuli, they all need to
+[1:23:58] funnel in to a central abstract
+[1:24:00] representation. That's another key
+[1:24:02] feature of emotions. They require
+[1:24:05] abstraction
+[1:24:06] >> and that's what makes them so flexible
+[1:24:08] and that's why you can get David
+[1:24:09] Anderson and I have described it in our
+[1:24:11] book as this sort of fan in fan out
+[1:24:14] architecture. I can get to the emotion
+[1:24:16] state from seeing a bear or smelling a
+[1:24:18] bear or hearing a bear or hearing a twig
+[1:24:20] snap, hearing somebody yell there's a
+[1:24:22] bear. Zillions of different inputs
+[1:24:24] completely unlike the rigid reflex which
+[1:24:27] only has one input and that's it. They
+[1:24:29] get the central state of fear and then
+[1:24:31] the outputs are also diverse. I can
+[1:24:33] hide, I can run away, I can defend
+[1:24:35] myself. And so that flexibility that the
+[1:24:38] central emotion state affords, you can
+[1:24:40] get to it in many different ways because
+[1:24:42] many different sensory cues are
+[1:24:44] informative about a potential threat.
+[1:24:46] And then you can behave in very flexible
+[1:24:48] ways that are context dependent. That's
+[1:24:50] exactly what emotions allow you to do
+[1:24:52] and what makes them so different from
+[1:24:53] reflexes. Reflexes is just a single path
+[1:24:56] through. There's only one way to trigger
+[1:24:58] it and there's only one behavior. Mhm.
+[1:25:00] >> So if you had only those, you would have
+[1:25:02] to have a separate reflex for the bear
+[1:25:05] and for the tiger and for every
+[1:25:06] possible, you know, large threat out
+[1:25:08] there, which you couldn't possibly have.
+[1:25:10] It's not efficient. Yeah. The fan in fan
+[1:25:12] out uh visual is very, very useful. And
+[1:25:15] it gets to the next topic I'd like to
+[1:25:17] ask you about, which is building uh
+[1:25:20] social intelligence and emotional
+[1:25:21] intelligence because we define that
+[1:25:23] different ways. people who seem unable
+[1:25:25] to read the room, so to speak, versus
+[1:25:28] people who are hyper sensitive to other
+[1:25:30] people's emotions, not necessarily
+[1:25:32] responding to them, but they're really
+[1:25:33] in tune. I'll go out on a limb and say
+[1:25:35] that some of the happiest, most
+[1:25:37] functional, and when I say functional, I
+[1:25:40] also include in that they take great
+[1:25:42] care of the people around them, their
+[1:25:43] families, their co-workers, people that
+[1:25:45] I know and have observed are not super
+[1:25:48] emotionally in tune with the emotions of
+[1:25:51] others. meaning it doesn't seem like
+[1:25:53] they're clocking every little nuance.
+[1:25:55] And some of the more I'm generalizing
+[1:25:57] here, less functional, more labile
+[1:25:59] people that I've known are really in
+[1:26:02] tune with like what everyone in the room
+[1:26:03] is feeling, who did this, who didn't do
+[1:26:05] that. And going back to our our earlier
+[1:26:07] conversation that so much of how we
+[1:26:09] gauge other people's emotions is an
+[1:26:11] integration over, you know, how how
+[1:26:13] often they tend to acknowledge us when
+[1:26:15] they when we walk down the hall. If the
+[1:26:16] first time I met you, you walked right
+[1:26:18] by me, which who knows what would have
+[1:26:20] happened. And the second time and the
+[1:26:21] third time, and then the fourth time you
+[1:26:23] say, "Good morning," I'd say, "Oh, Lex
+[1:26:24] is a really delightful person." If you
+[1:26:26] did the opposite, said hello, hello,
+[1:26:27] hello three days in a row and stopped
+[1:26:29] four times, just like looked looked at
+[1:26:31] me and brushed right by,
+[1:26:32] >> I'd probably think like that's weird,
+[1:26:34] you know? So, there's some advantage
+[1:26:37] actually to not being in tune with all
+[1:26:39] the subtle cues of everyone around us.
+[1:26:42] What in the brain is known about a
+[1:26:46] social awareness, about reading the
+[1:26:48] room? We talk it up these days because
+[1:26:51] indeed empathy is important, but this is
+[1:26:53] a tricky one. I'm going to get some heat
+[1:26:55] for saying this, but there's also a lot
+[1:26:57] to be said for like walking into a room,
+[1:26:59] acknowledging, okay, great. And then
+[1:27:00] like getting your work done. You don't
+[1:27:02] want to be wrapped up into people's
+[1:27:03] emotional states because unnecessarily
+[1:27:06] because they're labile, they're all over
+[1:27:08] the place. It's there's a cost.
+[1:27:10] >> Well, I think it's extremely
+[1:27:11] heterogeneous. And so this is not sort
+[1:27:13] of one sizefits-all and there's not one
+[1:27:15] type of sort of emotional intelligence
+[1:27:18] skill that fits all occasions and many
+[1:27:21] different kinds can work. They depend on
+[1:27:24] the context. They depend on the
+[1:27:25] circumstances. Initially when James
+[1:27:27] Gross had emotional regulation, it was
+[1:27:29] sort of focused on some basic mechanisms
+[1:27:31] like suppression, reappraisal,
+[1:27:34] acceptance. And now the big two topics
+[1:27:37] in emotional regulation are variability
+[1:27:40] and flexibility. So there's not just one
+[1:27:42] way, but you need to be able to have
+[1:27:44] many many different options and you can
+[1:27:46] vary vary your emotion regulation
+[1:27:48] responses. But the other big part of
+[1:27:50] emotion regulation, which is obvious
+[1:27:52] once you think about it for any any
+[1:27:54] parent would think about it, is it's
+[1:27:57] interpersonal. It's between people. You
+[1:27:59] regulate other people's emotions and you
+[1:28:01] have to pick up on other people's
+[1:28:02] emotions and you influence other
+[1:28:04] people's emotions. It's a birectional
+[1:28:05] interaction. And so I think a big part
+[1:28:08] of emotional intelligence comes from
+[1:28:10] being able to read that probably in a
+[1:28:13] fairly automatic way and in a context
+[1:28:16] dependent way. And depending on the
+[1:28:18] context, it can be the case that what's
+[1:28:20] most adaptive is if you really get
+[1:28:22] involved with other people and you
+[1:28:24] really talk to them a lot, you're very
+[1:28:25] empathic or you just take over and that
+[1:28:28] can work too depending on the
+[1:28:30] circumstances. So there are multiple
+[1:28:32] strategies and I think for any of these
+[1:28:35] social intelligence, emotional
+[1:28:36] regulation, any of these sort of meta
+[1:28:38] cognitive skills. The most successful
+[1:28:40] skill is if you don't just have one, but
+[1:28:43] you have variety and you can switch
+[1:28:45] between them and you can use context to
+[1:28:47] switch between those. Just like
+[1:28:49] physiological heart rate variability,
+[1:28:51] you don't want to train to just be able
+[1:28:52] to have a low heart rate. You want to be
+[1:28:54] able to train to have a variable, a big
+[1:28:56] range. Same thing with emotions. What's
+[1:28:58] most adaptive is being able to have a
+[1:29:01] big range of emotions and being able to
+[1:29:03] switch adaptively depending on the
+[1:29:05] context between them. And I think that's
+[1:29:07] where, you know, real long-term context
+[1:29:11] dependent social intelligence for people
+[1:29:13] that really come out ahead. It's not one
+[1:29:15] tiny slice where they do well and don't
+[1:29:16] do well in lots of other circumstances.
+[1:29:18] It's the ability to be really adaptive
+[1:29:20] and flexible and switch around
+[1:29:22] >> which requires a a a keen sense of
+[1:29:26] oneself like where we are in our
+[1:29:28] internal state and a keen sense of of
+[1:29:31] context. In fact, I observed a really
+[1:29:33] impressive physician recently and like
+[1:29:34] moving through the hospital environment.
+[1:29:37] I mean he was just like all agency to to
+[1:29:40] but then with the patient it was as if
+[1:29:41] he dropped into a bubble. You know the
+[1:29:43] patient was understandably a little
+[1:29:45] nervous about what was to come and and
+[1:29:47] it was remarkable. I was like, "Okay,
+[1:29:48] that is superb bedside manner." But then
+[1:29:51] it comes time to do the actual work and
+[1:29:53] that's not a time for emotion. It's just
+[1:29:55] like 100 you have to be able to 100%
+[1:29:58] like I mean the life and well-being of
+[1:30:00] the patient relies on being absolutely
+[1:30:03] focused on the task at hand. I mean it's
+[1:30:06] it's related again to the presumptive um
+[1:30:09] association between emotional
+[1:30:11] granularity what Lisa Fman Barrett
+[1:30:14] pioneered decades ago the ability to
+[1:30:17] differentiate and be aware of all the
+[1:30:18] variety of emotions in you and emotion
+[1:30:22] regulation flexibility that you're able
+[1:30:24] to adopt many different emotion
+[1:30:26] regulation strategies but in order to do
+[1:30:28] so you need the emotional granularity to
+[1:30:31] be able to be aware of all the different
+[1:30:33] emotions that are going on in the first
+[1:30:35] It's pretty two things. One is an
+[1:30:37] ability to differentiate at a very fine
+[1:30:40] grain and the other one is to step back
+[1:30:41] and have some kind of metacognitive
+[1:30:43] oversight and control. So you can see
+[1:30:45] okay here's this full spectrum of things
+[1:30:47] I could do and you can take a look at
+[1:30:49] all of those incorporate the context and
+[1:30:51] pick one the one path amongst many that
+[1:30:54] you could take that's the most adaptive.
+[1:30:56] It's interesting. Some of my favorite
+[1:30:58] scientists are very emotive people. And
+[1:31:00] then some of my favorite scientists, I'm
+[1:31:02] thinking of one in particular when I was
+[1:31:03] down at UC San Diego when my lab was
+[1:31:05] there. Most people probably label as a
+[1:31:07] little bit on the spectrum. I won't
+[1:31:09] mention his name. He would walk into a
+[1:31:10] faculty meeting where someone else was
+[1:31:12] presenting and he would say out loud to
+[1:31:14] me like sitting there like, "Is this any
+[1:31:16] good?" [laughter] And
+[1:31:17] >> I have encountered people like that,
+[1:31:19] too.
+[1:31:19] >> And you know,
+[1:31:20] >> it's very disconcerting when you're
+[1:31:21] giving the talk.
+[1:31:22] >> It's disconcerting when you're giving
+[1:31:23] the talk. But I was going to say there's
+[1:31:24] also something incredibly refreshing
+[1:31:26] about it because it's almost like
+[1:31:28] they're they're asking the questions
+[1:31:30] that they they need to ask. You're a
+[1:31:32] little embarrassed for them, but you're
+[1:31:33] but it's liberating. You feel like ah
+[1:31:35] we've broken the social mold here a
+[1:31:37] little bit and [snorts] someone would
+[1:31:38] say excuse me so and so and so is
+[1:31:40] presenting be like oh sorry and then
+[1:31:41] we'll just sit down and then listen. I
+[1:31:43] mean they're entirely polite very
+[1:31:45] actively engaged in the conversation but
+[1:31:47] I sometimes wish like how cool would
+[1:31:49] that be? Like I'm sure there's a cost
+[1:31:52] other areas in life, but how cool would
+[1:31:54] that be? You lose a this person has a
+[1:31:56] little bit less context dependent, you
+[1:31:58] know, flexibility around emotions. And I
+[1:32:01] have to imagine that they move through
+[1:32:02] life in a way that's kind of like
+[1:32:04] liberated.
+[1:32:05] >> Well, they wouldn't have this huge
+[1:32:06] cognitive load all the time. You know,
+[1:32:08] if
+[1:32:08] >> you extremely smart now, that's
+[1:32:10] correlative, right? But like incredible
+[1:32:12] actually a physicist
+[1:32:13] >> turned neuroscientist. And I just
+[1:32:15] thought, man, that's pretty cool. And
+[1:32:17] then the more you go into engineering
+[1:32:19] and science fields, the more of these
+[1:32:20] people you encounter. This is true. You
+[1:32:22] see fewer of these people in the
+[1:32:23] performing arts for instance.
+[1:32:24] >> Sure.
+[1:32:25] >> My lab studies autism amongst other
+[1:32:26] things. And you certainly would have the
+[1:32:28] case that as a spectrum, yes indeed, you
+[1:32:31] would have mathematicians, engineers,
+[1:32:33] lots of people who are very successful
+[1:32:35] who are on the spectrum to some extent.
+[1:32:37] And I think, you know, coming back to
+[1:32:38] what you were saying, it's sort of
+[1:32:40] liberating or simplifying. If you had to
+[1:32:43] really efforty, cognitively think about
+[1:32:46] how to regulate your social behavior and
+[1:32:48] make all the right moves and not offend
+[1:32:49] anybody, you were worried about that all
+[1:32:51] the time. It would be overwhelming. And
+[1:32:53] I think it is overwhelming for many
+[1:32:55] people with autism that you need to
+[1:32:57] somehow internalize it and it has to be
+[1:32:59] relatively effortless and automatic. It
+[1:33:01] has to become automatic at some level
+[1:33:03] and then you can move through life
+[1:33:05] fairly smoothly in a socially very
+[1:33:07] complex way. And that's what's difficult
+[1:33:09] for many people with autism that they
+[1:33:11] lack that part. They can compensate to
+[1:33:13] some extent, but the cognitive load
+[1:33:15] starts really being an impediment
+[1:33:17] because if you have to track everything,
+[1:33:18] you have to remember, okay, I should
+[1:33:20] make eye contact, I have to remember
+[1:33:22] turn taking, if you have to cognitively
+[1:33:24] remember all those things, it's just
+[1:33:26] overwhelming. So, you have to be able to
+[1:33:27] somehow have it be automatic at some
+[1:33:30] level.
+[1:33:31] >> I'd like to take a quick break and
+[1:33:33] acknowledge one of our sponsors,
+[1:33:34] Element. Element is an electrolyte drink
+[1:33:36] that has everything you need and nothing
+[1:33:38] you don't. That means the electrolytes,
+[1:33:40] sodium, magnesium, and potassium, all in
+[1:33:42] the correct ratios, but no sugar. Proper
+[1:33:45] hydration is critical for brain and body
+[1:33:47] function. Even a slight degree of
+[1:33:49] dehydration can diminish your cognitive
+[1:33:51] and physical performance. It's also
+[1:33:53] important that you get adequate
+[1:33:54] electrolytes. The electrolytes, sodium,
+[1:33:57] magnesium, and potassium are vital for
+[1:33:59] the functioning of all cells in your
+[1:34:00] body, especially your neurons or your
+[1:34:02] nerve cells. Drinking Element makes it
+[1:34:05] very easy to ensure that you're getting
+[1:34:06] adequate hydration and adequate
+[1:34:08] electrolytes. My days tend to start
+[1:34:10] really fast, meaning I have to jump
+[1:34:12] right into work or right into exercise.
+[1:34:14] So, to make sure that I'm hydrated and I
+[1:34:16] have sufficient electrolytes, when I
+[1:34:18] first wake up in the morning, I drink 16
+[1:34:20] to 32 ounces of water with an element
+[1:34:22] packet dissolved in it. I also drink
+[1:34:24] Element dissolved in water during any
+[1:34:26] kind of physical exercise that I'm
+[1:34:27] doing, especially on hot days when I'm
+[1:34:29] sweating a lot and losing water and
+[1:34:31] electrolytes. Element has a bunch of
+[1:34:33] great tasting flavors. In fact, I love
+[1:34:34] them all. I love the watermelon, the
+[1:34:36] raspberry, the citrus, and I really love
+[1:34:38] the lemonade flavor. So, if you'd like
+[1:34:40] to try Element, you can go to
+[1:34:41] drinkelement.com/huberman
+[1:34:43] to claim a free element sample pack with
+[1:34:45] any purchase. Again, that's
+[1:34:47] drinkelement.com/huberman
+[1:34:49] to claim a free sample pack. Let's talk
+[1:34:52] about autism. And I'll just put the
+[1:34:54] mention up front because this is a topic
+[1:34:55] that sometimes gets people triggered.
+[1:34:57] Let's leave out for the time being, not
+[1:34:59] because it isn't important. It is
+[1:35:01] important. Let's leave out severe cases
+[1:35:04] of autism where people need lifelong
+[1:35:06] care. They can't care for themselves and
+[1:35:09] let's talk about the rest of the
+[1:35:11] spectrum. Already in that statement, I'm
+[1:35:12] sure I violated some of the newer
+[1:35:14] nomenclature. But let's just liberate
+[1:35:16] ourselves a little bit. Um, come at this
+[1:35:18] from a place of benevolence and trying
+[1:35:19] to understand social dynamics, social
+[1:35:21] processing in the brain. So, we're not
+[1:35:23] talking about people with severe
+[1:35:24] stereotypes who just need lifelong care
+[1:35:27] even, etc. We're talking about the rest
+[1:35:29] of the category. So something like this
+[1:35:30] former colleague of mine in San Diego a
+[1:35:33] little bit on the spectrum.
+[1:35:33] >> For all I know he would have been one of
+[1:35:35] our participants maybe I mean a
+[1:35:38] delightful person, happy marriage, happy
+[1:35:40] family, everyone in his lab adored him
+[1:35:42] and brilliant scientist and um
+[1:35:46] >> by my read highly functional in all
+[1:35:48] aspects of life but definitely not
+[1:35:51] >> tuned in to what other people are
+[1:35:54] thinking or doing and and context
+[1:35:55] mattered, right? I mean, he understood
+[1:35:58] what not to do in in a broad sense, but
+[1:36:00] you know, he was free of this burden
+[1:36:02] that you described. So, there's a lot of
+[1:36:04] emphasis nowadays on kids who have
+[1:36:07] autism of the sort that we're describing
+[1:36:09] and the need, we're told, to train them
+[1:36:12] to make eye contact and read faces. So,
+[1:36:15] this lands square in your work. Maybe
+[1:36:18] you could just fill out a bit of what's
+[1:36:21] now known, what's thought, what's not
+[1:36:23] known.
+[1:36:23] >> It's a great topic. I mean the way that
+[1:36:25] I personally have approached it is not
+[1:36:28] with a primary interest in autism. I
+[1:36:30] don't have a family member who has
+[1:36:32] autism. I'm not don't have any personal
+[1:36:34] experience. It's really been um just
+[1:36:36] like with the amydala lesion patient.
+[1:36:38] It's the my main motivation has been to
+[1:36:41] just understand the mind cognition
+[1:36:43] emotion in general and with respect to
+[1:36:46] autism by understanding individual
+[1:36:47] differences. Everybody's different from
+[1:36:49] everybody else. And autism is one
+[1:36:52] particular dimension that we just have a
+[1:36:54] lot of tools to look at that is, you
+[1:36:57] know, social interaction, social
+[1:36:59] awareness, ability to read other
+[1:37:01] people's emotions. And so that dimension
+[1:37:04] of social variability maps onto one of
+[1:37:07] the facets of of autism spectrum
+[1:37:09] disorder. And so that's why we've looked
+[1:37:12] at both people who do not have any
+[1:37:14] diagnosis of autism. There's still
+[1:37:16] there's a range of autistic like traits
+[1:37:19] that you can quantify with
+[1:37:20] questionnaires that are well regarded.
+[1:37:22] And then once you get to a DSM5
+[1:37:24] diagnosis, you have more and more severe
+[1:37:26] cases of autism with respect to social
+[1:37:29] functioning that again you can quantify
+[1:37:31] using tools like the etc. But it's
+[1:37:33] a spectrum that I personally look at as
+[1:37:35] a particularly interesting and important
+[1:37:37] dimension of individual differences in
+[1:37:39] social interactions with other people in
+[1:37:41] my lab that have different motivations.
+[1:37:43] They have family members with autism for
+[1:37:45] instance. So they're personally
+[1:37:46] interested in autism as a as a
+[1:37:49] psychiatric category.
+[1:37:51] But coming to your question, there's a
+[1:37:54] lot of really interesting work and a lot
+[1:37:56] of opportunities now that we've been
+[1:37:58] actually using in our lab as well to
+[1:38:00] look at the question of processing about
+[1:38:02] faces, eye contact, etc. I mean right
+[1:38:05] now how much eye contact are you making
+[1:38:07] with me? How much eye contact am I
+[1:38:09] making with you? It is extremely
+[1:38:11] variable. I mean the eyes move around.
+[1:38:14] They carry a lot of information. You
+[1:38:16] know, socially there's a a gigantic
+[1:38:18] range there. It's data that are now
+[1:38:21] fairly easy to quantify and collect in
+[1:38:24] hundreds or thousands of people using
+[1:38:26] their webcams. And so we have a study
+[1:38:28] going on where people watch for example
+[1:38:30] a zoom video uh other people interacting
+[1:38:34] talking and we use the webcam on their
+[1:38:37] laptop to record where they are looking
+[1:38:39] on the screen when they have that zoom
+[1:38:42] video going on. So we can quantify along
+[1:38:44] across large numbers of people and the
+[1:38:46] basic finding has been that people who
+[1:38:49] are further along have high who score
+[1:38:51] higher on this dimension of the autism
+[1:38:54] spectrum of social interaction with just
+[1:38:56] questionnaire based measures or a
+[1:38:58] psychiatric diagnosis make less eye
+[1:39:01] contact and as well as other features.
+[1:39:04] So we're looking at contact with the
+[1:39:06] person who's talking distraction to
+[1:39:08] other things. We have experimental
+[1:39:11] features where there's a person talking,
+[1:39:12] they're making eye contact, there's like
+[1:39:14] TV or something that goes on in the
+[1:39:16] background and we can quantify to what
+[1:39:18] extent is your visual attention, your
+[1:39:20] gaze that we can quantify from the
+[1:39:21] webcam captured by somebody looking,
+[1:39:24] somebody talking, somebody smiling or
+[1:39:25] laughing, the TV going on in the
+[1:39:28] background as a distractor. And we can
+[1:39:30] put all of that into a big model and ask
+[1:39:32] what is it that normally drives visual
+[1:39:34] attention and what is it that
+[1:39:36] distinguishes people with autism and
+[1:39:39] where they would look. And the basic
+[1:39:41] answer is that the social features like
+[1:39:44] eyes or who's talking have less of a
+[1:39:48] weight on where autistic people would
+[1:39:50] look than the distractors, but they tend
+[1:39:52] to be more distracted. And that that is
+[1:39:55] we've been doing this study every month
+[1:39:57] now for a year that seems to be a
+[1:39:59] temporally stable personality traitlike
+[1:40:02] feature of autism spectrum disorder. So
+[1:40:05] it fluctuates to some extent and we're
+[1:40:06] trying to quantify does it interact with
+[1:40:09] whether you've slept badly the night
+[1:40:10] before or you're stressed or other
+[1:40:13] things that can change. Those do have an
+[1:40:15] effect. But the answer seems to be it's
+[1:40:17] fairly temporally stable and it's almost
+[1:40:19] like a signature for individuals.
+[1:40:22] There's some people that are real
+[1:40:24] faceelookers and they look at faces a
+[1:40:26] lot and there's some people that look at
+[1:40:27] faces hardly at all and that seems to be
+[1:40:30] stable across time and like a basic
+[1:40:32] personality trait
+[1:40:34] >> in this population of people diagnosed
+[1:40:37] >> across the board for everybody. If I
+[1:40:39] just take the general population on
+[1:40:41] average it's the case that those people
+[1:40:42] who would have a diagnosis of autism or
+[1:40:44] who score higher on autistic traits even
+[1:40:47] if they don't have a diagnosis look less
+[1:40:49] at faces. But across everybody, it's the
+[1:40:52] case that some people look a lot at
+[1:40:53] faces, some people don't. And that
+[1:40:55] that's temporally stable. So in general,
+[1:40:57] right now, if you quantify it from this
+[1:40:59] podcast, how often do I make eye contact
+[1:41:01] or look at you? And then you ask, you
+[1:41:03] know, like in a classroom or in a lab
+[1:41:05] meeting, how often do I make eye
+[1:41:07] contact? It would be similar proportion
+[1:41:09] that I'm just like not a face looker or
+[1:41:11] eye looker and you might be. It's like a
+[1:41:13] stable personality trait and it's
+[1:41:16] associated coarsely with this dimension
+[1:41:19] in autism spectrum disorder. But of
+[1:41:21] course the million-doll question is what
+[1:41:23] else is it associated with? Is it
+[1:41:25] predictive of career success? Is it
+[1:41:28] predictive of anything else? And so we
+[1:41:31] don't know. We're measuring everything
+[1:41:32] else and getting lots of questionnaires
+[1:41:34] on these people to ask what what are the
+[1:41:36] associations and is there any causal
+[1:41:39] hypothesis that we would come up with
+[1:41:41] that if you don't look at faces a lot
+[1:41:43] there's some consequences if you look at
+[1:41:46] faces a lot there are other consequences
+[1:41:48] if that were the case we're not there
+[1:41:50] yet that would make very interesting
+[1:41:53] predictions which mean well maybe I
+[1:41:54] should be looking at your face all the
+[1:41:55] time and uh you the podcast would get a
+[1:41:58] million hits or who knows what
+[1:41:59] >> just be you as What should we say?
+[1:42:01] >> Well, that's I mean that that's another
+[1:42:02] big question which which we're looking
+[1:42:04] at in these longitudinal studies which
+[1:42:06] is a question of to what extent can you
+[1:42:08] change who you are and you know your
+[1:42:10] emote we were talking about emotion
+[1:42:12] regulation. You can regulate your
+[1:42:13] emotions. You can have this
+[1:42:15] metacognitive insight. You can have some
+[1:42:17] control. Can you change if you're
+[1:42:19] extrovert or neurotic? Can you change
+[1:42:21] your personality? And the answer seems
+[1:42:24] to be to some extent. Uh for some
+[1:42:27] variables more than others but we're
+[1:42:28] trying to quantify that. So we have this
+[1:42:30] big longitudinal data set where we give
+[1:42:33] people tons and tons of questionnaires
+[1:42:34] about their personality, about their
+[1:42:36] mood, about lots of things and are
+[1:42:38] asking to what extent over time do they
+[1:42:41] get pushed around and that can change
+[1:42:43] and which ones stay constant and
+[1:42:45] constitutes sort of the core of their
+[1:42:47] personality that's unchangeable. But I
+[1:42:48] think it's a super super interesting
+[1:42:50] question. What parts of you can change
+[1:42:52] and what parts of you cannot?
+[1:42:54] >> Yeah, I think about this all the time. I
+[1:42:55] feel like some people, this is
+[1:42:57] pseudoscientific what I'm about to
+[1:42:58] describe. They seem to have very high
+[1:43:00] autonomic what I call like art RPM. I
+[1:43:03] have a it's more of a former colleague
+[1:43:05] because I haven't been working in that
+[1:43:06] field for a while but um you
+[1:43:07] [clears throat] ever see Bon Rosska
+[1:43:10] >> from Basil give a talk like he moves a
+[1:43:13] lot. He's very electric. He's also very
+[1:43:15] thin and he moves and and his brain he's
+[1:43:17] exceedingly smart has a high basil
+[1:43:18] metabolic rate.
+[1:43:20] >> High basil metabolic rate and
+[1:43:21] >> like a hummingbird.
+[1:43:22] >> Yeah. But he moves a lot. Right. And
+[1:43:24] then other people they move less. I
+[1:43:25] think about this all the time because
+[1:43:27] I'm fascinated by and I love dogs. I go
+[1:43:29] to this AKC meet the breeds thing every
+[1:43:31] year. I don't go every year. They do it
+[1:43:33] every year, but I highly recommend
+[1:43:34] people go even if you don't want a dog
+[1:43:36] because you get to see all the different
+[1:43:38] genetic variation, which of course
+[1:43:40] relates to body size, but also
+[1:43:41] temperament and and just bulldogs are
+[1:43:44] probably more on the on the slow mellow
+[1:43:46] side compared to Yorkshire terriers that
+[1:43:48] are more
+[1:43:48] >> very little spontaneous movement.
+[1:43:51] [laughter] I think it's one of the
+[1:43:52] reasons why people feel comfortable
+[1:43:54] approaching a bulldog, whereas like a,
+[1:43:56] you know, pit bulls are always kind of
+[1:43:57] like winding around and moving, but some
+[1:43:59] dogs it may relate to other things,
+[1:44:00] cuteness and what, but some people just
+[1:44:02] seem to have a lot of spontaneous
+[1:44:03] movement. Other people are more stable
+[1:44:05] in their bodily movements. And it does
+[1:44:07] seem to relate to kind of how excitable
+[1:44:09] they are or not excitable they are. So
+[1:44:11] you can imagine like if you're if you're
+[1:44:12] humming at a higher RPM, you can like
+[1:44:14] more prone to action forcing. It's a
+[1:44:16] super interesting observation because
+[1:44:18] the question of course is to what extent
+[1:44:19] does it relate to how their mind is
+[1:44:21] working, right? I mean, as we're talking
+[1:44:22] now and as you were just talking,
+[1:44:24] you're, you know, we're moving our
+[1:44:25] hands, we're moving our body, we're
+[1:44:26] moving our face, you know, not just
+[1:44:29] sitting there speaking. So, to some
+[1:44:31] extent, all of these bodily movements
+[1:44:32] are interfaced with thought.
+[1:44:34] >> If I had to sit completely still and
+[1:44:36] not, you know, move, it would be pretty
+[1:44:38] hard to have this conversation, right?
+[1:44:40] So, to some extent, bodily movements
+[1:44:43] actually help us structure our thoughts.
+[1:44:44] It's not just like a large language
+[1:44:46] model. It's not just language going on.
+[1:44:48] It interfaces with the body
+[1:44:51] >> and it punctuates thoughts to some
+[1:44:54] extent. So I think it's super
+[1:44:55] interesting and it's it's certainly the
+[1:44:57] case that the way that somebody moves
+[1:44:59] their body does say something about how
+[1:45:01] they're thinking as well.
+[1:45:02] >> Yeah, I've been reading my audio book
+[1:45:04] and I asked them uh the sound
+[1:45:06] technicians to allow me to stand while I
+[1:45:08] read it. Much easier to read an audio
+[1:45:10] book and to put in flexion. You actually
+[1:45:12] can lean in when you want to emphasize
+[1:45:14] something and you can, you know, point
+[1:45:15] to the words for a moment, but then when
+[1:45:17] you need to work through a passage that
+[1:45:19] needs to be very finely structured with
+[1:45:21] little emotion because that happens too
+[1:45:23] if you clasp your hands and do it. So
+[1:45:26] >> our friend Eddie Chang tells me that um
+[1:45:28] the hand representations in the brain
+[1:45:30] are very close to the language center.
+[1:45:32] So these were probably our first tools
+[1:45:34] of language or at least they co-evolved.
+[1:45:36] >> Well, your mouth and your hands are the
+[1:45:37] most dextrous and over represented in
+[1:45:40] the brain. you can, you know, control
+[1:45:42] the world with them and you can move
+[1:45:43] from the most. Yeah. When, you know,
+[1:45:45] when the co pandemic started 2020, we
+[1:45:47] weren't allowed to to go on campus at
+[1:45:50] all. So, we sat around in our
+[1:45:51] apartments. I sat at home, we had lab
+[1:45:53] meetings on Zoom, only Zoom and
+[1:45:56] lectures. All the classes were on Zoom.
+[1:45:57] Prior to that and then then Zoom took
+[1:45:59] off and now it's most meetings are
+[1:46:01] hybrid. But before that point,
+[1:46:02] everything was face to face. I would
+[1:46:04] stand up and lecture. We would talk face
+[1:46:06] to face and suddenly switching to just
+[1:46:08] seeing a bunch of often little just
+[1:46:09] black squares right for the for the
+[1:46:12] whole classroom there on Zoom. That was
+[1:46:14] a hard switch. That lack of an
+[1:46:16] interactive nature which is something
+[1:46:18] that we're looking at now. I think it's
+[1:46:20] going to be super cool. I have a
+[1:46:21] graduate student just starting this. The
+[1:46:23] experiment is this. I would see your
+[1:46:25] face on a screen and that's it. I would
+[1:46:27] see a video of you. I would zoom with
+[1:46:28] you right now and we could be having
+[1:46:30] this podcast over Zoom. I actually
+[1:46:31] thought we were going to have this over
+[1:46:32] Zoom. So I'm very happy it's not over
+[1:46:34] Zoom actually better in person and then
+[1:46:36] then you're here if you're in person,
+[1:46:37] right? And it feels different. It feels
+[1:46:38] different. And so we we're sort of
+[1:46:41] trying to parameterize that degree of
+[1:46:43] social realness of social interaction.
+[1:46:46] And then we're doing that with people
+[1:46:47] with autism asking where does it change
+[1:46:51] and how difficult is it for people with
+[1:46:53] autism to interact with another person?
+[1:46:55] Is it equally difficult over Zoom? Is it
+[1:46:57] equally difficult over Zoom if you have
+[1:46:58] the selfie camera turned off? the other
+[1:47:00] person can't see you and you know that
+[1:47:02] and so we're trying to look at the the
+[1:47:05] degree of actual social interaction as a
+[1:47:07] relevant dimension and I think it makes
+[1:47:09] a huge difference. I mean it feels
+[1:47:11] completely different being face to face
+[1:47:13] that if you're on Zoom let alone if I
+[1:47:15] just watch a video that's not actually
+[1:47:17] aligned in time.
+[1:47:18] >> The way I described the kind of higher
+[1:47:20] or lower RPM before made it perhaps made
+[1:47:23] it sound like one or the other was
+[1:47:24] better. But I think sometimes about like
+[1:47:26] Alex Honold who again who was a guest on
+[1:47:28] this podcast and there have been claims
+[1:47:30] that his amydala doesn't react as much.
+[1:47:32] Anyway, we could we could talk about
+[1:47:33] that. I think Alex kind of like maybe
+[1:47:35] chuckles a little bit at those studies
+[1:47:36] cuz he does experience anxiety and fear
+[1:47:38] just not in the context of this like
+[1:47:41] highly trained situation he's put
+[1:47:43] himself in every single day for so long.
+[1:47:45] But I do have to wonder whether people
+[1:47:47] who go out on long runs, for instance,
+[1:47:49] there's not a lot of talking going on.
+[1:47:51] Or Alex, he's devoting his physical and
+[1:47:55] mental energetic resources toward
+[1:47:57] climbing and figuring out these how to
+[1:47:59] navigate high-risisk, high consequence
+[1:48:00] >> situations, totally just in flow. You're
+[1:48:02] just like totally absorbed in what
+[1:48:04] you're doing. If you're doing a type
+[1:48:05] climbing
+[1:48:06] >> once he he's got it, but like to work
+[1:48:08] out the puzzle of like with ropes first
+[1:48:10] of how to maneuver so that he can
+[1:48:12] actually free solo it is is a remarkable
+[1:48:14] thing. But I almost get the impression
+[1:48:16] that if people speak less that they're
+[1:48:19] able to devote more mental and physical
+[1:48:20] resources to the thing they're doing. I
+[1:48:22] never ran ultras, but I recall like
+[1:48:25] running, you know, I used to run for
+[1:48:26] like a long 8 to 10 mile run on Sundays
+[1:48:28] used to be a thing. Now it's getting
+[1:48:29] shorter and shorter run. I have to go
+[1:48:31] get it back. But come back from those
+[1:48:33] and there's a fatigue component that
+[1:48:34] confounds what I'm about to say. But one
+[1:48:36] is a lot less reactive
+[1:48:39] when you spent a bunch of time just in
+[1:48:42] your own head and you've learned to
+[1:48:43] tolerate the voice in your own head. I
+[1:48:45] find that I'm much calmer after I've
+[1:48:47] spent a bunch of time alone because I've
+[1:48:49] I've gone through that kind of initial
+[1:48:51] stage of the mind fluttering and then
+[1:48:52] you want to communicate with people and
+[1:48:53] I'll lock up my phone in a box these
+[1:48:55] days to do real work and I come out of
+[1:48:57] it and things come my way and they're
+[1:48:59] sort of out there and over there and
+[1:49:01] unless they really demand my attention
+[1:49:03] >> they kind of just don't grab me. Whereas
+[1:49:06] I think when we're highly engaged with
+[1:49:08] in in our own mental dialogue it's
+[1:49:10] almost like we're trying to converse
+[1:49:12] with the world. So I think there's real
+[1:49:13] value to doing these solo treks and to
+[1:49:16] devoting time to getting past that need
+[1:49:19] to engage with the world. I think it's
+[1:49:21] very very useful.
+[1:49:22] >> Yeah. I mean I'm sure it's
+[1:49:22] idiosyncratic. It'll vary. But I think
+[1:49:25] that particular aspect that you
+[1:49:27] mentioned that you can just be
+[1:49:28] comfortable in your own mind and that
+[1:49:30] that's beneficial. Uh I think that's a
+[1:49:33] big part it's a big part of lots of
+[1:49:35] training techniques and big part of lots
+[1:49:36] of meditative techniques that you just
+[1:49:39] but again it's very individual. It's not
+[1:49:41] just sort of onesizefits-all, but the
+[1:49:43] ability to not just be driven by sensory
+[1:49:45] input and be comfortable with your own
+[1:49:48] mind. It's not that you're doing nothing
+[1:49:49] at all. You're training you're training
+[1:49:51] your own mind to be comfortable. And I
+[1:49:53] think the consequence of that is then
+[1:49:55] subsequently when you encounter
+[1:49:56] challenges in the world, you're actually
+[1:49:57] better equipped to deal with those and
+[1:49:59] better equipped to regulate your
+[1:50:01] emotion. But when you're just at peace
+[1:50:03] with yourself, if you're not doing
+[1:50:04] nothing, your brain is being trained all
+[1:50:08] the time and it's being trained in a
+[1:50:09] useful way. And I think the ability to
+[1:50:12] detach and decouple from the constant
+[1:50:14] challenges and sensory information
+[1:50:16] that's normally coming in, it's like
+[1:50:18] sleep allows the brain to actually train
+[1:50:21] itself and focus on particular internal
+[1:50:24] regulation strategies that are then
+[1:50:26] subsequently useful for dealing with the
+[1:50:28] world later. Could we say that one form
+[1:50:31] of potentially useful emotional
+[1:50:33] intelligence or social uh intelligence
+[1:50:35] training is to just spend some time in
+[1:50:37] your own head either moving or not
+[1:50:39] moving. You could do it meditating or
+[1:50:40] you could do it running but to just
+[1:50:42] resist the temptation to get pulled out
+[1:50:44] into the world and just get good at just
+[1:50:46] sitting with these things that we call
+[1:50:47] emotions and thoughts. I think so,
+[1:50:49] especially it's again it's going to be
+[1:50:51] individual um and it's going to vary but
+[1:50:53] I think so especially if you can get
+[1:50:56] some kind of metacognitive or reflective
+[1:50:58] awareness and work on what is going on
+[1:51:01] in your mind and ultimately it's
+[1:51:04] training control. It's training control
+[1:51:06] of your emotions and training control of
+[1:51:08] your thoughts. And if you're constantly
+[1:51:11] bombarded and just dealing with stuff
+[1:51:13] coming in, you don't have time to do
+[1:51:14] that. It's called social media.
+[1:51:16] >> Exactly. Yes. Of which I have none. Um,
+[1:51:18] and so if you're just by yourself, you
+[1:51:20] know, if you're running or if you're
+[1:51:22] meditating or if you're trained up, if
+[1:51:23] you're in an ice bath, uh, I think you
+[1:51:26] actually get a particular type of
+[1:51:28] internal training that you just don't
+[1:51:31] have the leisure to get if you're
+[1:51:33] bombarded by social media, for instance.
+[1:51:35] Yes. You know, every beginning of my lab
+[1:51:36] meeting now, people have their laptops
+[1:51:38] open and their phones out. We put them
+[1:51:40] down and we actually have five minutes
+[1:51:42] of silence, a sort of meditative silence
+[1:51:44] for to people to clear their minds at
+[1:51:47] the beginning of Yeah. Five minute or
+[1:51:48] three minutes. At the beginning of every
+[1:51:49] lab meeting, we have a short meditative
+[1:51:52] session. I put a picture up of some
+[1:51:53] beautiful pe on the north shore of
+[1:51:55] Kawaii and people in case people want to
+[1:51:57] look at that, but many people just close
+[1:51:58] their eyes. People can do whatever they
+[1:52:00] want. It's but the idea is to clear your
+[1:52:04] mind and focus and relax and get into a
+[1:52:08] frame of mind where you're actually now
+[1:52:10] most receptive to listen to the research
+[1:52:12] presentation that's coming up because
+[1:52:14] you you know you come in and your mind
+[1:52:16] is all over the place and you know
+[1:52:18] there's an email here and the phone is
+[1:52:20] going and you just your mind is buzzing.
+[1:52:22] So quieting that, finding some focus and
+[1:52:24] then being able to engage subsequently
+[1:52:27] much better with the real world,
+[1:52:29] listening to the talk. I think that's
+[1:52:31] that helps and we do that every lab
+[1:52:34] meeting Mondays at noon seems to work
+[1:52:36] for people.
+[1:52:36] >> How long have you implemented this?
+[1:52:38] >> We started it in uh 2020 when George
+[1:52:42] Floyd was killed uh specifically to
+[1:52:45] remember George Floyd. So it was a there
+[1:52:47] was a very specific starting point
+[1:52:48] because many people were upset and we
+[1:52:50] figured we needed some kind of
+[1:52:51] remembrance or just a moment of silence
+[1:52:53] to to acknowledge things and then it
+[1:52:56] morphed into you know you can remember
+[1:52:58] whatever you like. you can just relax
+[1:53:01] and then it sort of morphed into this
+[1:53:03] idea. Well, you know, let's just have a
+[1:53:04] moment of silence and just like
+[1:53:07] recalibrate from the busy world and
+[1:53:09] everything that's just been going on to
+[1:53:11] now, you know, I mean, it's good to do
+[1:53:13] on average every day in any case, but
+[1:53:16] certainly right now before we launch
+[1:53:18] into the research presentation at a lab
+[1:53:20] meeting. So, we sort of morphed from a
+[1:53:22] moment of silence to remember somebody
+[1:53:24] to a short meditation essentially.
+[1:53:28] >> I love it. that my neuroscience
+[1:53:29] colleagues are doing ice baths, training
+[1:53:31] for 100 mile races, and doing um
+[1:53:34] >> the question is, is it helping my am I
+[1:53:35] getting more nature papers as a
+[1:53:37] consequence of any of these?
+[1:53:38] >> That's a different metric. That's a
+[1:53:39] different metric. Uh you seem like a
+[1:53:41] happy vital person and and you're
+[1:53:43] writing books and you're doing public
+[1:53:45] education here. In addition to all of
+[1:53:46] that, I'd like to actually stay on this
+[1:53:48] meditation thing for a moment. Rick
+[1:53:49] Rubin, famed music producer, came on
+[1:53:51] this podcast. He also happens to be a
+[1:53:53] friend of mine. And right as we sat
+[1:53:55] down, he said, "Um, can we do some
+[1:53:57] coherence breathing first?" He plays
+[1:53:59] it's like a tone. You do some inhale,
+[1:54:01] exhale, and you know, he
+[1:54:03] >> he likes these transition
+[1:54:05] >> breathing exercises are great.
+[1:54:06] >> Yeah, these transition tools and and
+[1:54:08] they will increase your heart rate
+[1:54:10] variability and these kinds of things.
+[1:54:11] Um, but I think that one of the most
+[1:54:14] interesting and underststudied things in
+[1:54:16] our field is task switching. Whether
+[1:54:18] it's emotional task switching or
+[1:54:20] cognitive task switching like we assume
+[1:54:22] the brain operates in step functions
+[1:54:24] like oh I'm out on the street I navigate
+[1:54:26] traffic I park my car and I come in and
+[1:54:27] I podcast and what you're doing at the
+[1:54:29] beginning of this lab meaning in on the
+[1:54:31] one hand is a meditation but it's you're
+[1:54:33] pivoting the brain circuits
+[1:54:35] >> toward what comes next.
+[1:54:36] >> Yeah.
+[1:54:37] >> I don't think we talk enough as
+[1:54:39] neuroscientists about the fact that the
+[1:54:42] brain doesn't just immediately switch
+[1:54:43] over that you're carrying residual
+[1:54:45] activity from whatever you were doing
+[1:54:47] before.
+[1:54:47] >> Yes. There's a there's a cost to that, a
+[1:54:49] well-known cost. So, as soon as you
+[1:54:50] switch into something, there's a cost
+[1:54:52] carried over from the previous task, and
+[1:54:54] you're much slower and more difficult
+[1:54:56] for the couple of next trials on the new
+[1:54:58] task. So, there's always a switching
+[1:55:00] cost
+[1:55:01] >> which shows you that switching
+[1:55:03] >> is hard and some for some reason, and
+[1:55:05] there's a couple of theories for why it
+[1:55:07] should be hard. There's some residue,
+[1:55:08] some sort of inertia being carried over
+[1:55:10] previously. There's some reconfiguration
+[1:55:13] in the brain required between what you
+[1:55:15] were doing in the previous task and the
+[1:55:17] new task. But all of those would seem to
+[1:55:18] require some effort and it's definitely
+[1:55:20] a skill and something that people are
+[1:55:23] looking at a lot in brain recordings in
+[1:55:25] humans and thinking a lot about how to
+[1:55:26] design into AI. That ability to switch
+[1:55:30] quickly and knowing how to switch,
+[1:55:32] anticipating when to switch is a hugely
+[1:55:35] important skill.
+[1:55:36] >> Yeah. And we don't teach it like here we
+[1:55:37] are talking about emotional
+[1:55:38] intelligence, social awareness and these
+[1:55:40] kinds of things. And I think most people
+[1:55:41] would think, oh, we should sit down and
+[1:55:43] look at a bunch of faces and learn to
+[1:55:45] detect the subtle cues in faces or we
+[1:55:47] should make more eye contact. And what
+[1:55:48] I'm hearing today is while some of that
+[1:55:50] might be true, most things are pointing
+[1:55:52] in a different direction. We had a guest
+[1:55:54] on this podcast, DJ Shipley, who's a
+[1:55:56] former tier one SEAL team operator.
+[1:55:58] That's another high-risisk, high
+[1:55:59] consequence world. But then he's out
+[1:56:01] now. He's no longer deploying. And he
+[1:56:03] talked about his routine for coming
+[1:56:04] home. It's like he knows, he's
+[1:56:06] rehearsing as he comes out of the car,
+[1:56:08] just like as if it were an op, you know?
+[1:56:10] I'm gonna hit the door. My daughter's
+[1:56:11] gonna come running from this direction.
+[1:56:13] My other daughter's gonna come in. Py's
+[1:56:14] gonna be in the kitchen.
+[1:56:15] >> Dog's gonna come charging.
+[1:56:16] >> Yeah. And but he's rehearsed it and he
+[1:56:18] knows exactly where he'll set his bag so
+[1:56:20] he can scoop his daughter up. People
+[1:56:22] either chuckled or I think we're kind of
+[1:56:24] taken aback by that until he said, "But
+[1:56:27] this is the way that I know I can drop
+[1:56:30] everything from the day
+[1:56:31] >> and be at my best when I enter that
+[1:56:33] environment." And you know, this is the
+[1:56:35] kind of a quote unquote like hyper Y
+[1:56:37] chromosome version of kind of of home
+[1:56:39] and family life, but it was remarkable
+[1:56:42] what the comments when we ran this clip
+[1:56:44] on social media. The men were all kind
+[1:56:46] of like in awe like you have a system,
+[1:56:48] dude, and you follow it. And the women
+[1:56:49] were like, "Yes, fantastic." Like, "This
+[1:56:51] is somebody who's prioritizing how he
+[1:56:54] shows up. He's leaving everything else
+[1:56:55] outside." Which is a kind of, you know,
+[1:56:57] it's a more of a 1950s version of
+[1:56:59] >> that skill to switch is super super
+[1:57:02] important. It was super important.
+[1:57:04] >> It is trainable. It's largely trainable.
+[1:57:06] And I think if you have meditative
+[1:57:07] exercises, they train exactly that. It's
+[1:57:10] a it's a huge switch, right? You're
+[1:57:12] switching from like constantly being
+[1:57:13] bombarded and dealing with stuff in the
+[1:57:15] world to suddenly like putting all of
+[1:57:17] that aside and just being inside
+[1:57:19] >> and and it has health benefits. You
+[1:57:22] know, Richie Davidson, for instance, I
+[1:57:23] don't know if if you
+[1:57:24] >> Yeah, we had him here. Phenomenal. Oh,
+[1:57:26] he's he studied Tibetan monks and
+[1:57:28] long-term meditators who've meditated
+[1:57:30] 10,000 hours or whatever, which we can't
+[1:57:32] afford to do. But he has a lot of
+[1:57:33] studies on even for the rest of us, you
+[1:57:35] know, short stretches of meditation,
+[1:57:38] regular meditative exercises, you know,
+[1:57:40] he's done well controlled studies have
+[1:57:43] demonstrable health benefits for sure.
+[1:57:45] So again, it comes back to this issue of
+[1:57:47] variability. Being able to switch and
+[1:57:50] having lots of variability and training
+[1:57:53] that is definitely beneficial. It's
+[1:57:55] beneficial for just basic physiology.
+[1:57:58] It's beneficial for emotion granularity
+[1:58:00] and emotion regulation. It's beneficial
+[1:58:03] for control of thought is when you're
+[1:58:05] being externally oriented versus
+[1:58:07] meditating. All of those are to a large
+[1:58:10] extent trainable skills in variability
+[1:58:14] and and control. So the experiment I'd
+[1:58:16] love to see done, maybe your lab will do
+[1:58:18] this, would be what is the cost of task
+[1:58:21] switching if you do or or do not insert
+[1:58:24] this five minutes of silence like
+[1:58:27] because you're you're spending 5 minutes
+[1:58:29] and we know the transition is choppy
+[1:58:31] into the next thing that you're doing.
+[1:58:32] So there's some overlap there. But by
+[1:58:34] introducing the period of silence, you
+[1:58:36] reduce the amount of time in order to
+[1:58:38] switch your brain over to this new mode.
+[1:58:40] Presumably you're seeing positive
+[1:58:42] effects in these lab meetings of doing
+[1:58:44] >> yeah we should we should do a study it
+[1:58:46] would be you know we would have to think
+[1:58:47] about the right controls we are looking
+[1:58:48] at task switching actually in these uh
+[1:58:50] brain recordings in epilepsy patients
+[1:58:52] we're looking at single unit recordings
+[1:58:54] and how um those representations change
+[1:58:57] when you switch between tasks it's it's
+[1:58:59] a great study we're just working up the
+[1:59:00] analyses now but we don't have the
+[1:59:03] intervention that you were just speaking
+[1:59:04] about so we don't have half the patients
+[1:59:06] are getting meditative training and half
+[1:59:08] are not but the extent to which an
+[1:59:10] intervention ion like that can improve
+[1:59:12] your ability to switch or some other
+[1:59:14] concrete metric. I think that's yes,
+[1:59:16] those are exactly the types of studies
+[1:59:18] that should be done. I think Richie is
+[1:59:20] probably doing studies like that. They
+[1:59:22] did a a study of 5 minutes of meditation
+[1:59:24] per day and showed that people
+[1:59:26] experienced tremendous increases in
+[1:59:28] anxiety during the initial phase of the
+[1:59:30] study, like just having to sit there
+[1:59:31] with your thoughts and let everything
+[1:59:33] stir. I actually think of short
+[1:59:35] meditations like that at least initially
+[1:59:38] as another version of the ice bath.
+[1:59:40] >> Well, it is and I think when we started
+[1:59:42] and you know we have like new summer
+[1:59:43] students come in on new people in the
+[1:59:45] lab and say okay I don't usually say too
+[1:59:47] much. Okay, we're going to just like
+[1:59:49] three minutes of silence and everybody's
+[1:59:51] like this and these summer students are
+[1:59:53] looking around. What's what's going on?
+[1:59:55] It's very stressful, right? And if you
+[1:59:57] just tell them well just like don't do
+[1:59:58] anything. I mean this is obviously
+[2:00:00] extremely difficult for young children.
+[2:00:02] Don't do anything, right? Just be
+[2:00:04] completely silent and quiet for 1 minute
+[2:00:07] or 5 minutes. It is hard to inhibit
+[2:00:09] behavior. It's really hard to do, but
+[2:00:11] it's trainable. It's completely
+[2:00:13] trainable. And a big part of it, you
+[2:00:14] know, we're in this same conference room
+[2:00:16] that David Anderson has his lab meetings
+[2:00:18] in, which is why you can always see that
+[2:00:19] it goes on for hours and hours. It has
+[2:00:21] glass walls and so people are walking
+[2:00:24] around outside looking at us sitting
+[2:00:26] there in silence pretty wonder not much
+[2:00:28] progress being done in that that last
+[2:00:29] meeting. So there's that whole social
+[2:00:32] perception aspect, but again once you
+[2:00:33] get over that and get used to it, it's
+[2:00:35] it's very easy to to do these exercises
+[2:00:38] and it's definitely a trainable skill
+[2:00:40] for sure.
+[2:00:41] >> Yeah, we were on the East Coast uh in
+[2:00:43] Annapolis um at the Naval Academy. These
+[2:00:45] are very accomplished students um almost
+[2:00:48] 4,000 of them. And one of the most
+[2:00:50] incredible things about that environment
+[2:00:52] is everyone goes into the cafeteria for
+[2:00:54] lunch and all of a sudden a bell sounds
+[2:00:56] and you could hear a pin drop. But
+[2:00:59] there's thousands of people around you.
+[2:01:01] >> You hear a bell again.
+[2:01:03] >> The meal begins.
+[2:01:04] >> Walking into the auditorium, it's
+[2:01:06] shuffle, shuffle, shuffle, talking,
+[2:01:07] talking, talking, talking talking. Boom.
+[2:01:09] [clears throat] It's a step function.
+[2:01:10] They're training this in themselves. And
+[2:01:13] the other thing, no phones.
+[2:01:15] >> No one has phones during the day. They
+[2:01:16] get I think they get an hour where they
+[2:01:18] can access their phones. I I normally my
+[2:01:19] my phone it's on right now because you
+[2:01:21] guys wanted to text me, but normally my
+[2:01:22] phone is off or I don't have a phone on
+[2:01:24] me
+[2:01:25] >> and and zero social media, not on X and
+[2:01:28] not on social, not on uh Facebook. I'm
+[2:01:30] not on Instagram. Zero. I just And you
+[2:01:34] know, whenever people ask me, they say,
+[2:01:36] "Oh, you know, can I hook you up with
+[2:01:38] what's that thing? LinkedIn or whatever.
+[2:01:40] I'm not on LinkedIn. I don't I don't
+[2:01:42] care what LinkedIn." And they're always
+[2:01:44] surprised and they say, "Well, why are
+[2:01:45] you not on social media?" And I say,
+[2:01:46] "Why would I be? I'm already above 100%
+[2:01:50] in terms of people emailing me. I don't
+[2:01:51] need more. So, I'm Yeah. zero.
+[2:01:54] >> Love that you've given yourself
+[2:01:56] permission to do that. Um, I put social
+[2:01:58] media on a separate phone so that I can
+[2:02:00] really track my time on there and I just
+[2:02:03] use it only to post, read a little bit,
+[2:02:05] and then I'm out.
+[2:02:06] >> I just I can't take the mental noise.
+[2:02:08] Before we started recording, you
+[2:02:10] mentioned that you fortunately
+[2:02:12] successfully overcame a bout of illness.
+[2:02:15] >> Yes. I'm curious whether the process of
+[2:02:17] going through that, the diagnosis, the
+[2:02:18] treatment, and then emerging from it,
+[2:02:20] thank goodness, healthy, had you at
+[2:02:22] times thinking about the science of
+[2:02:24] emotions. I mean, that's an emotional
+[2:02:26] experience to say the least. You don't
+[2:02:28] have to share with us exactly what it
+[2:02:29] was, but were there times when what your
+[2:02:32] knowledge of the brain's ability to
+[2:02:36] process emotions for better or worse was
+[2:02:38] a useful tool to you in that context?
+[2:02:40] >> I guess so. I mean, you know, only in
+[2:02:42] the most indirect sense, but uh I guess
+[2:02:45] it's about emotional regulation. Well,
+[2:02:47] it's about two things. I think it's
+[2:02:48] about emotional regulation. So, you
+[2:02:49] know, you know, initially when you get a
+[2:02:51] diagnosis that reminds you of your
+[2:02:54] mortality is sort of a mixture of, you
+[2:02:57] know, fear, [snorts]
+[2:02:58] sadness, worry, you know, all these
+[2:03:00] negative emotions. And so, you're
+[2:03:03] regulating that and it's interpersonal
+[2:03:05] for sure. So, interpersonal emotion
+[2:03:07] regulation between me and my wife, us
+[2:03:09] talking about it. So that's like a huge
+[2:03:11] part of the process. If you're not
+[2:03:14] regulating those negative emotions
+[2:03:15] anymore, but you're um you're buying
+[2:03:20] into you're getting more other emotions
+[2:03:23] like awe, gratitude, acceptance, all of
+[2:03:26] these emotions we were talking about
+[2:03:28] before that I think are largely uniquely
+[2:03:30] human uh that really make you appreciate
+[2:03:33] and be just grateful for what you have.
+[2:03:35] So that whole process of regulating the
+[2:03:37] sort of you know immediate stressors and
+[2:03:40] then coming to um having more gratitude
+[2:03:43] and awe in everyday life. Uh and then
+[2:03:46] you know also I mean I think one big
+[2:03:48] consequence of anything like that is
+[2:03:50] that you uh you have this metacognitive
+[2:03:53] perspective on your your lifeline and
+[2:03:55] you know where you are, how much time
+[2:03:57] you have left and how to value that and
+[2:03:59] what to do and what to plan uh and how
+[2:04:02] to allocate your time to things that are
+[2:04:04] worthwhile. And so in my case one of
+[2:04:06] those components was you know signing up
+[2:04:08] for this 100 mile ultramarathon starting
+[2:04:10] to train for it and then just pushing
+[2:04:13] through all of that. So, you know, one
+[2:04:15] of the consequences of the of the
+[2:04:16] therapy for this was I had lots of joint
+[2:04:18] pain and lots of fatigue. So, I tell my
+[2:04:21] doctor about that. You say, "That's
+[2:04:22] that's great. That means it's working."
+[2:04:24] It's like, "Yes, but the side effects
+[2:04:26] are preventing me from training for a
+[2:04:27] 100 mile race." And so, pushing through
+[2:04:30] that, I think it just it makes you
+[2:04:32] grateful for what you have and makes you
+[2:04:35] just be in awe of the fact that, you
+[2:04:37] know, we were briefly talking about
+[2:04:39] consciousness before that there's a
+[2:04:41] world there at all. You tend to have
+[2:04:43] this perspective that physics gives us
+[2:04:46] of the way the world works that you know
+[2:04:48] the world is going on and when you die
+[2:04:50] you get plucked out of that and
+[2:04:52] everything else goes on. But from a
+[2:04:54] neuroscience perspective it's kind of
+[2:04:56] the opposite. You get this sense that
+[2:04:58] the whole world is actually a
+[2:05:00] construction of stuff in your brain. And
+[2:05:02] as you get older little things drop out
+[2:05:04] and various people die and you're unable
+[2:05:06] to do things and eventually you lose the
+[2:05:09] whole world. So rather than thinking of
+[2:05:11] death as we normally do as the world
+[2:05:14] loses you, the neuroscience perspective
+[2:05:17] is the inverse which is you lose the
+[2:05:19] world. So you have like you know a
+[2:05:21] couple of decades left and then you're
+[2:05:22] going to lose everything and that's
+[2:05:24] coming. So live it up.
+[2:05:27] >> I love it and thank you so much for
+[2:05:29] being willing to answer that question.
+[2:05:31] And I um throughout today's
+[2:05:33] conversation, I I'm struck by the fact
+[2:05:35] that your work plays such a prominent
+[2:05:37] role in your life and your life in your
+[2:05:39] work, even if uh we weren't necessarily
+[2:05:41] connecting the dots in that way. The the
+[2:05:43] fact that you do practices specifically
+[2:05:45] to um tap into your autonomic nervous
+[2:05:48] system emotion regulation and at the
+[2:05:50] same time the fact that you look at
+[2:05:52] neural circuits and and do extremely
+[2:05:54] well-controlled studies to explore that
+[2:05:56] the mechanics that translate to
+[2:05:58] everybody. like this is a um in case
+[2:06:00] anyone hasn't told you um and because I
+[2:06:02] sit at a unique vantage point both
+[2:06:04] having done academic research and now in
+[2:06:06] public health communication people need
+[2:06:08] to hear this and see and experienced
+[2:06:11] scientists like you. So thank you so
+[2:06:13] much for coming here today for um being
+[2:06:16] willing to open up about some of this
+[2:06:18] and frankly for doing the work that you
+[2:06:20] do for so many years and such at such a
+[2:06:22] high level and I'm so grateful that
+[2:06:23] you're writing yet another book. Um, if
+[2:06:25] it's not out yet, we can't put a link to
+[2:06:27] it just yet, but when it comes out, I'll
+[2:06:29] surely get a copy. And even though
+[2:06:30] you're not on social media, uh, I'll be
+[2:06:32] sure to, uh, to talk about it after I've
+[2:06:34] read it because as I did the the prior
+[2:06:35] book that you wrote with David. So,
+[2:06:37] >> thank you very much, Andrew. It was a
+[2:06:38] pleasure being here. We'll stay in touch
+[2:06:40] and maybe at some point I can tell you
+[2:06:41] that I finished the 100 mile race and
+[2:06:42] the book got published.
+[2:06:43] >> Excellent. I have no doubt that you
+[2:06:46] will. Uh, whether I join you for that
+[2:06:47] 100 mile race is a completely different
+[2:06:49] story, but thank you so much, Ralph.
+[2:06:51] Appreciate it. Pleasure.
+[2:06:52] >> Thank you. Thank you for joining me for
+[2:06:53] today's discussion with Dr. Ralph
+[2:06:55] Adolf's. To learn more about his work
+[2:06:57] and to find links to his previous and
+[2:06:59] forthcoming books, please see the link
+[2:07:01] in the show notes caption. If you're
+[2:07:03] learning from and or enjoying this
+[2:07:04] podcast, please subscribe to our YouTube
+[2:07:06] channel. That's a terrific zerocost way
+[2:07:08] to support us. In addition, please
+[2:07:10] follow the podcast by clicking the
+[2:07:11] follow button on both Spotify and Apple.
+[2:07:14] And on both Spotify and Apple, you can
+[2:07:15] leave us up to a five-star review. And
+[2:07:17] you can now leave us comments at both
+[2:07:19] Spotify and Apple. Please also check out
+[2:07:21] the sponsors mentioned at the beginning
+[2:07:23] and throughout today's episode. That's
+[2:07:25] the best way to support this podcast. If
+[2:07:27] you have questions for me or comments
+[2:07:29] about the podcast or guests or topics
+[2:07:31] that you'd like me to consider for the
+[2:07:32] Huberman Lab podcast, please put those
+[2:07:34] in the comment section on YouTube. I do
+[2:07:36] read all the comments. For those of you
+[2:07:38] that haven't heard, I have a new book
+[2:07:39] coming out. It's my very first book.
+[2:07:41] It's entitled Protocols: An Operating
+[2:07:43] Manual for the Human Body. This is a
+[2:07:45] book that I've been working on for more
+[2:07:46] than five years and that's based on more
+[2:07:48] than 30 years of research and
+[2:07:50] experience. And it covers protocols for
+[2:07:52] everything from sleep to exercise to
+[2:07:56] stress control protocols related to
+[2:07:58] focus and motivation. And of course, I
+[2:08:00] provide the scientific substantiation
+[2:08:02] for the protocols that are included. The
+[2:08:05] book is now available by pre-sale at
+[2:08:06] protocolsbook.com.
+[2:08:08] There you can find links to various
+[2:08:10] vendors. You can pick the one that you
+[2:08:12] like best. Again, the book is called
+[2:08:14] Protocols, an operating manual for the
+[2:08:16] human body. And if you're not already
+[2:08:18] following me on social media, I am
+[2:08:20] Huberman Lab on all social media
+[2:08:21] platforms. So that's Instagram, X,
+[2:08:24] Threads, Facebook, and LinkedIn. And on
+[2:08:26] all those platforms, I discuss science
+[2:08:28] and science related tools, some of which
+[2:08:30] overlaps with the content of the
+[2:08:31] Hubberman Lab podcast, but much of which
+[2:08:33] is distinct from the information on the
+[2:08:35] Hubberman Lab podcast. Again, it's
+[2:08:36] Huberman Lab on all social media
+[2:08:38] platforms. And if you haven't already
+[2:08:40] subscribed to our neural network
+[2:08:42] newsletter, the neural network
+[2:08:43] newsletter is a zerocost monthly
+[2:08:45] newsletter that includes podcast
+[2:08:46] summaries as well as what we call
+[2:08:48] protocols in the form of 1 to three page
+[2:08:50] PDFs that cover everything from how to
+[2:08:52] optimize your sleep, how to optimize
+[2:08:54] dopamine, deliberate cold exposure. We
+[2:08:56] have a foundational fitness protocol
+[2:08:58] that covers cardiovascular training and
+[2:09:00] resistance training. All of that is
+[2:09:01] available completely zero cost. You
+[2:09:03] simply go to hubermanlab.com, go to the
+[2:09:05] menu tab in the top right corner, scroll
+[2:09:07] down to newsletter, and enter your
+[2:09:09] email. And I should emphasize that we do
+[2:09:11] not share your email with anybody. Thank
+[2:09:13] you once again for joining me for
+[2:09:15] today's discussion with Dr. Ralph
+[2:09:16] Adolf's. And last, but certainly not
+[2:09:19] least, thank [music] you for your
+[2:09:20] interest in science.
