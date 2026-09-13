@@ -191,3 +191,16 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 [20:43:45] pass 1 ended: +0 (now 36/526)
 [20:43:45] sleeping 60 min before next pass
+[21:43:45] pass 2: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[22:04:57] pass 2 ended: +0 (now 36/526)
+[22:04:57] sleeping 60 min before next pass
