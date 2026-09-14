@@ -743,7 +743,7 @@
     (bileşik 8-12, izolasyon 12-15 tekrar, RPE 7-8, ağır günün %85 yüküyle). Perşembe dinlenme. Yükü yalnızca
     ağır günün top seti sürükler: aralığın tepesini gördüğünde ağırlık artar, göremediğinde sabit kalır — hacim
     günü yükü bundan türetilir. Bir hareketin tahmini 1RM'i üst üste iki seans düşerse takvimi beklemeden
-    <strong>deload</strong> devreye girer: aynı yük, yarı set, RPE 6'da kes.
+    <strong>deload</strong> devreye girer: ağırlık %10 iner, set sayısı yarılanır, RPE 6'da kesilir.
     Seanslarını Strong uygulamasında tutmaya devam et; bu sayfa o dışa aktarımdan üretilen 2019-2026 arası
     geçmişi okur ve GitHub Pages üzerinden statik olarak yayınlanır.
     <strong>RPE</strong> = hedeflenen zorlanma hissi (10 üzerinden, 10 = bir tekrar daha yapamazdın). Setler
@@ -1368,7 +1368,9 @@
     var stalling = isStalling(occ);
     var load = mode === "heavy" ? heavyW : roundLoad(heavyW * 0.85);
     if (stalling) {
+      // Backing off means backing off: lighter bar and half the sets.
       trend = "deload";
+      load = roundLoad(load * 0.9);
       setCount = Math.max(1, Math.round(setCount / 2));
     }
 
@@ -1479,10 +1481,10 @@
       head.appendChild(nameEl);
       head.appendChild(el("div", "prog-last", "son: " + fmt(it.lastWeight, 1) + " kg × " + it.lastReps + " (" + trDate(it.lastDate) + ")"));
       var TREND_TEXT = {
-        load: "tekrar düşüyor, ağırlık artıyor",
-        up: "aralığın tepesi doldu → ağırlık artıyor",
-        hold: "aralığın içindesin → ağırlık sabit",
-        deload: "e1RM iki seans düştü → deload, set yarıya indi"
+        load: "ağırlık artıyor",
+        up: "ağırlık artıyor",
+        hold: "ağırlık sabit",
+        deload: "ağırlık düşüyor"
       };
       head.appendChild(el("div", "prog-trend" + (it.trend === "deload" ? " deload"
         : it.trend === "hold" ? " repeat" : " up"), TREND_TEXT[it.trend] || ""));
