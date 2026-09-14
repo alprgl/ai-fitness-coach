@@ -1,0 +1,3526 @@
+# Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge
+# id=jjaFnKtytqI published=2026-06-08 lang=en generated=True
+
+[0:00:00] What was it that they ate that day that
+[0:00:02] impacted how they slept that night? And
+[0:00:05] we found that higher intakes of fiber
+[0:00:09] were associated with more deep sleep,
+[0:00:11] higher intakes of saturated fat, less
+[0:00:13] deep sleep, and then more refined
+[0:00:15] carbohydrates, simple sugars, more
+[0:00:18] arousals. You're not getting deep
+[0:00:21] slow-wave sleep, REM sleep as much as
+[0:00:24] you would otherwise.
+[0:00:26] >> Welcome to the Huberman Lab Podcast,
+[0:00:27] where we discuss science and [music]
+[0:00:29] science-based tools for everyday life.
+[0:00:35] I'm Andrew Huberman, and I'm a professor
+[0:00:37] of neurobiology and ophthalmology at
+[0:00:39] Stanford School of Medicine. My guest
+[0:00:41] today is Dr. Marie-Pierre St-Onge, a
+[0:00:44] professor of nutritional medicine at the
+[0:00:46] Institute of Human Nutrition at Columbia
+[0:00:48] University School of Medicine.
+[0:00:50] Today we discuss how you eat impacts
+[0:00:53] your sleep, and how you sleep impacts
+[0:00:55] what you eat, as well as how your body
+[0:00:57] utilizes food depending on how you
+[0:00:59] slept. Now, we've talked about food, and
+[0:01:01] we've talked about sleep many times
+[0:01:03] before on this podcast, but Dr.
+[0:01:05] St-Onge's work is unique because she
+[0:01:07] runs one of the few laboratories in the
+[0:01:08] world to look at the bidirectional
+[0:01:10] relationship between sleep and food. For
+[0:01:13] instance, you'll learn how even modest
+[0:01:14] sleep deprivation increases hunger, but
+[0:01:17] differently in men and women. In men, it
+[0:01:20] happens to increase the hormones that
+[0:01:21] drive the desire to eat, whereas in
+[0:01:23] women, it reduces naturally made
+[0:01:24] peptides such as GLP, which suppress
+[0:01:27] hunger. Today's discussion gets into the
+[0:01:29] specific actionable items that you can
+[0:01:31] do to improve your sleep and the way
+[0:01:33] that your body handles food and hunger.
+[0:01:35] We talk about the role of sleep in
+[0:01:37] regulating blood sugar, cortisol levels,
+[0:01:39] overall metabolism, and cardiometabolic
+[0:01:42] health. Now, because Dr. St-Onge's
+[0:01:43] research focuses on sleep and nutrition,
+[0:01:46] but she's also spent a significant
+[0:01:47] amount of time studying how specific
+[0:01:49] nutrients impact overall health and not
+[0:01:51] just sleep, we also talk about that. I'm
+[0:01:54] certain that you'll come away from
+[0:01:55] today's episode with a lot of new
+[0:01:56] information you haven't heard elsewhere,
+[0:01:58] as well as with the intention to make
+[0:02:00] small or perhaps even large changes in
+[0:02:02] behavior and nutritional choices that
+[0:02:04] the science tell us can significantly
+[0:02:06] improve your sleep, your metabolism, and
+[0:02:08] overall health. Before we begin, I'd
+[0:02:10] like to emphasize that this podcast is
+[0:02:12] separate from my teaching and research
+[0:02:13] roles at Stanford. It is, however, part
+[0:02:15] of my desire and effort to bring
+[0:02:17] zero-cost to consumer information about
+[0:02:18] science and science-related tools to the
+[0:02:21] general public. In keeping with that
+[0:02:22] theme, today's episode does include
+[0:02:24] sponsors. And now for my discussion with
+[0:02:27] Dr. Marie-Pierre St-Onge. Dr.
+[0:02:29] Marie-Pierre St-Onge, welcome.
+[0:02:31] >> Thank you for having me.
+[0:02:33] >> Sleep impacts how and what we eat and
+[0:02:36] how and what we eat impacts sleep.
+[0:02:39] That's a different perspective than I
+[0:02:40] think most people take. I think most
+[0:02:41] people are familiar, however, with
+[0:02:44] not getting the best night's sleep,
+[0:02:46] maybe feeling like their
+[0:02:48] impulsivity to eat quote-unquote bad
+[0:02:50] foods is a little higher, and then also
+[0:02:53] hopefully familiar with
+[0:02:55] having a great night's sleep and feeling
+[0:02:56] like we're just kind of in control in a
+[0:02:58] different way.
+[0:03:00] Maybe you could just kind of share for
+[0:03:01] us what's really going on beneath that
+[0:03:03] experience and when subtle or
+[0:03:06] not-so-subtle chronic sleep loss, so not
+[0:03:10] an all-nighter necessarily, but you
+[0:03:12] know, 45 minutes less here, 90 minutes
+[0:03:14] less there, etc., etc., how that plays
+[0:03:17] out in terms of our nutrition, and then
+[0:03:19] we'll go in from the nutrition side to
+[0:03:21] sleep.
+[0:03:21] >> Sure. So, there's a couple of questions
+[0:03:24] that you have in there, actually, about
+[0:03:27] the extent of sleep loss and how that
+[0:03:29] influences your food intake, what we see
+[0:03:33] in the general population versus what we
+[0:03:35] do in the lab to address causality. So,
+[0:03:39] let me start with, you know, the
+[0:03:40] population-based studies, right? So,
+[0:03:43] when I started being interested in in
+[0:03:46] sleep, it was coming from an obesity
+[0:03:48] angle. My PhD is in nutrition. I trained
+[0:03:51] as a postdoc in
+[0:03:53] body composition, obesity research. And
+[0:03:56] we were getting a lot of information
+[0:03:58] from population-based studies that
+[0:04:00] people who sleep too little
+[0:04:03] have a higher body mass index than
+[0:04:06] people who get adequate amount of sleep.
+[0:04:09] Then it became there is a higher
+[0:04:11] prevalence of people with obesity in
+[0:04:14] this short sleep
+[0:04:16] uh group.
+[0:04:18] Then studies evaluating changes over
+[0:04:22] time
+[0:04:23] seeing that people who don't sleep
+[0:04:25] enough tend to gain more weight. There
+[0:04:28] was a famous uh Nurses' Health Study
+[0:04:30] that I really like to cite uh when I
+[0:04:32] give talks that was published in 2006
+[0:04:35] where uh they tracked nurses over 14
+[0:04:39] years and those nurses that reported
+[0:04:42] sleeping 5-6 hours had much higher rate
+[0:04:46] of weight gain over that 14-15 year
+[0:04:49] period than the nurses who had reported
+[0:04:51] sleeping 7 or 8 hours per night.
+[0:04:54] So those are observations that we get
+[0:04:56] from large-scale population studies,
+[0:04:58] cohorts.
+[0:05:00] But, you know, what they what those
+[0:05:01] studies tell us is that things are
+[0:05:03] happening
+[0:05:05] at a point in time or may influence
+[0:05:07] something that's happening over time,
+[0:05:10] but not necessarily that one causes the
+[0:05:13] other, right? So I started um my work in
+[0:05:17] this field trying to uncover whether
+[0:05:20] sleeping too little actually causes
+[0:05:23] weight gain.
+[0:05:25] And so in my opinion, because I was
+[0:05:27] coming from a lab where I trained in the
+[0:05:29] measurement of energy balance, so how
+[0:05:31] much energy how much energy you eat
+[0:05:33] versus how much energy you burn, I was
+[0:05:35] like, well, if sleep leads to obesity,
+[0:05:39] leads to weight gain, it has to impact
+[0:05:42] this energy balance
+[0:05:44] regulation. So it's either that we eat
+[0:05:47] more than we should
+[0:05:49] or that we exercise less. We burn less
+[0:05:53] or we
+[0:05:54] eat more or maybe it's a combination of
+[0:05:56] the two. Let's try this out and and see.
+[0:06:00] So my first my first study my first NIH
+[0:06:03] grant the big R01s, you know, was to
+[0:06:07] look at exactly at this. So we had
+[0:06:09] people who had adequate sleep
+[0:06:12] and we brought them in the lab and we
+[0:06:14] asked them in a crossover design. So
+[0:06:18] half of the participants started out
+[0:06:20] sleeping adequately. So they we gave
+[0:06:22] them a 9-hour time in bed opportunity
+[0:06:25] or we asked them to sleep too little. So
+[0:06:28] they had a 4-hour time in bed
+[0:06:29] opportunity, very short. But we did this
+[0:06:32] for 5 nights.
+[0:06:34] And then we took all sorts of
+[0:06:36] measurements in a controlled feeding
+[0:06:38] condition. So for the first 3 days, we
+[0:06:42] told our we had our participants eat the
+[0:06:44] exact same thing regardless of how much
+[0:06:47] time in bed they slept they got at
+[0:06:48] night.
+[0:06:49] And then we measured appetite regulating
+[0:06:51] hormones. We did neuroimaging
+[0:06:54] uh to really get at isolating the impact
+[0:06:57] of sleep duration on appetite regulating
+[0:06:59] hormones and and um
+[0:07:02] neuronal responses to foods. And then
+[0:07:06] on the last day, we let them self-select
+[0:07:08] their food intake and we measured that
+[0:07:10] in the lab. From that study, we showed
+[0:07:14] that in men specifically, uh we saw an
+[0:07:17] increase in ghrelin
+[0:07:19] in response to the short sleep. So this
+[0:07:21] hormone that triggers food intake.
+[0:07:24] In women, we saw a reduction in GLP-1,
+[0:07:28] interestingly enough. Glucagon-like
+[0:07:29] peptide-1. So the satiety hormone was
+[0:07:32] reduced as a result of short sleep in
+[0:07:34] women. And then when we measured their
+[0:07:37] food intake in the lab, they ate 300
+[0:07:39] calories more in the short sleep
+[0:07:41] condition than the
+[0:07:43] when they got their regular adequate
+[0:07:46] sleep of at least 7 and 1/2 hours, a
+[0:07:48] little more than that
+[0:07:50] per night.
+[0:07:52] Then you were asking about, you know,
+[0:07:54] brain responses.
+[0:07:56] We looked at neuronal responses to food
+[0:07:59] stimuli.
+[0:08:00] We found upregulation in reward centers
+[0:08:03] of the brain
+[0:08:05] in the context of sleep restriction
+[0:08:06] compared to the context of adequate
+[0:08:08] sleep. So all together really building a
+[0:08:11] case that when you don't sleep enough at
+[0:08:13] night, you have both physiological
+[0:08:16] signals to eat more for men or
+[0:08:20] not stop eating in women that lead to
+[0:08:24] greater food intake that's also could be
+[0:08:27] impacted by
+[0:08:29] just pleasurable centers that are
+[0:08:31] activated to a greater extent as a
+[0:08:33] result of insufficient sleep.
+[0:08:35] >> Amazing. This sex-specific split in the
+[0:08:38] data, if I have it correctly, that when
+[0:08:40] men are sleep-deprived, so getting 4
+[0:08:43] hours per night,
+[0:08:44] the
+[0:08:45] signals that drive appetitive desire to
+[0:08:49] eat are higher. In women, it's more that
+[0:08:51] the break
+[0:08:52] on eating, on satiety, is reduced.
+[0:08:55] >> Exactly.
+[0:08:55] >> Okay. As far as I know, the GLP pathways
+[0:08:58] are not
+[0:08:59] divergent by by sex, but of course I'm
+[0:09:02] not deeply versed in that literature. Is
+[0:09:04] there any evidence that GLPs are
+[0:09:06] functioning different in men and women
+[0:09:08] like circadian wise or anything like
+[0:09:10] that or this just this was just a
+[0:09:12] fortuitous outcome or as I say a
+[0:09:15] incidental outcome?
+[0:09:16] >> This was an incidental outcome. We
+[0:09:18] really didn't know what to expect. We
+[0:09:20] didn't really know at all that
+[0:09:22] we'd see sex differences
+[0:09:24] >> Mhm.
+[0:09:25] >> because there had been prior studies and
+[0:09:28] prior studies had shown that ghrelin was
+[0:09:31] increased as a result of sleep
+[0:09:32] restriction. They also showed that
+[0:09:34] leptin was reduced as a result of sleep
+[0:09:36] restriction.
+[0:09:38] And when we got our data, we analyzed
+[0:09:41] our data with
+[0:09:42] all of our participants together.
+[0:09:46] And there was no effect.
+[0:09:48] >> [clears throat]
+[0:09:48] >> And that was surprising, and people
+[0:09:50] would say, "Don't you know? Don't you
+[0:09:51] know sleep restriction
+[0:09:54] increases ghrelin?"
+[0:09:56] Like,
+[0:09:56] "Well, I guess I don't know because in
+[0:09:58] our study it doesn't." But
+[0:10:01] then we saw these sex-specific
+[0:10:03] differences, and it made sense then that
+[0:10:05] in the full sample, when we had an equal
+[0:10:07] number of men and women, we saw no
+[0:10:10] effect on ghrelin because there was no
+[0:10:11] effect
+[0:10:12] in women, but there was an effect in
+[0:10:13] men, which was reproducing what others
+[0:10:16] had found because all the prior studies
+[0:10:18] had been done in men only.
+[0:10:20] >> I'd like to take a quick break to
+[0:10:22] acknowledge one of our sponsors, David.
+[0:10:24] David makes protein bars unlike any
+[0:10:26] other. Their newest bar, the bronze bar,
+[0:10:29] has 20 g of protein, only 150 calories,
+[0:10:32] and 0 g of sugar. I have to say, these
+[0:10:35] are the best-tasting protein bars I've
+[0:10:37] ever had, and I've tried a lot of
+[0:10:39] protein bars over the years. These new
+[0:10:41] David bars have a marshmallow base, and
+[0:10:43] they're covered in chocolate coating,
+[0:10:45] and they're absolutely incredible. I, of
+[0:10:47] course, eat regular whole foods. I eat
+[0:10:49] meat, chicken, fish, eggs, fruits,
+[0:10:51] vegetables, etc. But I also make it a
+[0:10:53] point to eat one or two David bars per
+[0:10:55] day as a snack, which makes it easy to
+[0:10:57] hit my protein goal of 1 g of protein
+[0:10:59] per pound of body weight, and that
+[0:11:01] allows me to take in the protein I need
+[0:11:03] without consuming excess calories. I
+[0:11:05] love all the David Bronze Bar flavors,
+[0:11:07] including cookie dough, caramel
+[0:11:09] chocolate, double chocolate, peanut
+[0:11:11] butter chocolate. They all actually
+[0:11:12] taste like candy bars. Again, they're
+[0:11:14] amazing, but again, they have no sugar,
+[0:11:16] and they have 20 g of protein with just
+[0:11:18] 150 calories. If you'd like to try
+[0:11:21] David, you can go to
+[0:11:22] davidprotein.com/huberman.
+[0:11:24] Right now, David is offering a deal
+[0:11:26] where if you buy four cartons, you get
+[0:11:28] the fifth carton for free. You can also
+[0:11:30] find David on Amazon or in stores such
+[0:11:32] as Target, Walmart, and Kroger. Again,
+[0:11:34] to get the fifth carton for free, go to
+[0:11:36] davidprotein.com/huberman.
+[0:11:39] Today's episode is also brought to us by
+[0:11:41] BetterHelp. BetterHelp offers
+[0:11:43] professional therapy with a licensed
+[0:11:44] therapist carried out entirely online.
+[0:11:47] Now, I've been doing therapy for a very
+[0:11:48] long time, and I can tell you that it's
+[0:11:50] a lot like physical workouts. There are
+[0:11:52] days when I want to do it, and there are
+[0:11:53] days when I don't want to do it. But,
+[0:11:55] when I finish a therapy session, every
+[0:11:57] single time I come away feeling better
+[0:11:59] and knowing that the time was well
+[0:12:00] spent. There's just so many benefits
+[0:12:02] that come through effective therapy.
+[0:12:04] Now, with BetterHelp, they make it very
+[0:12:05] easy to find an expert therapist who can
+[0:12:07] help provide the benefits that come from
+[0:12:09] effective therapy. You fill out a short
+[0:12:11] questionnaire to match you to a
+[0:12:12] therapist, and while BetterHelp has an
+[0:12:14] industry-leading match rate, if you
+[0:12:16] aren't happy with your match, you can
+[0:12:17] switch to a different therapist at any
+[0:12:19] time. And it works. BetterHelp has an
+[0:12:22] average rating of 4.9 out of five for
+[0:12:24] its live sessions based on over 1.7
+[0:12:27] million client reviews. If you would
+[0:12:29] like to try BetterHelp, go to
+[0:12:31] betterhelp.com/huberman
+[0:12:33] to get 10% off your first month. Again,
+[0:12:35] that's betterhelp.com/huberman.
+[0:12:39] Whenever I'm sleep deprived, though four
+[0:12:41] or five hours of sleep I consider sleep
+[0:12:43] deprived. I used to pull all-nighters
+[0:12:45] years ago. Now, I avoid them at all
+[0:12:47] costs. But, whenever I have that
+[0:12:49] experience,
+[0:12:50] I feel like
+[0:12:52] my whole body to some extent is in a low
+[0:12:54] level of pain.
+[0:12:56] It's a kind of it's like central ache.
+[0:12:58] Like you just And and I wonder uh
+[0:13:00] extent to which people eat to overcome
+[0:13:03] like to kind of quell the the pain of
+[0:13:05] sleep deprivation. Maybe people react
+[0:13:07] differently to sleep deprivation. Maybe
+[0:13:09] their subjective experience of it is is
+[0:13:10] very different. But, what do you think
+[0:13:12] is happening in that uh in that short
+[0:13:15] relatively short amount of sleep that's
+[0:13:16] missing? What is getting reset? Is it
+[0:13:19] neural? Is it endocrine? It's obviously
+[0:13:22] all those things, but what do you think
+[0:13:23] is the the switch that allows people to
+[0:13:25] enter a a day in a in a much more
+[0:13:27] healthy fashion or or a sick essentially
+[0:13:30] in a slightly sick fashion.
+[0:13:32] >> In our study, it was actually a 50%
+[0:13:34] reduction in sleep because when they had
+[0:13:36] 9 hours sleep opportunity, they slept
+[0:13:39] around 7 and 1/2. And when they had the
+[0:13:42] They were all people who had screened to
+[0:13:44] sleep at least 7 measured by actigraphy.
+[0:13:47] So, and on average they get 7 and 1/2.
+[0:13:50] And in the sleep restricted condition,
+[0:13:53] they got on average about 3 hours and 50
+[0:13:56] minutes.
+[0:13:57] >> So, it's like staying up late working on
+[0:13:58] a deadline then trying to catch an early
+[0:14:00] flight.
+[0:14:00] >> Yeah.
+[0:14:01] >> brutal.
+[0:14:01] >> It's pretty brutal. Yeah. And that was
+[0:14:03] maintained, you know, they had 5 nights
+[0:14:05] of that. So, that
+[0:14:06] >> 5 nights of that.
+[0:14:07] >> Yeah.
+[0:14:07] >> Were they coming unglued mentally, too?
+[0:14:09] That I think I would feel terrible after
+[0:14:12] that kind of stretch.
+[0:14:14] >> That Yeah, they were done. Like there's
+[0:14:15] no way anyone would want to keep keep
+[0:14:17] coming for that. But they were in the
+[0:14:19] lab. They were under supervision the
+[0:14:20] whole time. We didn't let them go out on
+[0:14:22] their own.
+[0:14:23] Uh so, they were well supervised to make
+[0:14:25] sure that nothing
+[0:14:26] nothing would happen to them.
+[0:14:27] >> No naps?
+[0:14:28] >> No naps. Nope.
+[0:14:30] Nope. Uh but so, what happens is I think
+[0:14:33] there's some
+[0:14:35] subconscious need to to eat more when
+[0:14:39] you're sleep deprived. There's also, you
+[0:14:41] know, there's a thermic effect of of
+[0:14:43] food, right? So, it gives you a jolt of
+[0:14:44] energy to eat something. So, people know
+[0:14:47] that. You eat it wakes you up in a way.
+[0:14:50] You know, neuronal signaling that that
+[0:14:54] enhances uh pleasurable and reward
+[0:14:57] centers of the brain where, you know, if
+[0:14:59] when also fatigue sets in and now it's
+[0:15:01] like do you really have want to have
+[0:15:03] this
+[0:15:04] conversation with yourself about what to
+[0:15:06] choose at the buffet table?
+[0:15:08] You know, it
+[0:15:09] there's fatigue. And uh and others have
+[0:15:12] shown also that sleepiness tends to
+[0:15:15] correlate with all of this. That there's
+[0:15:17] these
+[0:15:18] triggers for more pleasurable food
+[0:15:21] consumption with um with the sleep
+[0:15:23] restriction. It's been reproduced.
+[0:15:25] There's been so many studies
+[0:15:27] and they all you know, agree to to the
+[0:15:30] extent of overeating. You know, a
+[0:15:32] meta-analysis showed 250 to 400 calories
+[0:15:36] of overeating.
+[0:15:37] >> Which might not sound like much, but
+[0:15:39] when you start layering that in day
+[0:15:40] after day and you think, you know, 3,500
+[0:15:43] excess calories more or less for a pound
+[0:15:45] of body weight and then you start when
+[0:15:46] people accumulate that over time if
+[0:15:49] they're in a night shift condition or
+[0:15:51] new parents or tending to a sick
+[0:15:54] relative or just final exams. Like it
+[0:15:56] it's a real thing.
+[0:15:57] >> It's a real thing. Naima Covassin in
+[0:16:00] 2022 published a paper where
+[0:16:03] they had sleep restriction about 5 hours
+[0:16:05] per night versus 7 and 1/2 hours per
+[0:16:08] night for 2 weeks and participants
+[0:16:10] gained half a kilo in a 2-week period.
+[0:16:13] So, you do nothing and you just you
+[0:16:15] know, sleep less and gain gain almost
+[0:16:18] a pound in 2 weeks.
+[0:16:20] >> It strikes me that, you know, for a long
+[0:16:22] time in the stress research, the idea
+[0:16:24] was when people are stressed they reach
+[0:16:26] for kind of quote unquote comfort foods,
+[0:16:28] carbohydrate and typically starch fat,
+[0:16:31] starch fat sugar combination foods to
+[0:16:33] comfort them and and the the just-so
+[0:16:35] story was always that
+[0:16:37] okay, well, you know, cortisol's main
+[0:16:40] role is to deploy glucose and so people
+[0:16:42] are doing this as a way to bring excess
+[0:16:44] energy and and it all kind of fits
+[0:16:46] together. What is the relationship
+[0:16:48] between these forms of sleep deprivation
+[0:16:50] that you work on and stress? Is it
+[0:16:52] really a way of of I'm not saying just
+[0:16:54] inducing stress cuz I think sleep is its
+[0:16:56] own thing, but it's stressful just to be
+[0:17:00] less than adequately rested independent
+[0:17:02] of the things coming at you in life,
+[0:17:04] right? Is what you're studying stress?
+[0:17:06] >> So, if you're thinking about
+[0:17:07] physiological stress measured by
+[0:17:09] cortisol levels in that study, actually
+[0:17:11] cortisol wasn't
+[0:17:13] changed.
+[0:17:14] >> In the short sleep.
+[0:17:15] >> in the
+[0:17:15] >> sleep.
+[0:17:16] >> Tell me more about that. I'm fascinated
+[0:17:17] by circadian rhythms and cortisol. So,
+[0:17:19] what is it what is that what is that
+[0:17:20] mean?
+[0:17:21] >> There was no difference between the two
+[0:17:22] conditions adequate sleep or short sleep
+[0:17:25] on cortisol levels in our
+[0:17:26] >> For 5 days of sleep restriction at
+[0:17:28] basically 4 hours a night. So, cortisol
+[0:17:30] still peaking in the in the morning,
+[0:17:33] still dropping in the evening.
+[0:17:35] >> Yeah.
+[0:17:35] >> Wow, that's very surprising to me.
+[0:17:37] >> I don't know. I don't know if it's the
+[0:17:38] contacts of, you know, being in the lab
+[0:17:42] where everything's safe, taken care of
+[0:17:44] for them. There's nothing outside to
+[0:17:48] aggravate
+[0:17:49] >> Mhm.
+[0:17:49] >> this. [clears throat]
+[0:17:50] So, I don't know. Maybe when you're in
+[0:17:51] the context of sleep restriction, but
+[0:17:54] also dealing with
+[0:17:56] your daily life
+[0:17:58] >> Mhm.
+[0:17:58] >> you're needing to take care of your
+[0:17:59] kids, they're needing to get to work,
+[0:18:01] needing to do all of the activities of
+[0:18:03] daily living, maybe then that becomes,
+[0:18:06] you know, the the added stressful.
+[0:18:08] >> So, the message is if you
+[0:18:10] suffer
+[0:18:12] less than adequate sleep, get someone to
+[0:18:14] take care of it.
+[0:18:15] >> Everything else.
+[0:18:16] >> You better be [laughter] in a spa.
+[0:18:17] >> Exactly. Exactly.
+[0:18:19] >> [clears throat]
+[0:18:19] >> No, I and I'm not challenging the
+[0:18:20] result. I just find it really
+[0:18:21] interesting. I would have thought that
+[0:18:22] basal cortisol levels would would go
+[0:18:24] awry.
+[0:18:25] >> Well, in that study also, we didn't see
+[0:18:27] any effect on glucose or insulin.
+[0:18:29] Nothing.
+[0:18:30] Nothing.
+[0:18:32] The curves were superimposable.
+[0:18:36] >> Wild.
+[0:18:37] >> They were eating the exact same food at
+[0:18:39] the exact same time, exact same
+[0:18:42] quantity. The only thing we changed was
+[0:18:45] the amount of sleep opportunity they got
+[0:18:47] at night. So, to me, this means that
+[0:18:50] it's a combination of different things
+[0:18:52] that causes the metabolic abnormalities
+[0:18:54] that we notice in free-living
+[0:18:57] populations. People aren't isolated,
+[0:18:59] they're not in a box where they're not
+[0:19:01] sleeping enough, and they're choosing to
+[0:19:04] eat higher-fat, higher-sugar,
+[0:19:06] higher-salt poorer diet
+[0:19:10] that then triggers a worsening and maybe
+[0:19:13] compounded by the lack of sleep even
+[0:19:16] worsening of of those cardiometabolic
+[0:19:19] outcomes because we did a follow-up
+[0:19:22] study to this this severe sleep
+[0:19:24] restriction study. So the reason why we
+[0:19:25] did that was because exactly for this
+[0:19:27] reason because we did not find any
+[0:19:30] adverse impact on glucose or insulin or
+[0:19:33] lipid profile.
+[0:19:35] And we're like so what is it then? Why
+[0:19:37] is it that in population-based studies
+[0:19:40] we find that people who sleep too little
+[0:19:43] have higher risk of cardiovascular
+[0:19:46] disease, higher risk of hypertension,
+[0:19:47] higher blood pressure, higher risk of
+[0:19:49] type 2 diabetes. So
+[0:19:52] because we had seen that food choices
+[0:19:55] were different that they ate a diet that
+[0:19:58] was higher in calories, higher
+[0:20:00] in fat and saturated fat, we thought
+[0:20:02] maybe if you're in a free-living
+[0:20:05] situation
+[0:20:06] that's when you start to see those
+[0:20:08] cardiometabolic outcomes because it's
+[0:20:10] compounded by
+[0:20:12] maybe
+[0:20:13] more sedentary behavior and
+[0:20:16] alterations in in food choices and and
+[0:20:19] diet.
+[0:20:20] So the follow-up study then was to
+[0:20:23] recruit good sleepers, people who sleep
+[0:20:26] at least 7 hours per night verified by
+[0:20:29] actigraphy, who answer on questionnaires
+[0:20:31] that their sleep quality is good. And
+[0:20:35] then to take these people and say okay
+[0:20:37] now you're either going to continue your
+[0:20:42] excellent sleep or
+[0:20:45] you're going to now
+[0:20:47] go to bed an hour and a half later so
+[0:20:50] that you get an hour and a half
+[0:20:51] reduction in sleep. Because when we
+[0:20:53] screen people to sleep at least 7 hours
+[0:20:56] per night, they sleep about 7 and a
+[0:20:57] half.
+[0:20:58] And reducing by an hour and a half gets
+[0:21:01] to 6 hours which is short sleep,
+[0:21:03] insufficient
+[0:21:05] on average what people who don't get
+[0:21:07] enough sleep get?
+[0:21:09] >> They're missing a full sleep cycle.
+[0:21:10] >> Yeah, pretty much. And
+[0:21:13] uh and they can sustain that for
+[0:21:15] prolonged periods because that's what
+[0:21:17] people report in in population-based
+[0:21:19] studies. And now, when we did that,
+[0:21:21] we saw that insulin resistance was
+[0:21:25] increased after 6 weeks of sleep
+[0:21:28] restriction compared to adequate sleep.
+[0:21:30] We saw insulin sensitivity was reduced.
+[0:21:34] It was worse, actually, in
+[0:21:35] postmenopausal women compared to
+[0:21:37] premenopausal women. We saw blood
+[0:21:39] pressure uh was increased. Uh so, those
+[0:21:43] cardiometabolic outcomes were adversely
+[0:21:45] impacted in free-living mild sustained
+[0:21:48] sleep restriction for 6 weeks. 6 weeks
+[0:21:51] was something else, also.
+[0:21:52] >> [laughter]
+[0:21:53] >> It was uh it was tough.
+[0:21:54] >> I can only imagine.
+[0:21:56] Wow, okay. Because my mind always
+[0:22:00] goes to, all right, well, we wake up in
+[0:22:02] the morning because of an increase in
+[0:22:03] cortisol, that's circadian, and it's not
+[0:22:05] related to sleep, per se, it just kind
+[0:22:07] of overlaps with the end of the night's
+[0:22:09] sleep. If that's independent of sleep,
+[0:22:12] and cortisol drives glucose release, we
+[0:22:14] know this. At least in the first study
+[0:22:16] you described, glucose levels weren't
+[0:22:18] altered. You said it was isocaloric, so
+[0:22:20] people were it's not like they're eating
+[0:22:22] more. They're the hormones that are
+[0:22:25] driving the desire to eat more are
+[0:22:27] elevated.
+[0:22:28] >> But we didn't let them eat more, yeah.
+[0:22:30] >> Right. But you didn't let them. I think
+[0:22:31] that's a a key thing that you you
+[0:22:33] pointed out before, but I think we want
+[0:22:34] to uh underscore. And then, of course,
+[0:22:36] the GLP
+[0:22:38] uh levels in women being reduced, it's
+[0:22:40] not that that they were able to eat, as
+[0:22:42] we say, ad libitum, and then they happen
+[0:22:43] to eat more, but they gained weight. So,
+[0:22:46] what's kind of the action end of things
+[0:22:48] that causes them to gain weight if
+[0:22:50] they're basically in an isocaloric diet?
+[0:22:52] And I have a I have a I have an idea
+[0:22:54] what it might be, but I'm I'm curious
+[0:22:56] what the answer is.
+[0:22:57] >> Yes, I think they're they're more
+[0:22:59] sedentary.
+[0:23:00] >> During the day, less
+[0:23:03] >> Right.
+[0:23:03] >> Less spontaneous activity. Because we
+[0:23:05] also did a study to look at energy
+[0:23:07] expenditure. That's really difficult
+[0:23:09] actually to measure, in my opinion,
+[0:23:11] energy expenditure. There's multiple
+[0:23:13] components to energy expenditure.
+[0:23:16] Uh but we did a study where this was a
+[0:23:19] small study. We were enrolled only women
+[0:23:22] for that, and we have a metabolic
+[0:23:23] chamber
+[0:23:24] >> [snorts]
+[0:23:24] >> at Columbia where that we were able to
+[0:23:26] use for this. Uh so this small room in
+[0:23:30] which we keep people, and we measure
+[0:23:32] minute by minute oxygen consumption and
+[0:23:34] carbon dioxide production. And we were
+[0:23:37] able to show that energy expenditure is
+[0:23:40] actually increased in the context of
+[0:23:43] sleep restriction in the metabolic
+[0:23:45] chamber.
+[0:23:46] >> [snorts]
+[0:23:46] >> Because
+[0:23:48] it's more costly energetically to remain
+[0:23:51] awake
+[0:23:53] than to fall asleep.
+[0:23:54] So energy expenditure when participants
+[0:23:57] were awake was identical in both
+[0:24:01] [clears throat] conditions, regardless
+[0:24:02] of how much sleep they got the night
+[0:24:03] before.
+[0:24:04] >> So is fidgeting, movement? Cuz we've
+[0:24:06] talked before on this podcast about the
+[0:24:08] non-exercise thermogenesis. It's a big
+[0:24:10] number. I mean, you people who fidget a
+[0:24:12] lot, bounce their knee a lot. I mean,
+[0:24:13] sometimes these people are burning 1,500
+[0:24:16] calories more per day. And everyone
+[0:24:17] goes, "Oh my god, how could that
+[0:24:18] possibly be?" But I mean, that's a lot.
+[0:24:20] That's at the extreme. But it is kind of
+[0:24:22] interesting to observe people out in the
+[0:24:24] world. And you sometimes see that people
+[0:24:27] who are very, very lean, very let's just
+[0:24:30] say thin and lean. Nowadays, who knows
+[0:24:31] because of the GLPs, etc. But they tend
+[0:24:34] to have a lot of spontaneous movement.
+[0:24:35] They tend to stand up quickly. They tend
+[0:24:37] to walk quickly. Well, you're from New
+[0:24:38] York, so everyone there walks faster
+[0:24:39] than out here. But it's a real thing,
+[0:24:42] you know? Whereas some people, like me,
+[0:24:44] are kind of more middle of the curve.
+[0:24:45] But you know, I sit a bit more still
+[0:24:47] unless I'm very caffeinated. These
+[0:24:48] things add up over time in ways that I
+[0:24:51] think most people underestimate.
+[0:24:54] >> Yeah, so for us it was about 5% of
+[0:24:57] energy
+[0:24:58] increased. But it it and it it ended up
+[0:25:02] being about 90 calories, nowhere close
+[0:25:04] to the 300 calories that uh
+[0:25:06] more of intake they they got over a over
+[0:25:09] a day in the prior study. So it's still
+[0:25:12] an imbalance towards a positive energy
+[0:25:13] balance when we do the math.
+[0:25:16] But there is an increase in um in energy
+[0:25:19] expenditure.
+[0:25:21] Again, in the confines of metabolic
+[0:25:23] chamber, which you know, for most people
+[0:25:25] is the equivalent of the size of their
+[0:25:26] bathroom.
+[0:25:27] >> Right.
+[0:25:27] >> Right? Where you have like a bed, a
+[0:25:29] table, and a sink, a toilet, that's it.
+[0:25:31] So you can't can't do much in there.
+[0:25:33] >> But you can do studies, quote unquote,
+[0:25:36] out in the wild with um actometry or
+[0:25:38] what or uh
+[0:25:39] >> Yeah, digraphy, doubly labeled water.
+[0:25:41] Yes.
+[0:25:42] >> A little while ago I saw a study that
+[0:25:44] said that if you are one night sleep
+[0:25:45] deprived, like you get one or two hours
+[0:25:47] less
+[0:25:48] uh sleep than normally
+[0:25:50] you would get to feel rested, that it's
+[0:25:52] actually advantageous to exercise
+[0:25:54] because it offsets some of the um
+[0:25:56] increase in inflammation.
+[0:25:57] >> Mhm.
+[0:25:58] >> But then if you're going multiple nights
+[0:25:59] that way, exercising on a regular basis
+[0:26:01] when sleep deprived, it just sets up a
+[0:26:03] um susceptibility to illness,
+[0:26:05] susceptibility to injury, and so forth.
+[0:26:08] How much of what you observe in the
+[0:26:10] under the conditions of sleep
+[0:26:11] deprivation do you think are downstream
+[0:26:13] or upstream of this thing that we just
+[0:26:16] call inflammation? Like is this just
+[0:26:18] like a body wide response and there are
+[0:26:20] a bunch of things that have gone awry
+[0:26:21] and and so like a bunch of systems are
+[0:26:24] dysregulated or can we pinpoint, okay,
+[0:26:26] when you're sleep deprived,
+[0:26:29] this is what this is what's happening.
+[0:26:31] Cuz I think if if women knew that their
+[0:26:33] GLPs were down when they're down on
+[0:26:35] sleep, so that they should expect that
+[0:26:37] they would feel less satiety. If men
+[0:26:40] knew that their ghrelin levels were
+[0:26:41] elevated when they're down on sleep,
+[0:26:44] that they're going to feel hun-
+[0:26:45] hungrier.
+[0:26:46] And we have a pretty big prefrontal
+[0:26:48] cortex, most people anyway, and we can
+[0:26:50] intervene simply on the basis of
+[0:26:52] knowledge.
+[0:26:53] >> I think that's what's empowering. And I
+[0:26:55] think about this sometimes, too, when
+[0:26:57] I'm
+[0:26:57] when I'm
+[0:26:59] thinking about, you know,
+[0:27:01] my my diet at times, right? I'm like,
+[0:27:03] "I Do I really want to eat this or is it
+[0:27:05] because I really didn't sleep last
+[0:27:07] night?" Right? So, you can you can make
+[0:27:08] you can ask yourself these questions.
+[0:27:10] Take a pause and say, "Okay,
+[0:27:13] do I really want, you know, dessert?
+[0:27:16] Or
+[0:27:17] is it just that I'm tired and, you know,
+[0:27:19] I should just
+[0:27:20] I'm fine. I don't need it."
+[0:27:22] >> Mhm. [clears throat]
+[0:27:23] >> So, if you if you step back and think
+[0:27:25] that maybe part of it is because you
+[0:27:27] didn't sleep well the night before, then
+[0:27:29] you can
+[0:27:30] make your appropriate choices, right?
+[0:27:32] Say, "Okay,
+[0:27:33] I probably don't need the the extra
+[0:27:35] calories right now.
+[0:27:37] Or or maybe you say, "You know what?
+[0:27:39] I had a really bad night last night. And
+[0:27:41] those extra calories,
+[0:27:43] I don't really care because they're
+[0:27:45] going to make me feel good and I need
+[0:27:47] some pick-me-up."
+[0:27:49] But, you know,
+[0:27:51] that's it Oh, that's all the choices to
+[0:27:53] make, right? You know, because mood
+[0:27:55] comes into comes into play, as well. So,
+[0:27:59] >> Well, ultimately, that brings us to the
+[0:28:01] the other direction of the equation,
+[0:28:03] right? How does what we eat impact our
+[0:28:06] sleep? This is something that I think
+[0:28:07] most people have heard about in the
+[0:28:09] context of try not to eat too close to
+[0:28:12] bedtime.
+[0:28:12] >> Mhm.
+[0:28:13] >> Um this is an active debate in many
+[0:28:15] households, actually. Some people seem
+[0:28:17] to be fine eating close to bedtime and
+[0:28:19] sleeping and even if they track their
+[0:28:21] sleep. Other people, it really disrupts
+[0:28:23] their sleep. I'm interested in both the
+[0:28:26] timing of food intake relative to sleep,
+[0:28:28] but also the content of the food and how
+[0:28:31] it impacts sleep.
+[0:28:32] >> Mhm.
+[0:28:32] >> What's known about that, either from
+[0:28:33] your work or from other work?
+[0:28:35] >> When we started this conversation, I was
+[0:28:36] telling you about these population-based
+[0:28:38] studies, you know, cross-sectional
+[0:28:41] data where two things happen at the same
+[0:28:43] time and you
+[0:28:44] you know, you you don't really know
+[0:28:45] causality. They happen at the same time,
+[0:28:48] and I think early on
+[0:28:50] in this field we started thinking about
+[0:28:53] sleep as the promoter of food intake or
+[0:28:58] as a sleep causing changes in diet,
+[0:29:03] exercise,
+[0:29:04] but didn't really think that maybe it's
+[0:29:06] the other way around or maybe the other
+[0:29:07] way around is just as plausible.
+[0:29:10] So I started thinking about that and
+[0:29:13] said, "Well, what if what if we took the
+[0:29:15] other approach? What if we looked at
+[0:29:17] diet and examined how diet influenced
+[0:29:22] future sleep?"
+[0:29:24] And my first paper in this field was
+[0:29:27] using data from the Multi-Ethnic Study
+[0:29:29] of Atherosclerosis. It's actually
+[0:29:32] kind of hard to find good cohorts that
+[0:29:34] have good nutrition data,
+[0:29:37] good sleep data, and data over over
+[0:29:42] years, right? So MESA, Multi-Ethnic
+[0:29:44] Study of
+[0:29:45] Atherosclerosis, is one of those great
+[0:29:47] cohorts that we have in the here in the
+[0:29:48] US that has all of the above. So I
+[0:29:52] paired up with a colleague of mine,
+[0:29:54] Susan Redline in Boston, and
+[0:29:56] she's principal investigator on their
+[0:29:58] sleep ancillary study, and we asked the
+[0:30:01] question of diet quality and its impact
+[0:30:04] on sleep duration, insomnia symptoms,
+[0:30:07] and we found that having a diet that
+[0:30:11] more closely aligns with the
+[0:30:12] Mediterranean diet was associated with
+[0:30:14] better
+[0:30:16] probability of having adequate sleep and
+[0:30:18] reduced
+[0:30:19] insomnia symptoms in this cohort. So
+[0:30:21] then it launched a whole
+[0:30:23] field of study really to to keep looking
+[0:30:26] at this, and we've looked at this in
+[0:30:28] different studies and different cohorts.
+[0:30:30] Actually,
+[0:30:31] earlier this year we published data from
+[0:30:33] the Women's Health Initiative, another
+[0:30:35] large large cohort with good diet data
+[0:30:38] and and sleep information. We took a
+[0:30:41] really really nice approach in this
+[0:30:43] longitudinal analysis. I don't know.
+[0:30:45] Usually when we do longitudinal studies,
+[0:30:48] we exclude people who have the condition
+[0:30:51] at baseline, right? So if you're trying
+[0:30:53] to see this factor at baseline, how does
+[0:30:57] it influence hypertension 10 years
+[0:31:00] later? You usually exclude people who
+[0:31:03] have hypertension at baseline because
+[0:31:04] you want to see the development of
+[0:31:06] hypertension. In this case, we're
+[0:31:08] looking at insomnia symptoms, but
+[0:31:10] insomnia is one of those conditions
+[0:31:13] that's not necessarily
+[0:31:15] static. It resolves, right? So you can
+[0:31:18] have insomnia and then a few years later
+[0:31:21] not have insomnia.
+[0:31:24] Or you can
+[0:31:25] not have insomnia now and develop
+[0:31:27] insomnia. So what we did is we broke our
+[0:31:30] down our participants into two groups.
+[0:31:32] The people who had
+[0:31:35] no insomnia at baseline
+[0:31:38] and at 3 years follow-up,
+[0:31:41] participants who had insomnia at
+[0:31:43] baseline but not at 3 years follow-up.
+[0:31:46] So they were in the healthful sleep,
+[0:31:49] improving sleep. And then the other
+[0:31:52] group was all those women who had
+[0:31:54] insomnia at baseline and at 3 years, and
+[0:31:57] no insomnia at baseline but insomnia at
+[0:31:59] 3 years. So they were the persistent
+[0:32:02] insomnia, progressing towards poor sleep
+[0:32:06] group. And we found that
+[0:32:08] the women who had a diet that was more
+[0:32:11] closely aligned to the Mediterranean
+[0:32:13] diet, but we also looked at
+[0:32:15] an American type of diet profile called
+[0:32:18] the DASH diet, the Dietary Approaches to
+[0:32:20] Stop Hypertension. Women who had a
+[0:32:23] dietary profile closer to those two
+[0:32:24] types of diets, healthful diets, were
+[0:32:27] less likely to have hypertension
+[0:32:31] insomnia at 3 years.
+[0:32:32] >> And the DASH diet is what?
+[0:32:34] >> Dietary Approaches to Stop Hypertension
+[0:32:36] developed to
+[0:32:38] reduce prevent hypertension, reduce
+[0:32:41] blood pressure in people by increasing
+[0:32:44] intakes of fruits and vegetables, nuts
+[0:32:45] and seeds, consuming low-fat dairy, more
+[0:32:48] plant-based types of diet and and can be
+[0:32:53] has been tested in a low salt or regular
+[0:32:56] salt profile.
+[0:32:57] >> How did those work out? I'm just
+[0:32:58] curious. Do you recall if the low salt,
+[0:33:00] high salt
+[0:33:01] condition
+[0:33:02] >> There's salt sensitivity, so there are
+[0:33:03] some people who are very sensitive to
+[0:33:05] salt and so having a reduced salt diet
+[0:33:08] will really improve their blood
+[0:33:09] pressure.
+[0:33:10] >> Mhm.
+[0:33:10] >> Others not so much, but the DASH diet,
+[0:33:13] regardless of its salt content, did
+[0:33:15] better than the equivalent non-DASH.
+[0:33:18] Which would be your average, you know,
+[0:33:20] American diet.
+[0:33:21] >> Whatever that is.
+[0:33:22] >> Yeah, higher in saturated fats and
+[0:33:24] sugars and
+[0:33:25] >> Which seems to be changing now because
+[0:33:26] of the GLPs. I feel like that's, you
+[0:33:29] know,
+[0:33:30] maybe that's a skewed perspective, but I
+[0:33:32] feel like the
+[0:33:33] the typical American diet is it might
+[0:33:35] not be changing so much in content, but
+[0:33:37] in volume it seems like people are
+[0:33:38] eating less. Certainly the snack food
+[0:33:39] companies, from what I understand, are
+[0:33:41] struggling. Alcohol companies, that's a
+[0:33:43] different issue, but that they're
+[0:33:45] certainly have
+[0:33:46] sales are way, way down, but it seems
+[0:33:49] like people's appetites are down.
+[0:33:52] >> Well, GLP-1s will do that, right?
+[0:33:53] >> Yeah.
+[0:33:54] >> Yeah.
+[0:33:54] >> And we were talking about this the other
+[0:33:55] day here, uh
+[0:33:57] how many Americans have tried a GLP. The
+[0:34:00] estimates are anywhere from like one in
+[0:34:02] seven, some people say it's it's more.
+[0:34:05] >> Mhm.
+[0:34:05] >> pretty incredible.
+[0:34:06] >> pretty high.
+[0:34:07] >> But this is interesting. So, how people
+[0:34:09] eat impacts their sleep, I'm sure the
+[0:34:12] listeners and I also am thinking, okay,
+[0:34:14] but people who are eating a
+[0:34:16] Mediterranean diet, right? Olive oils,
+[0:34:18] fish, you know, fruits, vegetables,
+[0:34:21] they are probably more apt to walk more,
+[0:34:24] exercise more, socialize more, all of
+[0:34:26] How do you separate out the variables in
+[0:34:28] a study like that?
+[0:34:29] >> Uh well, so So population-based studies
+[0:34:31] we adjust for a bunch of covariates,
+[0:34:33] right? We have all these questionnaires
+[0:34:35] that are given out to people asking them
+[0:34:38] about their race, occupation,
+[0:34:40] socio-demographic,
+[0:34:42] socioeconomic status, and then we adjust
+[0:34:45] we adjust for um different illnesses
+[0:34:48] that they may have, depression, uh
+[0:34:50] physical activity level,
+[0:34:53] uh
+[0:34:54] So we try to take all this into into
+[0:34:56] consideration. Obviously, we there's
+[0:34:58] always unmeasured factors that you can't
+[0:35:01] control for, social interactions like
+[0:35:03] you
+[0:35:04] um you mentioned. It's usually not
+[0:35:07] captured very well. It's not something
+[0:35:09] that we we can adjust for. But one thing
+[0:35:12] that we did in my lab uh going back to
+[0:35:14] that original study
+[0:35:17] was to look at uh
+[0:35:20] how diet influence sleep at night in the
+[0:35:22] participants in our inpatient study.
+[0:35:26] So we took
+[0:35:28] the 9-hour time in bed opportunity
+[0:35:31] phase, only that one.
+[0:35:34] >> [snorts]
+[0:35:34] >> In the 4-hour time in bed opportunity,
+[0:35:36] participants were very efficient. There
+[0:35:38] was not much variability in sleep
+[0:35:40] duration in in that phase. They slept as
+[0:35:42] much as they could in that 4-hour
+[0:35:44] opportunity.
+[0:35:45] But in the 9 hours, there's variability
+[0:35:47] there. Some people got more or less. So
+[0:35:49] we wanted to see if food intake was
+[0:35:53] related to their sleep at night. That
+[0:35:55] study
+[0:35:56] we had polysomnography assessments of
+[0:35:59] sleep every single night.
+[0:36:01] Like I mentioned, we had uh controlled
+[0:36:04] diet initially, and then we let them
+[0:36:06] self-select their food intake. So we
+[0:36:08] took a very systematic approach to
+[0:36:10] evaluating how diet could influence
+[0:36:12] sleep in that study.
+[0:36:14] We said first of all
+[0:36:17] was the diet that they chose different
+[0:36:19] than the diet that we gave them.
+[0:36:21] First step, right? It was. So they ate
+[0:36:24] almost 450 calories more. They ate 33%
+[0:36:28] more saturated fat.
+[0:36:30] Uh little less protein, I believe, a
+[0:36:33] little more carbohydrates. Not much, but
+[0:36:35] it it was different. So, I was like,
+[0:36:37] "Okay, so so there's difference between
+[0:36:39] the diets." Okay, now,
+[0:36:41] was their sleep at night different
+[0:36:44] when they were eating the diet that we
+[0:36:45] fed them compared to when they
+[0:36:47] self-selected?
+[0:36:50] And it did it was different. It wasn't
+[0:36:52] different in terms of duration, but it
+[0:36:55] was different in time it took them to
+[0:36:57] fall asleep, which was
+[0:36:59] almost over 70% longer to fall asleep
+[0:37:02] when they self-selected their diet.
+[0:37:04] And their slow wave sleep, so deep
+[0:37:07] sleep, was shorter. I think it was about
+[0:37:10] 23 20% shorter
+[0:37:13] when they self-selected their diet
+[0:37:14] compared to what we had given them.
+[0:37:17] >> Was timing of food intake impacted
+[0:37:19] because when I think of what impacts
+[0:37:22] what reduces
+[0:37:24] slow wave deep sleep, it's eating too
+[0:37:26] close to bedtime.
+[0:37:27] >> Mhm. So,
+[0:37:29] we did not take that into consideration
+[0:37:32] in that study. We didn't We didn't look
+[0:37:34] at that. We had their
+[0:37:36] their food intake profile and didn't
+[0:37:39] specifically look in that
+[0:37:41] phase when when was their last eating
+[0:37:43] period. But it could have been different
+[0:37:45] than
+[0:37:46] in the controlled feeding condition
+[0:37:48] because in the controlled feeding
+[0:37:49] condition, they had set meals at
+[0:37:51] specific times. But they all went to bed
+[0:37:53] at 10:00 p.m.
+[0:37:54] Then the other question was, "Okay,
+[0:37:57] what was it that they ate that day that
+[0:37:59] impacted how they slept that night?"
+[0:38:02] And we found that higher intakes of
+[0:38:06] fiber were associated with more deep
+[0:38:08] sleep.
+[0:38:10] Higher intakes of saturated fat, less
+[0:38:12] deep sleep. And then more refined
+[0:38:14] carbohydrates, simple sugars, more
+[0:38:17] arousals. So, when we talk about
+[0:38:19] arousals in the context of
+[0:38:21] polysomnography, it doesn't necessarily
+[0:38:23] mean full-on waking up or awakening. It
+[0:38:26] really means going from a deeper to
+[0:38:28] lighter stage of sleep, so you may still
+[0:38:30] be asleep throughout the night, but
+[0:38:33] you're not getting deep slow-wave sleep,
+[0:38:37] REM sleep as much as you would
+[0:38:39] uh otherwise.
+[0:38:41] >> Do you create a buffer between your last
+[0:38:45] bite of food and the time you go to
+[0:38:46] sleep, you personally?
+[0:38:48] >> Me personally? Yes.
+[0:38:50] >> Is it an hour, 2 hours, 3 hours?
+[0:38:52] >> I personally like to eat my last meal at
+[0:38:55] least 3 hours before going to bed. And I
+[0:38:57] know there's variability there.
+[0:38:59] Different people have different uh
+[0:39:00] tolerance. You mentioned right before
+[0:39:02] that uh
+[0:39:03] you know, some people may be later
+[0:39:04] chronotypes, but you
+[0:39:06] what we know
+[0:39:08] is that eating earlier
+[0:39:11] is better overall. For cardiometabolic
+[0:39:15] health, eating earlier is better. Me
+[0:39:17] personally, I feel I feel better by
+[0:39:20] eating earlier. If I eat too close to
+[0:39:22] bedtime, I
+[0:39:25] I get I get hot.
+[0:39:26] >> Right. Yeah, it's [laughter] a it's a
+[0:39:27] thermic effect of food.
+[0:39:29] >> don't want to be cooling off when we go
+[0:39:30] to sleep.
+[0:39:31] >> Exactly. Exactly.
+[0:39:33] >> I'd like to take a quick break and
+[0:39:34] acknowledge our sponsor, AG1.
+[0:39:37] AG1 is a vitamin, mineral, probiotic
+[0:39:39] drink that also includes prebiotics and
+[0:39:41] adaptogens.
+[0:39:43] I discovered AG1 way back in 2012, long
+[0:39:46] before I ever had a podcast, and I've
+[0:39:47] been taking it every day since. The
+[0:39:49] reason I started taking AG1 and the
+[0:39:51] reason I still take it every day is
+[0:39:53] because AG1 is to my knowledge the
+[0:39:55] highest quality and most comprehensive
+[0:39:57] of the foundational nutritional
+[0:39:58] supplements on the market. AG1 is
+[0:40:00] designed to support things like gut
+[0:40:02] health, immune health, and overall
+[0:40:04] energy. And it does so by helping to
+[0:40:06] fill any gaps that you might have in
+[0:40:07] your daily nutrition. I get asked pretty
+[0:40:09] much all the time, "If I could only take
+[0:40:11] one supplement, what should that
+[0:40:12] supplement be?" And my answer is always
+[0:40:14] AG1. It has just been so helpful for
+[0:40:17] supporting all aspects of physical
+[0:40:19] health, mental health, and performance.
+[0:40:21] If you would like to try AG1, you can go
+[0:40:23] to drinkag1.com/huberman
+[0:40:26] to get a special offer. For a limited
+[0:40:28] time, AG1 is giving away a free bottle
+[0:40:30] of their new omega-3 coenzyme Q10
+[0:40:32] product. Omega-3 and coenzyme Q10 are
+[0:40:35] known to support cardiovascular health,
+[0:40:37] cellular health and energy generally,
+[0:40:39] brain health, and much more. I
+[0:40:41] personally take them both every day.
+[0:40:43] Again, go to drinkag1.com/huberman
+[0:40:47] to get a free bottle of the new omega-3
+[0:40:48] coenzyme Q10 with your first AG1
+[0:40:51] subscription.
+[0:40:52] There seems to be something asymmetric
+[0:40:54] about sleep
+[0:40:56] requirements in my experience, and I
+[0:40:59] don't think I'm alone in this.
+[0:41:01] Whereby
+[0:41:03] if I go to bed at
+[0:41:05] 10:00 p.m., I get into bed at 9:30, fall
+[0:41:07] asleep at 10:00, I need about 6 and 1/2,
+[0:41:09] maybe 7 hours to feel completely rested.
+[0:41:11] That's how long I'll sleep, wake up
+[0:41:13] without an alarm, feeling great.
+[0:41:16] If I go to bed at midnight,
+[0:41:18] I find I could sleep till
+[0:41:20] 9:00 and still not feel completely
+[0:41:23] rested. So, there's some weird sleep
+[0:41:25] inertia stuff going on there, etc.
+[0:41:28] The old adage is every hour before
+[0:41:30] midnight is worth two after, but is
+[0:41:32] there any real data to support that, or
+[0:41:34] is this just all subjective and
+[0:41:36] conjecture?
+[0:41:37] >> I'm not sure there's data to support
+[0:41:39] that. I haven't seen anything. But, what
+[0:41:41] I can say from what you're saying is
+[0:41:44] that if you usually go to bed at 9:30,
+[0:41:46] 10:00, and then all of a sudden you go
+[0:41:49] to bed at midnight, now you're kind of
+[0:41:51] out of line with your personal circadian
+[0:41:53] system, right? And it's always harder to
+[0:41:57] to get a good night's sleep if you're
+[0:42:00] not going with your internal clock or
+[0:42:03] your internal circadian
+[0:42:05] preference.
+[0:42:06] Um this is what happens with shift
+[0:42:08] workers, right? For example, they they
+[0:42:10] they're not sleeping at night, They're
+[0:42:12] trying to sleep during the day. They're
+[0:42:15] trying to sleep during the day where
+[0:42:16] their melatonin is low or it should be
+[0:42:19] when it's high. So, they're fighting
+[0:42:21] their circadian system. So,
+[0:42:23] yes, they should they should be getting
+[0:42:25] 7 hours, but they're not getting 7 hours
+[0:42:28] because the body's not designed to be
+[0:42:31] sleeping during the daytime hours. Plus,
+[0:42:34] then you have you know, everything else,
+[0:42:36] right? That
+[0:42:37] >> Right. The light, the stress.
+[0:42:38] >> noise, the kids, the whatever life that
+[0:42:41] that happens during the daytime when
+[0:42:42] everybody else is awake and you're
+[0:42:44] trying to sleep.
+[0:42:44] >> Yeah, the only thing I can think of
+[0:42:46] that's an advantage to being nocturnal
+[0:42:48] is the quiet.
+[0:42:50] >> [laughter]
+[0:42:50] >> I used to sometimes shift to a nocturnal
+[0:42:52] schedule during holidays in graduate
+[0:42:54] school when everyone go home because I
+[0:42:56] lived my my parents lived relatively
+[0:42:59] close to where I went to graduate
+[0:43:00] school, so I could afford to just just
+[0:43:01] go home for Christmas, right? Just that
+[0:43:03] day or a couple of days and everyone
+[0:43:06] else had to travel. So, I could invert
+[0:43:07] my schedule. It just kind of drifted
+[0:43:09] that way.
+[0:43:10] >> Yeah.
+[0:43:10] >> I promise that's the only advantage of
+[0:43:12] going to bed at 4:00 a.m. and
+[0:43:15] sleeping until, you know, 3:00 p.m. at
+[0:43:17] least for typical people. Your brain
+[0:43:20] gets into a kind of weird space when
+[0:43:22] you're inverted from the rest of the
+[0:43:24] world.
+[0:43:25] >> Well, the things you do when you're a
+[0:43:26] grad student. I would be the opposite,
+[0:43:28] right? I I'd wake up at 4:00 a.m. and
+[0:43:30] then study because I felt like all of
+[0:43:32] the hours of studying before the sun
+[0:43:34] rose were like extras.
+[0:43:37] >> Interesting.
+[0:43:37] >> Extra time for me.
+[0:43:38] >> extra. You felt like you were extra
+[0:43:40] sharp at those hours?
+[0:43:41] >> Extra sharp. I could study and then, you
+[0:43:43] know, I got that time done and then, you
+[0:43:45] know, breakfast, but then I crashed
+[0:43:48] later in the afternoon.
+[0:43:49] >> the problem. The 1:00 2:00 p.m. crash.
+[0:43:51] Um, has your work explored napping at
+[0:43:54] all? I'm a believer in naps and
+[0:43:55] non-sleep deep breaths, yoga nidra type
+[0:43:57] things, meditation. Do naps factor into
+[0:44:00] this diet, nutrition, hunger equation?
+[0:44:04] >> So, we I done research on napping per
+[0:44:07] se. For me, there a lot going on with
+[0:44:10] napping. I don't think we have very good
+[0:44:12] data to be able to say what's
+[0:44:14] appropriate about napping. What we do
+[0:44:17] know is that
+[0:44:19] you don't want to nap too close to
+[0:44:22] bedtime because
+[0:44:24] you want to build sleep pressure
+[0:44:25] throughout the day. And if you're
+[0:44:27] dissipating the sleep pressure, the
+[0:44:29] sleep need too close to bedtime, then
+[0:44:30] you're not going to be able to fall
+[0:44:31] asleep when time
+[0:44:33] time comes to go to bed at your usual
+[0:44:35] hour.
+[0:44:36] And then, you know, you get into this
+[0:44:38] vicious cycle, and it's it's not
+[0:44:40] helpful. But, you know, there are some
+[0:44:42] studies that say, "Well, what should you
+[0:44:44] do if you can't sleep enough at night
+[0:44:46] and you're feeling tired?" You know,
+[0:44:47] should you sleep?
+[0:44:49] The
+[0:44:50] recommendations are that you should make
+[0:44:51] it a short nap, 30 minutes, no more than
+[0:44:54] an hour, early enough in the day, if
+[0:44:57] possible, so that you can have
+[0:44:59] sufficient time to rebuild that sleep
+[0:45:01] pressure to be able to fall back asleep
+[0:45:04] well when time comes.
+[0:45:06] But then there's also this this whole
+[0:45:08] question about
+[0:45:10] what's a nap for?
+[0:45:12] Right? Like why are you sleepy? Of
+[0:45:15] course, if you if you pulled an
+[0:45:16] all-nighter, it's easy to to know. But
+[0:45:19] if if you had sufficient sleep or
+[0:45:22] sufficient opportunity for sleep at
+[0:45:24] night and you're waking up and you're
+[0:45:25] not feeling refreshed, and not feeling
+[0:45:26] like you had good quality sleep, and
+[0:45:28] then you're not able to maintain
+[0:45:30] alertness throughout the day, and you
+[0:45:32] need a nap,
+[0:45:35] I think you should you should check to
+[0:45:36] see like what's going on at night. Like
+[0:45:38] why are you not getting that good good
+[0:45:40] enough sleep?
+[0:45:41] >> I'm chuckling because my post-doc
+[0:45:42] advisor sparked this huge debate. It was
+[0:45:45] a big lab. And we had a couple of people
+[0:45:48] in the lab who liked to nap at their
+[0:45:49] desk. These were people that could just
+[0:45:50] like put their head down and and nap at
+[0:45:52] their desk in the afternoon. You'd walk
+[0:45:53] in, they'd be napping, and then they'd
+[0:45:54] wake up and keep working. Everyone was
+[0:45:57] working very hard. And he had this
+[0:45:59] theory
+[0:46:00] uh
+[0:46:01] that if you're napping, it's because
+[0:46:03] you're sleep deprived. That like napping
+[0:46:05] is unhealthy, you know. And it it
+[0:46:07] sparked a big debate. And people because
+[0:46:10] it were a bunch of nerds, people bring
+[0:46:11] data in like, "No, you know, at the
+[0:46:13] sleep lab at Stanford says that naps can
+[0:46:15] be healthy." And I think it you what you
+[0:46:17] just described summarizes I think that
+[0:46:19] the takeaway. I'm a believer in the
+[0:46:21] short nap. But but I'm one of these
+[0:46:23] people that can sleep anywhere, anytime,
+[0:46:24] which may be reflective of sleep
+[0:46:26] deprivation.
+[0:46:27] >> Maybe, yeah.
+[0:46:27] >> Do you find that like when you're going
+[0:46:29] to design a study or when you're going
+[0:46:31] to like really work, like this 4:00 a.m.
+[0:46:33] time, that it's a time of calm or are
+[0:46:35] you like a lazy Are you Do you feel like
+[0:46:37] your mind is moving fast or you're kind
+[0:46:39] of in this like flow zone or whatever
+[0:46:41] you want to call it?
+[0:46:42] >> I'm very focused.
+[0:46:44] >> Mhm.
+[0:46:45] >> Uh, very efficient.
+[0:46:48] So, I try to be really attentive at my
+[0:46:51] task. I try to take take breaks once in
+[0:46:55] a while, but uh
+[0:46:57] most of the time it's it's very
+[0:46:59] efficient.
+[0:47:01] Get to the task and get it done.
+[0:47:03] >> Earlier you were talking about biking in
+[0:47:05] the work. You strike me as somebody who
+[0:47:06] I always think of people who I'm always
+[0:47:08] impressed by colleagues like this that
+[0:47:09] their life is kind of like a step
+[0:47:10] function. They wake up and it's like
+[0:47:12] they're into the day and then it's down,
+[0:47:14] right? Yeah. Interesting. I think some
+[0:47:16] of us are more like this.
+[0:47:17] >> But I think it's important to have a
+[0:47:19] little bit of both though. I think it's
+[0:47:21] important to have downtime,
+[0:47:24] you know,
+[0:47:25] speed time,
+[0:47:27] to to not just be go go go go go. Like
+[0:47:30] you were asking about
+[0:47:32] my personal you know,
+[0:47:35] actions. And
+[0:47:37] at one point
+[0:47:39] I was running a lot for exercise.
+[0:47:42] And uh
+[0:47:43] I felt like my whole life was just
+[0:47:46] running all the time.
+[0:47:47] >> Your brain, too?
+[0:47:48] >> Yeah, yeah. Run to get my kids to
+[0:47:49] school, run to work, get work done, run
+[0:47:52] to then run for fun. Run, run, run. And
+[0:47:55] then I thought, "Okay, I got to need to
+[0:47:58] >> [snorts]
+[0:47:59] >> I think I need a breather. And so I
+[0:48:01] started incorporating yoga into my uh
+[0:48:04] my exercise routine. I think that's I
+[0:48:07] think that's good. Actually, when I was
+[0:48:08] a grad student, I thought yoga was
+[0:48:10] stressful because I couldn't [laughter]
+[0:48:12] stand in those poses.
+[0:48:14] >> Exactly.
+[0:48:15] >> Yeah.
+[0:48:15] >> Yeah.
+[0:48:15] >> But I think yoga evolved. I think the
+[0:48:17] yoga that I do now, it's not as static
+[0:48:20] >> Mhm.
+[0:48:21] >> as the yoga I was doing when I was a
+[0:48:23] grad student. I think it evolved to be a
+[0:48:24] little more active than uh than back
+[0:48:27] then. I see the benefit to having, you
+[0:48:30] know, the
+[0:48:31] both types of uh exercise.
+[0:48:34] >> Thanks for being willing to explore
+[0:48:36] that. You know, the I'm not an Ayurvedic
+[0:48:38] practitioner, but the Ayurvedic folks,
+[0:48:40] they'll talk about people like more
+[0:48:41] fire, more more earth, where, you know,
+[0:48:43] and and I think it's just a different
+[0:48:45] lens and nomenclature on
+[0:48:48] there's a kind of array of phenotypes.
+[0:48:50] But when we talk about this thing,
+[0:48:51] sleep, it becomes very prescriptive,
+[0:48:53] right? It's like we all need 6 to 8
+[0:48:56] hours. I mean, I actually, from what
+[0:48:58] you're saying today, six sounds like
+[0:49:00] insufficient is what I'm hearing. I'm
+[0:49:01] probably a little sleep deprived is what
+[0:49:03] kind of hearing.
+[0:49:04] >> So, you know, a colleague of mine just
+[0:49:05] published a paper in nature about
+[0:49:07] biological clocks and aging in different
+[0:49:10] organs. And the sweet spot really was 6
+[0:49:13] and 1/2 to about 7 and 1/2 8 hours for
+[0:49:18] optimal
+[0:49:19] aging. Once you get to below that, it's
+[0:49:22] basically U-shaped, right? So, too much
+[0:49:24] of one thing is not good, too too little
+[0:49:26] is is not good. You want to be in the
+[0:49:28] sweet spot most most organs for uh
+[0:49:32] optimal aging was in this 6 and 1/2 to
+[0:49:34] 7.8. And it differed a little bit by men
+[0:49:37] and women, depending on which organs he
+[0:49:38] was looking at. Uh a little longer for
+[0:49:41] women. Um some of the curves were
+[0:49:44] different, where, you know, some are
+[0:49:46] more pronounced U-shapes in in men than
+[0:49:48] women in different organs. So,
+[0:49:51] uh very interesting paper.
+[0:49:52] >> Mhm. Came out last week or 2 weeks ago.
+[0:49:54] >> I'll have to check it out. Um, what
+[0:49:56] other uh sex differences uh are known to
+[0:49:59] exist in sleep requirements, sleep
+[0:50:01] dynamics that from your work or from
+[0:50:03] other work? This is not something we've
+[0:50:04] really covered on the podcast.
+[0:50:06] >> No.
+[0:50:07] >> No, I mean, well, not in in any
+[0:50:09] sufficient amount of detail.
+[0:50:10] >> Yeah.
+[0:50:10] >> Yeah.
+[0:50:11] >> So, women tend to sleep a little longer
+[0:50:13] than men across lifespan. Although, you
+[0:50:16] know, if you ask women about their
+[0:50:17] sleep,
+[0:50:18] they don't rate their sleep as very
+[0:50:20] good. Um, more women than men report
+[0:50:22] having difficulties with sleep,
+[0:50:24] insomnia, for example, insomnia
+[0:50:26] symptoms. More women than men say they
+[0:50:29] have difficulty falling asleep,
+[0:50:31] difficulty maintaining sleep uh across
+[0:50:34] the adult lifespan.
+[0:50:35] >> Why do you think that is?
+[0:50:36] >> There could be some physiological
+[0:50:37] effects, right? Some hormonal effects.
+[0:50:39] Women uh don't sleep the same across the
+[0:50:41] menstrual cycle.
+[0:50:43] Uh there's discomfort at different
+[0:50:45] times.
+[0:50:46] Uh and then there's different
+[0:50:47] responsibilities, different social roles
+[0:50:49] that come into play uh that may
+[0:50:51] influence women differently than men.
+[0:50:54] But, you know, we were working on a on a
+[0:50:57] review paper actually about hypertension
+[0:50:59] and and sleep and sex differences. And,
+[0:51:02] you know,
+[0:51:03] women are more sensitive to the impact
+[0:51:06] of poor sleep on different metabolic
+[0:51:08] outcomes than men. So, for blood
+[0:51:10] pressure, at lower sleep apnea, for
+[0:51:13] example, at lower thresholds of sleep
+[0:51:16] apnea, their blood pressure would be
+[0:51:17] higher
+[0:51:18] uh than men. So, I think that there
+[0:51:21] needs to be uh for sure a lot more
+[0:51:23] research in this area to be able to
+[0:51:24] uncover, you know, these these
+[0:51:27] differences. And then, you know, knowing
+[0:51:29] that there are these differences to
+[0:51:30] start
+[0:51:32] probing uh women about their sleep. Last
+[0:51:35] year, we published um a scientific
+[0:51:37] statement for the American Heart
+[0:51:38] Association about multidimensional sleep
+[0:51:40] health. And we concluded by uh
+[0:51:42] recommending clinicians that they
+[0:51:45] actually ask their patients about sleep.
+[0:51:47] And not ask a question a targeted
+[0:51:49] question, just ask their patients,
+[0:51:51] "How's your sleep?" Because if you start
+[0:51:53] asking about, "Oh, how much sleep do you
+[0:51:56] usually get at night?" Then you tell the
+[0:51:59] person that the only thing that matters
+[0:52:00] is how many hours of sleep you got at
+[0:52:02] night. That's not all sleep is about,
+[0:52:05] right? Sleep is not just about the
+[0:52:08] number of hours that you got, but it's
+[0:52:10] also about
+[0:52:12] the regularity, the quality, your
+[0:52:14] satisfaction with it. Uh you're There's
+[0:52:17] nighttime experiences, there's daytime
+[0:52:19] experiences from sleep. When you wake up
+[0:52:21] from sleep, are you feeling refreshed?
+[0:52:24] Are you feeling like you had Are you
+[0:52:26] satisfied with how much the sleep you
+[0:52:27] got the night before? During the day,
+[0:52:30] are you staying alert? Are you vigilant
+[0:52:33] during the daytime hours
+[0:52:35] uh from your past sleep experience. So,
+[0:52:37] having this open-ended question, maybe
+[0:52:40] maybe clinicians uh won't have time for
+[0:52:43] for uh for the answer, but, you know, it
+[0:52:46] allows the their patient to actually
+[0:52:48] tell them what's bothering them about
+[0:52:50] their sleep.
+[0:52:51] >> Mhm.
+[0:52:52] >> Then you can get to something like, you
+[0:52:53] know, my my spouse keeps kicking me
+[0:52:56] because I'm snoring too loud. Then, "Oh,
+[0:52:58] well, maybe we should test you for sleep
+[0:53:00] apnea."
+[0:53:00] >> Does apnea always include snoring? Yes.
+[0:53:04] So, are there some people who don't
+[0:53:05] snore who have apnea?
+[0:53:07] >> I don't think so. You stop breathing,
+[0:53:09] and then there's this gasping
+[0:53:11] sound that
+[0:53:13] people make when they uh they awaken
+[0:53:15] from that.
+[0:53:16] Or they get aroused from from this
+[0:53:19] breathing interruption.
+[0:53:20] >> I feel like so many people have apnea
+[0:53:22] and don't realize it. Not because I'm
+[0:53:23] sneaking into their rooms at night and
+[0:53:24] listening to if they snore, but it is
+[0:53:27] just remarkable how many people I speak
+[0:53:29] to who say, "Yeah, I found out I had
+[0:53:31] apnea because I saw that I was snoring
+[0:53:33] because they started monitoring their
+[0:53:35] sleep." And there's generally a snoring
+[0:53:37] index on these. Or now there are free
+[0:53:39] apps that can just record you while you
+[0:53:40] sleep. So, I know a lot of people are I
+[0:53:43] don't mouth tape uh when I sleep, but I
+[0:53:46] I did I do uh sometimes use one of these
+[0:53:48] nose strips that kind of pulls the
+[0:53:50] nostrils out a bit. That certainly it's
+[0:53:53] reduced the amount of snoring
+[0:53:55] >> That will reduce the amount of snoring,
+[0:53:57] but the sleep apnea is from the throat,
+[0:54:01] right? So, the closure in the throat
+[0:54:03] that it uh that uh obstructs
+[0:54:06] the trachea and that's what then prompts
+[0:54:10] the awakening and breathing and then the
+[0:54:12] sound that comes from there. Actually,
+[0:54:14] weight loss is typically like the first
+[0:54:17] line treatment if someone has excess
+[0:54:19] weight to start losing weight, that
+[0:54:20] might help with the uh with sleep apnea.
+[0:54:24] And then there's CPAP which yes, people
+[0:54:26] don't like, but if they are at a lower
+[0:54:28] weight where the apnea is milder, the
+[0:54:31] pressure may be
+[0:54:33] not as uh
+[0:54:34] not as high, so that might be helpful
+[0:54:37] for comfort.
+[0:54:39] I have a colleague of mine who does uh
+[0:54:41] sleep apnea surgeries. So, implantables
+[0:54:43] are also
+[0:54:44] >> Oh.
+[0:54:44] >> If people think they might have apnea,
+[0:54:46] is it just get a CPAP, pop that thing
+[0:54:48] on? Is that the best line of of entry?
+[0:54:50] >> I think they should uh they should get
+[0:54:52] tested.
+[0:54:53] >> So, how do we How does one do that? Cuz
+[0:54:55] that's the problem.
+[0:54:56] >> if you're
+[0:54:58] suspecting that you may have sleep apnea
+[0:55:00] because you've been told that you snore,
+[0:55:02] because you wake up and you're not
+[0:55:04] feeling refreshed, and you're feeling
+[0:55:05] sleepy during the day, I think you
+[0:55:07] should talk to your doctor about this
+[0:55:09] and definitely, we have polysomnography
+[0:55:12] is the first line you know,
+[0:55:14] is what we use to detect um sleep apnea.
+[0:55:17] But, there's in-home sleep testing that
+[0:55:19] can be done, so you don't have to stay
+[0:55:21] overnight in a lab for for uh to get
+[0:55:24] tested for this, and uh and your doctor
+[0:55:26] can prescribe that test very easily.
+[0:55:29] >> How come we can't just go buy a CPAP on
+[0:55:31] Amazon?
+[0:55:32] >> Because you need to have the the the
+[0:55:34] pressure
+[0:55:36] determined for you, right? So, you need
+[0:55:37] to know what kind of pressure to apply
+[0:55:39] and you know, how to set it up. Uh it's
+[0:55:42] not as as simple as just you know
+[0:55:44] >> Okay. All right, fair.
+[0:55:46] >> You need it it needs to have the proper
+[0:55:47] settings and someone needs to tell you
+[0:55:49] which setting to use because then that's
+[0:55:50] where you run to the trouble of having
+[0:55:52] the wrong settings and and not being
+[0:55:54] effective.
+[0:55:55] >> Yeah, I just know from having done this
+[0:55:56] podcast long a while that like if people
+[0:55:59] think, "Okay, I got to go to my doctor.
+[0:56:01] I got to find out or convince them that
+[0:56:03] I have apnea. Then they have to like
+[0:56:06] write me a script for a CPAP. Then I got
+[0:56:07] to buy a CPAP which I'm guessing is not
+[0:56:09] cheap."
+[0:56:10] >> I'm not sure.
+[0:56:11] >> I I don't think they're very
+[0:56:12] inexpensive. They might The price might
+[0:56:13] have come down. And I got to sleep with
+[0:56:15] this thing on my face like looking like
+[0:56:17] Darth Vader so I don't sound like Darth
+[0:56:19] Vader.
+[0:56:20] I just think very few people are going
+[0:56:22] to do it. So, somebody out there should
+[0:56:23] like come up with an at-home solution to
+[0:56:25] this. Something like apnea seems
+[0:56:27] important enough to daytime wakefulness,
+[0:56:29] cognitive function, longevity, metabolic
+[0:56:31] like it works out to so many things that
+[0:56:34] I feel like it
+[0:56:35] >> If you use
+[0:56:36] >> it deserves a like a public health
+[0:56:37] messaging.
+[0:56:38] >> Yeah, if you use it well and you feel
+[0:56:40] better during the day, that's a that's
+[0:56:42] reinforcing, right? To keep using it.
+[0:56:45] And and get treated for it.
+[0:56:46] >> Let's talk about food and nutrients.
+[0:56:48] You've done a substantial amount of work
+[0:56:50] here in this area and I have a bunch of
+[0:56:52] questions. But first I want to talk
+[0:56:53] about kefir.
+[0:56:54] >> Yeah.
+[0:56:55] >> I love Bulgarian full-fat plain yogurt,
+[0:56:59] but it's right next to the kefir.
+[0:57:01] >> Uh-huh.
+[0:57:01] >> And I'm always like, "Do I get the
+[0:57:02] kefir?" Well, I don't know. I love the
+[0:57:03] Bulgarian full-fat plain yogurt. So, I
+[0:57:05] haven't tried the kefir yet. What's
+[0:57:07] special about kefir and why are why did
+[0:57:09] you study kefir?
+[0:57:10] >> Kefir we we studied because it was a
+[0:57:13] fermented dairy product, uh probiotics.
+[0:57:16] We figured, you know, maybe it will
+[0:57:18] improve uh cholesterol synthesis based
+[0:57:21] on its impact on short-chain fatty
+[0:57:23] acids. So, that was a the the subject of
+[0:57:25] my uh master's thesis.
+[0:57:28] Over that study,
+[0:57:29] uh that was when I was at McGill. We
+[0:57:32] were recruited men that had mildly
+[0:57:34] elevated cholesterol levels. We gave
+[0:57:36] them two cups per day
+[0:57:39] versus just regular milk for a month.
+[0:57:42] >> So, two cups like two mugs like this?
+[0:57:44] >> Two cups like the measuring cup.
+[0:57:46] >> Okay.
+[0:57:46] >> Yeah.
+[0:57:47] >> Okay.
+[0:57:47] >> Um like 500 ml.
+[0:57:49] >> Okay.
+[0:57:50] >> And uh
+[0:57:52] and we measured their
+[0:57:54] the amount of cholesterol they they
+[0:57:56] produced at baseline and point in both
+[0:57:59] phases and there was no effect. It was a
+[0:58:02] null study. It was one of those.
+[0:58:04] It was hard to get published.
+[0:58:07] >> Mhm.
+[0:58:07] >> Kept at it and and we got it published,
+[0:58:10] but yeah.
+[0:58:10] >> So, these fermented yogurts and things
+[0:58:13] they don't do anything for
+[0:58:15] for cholesterol levels.
+[0:58:16] >> At least in our study, in this
+[0:58:18] population, at this level, with this
+[0:58:20] comparison
+[0:58:21] >> Mhm.
+[0:58:22] >> didn't have any effect.
+[0:58:23] >> What's your general thought about uh low
+[0:58:25] sugar fermented foods? I don't know if
+[0:58:26] kefir uh qualifies as low sugar, but
+[0:58:29] based on Justin Sonnenburg's work at
+[0:58:30] Stanford and others I've been I've been
+[0:58:32] a really bullish on this idea of
+[0:58:35] sauerkraut, kimchi, uh
+[0:58:38] full-fat Bulgarian yogurt. Fermented
+[0:58:40] foods are are interesting.
+[0:58:42] >> Yeah.
+[0:58:42] >> Are you a proponent in general?
+[0:58:44] >> I'm a proponent. Yeah, absolutely. I
+[0:58:46] think it's important to feed your gut. I
+[0:58:48] think that uh the gut microbiome is uh
+[0:58:50] getting a lot of attention for all sorts
+[0:58:52] of, you know, uh
+[0:58:54] health benefits.
+[0:58:56] So, I think that that's something that's
+[0:58:58] uh that's is important. So, also
+[0:59:00] it's important to
+[0:59:01] also consider that, you know, for that
+[0:59:04] study, right? Our main outcome was
+[0:59:06] cholesterol synthesis, but there's so
+[0:59:08] many other things we could have looked
+[0:59:10] at that we didn't look at, right? And
+[0:59:13] maybe it didn't have any impact for
+[0:59:15] cholesterol synthesis, but maybe
+[0:59:20] glycemic control might be better or for
+[0:59:25] gut inflammation it would be better.
+[0:59:27] But, you know, you you pick your
+[0:59:29] outcomes, right? You study something and
+[0:59:31] the
+[0:59:31] >> This is the challenge of doing
+[0:59:32] controlled science.
+[0:59:33] >> Yeah, yeah, yeah.
+[0:59:34] >> So, the opposite end of the like
+[0:59:37] X, what used to be called Twitter,
+[0:59:38] science, where like people just like
+[0:59:40] report anecdotes, but
+[0:59:42] actually anecdotes of that sort have
+[0:59:44] become very powerful now in the public
+[0:59:45] health space, for better or worse. Like
+[0:59:47] people, you know, because
+[0:59:49] I
+[0:59:50] we can look at any study and say, "Well,
+[0:59:51] that's a very artificial circumstance."
+[0:59:53] You say, "Well, intentionally, because
+[0:59:54] we're trying to isolate variables."
+[0:59:56] >> Right, right, right, exactly.
+[0:59:57] >> People get frustrated. "Oh, that's an
+[0:59:58] observational study." Well,
+[1:00:01] uh I'm going to continue to eat
+[1:00:02] low-sugar fermented foods every day. I I
+[1:00:04] I do think in a study like the one you
+[1:00:07] described, occasionally there's just
+[1:00:09] there's
+[1:00:10] Let me state this differently.
+[1:00:11] Historically, in science, there's been a
+[1:00:14] lot of interesting discoveries that have
+[1:00:16] come from
+[1:00:17] researchers designing a study to look at
+[1:00:19] one thing and then kind of noticing,
+[1:00:21] "Oh, like all the subjects feel better
+[1:00:23] or sleep better or their skin they
+[1:00:25] they're reporting things that then lead
+[1:00:27] to an another another line line of
+[1:00:29] inquiry, but you moved on from kefir.
+[1:00:32] Tell me about this um this paper. I was
+[1:00:34] intrigued by this when I looked over
+[1:00:36] your CV. The uh a weight-loss diet that
+[1:00:38] includes a coffee beverage enriched in,
+[1:00:41] let me try this, mannan
+[1:00:43] oligosaccharides.
+[1:00:44] >> Yeah.
+[1:00:44] >> Okay. All right, long word. Leads to a
+[1:00:46] greater loss of adipose fat tissue than
+[1:00:49] placebo beverage in overweight men.
+[1:00:51] >> Yeah.
+[1:00:52] >> Tell me about this study and what these
+[1:00:54] mannan oligosaccharides are and if
+[1:00:57] somebody wants to lose weight, should
+[1:00:58] they be including this in their coffee?
+[1:01:00] >> So, this was industry-sponsored research
+[1:01:03] that I did. Um they wanted to replicate
+[1:01:05] a study that had been done in a
+[1:01:08] different country
+[1:01:09] >> [snorts]
+[1:01:09] >> because they wanted to replicate the
+[1:01:10] findings. So, we did this study. Uh it
+[1:01:13] was basically a placebo-controlled
+[1:01:15] study. We got we were provided um
+[1:01:19] coffee mannan oligosaccharides. So,
+[1:01:20] these are extracted from spent coffee
+[1:01:23] grounds. So, it was basically sachets,
+[1:01:25] right? So, a white packet. One had the
+[1:01:29] coffee mannan oligosaccharides, the
+[1:01:30] other one didn't. We gave it to our
+[1:01:33] study participants. We measured their
+[1:01:34] body composition. We found an effect on
+[1:01:38] body composition in men, not in women.
+[1:01:40] >> Hm.
+[1:01:41] >> And so, that was the end of that
+[1:01:42] product.
+[1:01:43] >> Really? They wouldn't market it just
+[1:01:44] because [clears throat] it only had an
+[1:01:45] effect in men?
+[1:01:46] >> Yeah. Yeah, they were like
+[1:01:47] >> I assure you there are many men who
+[1:01:48] would love to drink a coffee drink and
+[1:01:49] lose weight as a consequence.
+[1:01:51] >> to be our market, you know.
+[1:01:53] >> But, do we know what the ingredients
+[1:01:54] were?
+[1:01:54] >> It was
+[1:01:55] mannan oligosaccharides. Just the
+[1:01:57] extracted Yeah, so it was just basically
+[1:02:01] a product that was
+[1:02:02] tasted like coffee, strong coffee.
+[1:02:05] But, it didn't have the caffeine or
+[1:02:07] anything like that. It just had this
+[1:02:09] this mannan oligosaccharide that was
+[1:02:10] extracted from coffee.
+[1:02:12] >> So, this substance comes from coffee
+[1:02:15] ordinarily, but coffee is very low low
+[1:02:18] calorie.
+[1:02:18] >> Right. But, it's from the spent grounds.
+[1:02:20] So, you No one really
+[1:02:22] consumes this really because you know,
+[1:02:25] when you brew your coffee, you're
+[1:02:28] you're not getting it to know.
+[1:02:29] >> Can you buy it? Can people get it?
+[1:02:32] >> I don't think so. I'm not sure.
+[1:02:34] >> So, what What do you First of all, how
+[1:02:35] much weight did they lose relative to
+[1:02:37] the
+[1:02:37] >> It was statistically significant. Yeah.
+[1:02:39] >> Hm.
+[1:02:40] Okay. I was intrigued by it cuz I
+[1:02:41] thought there's there's something that I
+[1:02:43] mean, you studied It's interesting you
+[1:02:45] say kefir
+[1:02:46] mannan oligosaccharides from coffee.
+[1:02:48] >> Yeah.
+[1:02:48] >> Now, I'm going to ask you about ginger.
+[1:02:50] >> Well, when I was in a graduate student,
+[1:02:52] I was interested in functional foods.
+[1:02:54] >> Mhm.
+[1:02:55] >> And I was interested in those foods that
+[1:02:57] provide health benefits beyond their
+[1:02:59] nutritional value.
+[1:03:01] >> Mhm.
+[1:03:01] >> Right. So, kefir
+[1:03:03] is a fermented dairy product. It would
+[1:03:06] We were studying it for its a functional
+[1:03:09] benefit on cholesterol synthesis.
+[1:03:12] That's not
+[1:03:14] a
+[1:03:14] uh that's not a function of dairy,
+[1:03:17] right? Dairy is you consume it for bone
+[1:03:20] health, right? So, it's the basically
+[1:03:22] when we talk about different claims that
+[1:03:24] foods have, you know, there is those
+[1:03:26] structure function claims, like
+[1:03:28] consuming dairy contains calcium that's
+[1:03:30] good for your bones, and then there is
+[1:03:33] um functional
+[1:03:34] claims. Those functional claims are
+[1:03:36] health claims, we call them, that say,
+[1:03:38] "Okay, well, health claim there's a
+[1:03:40] health claim for oats, for example,
+[1:03:41] right? So, consuming fiber from oats
+[1:03:45] uh reduces cholesterol levels."
+[1:03:46] >> That's been demonstrated.
+[1:03:47] >> Yes. So, that's that's a health claim.
+[1:03:49] That's an approved health claim. That's
+[1:03:52] why you see the hearts on some boxes of
+[1:03:54] cereal,
+[1:03:55] but that's different than
+[1:03:57] fiber
+[1:03:59] is good for maintaining regularity,
+[1:04:01] right? So, anyways, I was interested in
+[1:04:03] in functional foods for health benefits
+[1:04:05] beyond their their nutritional content.
+[1:04:08] And so,
+[1:04:10] uh we we study kefir for I study kefir
+[1:04:13] for my master's degree, and then for my
+[1:04:15] PhD, studied uh medium-chain
+[1:04:17] triglycerides,
+[1:04:19] um and then um
+[1:04:21] ginger, that was uh that was something
+[1:04:24] that I that I uh offered to a grad
+[1:04:27] student at Columbia. It was interesting
+[1:04:29] because uh the McCormick company
+[1:04:33] had an advertisement in uh one of the
+[1:04:35] nutrition journals, and they were going
+[1:04:37] to donate
+[1:04:38] um spices for research.
+[1:04:41] So, I was like, "Okay." They had a list
+[1:04:42] of different herbs and spices that they
+[1:04:44] were going to donate for research, and I
+[1:04:46] had a grad student, and I said, "Take a
+[1:04:48] look at this list,
+[1:04:50] come back to me, see if there's
+[1:04:52] something in there that we should
+[1:04:55] test in the lab
+[1:04:56] based on the things that I do. Don't
+[1:04:58] come to me with something that's, you
+[1:04:59] know, that I don't study, but and then
+[1:05:02] he did some research, and came back, and
+[1:05:05] he said, "I think we should study
+[1:05:06] ginger." And I was like, "Okay, and to
+[1:05:07] do what?" He was like, "I think, you
+[1:05:09] know, for energy expenditure,
+[1:05:11] look at thermic effect of food. So, it's
+[1:05:14] like, "Okay."
+[1:05:15] So, so we did this study. I had some
+[1:05:17] some funds that I could use for him to
+[1:05:19] do that and uh
+[1:05:20] >> What did the study look like?
+[1:05:21] >> A study where we looked at the thermic
+[1:05:22] effect of food.
+[1:05:23] >> Like, so people ate ginger root with the
+[1:05:26] spice in their food. What was
+[1:05:27] >> We dissolved ginger powder in warm
+[1:05:30] water.
+[1:05:32] And so, that was one beverage and then
+[1:05:34] uh in the crossover, again, crossover
+[1:05:36] design. So, next time when they came, it
+[1:05:38] was just hot water.
+[1:05:39] >> And how many times a day are they
+[1:05:40] drinking it?
+[1:05:41] >> This was a one-time one-time uh
+[1:05:44] consumption period. And we looked at the
+[1:05:46] thermic effect of food over a 6-hour
+[1:05:48] period. So, again, they're they're under
+[1:05:50] this um
+[1:05:52] we call it metabolic hood, right? So, a
+[1:05:54] little bubble. And we measure their uh
+[1:05:56] oxygen consumption, carbon dioxide
+[1:05:58] production for I think it was 4 or 5
+[1:06:01] hours.
+[1:06:01] >> significantly elevated.
+[1:06:03] >> Mhm.
+[1:06:03] >> With ginger.
+[1:06:04] >> With ginger.
+[1:06:05] Yeah.
+[1:06:06] >> Wow.
+[1:06:06] >> So, we think through the capsaicin
+[1:06:08] receptor, there's an increase in the
+[1:06:10] thermic effect of food. So, yeah. So, I
+[1:06:12] was interested to see are there little
+[1:06:15] things that we could do, little changes
+[1:06:17] we can make to our diet to boost energy
+[1:06:20] expenditure relative to intake, you
+[1:06:22] know, just to tip the scale because
+[1:06:25] many adults over the course of their
+[1:06:27] life lifetime gain weight.
+[1:06:29] And it's not a big imbalance in calories
+[1:06:33] on a daily basis that leads to
+[1:06:37] 10 lbs of weight gain over 10, 15 years,
+[1:06:40] right?
+[1:06:41] >> more. Now, again, the GLP's are coming
+[1:06:42] in and adjusting with Yeah, I'm very
+[1:06:44] interested also in foods that have
+[1:06:48] impact beyond their, you know, known
+[1:06:51] known roles. I mean, the the problem is
+[1:06:54] in this area, in the functional foods
+[1:06:55] area, not the problem with your work,
+[1:06:57] but the is that there are a lot of wild
+[1:06:59] claims that go unchecked. Like, oh, you
+[1:07:02] know, walnuts are shaped like a brain
+[1:07:04] and therefore they're good for your
+[1:07:05] brain or, you know, which is I'm they
+[1:07:07] have certain things in them which are
+[1:07:09] brain beneficial, but it's not related
+[1:07:11] to the shape of the food. So, you get
+[1:07:13] there's a that area I feel of nutrition
+[1:07:16] has been
+[1:07:17] um marginalized on the basis of the kind
+[1:07:20] of like
+[1:07:21] quackery associated with it. But, of
+[1:07:23] course, there are interesting things in
+[1:07:25] different [clears throat] foods. I do
+[1:07:26] think that the
+[1:07:28] the Sonnenburg and colleagues work on
+[1:07:29] low-sugar fermented foods has been very
+[1:07:31] informative for lowering the
+[1:07:33] inflammatome even more than fiber.
+[1:07:36] I mean, actually in that study, this is
+[1:07:38] kind of the like even Justin will kind
+[1:07:39] of downplay this a little bit. He's a
+[1:07:41] colleague, so I can say he
+[1:07:42] in the fiber group, when they compared
+[1:07:44] to low-sugar fermented foods, and then
+[1:07:45] they measured the inflammatome, they did
+[1:07:47] a crossover design also. Within the
+[1:07:49] fiber group, there was a fair number of
+[1:07:51] people who their inflammation went way,
+[1:07:53] way up when they consumed more fiber.
+[1:07:56] But, in the low-sugar fermented group,
+[1:07:58] or when they were in that group, it was
+[1:07:59] it was
+[1:08:00] always on average reduced.
+[1:08:03] Some people who increase their fiber
+[1:08:05] intake, their
+[1:08:06] inflammatome decreases. For a lot of
+[1:08:08] people, it increases. Which is not to
+[1:08:10] say that fiber is bad, but I think now
+[1:08:11] we're starting to think about like
+[1:08:12] different types of fibers.
+[1:08:14] >> I was going to ask.
+[1:08:15] >> Yeah. They didn't control for that. They
+[1:08:16] just said increase the number of
+[1:08:18] servings each day. And and I know a lot
+[1:08:20] of people don't like to eat fibrous
+[1:08:22] foods because they don't feel good after
+[1:08:24] they eat them. It's like it's not that
+[1:08:26] they don't taste good, and I think
+[1:08:27] there's this whole like histamine story
+[1:08:29] that needs exploration. I think foods
+[1:08:32] and the healthy foods needs better
+[1:08:34] parsing.
+[1:08:35] >> Yeah.
+[1:08:35] >> In my in my opinion.
+[1:08:36] >> Yeah, I I mean, there was also
+[1:08:38] habituation. You don't go from consuming
+[1:08:42] 6 g of fiber per day to 25.
+[1:08:44] >> them up, but but I have to say they
+[1:08:46] ramped them up pretty high. Like, even
+[1:08:47] the low-sugar fermented foods, I think
+[1:08:48] they got them up to like four servings
+[1:08:50] per day. It's a lot of kimchi. You're
+[1:08:52] not familiar with it. Like, it can be a
+[1:08:54] little hard on the gut.
+[1:08:56] >> Yeah.
+[1:08:56] >> I actually take an enzyme. I think it's
+[1:08:58] called DAO.
+[1:09:00] Very inexpensive. A little It's like a
+[1:09:02] tiny tiny pill that
+[1:09:04] that for digesting histamines.
+[1:09:06] >> Mhm.
+[1:09:06] >> Cuz I noticed after I had whey protein
+[1:09:08] or I had broccoli or something I would I
+[1:09:10] would get kind of sleepy. I was like,
+[1:09:11] "What is this?" And I
+[1:09:13] a colleague at Stanford, Sean Mackey,
+[1:09:15] who's our head of our pain center, said
+[1:09:17] that he had gut pain at one point. He's
+[1:09:19] a pain doctor, directs the pain center,
+[1:09:21] and he figured out by
+[1:09:24] elimination and trial and error that it
+[1:09:26] was onions and other
+[1:09:27] histamine-containing foods because it
+[1:09:28] avoids histamine-containing foods. I'm
+[1:09:30] not about to give up the things I just
+[1:09:32] described. Onions I can do without, but
+[1:09:34] So, I think that there's a there is food
+[1:09:36] to have real effect.
+[1:09:38] >> Mhm.
+[1:09:38] >> So, kefir, these manno-oligosaccharides,
+[1:09:41] I have to confess I'm a little
+[1:09:42] disappointed cuz like here it looks like
+[1:09:44] it has like a cool effect, but they
+[1:09:45] didn't they didn't want Now can't get
+[1:09:47] them. I'm not going to eat coffee
+[1:09:48] grounds.
+[1:09:49] I'd like to take a quick break and
+[1:09:51] acknowledge our sponsor, Helix Sleep.
+[1:09:53] Helix Sleep makes mattresses and pillows
+[1:09:55] that are customized to your unique sleep
+[1:09:58] needs. Now, I've spoken many times
+[1:10:00] before on this and on other podcasts
+[1:10:02] about the fact that getting a great
+[1:10:03] night's sleep is the foundation of
+[1:10:05] mental health, physical health, and
+[1:10:07] performance. When we aren't getting
+[1:10:08] great sleep on a consistent basis,
+[1:10:10] everything suffers. And when we are
+[1:10:12] sleeping well and enough, our mental
+[1:10:14] health, physical health, and performance
+[1:10:15] in all endeavors improve markedly. Now,
+[1:10:18] the mattress you sleep on makes a huge
+[1:10:20] difference in the quality of sleep that
+[1:10:22] you get each night. How soft it is or
+[1:10:24] how firm it is all play into your
+[1:10:26] comfort and need to be tailored to your
+[1:10:28] unique sleep needs. If you go to the
+[1:10:30] Helix website, you can take a brief
+[1:10:32] 2-minute quiz and it will ask you
+[1:10:33] questions such as, do you sleep on your
+[1:10:35] back, your side, or your stomach? Maybe
+[1:10:36] you know, maybe you don't. Do you tend
+[1:10:38] to run hot or cold during the night?
+[1:10:40] Things of that sort. You answer those
+[1:10:41] questions and Helix will match you to
+[1:10:43] the ideal mattress for you. For me, that
+[1:10:45] turned out to be the Dusk, DUSK,
+[1:10:48] mattress. I've been sleeping on a Dusk
+[1:10:50] mattress for more than 4 years now, and
+[1:10:52] it's been far and away the best sleep
+[1:10:54] that I've ever had. If you'd like to try
+[1:10:56] Helix, you can go to
+[1:10:58] helixsleep.com/huberman,
+[1:11:00] take that 2-minute sleep quiz, and Helix
+[1:11:02] will match you to a mattress that's
+[1:11:04] customized for you. Right now, Helix is
+[1:11:06] giving up to 27% off their entire site.
+[1:11:10] Helix has also teamed up with TrueMed,
+[1:11:12] which allows you to use your HSA FSA
+[1:11:14] dollars to shop Helix's award-winning
+[1:11:16] mattresses. Again, that's
+[1:11:18] helixsleep.com/huberman
+[1:11:20] to get up to 27% off.
+[1:11:23] In your work or in your observation or
+[1:11:25] in your curiosity, what other foods are
+[1:11:26] kind of intriguing to you?
+[1:11:28] >> Someone had a really
+[1:11:30] great question for me at the Obesity
+[1:11:33] Society meeting a couple of years ago. I
+[1:11:36] was showing data that we had just
+[1:11:38] obtained in the lab that showed that if
+[1:11:40] you eat foods later in the day, your fat
+[1:11:44] oxidation is reduced. So, this is a
+[1:11:47] study that we're doing. We had
+[1:11:49] participants on a controlled diet, and
+[1:11:52] they started eating 1 hour after waking
+[1:11:54] up, and they had a 10-hour eating
+[1:11:56] window, or they started eating 5 hours
+[1:11:59] after waking up, so 4-hour delay
+[1:12:01] relative to the other condition. Again,
+[1:12:04] same thing for a a 10-hour window
+[1:12:06] 10-hour window.
+[1:12:07] We gave our participants the exact same
+[1:12:09] foods. Same foods, same quantity, same
+[1:12:13] timing between meals. And this was done
+[1:12:15] in a metabolic chamber.
+[1:12:18] And the meals, especially the meals
+[1:12:21] later in the day,
+[1:12:23] that were consumed late relative to the
+[1:12:25] earlier version of those meals, led to
+[1:12:28] less fat oxidation.
+[1:12:31] And someone in the audience
+[1:12:33] stood up and said, "So, would you then
+[1:12:37] recommend that people eat medium-chain
+[1:12:39] triglycerides
+[1:12:41] in their evening meal as opposed to, you
+[1:12:44] know,
+[1:12:45] a different type of of fat?"
+[1:12:48] And my eyes just went like this because,
+[1:12:51] you know, my
+[1:12:52] the my time studying medium-chain
+[1:12:54] triglycerides was, you know, 15 to 20
+[1:12:57] years ago. I was like, "Wow, this person
+[1:12:59] knows my that work that I've done and
+[1:13:02] now is applying it to this work that I'm
+[1:13:04] doing currently." And I thought that was
+[1:13:05] fascinating and I think that, you know,
+[1:13:07] timing of intake of different foods and
+[1:13:09] how it influences metabolism is
+[1:13:12] something that's uh that's fascinating
+[1:13:14] to me.
+[1:13:15] >> I confess, I'm a like first bite of food
+[1:13:18] around 11:00 a.m. person. I'm trying to
+[1:13:20] eat breakfast these days and then kind
+[1:13:22] of shift things earlier. All it's really
+[1:13:24] done is added a meal cuz I I take my
+[1:13:26] last bite of food usually around 8:00
+[1:13:27] p.m. I just can't seem to get
+[1:13:30] much earlier.
+[1:13:32] But,
+[1:13:34] I and many other people have wondered
+[1:13:36] whether it's best to eat more towards
+[1:13:38] early day or whether or not it's just
+[1:13:39] overall caloric load. You're saying that
+[1:13:42] it does indeed make a difference.
+[1:13:43] >> It makes a difference, yeah.
+[1:13:44] >> You want to shift most of your caloric
+[1:13:46] intake to the first like two-thirds of
+[1:13:48] your waking day.
+[1:13:49] >> Roughly.
+[1:13:50] >> Mhm. Yeah.
+[1:13:51] >> As opposed to the last two-thirds.
+[1:13:53] >> Yes.
+[1:13:53] >> Mhm. Yeah.
+[1:13:54] >> [clears throat]
+[1:13:54] >> So, in that study, 1 hour after waking
+[1:13:57] up, so let's say basically 8:00 a.m. to
+[1:13:59] 6:00 p.m. is our eating window. I mean,
+[1:14:01] this is a 10-hour eating window. It's
+[1:14:03] short. It's not, you know, our typical.
+[1:14:04] So, it could be
+[1:14:06] 8:00 a.m. to 7:00 p.m.
+[1:14:07] >> That seems pretty
+[1:14:08] >> That's reasonable.
+[1:14:09] >> Yeah. Yeah, versus
+[1:14:11] >> 12:00 p.m. to 10:00 p.m.
+[1:14:14] >> The New York schedule.
+[1:14:15] >> Yeah, the New York schedule.
+[1:14:16] >> that Yeah, well, I I sort of chuckle cuz
+[1:14:18] when I go to New York, like it's like if
+[1:14:19] you go to dinner at
+[1:14:21] 5:30, 6:00, you're kind of alone in the
+[1:14:23] restaurant.
+[1:14:24] >> Yeah, the early bird special.
+[1:14:26] >> Yeah, depends on time of year. In In
+[1:14:28] California, it's it's kind of in it's
+[1:14:30] the early shifted.
+[1:14:32] >> Yes.
+[1:14:32] >> But, that's just more reflective of
+[1:14:33] culture, I think. In Europe, they they
+[1:14:36] eat very late often. Depends on where.
+[1:14:38] >> I I I was saying before we we started, I
+[1:14:42] was on a Fulbright uh program last year
+[1:14:45] in in Spain. And uh I would joke with my
+[1:14:48] with my colleagues there because they
+[1:14:50] eat very late. And even the children eat
+[1:14:52] very late. And I was like, "Okay, well,
+[1:14:55] you feed me, then you feed the children.
+[1:14:57] >> Right. [laughter] Right.
+[1:14:58] >> Then you have your dinner because they
+[1:14:59] can have dinner at 10:00 and 11:00 p.m.
+[1:15:01] and the children ate 9:00 p.m. and I was
+[1:15:03] like,
+[1:15:04] >> Can't be good.
+[1:15:06] If you my dad's from Argentina, if you
+[1:15:08] go to a restaurant in Buenos Aires at
+[1:15:11] 9:00 p.m.,
+[1:15:12] you're not going to see many people. At
+[1:15:14] 11:00 p.m., you'll see people in their
+[1:15:15] 70s and 80s and they're up early the
+[1:15:17] next day. They nap in the afternoon.
+[1:15:19] >> Yeah.
+[1:15:20] >> I don't know how healthy they are as a
+[1:15:21] country on average, but haven't looked
+[1:15:23] at the data, but very, very late shifted
+[1:15:26] culture.
+[1:15:26] >> Well, there has been studies in Spain
+[1:15:28] that have looked at timing of eating and
+[1:15:29] their impact on weight management. I'm
+[1:15:32] thinking of work by Marta Garaulet,
+[1:15:35] where she showed that in her
+[1:15:37] weight loss program, the participants
+[1:15:40] who have lunch, so their big bigger meal
+[1:15:42] is is lunch, who have their lunch
+[1:15:44] earlier in the day, have better weight
+[1:15:47] loss than those who have their lunch
+[1:15:49] later in the day.
+[1:15:50] So, you know, even in those cultures
+[1:15:53] where they have they tend to eat late,
+[1:15:55] they still find that eating earlier
+[1:15:58] tends to be better for you.
+[1:15:59] >> I was very, very relieved when
+[1:16:02] Alan Aragon, who's a I consider one of
+[1:16:05] the best public educators on the topic
+[1:16:07] of protein and nutrition, body
+[1:16:08] recomposition, he's formally trained in
+[1:16:11] this, reassured me that, you know,
+[1:16:14] nowadays there's a lot of interest in
+[1:16:15] getting like protein rations. It's
+[1:16:16] probably over done a little bit, but the
+[1:16:18] people are striving to get more
+[1:16:19] high-quality protein, but that
+[1:16:22] except in rare circumstances where
+[1:16:24] people are really trying to optimize
+[1:16:26] every bit of muscle protein synthesis,
+[1:16:28] 95% of the effect
+[1:16:31] of getting enough protein can be
+[1:16:32] accomplished by having like two meals.
+[1:16:34] >> Mhm.
+[1:16:35] >> Maybe a little snack. That you don't
+[1:16:36] have And they can be
+[1:16:38] evenly distributed or unevenly
+[1:16:39] distributed. You know, I think a lot of
+[1:16:41] people are feeling this protein pressure
+[1:16:43] and like, "Oh, I got to eat another meal
+[1:16:45] late in the day or I have to force
+[1:16:46] myself to eat breakfast in order to get
+[1:16:48] their protein ration." It turns out the
+[1:16:50] whole notion that you could only
+[1:16:52] assimilate like 30 g per meal is is
+[1:16:54] totally false. It turns out you can
+[1:16:56] assimilate up to 100 g. Now, there are
+[1:16:58] conditions that set that up like
+[1:17:00] exercise etc. but I find that very
+[1:17:03] liberating. Like you could have
+[1:17:04] breakfast and an early dinner
+[1:17:06] >> Mhm.
+[1:17:06] >> with a snack in the middle. You could
+[1:17:08] miss breakfast, have lunch and an early
+[1:17:10] dinner. What I'm hearing from you,
+[1:17:11] however, is that you really want to
+[1:17:13] avoid the
+[1:17:14] the the big even or just late dinner.
+[1:17:17] You just don't want to eat too close to
+[1:17:18] bedtime.
+[1:17:19] >> Correct.
+[1:17:19] >> Okay.
+[1:17:20] >> Yeah.
+[1:17:20] >> What about these
+[1:17:22] MCTs, medium chain triglycerides? These
+[1:17:24] were very popular in the health and kind
+[1:17:25] of biohacking space a few years ago, the
+[1:17:28] um the whole bulletproof coffee notion,
+[1:17:30] MCTs, butter coffee and that's more or
+[1:17:33] less faded away. I don't see a lot of
+[1:17:36] people
+[1:17:38] putting oil in their coffee these days
+[1:17:40] or coconut. What are some of the known
+[1:17:42] benefits of MCTs? Where do you find them
+[1:17:45] and what what brought you to them as a
+[1:17:48] research topic?
+[1:17:49] >> This was a topic for my PhD
+[1:17:51] dissertation. So, my PI got a grant
+[1:17:55] looking at the medium chain
+[1:17:56] triglycerides. He had done prior work on
+[1:17:59] this
+[1:18:00] but what we did was use purified MCT
+[1:18:03] oil. So, this is only
+[1:18:07] liquid oil that contains eight carbon
+[1:18:10] and 10 carbon chain fatty acids.
+[1:18:13] Those are not very common in our general
+[1:18:16] food source. So, it was purified
+[1:18:19] extracted oil that we then
+[1:18:22] gave our participants. We had created
+[1:18:24] this functional oil
+[1:18:27] that contained flaxseed oil also to be
+[1:18:29] able to get some more some omega-3 fatty
+[1:18:31] acids in there.
+[1:18:33] We had added plant sterols because that
+[1:18:35] was a big
+[1:18:36] big focus of my lab at McGill plant
+[1:18:39] sterols for cholesterol reduction and
+[1:18:42] reduce risk of cardiovascular disease.
+[1:18:45] And
+[1:18:46] but the idea was to evaluate the impact
+[1:18:49] on energy expenditure because the way we
+[1:18:53] process medium chain triglycerides is
+[1:18:55] different than how we process long chain
+[1:18:58] triglycerides. So the
+[1:19:01] 12 14 16 and up carbon chains. So the
+[1:19:05] medium chain triglycerides they travel
+[1:19:07] directly to the liver they get
+[1:19:08] metabolized we burn them off more
+[1:19:11] readily than the long chain
+[1:19:13] triglycerides that travel across the
+[1:19:15] peripheral circulation get deposited in
+[1:19:17] adipose tissue and the sort.
+[1:19:20] And so what we did what we found we did
+[1:19:22] two separate studies in men and women in
+[1:19:25] both men and women there was an increase
+[1:19:27] in thermic effect of food so you burned
+[1:19:29] slightly more calories
+[1:19:31] from the the meal that contained medium
+[1:19:33] chain triglycerides compared to the meal
+[1:19:35] that contained your standard fat. For my
+[1:19:37] PhD the first study we did we did in
+[1:19:40] women.
+[1:19:42] And we were trying to match the
+[1:19:43] saturated fat content of the diets
+[1:19:46] because
+[1:19:47] medium chain fatty acids are by default
+[1:19:51] saturated or
+[1:19:53] C80 100.
+[1:19:55] So I said okay we're going to try to
+[1:19:58] compare that to a
+[1:20:00] saturated fat matched control comparison
+[1:20:04] and we used beef tallow.
+[1:20:06] It was a lot of beef tallow.
+[1:20:08] Uh [gasps]
+[1:20:10] participants were not happy with that
+[1:20:12] diet.
+[1:20:12] >> eat it direct like spoonfuls of beef
+[1:20:14] tallow?
+[1:20:15] >> put it on to mashed potatoes. You know
+[1:20:18] when you're when you're doing studies
+[1:20:19] like this where you're trying to control
+[1:20:21] the diet and you want to isolate one
+[1:20:23] aspect of it right and we gave real
+[1:20:25] foods half of the total fat of the diet
+[1:20:28] came from
+[1:20:30] the
+[1:20:31] the medium chain containing versus and
+[1:20:33] the beef tallow so it's like 20% of your
+[1:20:36] fat from
+[1:20:37] one of the two. So you have to pour it
+[1:20:39] mask it somehow.
+[1:20:41] And
+[1:20:42] there's also this issue about laxative
+[1:20:44] effect of MCT oil that that we had a few
+[1:20:46] participants who initially felt a lot of
+[1:20:49] gargling
+[1:20:51] when like just gargling from their
+[1:20:53] stomach from from consuming MCT because
+[1:20:56] it was a lot early on. It resolved.
+[1:20:59] >> Mhm.
+[1:20:59] >> So after a few days it was fine. It was
+[1:21:01] a one week one month I mean four week
+[1:21:03] study. So
+[1:21:05] after a few days no one dropped out for
+[1:21:08] you know any GI issues.
+[1:21:10] >> Okay, that's reassuring.
+[1:21:11] >> Yeah. So beef tallow it was initially
+[1:21:15] beef tallow because it has a lot of
+[1:21:19] saturated fat is solid at room
+[1:21:21] temperature.
+[1:21:23] So as soon as your food started to
+[1:21:25] get a little colder it would kind of gel
+[1:21:29] on your plate.
+[1:21:30] >> Mhm. Yeah, it's sort of like if you
+[1:21:31] bring french fries home from a
+[1:21:33] restaurant that used tallow and then you
+[1:21:34] like put it in the fridge cuz you
+[1:21:35] thought you wanted them as leftovers the
+[1:21:37] next day they're sort of like in this
+[1:21:39] like stuck to bottom of container
+[1:21:41] configuration. Yeah, it's not very
+[1:21:42] appetizing.
+[1:21:43] >> Not a feeling. No, there's like it's
+[1:21:45] white all underneath that.
+[1:21:46] >> always goes into the trash.
+[1:21:47] >> Yeah. A couple of women felt it gave
+[1:21:50] them headache just the smell of it you
+[1:21:53] know.
+[1:21:53] >> So with the MCT's big significant
+[1:21:56] increase in thermic effect of food?
+[1:21:57] >> That was statistically significant.
+[1:21:58] Yeah.
+[1:21:59] It was about
+[1:22:01] 45 to 50 60 calories.
+[1:22:04] >> Oh, I thought you were going to say
+[1:22:05] percent increase.
+[1:22:06] >> No, no, no. So it's it's a small change
+[1:22:08] but it was
+[1:22:11] if you're going to use this versus that
+[1:22:13] you're getting a little boost here if
+[1:22:14] you repeat this a few times in a day
+[1:22:17] because when we measured the thermic
+[1:22:19] effect of food we measured it only after
+[1:22:21] over one meal but repeated over three
+[1:22:25] meals per day over a certain period of
+[1:22:27] time, we did find changes in body
+[1:22:29] composition, improvements in
+[1:22:31] in weight status with medium-chain
+[1:22:33] triglyceride consumption.
+[1:22:35] >> Lean mass to to fat mass ratio.
+[1:22:37] >> Interesting.
+[1:22:38] >> And then we did follow-up study of a
+[1:22:41] weight loss study with medium-chain
+[1:22:43] triglyceride. This time around it was
+[1:22:44] just purified MCT oil, not added with
+[1:22:47] other types, versus olive oil,
+[1:22:50] which is much more acceptable, and found
+[1:22:52] greater weight loss with MCT.
+[1:22:54] >> Based on what you're saying, it's
+[1:22:55] reasonable if somebody wants to improve
+[1:22:58] weight loss. I'm hearing a sort of a
+[1:23:00] constellation of things. Shift your meal
+[1:23:02] timing to in the first two thirds or so
+[1:23:04] of your day,
+[1:23:05] which sounds like it will also improve
+[1:23:07] sleep, which will also improve
+[1:23:09] uh
+[1:23:10] >> Your your ability
+[1:23:11] >> appetite and food regular satiety and
+[1:23:13] hunger signals. What is it like a
+[1:23:15] tablespoon or two of MCT per day? Is
+[1:23:18] that kind of what this looks like for
+[1:23:19] the typical person?
+[1:23:21] >> Yeah, about that.
+[1:23:22] >> Okay.
+[1:23:22] >> Yeah.
+[1:23:22] >> In place of some other oil, not in
+[1:23:25] addition.
+[1:23:25] >> Not in addition, correct.
+[1:23:27] >> Okay. Some ginger.
+[1:23:28] >> Yeah.
+[1:23:29] >> Are they additive? Are they synergistic?
+[1:23:31] >> I think they could probably be additive
+[1:23:33] because I think that the impact is
+[1:23:34] through different mechanisms. Obviously,
+[1:23:37] no one's tested that
+[1:23:39] you know, it's interesting
+[1:23:40] you bring it up this way cuz it makes me
+[1:23:42] think of
+[1:23:43] David Jenkins and the portfolio diet. It
+[1:23:45] actually made the New York Times uh
+[1:23:47] I think it was
+[1:23:48] in December or November.
+[1:23:50] >> The portfolio diet was a diet he
+[1:23:52] designed for maximal cholesterol
+[1:23:55] reduction.
+[1:23:56] >> Mhm.
+[1:23:57] >> So it was initially designed to have
+[1:24:00] four specific foods. So it was high in
+[1:24:02] soy protein, nuts, plant sterols, and
+[1:24:05] soluble fiber.
+[1:24:07] >> Yeah, it's going to be a tough one to
+[1:24:08] get past most of the American public.
+[1:24:09] I'll tell you as a as a public health
+[1:24:11] educator, I don't care if it comes out
+[1:24:13] in the New York Times or Wall Street
+[1:24:15] Journal, the New Yorker, and everything
+[1:24:17] in between. People hear soy.
+[1:24:19] >> Yeah.
+[1:24:20] >> Nuts they like, but easy to overeat.
+[1:24:22] >> Mhm.
+[1:24:22] >> They hear plant sterols and like they're
+[1:24:25] they're
+[1:24:26] they're someplace else.
+[1:24:27] >> This diet was went on a head-to-head
+[1:24:29] comparison with lipid-lowering
+[1:24:32] agent, right? Like a
+[1:24:34] >> Like a statin.
+[1:24:35] >> Yeah, yeah, yeah. They had the same
+[1:24:37] uh cholesterol reduction as a statin.
+[1:24:40] >> As a statin.
+[1:24:40] >> Yeah.
+[1:24:40] >> The portfolio.
+[1:24:42] Interesting name. People are definitely
+[1:24:45] unhealthy in this country and if you if
+[1:24:47] they can lower blood lipids
+[1:24:50] >> Yeah. They've expanded it to uh
+[1:24:52] to be more flexible. So, it's not just
+[1:24:55] soy protein now, it also includes
+[1:24:57] legumes. They've added monounsaturated
+[1:24:59] fats, so olive oil.
+[1:25:01] >> You know, when I look at a diet like the
+[1:25:03] portfolio diet, which I you just I only
+[1:25:05] know what you just told me about it. I
+[1:25:07] think about the the current food
+[1:25:10] uh
+[1:25:11] uh suggestions by by the FDA, which are
+[1:25:14] you know, we could call it kind of um
+[1:25:17] it emphasizes um
+[1:25:19] unprocessed minimally processed food.
+[1:25:21] So, I think that's a step in the right
+[1:25:23] direction, certainly. We look at these.
+[1:25:26] The issue that always comes up for me is
+[1:25:28] I think, okay, in in a more plant-based
+[1:25:30] um grain-heavy nut diet, it's very easy
+[1:25:33] for people to overeat calories based on
+[1:25:36] this whole like amino acid protein
+[1:25:38] foraging hypothesis. This idea that we
+[1:25:40] eat until we get enough of the amino
+[1:25:42] acids we want. Like a like a
+[1:25:44] a chicken breast or something and a
+[1:25:46] couple eggs or or or four eggs or
+[1:25:49] something is very satiating.
+[1:25:51] >> Mhm.
+[1:25:51] >> Whereas we can eat a lot of grains and
+[1:25:53] nuts before we kind of go, okay, that's
+[1:25:55] enough. There seems to be this issue
+[1:25:57] like how do how do you
+[1:25:58] ensure cardiometabolic health
+[1:26:00] >> Mhm.
+[1:26:01] >> while quelling hunger.
+[1:26:02] >> Mhm.
+[1:26:03] >> You can't have people walking around
+[1:26:04] hungry all the time. And the GLP's help
+[1:26:06] with that. And it does get down to sort
+[1:26:08] of like do you include animal-based
+[1:26:09] foods or not often?
+[1:26:11] >> So, how do you think just from a public
+[1:26:13] health perspective that we can reconcile
+[1:26:16] this? Cuz clearly the highly processed
+[1:26:18] food diet is not going to work. The
+[1:26:19] standard American diet that I think that
+[1:26:21] is fading away. But now there's this
+[1:26:23] kind of polarization of like are we
+[1:26:24] going to go mostly plants, grains, nuts,
+[1:26:26] and kind of think low saturated fat,
+[1:26:28] blood lipids improving, or we going to
+[1:26:30] think like
+[1:26:32] you know, more
+[1:26:33] protein satiety.
+[1:26:35] Do you see where I'm getting at here?
+[1:26:37] Like I feel like this is this is the
+[1:26:38] contour of things.
+[1:26:39] >> Yeah. Well, I I think that
+[1:26:42] there's there's no reason to pit one
+[1:26:44] another against the other, right? So
+[1:26:46] like this one on one. But what's
+[1:26:48] important is that also having a diet
+[1:26:52] that's more plant-based, is higher
+[1:26:54] volume, that's filling. It's hard to eat
+[1:26:59] a lot of food. So if your
+[1:27:01] food volume is high, but does not
+[1:27:04] provide as much calories, you'll get
+[1:27:07] that
+[1:27:08] satiety from the food volume, and then
+[1:27:10] you
+[1:27:10] you put in some some nuts, helps to
+[1:27:14] prolong the satiety because then you get
+[1:27:16] some protein, some healthful fats. And
+[1:27:19] so I think that's important. I'm not
+[1:27:21] saying animal products are bad. I think
+[1:27:24] they're they're important for a diet. I
+[1:27:27] think they're important for health. It's
+[1:27:28] just a matter of portion size and making
+[1:27:31] sure that
+[1:27:33] there's not over emphasis on animal
+[1:27:36] products over plant-based products
+[1:27:37] because we know that plant-based
+[1:27:38] products are so much healthier in terms
+[1:27:41] of heart health,
+[1:27:43] reduction of
+[1:27:45] >> type 2 diabetes, cancer risk, another
+[1:27:48] metabolic diseases.
+[1:27:49] >> Yeah. Well, I'm right there with you. I
+[1:27:50] love fruits and vegetables. I'm a huge
+[1:27:52] fan of
+[1:27:53] I do eat meat. Half Argentine, I mean,
+[1:27:55] you know, but and chicken and I'm not a
+[1:27:57] big fan of fish. I keep working on this,
+[1:27:59] but I can't seem to quite get there, but
+[1:28:01] but I I don't eat them in excess.
+[1:28:04] The things that I feel are very very
+[1:28:06] easy for people to overeat are starch
+[1:28:07] fat or starch sugar fat combinations.
+[1:28:11] >> Mhm.
+[1:28:12] >> It's just like the the brain and gut
+[1:28:14] respond with
+[1:28:16] signals that scream more. You just It's
+[1:28:18] very hard for people to do like a slice
+[1:28:20] of pizza. I I love pizza. It can be
+[1:28:22] done, but it's just very hard for people
+[1:28:24] to do. It's like it it the the stop
+[1:28:26] signals just are all pushed down and the
+[1:28:29] go signals are are all go.
+[1:28:31] >> So, are we reducing white foods as much
+[1:28:32] as possible as well?
+[1:28:34] >> White foods?
+[1:28:34] >> Yeah. So, the
+[1:28:36] white flour, white rice, white pasta,
+[1:28:38] white, you know, things that
+[1:28:39] >> Mhm.
+[1:28:39] >> [clears throat]
+[1:28:40] >> not as colorful. You know, if you're
+[1:28:42] eating a slice of bread and it just
+[1:28:43] dissolves in your mouth.
+[1:28:45] >> It's sugar.
+[1:28:46] >> Not so good.
+[1:28:46] >> This is more of a editorial reflection
+[1:28:48] again, but it's also I was looking at
+[1:28:49] the history of nutrition in this
+[1:28:51] country. Oh, you're Canadian by birth,
+[1:28:52] right? I detected that, right?
+[1:28:55] And [snorts]
+[1:28:56] I don't know what the the sort of
+[1:28:57] traditional fare is in Canada, but if
+[1:28:59] you look at the history of food in the
+[1:29:02] United States, it's never been
+[1:29:04] particularly healthy. The foods that we
+[1:29:06] consider like American foods, like
+[1:29:09] hamburgers, hot dogs, with french fries,
+[1:29:11] corn dogs, fried chicken, donuts. Like
+[1:29:13] we've never been healthy about food.
+[1:29:15] People probably just moved a lot, ate
+[1:29:17] less, smoked a lot more, which is an
+[1:29:19] appetite suppressant, but gives you
+[1:29:20] cancer, kills you. We've never been
+[1:29:24] that healthy with respect to food. Maybe
+[1:29:26] food volume was more in check. But if
+[1:29:28] you look at traditional food in
+[1:29:32] you know, in Europe, probably in I mean,
+[1:29:34] Canada, what what sort of the are the
+[1:29:36] foods nourishing and healthy? I think
+[1:29:38] we're sort of in this like delusion that
+[1:29:40] like we were once healthy about food in
+[1:29:42] this country. We were never healthy
+[1:29:43] about food. The food was always pretty
+[1:29:46] weak in terms of nutritional status
+[1:29:47] except for fruits, vegetables, and some
+[1:29:50] animal parts.
+[1:29:51] >> Yeah.
+[1:29:51] I think portion size
+[1:29:53] has a lot to do with it, too. So, I know
+[1:29:56] um
+[1:29:57] moving from Canada to the US, you know,
+[1:29:59] all the go to restaurant, the portion
+[1:30:01] sizes are so big. Uh it would never have
+[1:30:03] occurred to me to
+[1:30:05] take home doggy bag with for
+[1:30:08] at a restaurant ever.
+[1:30:10] And then here it's like kind of have to
+[1:30:12] or else
+[1:30:13] you know, you're throwing away half your
+[1:30:14] plate or unless you're finishing the
+[1:30:16] whole thing. So, portion size I think is
+[1:30:17] a big one. And also the foods are
+[1:30:19] different in a way. We're talking about
+[1:30:21] yogurt.
+[1:30:22] >> [snorts]
+[1:30:23] >> So, there are two things. When I moved
+[1:30:25] to the US, the first thing the dietitian
+[1:30:27] at my work told me was
+[1:30:29] do not buy bagged bread.
+[1:30:33] I was like, "Okay. What does that mean?
+[1:30:35] Don't buy bagged bread? Like I That's
+[1:30:36] what I always do." No, she says, "You go
+[1:30:38] to the grocery store, you go to the
+[1:30:40] bakery section, they'll cut it up for
+[1:30:41] you, you ask what you want. Don't buy
+[1:30:43] bagged bread." I was like, "Okay. I'm
+[1:30:45] not going to buy bagged bread." So,
+[1:30:46] apparently she was talking about like
+[1:30:48] too many additives, too many too much
+[1:30:50] sugar, whatever.
+[1:30:52] Okay.
+[1:30:53] We're talking about like the bread that
+[1:30:54] just melts in your mouth. It's
+[1:30:56] So, and then the other thing was uh
+[1:30:59] yogurt. I used I ate yogurt quite a bit.
+[1:31:02] And then the yogurt in the here in the
+[1:31:04] US
+[1:31:05] tasted sweeter to me. The same thing,
+[1:31:08] the same yogurt.
+[1:31:11] Canada, here are the same name, the same
+[1:31:13] everything.
+[1:31:15] It was sweeter.
+[1:31:16] And I didn't know why, but then it
+[1:31:19] occurred to me that, you know, foods are
+[1:31:22] formulated in different ways in
+[1:31:24] different countries to appeal to the
+[1:31:26] population of that country. So, yogurt
+[1:31:28] was one where it's a little less sweet
+[1:31:30] in Canada than in US and it was less
+[1:31:33] sweet even than
+[1:31:35] in in Europe than Canada and US. So,
+[1:31:38] there's things like that that don't
+[1:31:40] necessarily help.
+[1:31:41] >> Yeah. Yeah, we we love our um sugars and
+[1:31:44] fats
+[1:31:45] in the United States. And and I think we
+[1:31:47] paid a substantial health debt as a
+[1:31:50] consequence. I mean, now
+[1:31:52] again, I don't have the numbers on this,
+[1:31:53] but with Wegovy and Ozempic and the
+[1:31:54] other GLP-1s, I've never tried them, but
+[1:31:57] a lot of people are finding it
+[1:31:59] much easier, if not easy, to lose weight
+[1:32:01] that they just couldn't before they just
+[1:32:03] could not control their appetite.
+[1:32:04] >> Mhm. And they're just not as interested
+[1:32:06] in these foods. There's this argument
+[1:32:07] that maybe they're not as interested as
+[1:32:09] in everything in life and that's a
+[1:32:11] important question that needs to be
+[1:32:12] resolved.
+[1:32:13] >> do things that think that things are
+[1:32:14] changing. I think we're finding a lot
+[1:32:16] more, you know, for example, the yogurt,
+[1:32:18] right? There was a lot more plain yogurt
+[1:32:19] options than there were,
+[1:32:21] you know, when I first moved to the US.
+[1:32:23] So, there's, you know,
+[1:32:25] >> Things are changing. It's been There's
+[1:32:26] been a lot of resistance and I think
+[1:32:28] that the the resistance has been um
+[1:32:33] sociological
+[1:32:35] in the sense that um
+[1:32:37] you know, there there's been a
+[1:32:38] resistance to people being healthy.
+[1:32:41] There really has, you know, that there's
+[1:32:42] this idea that like if you're eating
+[1:32:44] clean, you have an eating disorder. I
+[1:32:46] did an episode about eating disorders. I
+[1:32:48] talked to a lot of experts in this
+[1:32:50] including the group at Columbia Med that
+[1:32:52] works on eating disorders. You know, the
+[1:32:54] frequency of anorexia, the most deadly
+[1:32:56] psychiatric illness of all the
+[1:32:57] psychiatric illnesses, hadn't realized
+[1:32:59] that, is not increasing as a function of
+[1:33:01] social media or magazines or anything.
+[1:33:03] It's been very steady for maybe hundreds
+[1:33:05] of years. It's a real neurological
+[1:33:06] issue.
+[1:33:08] There's obviously social pressures and
+[1:33:09] things like that, but what I discovered
+[1:33:12] in in like talking to experts like
+[1:33:14] Joanna Steinberg at
+[1:33:16] Columbia and others is that you know,
+[1:33:19] like
+[1:33:20] there is this So, that was about
+[1:33:21] anorexia, but what I'm about to say is
+[1:33:23] separate. There's this notion that if
+[1:33:24] you're going to be thoughtful about what
+[1:33:26] you eat, you know, or maybe you're not
+[1:33:27] going to eat too late, or you're going
+[1:33:28] to skip dessert. Or until a few years
+[1:33:31] ago, like if you're not going to drink
+[1:33:32] alcohol, like there's something wrong
+[1:33:34] with you. Like that that you're being
+[1:33:35] restrictive somehow. I think again it's
+[1:33:38] kind of like the parallels to
+[1:33:40] Europe are kind of interesting that were
+[1:33:41] that the contrasts to Europe are
+[1:33:43] interesting where there's a lot of
+[1:33:45] social convention built up around food
+[1:33:47] that was healthy.
+[1:33:49] And I think in the United States the
+[1:33:50] social conventions built up around food
+[1:33:52] and alcohol were pretty unhealthy. It
+[1:33:54] was like everyone does this. Like
+[1:33:55] everyone eats hot dogs at the game. Like
+[1:33:57] and hot dogs at a baseball game are a
+[1:33:59] great thing. It's like a nothing is
+[1:34:00] as American as that except maybe apple
+[1:34:02] pie, right? But there's this when people
+[1:34:05] start making choices in in the direction
+[1:34:07] of their health it was and to some
+[1:34:09] extent it still is a there's this
+[1:34:11] quieter undercurrent of well like are
+[1:34:14] you being restrictive? Like are you
+[1:34:16] really going to live like that? But then
+[1:34:18] you look at the the health outcomes. And
+[1:34:20] culturally until a few years ago it was
+[1:34:22] considered very not okay to say that
+[1:34:24] obesity obesity was a health risk.
+[1:34:26] >> Mhm.
+[1:34:27] >> And now the open discussion about
+[1:34:28] obesity and metabolic health as as like
+[1:34:30] a real health risk.
+[1:34:32] >> Mhm.
+[1:34:32] >> I think now we're kind of like in the
+[1:34:34] actual discussion that for a long time
+[1:34:35] it was like
+[1:34:38] Speaking of which and um kind of things
+[1:34:39] outside the box uh there's a paper on
+[1:34:41] your CV that I could not help but ask
+[1:34:44] about. Snack chips fried in corn oil
+[1:34:47] alleviate
+[1:34:48] >> Mhm.
+[1:34:49] >> cardiovascular risk factors when
+[1:34:51] substituted for low-fat and high-fat
+[1:34:53] snacks.
+[1:34:53] >> Yep.
+[1:34:54] >> What?
+[1:34:54] >> Mhm.
+[1:34:55] >> What?
+[1:34:56] >> Yes.
+[1:34:56] >> Tell me the data. I believe you. I'm
+[1:34:58] just like what
+[1:34:59] This is wild.
+[1:35:00] >> This was funded by Frito-Lay. At that
+[1:35:03] time they had changed the oil that they
+[1:35:06] were using to fry their corn chips. So
+[1:35:10] this was Doritos, Fritos, Cheetos, and
+[1:35:13] Tostitos. It's all the to- to- to-
+[1:35:16] >> all the e- e-
+[1:35:16] >> All the e- e-
+[1:35:17] And so they had changed to corn oil. And
+[1:35:19] I'm like this is an oil that's higher in
+[1:35:21] polyunsaturated fats than what we
+[1:35:23] usually have.
+[1:35:24] >> they using before?
+[1:35:26] >> I'm not sure. I forget.
+[1:35:27] >> But it wasn't tallow.
+[1:35:29] >> I don't think so. Like does it make a
+[1:35:30] difference? Is it going to improve
+[1:35:33] health if people choose those
+[1:35:36] snacks compared to other snacks?
+[1:35:38] So we had three arms in that study.
+[1:35:41] Uh each person went through each of the
+[1:35:44] three arms. It was for 25 days. The
+[1:35:48] question was
+[1:35:49] okay, let's say you have a choice for a
+[1:35:51] snack today. And you're going to go to
+[1:35:54] the vending machine
+[1:35:55] and you have your option. Do you eat a
+[1:35:58] low-fat, high-carbohydrate snack, a
+[1:36:02] high-fat,
+[1:36:03] high-monounsaturated high-saturated
+[1:36:05] snack, or those chips?
+[1:36:09] So, you just pick one and that's that.
+[1:36:11] So, I think we gave It was two snacks
+[1:36:13] today
+[1:36:15] for for 25 days. It was a rotation, so
+[1:36:17] they had four Yeah, they had four
+[1:36:19] different uh chips. So, it's two one
+[1:36:21] day, two the next day, like that for 25
+[1:36:24] days and then the controls.
+[1:36:26] And yeah, the the the better lipid
+[1:36:29] profile
+[1:36:30] was the one with
+[1:36:32] was the one from the the corn chips.
+[1:36:35] They had the better lipid. Yeah. And
+[1:36:37] they had less uh lipoprotein little A,
+[1:36:40] which is another you know, factor
+[1:36:42] cardiometabolic risk factor.
+[1:36:44] >> Data or data?
+[1:36:45] >> Data or data.
+[1:36:46] >> Well, I know that in the head-to-head
+[1:36:47] comparison of seed oils, of which corn
+[1:36:49] is,
+[1:36:50] >> Right?
+[1:36:50] >> with saturated fat, this is where it
+[1:36:53] kind of the contention starts to
+[1:36:55] erupt. Where
+[1:36:57] there are many studies now, I think,
+[1:37:00] showing that when you substitute
+[1:37:01] saturated fat with seed oils, that
+[1:37:04] cardiometabolic
+[1:37:05] risk factors go down and this is true,
+[1:37:08] right? Well, by the way, I'm just going
+[1:37:09] to say I I I avoid seed oils actively
+[1:37:12] cuz I like olive oil and butter.
+[1:37:14] >> Mhm.
+[1:37:14] >> Mostly olive oil.
+[1:37:16] I avoid seed oils. I don't like the way
+[1:37:17] they taste. I love olive oil.
+[1:37:19] >> Okay.
+[1:37:19] >> And there's some health effects of olive
+[1:37:21] oil and I eat small amounts of butter
+[1:37:23] and
+[1:37:23] I so I just like duck the whole
+[1:37:26] controversy, right? And uh you have to
+[1:37:28] make sure you're getting real olive oil,
+[1:37:30] but that can be done.
+[1:37:31] When you look at the studies that
+[1:37:32] compare saturated fat to seed oils, you
+[1:37:35] do see
+[1:37:36] uh better outcomes for seed oils. But
+[1:37:38] then there's this crowd that comes in
+[1:37:40] and says, "But that's on a backdrop of
+[1:37:43] reasonably high carbohydrate intake.
+[1:37:46] When you start replacing some of those
+[1:37:47] carbohydrates with lower carbohydrate
+[1:37:50] diet and increasing protein intake so
+[1:37:52] not keto but kind of like lower-ish
+[1:37:54] starch and sugar then maybe that
+[1:37:56] balances out okay. But the big
+[1:37:58] contention seems to be around the
+[1:37:59] processing of these seed oils. This idea
+[1:38:02] that when especially when you make
+[1:38:03] things like chips that when you take
+[1:38:06] fats and you combine them with
+[1:38:07] carbohydrate and you heat them up a lot
+[1:38:09] that you create factors that
+[1:38:11] are not good for the body. What is the
+[1:38:13] evidence for against that?
+[1:38:15] >> Also different oils have different smoke
+[1:38:17] points, right? So each oil should be
+[1:38:20] used for its appropriate usage, right?
+[1:38:22] So cooking process.
+[1:38:25] So
+[1:38:26] I think that's that's where, you know,
+[1:38:28] people think that they should be using
+[1:38:30] one type of oil for everything that they
+[1:38:32] do.
+[1:38:33] But some oil like you wouldn't put
+[1:38:36] flaxseed oil for example and and heat it
+[1:38:38] up to very high
+[1:38:41] uh temperature.
+[1:38:42] >> Are you a fan of flaxseed oil?
+[1:38:44] >> I'm a fan of every liquid oil. I use
+[1:38:46] I've no no personal
+[1:38:49] >> You seem very healthy.
+[1:38:50] >> restriction on the
+[1:38:52] on the types of oils. I think that, you
+[1:38:54] know, oils are that remain liquid at
+[1:38:56] room temperature
+[1:38:58] that should be your your your barometer
+[1:39:01] for what's better to use. I'm also not
+[1:39:04] saying that people should avoid butter
+[1:39:07] like the plague, right? So all in
+[1:39:09] moderation is is okay.
+[1:39:12] >> Is there any reason to
+[1:39:15] I just can't find the argument for why
+[1:39:17] anyone would replace olive oil with a
+[1:39:21] seed oil.
+[1:39:23] >> Olive oil has a lower smoke point than
+[1:39:25] than other seed oils. So peanut oil for
+[1:39:28] example has a higher smoke point. So you
+[1:39:29] can fry in peanut oil. You wouldn't fry
+[1:39:32] anything in olive oil.
+[1:39:33] >> I wouldn't eat anything fried.
+[1:39:34] >> Well
+[1:39:35] >> Yeah.
+[1:39:35] >> So that's that's a different
+[1:39:38] reason. But like, you know, so depending
+[1:39:40] on how you want to use your oil then,
+[1:39:42] you know, also some people find, you
+[1:39:44] know, olive oil in baked goods might
+[1:39:45] impart stronger taste. So, depending on
+[1:39:48] the type. So, some of them are more
+[1:39:50] flavorful, right? And so, they're more
+[1:39:52] fragile, let's say, and they'll impart
+[1:39:55] flavors to different different foods
+[1:39:57] where they're not supposed to be.
+[1:39:59] >> So, you're you're not seed oil averse,
+[1:40:01] nor are you
+[1:40:03] pro seed oil, is what I'm hearing.
+[1:40:05] >> Personally?
+[1:40:05] >> Yeah.
+[1:40:06] >> No.
+[1:40:06] >> Cuz I think that the um the seed oil
+[1:40:09] debate has been very contaminated by the
+[1:40:11] issues that I mentioned before, but also
+[1:40:12] because many, many processed foods
+[1:40:14] contain seed oil. They're much less
+[1:40:17] expensive than using
+[1:40:19] you know, grass-fed butter or or olive
+[1:40:21] oil or even just ordinary butter. So,
+[1:40:24] >> It's important to be
+[1:40:26] nutrition facts literate.
+[1:40:28] So, when you're talking about uh
+[1:40:30] processed foods,
+[1:40:31] so
+[1:40:32] as much as possible, cooking at home,
+[1:40:34] but that's something that a lot of
+[1:40:36] people don't really know how to do, feel
+[1:40:38] they don't have the time for.
+[1:40:39] >> People aren't going to start doing that.
+[1:40:40] >> And then
+[1:40:41] >> I I'll tell you, they're not going to
+[1:40:42] start doing that. I wish they would, but
+[1:40:44] they they're not going to.
+[1:40:45] >> At the grocery store to to look at the
+[1:40:46] nutrition facts panel and be like, okay,
+[1:40:48] what's in here, what's in there, and
+[1:40:50] comparing products to one another,
+[1:40:52] right? And and also, what's more
+[1:40:54] important for your own health.
+[1:40:56] >> Mhm.
+[1:40:56] >> Right? What's relevant for my health may
+[1:40:58] not be what's relevant for your health.
+[1:41:00] You know, some people are we're talking
+[1:41:03] about salt sensitivity. Some people are
+[1:41:05] very salt sensitive. Some people are
+[1:41:07] very active and need to replace salt,
+[1:41:09] and so salt is not an issue for them.
+[1:41:11] But, so being able to know
+[1:41:14] uh where to what to pay attention to,
+[1:41:16] because otherwise, it just gets
+[1:41:18] overwhelming.
+[1:41:19] >> Mhm.
+[1:41:20] You mentioned uh the study was paid for
+[1:41:22] by a company, and earlier you mentioned
+[1:41:24] companies. I think this is an important
+[1:41:25] issue that we've never really direct
+[1:41:27] directly addressed on this podcast. I
+[1:41:29] mean, anytime I've covered a paper and
+[1:41:31] uh sometimes I do these solo episodes,
+[1:41:33] I'll get back to them soon. I used to do
+[1:41:34] a lot more of them, but I would always
+[1:41:36] look, like are there financial conflicts
+[1:41:38] of interest?
+[1:41:40] What's the difference between a company
+[1:41:42] funding a study
+[1:41:44] and a financial conflict of interest, if
+[1:41:46] any? Like it Like to me, a financial
+[1:41:47] conflict of interest is if the
+[1:41:50] investigators, the scientists running
+[1:41:52] the study, um are have stakes in you
+[1:41:54] know, they have uh shares in the company
+[1:41:56] or they're being paid to do the study,
+[1:41:57] obviously. But, when a company funds
+[1:42:00] research on like this uh
+[1:42:03] the snack chips study that you did,
+[1:42:06] I think everyone would like to assume
+[1:42:08] that they don't have any You're not
+[1:42:09] feeling any There's no explicit nor
+[1:42:12] implicit pressure for a particular
+[1:42:14] outcome.
+[1:42:14] >> Right.
+[1:42:15] >> Could you like how do How does this
+[1:42:17] stuff come about?
+[1:42:18] >> So, I'm glad you're asking that question
+[1:42:19] because that's something that people
+[1:42:21] often have this knee-jerk reaction to
+[1:42:23] industry-sponsored studies. And there
+[1:42:25] are I know there are people who are very
+[1:42:27] very vocal against industry
+[1:42:30] uh sponsored research. But, as
+[1:42:31] scientists,
+[1:42:32] we do research. We do research to the
+[1:42:34] best of our abilities, and we provide we
+[1:42:38] we draft the research question, you get
+[1:42:40] the data, you analyze it, you publish
+[1:42:42] it. Some of the studies that I haven't
+[1:42:44] been able to publish have been funded by
+[1:42:46] industry that have had null results.
+[1:42:49] >> Null results?
+[1:42:50] >> Null results. So, so we did a we did a
+[1:42:52] study. It was sponsored by industry. We
+[1:42:55] didn't find any significant effect of
+[1:42:57] the test product compared to the
+[1:42:59] control.
+[1:43:00] >> And you can't publish it.
+[1:43:01] >> We wrote the paper. We wrote the report.
+[1:43:04] We provided it to our sponsor.
+[1:43:07] Just
+[1:43:08] out of uh
+[1:43:10] you know, courtesy. So, this is the
+[1:43:11] paper. We're going to submit it to for
+[1:43:12] publication.
+[1:43:15] Do what you need to do.
+[1:43:16] >> So, they've given you the green light to
+[1:43:17] submit it. So, the companies aren't
+[1:43:19] short-circuiting you.
+[1:43:20] >> No, never. That's in the contract,
+[1:43:21] right? Your right to publish. Because
+[1:43:24] otherwise, why did you do research?
+[1:43:26] There's no point [clears throat] in
+[1:43:27] doing research if you're not going to be
+[1:43:28] able to publish your research.
+[1:43:30] So,
+[1:43:32] you basically
+[1:43:34] it's courtesy to show that the paper
+[1:43:36] that you're going to be submitting for
+[1:43:37] publication,
+[1:43:39] that one paper that I'm
+[1:43:41] referring to, I must have tried five
+[1:43:44] different journals.
+[1:43:46] But,
+[1:43:48] the findings are not exciting. They're
+[1:43:50] showing that there's no effect on our
+[1:43:52] outcomes,
+[1:43:53] and it got rejected, rejected, rejected,
+[1:43:55] rejected. And I'm pretty persistent.
+[1:43:59] I ran out of steam. So, if I run out of
+[1:44:01] steam, I can imagine so many other
+[1:44:03] people, other scientists who have no
+[1:44:05] results have run out of steam much
+[1:44:07] quicker than me.
+[1:44:08] >> So, that's a no result issue. It's not
+[1:44:10] necessarily unique to industry-funded
+[1:44:12] studies.
+[1:44:13] >> No, that's not unique. So,
+[1:44:15] industry-sponsored studies, you know, I
+[1:44:17] often also say they're
+[1:44:19] we get um
+[1:44:21] NIH reports of scientific misconduct.
+[1:44:24] So, reports of scientific misconduct
+[1:44:26] conducts can be found from NIH-sponsored
+[1:44:28] studies where they find that the
+[1:44:31] principal investigator falsified data
+[1:44:33] that have been published in a specific
+[1:44:35] paper.
+[1:44:36] So, to me,
+[1:44:38] if you're not going to if you're not an
+[1:44:40] honest scientist,
+[1:44:43] obviously, I don't think it matters
+[1:44:44] who's sponsoring your research because
+[1:44:46] the NIH finds misconduct.
+[1:44:49] >> Right. I mean,
+[1:44:50] doing science
+[1:44:52] for any other reason than trying to find
+[1:44:54] real answers is just insane. Like, I
+[1:44:56] mean, these people are who do this are
+[1:44:58] like legitimately sick. Like, you know,
+[1:45:01] like, yeah.
+[1:45:02] >> It's a lot of work. It's a lot of work.
+[1:45:04] >> well, do they really think they
+[1:45:05] discovered something if they made it up?
+[1:45:06] It's like it's like it doesn't it's not
+[1:45:08] it doesn't it doesn't compute. It
+[1:45:10] doesn't compute. Well, it never ends
+[1:45:11] well. And then, you know, we could spend
+[1:45:13] hours talking about the case these
+[1:45:14] things always it always comes out in the
+[1:45:16] wash. So, I'm hearing that negative
+[1:45:18] outcomes are hard to publish.
+[1:45:20] When you
+[1:45:21] take on funding from a company to to
+[1:45:25] address a particular question about a
+[1:45:27] product that they sell. You it sounds to
+[1:45:29] me, I'm trying to I want to be careful
+[1:45:31] I'm not like leading the witness here,
+[1:45:32] but that you you don't it doesn't sound
+[1:45:35] like you feel any pressure to give them
+[1:45:37] a particular answer.
+[1:45:39] >> No.
+[1:45:39] >> So, what's their interest in doing this?
+[1:45:42] Like like why are they why are they
+[1:45:43] funding studies? I mean companies are
+[1:45:45] selfish and they should be. They are
+[1:45:46] shareholders and they need to um some of
+[1:45:48] them are public companies and so the
+[1:45:49] shareholders are the public and so why
+[1:45:51] are they funding research? I mean plenty
+[1:45:53] of people eat chips.
+[1:45:54] >> Yeah.
+[1:45:54] >> Why are they funding research?
+[1:45:57] >> They wanted to know if it had a health
+[1:45:58] benefit.
+[1:45:59] >> So, they could market a health benefit.
+[1:46:01] >> Probably. Market a health benefit at
+[1:46:03] some point. That could be. And then if
+[1:46:05] they don't find a health benefit,
+[1:46:07] maybe they could switch it to something
+[1:46:09] else, right? I don't know.
+[1:46:11] >> I'm very uh
+[1:46:13] sympathetic to the reality that there
+[1:46:16] isn't a lot of research funding coming
+[1:46:18] through NIH and NSF these days, but but
+[1:46:22] always it's been you know, uh it's been
+[1:46:25] low. I know cuz I sat on study sections
+[1:46:27] which dole out grants. I
+[1:46:29] got grants, but I it's very very very
+[1:46:31] competitive. Are you taking money from
+[1:46:34] companies to do this work because it's a
+[1:46:37] it's a great way to fund studies. Like
+[1:46:39] in other words, if if if NIH had more
+[1:46:42] money to study nutrition,
+[1:46:43] >> Mhm.
+[1:46:44] >> I could imagine a world where you would
+[1:46:45] just take money from NIH to do it. Like
+[1:46:47] you wouldn't need the money from
+[1:46:49] companies.
+[1:46:50] >> are better from NIH funding than from uh
+[1:46:53] from industry funding for nutrition
+[1:46:55] research.
+[1:46:56] But if you're if you could get an NIH
+[1:46:58] grant, that's that's the ultimate goal,
+[1:47:01] right? Or USDA or other governmental
+[1:47:04] grant.
+[1:47:05] That's the goal.
+[1:47:06] >> Mhm.
+[1:47:07] >> But sometimes also there's specific
+[1:47:09] foods, specific products that would be
+[1:47:12] kind of hard to study without industry
+[1:47:15] support cuz you need to get access to
+[1:47:18] the specific food
+[1:47:21] or product.
+[1:47:22] >> Well, I
+[1:47:22] >> what the status of it is right now, but
+[1:47:25] um my
+[1:47:27] fairly frequent um kind of check-in on
+[1:47:29] what
+[1:47:30] the at least stated goals of the
+[1:47:33] now being revised NIH are include um
+[1:47:37] creating a forum
+[1:47:38] even some incentive for publishing
+[1:47:40] negative results or null results, I
+[1:47:42] should say. Uh you know, Jay
+[1:47:44] Bhattacharya who's been on this podcast
+[1:47:46] I just put that out publicly. We need to
+[1:47:48] we need those results that are
+[1:47:49] important. They steer people away from
+[1:47:51] certain things that need to be steered
+[1:47:53] away from and also uh it seems at least
+[1:47:58] from the whole food pyramid revision et
+[1:48:01] cetera that there seems to be more and
+[1:48:02] more interest in nutrition
+[1:48:04] as a research topic and something to
+[1:48:06] really understand. So, obviously it's
+[1:48:09] really important. I mean, people are
+[1:48:11] eating every day.
+[1:48:12] Um they're making these choices. So,
+[1:48:14] there should be more federal funding for
+[1:48:15] these things. And then there's no
+[1:48:17] chance of bias.
+[1:48:18] >> Right.
+[1:48:19] >> Right? Yeah, I think that people assume
+[1:48:21] that if if industry funded a study that
+[1:48:23] um especially on food that like
+[1:48:26] something's not to be trusted in there.
+[1:48:28] >> I don't know why for food in particular,
+[1:48:30] right? So, if you think about it
+[1:48:32] >> Food and drugs. Food and drug companies.
+[1:48:34] >> But drug companies, they do research on
+[1:48:36] their own product all the time.
+[1:48:38] >> the R&D for drug companies is definitely
+[1:48:40] done in-house. That's also part of the
+[1:48:42] scary part about it. We don't see the
+[1:48:44] null results. I actually would
+[1:48:46] prefer if it
+[1:48:48] took on a different shape. I don't know
+[1:48:49] exactly what it would look like. I mean,
+[1:48:50] drug comp we don't see a lot of the
+[1:48:53] negative outcomes that might exist. So,
+[1:48:55] I I don't think there's a lot
+[1:48:56] >> they just die out before they make it to
+[1:48:58] next step and
+[1:48:59] >> Yeah, I think outright scientific fraud,
+[1:49:02] people making stuff up is pretty rare.
+[1:49:04] >> Very rare.
+[1:49:05] >> But I do think there's a lot of
+[1:49:07] questions about people because of the
+[1:49:09] incentives to need to publish to as you
+[1:49:11] described it's hard to publish null
+[1:49:12] results. We will never know and And is
+[1:49:15] when you run a lab as you know, you you
+[1:49:16] want to create a culture where graduate
+[1:49:18] students and post docs feel very
+[1:49:19] comfortable saying there's nothing here.
+[1:49:21] >> Right.
+[1:49:21] >> Because the stuff that didn't work out
+[1:49:24] you always you you know, it's just a
+[1:49:26] question that you always have like what
+[1:49:28] what stuff do we never hear about
+[1:49:30] because the negative results like they
+[1:49:32] say, "Well, that mouse was sick." Or
+[1:49:34] this you know, there's a lot of
+[1:49:35] the brain is a crazy
+[1:49:37] >> Yeah.
+[1:49:37] >> thing.
+[1:49:38] >> That's why you need to teach the
+[1:49:39] students well, right? You have a student
+[1:49:41] who comes to you and says,
+[1:49:43] "Hey, this
+[1:49:45] this is lower this is better than this."
+[1:49:47] And you look at you look at the numbers
+[1:49:49] and you say, "Well,
+[1:49:50] it's 25 versus 27 and the standard
+[1:49:53] deviation is 10." Like, "No, 25 is the
+[1:49:57] same as 27, right?" So, you have to make
+[1:49:59] sure you you teach well to
+[1:50:02] know that you know, even numerically
+[1:50:05] different effects may not be
+[1:50:08] statistically significantly different
+[1:50:10] and that's just
+[1:50:11] part of the you know, the curve, right?
+[1:50:14] >> Yeah, the ideal situation is when the
+[1:50:15] student or post doc doesn't believe
+[1:50:17] their own results. They're like, "It's
+[1:50:18] not real." [laughter] And then you have
+[1:50:19] to convince them, "Actually, you have
+[1:50:21] something interesting." That's a good
+[1:50:22] situation.
+[1:50:23] >> situation.
+[1:50:23] >> That's a good situation. And then
+[1:50:24] eventually they're like, "Oh, okay, you
+[1:50:26] know." That's the ideal situation, but I
+[1:50:29] think this whole field of nutrition is
+[1:50:31] is is contentious
+[1:50:33] uh for some of the right reasons. It's
+[1:50:35] so very important and I think it's
+[1:50:36] contentious also for a lot of
+[1:50:39] unfortunate and unnecessary reasons.
+[1:50:41] Among the students and post docs and
+[1:50:44] general public when you interact, what
+[1:50:45] what are people
+[1:50:47] most interested in with respect to
+[1:50:49] nutrition? Like when people ask you, is
+[1:50:51] it like, "What should I eat? What
+[1:50:53] shouldn't I eat?" Like what what are
+[1:50:54] what are what what's coming Like what
+[1:50:56] are your antennae picking up when when
+[1:50:58] you're out there?
+[1:50:59] >> I think what should I eat or you know,
+[1:51:01] or have you heard about XYZ fad? That's
+[1:51:05] also one. Have you heard that whatever
+[1:51:09] product cures everything in the world?
+[1:51:11] >> Mhm.
+[1:51:12] >> No, I haven't heard that.
+[1:51:14] >> Peptides are like very peptides right
+[1:51:17] now peptides are really big.
+[1:51:18] >> It's always something else.
+[1:51:19] >> Yeah, yeah, yeah.
+[1:51:20] >> So it's it's it's very specific to a
+[1:51:22] product.
+[1:51:22] >> Yeah, often very specific to a product.
+[1:51:24] Yeah.
+[1:51:25] >> You won't be held responsible for your
+[1:51:26] answer, but
+[1:51:28] do you supplement your diet with with
+[1:51:31] minerals like magnesium or anything like
+[1:51:33] that or you just completely careful food
+[1:51:35] choices?
+[1:51:36] >> I prefer careful food choices. I think
+[1:51:39] it's more pleasurable to eat a
+[1:51:42] complete food
+[1:51:43] diet. That said, I think that there are
+[1:51:45] some people who may need to supplement
+[1:51:47] their diets, but I think people should
+[1:51:50] strive to
+[1:51:52] to get their nutrients from
+[1:51:56] from whole foods.
+[1:51:57] >> Fiber recommendations are really
+[1:51:59] growing. I I looked into this and many
+[1:52:01] many people's doctors are now telling
+[1:52:03] them you should take
+[1:52:04] a little bit of psyllium husk. I always
+[1:52:06] thought by the way psyllium husk was
+[1:52:08] like the husks like you had to like
+[1:52:09] they're like you're going to eat like
+[1:52:10] the seed husk. It's actually ground into
+[1:52:12] a powder or something like that. I'm
+[1:52:14] still afraid to take it, but I should I
+[1:52:16] should take a little bit of it, but
+[1:52:17] doctors now are prescribing
+[1:52:20] supplemental fiber
+[1:52:22] and in a pretty high rate from what I
+[1:52:24] understand.
+[1:52:25] >> Oh, that's interesting.
+[1:52:26] >> Yeah, people don't want to eat
+[1:52:27] [clears throat] their fruits and
+[1:52:27] vegetables.
+[1:52:28] >> But they bring so much more, right? So
+[1:52:32] yes, there is fiber in fruits and
+[1:52:34] vegetables, but there's also all sorts
+[1:52:37] of polyphenols, right? All sorts of
+[1:52:39] non-nutrient components that themselves
+[1:52:42] may have benefits for health that we
+[1:52:46] don't fully understand yet that
+[1:52:48] feed your gut that are maybe just as
+[1:52:50] relevant that may
+[1:52:52] enhance
+[1:52:54] fiber's impact on health.
+[1:52:56] >> Yeah, listen, I
+[1:52:57] >> So you know
+[1:52:58] >> preaching to the choir.
+[1:52:59] I I love fruits and vegetables.
+[1:53:02] Well,
+[1:53:03] thank you so much for taking time out of
+[1:53:04] your schedule. You have a very unique
+[1:53:06] research program. You know, I have to
+[1:53:08] say very few people can work on as many
+[1:53:11] different things and find their points
+[1:53:13] of intersection and
+[1:53:14] I'm so grateful that you're exploring
+[1:53:16] these things. I appreciate your
+[1:53:18] openness about industry-funded research.
+[1:53:20] This is something that I think people
+[1:53:23] need to know about. I certainly learned
+[1:53:25] about that from you today and based on
+[1:53:27] your work, I think it's fair to say that
+[1:53:29] we shouldn't just be encouraging people
+[1:53:30] to get great sleep. We should be
+[1:53:32] encouraging people to eat
+[1:53:35] at times and foods that allow them to
+[1:53:38] get great sleep, which will allow them
+[1:53:39] to
+[1:53:40] get better make better food choices
+[1:53:43] >> Yes.
+[1:53:43] >> and so forth.
+[1:53:44] >> Yeah. So, you know, I talk often about a
+[1:53:46] vicious cycle where you don't sleep
+[1:53:48] well, you don't eat well, then that
+[1:53:51] makes you not sleep so well and really
+[1:53:55] hoping for people to get into a helpful
+[1:53:57] cycle, right? Where you get good sleep,
+[1:53:59] where you can make
+[1:54:00] good food choices that then helps you
+[1:54:03] get better sleep to keep propelling this
+[1:54:06] this cycle of better health.
+[1:54:08] >> I love it. It's a true integrative
+[1:54:10] medicine and science. I also can attest
+[1:54:13] that when you sleep well, you make
+[1:54:14] better food choices. When you eat well,
+[1:54:16] you sleep better. So, thank you so much
+[1:54:18] for coming, for taking time out of your
+[1:54:20] schedule. Really appreciate it and I've
+[1:54:22] learned a ton. Thank you.
+[1:54:24] >> Thank you.
+[1:54:25] >> Thank you for joining me for today's
+[1:54:26] discussion with Dr. Marie-Pierre
+[1:54:28] St-Onge. To learn more about her
+[1:54:30] laboratory's research and to find a link
+[1:54:32] to her book Eat Better, Sleep Better,
+[1:54:35] please see the links in the show note
+[1:54:36] captions. If you're learning from and or
+[1:54:38] enjoying this podcast, please subscribe
+[1:54:40] to our YouTube channel. That's a
+[1:54:41] terrific zero-cost way to support us. In
+[1:54:43] addition, please follow the podcast by
+[1:54:45] clicking the follow button on both
+[1:54:47] Spotify and Apple. And on both Spotify
+[1:54:49] and Apple, you can leave us up to a
+[1:54:50] five-star review. And you can now leave
+[1:54:53] us comments at both Spotify and Apple.
+[1:54:55] Please also check out the sponsors
+[1:54:56] mentioned at the beginning and
+[1:54:58] throughout today's episode. That's the
+[1:54:59] best way to support this podcast. If you
+[1:55:02] have questions for me or comments about
+[1:55:03] the podcast or guests or topics that
+[1:55:05] you'd like me to consider for the
+[1:55:06] Huberman Lab podcast, please put those
+[1:55:08] in the comment section on YouTube. I do
+[1:55:10] read all the comments. For those of you
+[1:55:12] that haven't heard, I have a new book
+[1:55:14] coming out. It's my very first book.
+[1:55:16] It's entitled Protocols, an operating
+[1:55:18] manual for the human body. This is a
+[1:55:20] book that I've been working on for more
+[1:55:21] than 5 years and that's based on more
+[1:55:22] than 30 years of research and
+[1:55:25] experience. And it covers protocols for
+[1:55:27] everything from sleep to exercise, to
+[1:55:30] stress control, protocols related to
+[1:55:32] focus and motivation. And of course, I
+[1:55:34] provide the scientific substantiation
+[1:55:37] for the protocols that are included. The
+[1:55:39] book is now available by pre-sale at
+[1:55:41] protocolsbook.com.
+[1:55:43] There you can find links to various
+[1:55:45] vendors. You can pick the one that you
+[1:55:46] like best. Again, the book is called
+[1:55:48] Protocols, an operating manual for the
+[1:55:50] human body. And if you're not already
+[1:55:52] following me on social media, I am
+[1:55:54] Huberman Lab on all social media
+[1:55:56] platforms. So that's Instagram, X,
+[1:55:58] Threads, Facebook, and LinkedIn. And on
+[1:56:01] all those platforms, I discuss science
+[1:56:02] and science-related tools, some of which
+[1:56:04] overlaps with the content of the
+[1:56:05] Huberman Lab podcast, but much of which
+[1:56:07] is distinct from the information on the
+[1:56:09] Huberman Lab podcast. Again, it's
+[1:56:11] Huberman Lab on all social media
+[1:56:13] platforms. And if you haven't already
+[1:56:14] subscribed to our Neural Network
+[1:56:16] newsletter, the Neural Network
+[1:56:17] newsletter is a zero-cost monthly
+[1:56:19] newsletter that includes podcast
+[1:56:21] summaries as well as what we call
+[1:56:22] protocols in the form of one to
+[1:56:24] three-page PDFs that cover everything
+[1:56:26] from how to optimize your sleep, how to
+[1:56:28] optimize dopamine, deliberate cold
+[1:56:30] exposure. We have a foundational fitness
+[1:56:32] protocol that covers cardiovascular
+[1:56:33] training and resistance training. All of
+[1:56:36] that is available completely zero cost.
+[1:56:38] You simply go to hubermanlab.com, go to
+[1:56:40] the menu tab in the top right corner,
+[1:56:41] scroll down to newsletter, and enter
+[1:56:43] your email. And I should emphasize that
+[1:56:45] we do not share your email with anybody.
+[1:56:47] Thank you once again for joining me for
+[1:56:49] today's discussion with Dr. Marie-Pierre
+[1:56:51] St-Onge. And last, but certainly not
+[1:56:53] least, [music] thank you for your
+[1:56:54] interest in science.
+[1:56:59] >> [music]

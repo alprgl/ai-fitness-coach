@@ -1,0 +1,3257 @@
+# Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation | Huberman Lab Guest Series
+# id=S_SrHS8FvMM published=2024-05-01 lang=en generated=True
+
+[0:00:00] [Music]
+[0:00:00] welcome to the hubman lab guest Series
+[0:00:02] where I and an expert guest discuss
+[0:00:04] science and science-based tools for
+[0:00:06] everyday
+[0:00:07] life I'm Andrew huberman and I'm a
+[0:00:10] professor of neurobiology and
+[0:00:11] Opthalmology at Stanford school of
+[0:00:13] medicine today marks the fifth episode
+[0:00:16] in our sixth episode series all about
+[0:00:18] sleep with expert guest Dr Matthew
+[0:00:20] Walker today's episode focuses on the
+[0:00:22] inextricable link between sleep and our
+[0:00:25] mental health for instance a specific
+[0:00:27] stage of sleep called rapid eye movement
+[0:00:29] or REM sleep is critical for removing
+[0:00:32] the emotional content of our previous
+[0:00:34] days memories and in doing so provides a
+[0:00:36] sort of therapy within sleep that allows
+[0:00:38] us to feel emotionally restored when we
+[0:00:41] wake the next morning we discuss what
+[0:00:43] happens when you are deprived of REM
+[0:00:44] sleep to a small or greater degree and
+[0:00:47] we discuss how to improve the quality
+[0:00:49] and quantity of your REM sleep in order
+[0:00:51] to ensure mental health we also discuss
+[0:00:53] science-based protocols for reducing
+[0:00:55] rumination and negative thoughts before
+[0:00:57] sleep the information shared by Dr
+[0:01:00] Walker in today's episode is sure to be
+[0:01:02] critical for anyone that is either
+[0:01:04] struggling with mental health issues or
+[0:01:06] who simply wants to bolster their
+[0:01:08] overall mental health before we begin
+[0:01:10] I'd like to emphasize that this podcast
+[0:01:12] is separate from my teaching and
+[0:01:13] research roles at Stanford it is however
+[0:01:15] part of my desire and effort to bring
+[0:01:17] zero cost to Consumer information about
+[0:01:19] science and science related tools to the
+[0:01:21] general public in keeping with that
+[0:01:22] theme I'd like to thank the sponsors of
+[0:01:24] today's podcast our first sponsor is
+[0:01:27] eight sleep eight sleep makes Smart
+[0:01:29] mattress covers with with cooling
+[0:01:30] Heating and sleep tracking capacity many
+[0:01:32] times on this podcast we discuss how in
+[0:01:34] order to fall and stay deeply asleep
+[0:01:36] your body temperature actually needs to
+[0:01:38] drop by about 1 to 3° and in order to
+[0:01:41] wake up feeling maximally refreshed and
+[0:01:42] energized your body temperature needs to
+[0:01:44] heat up by about 1 to 3° eight sleep
+[0:01:47] makes it very easy to control the
+[0:01:49] temperature of your sleeping environment
+[0:01:50] so that it's easy to fall and stay
+[0:01:52] asleep and wake up feeling refreshed I
+[0:01:54] started sleeping on an eight- Sleep
+[0:01:55] mattress cover several years ago and it
+[0:01:57] has completely and positively
+[0:01:59] transformed my sleep so much so that
+[0:02:01] when I travel to hotels or airbnbs I
+[0:02:03] really miss my eight sleep I've even
+[0:02:04] shipped my eight sleep out to hotels
+[0:02:06] that I've been staying in because it
+[0:02:07] improves my sleep that much if you'd
+[0:02:09] like to try eightsleep you can go to
+[0:02:11] 8sleep.com
+[0:02:12] huberman to save $150 off their pod 3
+[0:02:16] cover eights sleep currently ships to
+[0:02:17] the USA Canada UK select countries in
+[0:02:20] the EU and Australia again that's
+[0:02:22] 8sleep.com
+[0:02:24] huberman today's episode is also brought
+[0:02:26] To Us by element element is an
+[0:02:28] electrolyte drink that has everything
+[0:02:30] you need and nothing you don't that
+[0:02:31] means plenty of the electrolytes
+[0:02:32] magnesium potassium and sodium and no
+[0:02:35] sugar as I mentioned before on this
+[0:02:36] podcast I'm a big fan of salt now I want
+[0:02:39] to be clear people who already consume a
+[0:02:41] lot of salt or who have high blood
+[0:02:43] pressure or who happen to consume a lot
+[0:02:45] of processed foods that typically
+[0:02:47] contain salt need to control their salt
+[0:02:49] intake however if you're somebody who
+[0:02:50] eats pretty clean and you're somebody
+[0:02:52] who exercises and you're drinking a lot
+[0:02:53] of water there's a decent chance that
+[0:02:55] you could benefit from ingesting more
+[0:02:57] electrolytes with your liquids the
+[0:02:59] reason for that is that all the cells in
+[0:03:00] our body including the nerve cells the
+[0:03:02] neurons require the electrolytes in
+[0:03:04] order to function properly so we don't
+[0:03:06] just want to be hydrated we want to be
+[0:03:07] hydrated with proper electrolyte levels
+[0:03:10] with element that's very easy to do what
+[0:03:12] I do is when I wake up in the morning I
+[0:03:13] consume about 16 to 32 ounces of water
+[0:03:16] and I'll dissolve a packet of element in
+[0:03:18] that water I'll also do the same when I
+[0:03:20] exercise especially if it's on a hot day
+[0:03:22] and I'm sweating a lot and sometimes
+[0:03:23] I'll even have a third element packet
+[0:03:25] dissolved in water if I'm exercising
+[0:03:27] really hard or sweating a lot or if I
+[0:03:29] just noticed that I'm not consuming
+[0:03:31] enough salt with my food if you'd like
+[0:03:32] to try element you can go to drink
+[0:03:34] element spelled LM nt.com huberman to
+[0:03:38] claim a free element sample pack with
+[0:03:39] your purchase again that's drink element
+[0:03:41] lnt.com
+[0:03:43] huberman today's episode is also brought
+[0:03:45] To Us by betterhelp betterhelp offers
+[0:03:48] Professional Therapy with a licensed
+[0:03:49] therapist carried out entirely online
+[0:03:52] I've been doing therapy for over 30
+[0:03:53] years initially it was a requirement for
+[0:03:55] being let back in school but I decided
+[0:03:57] to keep up with that therapy because Ed
+[0:04:00] the therapy has three essential
+[0:04:01] components which are excellent rapport
+[0:04:03] with the therapist support from the
+[0:04:04] therapist and valuable insights from the
+[0:04:07] therapist that we wouldn't otherwise be
+[0:04:09] able to arrive at well then it's a
+[0:04:11] terrific way to improve our mental
+[0:04:13] landscape both our emotional state and
+[0:04:15] our behaviors better help allows you to
+[0:04:16] find a therapist with whom you have
+[0:04:18] those three key components and it also
+[0:04:20] makes it very easy to schedule again the
+[0:04:22] sessions are carried out entirely online
+[0:04:24] and even if you're extremely busy or
+[0:04:26] traveling a lot or have a lot of family
+[0:04:28] and business obligations better help
+[0:04:30] allows you to access those therapy
+[0:04:31] sessions regularly so that you can
+[0:04:33] constantly improve there's just oh so
+[0:04:35] much data supporting that quality
+[0:04:36] therapy can improve our mental health
+[0:04:38] and the overall landscape of our lives
+[0:04:40] in fact I view quality therapy as
+[0:04:42] important as physical exercise and I
+[0:04:44] know many others do as well there
+[0:04:46] certainly aren't a replacement for one
+[0:04:47] another but if you're doing physical
+[0:04:49] exercise meaning resistance training and
+[0:04:50] cardiovascular training and you're doing
+[0:04:52] regular quality therapy of the sort that
+[0:04:54] better help can provide well then you're
+[0:04:56] essentially doing as much as anyone
+[0:04:58] possibly can to improve your mental
+[0:05:00] health and physical health if you'd like
+[0:05:01] to try betterhelp go to betterhelp.com
+[0:05:04] huberman to get 10% off your first month
+[0:05:07] again that's betterhelp.com
+[0:05:09] huberman and now for my conversation
+[0:05:12] with Dr Matthew Walker Dr Matthew Walker
+[0:05:15] welcome back Dr Andrew huberman Delight
+[0:05:18] to be back during the course of this
+[0:05:21] series we've of course been talking
+[0:05:23] about sleep and you've talked about the
+[0:05:25] biology of sleep ways to improve maybe
+[0:05:28] even optimize sleep you defined what
+[0:05:31] optimizing one's sleep actually
+[0:05:33] is talked about learning and memory
+[0:05:36] creativity caffeine naps food exercise
+[0:05:40] and so much more
+[0:05:42] today I'm excited that you're going to
+[0:05:44] teach us about the relationship between
+[0:05:47] sleep and emotion regulation but also
+[0:05:51] mental health mental health challenges
+[0:05:53] but I sometimes like to remind people
+[0:05:55] that mental health includes the word
+[0:05:58] Health it's not all about mental illness
+[0:06:00] it's also about how to improve one's
+[0:06:01] Health as well as ways to combat certain
+[0:06:04] forms of mental illness or challenges so
+[0:06:07] to start things off maybe you could just
+[0:06:10] give us the basics of the relationship
+[0:06:12] between sleep and emotional states or
+[0:06:14] one's ability to regulate their own
+[0:06:16] emotions this is an area of work that
+[0:06:19] we've been uh interested in and doing a
+[0:06:22] lot of research on for about 20 or so
+[0:06:25] years
+[0:06:26] now and I would say that probably the
+[0:06:30] most striking statement I can offer
+[0:06:33] upfront is the following in that 20
+[0:06:35] years of research we have not been able
+[0:06:38] to discover a single psychiatric
+[0:06:41] condition in which sleep is
+[0:06:43] normal and to me it has taught me
+[0:06:46] everything that I need to know about
+[0:06:48] this very intimate bidirectional
+[0:06:50] relationship between your sleep health
+[0:06:53] and your mental health and you're right
+[0:06:55] to emphasize that notion of mental
+[0:06:57] health because we're not just going to
+[0:06:59] speak about some of the sort of
+[0:07:02] challenging aspects of sleep and
+[0:07:04] psychiatric disorders but we'll speak
+[0:07:06] about some of the benefits that sleep
+[0:07:08] can provide when you get it to turn the
+[0:07:11] tables and we move in the direction not
+[0:07:13] of Mental Illness but we move in the
+[0:07:16] direction of mental Wellness so I'm
+[0:07:18] excited sort of make sure that I I don't
+[0:07:21] fall prey to
+[0:07:23] that stepping back still though what
+[0:07:26] about this relationship between just
+[0:07:27] sleep and our basic emotional regulation
+[0:07:31] and our emotional
+[0:07:32] stability I'm sure everyone has seen the
+[0:07:35] example or had the example as a parent
+[0:07:38] of that parent holding a child and the
+[0:07:40] child is crying and they look at you and
+[0:07:42] they say well they just didn't sleep
+[0:07:44] well last night as if there's some
+[0:07:47] miraculous parental knowledge that bad
+[0:07:50] sleep the night before equals bad mood
+[0:07:53] and emotional reactivity and regulation
+[0:07:56] the next day and some years ago now we
+[0:07:59] were fascinated by this but we couldn't
+[0:08:01] really unearth basic science that would
+[0:08:04] help us explain what was going on and
+[0:08:07] why that was so clearly the case so we
+[0:08:10] did an initial study where we took a
+[0:08:12] group of healthy people no signs of
+[0:08:15] psychiatric illness or emotional
+[0:08:17] instability and we gave them a full
+[0:08:19] night of sleep or we sleep deprive them
+[0:08:22] and then the next day we put them inside
+[0:08:23] of a brain scanner and we showed them a
+[0:08:25] whole range of emotional visual images
+[0:08:29] is ranging from very neutral all the way
+[0:08:31] up to quite unpleasant and negative and
+[0:08:35] we were looking at how the brain was
+[0:08:37] reacting to those emotional experiences
+[0:08:40] with versus without sleep and the
+[0:08:43] structure that we'd initially focused on
+[0:08:46] was a structure that you've spoken about
+[0:08:47] before called the amydala and you
+[0:08:49] actually have one on the left and the
+[0:08:51] right side of your brain and the amydala
+[0:08:53] is the centerpiece region for the
+[0:08:55] generation of emotional reactions both
+[0:08:58] positive and negative but here we're
+[0:09:00] focusing on that aversive that negative
+[0:09:03] aspect and when we looked at that
+[0:09:05] structure in people who are sleep
+[0:09:08] deprived what we saw relative to the
+[0:09:10] people who'd had a full night of sleep
+[0:09:12] was a 60% 60 60% increase in amydala
+[0:09:17] [Music]
+[0:09:19] responsivity under conditions of sleep
+[0:09:22] deprivation that is quite a striking
+[0:09:25] amplification in fact we to that date
+[0:09:27] with all of us that these on sleep and
+[0:09:29] sleep loss had not quite seen an effect
+[0:09:32] size within the brain that was that was
+[0:09:34] that big sorry to interrupt but just to
+[0:09:36] make sure that everyone's on the same
+[0:09:37] page so people are being shown images
+[0:09:39] with varying degrees of emotionality
+[0:09:41] including images that are known to evoke
+[0:09:45] negative averse emotions as we call them
+[0:09:48] in the laboratory um could be feelings
+[0:09:51] of fear anger disgust revulsion what
+[0:09:54] whatever negative
+[0:09:56] veilance was it the case that sleep
+[0:09:58] deprivation increased the activity in
+[0:10:01] the amydala to such images by 60% only
+[0:10:05] for the aversive images or for let's say
+[0:10:08] a neutral image um presented to somebody
+[0:10:10] who has had plenty of quality
+[0:10:13] sleep um let's say it is I'm making up
+[0:10:16] the units here gives us two out of 10
+[0:10:17] units of Amal activation this isn't the
+[0:10:19] way Neuroscience is done but for sake of
+[0:10:21] discussion is it the case then that that
+[0:10:24] neutral image would provide a you know a
+[0:10:27] six out of 10 a level of activation or
+[0:10:30] was it only for aversive images so the
+[0:10:32] way we did the analysis first was we
+[0:10:34] used almost a a correlation approach so
+[0:10:38] we sort of told the brain Imaging
+[0:10:40] analysis to say look here are the the
+[0:10:43] ratings of these pictures and they go
+[0:10:46] from very neutral to increasingly
+[0:10:48] negative and aversive and show me what
+[0:10:51] in the brain is reacting to that curve
+[0:10:54] that gradient curve and sure enough
+[0:10:57] you've got the magnitude overall was 60%
+[0:10:59] but it's a very interesting point that
+[0:11:01] you make because worthy amydala started
+[0:11:04] to respond and that res responsivity
+[0:11:08] started to hook up in the activation and
+[0:11:11] the sort of aggravation Direction was
+[0:11:14] much earlier in the curve of
+[0:11:16] emotionality in other words things that
+[0:11:19] previously when you've had a good night
+[0:11:20] of sleep do not feel particularly
+[0:11:23] emotional started to become rather
+[0:11:26] emotional when you were not getting
+[0:11:28] sufficient sleep
+[0:11:29] so it heightened the sensitivity of the
+[0:11:32] initial triggering of the emotional
+[0:11:34] response and then the more emotional it
+[0:11:36] became the more separate those two sort
+[0:11:40] of reactivity curves became from the
+[0:11:43] Amala when you had sleep versus when you
+[0:11:46] had not sleep or had not slept I should
+[0:11:50] say to us then the question became well
+[0:11:54] why why is the amydala so reactive and
+[0:11:59] controlled when you are absent sleep and
+[0:12:03] we did another analysis and what we
+[0:12:05] found was that there was a structure in
+[0:12:08] your frontal lobe and the frontal lobe
+[0:12:10] just sits directly sort of if you think
+[0:12:12] about your eyes and you go directly up
+[0:12:14] your in your frontal lobe and it was a
+[0:12:16] particular part of the frontal lobe the
+[0:12:18] middle part that sits right between your
+[0:12:20] eyes something that we call the medial
+[0:12:23] prefrontal cortex and what we found was
+[0:12:26] that with a night of sleep the med Al
+[0:12:29] prefrontal cortex was strongly connected
+[0:12:32] to the amydala why is that important
+[0:12:35] it's because that part of the your
+[0:12:37] frontal lobe is very good at acting like
+[0:12:41] a control rational mechanism on your
+[0:12:45] deep sort of you know it's not
+[0:12:47] Neanderthal but your deep emotional
+[0:12:50] brain centers but without sleep we found
+[0:12:53] that that connection had been
+[0:12:55] severed and so it was almost as though
+[0:12:57] without sleep you become all emotional
+[0:13:00] gas pedal and too little regulatory
+[0:13:03] control break and so you couldn't
+[0:13:06] modulate those emotions anywhere near as
+[0:13:09] effectively now some people may say well
+[0:13:12] hang on a second you that was a total
+[0:13:13] night of sleep deprivation and that's
+[0:13:15] not really relevant for me because I I
+[0:13:18] don't sleep enough I know that from all
+[0:13:21] of the previous episodes that uh I've
+[0:13:23] gone through here hopefully if you've
+[0:13:24] listened to them but I'm usually maybe
+[0:13:27] getting five or 6 hours of sleep is this
+[0:13:30] really relevant so we started doing that
+[0:13:32] study we wanted to say Let's do an what
+[0:13:34] we call an ecological study more of a
+[0:13:36] real world sleep restriction rather than
+[0:13:38] total
+[0:13:40] deprivation and we were about halfway
+[0:13:42] through that study when a wonderful
+[0:13:44] Japanese research group essentially
+[0:13:46] published the study that we were doing
+[0:13:49] and what was great is that they did it
+[0:13:51] even in a more rigorous way and
+[0:13:53] essentially what they were able to do is
+[0:13:55] replicate exactly what we'd found but
+[0:13:58] now by putting people on sort of less
+[0:14:01] than 6 hours of sleep for five nights
+[0:14:04] and sure enough you got the same
+[0:14:07] response so that was very clear to us
+[0:14:11] that there is some sensitivity there's a
+[0:14:13] reason why you become so
+[0:14:16] unbuckled emotionally when you are not
+[0:14:19] getting sufficient sleep it's the reason
+[0:14:21] that you have almost this sort of
+[0:14:24] erratic pendulum like sort of
+[0:14:27] responsivity when you're not getting
+[0:14:29] sufficient sleep that notion of I just
+[0:14:31] snap dot dot dot or you apologize and
+[0:14:34] you say look I am so sorry I just bit
+[0:14:36] your H off I just haven't been getting
+[0:14:38] enough sleep and so we could start to
+[0:14:40] understand what in the brain was
+[0:14:42] happening when you didn't get sleep it
+[0:14:45] such an important finding uh for a
+[0:14:47] couple of reasons that maybe we can
+[0:14:49] explore um previously on the podcast we
+[0:14:52] had a guest um doctor he's a
+[0:14:55] neurosurgeon Matt McDougall he's the
+[0:14:57] lead neurosurgeon at um neurolink yeah
+[0:15:01] he came up through Stanford works on
+[0:15:03] deep brain stimulation Etc and I love
+[0:15:05] his description of what the prefrontal
+[0:15:06] cortex does it jbes perfectly with the
+[0:15:09] way you describe it which is he said the
+[0:15:11] main function of the prefrontal cortex
+[0:15:13] is to
+[0:15:15] say to specific brain areas under
+[0:15:19] specific contexts so um the sh of course
+[0:15:24] is a you know his way of describing
+[0:15:26] neural inhibition so quieting of neural
+[0:15:28] activity in certain brain circuits under
+[0:15:30] certain conditions because there are
+[0:15:31] conditions under which you want your
+[0:15:33] amydala activation to be very robust you
+[0:15:35] know fast and um there's time for uh you
+[0:15:39] know protecting oneself maybe even
+[0:15:41] certain situations for Swift violent
+[0:15:43] action to protect your family Etc but
+[0:15:46] the prefrontal cortex seems to be able
+[0:15:47] to hold it in mind so to speak what the
+[0:15:50] context is under which that would be
+[0:15:52] appropriate versus when it would be
+[0:15:53] inappropriate a great example of that
+[0:15:55] people can think of if all of a sudden a
+[0:15:57] gun is pointed in your
+[0:16:00] face you would want your amigdala to
+[0:16:04] react if it's in the real world but if
+[0:16:07] you're at the movie theaters and you see
+[0:16:09] a gun pointed in your face your igula
+[0:16:12] doesn't really react as much why because
+[0:16:14] you're prefontal cortex understood the
+[0:16:17] word that you describe which is
+[0:16:19] context but in some ways it seems as
+[0:16:22] though you
+[0:16:23] become almost regress to this more basic
+[0:16:28] fundament mental
+[0:16:30] Elemental you know emotional brain and
+[0:16:33] the Red Mist descends and you really
+[0:16:35] can't see much more because your
+[0:16:37] prefrontal cortex seems to be absent you
+[0:16:40] become very reflex driven and we don't
+[0:16:42] want to um go too uh far a tangent of on
+[0:16:47] prefrontal cortex but one of the most
+[0:16:48] beautiful descriptions of prefrontal
+[0:16:50] Cortex I ever heard was also from a
+[0:16:52] colleague Eric nudson at Stanford who's
+[0:16:55] now retired does beautiful work on
+[0:16:57] neuroplasticity and he described how
+[0:17:00] when people or animals have lesions to
+[0:17:01] certain regions of the prefrontal cortex
+[0:17:04] they become stimulus-driven machines
+[0:17:06] such that you know if you if you go like
+[0:17:08] this to a you know to a puppy or to Baby
+[0:17:10] they'll look to the snapping finger but
+[0:17:11] at some point you know we all learn that
+[0:17:14] you know there must be a reason for us
+[0:17:16] to follow the snapping of the fingers in
+[0:17:18] different locations in space but with a
+[0:17:19] prefrontal damage people and animals
+[0:17:22] just become like machines whatever
+[0:17:23] stimulus is there they Orient to and
+[0:17:25] this has implications for ADHD Etc one
+[0:17:28] of the things that I want to um ask
+[0:17:29] about to take us back to the specific
+[0:17:31] relationship between sleep reduced
+[0:17:34] medial prefrontal activity and
+[0:17:36] emotionality is this feeling when we're
+[0:17:40] sleep deprived that certain things just
+[0:17:42] great on us a bit more you know I had
+[0:17:45] this experience recently unfortunately
+[0:17:46] there was a night where I didn't get
+[0:17:47] much sleep at all and then the next day
+[0:17:49] I was on a phone call and the person I
+[0:17:50] was talking to I I I'm quite fond of but
+[0:17:53] they were they had a lot of energy and
+[0:17:54] they were talking they were kind of
+[0:17:55] coming at me with a bunch of stuff that
+[0:17:57] they wanted to and it just felt like you
+[0:17:59] know it was grading on my system and I
+[0:18:02] knew because I was sleep deprived that
+[0:18:04] you know they were entirely well-meaning
+[0:18:05] and so you just kind of resist but it's
+[0:18:07] incredible how cold water loud noises uh
+[0:18:12] requests of our time things like that
+[0:18:14] become very irritating and they grate on
+[0:18:18] us yeah when we're sleep deprived
+[0:18:20] whereas when we're rested it's like oh
+[0:18:22] yeah okay they're you know talking kind
+[0:18:24] of faster kind of loud okay somebody is
+[0:18:26] requesting something else I'll put it in
+[0:18:27] my list or maybe I'll the Ator or you
+[0:18:30] know the the uh cold shower that you
+[0:18:32] know feels like got to get over this
+[0:18:34] threshold to get into like when you're
+[0:18:35] rested you're like all right let's do
+[0:18:37] this right you know maybe even let's go
+[0:18:39] I I'm excited for it but when you're
+[0:18:41] tired o it is as if the um the brain is
+[0:18:46] fighting for any sense of Peace it can
+[0:18:48] possibly get and that peace is
+[0:18:50] interrupted by almost anything and
+[0:18:53] everything it is a grim situation and
+[0:18:56] we've certainly heard that from you know
+[0:18:59] patients and individuals it's almost as
+[0:19:02] though the world that they are
+[0:19:05] experiencing they look at and they say
+[0:19:07] you know what you're in an 11 and I need
+[0:19:10] you at a seven right now it is just too
+[0:19:13] much and this comes back to that result
+[0:19:16] that we described that when the amydala
+[0:19:18] crosses the threshold and says okay
+[0:19:22] things are getting emotional things are
+[0:19:24] getting unpleasant I'm going to be
+[0:19:26] responding
+[0:19:27] negatively in an angry way or a fearful
+[0:19:30] way that starts much earlier so the
+[0:19:33] threshold for triggering your emotional
+[0:19:36] aversive reaction is much lower and
+[0:19:40] that's why the person's voice when you
+[0:19:42] hear it first normally if you had a
+[0:19:44] great night of sleep you'd say gosh you
+[0:19:46] know what today I really love your
+[0:19:48] energy it's it's really it's so
+[0:19:51] infectious versus a day when you're not
+[0:19:53] sleeping you just think I just I'm
+[0:19:56] lifting my earbuds out of my ears I
+[0:19:58] don't know if I can take this much
+[0:20:00] longer and so that was where we were
+[0:20:04] able to manipulate sleep one way which
+[0:20:07] is to say I dial sleep down and then I
+[0:20:09] look at the emotional brain and you can
+[0:20:11] see this ramping up of the emotional
+[0:20:14] reactivity in these basic kind of gutur
+[0:20:16] all centers but then we wanted to do the
+[0:20:19] inverse we wanted to instead see if we
+[0:20:22] could insert sleep back in in other
+[0:20:24] words manipulate sleep and dial it back
+[0:20:26] up could you get a disapp ation in the
+[0:20:29] emotional
+[0:20:31] reaction and here we decided to throw a
+[0:20:34] second ingredient into the equation not
+[0:20:37] just simply looking at your emotional
+[0:20:39] reactivity but we wanted to look at
+[0:20:41] emotional memory now in a previous
+[0:20:45] episode we've spoken a lot about sleep
+[0:20:47] and memory but there we were speaking
+[0:20:49] about really quite neutral memory
+[0:20:52] textbook like memory fact-based memory
+[0:20:55] emotional memory is very different and
+[0:20:57] if I were to ask you you Andrew cast
+[0:20:59] your mind back to some of your earliest
+[0:21:02] childhood memories or your team memories
+[0:21:04] and if anyone listening were to do that
+[0:21:06] my guess is that almost all of the
+[0:21:08] memories that you recall are memories of
+[0:21:11] an emotional nature positive or
+[0:21:14] negative why is that it's because one of
+[0:21:17] the functions of emotions when it comes
+[0:21:20] to memory is to R flag and prioritize
+[0:21:24] that experience that memory as being
+[0:21:27] Salient because it's emotional and that
+[0:21:30] instructs the brain that this
+[0:21:32] information in particular is very
+[0:21:35] relevant to us as an organism why
+[0:21:38] because the rest of the brain is
+[0:21:40] shouting at me this is emotional so
+[0:21:42] there is something very privileged and
+[0:21:45] very special about an emotional memory
+[0:21:47] like a red flag that tags it for
+[0:21:50] priority in the brain but something I
+[0:21:53] started to notice when I would read the
+[0:21:55] data both the neural data and the
+[0:21:57] subjective data on emotional memory led
+[0:22:01] me to get very interested in what
+[0:22:03] happens with emotional memories over
+[0:22:06] time because what you will hear is that
+[0:22:09] if I were to ask you you know recall an
+[0:22:11] emotional memory just try to remember it
+[0:22:14] my guess is that now at the time of
+[0:22:17] recollection much later on you are not
+[0:22:20] having the same regurgitation of the
+[0:22:23] same visceral emotional reaction that
+[0:22:26] you had at the time of the experience
+[0:22:29] what that sort of turned a light bulb
+[0:22:32] moment on for me was that somewhere
+[0:22:35] between the initial experience and the
+[0:22:37] later recollection of that emotional
+[0:22:40] memory the brain has done a very clever
+[0:22:43] trick it has divorced the emotion from
+[0:22:47] the memory so now when you come to
+[0:22:50] recollect that emotional memory let's
+[0:22:53] say days later or even months later in
+[0:22:56] some ways it is a memory of an emotional
+[0:23:00] event but it is no longer as powerfully
+[0:23:03] emotional itself as it was at the time
+[0:23:06] of the experience right and I started to
+[0:23:10] wonder is that time or is that time
+[0:23:13] asleep so we did a study and we had
+[0:23:16] people experience these emotional
+[0:23:19] memories sort of essentially make
+[0:23:21] emotional memories and they were doing
+[0:23:22] it inside of a scanner and then we gave
+[0:23:26] them a night of sleep or even a nap and
+[0:23:29] then we brought them back or we just had
+[0:23:32] them learn those emotional memories in
+[0:23:34] the morning and then bring them back
+[0:23:36] after an identical amount of time to try
+[0:23:39] to soften those emotional memories but
+[0:23:42] without sleep and we put them back in
+[0:23:44] the scanner and we were able to look to
+[0:23:46] see when you come back later in that
+[0:23:49] second session is your emotional and you
+[0:23:52] recollect those experiences and you
+[0:23:54] relive them is the emotional reactivity
+[0:23:57] at that second session any different to
+[0:23:59] the first session and is that different
+[0:24:02] if that time elapse has contained a full
+[0:24:06] night of sleep versus you've just been
+[0:24:07] awake and what we found is that in those
+[0:24:10] people who remained awake across the day
+[0:24:12] having had those emotional memories
+[0:24:14] essentially implanted implanted sounds a
+[0:24:16] little bit sort of Big Brother I don't
+[0:24:18] mean it that way but they'd learned them
+[0:24:20] the amydala was just still as responsive
+[0:24:23] as they were recalling and reliving and
+[0:24:25] reexperiencing those emotional memories
+[0:24:27] but in those people who had the same
+[0:24:29] amount of time to process the memories
+[0:24:32] but had had a full night of sleep we saw
+[0:24:35] this incredible emotional amydala dep
+[0:24:39] potentiation and what that taught me was
+[0:24:42] that the sleeping brain was able
+[0:24:46] to almost detox the emotional memory it
+[0:24:49] is think about it like um an
+[0:24:52] informational orange that the emotional
+[0:24:55] memory Has This Bitter emotional rind
+[0:24:57] around it and then you've got the
+[0:24:59] informational orange in the middle and
+[0:25:01] what sleep was doing was stripping the
+[0:25:04] bitter emotional rind off the
+[0:25:06] informational orange so that then when
+[0:25:09] you came back the next day again it is
+[0:25:12] now a memory of an emotional event but
+[0:25:16] it's no longer triggering that strong
+[0:25:18] visceral reaction in other words and we
+[0:25:21] described this Theory as something
+[0:25:24] called overnight
+[0:25:26] forgetting which is that when it comes
+[0:25:28] to an emotional memory you both sleep to
+[0:25:33] forget and sleep to remember
+[0:25:36] respectively which is that you sleep to
+[0:25:39] remember the information the memory of
+[0:25:42] the experience but it is no longer
+[0:25:45] emotional
+[0:25:47] itself and from there we built a
+[0:25:50] biological model of exactly how this
+[0:25:52] works because when we looked at the
+[0:25:54] Sleep group who'd had that full 8-hour
+[0:25:57] opportunity we asked the question
+[0:25:59] because we'd measured their sleep what
+[0:26:01] is it about that sleep that seems to
+[0:26:03] provide this form of it's almost
+[0:26:06] overnight
+[0:26:07] therapy how is it doing that what stage
+[0:26:10] of sleep is doing that and sure enough
+[0:26:12] what we found was that it was REM sleep
+[0:26:15] rapid eye movement sleep associated with
+[0:26:17] dreaming and the greater the amount of
+[0:26:20] REM sleep the greater the amount of
+[0:26:23] emotional depotentiation the greater the
+[0:26:26] amount of sort of emotion detox that you
+[0:26:29] got the next
+[0:26:30] day and one of the fascinating things
+[0:26:33] that we didn't um quite mention in uh
+[0:26:37] the episode where we described what is
+[0:26:39] sleep and we described the different
+[0:26:41] stages including RAM and we spoke about
+[0:26:43] the brain
+[0:26:44] changes something utterly unique happens
+[0:26:47] during REM sleep levels of a brain
+[0:26:51] chemical called noradrenaline are
+[0:26:53] completely shut off it is the only time
+[0:26:56] during the 24-hour period when you see
+[0:26:59] the complete cessation of neur
+[0:27:01] adrenaline in the brain and of course
+[0:27:04] neur adrenaline is associated with many
+[0:27:06] different functions and you've elegantly
+[0:27:08] described them one of the functions is
+[0:27:10] that it's associated with emotional
+[0:27:13] responsivity and the focus and that sort
+[0:27:16] of strong um sort of emotional energy
+[0:27:19] and people will know we speak about it
+[0:27:22] has two names noradrenaline or
+[0:27:24] norepinephrine same thing us UK but
+[0:27:26] people of course are familiar with the
+[0:27:28] sister chemical in the body called
+[0:27:30] adrenaline upstairs in the brain we can
+[0:27:33] think about noradrenaline and during REM
+[0:27:35] sleep neur adrenaline is completely shut
+[0:27:37] off this stress Associated neurochemical
+[0:27:41] it's not only associated with stress but
+[0:27:43] it's associated with lots of things but
+[0:27:44] stress included is noradrenaline shut
+[0:27:47] off in the brain and body during uh
+[0:27:50] rapid eye movement sleep no it's not it
+[0:27:52] seems to be specifically within the
+[0:27:54] brain that there is this blockade of
+[0:27:56] noradrenaline and serot goes down too
+[0:27:59] whereas another chemical called atile
+[0:28:02] choline which is another
+[0:28:04] neurotransmitter that ramps up in the
+[0:28:06] brain so if there is a brain chemical
+[0:28:08] that seems to be underlying REM sleep or
+[0:28:11] dream sleep it seems to be acetal
+[0:28:12] choline and in fact in some parts of the
+[0:28:14] brain you can see almost a 30% greater
+[0:28:17] amount of acetel choline in some brain
+[0:28:20] regions than when we're awake yet on the
+[0:28:23] other hand when we think about
+[0:28:24] noradrenaline and serotonin they are
+[0:28:26] both shut off so the stress related
+[0:28:30] chemical within the brain is Switched
+[0:28:32] Off during REM sleep however if you look
+[0:28:35] at other parts of the brain the memory
+[0:28:37] related centers of the brain such as the
+[0:28:39] hippocampus that we've spoken about
+[0:28:41] before and the amydala that I just
+[0:28:43] mentioned too those are very active
+[0:28:46] during REM sleep so we laid out this
+[0:28:48] biological model that is almost
+[0:28:50] beautiful that REM sleep is this perfect
+[0:28:54] condition for emotional overnight
+[0:28:56] therapy where you can re activate and re
+[0:28:59] sort of experience and reprocess those
+[0:29:01] emotional memories but you're doing it
+[0:29:04] in a neurochemically quote unquote safe
+[0:29:07] environment that allows you to strip
+[0:29:10] away the emotion from the memory I'd
+[0:29:13] like to take a brief break and
+[0:29:15] acknowledge our sponsor ag1 ag1 is a
+[0:29:18] vitamin mineral probiotic drink that
+[0:29:20] also contains adaptogens and is designed
+[0:29:22] to meet all of your foundational
+[0:29:24] nutritional needs by now I'm sure you've
+[0:29:26] all heard me say that I've been taking
+[0:29:28] ag1 since 2012 and indeed that is true
+[0:29:31] now of course I do consume regular Whole
+[0:29:33] Foods every day I strive to get those
+[0:29:35] Foods mostly from unprocessed or
+[0:29:37] minimally processed sources however I do
+[0:29:40] find it hard to get enough servings of
+[0:29:42] fruits and vegetables each day so with
+[0:29:43] ag1 I ensure that I get enough of the
+[0:29:46] vitamins minerals Prebiotic fiber and
+[0:29:48] other things typically found in fruits
+[0:29:49] or vegetables and of course I still make
+[0:29:51] sure to eat fruits and vegetables and in
+[0:29:53] that way provide a sort of insurance
+[0:29:55] that I'm getting enough of what I need
+[0:29:57] in addition the ad adaptogens and other
+[0:29:58] micronutrients in ag1 really help buffer
+[0:30:01] against stress and ensure that the cells
+[0:30:03] and organs and tissues of my body are
+[0:30:05] getting the things they need people
+[0:30:07] often ask me that if they were going to
+[0:30:08] take Just One supplement what that
+[0:30:09] supplement should be and I always answer
+[0:30:11] ag1 if you'd like to try ag1 you can go
+[0:30:14] to drink a1.com huberman to claim a
+[0:30:17] special offer you'll get five free
+[0:30:19] travel packs plus a year supply of
+[0:30:21] vitamin D3 K2 again that's drink a1.com
+[0:30:26] huberman in some ways it does resemble
+[0:30:29] behavioral desensitization therapy
+[0:30:32] whereby under the care of a qualified
+[0:30:36] you know psychiatrist or psychologist
+[0:30:38] somebody will um be encouraged to recall
+[0:30:41] in a great degree of detail some very
+[0:30:44] difficult maybe even traumatic event um
+[0:30:48] and through repetition and of course
+[0:30:51] through the knowledge that there's
+[0:30:53] support in the immediate environment
+[0:30:54] that will allow them to um you know
+[0:30:58] safely move through that experience you
+[0:31:00] know should their their heart rate go up
+[0:31:02] they're sweating profusely having
+[0:31:03] trouble getting the words out there very
+[0:31:06] unfortunately common features of trauma
+[0:31:09] and and negative memories but the idea
+[0:31:12] as I understand is to repeat the recall
+[0:31:16] many times often in that safe
+[0:31:19] environment such that eventually what
+[0:31:21] was initially a really
+[0:31:25] terrible event remains a terrible event
+[0:31:29] but the emotional load of that event is
+[0:31:31] removed from the person's sort of neural
+[0:31:35] understanding of the event the way I've
+[0:31:37] heard it described is what starts as a
+[0:31:39] tragic traumatic story eventually
+[0:31:42] becomes a kind of a sad boring story
+[0:31:46] boring to the person who's saying it
+[0:31:48] meaning it doesn't evoke as much
+[0:31:50] autonomic arousal exactly and in some
+[0:31:53] ways that's the perfect description of
+[0:31:55] this overnight therapy process
+[0:31:58] that it becomes a memory that is no
+[0:32:01] longer triggering an emotional reaction
+[0:32:06] and in some ways that's what you want if
+[0:32:08] you go back to my description from an
+[0:32:10] evolutionary perspective I told you that
+[0:32:12] one of the functions of emotions is to
+[0:32:14] red flag and prioritize the memory at
+[0:32:16] the time of learning to say that it's
+[0:32:18] important that's a very adaptive process
+[0:32:21] it helps us prioritize which things we
+[0:32:23] really should be focusing on and
+[0:32:26] remembering but it's not not adaptive
+[0:32:29] for you to hold on to that emotion long
+[0:32:32] term once you've started and there has
+[0:32:35] been some suggestion in the literature
+[0:32:37] before we were doing this work that
+[0:32:39] maybe one thing you can do with trauma
+[0:32:42] and Trauma memories is sleep deprive
+[0:32:44] individuals the very first night after
+[0:32:47] the trauma because we knew at the time
+[0:32:49] sleep is important for memory and what
+[0:32:52] you would like to do and it's very
+[0:32:54] similar to that movie Sunshine Spotless
+[0:32:56] Mind I always forget the Eternal Eternal
+[0:32:59] Eternal Sunshine of the Spotless Mind
+[0:33:01] thank you I didn't see the movie but I
+[0:33:02] hear it's good yeah and what they try to
+[0:33:05] do is Target in the brain these you know
+[0:33:08] difficult painful experiences and just
+[0:33:10] excise them from the brain and that was
+[0:33:15] the suggestion could you pop those
+[0:33:17] memories out of the biography of that
+[0:33:20] individual and save them the trauma I
+[0:33:22] would argue that's not really what you
+[0:33:24] want to do because let's say that I am
+[0:33:27] um I have a trauma experience where I
+[0:33:30] was walking home at night from The Sleep
+[0:33:32] laboratory late at night and I was
+[0:33:35] coming down the kind of an alley to take
+[0:33:37] a shortcut and someone sticks me up with
+[0:33:40] a gun maybe some
+[0:33:42] violence I don't want to remove that
+[0:33:45] memory I would like to remove the trauma
+[0:33:48] response associated with that memory but
+[0:33:50] I would argue for me as an organism it's
+[0:33:53] still very important for me to remember
+[0:33:55] that that alley was associated with a
+[0:33:58] bad experience and I should forego going
+[0:34:01] down that very same route again I want
+[0:34:04] to hold on to the memory the information
+[0:34:06] I want to let go of the emotion I want
+[0:34:09] to sleep to remember and I want to sleep
+[0:34:13] to
+[0:34:14] forget and I'll come on to why I think
+[0:34:17] that's relevant to PTSD when we perhaps
+[0:34:19] speak about that condition and it's very
+[0:34:21] very relevant but coming back to REM
+[0:34:25] sleep we looked back in the literature
+[0:34:27] to see if we could find signs that REM
+[0:34:29] sleep had this relationship with even
+[0:34:32] just your basic emotional reactivity and
+[0:34:35] there was some wonderful work by a
+[0:34:37] gentleman that you will know from
+[0:34:38] Stanford probably one of the founding
+[0:34:41] fathers of modern day sleep research a
+[0:34:43] gentleman called William DeMent yeah who
+[0:34:46] passed away a few years ago he did um
+[0:34:49] might have been one of the people who
+[0:34:51] coined the term rapid eye movement sleep
+[0:34:53] but I don't think he was the one who
+[0:34:54] discovered it correct he was not but he
+[0:34:57] was well up there in terms of
+[0:34:59] understanding both sort of what its term
+[0:35:01] was and also what its function
+[0:35:03] was he Legend as he was very early on
+[0:35:08] this was probably in the 60s he would
+[0:35:11] take individuals because we didn't
+[0:35:13] really have the first published report
+[0:35:16] of these two types of sleep of REM and
+[0:35:18] non-rem until they collected the data or
+[0:35:22] found the data in 1953 it was published
+[0:35:24] in 1954 so in other words we discovered
+[0:35:28] that you know even up to then prior to
+[0:35:30] then we just thought sleep was sleep we
+[0:35:33] didn't have any knowledge that the these
+[0:35:35] different stages so in the same year
+[0:35:36] that um Francis Crick you know un
+[0:35:39] unveiled this incredible helical
+[0:35:42] structure that was called a DNA strand
+[0:35:46] we also discovered the different stages
+[0:35:47] of sleep but in the 60s then William
+[0:35:50] DeMent knowing that there were these two
+[0:35:53] types of sleep and knowing that there
+[0:35:54] was something that was going on with REM
+[0:35:57] sleep were people were dreaming and he
+[0:35:58] would be waking people up from these
+[0:36:00] different stages and found that it's far
+[0:36:02] more likely to for people to report a
+[0:36:05] dream he wondered what the consequence
+[0:36:07] would be if you selectively deprive
+[0:36:10] people of this stage of sleep of dream
+[0:36:12] sleep so he brought individuals into his
+[0:36:15] laboratory and every time they would go
+[0:36:18] into REM sleep they would go into the
+[0:36:20] room they would wake them up have them
+[0:36:21] do some mathematical problems for 2 or 3
+[0:36:24] minutes and then put them back asleep
+[0:36:26] and they go back into nonr and then as
+[0:36:28] soon as they went back into REM they
+[0:36:30] would wake them up again and the first
+[0:36:31] night they would have to go into the
+[0:36:32] room maybe six or seven times still
+[0:36:35] brutal for the uh for the person in the
+[0:36:38] experiment not not too much fun and but
+[0:36:40] by the end of the 5 days or six days I
+[0:36:43] think they were going back into the room
+[0:36:44] something like 17 18 times why because
+[0:36:48] the people were building up this growing
+[0:36:52] REM sleep debt and the Brain had such a
+[0:36:54] hunger for it that by Night five of no
+[0:36:57] sleep all it wanted to do was rock it
+[0:37:01] into this thing called REM sleep and
+[0:37:03] start devouring it with high volume but
+[0:37:07] that wasn't the interesting part the
+[0:37:09] interesting part was the consequence to
+[0:37:11] these subjects they were all well
+[0:37:13] adjusted perfectly normal individuals by
+[0:37:16] about day three of selective R sleep
+[0:37:19] deprivation they started to show signs
+[0:37:21] of paranoia they started to believe
+[0:37:24] people were out after them they started
+[0:37:26] to have hallucinate ations and delusions
+[0:37:29] and by day
+[0:37:32] five they were bordering on having you
+[0:37:35] know aspects of quite severe
+[0:37:38] psychosis and so what all of this
+[0:37:40] research has taught us in some ways is
+[0:37:43] that it's almost as though REM sleep and
+[0:37:46] again it's
+[0:37:47] hyperbolic is the difference between
+[0:37:51] sanity versus Insanity it's the thing
+[0:37:53] that separates those two and there's a
+[0:37:55] wonderful quote from an American uh
+[0:37:58] entrepreneur called e Joseph Cosman and
+[0:38:02] for all of the years of work that we've
+[0:38:04] been doing in this field and I I've
+[0:38:07] spilled so much ink over this including
+[0:38:09] in the the book he summarized it in a
+[0:38:11] single
+[0:38:12] sentence the best bridge between Despair
+[0:38:16] and hope is a good night of sleep and
+[0:38:20] that's exactly what the data is
+[0:38:21] demonstrating in terms of basic
+[0:38:24] emotional brain
+[0:38:26] function so a powerful link there and um
+[0:38:30] I think it's appropriate therefore if we
+[0:38:33] explore a little bit about what the link
+[0:38:35] actually consists of um in a way that
+[0:38:39] will provide people a a kind of a a
+[0:38:42] compass for when they're feeling a
+[0:38:44] little bit less emotionally regulated or
+[0:38:46] if they would like to improve their
+[0:38:48] levels of emotion regulation uh this is
+[0:38:51] going to be a little bit of an
+[0:38:52] exploration but uh you may recall this
+[0:38:54] is an exploration that you and I had
+[0:38:55] some years ago when we were talking
+[0:38:56] about the Rel relationship between rapid
+[0:38:58] eye movement sleep and
+[0:39:01] emotionality
+[0:39:02] and here you've described that the
+[0:39:05] medial prefrontal cortex normally plays
+[0:39:07] this kind of
+[0:39:08] sh role uh this suppressive role over
+[0:39:11] the amydala under conditions where there
+[0:39:13] is something to consider is it averse is
+[0:39:16] it not averse how averse is it right
+[0:39:18] um but in terms of what we know about
+[0:39:21] stress and emotion you the autonomic
+[0:39:24] nervous system this incredible system
+[0:39:26] that balances sympathetic meaning
+[0:39:29] alertness arousal sometimes called the
+[0:39:30] fight ORF flight system and
+[0:39:32] parasympathetic activation sometimes
+[0:39:33] called the rest and digest system it's
+[0:39:35] the balance of the two that dictates
+[0:39:38] one's emotional state and alertness um
+[0:39:41] level of stress Etc and I've always
+[0:39:43] imagined the autonomic nervous system
+[0:39:45] the sympathetic and parasympathetic
+[0:39:46] nervous system as sort of a seesaw yeah
+[0:39:49] but on this seesaw sits us right and we
+[0:39:53] can move back and forth across this
+[0:39:55] seesaw but there's an component of the
+[0:39:58] Seesaw that um in my mental model um
+[0:40:01] which is the hinge how tight the Seesaw
+[0:40:04] is meaning how easily or how challenging
+[0:40:09] it is to tilt the Seesaw to one or the
+[0:40:11] other side and I don't know if the
+[0:40:14] mechanism has been discovered but I feel
+[0:40:17] like what happens under conditions of
+[0:40:19] REM deprivation or sleep
+[0:40:21] deprivation that is sleep deprivation
+[0:40:24] but you've beautifully described how
+[0:40:26] it's REM deprivation in particular that
+[0:40:29] can do this that the hinge becomes loose
+[0:40:32] but the hinge doesn't become loose
+[0:40:33] toward us becoming more parasympathetic
+[0:40:36] and relax there's an asymmetry there
+[0:40:38] it's as if the Seesaw now wants to flop
+[0:40:40] to sympathetic activation until we're so
+[0:40:42] exhausted that we just disappear into
+[0:40:44] sleep so the question is this and maybe
+[0:40:47] all we have here is is uh opportunity
+[0:40:50] for speculation but is there any
+[0:40:53] understanding of what the hinge might be
+[0:40:56] and how sleep would adjust the tightness
+[0:40:58] of that hinge and if people are
+[0:41:01] following this what we're really trying
+[0:41:02] to get to is you know you described a
+[0:41:05] neural circuit mechanism within the
+[0:41:06] brain but is this for instance the
+[0:41:08] gating of the release of epinephrine
+[0:41:11] adrenaline and cortisol I mean is that I
+[0:41:13] could imagine that's regulated by the
+[0:41:15] brain but when we're deprived of REM
+[0:41:17] sleep that process becomes less poorly
+[0:41:21] gated and then we just will punch out a
+[0:41:24] bunch of adrenaline in response to you
+[0:41:25] know a phone call from a close friend
+[0:41:27] that you adore but is their voic is just
+[0:41:29] a little bit loud and like H this is
+[0:41:31] rough yeah Etc do we do we understand
+[0:41:33] the nature of the hinge we do a little
+[0:41:36] bit and it's something that we started
+[0:41:38] off trying to test with one specific um
+[0:41:42] belief and then we were beautifully
+[0:41:44] course corrected by the data we thought
+[0:41:47] that the hinge was going to be once you
+[0:41:49] were sleep deprived and you started to
+[0:41:51] slide down into that fight or flight
+[0:41:53] Branch the more sympathetic and away
+[0:41:56] from the the par sympathetic that the
+[0:41:58] hinge would get ever tighter the further
+[0:42:00] into that sympathetic stress related
+[0:42:03] fight ORF flight dip that you had and
+[0:42:06] there you would stay it wasn't quite
+[0:42:09] that simple what we found was that when
+[0:42:11] I challenge you or put you either under
+[0:42:14] a very simple cardiovascular challenge
+[0:42:16] let's say I'm just having you grip a bar
+[0:42:19] for a long period of time or we have you
+[0:42:21] under some other maybe even if it's a um
+[0:42:25] an exercise regiment
+[0:42:27] when you are in a sleep deprived State
+[0:42:30] and you are largely inert and not
+[0:42:33] interacting with the world you actually
+[0:42:35] are in a more strong parasympathetic
+[0:42:39] State it's almost as though you do not
+[0:42:42] want to interact with the world per se
+[0:42:46] and this comes on to
+[0:42:47] motivation we and others have found that
+[0:42:50] one of the earliest and strongest
+[0:42:53] effects of a lack of sleep is just
+[0:42:56] absence of motivation I don't want to
+[0:42:59] interact with the world I don't want to
+[0:43:01] be social I don't want to learn I don't
+[0:43:03] want to exert effort I don't want to
+[0:43:06] exercise I just don't want to do much of
+[0:43:10] anything however when you provoke me and
+[0:43:14] you force me to interact or there is a
+[0:43:16] very strong emotional event that I
+[0:43:18] experience I go all the way over into
+[0:43:22] the strongly sympathetic so it's almost
+[0:43:25] as though we had the prediction that it
+[0:43:27] was going to be a very tight hinge and
+[0:43:29] the screw was tightening the more
+[0:43:31] sympathetic you became it was much more
+[0:43:34] that you were in this sort of
+[0:43:37] parasympathetic State this sort of
+[0:43:39] non-motivational state and the the hinge
+[0:43:44] was so loose however that even just the
+[0:43:47] tiniest flick of a challenge whoosh you
+[0:43:50] went straight over to the sympathetic
+[0:43:52] there was no sweet spot of a tightening
+[0:43:56] where you were nicely balancing between
+[0:43:59] those two states and this comes back to
+[0:44:02] something else that we found that's you
+[0:44:05] switching flip-flopping back and forth
+[0:44:07] between parasympathetic and
+[0:44:10] sympathetic I spoke about the emotional
+[0:44:12] reactivity to negative aversive events
+[0:44:15] but that's only one half of what we call
+[0:44:18] the affective veilance domain it's not
+[0:44:22] just that you can have negative
+[0:44:24] emotional reactions of course you can
+[0:44:25] have positive emotional
+[0:44:28] reactions so we did a sister study to
+[0:44:31] that amigdala study and we asked rather
+[0:44:35] than showing you increasingly negative
+[0:44:38] images and how your amigdala would
+[0:44:41] respond much more strongly to those as
+[0:44:43] we provoked it we then started to show
+[0:44:46] you much more positive rewarding images
+[0:44:50] and because one hypothesis would be that
+[0:44:52] you just simply slide down the scale and
+[0:44:56] you move towards more negative and away
+[0:44:59] from more reward-based
+[0:45:01] reactivity or you could imagine that
+[0:45:03] it's both that when you are sleep
+[0:45:06] deprived you are equally excessively
+[0:45:09] reactive to both of those domains and
+[0:45:12] what we found was that it was the latter
+[0:45:15] that you were very abnormally reactive
+[0:45:19] overreactive to negative events but you
+[0:45:21] were equally hyper sensitive to very
+[0:45:24] reward-based stimuli and this fits
+[0:45:27] beautifully with what we know from sleep
+[0:45:29] deprivation you are much more impulsive
+[0:45:32] you are much more reward seeking you are
+[0:45:35] much greater in terms of your sensation
+[0:45:37] seeking and your addiction potential
+[0:45:40] when you are not getting sufficient
+[0:45:42] sleep is significantly higher and sure
+[0:45:44] enough when we looked in the brain many
+[0:45:46] of these dopamine related circuits that
+[0:45:49] you've described before were
+[0:45:51] overactive when you were under slapped
+[0:45:55] and so I bring this back because it
+[0:45:57] relates to your seesaw sort of analogy
+[0:46:00] yes you can think about the Seesaw from
+[0:46:03] with sleep deprivation from a
+[0:46:05] sympathetic parasympathetic you can also
+[0:46:07] think about it from a positive versus
+[0:46:09] negative veilance and once again our
+[0:46:12] hypothesis was that you're just going to
+[0:46:14] slide down into the negative and you're
+[0:46:16] just going to be less responsive to the
+[0:46:18] rewarding positive it was the opposite
+[0:46:22] you were abnormally and excessively
+[0:46:25] sensitive to both of the those domains
+[0:46:27] which you could argue is perhaps the
+[0:46:29] very worst of all adaptive responses
+[0:46:32] absolutely as an organism you don't want
+[0:46:35] to be non-reactive emotions are powerful
+[0:46:37] and we've spoken about the benefits you
+[0:46:39] need to have emotions to be a
+[0:46:42] functioning human being or organism in
+[0:46:45] the world they are designed to
+[0:46:47] adaptively help us survive but you can't
+[0:46:50] go to the extremes that's maladaptive
+[0:46:52] rather than adaptive but that's where
+[0:46:55] you go when you are sleep to Pride
+[0:46:57] it's this loose hinge and you become
+[0:47:00] very very erratically and extremely
+[0:47:04] reactive from a neural
+[0:47:07] perspective yeah my understanding is
+[0:47:10] that um you know sleep deprivation
+[0:47:13] definitely increases impulsivity and
+[0:47:17] addictive potential it's um yes so best
+[0:47:19] worst of Both Worlds in this case and
+[0:47:22] and given that um now would probably be
+[0:47:25] an appropriate time to just um cue
+[0:47:27] people to some of the things that they
+[0:47:28] can do to improve or maximize their
+[0:47:30] rapid eye movement sleep this was
+[0:47:32] covered in detail in episodes one and
+[0:47:35] two um and to some extent in episodes uh
+[0:47:39] three and four as well but they're in
+[0:47:41] reference to um to other things um
+[0:47:43] learning memory creativity the role of
+[0:47:46] naps Etc and I'll refer people back to
+[0:47:49] this um beautiful formula uh q qrt that
+[0:47:53] it's not just about getting enough sleep
+[0:47:55] it's about the quantity indeed but also
+[0:47:57] the quality QQ regularity and timing of
+[0:48:01] sleep and knowing one's chronotype that
+[0:48:04] is the best time to go to bed and the
+[0:48:07] best time to wake up in the morning for
+[0:48:09] them is going to be critical here and
+[0:48:11] and I can raise my hand I'll raise both
+[0:48:13] hands in fact uh metaphorically and say
+[0:48:16] that when
+[0:48:17] I've gone to sleep early and woken up
+[0:48:20] early so for me 8:30 9 p.m. and then
+[0:48:23] waking up at 4:35 a.m. which for me
+[0:48:25] matches my chronotype
+[0:48:27] uh it has served as a powerful
+[0:48:29] anti-depressant effect and when I've
+[0:48:31] gotten an equal amount of sleep but
+[0:48:34] going to bed too late for me that is you
+[0:48:36] know midnight 1 a.m. and sleeping in
+[0:48:39] until 8: or 9:00 a.m. um I always carry
+[0:48:42] a low-level depression um fortunately
+[0:48:45] not something that needed to be uh
+[0:48:46] medicated but uh it's it's a striking
+[0:48:49] effect in the positive direction when
+[0:48:52] obeying qqr and in in the negative
+[0:48:55] Direction when not so maybe just for
+[0:48:57] because we can provide some links to um
+[0:48:59] those segments in the show note captions
+[0:49:01] but maybe just um for people that are
+[0:49:03] here now um if we were going to list out
+[0:49:06] you know two or three things that one
+[0:49:08] can do to try and maximize um the
+[0:49:11] quality and quantity of REM sleep uh
+[0:49:14] without going on too much of a tangent
+[0:49:16] but um at the same time we do want to
+[0:49:19] highlight that addressing that Q qrt
+[0:49:23] formula um for ourselves is going to be
+[0:49:25] critical so maybe so for REM sleep um
+[0:49:28] yeah you know in the domain of exercise
+[0:49:30] temperature Etc are there any kind of
+[0:49:32] quick quick bullet points that we can
+[0:49:33] refer people to I would say just to keep
+[0:49:37] it high level and and brief the single
+[0:49:41] best way
+[0:49:43] cheapest non-pharmacological way that
+[0:49:46] you can enhance your REM sleep is to
+[0:49:48] just sleep an extra 15 or 20 minutes
+[0:49:52] later into the morning don't try to put
+[0:49:55] if I tell you this is about by the way
+[0:49:58] this is about the the quantity the your
+[0:50:00] sleep
+[0:50:01] opportunity don't try to add that 30
+[0:50:04] minutes or 20 minutes if your goal is to
+[0:50:06] increase real sleep at the start of the
+[0:50:08] night at the front end instead take that
+[0:50:11] desire that I've offered you of adding
+[0:50:14] just 20 minutes or 25 minutes of extra
+[0:50:17] sleep now to the last part of your night
+[0:50:21] wake up that sort of much later 20 25
+[0:50:25] minutes later
+[0:50:27] that's the REM sleep Rich phase so if
+[0:50:29] people go back and listen to episode one
+[0:50:32] we'll describe to you exactly how the
+[0:50:34] different stages of sleep unfold across
+[0:50:36] the night and they're not evenly
+[0:50:38] distributed it's not as though you get
+[0:50:40] just as much REM sleep as well as deep
+[0:50:42] non-rem sleep in the first half of the
+[0:50:44] night as you do in the second you get
+[0:50:46] most of your deep sleep in the first
+[0:50:48] half and you get most of your REM sleep
+[0:50:50] in the second half and particularly in
+[0:50:52] the last quarter of the night and this
+[0:50:55] leads us to understand that the later
+[0:50:57] into the morning hours that we go the
+[0:51:00] greater the hunger preference and The
+[0:51:02] Taste desire there is of your brain to
+[0:51:06] start sampling from the finger Buffet of
+[0:51:08] all of those different stages this thing
+[0:51:10] called REM sleep and the later that you
+[0:51:14] sleep into the morning the more of that
+[0:51:15] REM sleep that you will have and many
+[0:51:17] people will have experienced this at the
+[0:51:19] weekend where they have this pattern
+[0:51:21] that we don't Rec recommend based on the
+[0:51:23] qqr T um QQ our regularity go to bed at
+[0:51:28] the same time wake up at the same time
+[0:51:30] what we see often in society is
+[0:51:33] something what we call social jetl where
+[0:51:35] you're short sleeping during the week
+[0:51:37] and then at the weekend you're out with
+[0:51:40] friends or you're out sort of on the
+[0:51:42] town you go to bed late and you wake up
+[0:51:45] late and maybe you're doing that by 2
+[0:51:48] hours maybe you're normally in bed by
+[0:51:50] 10: p.m. during the week but now at the
+[0:51:52] weekends you're going to sleep maybe 12
+[0:51:55] 12:30 and you're waking up 2 3 hours
+[0:51:58] later on a Saturday and Sunday and then
+[0:52:01] the problem with that parenthetically is
+[0:52:03] on Sunday evening you've now got to go
+[0:52:06] back to work the next day so you have to
+[0:52:08] push yourself back to 10:30 or 10:00
+[0:52:12] whereas you were going to bed let's say
+[0:52:13] at 1 a.m. on Friday and Saturday night
+[0:52:17] that's a 3-hour Time shift and people
+[0:52:20] are doing that very frequently that's
+[0:52:22] the equivalent of you and I flying back
+[0:52:25] and forth from Los Angeles to New York
+[0:52:27] every single weekend in terms of oaan
+[0:52:30] Rhythm and it's brutal on it but this is
+[0:52:32] separate from this notion of your timing
+[0:52:37] the final part of the Q qrt and by
+[0:52:40] pushing your timing a little bit later
+[0:52:43] into the morning when you wake up you
+[0:52:45] will experience more REM sleep and as I
+[0:52:47] said when people sleep later they go to
+[0:52:50] bed later at night and they wake up much
+[0:52:52] later in the morning at the weekend I
+[0:52:55] strongly suspect that if they paid
+[0:52:56] attention they would say at weekends I
+[0:52:59] always dream more I always can remember
+[0:53:01] my dreams and they're more intense it's
+[0:53:04] not because there's something magical
+[0:53:06] about how your memory recollection of
+[0:53:08] Dreams operates on Saturdays and Sundays
+[0:53:11] it's because you've slept in later
+[0:53:12] you've gone into that REM sleep Rich
+[0:53:15] preferential phase in the morning and
+[0:53:17] therefore you've increased your REM
+[0:53:19] sleep so I would say that that's
+[0:53:20] probably the easiest way that you can
+[0:53:22] start to modulate REM sleep so that's a
+[0:53:24] terrific do and um I think we can
+[0:53:26] probably summarize the the top don't as
+[0:53:30] uh don't drink alcohol because it
+[0:53:32] abolishes REM sleep alcohol and THC are
+[0:53:34] both very potent ways that will remove
+[0:53:39] or obliterate your REM sleep and we
+[0:53:42] spoke about this in the episode on um on
+[0:53:45] THC when we discussed this I think just
+[0:53:50] yesterday I got a very long email and
+[0:53:53] you know I'm sure you get lots of emails
+[0:53:54] from um from delightful people in the
+[0:53:56] public and a Gentleman just saying you
+[0:53:58] know I was using cannabis for probably
+[0:54:01] about 7 years and then I watched um or
+[0:54:04] listen to some of your content and I
+[0:54:06] stopped and I just had this
+[0:54:10] explosion of dreams and I was never
+[0:54:14] recollecting any of my dreams before but
+[0:54:16] now they came back and goodness were
+[0:54:18] they Vivid they were Rich they were and
+[0:54:21] I could not believe it and that's REM
+[0:54:23] sleep and that's because during the kind
+[0:54:26] use by way of the THC not the CBD you've
+[0:54:29] been blocking that REM sleep you've
+[0:54:31] built up that pressure just as we
+[0:54:33] described in the dementi these and then
+[0:54:35] when you finally do take away the agent
+[0:54:38] that is blocking the generation of REM
+[0:54:41] sleep the THC all of a sudden your brain
+[0:54:43] doesn't just go back to having its
+[0:54:45] standard amount of REM sleep and
+[0:54:47] dreaming it has that plus it tries to
+[0:54:49] get back as much of it as it possibly
+[0:54:52] can by having what we call a REM sleep
+[0:54:55] rebound and that's why people when they
+[0:54:57] they stop using they end up having this
+[0:55:00] intense real sleep by the way to your
+[0:55:02] point about reward and um addiction
+[0:55:05] sensitivity with sleep deprivation one
+[0:55:08] of the things that we um we did in a
+[0:55:10] collaboration gosh this was years ago
+[0:55:12] when I was at Harvard with Carl Hart who
+[0:55:15] I think you I don't know if you colia
+[0:55:17] yeah Colombia you know him yeah he's
+[0:55:19] fantastic researcher very interesting
+[0:55:21] man too um and what we found was that a
+[0:55:25] lack of sleep was not only predictive of
+[0:55:28] your addiction potential but when you
+[0:55:32] went into a clinic to abstain and trying
+[0:55:35] to come off some of those and here we
+[0:55:37] were looking at cocaine um addiction a
+[0:55:40] lack of sleep was a strong predictor of
+[0:55:43] your abstinence and you falling off the
+[0:55:46] wagon and going back to you so sleep is
+[0:55:48] so critical not just for um maintaining
+[0:55:53] or pushing you away from that addiction
+[0:55:55] potential but once you are addicted and
+[0:55:57] you're trying to abstain it gives you
+[0:56:00] that lift of altitude to try to resist
+[0:56:02] falling off the wagon and when sleep
+[0:56:04] gets short that's when you become
+[0:56:06] vulnerable again probably because your
+[0:56:09] reward circuitry becomes enhanced and
+[0:56:13] all of a sudden you just cannot resist
+[0:56:16] the temptation anymore I want to take a
+[0:56:19] brief break and acknowledge our sponsor
+[0:56:20] insid tracker insid tracker is a
+[0:56:22] personalized nutrition platform that
+[0:56:24] analyzes data from your blood and DNA a
+[0:56:26] to help you better understand your body
+[0:56:28] and help you reach your health goals now
+[0:56:30] I've long been a believer in getting
+[0:56:31] regular blood work done for the simple
+[0:56:33] reason the many of the factors that
+[0:56:35] impact your immediate and long-term
+[0:56:36] Health can only be analyzed from a
+[0:56:38] quality blood test the problem with a
+[0:56:40] lot of blood tests out there however is
+[0:56:42] that you get information back about
+[0:56:43] metabolic factors hormones Etc but you
+[0:56:45] don't know what to do with that
+[0:56:46] information with inside tracker they
+[0:56:48] make it very easy to understand your
+[0:56:50] results and they also point you to
+[0:56:52] specific directives that you can follow
+[0:56:53] in the realm of nutrition exercise
+[0:56:55] supplement a even prescription drugs
+[0:56:57] that can help bring the levels back into
+[0:56:59] the ranges that are optimal for you
+[0:57:01] insid tracker also offers insid Tracker
+[0:57:03] Pro which enables coaches and health
+[0:57:05] professionals to provide premium and
+[0:57:07] personalized Services by leveraging
+[0:57:08] inside trackers analysis and
+[0:57:10] recommendations with their clients if
+[0:57:12] you'd like to try insid tracker you can
+[0:57:14] go to insid tracker.com huberman to get
+[0:57:17] 20% off any of insid tracker's plans
+[0:57:19] again that's insidetracker
+[0:57:22] docomo I think the takeaway is very
+[0:57:24] clear in order to be your best Emotional
+[0:57:28] Self that is in order to be able to
+[0:57:29] access positive emotions to their full
+[0:57:32] amplitude uh motivation um learning as
+[0:57:35] we also covered in a previous episode
+[0:57:37] but also to stay out of those um
+[0:57:39] irritable emotional traps of life um and
+[0:57:42] to be a regulated person calm and and
+[0:57:45] joyful person um it stands to reason to
+[0:57:49] uh minimize alcohol and cannabis use
+[0:57:52] unless there's some I don't know medical
+[0:57:54] reason why uh someone should otherwise
+[0:57:56] but the the real take-home message here
+[0:57:58] is get as much rapid eye movement sleep
+[0:58:00] as possible and don't do anything to
+[0:58:01] inhibit it yeah get as much sleep so
+[0:58:04] focus on all of those four uh macros of
+[0:58:07] sleep quantity quality regularity and
+[0:58:09] timing and notice that if you want to
+[0:58:12] try to optimize some of those that
+[0:58:14] emotional reactivity and balance you may
+[0:58:17] want to slightly over index on your REM
+[0:58:20] sleep in that regard and one easy cheap
+[0:58:23] way of doing that if you can lifestyle
+[0:58:25] permitting an and again of course I
+[0:58:27] understand everyone is has a life to
+[0:58:29] live and pressures but that's the way
+[0:58:32] that if you were to ask me can you do it
+[0:58:34] and do it simply yes you probably can
+[0:58:37] great but you touched on trauma a little
+[0:58:40] bit already but um now would be the
+[0:58:42] appropriate time I think to talk about
+[0:58:43] PTSD post-traumatic stress disorder
+[0:58:45] which um I think we can use the
+[0:58:48] definition of PTSD and Trauma that the
+[0:58:51] great Paul kti a former guest on this
+[0:58:54] podcast who also did series
+[0:58:56] yeah an incredible man what a what a
+[0:58:58] what a mind on him and what a generosity
+[0:59:00] of of sharing information in clear ways
+[0:59:02] about mental health as he did in the
+[0:59:04] four episode series on Mental Health
+[0:59:06] here and he's been on other podcasts as
+[0:59:07] well wrote A M marvelous book on trauma
+[0:59:12] Paul defined trauma as some event that
+[0:59:15] is aversive that changes the way that
+[0:59:19] our nervous system works such that we
+[0:59:21] function less well in the future it's
+[0:59:24] not that every negative event
+[0:59:27] every uh negative emotion Associated
+[0:59:29] memory is trauma I think that's a a
+[0:59:32] misconception um but there are things
+[0:59:35] that happen to people um or that they
+[0:59:37] observe happening to other people so
+[0:59:39] there's you know first person trauma
+[0:59:41] third person observational trauma Etc
+[0:59:44] and these can be single events multiple
+[0:59:45] events you know sadly this stuff happens
+[0:59:49] um it can be neglect so sometimes it's
+[0:59:50] the absence of an event right which
+[0:59:52] becomes the traumatic event that
+[0:59:54] fundamentally rewire some component of
+[0:59:56] neur neural circuitry such that we don't
+[1:00:00] function as well in terms of
+[1:00:02] relationship to anything work food sex
+[1:00:05] sleep relationships uh Baseline levels
+[1:00:07] of emotionality and on and on so what is
+[1:00:11] the relationship between sleep and
+[1:00:14] post-traumatic stress disorder
+[1:00:16] specifically I think some of what we've
+[1:00:18] covered already certainly touches on
+[1:00:20] this but PTSD seems to me that it it
+[1:00:23] might be its own unique case
+[1:00:26] it is because if you look at the
+[1:00:28] diagnostic criteria for
+[1:00:32] PTSD firstly you see sleep disturbance
+[1:00:35] and as I said right at the top of this
+[1:00:37] episode there is no major psychiatric
+[1:00:39] disorder where there isn't some mention
+[1:00:41] of sleep problems in its diagnostic
+[1:00:44] criteria but something else was
+[1:00:46] intriguing about PTSD that compelled me
+[1:00:49] to think about it and then create a
+[1:00:51] theory around it it's not just sleep
+[1:00:55] problems it's also
+[1:00:57] nightmares and specifically repetitive
+[1:01:00] nightmares in fact repetitive nightmares
+[1:01:02] form part of the diagnostic criteria for
+[1:01:05] you to receive a diagnosis of PTSD
+[1:01:08] that's how reliable they
+[1:01:10] are and as I thought more about this
+[1:01:14] model of overnight therapy this notion
+[1:01:17] that sleep and particularly REM sleep
+[1:01:19] provides a form of emotional first
+[1:01:22] aid PTSD stood out to me as something
+[1:01:26] think that I had to return to to explain
+[1:01:29] why because if you think about PTSD and
+[1:01:33] a veteran it is the perfect example of
+[1:01:37] the process that I described of
+[1:01:40] emotional deep potentiation
+[1:01:43] failing because what I started to
+[1:01:46] realize is that in PTSD there is this
+[1:01:48] trauma
+[1:01:49] experience and then perhaps what's
+[1:01:52] happening is that sleep the brain goes
+[1:01:55] back to sleep that night and says okay
+[1:01:57] please do your elegant trick of
+[1:02:00] stripping away the emotion from the
+[1:02:02] memory and it fails so then what happens
+[1:02:04] the next night the brain comes back and
+[1:02:06] says I'm sorry but I still got this very
+[1:02:09] emotionally charged memory please do
+[1:02:12] your elegant dissipation depotentiation
+[1:02:15] of the emotion from memory and it fails
+[1:02:16] again almost like this broken record
+[1:02:19] that was so indicative of these
+[1:02:21] repetitive
+[1:02:22] nightmares and then when you looked at
+[1:02:25] PTSD I told you that REM sleep is a time
+[1:02:28] of this remarkable decrease in
+[1:02:32] noradrenaline but if you look at PTSD
+[1:02:35] patients they actually have heightened
+[1:02:37] levels of neur adrenaline and also in
+[1:02:40] the body adrenaline as well in sleep in
+[1:02:44] sleep and also when you look just as a
+[1:02:47] basil State as well so there's something
+[1:02:50] not quite right with the noradrenaline
+[1:02:52] story in REM sleep in PTSD patients so I
+[1:02:58] had just published this paper and I was
+[1:03:00] up um at a conference in I think it was
+[1:03:03] Portland and I presented the theory that
+[1:03:06] or the data that we had on healthy
+[1:03:08] people and I put forward this theory of
+[1:03:12] um of PTSD and then later that afternoon
+[1:03:16] a psychiatrist came on uh the stage
+[1:03:18] called Murray Raskin and he was working
+[1:03:21] a lot with PTSD
+[1:03:23] vets and he describe data which I
+[1:03:27] couldn't believe it's one of those
+[1:03:28] moments Andrew where you're at a
+[1:03:29] scientific
+[1:03:30] conference and I think it happens maybe
+[1:03:33] once in a career if you're lucky all of
+[1:03:36] the hers on the back of my neck stood on
+[1:03:39] Sharp end because he was saying we've
+[1:03:42] got this data and we don't quite
+[1:03:44] understand it we've been treating our
+[1:03:47] veterans for blood pressure for
+[1:03:50] hypertension using a generic drug called
+[1:03:53] prasin and prasin blocked
+[1:03:56] the um adrenergic response in the body
+[1:03:59] because you're trying to sort of Tamp
+[1:04:01] down that sympathetic activation in the
+[1:04:03] body beta blocker so it's an it's an
+[1:04:07] alpha
+[1:04:08] adrenergic antagonist not a beta blocker
+[1:04:10] so it's not a beta blocker but it's
+[1:04:11] blocking the adrenergic
+[1:04:14] system and so and it's a you know it's a
+[1:04:18] generic pretty cheap drug but it turns
+[1:04:20] out that it crosses the blood brain
+[1:04:22] barrier so it doesn't just stay within
+[1:04:24] the body it goes up into the brain and
+[1:04:27] he said we don't really understand it
+[1:04:28] because I've been giving patients this
+[1:04:31] medication and it works to a degree but
+[1:04:33] something else happens they come into
+[1:04:35] the clinic and they say Doc I'm not
+[1:04:38] having those nightmares anymore they
+[1:04:41] seem to have gone away and these
+[1:04:43] patients seem to start to show signs of
+[1:04:47] resolution so all of a sudden I had had
+[1:04:51] a model a clinical model that was in
+[1:04:54] search of data and he had data that was
+[1:04:57] in search of a theoretical
+[1:04:59] model I couldn't believe it because it's
+[1:05:01] exactly what I would predict which is
+[1:05:04] that if neur adrenaline is too high in
+[1:05:06] PTSD you're not processing and stripping
+[1:05:09] the emotion from the memory so it keeps
+[1:05:11] coming back over and over like this
+[1:05:13] repetitive nightmare but then if you
+[1:05:16] block and help bring back down that
+[1:05:18] level of neur adrenaline to that which
+[1:05:20] would be seen in a normal healthy person
+[1:05:23] in other words completely blocking it or
+[1:05:25] all of a sudden the emotional memory
+[1:05:27] gets the chance to be processed and you
+[1:05:29] finally start to get symptom resolution
+[1:05:32] so we couldn't believe it he flew down
+[1:05:35] to Berkeley we spent several days
+[1:05:37] together we went out to dinner we just
+[1:05:39] could not stop talking he subsequently
+[1:05:41] did some incredible work in this area
+[1:05:44] and presin went on to become the um an
+[1:05:48] FDA approved medication for PTSD and
+[1:05:51] repetitive nightmares that was approved
+[1:05:53] by the Veterans Administration Bravo and
+[1:05:55] so no it's not me it's all all of his
+[1:05:58] work no you can't no this to me is the
+[1:06:01] uh scientific collaborative um
+[1:06:03] conceptual equivalent of the old rees's
+[1:06:05] um peanut butter cup commercials for
+[1:06:07] those of us old enough to remember it's
+[1:06:09] two people running toward one another on
+[1:06:11] the beach one with a jar of peanut
+[1:06:13] butter one with a with a piece with a
+[1:06:14] bar of chocolate and then they crash
+[1:06:16] into one another and then they both you
+[1:06:18] know share in the Delight of the the
+[1:06:20] chocolate peanut butter combination
+[1:06:21] which is an amazing combination um but
+[1:06:24] here a far more um important example uh
+[1:06:28] because it's led to a clinical relief in
+[1:06:31] in patients with PTSD um so I'm not
+[1:06:34] making light of that at all but um this
+[1:06:36] is one of the reasons to go to
+[1:06:38] Scientific meetings seriously this is
+[1:06:40] one of the reasons why scientists need
+[1:06:41] to talk this is one of the reasons to do
+[1:06:43] podcasts is it is it uh Fosters
+[1:06:46] hybridization of ideas which um is
+[1:06:48] Central to to new discoveries um and in
+[1:06:51] this case a clinical Discovery I I have
+[1:06:53] a question about um this notion of
+[1:06:57] blocking norepinephrine um in the brain
+[1:06:59] and body um you know on the one hand it
+[1:07:03] seems that during rapid eye movement
+[1:07:05] sleep we know we're paralyzed um or we
+[1:07:08] are paralyzed that's a fact of rapid eye
+[1:07:10] movement sleep the um the brain is
+[1:07:13] recalling memories often in in great
+[1:07:15] detail sometimes through symbolic
+[1:07:18] representation SpaceTime is disrupted
+[1:07:20] it's either faster slower so because
+[1:07:22] you're dreaming um and
+[1:07:26] it seems that there's something powerful
+[1:07:28] about being able to replay the
+[1:07:30] memories and yet divorce them from
+[1:07:33] certain
+[1:07:33] neurochemical uh release in the brain
+[1:07:36] and body to essentially uncouple them
+[1:07:39] and then to me it makes perfect sense
+[1:07:40] why taking a a drug that would reduce
+[1:07:43] the amount of sympathetic arousal in
+[1:07:45] sleep would help especially PTSD because
+[1:07:47] you said with PTSD sort of an invasion
+[1:07:50] of the noradrenaline response into rapid
+[1:07:53] ey Moon sleep that is inappropriate so
+[1:07:55] does that mean that rapid eye movement
+[1:07:57] sleep in people with PTSD is not truly
+[1:08:00] rapid eye movement sleep it's as if it's
+[1:08:02] been abolished and replaced with
+[1:08:03] something that's kind of pseudo waking
+[1:08:05] stress invaded you know it's like a
+[1:08:09] zombie REM um and it's not good is that
+[1:08:13] is that is that correct it seems to be
+[1:08:14] an and you can look at this in terms of
+[1:08:16] the electrical activity of REM sleep the
+[1:08:19] electrical brain waves of R sleep in
+[1:08:21] these patients and you're right it
+[1:08:23] doesn't seem to be of the same
+[1:08:24] electrical quality but what was
+[1:08:26] interesting in Marie Raskin studies when
+[1:08:29] he started to treat patients with the
+[1:08:31] pricin and Tamp down that
+[1:08:34] noradrenaline one of the other things
+[1:08:36] that returned back to normality was not
+[1:08:38] just that the symptoms dissipated their
+[1:08:41] REM sleep started to return with a
+[1:08:45] greater amount and so I think it fits
+[1:08:48] very well with this notion that whatever
+[1:08:51] REM sleep that was going on may not
+[1:08:53] necessarily have been electrical or
+[1:08:56] neurochemically identical to normative
+[1:08:59] REM sleep but when you assisted the
+[1:09:01] system with a chemical to bring it back
+[1:09:04] into normality REM sleep was gifted back
+[1:09:07] to the brain and emotional resolution
+[1:09:10] started to unfold now I should note that
+[1:09:12] there have been um a number of studies
+[1:09:15] that have replicated the finding some
+[1:09:16] Studies have not though and so we still
+[1:09:18] need to understand exactly why this is
+[1:09:21] the case and there are other therapies
+[1:09:23] that we'll probably discuss in a later
+[1:09:25] episode on dreaming that are as if not
+[1:09:28] more effective than that drug therapy
+[1:09:30] for repetitive nightmares that is a
+[1:09:33] psychological intervention rather than a
+[1:09:36] pharmacological intervention and that
+[1:09:38] seems to be very effective too in 2017
+[1:09:42] as my laboratory was starting to explore
+[1:09:44] some studies on humans on fear and
+[1:09:46] Trauma I visited a a trauma Addiction
+[1:09:50] Center on the East Coast um the guy who
+[1:09:52] runs it will be a guest on this podcast
+[1:09:54] in the future
+[1:09:55] an amazingly talented uh trauma and
+[1:09:58] addiction therapist by the name of Ryan
+[1:10:00] Suave and there it
+[1:10:02] was that I learned about Yoga Nidra
+[1:10:05] non-sleep deep rest and here's why they
+[1:10:07] were taking heroin addicts gambling
+[1:10:09] addicts sex addicts alcoholics people
+[1:10:12] with what they're call behavioral
+[1:10:13] process addictions and substance abuse
+[1:10:15] addictions um and every morning after
+[1:10:19] they woke up the first thing that they
+[1:10:22] would do was 1 hour of non-sleep deep
+[1:10:26] bre you know placing people into this
+[1:10:27] linal state and I asked why and um and
+[1:10:30] Ryan said this is especially important
+[1:10:32] to do with um addicts when they arrive
+[1:10:34] in inpatient recovery in the first week
+[1:10:37] and um even more so in the first three
+[1:10:39] days because typically they are badly
+[1:10:41] sleep
+[1:10:42] deprived and in addition to that many of
+[1:10:45] them are just not good at getting and
+[1:10:47] staying asleep at night without the use
+[1:10:50] of pharmacology or in some cases their
+[1:10:53] behavioral addictions depending on what
+[1:10:54] it what it was
+[1:10:55] and so it was a a kind of a
+[1:10:57] self-directed relaxation training of
+[1:11:00] sorts uh first thing in the morning that
+[1:11:02] in addition um perhaps could compensate
+[1:11:05] partially for some of the sleep
+[1:11:06] deprivation that they no doubt were
+[1:11:08] experiencing when they arrived it's also
+[1:11:09] novel environment and sleeping novel
+[1:11:12] environments can be challenging so uh
+[1:11:15] there is as far as I know no uh
+[1:11:18] randomized control Trials of of this
+[1:11:20] practice uh yet but there are a good
+[1:11:23] number of um clinics and treatment
+[1:11:25] centers that are now employing non-sleep
+[1:11:27] deep breast AKA Yoga Nidra um for 30
+[1:11:31] minutes to an hour first thing upon
+[1:11:33] waking um as one of the you know core
+[1:11:36] components of treatment for helping
+[1:11:38] people get and stay sober I think it's
+[1:11:41] absolutely fascinating because that
+[1:11:43] morning time period as well can be for
+[1:11:47] those who are struggling with sleep
+[1:11:48] especially difficult and you and I have
+[1:11:50] spoken on this podcast series about sort
+[1:11:53] of Awakening at night or later in the
+[1:11:56] morning when you really want to be
+[1:11:58] asleep and it's just a struggle to get
+[1:11:59] back and as you noted there he was
+[1:12:02] saying they often come in underslept and
+[1:12:06] my suspicion is that they're probably
+[1:12:07] getting sleep at the front end in part
+[1:12:10] because they're heavily medicated but
+[1:12:13] self-medicating in terms of helping
+[1:12:14] their sleep but then of course because
+[1:12:17] they are asleep they can't continue to
+[1:12:19] medicate so which part of sleep is
+[1:12:21] fragile it's those morning hours and
+[1:12:23] therefore if you have something that is
+[1:12:25] a compensatory tool that is not going to
+[1:12:27] be the trigger of saying just get back
+[1:12:29] into bed get under those sheets and
+[1:12:31] sleep you know sleep doesn't work like
+[1:12:33] that sleep is not something that we do
+[1:12:36] sleep is something that arrives to us
+[1:12:39] with us and if it's not you can't force
+[1:12:43] it and it's not it's a little bit like
+[1:12:45] someone's name in fact quite the
+[1:12:47] opposite that the harder you try to
+[1:12:48] remember the further you push sleep away
+[1:12:51] and when you stop it all of a sudden
+[1:12:53] comes back but I love this idea of
+[1:12:56] inserting something like that as a
+[1:12:58] compensatory tool and that's why I think
+[1:13:00] you and I have discussed um openly here
+[1:13:03] in fact on this series at some point
+[1:13:05] we're going to collaborate and we're
+[1:13:06] going to look to see exactly what is
+[1:13:09] happening electrically at High Fidelity
+[1:13:12] mapping inside of the brain when we are
+[1:13:15] going through these linal states and
+[1:13:18] what is the benefit of that is it a very
+[1:13:21] similar benefit for sleep and it's
+[1:13:23] fascinating because it's Poss possible
+[1:13:25] that what we find at the level of the
+[1:13:27] brain is that it's not sleep like it's
+[1:13:30] something else like maybe it's just a
+[1:13:33] lional state like and what's also
+[1:13:35] interesting is that it provides
+[1:13:37] seemingly many of the benefits of sleep
+[1:13:40] but it's not sleep in other words you
+[1:13:43] can arrive at the same destination of
+[1:13:45] mental and physical health through two
+[1:13:48] different routs one thing called Sleep
+[1:13:51] one thing called these lional states or
+[1:13:54] they both op operate on the same Highway
+[1:13:56] in terms of mechanistic transaction
+[1:13:58] benefits there's so much that we
+[1:14:01] need we could stay here all all night
+[1:14:03] and all day hopefully not all night well
+[1:14:05] well we will absolutely do those studies
+[1:14:08] and um because I think that people are
+[1:14:10] in desperate need of zero cost tools to
+[1:14:13] try and um access the the the
+[1:14:17] replenishment and Recovery that comes
+[1:14:19] from sleep and when sleep is available
+[1:14:21] to us when we can access it that's going
+[1:14:23] to be the best option there's no
+[1:14:24] question but then some of these tools um
+[1:14:26] in theory and in practice provide a a
+[1:14:29] portal to get better at sleeping as well
+[1:14:32] so I was going to say one of the other
+[1:14:34] things I I'd be fascinated for us to do
+[1:14:36] is not just look at that model of what
+[1:14:38] happens in the morning but can we use
+[1:14:41] that for people who have the opposite
+[1:14:43] insomnia problem which is that I can't
+[1:14:44] fall asleep and we spoke about this in a
+[1:14:47] previous episode of tools and techniques
+[1:14:48] and methods to help you fall asleep
+[1:14:51] could this be one of them where you just
+[1:14:55] start to help move yourself into this
+[1:14:57] Lial State you take the stress off one
+[1:15:00] of the things I hear so much at the
+[1:15:01] center when people come in and they say
+[1:15:03] I've just I always struggle to sleep and
+[1:15:05] you go into depth and it's because they
+[1:15:09] their mind starts to roll it X through
+[1:15:11] that anxiety of what I need to do and
+[1:15:13] what I should do but also then the the
+[1:15:15] later it gets and the the absent the
+[1:15:18] Sleep becomes the more stress they get
+[1:15:21] not just about the next day The more
+[1:15:23] stress that they get about this thing
+[1:15:25] called not being able to fall asleep and
+[1:15:27] if there's something a practice that
+[1:15:29] you've taught someone that says that's
+[1:15:31] okay I know this place and I know this
+[1:15:35] situation and there's a tool I have and
+[1:15:38] it's
+[1:15:40] called this ainal state and if you were
+[1:15:44] to train people on that sort of that
+[1:15:48] method is it a way that they finally can
+[1:15:51] then cast themselves
+[1:15:53] off and it's the it's the bridge not
+[1:15:57] necessarily just between Despair and
+[1:15:58] hope but the bridge between wakefulness
+[1:16:01] and sleep so put it at the back end at
+[1:16:04] the end of the day rather than the front
+[1:16:05] end a lot for us to discover there and
+[1:16:08] um you know at risk of of uh being
+[1:16:12] hyperbolic I mean what what would be
+[1:16:13] more useful than a zeroc cost
+[1:16:16] non-pharmacologic tool for people to get
+[1:16:18] um the rest and restoration they need
+[1:16:21] and to get better at getting the
+[1:16:23] ultimate form of rest and restoration
+[1:16:24] which is sleep yeah and it you know I
+[1:16:27] love the Paradox of it that non-sleep
+[1:16:30] deep rest allows you to go into sleep
+[1:16:34] deep rest right it is after all a
+[1:16:36] transition or Lial State maybe this will
+[1:16:38] become the the stage before stage one of
+[1:16:41] sleep who knows who knows we Define off
+[1:16:43] stage in criteria that's right okay so
+[1:16:46] speaking of challenges sleeping because
+[1:16:48] of one's concern AKA anxiety about the
+[1:16:53] importance of sleep what about the
+[1:16:55] relationship between sleep and anxiety
+[1:16:58] meaning many people in the world
+[1:17:00] experience low-level anxiety or have a
+[1:17:03] low threshold to what could be a
+[1:17:06] full-blown anxiety or panic attack but
+[1:17:08] more often than not is this feeling of
+[1:17:10] being tired and wired or um having a a
+[1:17:14] quick uh you know prepulse startle as we
+[1:17:17] call it in our business a nerd speak for
+[1:17:20] um you know kind of a reactive um to
+[1:17:23] input anxiety and I don't think there's
+[1:17:26] any clean definition between anxiety
+[1:17:28] stress um and PTSD these run along a
+[1:17:31] Continuum and they PSD is an anxiety
+[1:17:34] disorder it's one of many right they
+[1:17:36] these things braid together in a way
+[1:17:37] that it would be a waste of our time to
+[1:17:39] try and disentangle those um but many
+[1:17:42] people have anxiety that is anywhere
+[1:17:44] from minor to debilitating um but that
+[1:17:47] is separate from PTSD although people
+[1:17:48] with PTSD can have
+[1:17:50] anxiety so what do we know about the
+[1:17:54] relationship between
+[1:17:55] sleep and anxiety and perhaps we could
+[1:17:58] frame this in the context of the
+[1:18:01] qqr you know um I'll just toss out a
+[1:18:04] question that perhaps highlights what I
+[1:18:06] mean is it possible that somebody's
+[1:18:08] getting eight hours of sleep a night
+[1:18:10] which for them meets their quantity
+[1:18:12] requirement in the um the quality
+[1:18:15] is relatively high but it's not as high
+[1:18:19] as it could be because the regularity
+[1:18:20] and timing of their sleep isn't great is
+[1:18:23] that person going to be more prone to
+[1:18:25] anxiety than somebody who's really
+[1:18:26] matched to their chronotype and is still
+[1:18:27] getting enough sleep no one's done the
+[1:18:30] head-to-head comparison where you kind
+[1:18:32] of do the how I going do the Coke Pepsi
+[1:18:36] Dr Pepper Sprite QQ RT challenge between
+[1:18:40] all of those what we do know is that if
+[1:18:42] you look at each one independently qqr T
+[1:18:46] quantity quality regularity timing if
+[1:18:49] any one of those is off it's very
+[1:18:51] difficult not to see a coexisting anxiet
+[1:18:55] disorder or increase in anxiety or a
+[1:18:57] mood disorder and I think to me anxiety
+[1:19:02] is part of that class of a broader class
+[1:19:04] that I would call mood
+[1:19:05] disorders it's relevant that we make
+[1:19:07] that distinction at least in my eyes and
+[1:19:10] I know some people may disagree because
+[1:19:13] mood and anxiety are different than
+[1:19:16] emotions and many of us Clump them
+[1:19:19] together the way I think about the
+[1:19:20] difference is the following time scale
+[1:19:24] emot ions are short punctate events that
+[1:19:27] usually last anywhere from seconds to
+[1:19:30] too many minutes mood States however
+[1:19:35] like anxiety or depression those operate
+[1:19:39] on a slightly different time scale from
+[1:19:41] minutes to hours to months to years and
+[1:19:45] so it's very unlikely that we can
+[1:19:47] experience an emotional reaction that
+[1:19:51] from a sort of a chronometry point of
+[1:19:53] view lack lasts for 2 years but you can
+[1:19:57] certainly see someone who has a mood
+[1:19:59] State abnormality of depression that
+[1:20:01] lasts for several years or who has been
+[1:20:04] chronically anxious for several years
+[1:20:07] and I'll come back to why I think that
+[1:20:09] distinction is is relevant for a second
+[1:20:11] to your point though about the
+[1:20:13] relationship with sleep here again it's
+[1:20:15] a very strong bidirectional relationship
+[1:20:18] and I would say that probably in the
+[1:20:20] last eight or nine years we've been
+[1:20:22] doing a considerable amount of work can
+[1:20:24] sleep in anxiety rather than just sleep
+[1:20:26] in basic emotional
+[1:20:29] reactivity what we found is it's very
+[1:20:31] strongly
+[1:20:32] bidirectional that if you have anxiety
+[1:20:36] it's very difficult to sleep and if you
+[1:20:39] are having difficulty sleeping it's very
+[1:20:43] likely that you will increase your
+[1:20:45] anxiety but before we really unpacked
+[1:20:48] that we started with a a very basic
+[1:20:50] study similar to those we've described
+[1:20:53] we took a group of people and we were
+[1:20:55] very careful to make sure that they had
+[1:20:57] um completely normative levels of
+[1:20:59] anxiety they showed no signs of an
+[1:21:01] anxiety related disorder and by the way
+[1:21:04] anxiety disorders are it seems one of if
+[1:21:08] not the most common of all psychiatric
+[1:21:10] conditions just to put it in context for
+[1:21:12] people listening and these individuals
+[1:21:15] no signs of anxiety disorders whatsoever
+[1:21:17] they were normative and then we had them
+[1:21:20] go through a full night of sleep or we
+[1:21:23] then sleep deprived them and the next
+[1:21:27] day we were measuring their anxiety and
+[1:21:29] in those people who were sleep deprived
+[1:21:32] we were actually measuring the level of
+[1:21:34] anxiety every hour so we could almost
+[1:21:36] get this timelapse photography of what
+[1:21:39] happened to the anxiety state as it
+[1:21:42] unfolded across the sleep deprivation
+[1:21:44] period it wasn't a linear response that
+[1:21:48] the more and more hours that you were
+[1:21:49] awake Beyond
+[1:21:51] 16 the more exponential
+[1:21:55] that rise in anxiety became so it wasn't
+[1:21:59] simply a linear dose response curve it
+[1:22:01] was an exponential meaning that there
+[1:22:02] was this hockey shaped swing up and in
+[1:22:05] fact by the next morning compared to
+[1:22:08] when you'd had a full night of sleep
+[1:22:11] those individuals were so anxious that
+[1:22:14] almost 50% of the participants in that
+[1:22:17] group who had no signs of anxiety before
+[1:22:19] had a level of anxiety that was so
+[1:22:23] strong that they would reach the
+[1:22:24] diagnostic threshold for having an
+[1:22:26] anxiety disorder and that was simply by
+[1:22:30] way of the absence of
+[1:22:32] sleep but again that brought me back to
+[1:22:35] this notion of this is a good
+[1:22:39] experimental tool for us scientists to
+[1:22:41] understand what is the benefit of sleep
+[1:22:43] when it's present and the absence of
+[1:22:45] sleep when it's not by taking sleep
+[1:22:47] completely out of the equation by way of
+[1:22:48] total deprivation but of course that's
+[1:22:51] not real life so we did a slightly
+[1:22:53] different study
+[1:22:55] here what we did was we tracked
+[1:22:57] individuals essentially in the wild as
+[1:22:59] it were just going about their daily
+[1:23:01] lives and we had different sleep
+[1:23:02] tracking monitor uh monitoring equipment
+[1:23:05] on them so we were tracking their sleep
+[1:23:08] from one night to the next to the next
+[1:23:09] to the next and from one day to the next
+[1:23:12] to the next we were tracking their level
+[1:23:14] of anxiety and what we found here was
+[1:23:17] that even small perturbations in their
+[1:23:20] sleep from one night to the next to the
+[1:23:24] next
+[1:23:25] accurately predicted the increase or
+[1:23:28] decrease in their anxiety from one day
+[1:23:30] to the next to the next what was the
+[1:23:33] critical ingredient here well in the
+[1:23:35] first experiment I'd essentially
+[1:23:37] manipulated both quantity and quality
+[1:23:40] the two qqs of the qqr had removed the
+[1:23:44] quantity of sleep and also they had no
+[1:23:46] quality of sleep why because they had no
+[1:23:48] quantity of sleep but when we looked at
+[1:23:52] that day to day to day night to night
+[1:23:54] toight study it wasn't quantity that was
+[1:23:57] the best predictor it wasn't shortening
+[1:24:00] of quantity that determined next day
+[1:24:03] increases in anxiety it was quality the
+[1:24:06] worse the quality was night to night to
+[1:24:08] night the worse their anxiety
+[1:24:11] became so that started to lead us to
+[1:24:13] think a lot more about what is it
+[1:24:16] regarding the quality of sleep that
+[1:24:18] seemed to offer when it was present what
+[1:24:22] I would describe as an angio itic
+[1:24:24] benefit in other words it's lessening
+[1:24:26] anxiety a lack of sleep is an anxiogenic
+[1:24:30] it's going to produce anxiety what in
+[1:24:32] sleep is
+[1:24:34] anxiolytic we started off with a
+[1:24:36] hypothesis that was profoundly incorrect
+[1:24:39] we thought well for emotions which are
+[1:24:42] these short bursts of um of affective
+[1:24:45] state it was REM sleep that seemed to be
+[1:24:48] the Principal ingredient well wouldn't
+[1:24:50] that be the case for mood States well
+[1:24:53] here with anxiet it wasn't it was deep
+[1:24:56] non-rm sleep and we couldn't get away
+[1:24:57] from it and so what we found was that
+[1:25:00] when we looked at the sleep in the
+[1:25:01] laboratory and asked what was predictive
+[1:25:05] from the night before so you measure
+[1:25:07] your anxiety the night before and then
+[1:25:09] we measure it the next morning and
+[1:25:11] basically we calculate a change score
+[1:25:13] has your anxiety the next morning
+[1:25:15] increased stayed the same or decreased
+[1:25:17] and then we correlate that with the
+[1:25:18] different stages and what we found was
+[1:25:21] that the electrical quality of your deep
+[1:25:25] nonrem sleep was very much
+[1:25:29] predictive of your dissipation of
+[1:25:32] anxiety
+[1:25:34] overnight and this helped me realize
+[1:25:36] gosh it's much more complex these are
+[1:25:39] beautiful surprises you get from
+[1:25:40] research when you you have like you have
+[1:25:43] this hypothesis and you look at you see
+[1:25:44] REM sleep no signal of predictive
+[1:25:47] relationship with anxiety and I say of
+[1:25:49] course because I'm idiotic rerun the
+[1:25:53] analysis just go back to Raw data and
+[1:25:56] you know the r sleep signal was so
+[1:25:58] strong rerun the analysis and you get
+[1:26:01] exactly the same result it's deep non-rm
+[1:26:03] sleep great okay then what is that deep
+[1:26:06] non-rm sleep doing to help dissipate the
+[1:26:10] anxiety but here again was a commonality
+[1:26:13] with emotion what we found is that the
+[1:26:15] greater the amount of Deep non-rm Sleep
+[1:26:17] the greater the re-engagement of your
+[1:26:20] frontal lobe was the next day and that
+[1:26:23] was predicting the dissipation of your
+[1:26:26] anxiety the next morning so we really
+[1:26:30] started to understand this sort of
+[1:26:32] critical bidirectional relationship but
+[1:26:34] it was a very complex one that yes
+[1:26:37] anxiety can disrupt your sleep and yes
+[1:26:41] disrupted sleep can predict your next
+[1:26:43] day anxiety but it wasn't the same stage
+[1:26:46] of sleep that we thought before it was
+[1:26:49] the the opposite it was deep non-rm
+[1:26:51] sleep what we've come to realize is that
+[1:26:54] deep nonr sleep in part seems to be
+[1:26:57] almost shifting you from that
+[1:27:00] sympathetic State over to the
+[1:27:02] parasympathetic state it seems to engage
+[1:27:06] that nice rest and digest it seems to
+[1:27:09] reduce your heart rate it seems to drop
+[1:27:12] levels of cortisol and we think that
+[1:27:15] perhaps is a resetting brain body
+[1:27:18] literally an embodied mechanism by way
+[1:27:21] of Deep non-r Sleep helping you just
+[1:27:25] relieve that anxiety pressure so it does
+[1:27:29] come back to your question which is yes
+[1:27:31] quantity if I manipulated quality if I
+[1:27:34] manipulated regularity or timing
+[1:27:36] manipulate any one of those I can change
+[1:27:38] your anxiety but the story coming
+[1:27:40] through here if anything was that it
+[1:27:42] wasn't quantity it was quality I told
+[1:27:45] you that from one night to the next to
+[1:27:47] the next the quality of your sleep that
+[1:27:50] we were measuring was predictive of your
+[1:27:53] anxiety and then when we bring you into
+[1:27:54] the laboratory and we look at the
+[1:27:55] electrical activity of your brain I also
+[1:27:59] mentioned in that episode on the first
+[1:28:01] episode another way we measure quality
+[1:28:04] is not just subjectively what's going on
+[1:28:06] or objectively what is the efficiency of
+[1:28:08] your sleep is it filled with lots of
+[1:28:10] Awakenings which was the measure that we
+[1:28:12] used in the day-to-day study and night
+[1:28:13] to night study but we looked at the
+[1:28:15] electrical quality of your sleep once
+[1:28:18] again it was quality that was predicting
+[1:28:20] it it's something about getting good
+[1:28:22] continuous sleep that is replete with
+[1:28:26] this deep non-rem electrical brain
+[1:28:28] activity that provides an angiolytic
+[1:28:31] benefit to your brain the next day and I
+[1:28:34] think it's strategic CU so many of us
+[1:28:36] deal with
+[1:28:37] anxiety and some of us would prefer not
+[1:28:41] to necessarily be on medication or even
+[1:28:43] look to that well here again is a
+[1:28:45] strategic tool think about your sleep it
+[1:28:48] really does seem to be a buffer for
+[1:28:50] anxiety along those lines maybe you can
+[1:28:53] just recap a few of the things covered
+[1:28:55] in previous episodes that are known to
+[1:28:58] improve the quality and quantity of Deep
+[1:29:01] nonm Sleep
+[1:29:04] um I can think of a couple but I'm
+[1:29:07] you're the expert here um not rush to
+[1:29:09] judgment on that one well I think it's
+[1:29:11] an established fact uh which is why
+[1:29:13] you're here um so let's
+[1:29:16] um perhaps list a few of those off in
+[1:29:19] the domains of you know exercise
+[1:29:20] temperature Etc what what what would you
+[1:29:22] place in that you know is there top
+[1:29:24] three like three greatest hits for uh
+[1:29:27] for improving deep non-rem sleep for uh
+[1:29:30] because of its important relationship to
+[1:29:34] anxiety management or reducing anxiety I
+[1:29:36] think there are the first thing I would
+[1:29:38] tell you is that regularity is going to
+[1:29:42] be key here when you are giving your
+[1:29:44] brain the signals of regularity it
+[1:29:46] understands exactly how to instigate
+[1:29:49] that that deep sleep and that's one of
+[1:29:53] the two qualitative measures of sleep
+[1:29:56] that I spoke about so QQ the quality the
+[1:29:59] second Q I spoke about it's regarding
+[1:30:02] the continuity of your sleep and the
+[1:30:04] electrical quality of your sleep
+[1:30:06] regularity is probably best for the
+[1:30:09] continuity of your sleep if you're very
+[1:30:12] irregular with the timing of your sleep
+[1:30:14] your brain almost doesn't know you know
+[1:30:16] are we on are We off are we on and we
+[1:30:18] off and your sleep can become quite
+[1:30:20] fragmented because it's confused based
+[1:30:22] on regularity when you give it
+[1:30:24] regularity sleep starts to become more
+[1:30:27] stable more stable means that it's less
+[1:30:30] likely to be littered with Awakenings
+[1:30:32] meaning that it's better quality of
+[1:30:34] sleep in terms of electrical quality of
+[1:30:37] sleep we did mention this um in a prior
+[1:30:40] episode when we spoke about sort of food
+[1:30:42] and exercise exercise seems to be one of
+[1:30:45] those things that's very good at
+[1:30:47] improving the quality of your deep sleep
+[1:30:50] and here I'm talking about the
+[1:30:52] electrical quality of your deep sleep
+[1:30:55] try to make sure that you're physically
+[1:30:58] active to a degree and and I think this
+[1:31:00] is a protocol and I think it's a
+[1:31:02] meaningful protocol but to go so to the
+[1:31:04] extreme where I would to say you need to
+[1:31:06] do at least 32 and a half minutes on a
+[1:31:10] spin bike at this wattage or you know we
+[1:31:12] can't prescribe quite at that point you
+[1:31:15] know scientific prescription not MediCal
+[1:31:17] and so I would say exercise is one then
+[1:31:19] we spoke about another which was
+[1:31:21] temperature and we said that getting
+[1:31:24] your bedroom cool seems to be a way to
+[1:31:26] promote the increase in deep sleep so
+[1:31:30] these are two dos which is get regular
+[1:31:34] get cool the don'ts we've already spoken
+[1:31:37] a little bit about too one of the things
+[1:31:39] that I probably didn't mention enough
+[1:31:41] with alcohol not only does it seem to
+[1:31:45] compromise your rapid eye movement sleep
+[1:31:48] but it will fragment your sleep it will
+[1:31:50] make your sleep more unstable and an
+[1:31:52] indirect consequence of that is alcohol
+[1:31:55] is going to be in highest concentrations
+[1:31:58] in your system after drinking in the
+[1:32:00] evening with sleep in the first four to
+[1:32:02] 5 hours now that depends on how quickly
+[1:32:04] you metabolize it and how much you've
+[1:32:06] had but let's assume some degree of
+[1:32:08] standardization in other words I said
+[1:32:10] that alcohol will not just block your M
+[1:32:12] sleep it will fragment your sleep makes
+[1:32:14] your sleep more vulnerable to you waking
+[1:32:16] up well you're especially vulnerable in
+[1:32:19] the first four or so hours because
+[1:32:21] that's when alcohol concentration is
+[1:32:23] highest in your system and therefore the
+[1:32:25] first 4 hours can also fall prey to the
+[1:32:28] greatest culling of your sleep quality
+[1:32:32] and if you're removing or restricting
+[1:32:34] some of that quality in the first four
+[1:32:36] hours what type of sleep are you
+[1:32:38] principally restricting you're
+[1:32:39] restricting deep sleep because we've
+[1:32:41] said deep sleep comes in the first half
+[1:32:43] dream sleep REM sleep in the second half
+[1:32:46] so don'ts would be try to stay away from
+[1:32:50] you know excessive alcohol in the
+[1:32:52] evening we also know that Al alcohol is
+[1:32:54] associated
+[1:32:55] with longer term chronic anxiety and the
+[1:33:00] tragedy is that it's often used as a way
+[1:33:02] to blunt the anxiety because alcohol is
+[1:33:05] a sedative and it can help just
+[1:33:08] alleviate take you know take the edge
+[1:33:10] off but it's a short-term quote unquote
+[1:33:13] win for a long-term loss because overall
+[1:33:16] it will increase anxiety levels so I
+[1:33:18] would say those are some dos and perhaps
+[1:33:20] a don't if you want to try to optimize
+[1:33:23] your sleep quality quality including the
+[1:33:25] Integrity of your sleep and also the
+[1:33:27] electrical quality of your sleep
+[1:33:29] terrific I think um because so many
+[1:33:32] people struggle with anxiety ranging
+[1:33:34] from mild to severe anxiety the tips you
+[1:33:36] just provided are going to be immensely
+[1:33:39] beneficial and in addition to that the
+[1:33:42] previous four episodes that we've
+[1:33:44] recorded for this series each and all
+[1:33:46] include tools that is protocols for
+[1:33:50] improving the Q qrt aspects of sleep so
+[1:33:54] um all the more reason for people to uh
+[1:33:56] dig into those and and to glean the the
+[1:33:58] gems that you've laid out for people
+[1:34:00] because they're they really are very
+[1:34:03] actionable and um you know most all
+[1:34:06] perhaps even all of the tools that we've
+[1:34:07] discussed in those episodes are zero
+[1:34:10] cost they require a little bit of time
+[1:34:11] investment some um thought and
+[1:34:14] consideration but they're not really
+[1:34:16] that difficult to implement they just
+[1:34:18] require a little bit of um being one's
+[1:34:21] own scientist of self and being your own
+[1:34:23] own Corner when it comes to sleep and
+[1:34:25] another lowcost method that we um
+[1:34:27] mentioned was not just temperature in
+[1:34:30] terms of keeping your room cool but warm
+[1:34:33] bath or shower before bed I mentioned
+[1:34:36] improved sleep but one of the things
+[1:34:38] that improves most is deep non-rm sleep
+[1:34:41] so there's another technique get your
+[1:34:43] room cool to go into but warm up to cool
+[1:34:46] down to fall asleep which then keeps you
+[1:34:49] cool so that you stay asleep and you'll
+[1:34:51] get more deep sleep very
+[1:34:55] fantastic although it's a terribly um uh
+[1:35:00] unhappy
+[1:35:02] topic suicide is a is an important topic
+[1:35:05] for us to to cover here um you know I
+[1:35:07] can think of few things more tragic than
+[1:35:10] suicide um and yet sadly it U it
+[1:35:14] accompanies certain uh psychiatric
+[1:35:16] conditions I think um people with manic
+[1:35:19] bipolar have a 20 to 30 times greater um
+[1:35:23] probability of suicide than others but
+[1:35:25] you know suicide accompanies major
+[1:35:28] depression anxiety PTSD you know again
+[1:35:31] it's it's um a tough topic to to get
+[1:35:33] into um but an important one to get into
+[1:35:36] what is the relationship between
+[1:35:38] suicidality and sleep um and I suppose
+[1:35:43] we could look at this from the
+[1:35:44] perspective of to what degree does sleep
+[1:35:47] deprivation um correlate with suicide or
+[1:35:50] attempted suicides and what sort of inoc
+[1:35:53] ulatory effects does um sleep provide
+[1:35:56] towards
+[1:35:57] suicide unfortunately we don't know much
+[1:35:59] about the second part of the question
+[1:36:01] which is how can sleep be used as a risk
+[1:36:05] mitigating tool when you know that there
+[1:36:08] is the risk of suicide in place um
+[1:36:11] there's been a number of people who are
+[1:36:12] doing this work including my colleague
+[1:36:14] Allison Harvey again at uh the
+[1:36:15] University of uh of California Berkeley
+[1:36:18] and Sher Johnson who's also there too I
+[1:36:21] would say though that the first question
+[1:36:23] is is quite answerable which is what do
+[1:36:25] we know firstly about how a lack of
+[1:36:28] sleep can impact suicide some of the
+[1:36:31] earliest data that we found were
+[1:36:32] associational relationships what we
+[1:36:35] found is that short sleep or poor
+[1:36:37] quality of sleep predicted three things
+[1:36:41] it
+[1:36:42] predicted suicidal ideation meaning that
+[1:36:46] you had thoughts of
+[1:36:47] suicide bad sleep seemed to predict
+[1:36:50] suicide attempts and then tragically
+[1:36:54] more recent data a lack of sleep
+[1:36:56] predicts suicide
+[1:36:59] completion and what makes me think more
+[1:37:02] causely about it and we've been trying
+[1:37:03] to get some grants and we've failed to
+[1:37:05] do so so far to do more of this work
+[1:37:07] because I'm I'm just so compelled by it
+[1:37:09] and you're right it's one of the most
+[1:37:11] tragic
+[1:37:14] situations those sleep relationships
+[1:37:16] aren't simply happening at the same
+[1:37:19] moment in time what I mean is that the
+[1:37:21] sleep disturbance that we see
+[1:37:25] precedes the onset of having suicidal
+[1:37:29] thoughts it precedes the onset of
+[1:37:31] suicide attempt and it precedes the
+[1:37:35] suicide completion so what this has been
+[1:37:38] teaching me is I've been looking at the
+[1:37:40] data and we've looked at a little bit of
+[1:37:41] our own data sleep disruption when it
+[1:37:44] comes to suicide is almost the canary in
+[1:37:46] the coal mine it's almost like a tragic
+[1:37:49] crystal ball that when you see that
+[1:37:52] sleep start starting to
+[1:37:54] dismantle it is a foreshadowing sign of
+[1:37:58] a very dark series of events that will
+[1:38:03] unfold in other words could we now start
+[1:38:06] to think and this is one of the things
+[1:38:07] that we want to do is sleep a biomarker
+[1:38:11] is sleep disruption I should say a
+[1:38:13] biomarker for upcoming suicide risk
+[1:38:17] before it begins the idea of finding a
+[1:38:20] biomarker or collection of biomarkers
+[1:38:22] for SU side I think is one of the more
+[1:38:25] important missions of Neuroscience Ai
+[1:38:27] and mental health uh generally there's a
+[1:38:30] brilliant young researcher up at the
+[1:38:31] University of Washington named Sam
+[1:38:33] golden he's um spent a lot of his career
+[1:38:36] studying animal models of um aggression
+[1:38:40] um and rage um and of course some forms
+[1:38:45] of suicide are thought to be forms of
+[1:38:47] self-directed aggression and rage it
+[1:38:50] makes sense um some forms of suicide
+[1:38:52] perhaps are different I don't think we
+[1:38:54] quite understand what suicide represents
+[1:38:58] in the brain just yet and I think
+[1:38:59] they're having spoken to Paul kti and
+[1:39:02] and others about suicide um it's clear
+[1:39:06] that there are unfortunately many paths
+[1:39:08] to Suicide there's in one brain State
+[1:39:11] nonetheless um Sam's laboratory has been
+[1:39:14] developing tools that help people with
+[1:39:18] Suicidal Tendencies or people who have
+[1:39:21] had suicidal ideation or plans in the
+[1:39:24] past um with these AI based tools where
+[1:39:28] it detects changes in their
+[1:39:30] voice in their sleep patterns and in a
+[1:39:34] few other metrics that I don't recall
+[1:39:37] that together become very good
+[1:39:38] predictors of um later suicidal ideation
+[1:39:42] so the idea here is that um people who
+[1:39:45] are prone to Suicide um often don't
+[1:39:48] realize that they're drifting that way
+[1:39:50] until it can sadly be too late so um
+[1:39:54] the point here is uh a biomarkers are
+[1:39:57] key B these biomarkers are being
+[1:39:59] developed uh C AI is critical but that
+[1:40:02] according to Sam um changes in sleep
+[1:40:04] patterns is absolutely Central to these
+[1:40:08] algorithms for allowing people to detect
+[1:40:10] their own um potential for suicide I
+[1:40:13] think it's it's critical and we've
+[1:40:15] thought about this when we started to
+[1:40:16] see these sleep signals that were
+[1:40:18] preemptive that were almost precognitive
+[1:40:20] in the sense of of prediction
+[1:40:24] occurred to me that we're at the stage
+[1:40:26] of
+[1:40:27] technological
+[1:40:29] Evolution that if we get consent to many
+[1:40:32] individuals who become
+[1:40:34] suicidal are they are interested in some
+[1:40:38] degree of
+[1:40:39] support and we often but of course some
+[1:40:42] people will just recoil and go into
+[1:40:46] themselves and that's that's when things
+[1:40:47] can get very problematic as well but it
+[1:40:51] would require some degree of consenting
+[1:40:53] that if you have a history of suicide
+[1:40:57] adiation in the past what if you were to
+[1:40:59] be able to consent and say I would like
+[1:41:01] to risk mitigate and you have a wearable
+[1:41:04] like a watch and that watch is connected
+[1:41:08] to your phone and there is a signal that
+[1:41:11] can come from your watch that dials a
+[1:41:14] series of phone numbers in order of
+[1:41:16] preference and when your watch starts to
+[1:41:19] detect that your sleep has this one the
+[1:41:23] things we really want to understand is
+[1:41:24] what is the specific signature of sleep
+[1:41:27] abnormalities it's not just that your
+[1:41:29] sleep gets short but is it that your
+[1:41:32] sleep gets long and then short and then
+[1:41:34] long and then short but it constantly
+[1:41:36] has poor quality of sleep and the
+[1:41:39] regularity is all over the place but the
+[1:41:41] chronotype timing is still in place what
+[1:41:44] sort of specific pattern of those things
+[1:41:48] is the Hallmark that is most predictive
+[1:41:51] of suicide let's say that I can come up
+[1:41:53] with that algorithm finally and then we
+[1:41:56] can implement it into a watch or a
+[1:41:59] tracking device of some sort and when it
+[1:42:01] starts to see that pattern it's
+[1:42:03] constantly pattern matching and it
+[1:42:06] starts to see that across whatever
+[1:42:08] number of days we say if you see this
+[1:42:10] across six nights or across 13 nights
+[1:42:14] this is serious it then triggers that
+[1:42:19] phone to send a message to those
+[1:42:22] individuals who the designated support
+[1:42:24] carers and those people then reach out
+[1:42:27] and start to say how are you doing would
+[1:42:31] you like to have a phone call can I come
+[1:42:33] over can I make you some food and I'd
+[1:42:36] love to have a chat with you can you
+[1:42:38] find a way to bootstrap a condition
+[1:42:41] where you constantly then otherwise
+[1:42:43] become asocial or antisocial and lose
+[1:42:46] all support network so that would be the
+[1:42:49] the sort of the grandiose idea the other
+[1:42:52] thing that's very interesting is that we
+[1:42:54] could measure their activity and their
+[1:42:57] wakefulness at night and the reason I
+[1:42:59] bring this up is some great work by
+[1:43:01] Michael peus and U Michael grandner
+[1:43:05] who've looked at
+[1:43:07] suicide um both attempts and suicide
+[1:43:10] completion across the 24-hour period
+[1:43:13] it's not constant it's not that you see
+[1:43:16] suicide ideation and suicide attempts
+[1:43:19] and completion in a distributed manner
+[1:43:22] equally across the 24-hour period when
+[1:43:25] do they principally occur they occur in
+[1:43:27] the late middle of the night and there's
+[1:43:31] this almost a four to five hour period
+[1:43:34] you know somewhere on average and again
+[1:43:36] it's just an average somewhere between
+[1:43:38] let's say 1 a.m. and 4 a.m. which it
+[1:43:41] turns out to be right at the lowest dip
+[1:43:44] of your Cadian Rhythm and it could be
+[1:43:45] Cadian Rhythm but I also think that
+[1:43:48] there's something about of course the
+[1:43:50] night ESS when no one else is around
+[1:43:53] around and it is just you bad point
+[1:43:56] number one second as we've spoken about
+[1:43:59] before on this episode negative thoughts
+[1:44:03] are 10 times worse in the darkness of
+[1:44:06] night than they are in the light of
+[1:44:11] day and third at that point if you're
+[1:44:15] awake you're not asleep and we know
+[1:44:18] sleep is providing this balast to your
+[1:44:21] mental health so on all three of those
+[1:44:24] counts you see this very strong spike in
+[1:44:27] suicide ideation suicide attempt and
+[1:44:31] also suicide completion in this
+[1:44:33] bewitching hour in the middle of the
+[1:44:35] night there's a final piece in the
+[1:44:37] suicide story though that is only just
+[1:44:40] emerging if you are not getting
+[1:44:42] sufficient sleep you are somewhere
+[1:44:44] between two to three times more likely
+[1:44:47] to go into that suicidal state which is
+[1:44:51] a very significant number however when
+[1:44:55] people started to measure another factor
+[1:44:58] of sleep and particularly dream sleep
+[1:45:01] which was the dream content itself it
+[1:45:05] became even more predictive and we've
+[1:45:07] not really seen this very much in
+[1:45:09] psychiatric conditions but what they
+[1:45:11] found was that instead of using your
+[1:45:13] sleep disruption or your lack of sleep
+[1:45:15] as a predictor of your suicide risk we
+[1:45:18] use nightmares as a predictor of your
+[1:45:21] suicide risk that predictive value that
+[1:45:24] risk went from about two to three times
+[1:45:27] more likely to somewhere between 5 to8
+[1:45:31] times more likely there is something
+[1:45:34] special going on with bad dreams and
+[1:45:38] specifically nightmares that is even
+[1:45:41] more predictive than this physiological
+[1:45:44] thing that we call Sleep itself and
+[1:45:47] we'll probably come on to maybe some of
+[1:45:48] the reasons why dreaming and
+[1:45:50] particularly nightmares in the next
+[1:45:52] episode on dreaming could explain
+[1:45:55] exactly why that is but it's a new
+[1:45:57] finding I don't think we can say much
+[1:45:59] more about it now but it is one of the
+[1:46:02] most I think novel findings in the
+[1:46:04] psychiatric sleep story that now dreams
+[1:46:08] have come above and beyond simply sleep
+[1:46:12] itself as a predictor of mental illness
+[1:46:15] and specifically a form that will take
+[1:46:17] your life tragically very
+[1:46:20] quickly when I think about depression
+[1:46:23] I immediately associate that with
+[1:46:26] excessive amounts of
+[1:46:28] sleep after all it's called depression
+[1:46:31] but what is the real link between major
+[1:46:34] depression which is you know the
+[1:46:37] classical um you know signs of you know
+[1:46:40] mala's um one of the Hallmark features
+[1:46:43] also being a uh a lack of optimism about
+[1:46:47] the future or Andor ability to sense
+[1:46:51] into the future that's what it's not the
+[1:46:53] only criteria um when Dr Carl daero the
+[1:46:57] great neuroscientist that he is was on
+[1:46:59] this podcast and of course he's also a
+[1:47:02] practicing clinical psychiatrist I when
+[1:47:04] we were talking about depression he
+[1:47:06] mentioned that another Hallmark of major
+[1:47:08] depression is people waking up at 2: or
+[1:47:11] 3:00 a.m. and not being able to fall
+[1:47:13] back asleep um this just seems like a
+[1:47:15] recipe for disaster all around um that
+[1:47:18] the very condition that you're trying to
+[1:47:21] perhaps amarate with additional sleep is
+[1:47:24] preventing you from sleeping it's like I
+[1:47:27] couldn't imagine very cruel is a whole a
+[1:47:29] whole lot of things more diabolical um
+[1:47:31] in terms of the sleep sleep science so
+[1:47:34] what's the relationship between sleep
+[1:47:35] and depression and how how should one um
+[1:47:37] untangle that like seemingly gordi and
+[1:47:41] not it
+[1:47:43] is like the other conditions
+[1:47:46] bidirectional that depression can
+[1:47:49] disrupt sleep very much and disrupted
+[1:47:51] sleep can trigger depression depression
+[1:47:54] is interesting by the way some people
+[1:47:56] have conceptualized it as being
+[1:47:58] different to anxiety based in some ways
+[1:48:01] on memory which is that when you think
+[1:48:03] about anxiety people consider anxiety a
+[1:48:07] disorder of the future that you are
+[1:48:09] constantly worried about what's coming
+[1:48:12] up in the future I I didn't do this
+[1:48:14] today so I need to do that tomorrow and
+[1:48:16] then I've got that other thing next week
+[1:48:19] or I'm fearful of going out to see them
+[1:48:21] tomorrow I just I'm fearful of taking
+[1:48:24] that flight tomorrow it seems to be so
+[1:48:27] much about prospective future whereas
+[1:48:31] other people have suggested depression
+[1:48:32] is the opposite it's about rumination of
+[1:48:35] the past I went through this event I had
+[1:48:38] this bereavement I had this painful
+[1:48:41] divorce I just can't get over my past
+[1:48:46] now I don't necessarily know if that's
+[1:48:48] entirely true but it it is interesting
+[1:48:52] in the sense that both of those abnormal
+[1:48:55] prospection worry of the future and
+[1:48:58] abnormal
+[1:49:00] retrospection sort of ruminating on the
+[1:49:03] past seem to disrupt sleep before um you
+[1:49:07] continue I just wanted to drill into
+[1:49:09] that that idea just a little bit because
+[1:49:11] I think it's a really interesting one
+[1:49:13] worth exploring again I'm no
+[1:49:15] psychiatrist but I have heard and I've
+[1:49:18] experienced the I've had a depression I
+[1:49:20] think it's my understanding is it's
+[1:49:22] normal for um people to experience a
+[1:49:24] major depressive episode at some point
+[1:49:26] in their lives could be situationally
+[1:49:28] triggered or not but that um for others
+[1:49:33] Unfortunately they have repeating major
+[1:49:36] depressive episodes and hopefully some
+[1:49:39] people go through life never having had
+[1:49:40] a depressive episode but as I recall
+[1:49:43] that one of the more Salient um thought
+[1:49:45] patterns was that I used to have
+[1:49:48] something that somehow was lost and I
+[1:49:50] couldn't quite figure out what it was it
+[1:49:52] was this curring feeling of right like
+[1:49:55] things were on track and then they got
+[1:49:57] off track but not being able to to tack
+[1:49:59] the uh progression from on track to off
+[1:50:01] track to one particular event it was
+[1:50:03] this sort of sense that like I had
+[1:50:05] something that them was lost now
+[1:50:06] fortunately for me it eventually lifted
+[1:50:08] uh and you know it didn't get um
+[1:50:10] dangerously bad um but I I've had some
+[1:50:13] close friends who've gone through
+[1:50:16] individual or several major depressions
+[1:50:18] and I I hear this like this idea that
+[1:50:20] they had they had it or they think
+[1:50:22] something was there that then they lost
+[1:50:24] so I think I I agree with well if you
+[1:50:26] think about the word that you just used
+[1:50:28] had is about right it's it's about it's
+[1:50:32] the past right right it's past tense
+[1:50:35] right and then if if we apply the
+[1:50:36] criteria that is is indeed part of the
+[1:50:39] criteria for determining if somebody has
+[1:50:41] major depression which is a lack of
+[1:50:43] optimistic outlook on the future one can
+[1:50:45] see how one could be very much stuck in
+[1:50:47] the present and focused on the past and
+[1:50:48] you know just stuck in that spin cycle
+[1:50:51] um anyway we're not here to um to uh
+[1:50:54] decide what depression is or isn't in
+[1:50:56] every case but I I'm I'm not a
+[1:50:59] psychiatrist either right but but I
+[1:51:01] think this distinction between anxiety
+[1:51:03] being about the future in a way that
+[1:51:05] disrupts one's present and depression
+[1:51:07] being about often the past in a way that
+[1:51:09] disrupts one's sense of the present and
+[1:51:12] the future um makes a lot of sense it's
+[1:51:14] just a a nice um not nice it's
+[1:51:16] unfortunate but it's a um it could be a
+[1:51:20] useful a useful contextualization yeah
+[1:51:23] thank you and I to your question though
+[1:51:26] about sleep it's it's been a little bit
+[1:51:30] interesting with depression firstly what
+[1:51:32] we know is that depression will disrupt
+[1:51:35] your sleep and make your sleep shorter
+[1:51:37] and it comes back to um your comment
+[1:51:39] from uh from Carl from Carl di we often
+[1:51:43] see that patients will have problems
+[1:51:46] staying asleep they wake up in the
+[1:51:47] middle of the night they can't get back
+[1:51:49] to sleep it's
+[1:51:51] problematic and therefore their sleep
+[1:51:53] duration and their Sleep Quality
+[1:51:56] decrease however on the other hand there
+[1:51:58] is an interesting question by the way of
+[1:52:00] can you get too much sleep which I
+[1:52:03] should probably come back as there's a
+[1:52:04] whole episode to do on that probably but
+[1:52:07] one of the places where we see quote
+[1:52:09] unquote too much sleep is in the
+[1:52:12] depression literature and it's a
+[1:52:14] condition that we call hypersomnia in
+[1:52:17] other words increased or excessive
+[1:52:19] degrees of sleep hypersomnia here but a
+[1:52:24] a great PhD student at Berkeley looked
+[1:52:28] at the data um Kate Kaplan who's a
+[1:52:30] fantastic um cognitive behavioral
+[1:52:32] therapist now and a clinical
+[1:52:34] psychologist looked a little bit at the
+[1:52:36] data and others have looked at this
+[1:52:39] too when you examine what people were
+[1:52:42] asking those patients where there is
+[1:52:45] this conclusion that patients with
+[1:52:47] depression can sleep too long really
+[1:52:50] what they were asking in those studies
+[1:52:51] was what time you go to bed and what
+[1:52:54] time do you wake up and there what you
+[1:52:57] clearly find is that people with
+[1:52:59] depression will be in bed for
+[1:53:01] significantly longer periods of time and
+[1:53:04] the inference there and you could argue
+[1:53:07] almost the conflation is that if you're
+[1:53:10] in bed for longer then you're sleeping
+[1:53:11] for longer and therefore depression is a
+[1:53:14] condition of
+[1:53:16] hypersomnia but when people looked at
+[1:53:18] this a little bit more in a nuanced way
+[1:53:20] and asked a different question what time
+[1:53:22] did you go to sleep and what time did
+[1:53:24] you wake up that hypersomnia phenomenon
+[1:53:27] is nowhere near as strong as you would
+[1:53:30] have been led to believe otherwise from
+[1:53:32] the what time did you go to bed and what
+[1:53:34] time did you wake up and I think part of
+[1:53:37] the reason comes back to depression as a
+[1:53:40] condition when you think about
+[1:53:42] depression one of the aspects one of the
+[1:53:44] features is that you're depressed to the
+[1:53:47] point where you just don't want to
+[1:53:49] interact with the world and what better
+[1:53:52] place to spend if that's your mentality
+[1:53:55] than this thing called bed I just don't
+[1:53:57] want to get out of bed I'm just going to
+[1:54:00] stay here and lie in bed I'm awake I'm
+[1:54:01] not asleep and so we don't quite know
+[1:54:04] yet if depression is a condition that is
+[1:54:08] associated with long sleep we certainly
+[1:54:10] Know It's associated with short sleep
+[1:54:11] and disrupted sleep or that is
+[1:54:14] masquerading as this thing called
+[1:54:16] hypersomnia but when you really look at
+[1:54:18] the data it's not quite so clear
+[1:54:23] that was the first peculiarity in
+[1:54:26] depression that there could be this
+[1:54:28] Paradox of yes long sleep but also not
+[1:54:31] enough sleep too short sleep one of the
+[1:54:33] earliest findings in depression and
+[1:54:35] sleep and has been quite well replicated
+[1:54:38] is a change in REM sleep but now it
+[1:54:41] wasn't necessarily that individuals who
+[1:54:44] had depression slept or had excessive
+[1:54:48] amounts of REM sleep they had a little
+[1:54:50] bit more what was interesting is that
+[1:54:53] when that REM sleep emerged during the
+[1:54:56] night was much earlier and in the first
+[1:54:59] episode I was telling you that when you
+[1:55:01] your head hits the pillow you go down to
+[1:55:03] the light stages of nonr then into the
+[1:55:05] deeper stages and then maybe after about
+[1:55:07] 50 60 70 80 minutes you'll pop up and
+[1:55:10] you'll have your short REM sleep period
+[1:55:12] but that first REM sleep period in
+[1:55:15] people with depression seem to have been
+[1:55:18] called up by the brain abnormally or not
+[1:55:22] much earlier so it's what we call REM
+[1:55:25] sleep latency from the moment that you
+[1:55:28] fell asleep what is the time what is the
+[1:55:31] latency of the first arrival of REM
+[1:55:34] sleep and that REM sleep latency was
+[1:55:37] significantly shorter in those people
+[1:55:40] with depression Ram sleep was arriving
+[1:55:42] earlier now it's hard because you can
+[1:55:45] argue and this is these are the most
+[1:55:47] dangerous hypotheses you can argue both
+[1:55:49] sides of it you can say well perhaps
+[1:55:51] that's because Matt you also spoke to me
+[1:55:54] that REM sleep may be important for some
+[1:55:56] aspects of the emotional brain and when
+[1:55:58] you are depressed the brain knows that
+[1:56:01] REM sleep is required and it calls it up
+[1:56:04] on the menu of the series of dishes that
+[1:56:07] you're going to be served earlier on in
+[1:56:10] the night because it's needed more
+[1:56:14] significantly the other and that's the
+[1:56:16] adaptive theory the other is the
+[1:56:18] maladaptive Theory which is that
+[1:56:21] arriving with your REM sleep too early
+[1:56:24] does not do your brain good things and
+[1:56:27] therefore it's some abnormality of
+[1:56:30] emotional
+[1:56:31] processing the data that's interesting
+[1:56:34] there is that if you look at some
+[1:56:37] anti-depressants many of them will
+[1:56:39] either delay the onset of REM sleep or
+[1:56:42] they will reduce it significantly now
+[1:56:44] there's a huge debate about the efficacy
+[1:56:47] and the utility of anti-depressants and
+[1:56:49] I I don't have a horse in that race and
+[1:56:51] I don't know know enough about that
+[1:56:52] literature to comment I would simply say
+[1:56:55] though that it's at least intriguing to
+[1:56:57] me that some
+[1:56:59] medications that are commonly prescribed
+[1:57:02] as anti-depressants will alter
+[1:57:04] specifically rem's sleep and push it
+[1:57:07] later or try to reduce it down and that
+[1:57:11] would fit with the maladaptive
+[1:57:13] hypothesis that this arrival of REM
+[1:57:16] sleep so early in depression and perhaps
+[1:57:18] having a little too much REM sleep isn't
+[1:57:20] optimal and when you push back against
+[1:57:22] that with pharmacology I.E
+[1:57:24] anti-depressants you seem to get some
+[1:57:26] degree of resolution or reduction in the
+[1:57:30] depression
+[1:57:31] symptomatology again I don't think we've
+[1:57:34] we clearly understand
+[1:57:36] that the another strange thing that is
+[1:57:40] has been often cited to me many times
+[1:57:43] about sleep and depression is a
+[1:57:46] literature that suggests that if you
+[1:57:49] deprive people of sleep which time and
+[1:57:51] again in this episode we've said leads
+[1:57:53] to bad outcomes for mental health it
+[1:57:56] does exactly the opposite in depression
+[1:57:59] that if you sleep deprive a depressed
+[1:58:02] patient you get a resolution of the
+[1:58:06] depression and that is the claim that's
+[1:58:08] often made to me now it is a very clear
+[1:58:11] set of data in the literature but there
+[1:58:14] are two potential concerns with it the
+[1:58:17] first concern is that not all patients
+[1:58:20] respond to sleep deprivation in fact if
+[1:58:22] you look at the data it's somewhere
+[1:58:24] between 30 to 55% of patients will be
+[1:58:28] responders to sleep depravation the
+[1:58:31] other proportion of those patients don't
+[1:58:33] respond or if anything get worse when
+[1:58:36] you sleep deprive them and then the
+[1:58:38] question is well how would you know and
+[1:58:41] right now and there have been some brain
+[1:58:42] Imaging studies some pet studies done
+[1:58:44] way back at UC irine U and other
+[1:58:47] locations where they were trying to say
+[1:58:49] is there something about the metabolic
+[1:58:50] activity of your brain that can predict
+[1:58:52] if you're a responder or not sleep
+[1:58:55] deprivation because at least then we
+[1:58:57] would know who should we push through
+[1:58:59] this quote unquote treatment and who
+[1:59:01] should we not because it's going to be
+[1:59:03] bad for them that's the first issue and
+[1:59:06] we don't have a clear understanding the
+[1:59:08] second issue is that as soon as those
+[1:59:11] patients with depression sleep after the
+[1:59:13] deprivation the anti-depressant benefit
+[1:59:16] goes away and they go right back to
+[1:59:18] being depressed again so yes it's a
+[1:59:21] mechanistic interesting process what is
+[1:59:24] it about sleep deprivation that could
+[1:59:26] alleviate depression and I'll explain
+[1:59:28] why I think it
+[1:59:29] can but it's not a sustainable one it's
+[1:59:32] not a clinically viable
+[1:59:35] one why would it have that effect if it
+[1:59:40] does well you and I discussed earlier in
+[1:59:42] this episode that when you are sleep
+[1:59:44] deprived not only does your emotional
+[1:59:46] brain become much more responsive to
+[1:59:48] negative things also becomes much more
+[1:59:50] responsive to rewarding
+[1:59:52] positive things and one of the
+[1:59:54] interesting things that I think people
+[1:59:56] mistake about depression they just think
+[1:59:58] that when I'm depressed I have sad mood
+[2:00:01] I have negative mood that's not entirely
+[2:00:04] true one of the principal features of
+[2:00:07] depression is something that we call
+[2:00:09] anhedonia which is an absence of having
+[2:00:12] the ability to have honic responses in
+[2:00:15] other words you can't get pleasure from
+[2:00:18] normally pleasurable things it's not an
+[2:00:21] issue about sliding down to the negative
+[2:00:24] it's the absence of being able to
+[2:00:27] experience the positive that puts you on
+[2:00:30] a track towards depression and what you
+[2:00:32] and I discussed earlier in this episode
+[2:00:34] is some of the work that we've been
+[2:00:35] doing where when you sleep deprive
+[2:00:37] individuals but you show them very
+[2:00:39] rewarding based stimuli they become much
+[2:00:42] more reward sensitive and perhaps this
+[2:00:45] is why patients will respond to sleep
+[2:00:48] deprivation with depression because
+[2:00:50] they're too far away from that positive
+[2:00:52] end of the spectrum they're not reward
+[2:00:55] sensitive enough they don't get a
+[2:00:57] positive good feeling now if you're
+[2:00:59] someone who is healthy and you're sleep
+[2:01:01] deprived you go too far in the reward
+[2:01:04] direction and you become vulnerable to
+[2:01:06] reward and sensation seeking but if
+[2:01:08] you're depressed and you're shifted to
+[2:01:10] sort of away from that and sleep
+[2:01:13] deprivation brings you back closer to a
+[2:01:16] normative reward-based
+[2:01:18] reactivity maybe that's the reason why
+[2:01:20] you get this anti-press present benefit
+[2:01:23] and why when you start sleeping again
+[2:01:25] you take away that enhanced reward
+[2:01:28] sensitivity and you lose the
+[2:01:31] anti-depressant benefit so I think we
+[2:01:34] still don't know enough
+[2:01:37] about depression and sleep yet if you
+[2:01:40] were to ask me of the four quantity
+[2:01:42] quality regularity and timing which
+[2:01:45] would be
+[2:01:47] ideal I would say all four are
+[2:01:50] definitely players but timing may have
+[2:01:52] some of the best evidence because it's
+[2:01:55] not just about sleep when it comes to
+[2:01:57] depression it's also about your
+[2:01:59] circadian rhythm that if you are not
+[2:02:02] aligned with your natural chronotype
+[2:02:04] your natural 24-hour Rhythm Cadian
+[2:02:08] misalignment when you fall out of
+[2:02:10] synchrony with your natural chronotype
+[2:02:13] is a strong predictor of depression so
+[2:02:17] if there is an actionable item first it
+[2:02:20] would be to say from a big picture
+[2:02:22] perspective understand that sleep is one
+[2:02:26] of
+[2:02:28] the least
+[2:02:31] painful available options for you as a
+[2:02:34] no cost to try to stabilize your mental
+[2:02:37] health now I'm not suggesting that all
+[2:02:39] psychiatric conditions are Sleep
+[2:02:42] Disorders that's not true and I'm not
+[2:02:44] suggesting that you should stop simply
+[2:02:47] at the place of getting your sleep
+[2:02:49] straight to help with your mental
+[2:02:52] conditions not at all I am saying
+[2:02:55] however that if you do get your sleep
+[2:02:57] straight it's only going to help and may
+[2:02:59] help quite a significant amount based on
+[2:03:03] the data but when it comes to depression
+[2:03:05] I would say of those four qqr T there's
+[2:03:08] very strong emerging data that Cadian
+[2:03:11] misalignment not matching your
+[2:03:13] chronotype to the time when you are
+[2:03:15] sleeping and the time you are awake is
+[2:03:18] one of the strongest factors so if you
+[2:03:20] want to say I can't do all of them Matt
+[2:03:22] I can't do all of this Q qrt nonsense
+[2:03:25] just tell me one of them to start with I
+[2:03:27] would say don't worry we'll get to the
+[2:03:29] three others let's just start with
+[2:03:30] getting your timing right let's
+[2:03:33] understand what type you are take the um
+[2:03:35] go online you can take one of these
+[2:03:37] tests the um meq the morningness
+[2:03:40] eveningness questionnaire you can just
+[2:03:41] Google it it's free you can we'll
+[2:03:43] provide a link to it in the show note
+[2:03:44] caption that's great um understand what
+[2:03:46] type you are and then try to understand
+[2:03:49] based on what time I'm currently
+[2:03:51] Awakening sleep is it matched is it
+[2:03:53] mismatched and if it's mismatched try to
+[2:03:55] see what you can do with your lifestyle
+[2:03:57] accommodating of course to match that
+[2:04:00] things will more than likely start there
+[2:04:03] getting
+[2:04:04] better along those lines um and if I may
+[2:04:08] uh I'd like to just mention a recent
+[2:04:10] study that I think dovetails with what
+[2:04:13] you just said beautifully and seems
+[2:04:15] highly actionable to me this was a study
+[2:04:17] published in um nature mental health
+[2:04:21] which is a relatively new Journal um but
+[2:04:25] it involved exploring the light exposure
+[2:04:29] and dark exposure patterns of I believe
+[2:04:31] it was more than 80,000 individuals I'll
+[2:04:33] have to go back and check that but what
+[2:04:35] was interesting is that um when they
+[2:04:38] looked at light exposure in particular
+[2:04:41] sunlight exposure and they looked at
+[2:04:43] Darkness exposure across the 24-hour
+[2:04:46] schedule what they concluded was that
+[2:04:50] there was a near linear relationship
+[2:04:52] between the amount of light that one
+[2:04:54] gets in the morning and throughout the
+[2:04:56] day and reduction in mental
+[2:04:59] health challenges at the in terms of
+[2:05:02] depression PTSD there were a few others
+[2:05:05] some of the effects were less robust for
+[2:05:08] certain psychiatric conditions than they
+[2:05:10] were for say depression what was equally
+[2:05:12] interesting is that Darkness the absence
+[2:05:14] of light turned out to be as important a
+[2:05:17] variable as light during the day Made
+[2:05:20] Simple
+[2:05:22] if people tended to be in dim or dark
+[2:05:24] light at night they experien reductions
+[2:05:27] in their suicidal depressive anxiety and
+[2:05:31] PTSD symptoms independent of how much
+[2:05:34] light they were getting during the day
+[2:05:36] so what this says is get as much light
+[2:05:38] as one can possibly and safely get in
+[2:05:41] their eyes by the way in the morning and
+[2:05:43] throughout the day and then do one's
+[2:05:45] very best to be in very dim or dark
+[2:05:48] environments at night yeah and even goes
+[2:05:51] so far as to say that if you didn't get
+[2:05:54] sunlight during the day then you would
+[2:05:57] be especially well off being in a very
+[2:05:59] dark environment at night and it's
+[2:06:01] independent so don't worry yes it's
+[2:06:03] always good to get that daylight but
+[2:06:05] what that paper also teaches us is that
+[2:06:09] because those things can be independent
+[2:06:11] you can still get some benefit even if
+[2:06:14] though you've not made it good on your
+[2:06:16] daylight during the day getting that
+[2:06:18] Darkness at night is still going to be
+[2:06:20] beneficial and I should probably resolve
+[2:06:23] what some people may think of as
+[2:06:24] confusing we spoke about for example
+[2:06:26] suicide risk and it being highest in
+[2:06:29] that in the the depths of the Darkness
+[2:06:31] at night I think what's clear from that
+[2:06:33] paper comes on to one of the fundamental
+[2:06:37] conventional tips that we spoke about in
+[2:06:40] how to optimize your sleep not just an
+[2:06:42] unconventional but the conventional
+[2:06:44] which was I told you we are a dark
+[2:06:46] deprived society and we need Darkness at
+[2:06:49] night to help keep our sleep regular so
+[2:06:53] the sort of the the r in the Q
+[2:06:56] qrt and I think there in that paper the
+[2:06:59] inference of course is that if you're
+[2:07:01] getting dark at night it's going to give
+[2:07:03] you a nice sleep onset signal so that
+[2:07:07] you are asleep at night in the darkness
+[2:07:11] and that sleep at night in the darkness
+[2:07:13] provides this beneficial you know sort
+[2:07:16] of not immunization but at least
+[2:07:20] pallative help to certain psychiatric
+[2:07:22] conditions we're not suggesting that
+[2:07:25] Darkness at night if you're awake at
+[2:07:27] night however is beneficial that seems
+[2:07:30] to be not beneficial um but it was such
+[2:07:33] a a great paper and very elegant in how
+[2:07:36] it dissected the independent nature of
+[2:07:39] these things which fits very well with I
+[2:07:41] think your mission in part in life both
+[2:07:44] as a scientist and as an educator which
+[2:07:46] is how can I curate information gather
+[2:07:49] it together and give you some type of
+[2:07:52] actionable boots on the ground feet in
+[2:07:54] the trenches advice as to what to do it
+[2:07:57] was a great paper um so thank you for
+[2:07:59] bringing it up yeah I only wish I had
+[2:08:01] done that study but I'm so glad that
+[2:08:03] others did one thing that's been helpful
+[2:08:05] to me to um encourage uh more darkness
+[2:08:09] and dim light at night uh for myself in
+[2:08:11] my home environment is to think about uh
+[2:08:15] artificial photons coming from
+[2:08:17] artificial sources as sort of um empty
+[2:08:19] calories
+[2:08:22] and how sunlight provided one isn't
+[2:08:24] getting a burn and you know people
+[2:08:26] debate uh you know how best to do that
+[2:08:27] physical barrier everyone agrees on
+[2:08:29] certain sunscreens are are safer than
+[2:08:31] others some are very safe some are
+[2:08:33] perhaps less safe in any event the point
+[2:08:35] is
+[2:08:36] that trying to make one's home
+[2:08:38] environment dark at night is in my mind
+[2:08:41] now uh akin to trying to avoid eating
+[2:08:44] sugary uh you know non-nutritious
+[2:08:47] calories at night as well it just lends
+[2:08:49] itself to a a um just overall feelings
+[2:08:53] of well-being improved sleep and of
+[2:08:54] course improved daytime wakefulness and
+[2:08:57] then getting sunlight even on uh through
+[2:09:00] cloud cover in one's eyes early in the
+[2:09:02] day and as much as as safely possible
+[2:09:05] throughout the day and if one can't get
+[2:09:07] sunlight getting light from Bright
+[2:09:09] artificial sources um seems to be the
+[2:09:11] best alternative um but I think there's
+[2:09:14] this asymmetry of Light Dark requirement
+[2:09:16] in the same way that I think most
+[2:09:18] everyone agrees that eating during one's
+[2:09:20] active hours of the day is going to be
+[2:09:22] the best way to go as opposed to eating
+[2:09:23] during the Ina less active hours of of
+[2:09:26] the late night and um and certainly
+[2:09:28] prior to sleep such a good point and
+[2:09:31] since it's only you and I here and no
+[2:09:33] one else watching and witnessing this I
+[2:09:35] am thoroughly going to steal that phrase
+[2:09:37] of junk light and help educate people
+[2:09:40] because that's a perfect description
+[2:09:42] it's like empty photons yeah you've all
+[2:09:44] heard of junk food well there's
+[2:09:46] something called Junk light and if you
+[2:09:48] get you know your whole foods during the
+[2:09:51] day just like you get your whole kind of
+[2:09:54] encompassed light during the day that's
+[2:09:57] great but then if you start binging on
+[2:10:00] junk light at night it's profoundly
+[2:10:04] deleterious to your sleep and everything
+[2:10:06] that sleep depends on it's lovely so
+[2:10:10] when people hear me in future um public
+[2:10:13] spheres talking about junk light you
+[2:10:15] know where it came from I will give you
+[2:10:17] full credit it's a delightful statement
+[2:10:19] because I I may have I may have lifted
+[2:10:21] from somebody else inadvertently um we
+[2:10:23] all stand on the shoulders of other
+[2:10:25] Giants that's right or other Twitter
+[2:10:27] accounts or something like that well I
+[2:10:28] place myself firly uh underneath a
+[2:10:30] pedestal but yes we all try to stand on
+[2:10:33] those shoulders of giants well wherever
+[2:10:35] you place yourself the the information
+[2:10:37] that that uh emerges from you and that
+[2:10:39] emerged today is absolutely spectacular
+[2:10:42] uh you know I can't think of topics U
+[2:10:44] more interesting and important then
+[2:10:46] emotion regulation anxiety PTSD suicide
+[2:10:50] sadly depress all all these things are
+[2:10:53] are tragic challenges that but they are
+[2:10:56] a real part of of Life some argue even
+[2:11:00] more so nowadays perhaps even because of
+[2:11:03] um the Advent of so much artificial
+[2:11:04] light and smartphone use in the middle
+[2:11:06] of the night who knows it's um I think
+[2:11:08] it's reasonable to assume it's at least
+[2:11:10] one variable today you've provided a ton
+[2:11:14] of depth of understanding about why
+[2:11:18] sleep and these mental health and
+[2:11:20] emotional states are linked just a
+[2:11:22] really clear logical framework for both
+[2:11:25] the non-rem sleep and and REM sleep and
+[2:11:28] how it impacts mood and and reactivity
+[2:11:30] during the daytime and also some really
+[2:11:32] actionable tools um to improve one's
+[2:11:36] mental health and emotion emotionality
+[2:11:38] excuse me um and in addition to that
+[2:11:41] we'll refer people back to episodes 1
+[2:11:43] two 3 and four all of which include
+[2:11:46] tools to improve every aspect of sleep
+[2:11:48] and to really really nail down the QQ
+[2:11:50] art T that quality do you put quality
+[2:11:54] first or quantity quantity quantity I'm
+[2:11:55] just making sure that Q qrt to really
+[2:11:58] nail down the quantity quality
+[2:11:59] regularity and timing of sleep um we can
+[2:12:02] no longer consider sleep just uh 6 to
+[2:12:04] eight hours or get your nine hours or
+[2:12:06] get your um get your seven hours clearly
+[2:12:09] there are other variables involved and
+[2:12:11] you've made those variables very clear
+[2:12:13] to us and you've given us the road map
+[2:12:16] to plug in the best variables for
+[2:12:18] ourselves so thank you Matt ever so much
+[2:12:21] thank you for allowing me to both um
+[2:12:24] voice and narrate the important story of
+[2:12:26] sleep in mental health it's something
+[2:12:28] I'm immensely passionate about both from
+[2:12:30] a personal perspective but also from a
+[2:12:33] professional um research perspective
+[2:12:35] thank you for this opportunity well
+[2:12:37] again thank you Matt and I'm very much
+[2:12:39] looking forward to the sixth installment
+[2:12:43] in this series on sleep which is about a
+[2:12:46] topic that everybody is fascinated with
+[2:12:49] which is dreaming I know you're going to
+[2:12:51] tell us about dreams and what they mean
+[2:12:53] perhaps what they don't mean uh we'll
+[2:12:55] get into dream interpretation of all
+[2:12:57] things lucid dreaming and much much more
+[2:13:01] so I really look forward to that
+[2:13:02] discussion in episode 6 thank you for
+[2:13:05] joining me for today's episode with Dr
+[2:13:07] Matthew Walker to learn more about Dr
+[2:13:09] Walker's research and to learn more
+[2:13:11] about his book and his social media
+[2:13:12] handles please see the links in our show
+[2:13:14] note captions if you're learning from
+[2:13:16] Andor enjoying this podcast please
+[2:13:18] subscribe to our YouTube channel that's
+[2:13:20] a terrific zero cost way to support us
+[2:13:22] in addition please subscribe to the
+[2:13:24] podcast on both Spotify and apple and on
+[2:13:26] both Spotify and apple you can leave us
+[2:13:28] up to a festar review please also check
+[2:13:31] out the sponsors at the beginning and
+[2:13:32] throughout today's episode that's the
+[2:13:34] best way to support this podcast if you
+[2:13:36] have any questions for me or comments
+[2:13:38] about the podcast or topics or guests
+[2:13:40] that you'd like me to feature on the
+[2:13:41] hubman Lab podcast please put those in
+[2:13:43] the comment section on YouTube I do read
+[2:13:45] all the comments on many episodes of The
+[2:13:48] hubman Lab podcast we discuss
+[2:13:49] supplements while supplements aren't
+[2:13:51] necessary for everybody many people
+[2:13:53] derive tremendous benefit from them for
+[2:13:54] things like improving sleep for hormone
+[2:13:56] support and for Focus to learn more
+[2:13:58] about the supplements discussed on the
+[2:13:59] hubman loud podcast go to live momentus
+[2:14:02] spelled o us that's Liv mous.com
+[2:14:05] huberman if you're not already following
+[2:14:07] me on social media I'm hubman lab on all
+[2:14:09] social media platforms so that's
+[2:14:11] Instagram X LinkedIn Facebook and
+[2:14:14] threads and on all those platforms I
+[2:14:16] discuss science and science related
+[2:14:18] tools some of which overlaps with the
+[2:14:19] content of the hubman Lab podcast
+[2:14:21] but much of which is distinct from the
+[2:14:23] content covered on the hubman Lab
+[2:14:24] podcast so again it's hubman lab on all
+[2:14:26] social media platforms if you haven't
+[2:14:28] already subscribe to our neural network
+[2:14:30] newsletter our neural network newsletter
+[2:14:32] is a zeroc cost newsletter that provides
+[2:14:34] podcast summaries as well as protocols
+[2:14:36] in the form of brief one to three-page
+[2:14:38] PDFs that cover everything from
+[2:14:40] neuroplasticity and learning to sleep to
+[2:14:42] deliberate cold exposure and deliberate
+[2:14:44] heat exposure we have a foundational
+[2:14:46] Fitness protocol and much more all of
+[2:14:48] which again is completely zero cost you
+[2:14:50] simply go to to hubman lab.com go to the
+[2:14:52] menu tab scroll down to newsletter and
+[2:14:55] by supplying your email you can
+[2:14:56] subscribe I want to point out that we do
+[2:14:58] not share your email with anybody thank
+[2:15:00] you once again for joining me for
+[2:15:01] today's discussion all about sleep with
+[2:15:03] Dr Matthew Walker and last but certainly
+[2:15:06] not least thank you for your interest in
+[2:15:08] science
+[2:15:11] [Music]

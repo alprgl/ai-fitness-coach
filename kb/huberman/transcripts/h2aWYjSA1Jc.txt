@@ -1,0 +1,3971 @@
+# Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing
+# id=h2aWYjSA1Jc published=2022-08-08 lang=en generated=False
+
+[0:00:00] - Welcome to The Huberman Lab Podcast,
+[0:00:01] where we discuss science
+and science-based tools
+[0:00:04] for everyday life.
+[0:00:06] [bright music]
+[0:00:09] I'm Andrew Huberman
+[0:00:10] and I'm a professor of
+neurobiology and ophthalmology
+[0:00:13] at Stanford School of Medicine.
+[0:00:15] Today we're talking all about sleep
+[0:00:17] and how to optimize your sleep.
+[0:00:19] This is a topic we've covered
+previously on this podcast
+[0:00:22] in the episode called "Master Your Sleep."
+[0:00:24] However, since the airing of that episode,
+[0:00:27] there's been some terrific
+new science to come out.
+[0:00:29] I've also received thousands,
+[0:00:31] yes, literally thousands of questions
+[0:00:33] related to the specific
+protocols covered in that episode
+[0:00:36] as well as in the episode
+on jet lag and shift work.
+[0:00:39] And while today's episode
+[0:00:40] is not specifically about
+jet lag and shift work,
+[0:00:43] we are going to cover tools
+[0:00:44] that will allow you to shift your schedule
+[0:00:46] if you need to for work or travel,
+[0:00:49] and we will also cover tools
+[0:00:51] that will allow you to fall back asleep
+[0:00:53] if you happen to wake up
+in the middle of the night
+[0:00:55] or if you get a poor night's sleep,
+[0:00:56] how to actually recover
+[0:00:57] from that poor night's sleep more quickly,
+[0:00:59] and yes, indeed, even replace
+sleep that you've lost.
+[0:01:03] So today's episode is going to be filled
+[0:01:05] with practical tools.
+[0:01:06] We will touch on some of
+the underlying science,
+[0:01:08] but it's really designed
+to be a practical toolkit
+[0:01:11] for optimizing your sleep
+[0:01:13] depending on your specific sleep needs.
+[0:01:15] Various times throughout today's episode,
+[0:01:17] I will refer to studies that
+form the backbone of the tools
+[0:01:20] that I'll be describing.
+[0:01:21] But whereas most of the
+podcast episodes here
+[0:01:24] tend to be deep scientific
+mechanism and then tools,
+[0:01:27] scientific mechanism, then tools,
+[0:01:28] today I'm mainly going to
+focus on the practical tools
+[0:01:32] that anyone, indeed, all
+people, I believe, should use
+[0:01:35] in order to optimize their sleep.
+[0:01:36] Why should everybody want
+to optimize their sleep
+[0:01:39] and put considerable effort
+into optimizing their sleep?
+[0:01:42] Well, put simply, sleep is the foundation
+[0:01:45] of mental health, physical health,
+[0:01:47] and performance of all kinds,
+[0:01:48] cognitive performance, physical
+performance, et cetera.
+[0:01:50] It also controls things
+like our immune system,
+[0:01:53] wound healing, our skin
+health and our appearance,
+[0:01:57] whether or not we can
+think clearly or not,
+[0:01:59] whether or not we will live as long
+[0:02:01] as we possibly can or not,
+[0:02:03] whether or not we suffer
+[0:02:05] from dramatic age-related
+cognitive decline or not.
+[0:02:08] In other words, whether or not
+we keep our memory as we age.
+[0:02:11] I could go on and on
+[0:02:12] about all the terrible things
+that can happen to somebody
+[0:02:15] if they don't sleep well.
+[0:02:17] Thanks to the great work
+of Professor Matt Walker
+[0:02:20] at University of California, Berkeley,
+[0:02:22] and the wonderful book that
+he wrote, "Why We Sleep,"
+[0:02:24] I think the world is largely onboard now
+[0:02:27] that sleep is critical to our health,
+[0:02:29] our mental health, our physical
+health, and our performance,
+[0:02:31] but what's not often discussed
+is how great life is,
+[0:02:35] that is, how much more
+focused and energetic
+[0:02:38] and how positive our mood gets,
+[0:02:39] when we are sleeping for the
+appropriate amount of time
+[0:02:42] at the appropriate depth
+[0:02:44] and when we are doing that regularly.
+[0:02:46] Basically everything in life gets better
+[0:02:47] when we're sleeping well.
+[0:02:48] So today I'm going to teach you the tools
+[0:02:50] that will allow you to
+optimize your sleep.
+[0:02:53] That is, get to sleep and stay asleep,
+[0:02:55] fall back asleep if you wake
+up in the middle of the night,
+[0:02:58] and adjust your sleep
+[0:02:59] given the various life demands
+you may be experiencing.
+[0:03:02] I'm pleased to announce that
+The Huberman Lab Podcast
+[0:03:04] is now partnered with
+Momentous supplements.
+[0:03:06] We partnered with Momentous
+for several important reasons.
+[0:03:08] First of all, they ship internationally,
+[0:03:10] because we know that
+many of you are located
+[0:03:12] outside of the United States.
+[0:03:13] That's valuable.
+[0:03:15] Second of all, and perhaps most important,
+[0:03:17] the quality of their
+supplements is second to none,
+[0:03:19] both in terms of purity
+[0:03:20] and precision of the
+amounts of the ingredients.
+[0:03:23] Third, we've really emphasized supplements
+[0:03:25] that are single-ingredient supplements
+[0:03:27] and that are supplied in dosages
+[0:03:30] that allow you to build a
+supplementation protocol
+[0:03:33] that's optimized for cost,
+[0:03:34] that's optimized for effectiveness,
+[0:03:36] and that you can add things
+[0:03:38] and remove things from your protocol
+[0:03:39] in a way that's really
+systematic and scientific.
+[0:03:42] This is really hard to do
+[0:03:43] if you're taking blends
+of different supplements
+[0:03:45] or if the dosages are such
+that you can't titrate,
+[0:03:47] or that is, adjust the
+dosages of a given supplement.
+[0:03:51] So by using single-ingredient supplements,
+[0:03:53] you can really build
+out the supplement kit
+[0:03:55] that's ideal for you
+and your specific needs.
+[0:03:58] If you'd like to see the supplements
+[0:03:59] that we partner with Momentous on,
+[0:04:01] you can go to livemomentous.com/huberman.
+[0:04:04] There you'll see those supplements.
+[0:04:05] And just keep in mind that
+we are constantly expanding
+[0:04:07] the library of supplements
+available through Momentous
+[0:04:10] on a regular basis.
+[0:04:11] Again, that's livemomentous.com/huberman.
+[0:04:14] Before we begin, I'd like to emphasize
+[0:04:16] that this podcast is separate
+[0:04:17] from my teaching and
+research roles at Stanford.
+[0:04:19] It is, however, part
+of my desire and effort
+[0:04:21] to bring zero-cost-to-consumer information
+[0:04:23] about science and science-related tools
+[0:04:25] to the general public.
+[0:04:26] In keeping with that theme,
+[0:04:27] I'd like to thank the
+sponsors of today's podcast.
+[0:04:30] Our first sponsor is InsideTracker.
+[0:04:32] InsideTracker is a
+personalized nutrition platform
+[0:04:35] that analyzes data from your blood and DNA
+[0:04:38] to help you better meet your health goals.
+[0:04:40] I've long been a believer in
+getting regular blood work done
+[0:04:42] for the simple reason
+that many of the factors
+[0:04:45] that impact your immediate
+and long-term health
+[0:04:47] can only be analyzed from
+a quality blood test.
+[0:04:49] And nowadays, with the
+advent of modern DNA test,
+[0:04:52] you can also get insight
+[0:04:53] into, for instance, what
+your biological age is
+[0:04:55] and compare that to
+your chronological age.
+[0:04:57] And, of course, your biological age
+[0:04:59] is really the age that counts.
+[0:05:01] The problem with a lot of blood tests
+[0:05:02] and DNA tests out there, however,
+[0:05:04] is that you get information back
+[0:05:05] about the levels of metabolic factors,
+[0:05:07] lipids, hormones, et cetera,
+[0:05:08] but you don't know what to
+do with that information.
+[0:05:10] InsideTracker makes that
+all very easy to navigate.
+[0:05:13] They have a personalized platform.
+[0:05:15] So this is a web portal where you can go,
+[0:05:17] you'll see the numbers from
+your blood tests and DNA tests,
+[0:05:20] and then it will tell you, for instance,
+[0:05:21] how you could adjust various
+aspects of your nutrition
+[0:05:23] or your exercise or supplementation
+[0:05:25] in order to bring those numbers
+[0:05:27] into the ranges that are best for you.
+[0:05:29] If you'd like to try InsideTracker,
+[0:05:30] you can go to insidetracker.com/huberman
+[0:05:33] to get 20% off any of
+InsideTracker's plans.
+[0:05:36] That's insidetracker.com/huberman
+to get 20% off.
+[0:05:40] Today's episode is also
+brought to us by Eight Sleep.
+[0:05:42] Eight Sleep makes smart mattress covers
+[0:05:44] with cooling, heating, and
+sleep tracking capabilities.
+[0:05:47] It turns out that your body temperature
+[0:05:49] and your ability to fall and stay asleep
+[0:05:51] are very closely related.
+[0:05:53] If your body does not drop
+by one to three degrees,
+[0:05:56] you are simply not going
+to get into deep sleep
+[0:05:58] or stay in deep sleep.
+[0:06:00] And waking up, it also turns out,
+[0:06:02] is related to body temperature.
+[0:06:03] Every time you wake up in the morning,
+[0:06:05] your body is warming up
+in order to wake you up,
+[0:06:08] and this has an enormous number
+of hormonal and metabolic
+[0:06:10] and other cascades that
+are vitally important,
+[0:06:12] not just to what happens while you sleep,
+[0:06:14] but your health and your energy
+[0:06:15] and focus throughout the day.
+[0:06:17] Eight Sleep is an incredible device.
+[0:06:19] It's one that I've been
+using for six months or so,
+[0:06:22] and it's completely transformed my sleep.
+[0:06:23] And I already thought I
+was sleeping pretty well.
+[0:06:26] The way it works is that you
+can cool or heat your mattress
+[0:06:29] according to different
+times throughout the night.
+[0:06:32] So for instance, you
+can cool your mattress
+[0:06:34] if you tend to run warm
+[0:06:35] and that will help you
+fall and stay deeply asleep
+[0:06:37] and then toward morning,
+[0:06:38] you can have the mattress programmed
+[0:06:40] or, I should say, the
+mattress cover programmed,
+[0:06:42] so that you warm up your
+sleeping environment
+[0:06:44] and you wake up when you want to wake up.
+[0:06:46] If you've been sleeping pretty well
+[0:06:48] but waking up in the middle of the night,
+[0:06:49] you might also find
+[0:06:50] that by cooling your mattress even further
+[0:06:52] toward the middle of your sleep about,
+[0:06:54] well, you'll stay in
+deep sleep much longer.
+[0:06:57] If you'd like to try Eight Sleep,
+[0:06:58] you can go to eightsleep.com/huberman
+[0:07:00] to check out the Pod Pro Cover
+[0:07:02] and save $150 at checkout.
+[0:07:04] Eight Sleep currently ships
+[0:07:05] within the US, Canada,
+and the United Kingdom.
+[0:07:08] Again, that's eightsleep.com/huberman
+[0:07:10] to save $150 at checkout.
+[0:07:12] Today's episode is also
+brought to us by LMNT.
+[0:07:15] LMNT is an electrolyte drink
+that has everything you need
+[0:07:18] in order to get your brain and
+body to function at its best,
+[0:07:21] but none of the things you don't,
+[0:07:22] in particular, sugar.
+[0:07:23] Electrolytes are vitally important
+[0:07:25] to the way that your neurons,
+your nerve cells, work
+[0:07:27] and, indeed, to the way
+[0:07:28] that all the cells of your body work.
+[0:07:30] But your nervous system and your neurons
+[0:07:32] particularly depend on electrolytes
+[0:07:34] because you need the electrolytes,
+[0:07:36] sodium, magnesium, and potassium,
+[0:07:38] in the proper ratios,
+[0:07:39] in order for those nerve cells
+[0:07:40] to fire what are called action potentials,
+[0:07:42] which are the electrical signals
+[0:07:43] that allow your neurons to work
+[0:07:45] and to allow you to do everything
+[0:07:46] from remembering information
+[0:07:47] to moving your muscles deliberately.
+[0:07:50] When you exercise, or even if you don't,
+[0:07:52] you can get quite low on electrolytes,
+[0:07:54] especially on a hot day.
+[0:07:55] You can get dehydrated.
+[0:07:57] There are lot of different ways
+[0:07:58] to replenish your fluids and electrolytes
+[0:08:00] and there are a lot of different
+[0:08:01] electrolyte drinks out there,
+[0:08:03] but many of them contain a lot of sugar.
+[0:08:05] And some of those that
+don't contain a lot of sugar
+[0:08:07] don't have the proper ratios
+[0:08:09] of sodium, magnesium, and potassium.
+[0:08:10] If you'd like to try LMNT,
+[0:08:11] you can go to drinklmnt,
+that's L-M-N-T, .com/huberman
+[0:08:16] to claim a free LMNT Sample Pack
+[0:08:18] with your first purchase.
+[0:08:19] Again, that's drinklmnt.com/huberman
+[0:08:22] to claim a free sample pack.
+[0:08:24] Let's talk about sleep and
+tools to optimize your sleep.
+[0:08:28] I want you to conceptualize yourself
+[0:08:31] as contained within a room
+[0:08:34] that has only very few windows
+or very few entry points.
+[0:08:39] What do I mean by this?
+[0:08:40] Well, your brain and your
+nervous system control
+[0:08:44] whether or not you move or don't move.
+[0:08:45] They control whether or
+not you're digesting food
+[0:08:47] or you're not digesting food.
+[0:08:49] They control whether or not
+you're stressed or not stressed,
+[0:08:51] happy or sad, et cetera.
+[0:08:53] All of that stuff that
+controls all that stuff
+[0:08:57] is housed inside your
+skin and skull, et cetera.
+[0:09:00] That might seem pretty obvious,
+[0:09:02] but what that means is that
+for your brain and body
+[0:09:06] to feel alert and focused,
+[0:09:09] ready to move and
+exercise or do some work,
+[0:09:12] or if your brain body are going
+to lie down and go to sleep,
+[0:09:17] well, that brain and body
+needs cues, it needs inputs,
+[0:09:22] to determine when to do
+those different things.
+[0:09:25] And those cues and inputs arrive
+[0:09:28] through a defined set of
+what I'll call stimuli,
+[0:09:31] but you can also think of
+these as levers or tools.
+[0:09:33] The main levers and tools
+that are going to allow you
+[0:09:37] to control when you are
+awake and when you are asleep
+[0:09:40] and to get better sleep every single night
+[0:09:43] are light, literally
+photons, light energy,
+[0:09:48] could be from sunlight, could
+be from artificial light,
+[0:09:49] we will discuss those
+particulars in a moment,
+[0:09:52] as well as darkness.
+[0:09:55] That is the absence of light.
+[0:09:57] So we've got light and dark.
+[0:09:59] Those are two very powerful tools
+[0:10:02] to encourage your nervous system
+[0:10:03] to be in one state or another,
+[0:10:05] meaning awake or asleep.
+[0:10:07] Temperature is another tool or lever.
+[0:10:11] Turns out that when your
+body is cooling down,
+[0:10:14] you have a greater tendency
+to fall and stay asleep.
+[0:10:18] In fact, every night
+when you actually sleep,
+[0:10:21] your body is dropping
+by one to three degrees
+[0:10:23] and that drop in temperature is required.
+[0:10:26] It's like a gate that your
+body has to go through
+[0:10:29] in order for you to get into sleep.
+[0:10:31] And in fact, the converse is also true.
+[0:10:33] If your body heats up by
+one to three degrees or so,
+[0:10:37] you will wake up.
+[0:10:38] So you've got light,
+dark, temperature, food.
+[0:10:43] And when we say food,
+[0:10:45] we mean what we eat, when we eat,
+[0:10:48] and the amount that we eat.
+[0:10:51] Okay, so light, dark,
+temperature, food, exercise.
+[0:10:54] And of course, exercise
+comes in different forms.
+[0:10:56] We can do cardiovascular exercise
+[0:10:58] that can be low-intensity,
+long-distance exercise.
+[0:11:01] It can be high intensity,
+[0:11:03] so-called high intensity
+interval training.
+[0:11:05] It could be weight
+training. It could be yoga.
+[0:11:07] It could be swimming, any
+number of different activities.
+[0:11:09] But exercise, in general, causes
+[0:11:12] an increase in body temperature
+[0:11:14] and tends to make us more alert,
+[0:11:17] not just during the exercise,
+[0:11:18] but in the immediate
+hours after that exercise.
+[0:11:21] Exercise does some other things
+[0:11:23] that relate to our sleep as well
+[0:11:24] and we'll talk about those today
+[0:11:25] and how you can leverage them.
+[0:11:27] Another potent lever
+[0:11:28] for adjusting your sleepiness
+and wakefulness is caffeine.
+[0:11:33] This, of course, comes
+as no surprise to people,
+[0:11:36] but why and how caffeine works
+might come as a surprise.
+[0:11:40] Very briefly, we have a molecule
+[0:11:43] in our body called adenosine
+[0:11:45] and the longer we have been awake,
+[0:11:47] the more adenosine builds
+up in our brain and body
+[0:11:49] and adenosine is part of the
+reason why we get sleepy.
+[0:11:52] Caffeine effectively operates
+as a adenosine antagonist.
+[0:11:58] It works by basically occupying
+the receptor for adenosine.
+[0:12:01] So it's a little bit of
+a convoluted mechanism.
+[0:12:03] But basically all you need to know
+[0:12:05] is that caffeine prevents
+the actions of adenosine.
+[0:12:08] That's one of the reasons why
+caffeine makes us feel alert.
+[0:12:11] But how much caffeine we drink
+[0:12:12] and when we drink caffeine turns
+out to be vitally important
+[0:12:15] for adjusting our wakefulness
+[0:12:17] and for optimizing our sleep.
+[0:12:18] So we'll talk about that as well.
+[0:12:20] The other category of lever or tools
+[0:12:21] which are immensely powerful
+for optimizing sleep
+[0:12:24] are supplements.
+[0:12:26] There now exist as many as
+eight different supplements
+[0:12:29] that can powerfully modulate
+sleep in healthy ways
+[0:12:33] and that have huge margins for safety.
+[0:12:35] So we're going to talk about
+what those supplements are.
+[0:12:38] In previous episodes of this podcast
+[0:12:40] and as a guest on other podcasts,
+[0:12:42] I've talked about three
+particular supplements,
+[0:12:44] magnesium threonate,
+apigenin, and theanine,
+[0:12:48] which together can really enhance
+[0:12:50] the speed at which one falls asleep
+[0:12:52] and people's ability to stay asleep
+[0:12:54] and to really get into
+those deep stages of sleep
+[0:12:56] that are particularly restorative.
+[0:12:58] Today we're going to
+talk a little bit more
+[0:12:59] about each of those three
+[0:13:00] and how they can best
+be used in combination,
+[0:13:03] but we are also going to touch
+on some other supplements
+[0:13:05] that I have not talked about
+much before, if at all.
+[0:13:09] Things like glycine and
+GABA, as well as inositol.
+[0:13:13] Many people are going to
+find inositol interesting
+[0:13:15] and of particular use to them,
+[0:13:18] especially if they're following
+a low-carbohydrate diet
+[0:13:20] or if they are fasting before sleep
+[0:13:23] or just trying to avoid
+eating too close to bedtime
+[0:13:26] and yet they're having a
+hard time falling asleep.
+[0:13:29] Inositol also turns out
+to be especially useful
+[0:13:31] for people who have a tendency
+[0:13:32] to wake up in the middle of the night
+[0:13:34] and have a hard time falling back asleep.
+[0:13:36] It also has some interesting
+and potent effects
+[0:13:38] on anxiety throughout the day.
+[0:13:40] So we're going to talk about
+inositol as a tool as well.
+[0:13:43] And then last in our list
+of general categories
+[0:13:45] of levers and tools for optimizing sleep
+[0:13:48] are digital tools.
+[0:13:49] Now, when we say digital tools,
+[0:13:51] I don't necessarily mean devices.
+[0:13:52] What I mean are things like
+non-sleep deep rest scripts.
+[0:13:56] These are zero-cost
+scripts that you listen to
+[0:13:59] that take your body through
+some deep relaxation
+[0:14:01] and that can help people both
+fall asleep, stay asleep,
+[0:14:05] fall back asleep, and
+get better at sleeping.
+[0:14:07] And also going to talk about digital tools
+[0:14:10] related to self-hypnosis.
+[0:14:11] This is distinctly different
+from stage hypnosis.
+[0:14:14] So I know some of you hear
+hypnosis and you think,
+[0:14:16] oh, you know, people
+clucking like chickens
+[0:14:18] and doing things that are
+outside their control.
+[0:14:21] That's not at all what
+I'm referring to here.
+[0:14:22] I'm talking about clinically
+and research-supported tools
+[0:14:26] that have been shown to
+enhance people's ability
+[0:14:29] to fall and stay asleep
+[0:14:30] and that can get you
+far better at sleeping.
+[0:14:34] So again, to recap the
+list of levers and tools,
+[0:14:36] we've got light and dark,
+[0:14:38] and that includes the intensity of light,
+[0:14:40] the timing of light, et cetera.
+[0:14:41] We've got temperature.
+[0:14:42] We have food.
+[0:14:44] We have exercise, caffeine,
+supplements, and digital tools,
+[0:14:49] not just limited to devices,
+[0:14:50] but zero-cost tools that
+you can access on YouTube
+[0:14:54] and elsewhere in various apps
+[0:14:55] that can really help
+you optimize your sleep.
+[0:14:57] So today we're going to
+talk about all of these.
+[0:14:59] I really want to provide you
+as many tools as possible,
+[0:15:01] give you the logic behind
+each of those tools
+[0:15:03] and when and how best to apply them
+[0:15:05] so that you can develop the sleep toolkit
+[0:15:08] that's ideal for your sleep needs.
+[0:15:10] As we head into our description
+[0:15:12] of tools for optimizing sleep,
+[0:15:14] let's consider what the
+perfect 24-hour cycle
+[0:15:18] would look like.
+[0:15:19] Let's start this 24-hour cycle
+[0:15:21] with when you wake up in the morning.
+[0:15:23] So for some of you, that will be 5:00 a.m.
+[0:15:25] For others of you, that will be 10:00 a.m.
+[0:15:27] Most people, I believe, wake up
+[0:15:28] sometime between 6:30 a.m. and 8:30 a.m.
+[0:15:32] But regardless of when you
+wake up in the morning,
+[0:15:35] one of the first things that happens
+[0:15:36] is that your body
+temperature is increasing
+[0:15:39] and that's just going to happen naturally.
+[0:15:41] Some of it is going to be the consequence
+[0:15:43] of your moving around a bit,
+[0:15:45] but really the increase
+in body temperature
+[0:15:47] is one of the main triggers
+[0:15:49] for why you woke up in the first place.
+[0:15:52] That increase in body temperature
+in turn causes an increase
+[0:15:56] in the release of a
+hormone called cortisol.
+[0:15:58] Cortisol is often discussed
+as a stress hormone,
+[0:16:01] but it's not just associated with stress.
+[0:16:03] It also enhances your immune system
+[0:16:06] provided cortisol is
+elevated at the right times,
+[0:16:09] and the right time for
+cortisol to be elevated
+[0:16:11] is when you first wake up in the morning.
+[0:16:14] That increase in cortisol
+[0:16:15] is also going to increase metabolism.
+[0:16:18] It's also going to increase
+your ability to focus mentally
+[0:16:22] and for you to move your body.
+[0:16:24] So again, cortisol is often demonized
+[0:16:27] and consider this bad thing.
+[0:16:29] And indeed, you don't want cortisol
+[0:16:30] to be chronically or consistently elevated
+[0:16:33] throughout the day or night.
+[0:16:34] But you do want cortisol to
+reach its peak early in the day
+[0:16:38] right about the time you wake up.
+[0:16:40] One way that you can ensure
+[0:16:42] that that cortisol peak
+occurs early in the day
+[0:16:45] right about the time that you wake up
+[0:16:47] is to view bright light,
+ideally from sunlight,
+[0:16:50] within the first 30 to
+60 minutes after waking.
+[0:16:55] That's right, view bright sunlight
+[0:16:57] within the first 30 to
+60 minutes after waking.
+[0:17:01] I'll get into all the caveats
+[0:17:03] about what happens if you
+wake up before the sun is out,
+[0:17:05] what if you live in the
+UK where there is no sun,
+[0:17:07] or people claim there is no sun.
+[0:17:08] Hate to tell you this, folks,
+but there is sun in the UK.
+[0:17:11] We'll talk about all that.
+[0:17:13] But everybody, whether or not
+you live in a cloudy place
+[0:17:17] or a sunny place,
+[0:17:18] whether or not there's
+cloud cover or not that day,
+[0:17:20] should really strive to get
+bright light in your eyes,
+[0:17:24] ideally from sunlight,
+[0:17:25] within the first 30 to
+60 minutes after waking.
+[0:17:29] The reason for that is very simple.
+[0:17:31] You want to trigger that cortisol increase
+[0:17:33] to occur very early in your day,
+[0:17:37] and you don't want that
+cortisol peak to happen later,
+[0:17:39] which is what will happen
+[0:17:40] if you wait to get
+outside and see sunlight.
+[0:17:44] The reason for this
+[0:17:45] is that you have a set of
+neurons, nerve cells, in your eye.
+[0:17:49] They're called
+intrinsically photosensitive
+[0:17:50] melanopsin cells,
+[0:17:51] but you do not need to know that name.
+[0:17:53] Those neurons respond
+best to bright light,
+[0:17:56] and especially right after
+waking early in the day,
+[0:17:59] they are best able to
+signal to a set of neurons
+[0:18:02] that reside over the roof of your mouth
+[0:18:04] called the suprachiasmatic nucleus,
+[0:18:06] which is a cluster of neurons
+[0:18:07] that then sends a huge
+number of other signals,
+[0:18:10] electrical and chemical,
+[0:18:11] out to your entire body
+[0:18:12] that triggers that cortisol increase,
+[0:18:14] provides a wake-up signal
+for your brain and body,
+[0:18:16] and sets in motion a timer
+[0:18:19] for you to fall asleep later that night.
+[0:18:21] So again, we're not trying to go into
+[0:18:22] too much mechanism today.
+[0:18:24] We are trying to really hammer on tools
+[0:18:25] and I'll substantiate those tools
+[0:18:27] just a bit with some mechanism.
+[0:18:29] But here's what you do, or
+at least here's what I do.
+[0:18:31] I wake up in the morning and
+I want to reach for my phone,
+[0:18:34] but I know that even if I were
+to crank up the brightness
+[0:18:37] on that phone screen,
+[0:18:38] it's not bright enough to
+trigger that cortisol spike
+[0:18:42] and for me to be at my
+most alert and focused
+[0:18:45] throughout the day
+[0:18:46] and to optimize my sleep at night.
+[0:18:48] So what I do is I get out
+of bed and I go outside.
+[0:18:51] And if it's a bright, clear day
+[0:18:55] and the sun is low in the sky
+[0:18:57] or the sun is, you know,
+starting to get overhead,
+[0:18:59] what we call low solar angle,
+[0:19:00] then I know I'm getting
+outside at the right time.
+[0:19:05] If there's cloud cover
+and I can't see the sun,
+[0:19:08] I also know I'm doing a good thing
+[0:19:09] because it turns out,
+especially on cloudy days,
+[0:19:11] you want to get outside
+[0:19:12] and get as much light energy
+or photons in your eyes.
+[0:19:15] But let's say it's a very clear day
+[0:19:17] and I can see where the sun is.
+[0:19:19] I do not need to stare
+directly into the sun.
+[0:19:22] If it's very low in the
+sky, I might do that
+[0:19:25] because it's not going to
+be very painful to my eyes.
+[0:19:27] However, if the sun is
+a little bit brighter
+[0:19:30] and a little bit higher in the sky,
+[0:19:31] sometimes it could be painful to look at.
+[0:19:33] So the way to get this sunlight
+viewing early in the day
+[0:19:37] is to look toward the sun.
+[0:19:39] If it's too bright to look at directly,
+[0:19:42] well, then don't do that.
+[0:19:43] You just look toward it,
+but not directly at it.
+[0:19:45] It's absolutely fine to blink.
+[0:19:47] In fact, I encourage you to blink
+[0:19:49] whenever you feel the impulse to blink.
+[0:19:51] Never look at any light,
+sunlight or otherwise,
+[0:19:54] that's so bright that
+it's painful to look at
+[0:19:55] 'cause you can damage your eyes.
+[0:19:57] But for this morning sunlight viewing,
+[0:19:59] it's best to not wear sunglasses,
+[0:20:01] that's right, to not wear sunglasses,
+[0:20:04] at least for this
+morning sunlight viewing.
+[0:20:06] It is absolutely fine to wear
+eyeglasses or contact lenses,
+[0:20:11] so-called corrective lenses.
+[0:20:12] In fact, those will serve you well
+[0:20:14] in this practice or this tool
+[0:20:16] because they will focus the
+light onto your neural retina
+[0:20:18] and onto those melanopsin
+[0:20:19] intrinsically photosensitive
+ganglion cells.
+[0:20:21] If your eyeglasses or contact lenses
+[0:20:24] have UV protection, that's okay.
+[0:20:27] There's so many different
+wavelengths of light
+[0:20:28] coming from the sun
+[0:20:30] and they are bright enough
+[0:20:31] that they will trigger the mechanisms
+[0:20:33] that you want triggered
+at this early time of day.
+[0:20:36] So try and get outside,
+[0:20:38] ideally within the first
+five minutes of waking
+[0:20:40] or maybe it's 15 minutes,
+[0:20:42] but certainly within the
+first hour after waking.
+[0:20:44] I want to share with you
+three critical things
+[0:20:46] about this tool of
+morning sunlight viewing.
+[0:20:49] First of all, this is not
+some woo biology thing.
+[0:20:53] This is grounded in the
+core of our physiology.
+[0:20:55] There are literally
+hundreds, if not thousands,
+[0:20:58] of quality peer-reviewed papers
+[0:20:59] showing that light
+viewing early in the day
+[0:21:03] is the most powerful stimulus
+[0:21:04] for wakefulness throughout the day
+[0:21:06] and it has a powerful, positive impact
+[0:21:08] on your ability to fall
+and stay asleep at night.
+[0:21:10] So this is really the
+foundational power tool
+[0:21:13] for ensuring a great night's sleep
+[0:21:16] and for feeling more awake during the day.
+[0:21:19] Second of all, if you wake
+up before the sun is out,
+[0:21:24] you can, and probably should,
+flip on artificial lights
+[0:21:28] in your internal home
+environment or apartment
+[0:21:30] or wherever you happen to live
+[0:21:32] if your goal is to be awake, right?
+[0:21:34] If you wake up at four in the morning
+[0:21:35] and you need to be awake,
+[0:21:36] well, then turn on artificial lights.
+[0:21:38] Once the sun is out, however,
+[0:21:40] once the sun has risen,
+[0:21:42] then you still want to get
+outside and view sunlight.
+[0:21:46] Some of you will wake up
+before the sun comes out.
+[0:21:49] And if you're asking whether or not
+[0:21:51] turning on artificial lights
+[0:21:52] can replace sunlight at those hours,
+[0:21:54] unfortunately, the answer is no.
+[0:21:57] Unless you have a very special light,
+[0:21:59] and we'll talk about what kind of light,
+[0:22:01] the bright artificial lights
+in your home environment
+[0:22:04] are not, I repeat, are not
+going to be sufficiently bright
+[0:22:08] to turn on the cortisol mechanism
+[0:22:11] and the other wake-up mechanisms
+[0:22:12] that you need early in the day.
+[0:22:15] The diabolical twist, however,
+[0:22:16] is that those lights in
+your home or apartment
+[0:22:19] or even on your phone
+[0:22:21] are bright enough to disrupt your sleep
+[0:22:23] if you look at them too late at night
+[0:22:25] or in the middle of the night.
+[0:22:26] So there's this asymmetry in
+our retinal, our eye biology,
+[0:22:30] and in our brain's biology,
+[0:22:32] whereby early in the
+day, right around waking,
+[0:22:34] you need a lot of light, a lot of photons,
+[0:22:37] a lot of light energy,
+[0:22:38] and artificial lights
+generally just won't accomplish
+[0:22:41] what you need them to accomplish.
+[0:22:42] But at night, even a little
+bit of artificial light
+[0:22:45] can really mess up your
+so-called circadian,
+[0:22:48] your 24-hour clocks,
+[0:22:49] and all these mechanisms
+that we're talking about.
+[0:22:51] So if you wake up before the
+sun is out and it's still dark,
+[0:22:55] please turn on as many
+bright artificial lights
+[0:22:57] as you possibly can or need,
+[0:22:59] but then get outside once the sun is out.
+[0:23:02] On cloudy days, you especially
+need to get outside.
+[0:23:06] I repeat, on cloudy days, overcast days,
+[0:23:08] you especially need to get
+outside and get sunlight.
+[0:23:10] You just need to get more of it.
+[0:23:12] Now, how much light and how
+much light viewing do you need?
+[0:23:15] This is going to vary
+depending on person and place,
+[0:23:18] literally where you live on earth,
+[0:23:20] whether or not there's
+a lot of tree cover,
+[0:23:22] whether or not you're somebody
+who has sensitive eyes
+[0:23:24] or less sensitive eyes.
+[0:23:25] It's really impossible for me
+[0:23:26] to give an absolute prescriptive,
+[0:23:28] but we can give some general guidelines.
+[0:23:30] In general, on a clear day,
+[0:23:32] meaning no cloud cover
+or minimal cloud cover,
+[0:23:35] you want to get this sunlight
+exposure to your eyes
+[0:23:39] for about five minutes or so.
+[0:23:41] Could be three minutes one day,
+[0:23:42] could be seven minutes the next day,
+[0:23:44] about five minutes.
+[0:23:46] On a day where there's cloud cover,
+[0:23:48] so the sun is just
+peeking through the clouds
+[0:23:50] or it's more dense cloud cover,
+[0:23:52] you want to get about 10
+minutes of sunlight exposure
+[0:23:56] to your eyes early in the day.
+[0:23:57] And on days that are
+really densely overcast
+[0:24:00] or maybe even are rainy,
+[0:24:01] you're going to want to get
+as much as 20 or 30 minutes
+[0:24:04] of sunlight exposure.
+[0:24:06] Another key thing is do not, forget about,
+[0:24:10] just don't try and get
+this sunlight exposure
+[0:24:13] through a windshield of a car or a window,
+[0:24:15] whether or not it's tinted or otherwise.
+[0:24:17] It takes far too long.
+[0:24:18] It's simply not going to
+trigger the relevant mechanisms.
+[0:24:22] You would be standing there all day
+[0:24:23] trying to get enough light into your eyes
+[0:24:25] from the morning sunlight
+[0:24:26] and by then the sun
+will have already moved
+[0:24:28] from low solar angle to overhead
+[0:24:30] and it simply won't work
+for all sorts of mechanisms
+[0:24:32] related to your circadian
+rhythm functions.
+[0:24:34] So just don't try and do it
+[0:24:35] through a windshield,
+sunglasses, or a window.
+[0:24:40] It's just not going to work.
+[0:24:40] Get outside.
+[0:24:42] If the weather is really bad
+[0:24:43] or for whatever reason, safety reasons,
+[0:24:44] you cannot get outside,
+[0:24:46] well, then I suppose try
+and get near a window.
+[0:24:47] That would be the last, last resort.
+[0:24:49] But you really want to get outside
+[0:24:51] to get this sunlight exposure.
+[0:24:53] Now, if you live in a part of the world
+[0:24:55] where it's extremely dark and overcast
+[0:24:57] or the weather won't let you outside
+[0:24:59] or you live in a cave
+or some other small box
+[0:25:02] that does not allow any
+natural light into it
+[0:25:05] for whatever reason,
+[0:25:06] well, then you're going
+to need a replacement
+[0:25:09] for that sunlight.
+[0:25:10] And there are sunlight
+simulators or daylight simulators
+[0:25:14] that you can purchase.
+[0:25:15] Those are quite expensive in general
+[0:25:17] and therefore I suggest cheaper options
+[0:25:21] that work just as well
+[0:25:22] because they get just as bright.
+[0:25:24] Things like ring lights that are sold
+[0:25:26] in order for people to take
+selfies and this kind of thing.
+[0:25:30] A drawing LED tablet
+will work pretty well.
+[0:25:33] I actually have one of those
+[0:25:34] and I put it on my desk all morning
+[0:25:35] even though I still get
+outside and look at sunlight
+[0:25:38] first thing in the morning,
+[0:25:39] again, also, especially, I
+should say, on cloudy days.
+[0:25:43] We do not have any affiliation
+[0:25:45] to any ring lights or LED
+lights or these panels.
+[0:25:49] So we will provide a link to
+a couple of different options
+[0:25:51] if you want to explore
+the various options.
+[0:25:53] I don't know what people's
+different budgets are.
+[0:25:54] I don't know where people live.
+[0:25:56] I just know that many
+of our listeners live
+[0:25:58] in locations throughout the world
+[0:25:59] where, for instance, during the winter,
+[0:26:00] it gets very, very dark,
+[0:26:01] so they can't get sufficient sunlight.
+[0:26:03] But get that morning light,
+ideally from sunlight,
+[0:26:07] and take into account
+all the specific points
+[0:26:10] that I've given you here.
+[0:26:11] And, I should say, enjoy this practice.
+[0:26:14] It's really nice to get outside
+first thing in the morning
+[0:26:16] and get this sunlight.
+[0:26:17] In fact, when you start doing this,
+[0:26:19] you'll notice that your body
+[0:26:21] will start to feel more energized
+[0:26:24] and it will feel more
+energized more quickly.
+[0:26:26] You'll actually start
+[0:26:27] to notice this mechanism
+kicking in each day,
+[0:26:30] especially if you're paying
+attention to your physiology.
+[0:26:32] So enjoy this practice of getting outside.
+[0:26:34] Yes, you can take your
+morning beverage outside.
+[0:26:37] Yes, you can take your dog with you.
+[0:26:39] In fact, animals intuitively know
+[0:26:41] to get this morning sunlight.
+[0:26:42] They actually seek it out
+at the right times of days.
+[0:26:44] We human beings need to be told
+[0:26:46] by podcasters and other people
+[0:26:47] about the science that supports
+these kinds of practices.
+[0:26:50] Our pets apparently do not.
+[0:26:52] But get outside alone or with somebody,
+[0:26:54] with your kids, with your dog.
+[0:26:56] However you go about this practice,
+[0:26:58] make sure you do this practice
+[0:26:59] at least 80% of the days of your life.
+[0:27:03] That's right.
+[0:27:03] If you miss a day,
+[0:27:05] for instance, you're bedridden for a day,
+[0:27:08] try and get next to a window.
+[0:27:09] Let's say you are traveling,
+[0:27:11] or for whatever reason,
+[0:27:13] you are not able to get outside
+first thing in the morning,
+[0:27:16] well, then try to get twice
+as much sunlight in your eyes,
+[0:27:18] or I should say extend the duration
+[0:27:20] of sunlight viewing in the morning
+[0:27:22] for twice as long the following day.
+[0:27:24] This is a slow, integrative mechanism
+[0:27:27] that underlies this whole thing
+[0:27:28] of wakefulness during the day
+[0:27:29] and sleep at night due to sunlight viewing
+[0:27:31] and if you miss a day, you can
+make up for it the next day,
+[0:27:33] but you have to get twice as much light
+[0:27:36] or twice as much duration of light.
+[0:27:39] If you really want to get technical
+[0:27:40] and you really want to measure
+[0:27:41] how much light is in your environment,
+[0:27:43] you can download a free app,
+something like Light Meter,
+[0:27:46] and that will allow your phone
+[0:27:47] to act as a bit of a light meter.
+[0:27:49] It'll give you a pretty
+accurate measurement
+[0:27:51] of how many lux, which is
+a measure of brightness,
+[0:27:54] are in your environment in the morning.
+[0:27:56] And in general, that's just
+going to be a good tool
+[0:27:59] for evaluating your environments.
+[0:28:02] Here's what I suggest you do.
+[0:28:04] Wake up in the morning, take Light Meter,
+[0:28:06] point it at the brightest
+light in your home,
+[0:28:08] and take a measurement,
+[0:28:09] and what you'll probably find
+is it's about a thousand lux.
+[0:28:11] Now go outside and if
+there's some sunlight out
+[0:28:14] and there's cloud cover,
+[0:28:15] point it at the sky and press that button.
+[0:28:17] You can actually hold it down
+[0:28:18] and it'll give you a dynamically
+updated lux measurement.
+[0:28:22] And what you'll find
+is like 5,000, 10,000,
+[0:28:24] sometimes even 90,000 lux,
+[0:28:26] even though you don't experience
+it as so much brighter,
+[0:28:28] and that's because an
+indoor artificial light
+[0:28:30] is very concentrated
+over a small spatial area
+[0:28:33] whereas the sunlight is very diffuse.
+[0:28:35] But it's that diffuse,
+very bright sunlight,
+[0:28:37] that photon energy,
+[0:28:38] that you really want
+[0:28:39] that's going to set all the
+rhythms of your brain and body
+[0:28:41] in the proper way.
+[0:28:43] Not just that cortisol peak,
+[0:28:44] but it's going to trigger
+proper metabolism,
+[0:28:47] it's going to set a timer for you
+[0:28:48] to be able to fall asleep
+about 16 hours later,
+[0:28:51] and on and on and on.
+[0:28:52] And I should mention within
+the on and on and on,
+[0:28:54] it's also going to suppress any melatonin,
+[0:28:57] a hormone that makes you sleepy
+[0:28:58] that happens to be swimming
+around in your bloodstream
+[0:29:00] at the time you wake up.
+[0:29:02] It does a number of other things too,
+[0:29:03] including interact with
+the adenosine system
+[0:29:06] and kind of wash out some of the adenosine
+[0:29:07] that might still be residual
+if you didn't sleep enough.
+[0:29:11] Fundamentally speaking, get
+that morning sunlight viewing.
+[0:29:14] I promise you will be
+grateful that you did.
+[0:29:18] It makes everybody feel
+better, feel more alert,
+[0:29:21] and it will greatly
+assist with your ability
+[0:29:23] to fall and stay asleep later that night.
+[0:29:25] Before we continue with
+today's discussion,
+[0:29:27] we're going to take a brief pause
+[0:29:29] to acknowledge our sponsor,
+[0:29:30] Athletic Greens, also called AG1.
+[0:29:33] I started taking Athletic
+Greens way back in 2012.
+[0:29:36] So I'm delighted
+[0:29:37] that they've been a
+sponsor of this podcast.
+[0:29:40] Athletic Greens contains
+vitamins, minerals, probiotics,
+[0:29:42] digestive enzymes, and adaptogens.
+[0:29:45] So it's got a lot of things in there.
+[0:29:47] That's actually the
+reason I started taking it
+[0:29:48] and the reason I still take
+it once or twice a day.
+[0:29:51] It essentially covers all
+of my nutritional bases.
+[0:29:53] And the probiotics in
+particular are important to me
+[0:29:55] because of the critical importance
+[0:29:57] of what's called the gut-brain axis,
+[0:29:58] that is neurons and other
+cell types in the gut,
+[0:30:01] in the digestive tract,
+[0:30:02] that communicate with the brain
+[0:30:04] and the brain back to the digestive tract
+[0:30:06] in order to control things like mood,
+[0:30:09] immune function, hormone
+function, and on and on.
+[0:30:12] Whenever somebody has asked me
+[0:30:13] what's the one supplement
+they should take,
+[0:30:15] I always answer Athletic Greens.
+[0:30:17] I gave that answer long
+before I ever had this podcast
+[0:30:19] and it's the answer I still give now
+[0:30:21] for all the reasons that I
+detailed just a moment ago.
+[0:30:24] If you'd like to try Athletic Greens,
+[0:30:25] you can go to athleticgreens.com/huberman
+[0:30:28] to claim a special offer.
+[0:30:29] They'll give you five free travel packs
+[0:30:30] that make it really easy
+to mix up Athletic Greens
+[0:30:32] while you're on the road,
+[0:30:33] plus a year's supply of vitamin D3K2,
+[0:30:36] which are also very important
+[0:30:37] for a huge number of bodily
+factors and brain factors
+[0:30:40] that impact your immediate
+and long-term health.
+[0:30:42] Again, that's athleticgreens.com/huberman
+[0:30:45] to claim that special offer.
+[0:30:46] Okay, so now we're still focusing
+[0:30:48] on this early part of the
+day when you've woken up,
+[0:30:50] the first hour or so after waking.
+[0:30:53] And we can go to our list of
+other levers and tools, right?
+[0:30:56] We have light and dark.
+[0:30:58] We already talked about light
+and sunlight in particular.
+[0:31:01] We've got temperature, food, exercise,
+[0:31:03] caffeine, supplements, and digital tools.
+[0:31:06] Now, once you've woken up and
+you want to be awake, okay?
+[0:31:09] So this is likely to be early in the day
+[0:31:11] if you're following a
+more standard schedule.
+[0:31:14] You will also want to
+leverage not just light,
+[0:31:17] but temperature as a tool.
+[0:31:21] If you are inclined, it would be wise
+[0:31:24] to try and increase your
+core body temperature
+[0:31:27] a bit more quickly than it would otherwise
+[0:31:30] if you were to just, you
+know, shuffle around outside,
+[0:31:32] get your sunlight,
+[0:31:33] maybe read a little bit, et cetera,
+[0:31:34] and there are two main
+ways you can do that.
+[0:31:36] The first way is to get into
+cold water of some sort.
+[0:31:40] So this could be a cold shower
+[0:31:42] of anywhere from one to three minutes.
+[0:31:44] This could be an ice bath
+if that's your thing.
+[0:31:46] It could be a cold tub,
+[0:31:48] or if you own a cold tub
+[0:31:50] that's specifically designed
+for deliberate cold exposure.
+[0:31:53] Get under some cold water.
+[0:31:55] That will certainly wake you up.
+[0:31:57] And if you've ever jumped into cold water
+[0:31:59] or had a cold shower,
+[0:32:00] you know it really wakes you up
+[0:32:01] because you release
+adrenaline, epinephrine,
+[0:32:04] from both your brain and body,
+[0:32:07] the body from your adrenals
+[0:32:08] and your brain from a
+little cluster of neurons
+[0:32:10] called locus coeruleus.
+[0:32:11] Again, the names don't matter.
+[0:32:12] One to three minutes of cold
+water exposure will wake you up
+[0:32:15] because of that adrenaline release
+[0:32:16] and, and I want to highlight the and,
+[0:32:19] it will serve to increase
+your core body temperature.
+[0:32:23] That's right, your body and brain interact
+[0:32:26] as a bit of a thermostat system
+[0:32:27] where if you put something cold
+on the surface of your body,
+[0:32:29] your brain, a little cluster of neurons
+[0:32:31] in the so-called medial preoptic area,
+[0:32:33] act as a thermostat and say,
+[0:32:35] "Ah, the external of my body is cold
+[0:32:38] and therefore I'm going to heat up
+[0:32:40] my core body temperature."
+[0:32:41] So it's a little bit paradoxical.
+[0:32:42] People think, oh, if you get
+into cold water or an ice bath,
+[0:32:45] your body temperature is going to drop.
+[0:32:46] And indeed, that's true if
+you stay in for a while,
+[0:32:48] but if you just get in for
+about one to three minutes,
+[0:32:50] or under the cold shower
+for one to three minutes,
+[0:32:52] your core body temperature will increase.
+[0:32:55] So then when you get
+out of that cold water,
+[0:32:57] your body temperature is
+increasing at a rate, at a slope,
+[0:33:01] that's steeper than it would otherwise
+[0:33:03] and you're going to feel more alert.
+[0:33:04] It also has the advantage
+[0:33:05] of increasing not just adrenaline,
+[0:33:07] but dopamine, which is a molecule involved
+[0:33:08] in motivation, focus, et cetera.
+[0:33:10] So this is great for waking up.
+[0:33:12] So we've got sunlight,
+[0:33:13] we've got temperature
+triggered by cold water,
+[0:33:15] and we have exercise.
+[0:33:17] One of the best ways
+[0:33:18] to increase your core body
+temperature early in the day
+[0:33:21] is to do exercise.
+[0:33:23] Now, some of you might choose
+[0:33:24] to do your full-blown workout for the day
+[0:33:27] first thing when you
+wake up in the morning,
+[0:33:29] I would say the best time to exercise,
+[0:33:30] at least what the research points to,
+[0:33:32] is immediately when you
+wake up in the morning
+[0:33:35] or three hours after waking
+or 11 hours after waking.
+[0:33:38] But that's really getting
+down into optimization
+[0:33:41] for sake of muscular
+strength and grip strength
+[0:33:43] and it's very hard to give
+a strict prescriptive.
+[0:33:47] Here's what I suggest.
+[0:33:48] If you want to be alert early in the day
+[0:33:50] and you want to sleep great at night,
+[0:33:52] get that bright sunlight,
+get into some cold water,
+[0:33:55] and if you don't want to
+get into some cold water,
+[0:33:57] try and get some movement.
+[0:33:59] It could be a walk.
+[0:34:00] So you can get your sunlight exposure
+[0:34:01] while you're taking a walk
+first thing in the morning.
+[0:34:04] It could be a light jog.
+[0:34:05] It could be skipping rope.
+[0:34:07] These days, I skip rope for
+about 10 minutes or 20 minutes
+[0:34:09] while looking at the sun.
+[0:34:10] So I'm trying to layer
+in these different things
+[0:34:12] for waking up.
+[0:34:13] And then I take a cold shower afterwards.
+[0:34:14] This is what I've been doing as of lately,
+[0:34:16] but I don't do that all
+year long necessarily.
+[0:34:19] Or some of you are going to
+be working out mid-morning.
+[0:34:22] I sometimes do that.
+[0:34:23] But try and get your core
+body temperature increased
+[0:34:26] first thing in the morning,
+[0:34:28] and a great way to do that
+is with the cold water
+[0:34:31] and/or with exercise.
+[0:34:33] And again, it doesn't have
+to be your full-blown workout
+[0:34:35] for the day
+[0:34:36] if you're doing workouts consistently,
+[0:34:37] which I hope everybody is
+[0:34:39] because everybody really should exercise
+[0:34:41] at least, I believe, five or six,
+[0:34:43] or maybe even seven days a week.
+[0:34:44] For me, it's six days
+a week, sometimes five,
+[0:34:46] rarely is it seven.
+[0:34:48] So get that exercise
+[0:34:49] or even just a modest amount of movement,
+[0:34:51] walking, jogging, skipping rope,
+[0:34:53] some light calisthenics.
+[0:34:55] That will further increase
+your core body temperature
+[0:34:57] and help you feel more awake.
+[0:34:58] Then we have the category of caffeine.
+[0:35:00] And again, we're just talking
+[0:35:01] about this early part of the day,
+[0:35:02] and you might be saying, "Wait a second,
+[0:35:04] I thought this was an episode
+about tools for sleep."
+[0:35:06] Well, everything that
+we're talking about doing
+[0:35:07] in these first 60 to 90 minutes of the day
+[0:35:11] really set in motion a
+wave of biological cascades
+[0:35:15] that carry through the entire day
+[0:35:17] and into the evening and into the night
+[0:35:18] and really do serve to optimize sleep.
+[0:35:20] So just hang in there with me.
+[0:35:22] And for those of you that are interested
+[0:35:23] in focus and attention,
+your ability to learn,
+[0:35:25] all of these tools and practices
+[0:35:27] are going to greatly
+enhance those as well.
+[0:35:30] So the next category of tool
+[0:35:32] for use early in the day is caffeine.
+[0:35:34] Caffeine is a very important
+compound to think about.
+[0:35:37] I do realize that some people
+who are prone to anxiety,
+[0:35:39] especially panic attacks, anxiety attacks,
+[0:35:41] might avoid caffeine entirely.
+[0:35:44] That's absolutely fine.
+[0:35:45] You do not have to drink caffeine.
+[0:35:46] So what I'm about to describe
+[0:35:48] are ways to leverage caffeine use
+[0:35:50] to optimize sleep and wakefulness
+[0:35:52] if you are comfortable with
+caffeine, if you like caffeine,
+[0:35:56] I happen to love caffeine.
+[0:35:57] I like it in the form
+of coffee or espresso
+[0:36:00] or yerba mate tea,
+[0:36:01] in particular non-smoked
+varieties of yerba mate tea.
+[0:36:04] Non-smoked because the smoked
+varieties seem to carry
+[0:36:07] some carcinogenics, some
+cancer causing risk.
+[0:36:09] There's increasing data on that.
+[0:36:10] So non-smoked varieties of yerba mate.
+[0:36:14] So caffeine is something
+[0:36:15] that a lot of people
+consume early in the day.
+[0:36:18] How much depends on your tolerance,
+[0:36:20] and there's a lot of
+individual variability here.
+[0:36:22] Again, caffeine is an
+adenosine antagonist,
+[0:36:25] or effectively works as
+an adenosine antagonist
+[0:36:27] and limits sleepiness.
+[0:36:28] I highly recommend
+[0:36:30] that everybody delay their caffeine intake
+[0:36:32] for 90 to 120 minutes after waking.
+[0:36:34] However painful it may
+be to eventually arrive
+[0:36:37] at that 90 to 120 minutes after waking,
+[0:36:39] you want, and I encourage you,
+[0:36:42] to clear out whatever residual adenosine
+[0:36:44] is circulating in your system
+[0:36:46] in that first 90 to
+120 minutes of the day.
+[0:36:48] Get that sunlight exposure,
+[0:36:49] get some movement to wake up,
+[0:36:50] and then, and only then,
+start to ingest caffeine
+[0:36:55] because what you'll do if
+you delay caffeine intake
+[0:36:58] until 90 to 120 minutes after waking
+[0:37:01] is you will avoid the
+so-called afternoon crash.
+[0:37:04] And you may still get a
+little bit of dip in energy
+[0:37:06] in the afternoon,
+[0:37:07] but it's not going to
+be that massive crash.
+[0:37:09] I've talked about the
+reasons for that crash
+[0:37:11] on previous episodes.
+[0:37:13] But if you delay your caffeine intake
+[0:37:15] 90 to 120 minutes after waking,
+[0:37:17] you are doing yourself a great
+service towards wakefulness
+[0:37:20] and to avoid the crash.
+[0:37:21] And the afternoon crash has
+another liability to it,
+[0:37:23] which is typically people will emerge
+[0:37:24] from that afternoon crash
+either grumpy or groggy
+[0:37:27] and then they'll lean into
+drinking more caffeine,
+[0:37:30] which can then disrupt their sleep.
+[0:37:32] So wait 90 to 120 minutes
+after waking in the morning
+[0:37:35] to drink caffeine.
+[0:37:36] And if you drink caffeine at
+any point throughout the day,
+[0:37:40] really try and avoid any caffeine,
+[0:37:43] certainly avoid drinking
+[0:37:44] more than a hundred milligrams
+of caffeine after 4:00 p.m.
+[0:37:48] and probably even better to
+limit your last caffeine intake
+[0:37:51] to 3:00 p.m. or even 2:00 p.m.
+[0:37:53] And for many people,
+shifting that caffeine intake
+[0:37:56] from immediately after
+waking in the morning
+[0:37:58] to 90 to 120 minutes
+[0:38:00] gives them a much longer arc
+of energy throughout the day
+[0:38:02] and they don't feel the need
+[0:38:04] to drink more caffeine
+later in the afternoon.
+[0:38:07] If you do drink caffeine
+later in the afternoon,
+[0:38:09] really try and limit the
+total amount or drink decaf.
+[0:38:12] Certainly keep the total amount
+[0:38:14] to less than a hundred milligrams
+[0:38:16] if you are interested
+[0:38:17] in getting into the best possible sleep.
+[0:38:18] And I say this knowing that
+many people, including myself,
+[0:38:21] can drink a double espresso
+[0:38:23] with 200 milligrams of caffeine or more
+[0:38:25] at 5:00 p.m. or even
+6:00 p.m. or after dinner
+[0:38:28] and still, quote,
+unquote, fall asleep fine
+[0:38:30] or still sleep fine.
+[0:38:31] However, there are terrific data,
+[0:38:34] Matt Walker and I talked about this,
+[0:38:36] and there are more and
+more papers all the time
+[0:38:38] that point to the fact that
+caffeine intake late in the day,
+[0:38:42] after 4:00 p.m. that is,
+[0:38:44] can really disrupt the
+architecture of your sleep.
+[0:38:46] So you might think you're sleeping well,
+[0:38:48] but you're not sleeping
+nearly as well as you could
+[0:38:49] if you avoided caffeine
+in those afternoon hours.
+[0:38:53] Now, some of you might be doing
+your main about of exercise
+[0:38:56] first thing in the morning
+[0:38:57] and you want your caffeine
+before that about of exercise.
+[0:38:59] In that case, I say, go for it.
+[0:39:02] Drink your caffeine,
+[0:39:03] do your workout right after waking up.
+[0:39:04] I don't have a problem with that.
+[0:39:06] You will find, however,
+[0:39:07] that you're going to get an
+early afternoon dip in energy
+[0:39:10] and that dip in energy is
+going to be substantial
+[0:39:12] because it's going to be a dip in energy
+[0:39:14] that naturally follows that
+workout from the morning.
+[0:39:18] So it's dependent on temperature,
+[0:39:21] and it's going to be related
+[0:39:23] to the elimination of that
+adenosine blockade by caffeine.
+[0:39:27] So you're getting a
+kind of a one-two punch
+[0:39:30] on your energy levels
+[0:39:31] by taking a lot of caffeine and
+exercising early in the day.
+[0:39:36] You can sort of expect
+[0:39:37] that you're going to get a drop in energy
+[0:39:39] in the early afternoon.
+[0:39:41] That's okay if that works for you,
+[0:39:42] but just know that delaying that caffeine
+[0:39:45] 90 to 120 minutes after waking
+[0:39:47] would be the ideal scenario
+most days and most scenarios.
+[0:39:52] All that said, I
+absolutely respect the fact
+[0:39:55] that people have different work schedules,
+[0:39:57] kid schedules, et cetera.
+[0:40:00] So if you want to do some
+or none or all these tools,
+[0:40:02] that's really up to you.
+[0:40:03] I'm just providing them to you
+[0:40:05] in the simplest form that I
+can possibly provide them.
+[0:40:08] Now, the other lever or tool
+[0:40:10] that you have available to you is food.
+[0:40:12] Not just what you eat, but when you eat.
+[0:40:14] And it turns out that if
+you eat early in the day,
+[0:40:17] you support a biological clock mechanism
+[0:40:21] that will make you more
+alert early in the day.
+[0:40:24] That said, many people choose to fast
+[0:40:26] in the early morning hours of the day
+[0:40:27] or in the first part of the day.
+[0:40:29] I'm one such person.
+[0:40:29] I generally don't ingest any food
+[0:40:32] until about 11:00 a.m. or 12 noon.
+[0:40:35] Sometimes I'll have a protein shake.
+[0:40:36] Sometimes I'll have some almonds.
+[0:40:38] Sometimes I'll have breakfast.
+[0:40:39] If people are meeting
+for brunch or breakfast,
+[0:40:40] I will have breakfast for social reasons
+[0:40:42] every once in a while.
+[0:40:43] But most of the time I don't
+eat until about lunch time.
+[0:40:47] However, some people are really hungry
+[0:40:49] when they wake up in the morning.
+[0:40:50] Just know that if you
+eat early in the day,
+[0:40:53] you are further triggering
+an increase in metabolism
+[0:40:56] and in temperature that
+will make you more alert.
+[0:40:59] So you don't have to eat early in the day,
+[0:41:02] but you can start to see
+[0:41:03] how these different tools layer together.
+[0:41:04] Sunlight viewing, exercise,
+cold water, eating.
+[0:41:08] Many of them are converging
+on the same mechanisms.
+[0:41:10] In fact, when you drink caffeine,
+[0:41:11] there's also a small
+increase in body temperature
+[0:41:14] due to the adrenaline
+increase that it stimulates.
+[0:41:16] So all of these things can be
+layered on top of one another
+[0:41:19] or you can use them individually
+[0:41:20] or think about them individually.
+[0:41:22] Now, food is an interesting lever or tool
+[0:41:25] because it's not just about when you eat,
+[0:41:26] but it's also about what you eat.
+[0:41:28] And I've talked a lot
+about eating for energy
+[0:41:31] and what that means in
+terms of caloric energy
+[0:41:33] versus neural energy, et cetera,
+[0:41:35] in previous podcast episodes.
+[0:41:37] We're not going to focus on that now
+[0:41:38] because, frankly, to
+get into a description
+[0:41:40] of whether or not somebody
+should eat fruits or vegetables
+[0:41:42] or animal proteins or dairy,
+et cetera, early in the day,
+[0:41:45] that's very nuanced.
+[0:41:46] What you eat for your breakfast,
+[0:41:47] or if you choose to not eat breakfast,
+[0:41:48] is really up to you.
+[0:41:50] All that said, if you
+eat a very large meal,
+[0:41:53] it doesn't matter if you
+slept terrifically well
+[0:41:56] 10 hours the night before
+[0:41:58] or if you are about to go to sleep
+[0:42:00] or if it's the middle of the afternoon,
+[0:42:02] if your gut is full of food,
+[0:42:04] there's just a large
+volume of food in your gut,
+[0:42:06] it's going to divert a lot of blood
+[0:42:09] and other critical resources
+[0:42:11] away from other organs of your body,
+[0:42:13] in particular, your brain,
+[0:42:14] and you're going to be sleepy
+after eating a big meal.
+[0:42:16] So this is sort of a duh,
+[0:42:18] but I think oftentimes in the discussions
+[0:42:20] about what to eat for energy,
+[0:42:22] people neglect to consider food volume
+[0:42:25] as a strong parameter or
+variable in that discussion.
+[0:42:28] So if you eat a huge breakfast,
+[0:42:29] it's likely that you are going to be tired
+[0:42:31] immediately after eating that breakfast
+[0:42:33] unless of course you exercise
+very hard prior to that
+[0:42:35] and you metabolize all
+that food very quickly.
+[0:42:38] So it's up to you whether or not to eat
+[0:42:40] first thing in the morning or not.
+[0:42:42] But if you do eat in the first
+few hours of the morning,
+[0:42:45] just understand that you are setting
+[0:42:47] or you are helping to set
+[0:42:48] a food entrained, as it's
+called, circadian clock.
+[0:42:52] Light, temperature, timing of food intake,
+[0:42:56] movement and exercise,
+[0:42:58] all of these things literally
+funnel in in a neural sense,
+[0:43:02] they funnel into this thing
+that we call the circadian clock
+[0:43:05] and they let that clock,
+that set of neurons,
+[0:43:08] predict when you are likely
+to be eating and active
+[0:43:11] and viewing sunlight
+[0:43:13] the next day and the next
+day and the next day.
+[0:43:15] I say all this because there
+are some beautiful studies,
+[0:43:18] and I'll highlight one, again,
+in the show note captions,
+[0:43:20] that show that if people
+are having a hard time
+[0:43:22] waking up in the morning,
+[0:43:24] one of the things they can do
+[0:43:25] is maximize sunlight viewing,
+exercise in the morning,
+[0:43:29] drink caffeine.
+[0:43:30] Although, again, I support the idea
+[0:43:32] that that would best be done
+[0:43:33] about 90 to 120 minutes after waking.
+[0:43:37] Eating some food in those
+early morning hours,
+[0:43:40] et cetera, et cetera.
+[0:43:41] You can layer in multiple levers or tools
+[0:43:45] in order to be more alert.
+[0:43:46] And that's what these levers
+and tools are really there for
+[0:43:50] in this sense of what
+we're talking about today,
+[0:43:52] which is optimizing sleep.
+[0:43:54] Yes, they will make you more alert.
+[0:43:55] Yes, they will provide some
+adrenaline and dopamine,
+[0:43:57] for instance, the cold
+water, et cetera, et cetera.
+[0:44:00] But the reason we're
+talking about these things
+[0:44:02] in the context of sleep
+[0:44:04] is that they start to give your body
+[0:44:06] some predictable autonomic timing.
+[0:44:09] What is predictable autonomic timing?
+[0:44:11] Well, your autonomic nervous system
+[0:44:12] is the components of your brain and body
+[0:44:15] that cause wakefulness and sleepiness
+[0:44:18] and you can start to
+create some predictability
+[0:44:21] in that autonomic timing.
+[0:44:22] You can start to do things
+that really make it such
+[0:44:24] that you naturally wake
+up at six in the morning
+[0:44:28] or five in the morning.
+[0:44:29] That's right, if you're somebody
+[0:44:30] who naturally is a night owl,
+[0:44:32] who likes to stay up
+until two in the morning
+[0:44:34] and sleep until 10:00 a.m.,
+[0:44:36] and you now have a job or
+you have to go to school
+[0:44:38] or you have a partner
+that likes to get up early
+[0:44:40] and go to sleep early,
+[0:44:41] well, you can make that happen
+[0:44:43] and you can make that
+happen pretty painlessly
+[0:44:45] if you take a week or so
+[0:44:47] and go to sleep 30 minutes or
+an hour earlier each night,
+[0:44:50] set an alarm
+[0:44:51] and wake up 30 minutes or
+an hour earlier each morning
+[0:44:56] until, of course, you're waking up
+[0:44:57] at the time you want to wake up,
+[0:44:58] and then even in that groggy state,
+[0:45:01] get some exercise, get
+some sunlight viewing.
+[0:45:03] If the sun's not out,
+[0:45:04] turn on those bright artificial lights.
+[0:45:06] Have some breakfast, even
+if you're not hungry.
+[0:45:08] In fact, for those of you
+that engage in shift work
+[0:45:11] because you have to,
+[0:45:12] or travel and you're jet lagged,
+[0:45:14] one of the quickest ways to
+shift your circadian clock
+[0:45:17] and get onto the local schedule
+[0:45:18] is to eat on the local schedule.
+[0:45:20] So what all these tools do is
+they really set up a cascade.
+[0:45:24] Think of it as kind of a
+wavefront of wakefulness and focus
+[0:45:27] throughout the day.
+[0:45:28] It'll take you through
+the middle of the day
+[0:45:29] and the afternoon stage we'll
+talk about in a few minutes,
+[0:45:32] but really they take you to this period
+[0:45:35] that is about 5:00 p.m.
+until your bedtime.
+[0:45:38] I realize some people are
+going to bed very early,
+[0:45:40] like 8:00 p.m. or 9:00 p.m.,
+which to me seems very early,
+[0:45:43] but very few people go to
+sleep at 5:00 p.m. right?
+[0:45:45] Unless you're doing that for
+shift work or other reasons.
+[0:45:48] But from 5:00 p.m. until bedtime
+is really a critical period
+[0:45:52] in which you need to
+leverage particular tools
+[0:45:55] in order to get and stay asleep optimally
+[0:45:58] and to be able to sleep through the night.
+[0:45:59] So really there are three critical periods
+[0:46:01] throughout each 24-hour cycle.
+[0:46:03] And during each of those critical periods,
+[0:46:05] you're going to want to do
+[0:46:06] as many specific things as you can
+[0:46:09] to optimize your wakefulness
+[0:46:10] and focus and mood throughout the day
+[0:46:12] and your sleep at night.
+[0:46:15] The first critical period
+[0:46:15] is the one that we've been
+talking about up until now.
+[0:46:17] Things like morning sunlight viewing,
+[0:46:19] caffeine 90 to 120 minutes after waking,
+[0:46:21] exercise, and so on.
+[0:46:22] We can call that critical period one
+[0:46:24] and it really encompasses the
+time from which you wake up
+[0:46:27] until about three hours after waking.
+[0:46:30] Although, I should just mention
+[0:46:31] 'cause there are always
+those people that say,
+[0:46:32] "Wait, I wake up at 4:00 a.m.
+[0:46:33] and the sun isn't out until 8:00 a.m.,"
+[0:46:35] okay, so it might be four hours.
+[0:46:37] But really it's those early
+morning hours of your day
+[0:46:41] once you're awake.
+[0:46:42] The second critical period
+[0:46:44] is the time throughout
+the day and afternoon
+[0:46:47] leading into evening.
+[0:46:48] So you may ask what are
+the things that you can do
+[0:46:49] throughout the day,
+[0:46:50] the middle of your day
+[0:46:51] and into the afternoon and evening hours,
+[0:46:53] that are really going to set you up
+[0:46:54] for the best possible
+sleep later that night.
+[0:46:57] Well, there are a few dos
+and there are a few don'ts.
+[0:47:00] First of all,
+[0:47:01] be careful about ingesting
+too much caffeine
+[0:47:03] throughout the middle of the day.
+[0:47:04] That's kind of an obvious one
+[0:47:05] for the reasons that we
+talked about earlier.
+[0:47:08] Second of all, if you are a napper,
+[0:47:10] and I raise my hand now,
+[0:47:12] for those of you listening,
+[0:47:12] I'm raising my right
+hand because I love naps.
+[0:47:15] I've always loved naps.
+[0:47:16] Nowadays I do NSDR or
+a Reveri sleep hypnosis
+[0:47:20] almost every day.
+[0:47:22] And I tend to do that, as I mentioned,
+[0:47:23] in the early afternoon hours
+[0:47:25] if I'm feeling kind of sleepy,
+[0:47:26] because even though I optimize
+[0:47:28] my caffeine intake timing, et cetera,
+[0:47:30] I tend to get a little
+sleepy in the afternoon.
+[0:47:32] Most people get a little
+sleepy in the afternoon.
+[0:47:34] Some of that is related
+[0:47:35] to hitting that peak of body temperature.
+[0:47:37] And you might think, wait, I
+thought high body temperature
+[0:47:39] is associated with alertness,
+[0:47:41] and it is,
+[0:47:42] but right as you crest
+that high body temperature
+[0:47:44] and your body temperature starts to drop,
+[0:47:46] there's a tendency to
+be a little bit sleepy.
+[0:47:47] So some of you might opt to
+take a nap in the afternoon.
+[0:47:51] Should you nap, should you not nap?
+[0:47:52] That's a question that I get asked a lot
+[0:47:54] and that I asked Dr. Matthew Walker
+[0:47:56] when he was a guest on this podcast.
+[0:47:57] Here was his answer and
+here's what the data support.
+[0:48:00] It is fine to nap in the afternoon,
+[0:48:03] but don't nap so late in
+the day or for so long
+[0:48:06] that it disrupts your ability
+[0:48:07] to fall and stay asleep at night
+[0:48:10] for your major sleep about, okay?
+[0:48:11] So naps are fine,
+[0:48:13] but don't sleep so long during the day
+[0:48:15] or too late in the day
+[0:48:16] that it disrupts your ability
+to fall and stay asleep.
+[0:48:20] I should also say you do not have to nap.
+[0:48:23] It's kind of an interesting phenomenon
+[0:48:24] that happens on these
+podcasts and on social media
+[0:48:26] where we'll talk about naps
+[0:48:28] and the fact that naps are great,
+[0:48:29] but don't make them
+longer than 90 minutes,
+[0:48:31] but then all the non-nappers
+get really worried.
+[0:48:34] Like, wait, am I supposed to nap?
+[0:48:35] I don't like naps. I wake up groggy.
+[0:48:37] You do not have to nap.
+[0:48:38] In fact, if you can make it
+[0:48:39] through your whole day without napping,
+[0:48:40] great, more power to you.
+[0:48:42] But if you do nap and you
+find that naps serve you well,
+[0:48:45] keep those naps shorter than 90 minutes
+[0:48:47] for reasons related to
+ultradian cycles and so forth,
+[0:48:50] and make sure that you don't
+nap too late in the day
+[0:48:53] that you are then staying
+up too late at night
+[0:48:55] and having a hard time
+waking up the next morning.
+[0:48:57] I will say that for a lot of
+people who do not like naps
+[0:49:00] or that find they wake up
+really grumpy from naps
+[0:49:04] or groggy from naps,
+[0:49:06] I encourage you to try the Reveri app,
+[0:49:09] try an NSDR script, try yoga nidra.
+[0:49:12] Try something of that sort
+[0:49:14] for anywhere from 10 to 20 to 30 minutes.
+[0:49:16] I tend to do this every day now.
+[0:49:19] I'll just lie down, and I love yoga nidra,
+[0:49:21] I love NSDR scripts,
+[0:49:22] I love using the Reveri app.
+[0:49:24] In particular, the
+portion of the Reveri app
+[0:49:27] that gets you better at sleeping.
+[0:49:28] It really is beneficial for me
+[0:49:30] because it serves as very replenishing
+[0:49:33] while I'm doing that hypnosis,
+[0:49:35] but it's also gotten me much better
+[0:49:36] at falling and staying asleep
+[0:49:37] and falling back asleep in
+the middle of the night.
+[0:49:40] So this critical period throughout the day
+[0:49:42] is one in which most people
+are doing a lot of stuff.
+[0:49:44] They're emailing and picking up kids
+[0:49:45] and they're exercising
+and they're commuting
+[0:49:47] and doing all sorts of things,
+[0:49:48] taking phone calls and Zooms, et cetera.
+[0:49:50] But if you can get that
+period of deep relaxation
+[0:49:53] through a nap or NSDR,
+[0:49:55] that's going to serve you well.
+[0:49:56] Try not to drink too much caffeine,
+[0:49:58] certainly no more than a
+hundred milligrams of caffeine,
+[0:50:01] after 4:00 p.m
+[0:50:02] if your goal is to fall asleep
+at a reasonably normal time.
+[0:50:05] And for those of you that
+exercise in the afternoon,
+[0:50:08] understand that if you
+exercise very intensely,
+[0:50:12] so this might be weight
+training or running
+[0:50:13] or some other very intense exercise,
+[0:50:15] typically that's going to further increase
+[0:50:17] your body temperature.
+[0:50:19] Makes sense, right?
+[0:50:20] Based on everything we know
+[0:50:21] about metabolism and body temperature.
+[0:50:22] And it's going to so-called
+delay your circadian clock.
+[0:50:26] It's going to make it such
+[0:50:27] that you want to fall
+asleep a little bit later,
+[0:50:30] maybe even a lot later.
+[0:50:31] So if you're exercising in
+the afternoon or evening
+[0:50:34] and that's the only time you can exercise
+[0:50:36] or that's the time that
+you prefer to exercise,
+[0:50:38] great, but be careful about
+ingesting too much caffeine
+[0:50:41] in order to get the
+energy to do that exercise
+[0:50:43] 'cause that caffeine
+will disrupt your sleep
+[0:50:45] and just know that you are
+delaying your circadian clock.
+[0:50:49] You are making it such
+[0:50:50] that you will naturally
+want to go to sleep later
+[0:50:53] and wake up later.
+[0:50:54] Contrast that with if you
+exercise early in the day,
+[0:50:57] say, immediately after waking up
+[0:50:59] or in the first zero to
+four hours after waking,
+[0:51:03] in most cases, that's not going to shift
+[0:51:05] your circadian clock much.
+[0:51:07] And toward the end of the episode,
+[0:51:09] we'll talk a little bit
+about forced exercise
+[0:51:12] prior to wake-up times.
+[0:51:13] That doesn't mean doing
+exercise in your sleep.
+[0:51:14] That means deliberately setting an alarm
+[0:51:16] and getting out of bed much earlier
+[0:51:17] than you naturally would.
+[0:51:18] That turns out to be a very potent tool
+[0:51:21] to so-called advance your circadian clock.
+[0:51:25] So we can talk about that a
+little bit later in the episode.
+[0:51:28] But this critical period,
+too, in the middle of the day
+[0:51:31] is when you're going to want
+to leverage specific tools,
+[0:51:33] and we've talked about those:
+[0:51:35] limiting caffeine intake;
+[0:51:37] being mindful of the
+clock-delaying effects of exercise;
+[0:51:40] the fact that, also,
+if you're going to nap,
+[0:51:43] you don't want to nap too
+long or too late into the day
+[0:51:47] otherwise you'll disrupt
+your nighttime sleep.
+[0:51:49] So this critical period two,
+[0:51:52] or second critical period, I should say,
+[0:51:53] during the middle of the day
+[0:51:54] is a time in which you should
+be doing certain things
+[0:51:56] and avoiding doing certain things.
+[0:51:58] So that raises the
+question of whether or not
+[0:51:59] you should also be getting a lot of light,
+[0:52:01] in particular, sunlight,
+throughout the day.
+[0:52:03] Now, that's something that
+hasn't been explored too much
+[0:52:05] in the literature
+[0:52:06] until recently when Dr. Samer Hattar
+[0:52:08] who's the director of
+the chronobiology unit
+[0:52:10] at the National Institutes
+of Mental Health,
+[0:52:12] decided to do a number of experiments
+[0:52:13] exploring the effects of light on mood
+[0:52:15] and other aspects of brain
+function and body function
+[0:52:18] when that light is delivered
+not just in the morning,
+[0:52:20] which is great for us,
+[0:52:21] but also throughout the day.
+[0:52:22] So should you be looking at sunlight
+[0:52:24] or bright artificial
+lights throughout the day?
+[0:52:27] Now, on the face of it,
+[0:52:28] you might just think, yes,
+you know, sunlight's great.
+[0:52:30] Provided we're not getting a sunburn
+[0:52:32] and we're not staring at the
+sun and damaging our eyes,
+[0:52:34] we should get as much
+sunlight as we possibly can.
+[0:52:37] In fact, we talked about this
+in the episode on hormones
+[0:52:39] about how getting light
+onto as much of our skin
+[0:52:42] as we can throughout the day
+[0:52:44] can really help in the production
+[0:52:45] of testosterone and estrogen
+in both men and women
+[0:52:47] in healthy ways that
+improves mood and libido
+[0:52:49] and all sorts of things that
+are associated with wellbeing.
+[0:52:53] However, because light is
+such a powerful stimulus
+[0:52:56] for controlling the timing
+[0:52:57] of your sleepfulness, or
+sleepiness, I should say,
+[0:53:00] and wakefulness,
+[0:53:02] we might want to be cautious
+[0:53:03] about how much light we are
+viewing in the afternoon,
+[0:53:06] in particular, in the
+early evening hours, right?
+[0:53:09] Well, turns out it's
+not so straightforward.
+[0:53:12] Viewing, so sunlight to the eyes, sunlight
+[0:53:14] in the late afternoon and evening hours,
+[0:53:17] so again, depends on time of year,
+[0:53:18] depends on location that
+you happen to be in,
+[0:53:21] but getting some sunlight in your eyes
+[0:53:22] for, again, maybe five
+or 10, maybe 30 minutes,
+[0:53:26] depending on how much
+cloud cover there is,
+[0:53:28] doing that in the afternoon
+[0:53:30] serves an additional beneficial purpose,
+[0:53:33] which is you protect or you
+inoculate your nervous system
+[0:53:37] against some of the negative effects
+[0:53:39] of bright artificial light
+[0:53:41] or even dim artificial
+light in the nighttime hours
+[0:53:46] between 10:00 p.m. and 4:00 a.m.,
+[0:53:47] which is really critical period three.
+[0:53:49] And we'll talk about what
+to do and what to not do
+[0:53:51] during critical period three
+of every 24-hour cycle.
+[0:53:54] But to make it very clear
+what I'm saying here,
+[0:53:57] get that morning sunlight in your eyes,
+[0:53:59] but also get some sunlight in your eyes
+[0:54:01] in the late afternoon and evening hours
+[0:54:03] when the sun is at
+so-called low solar angle,
+[0:54:05] when it starts to descend in the sky.
+[0:54:07] Again, you don't have to
+stare directly at the sun,
+[0:54:09] although if you can catch
+a nice, beautiful sunset,
+[0:54:11] go for it.
+[0:54:12] But as the sun starts to descend,
+[0:54:15] it triggers those same neurons in your eye
+[0:54:18] that communicate with
+your circadian clock,
+[0:54:21] but it communicates with
+a different component
+[0:54:24] or different compartment
+within the circadian clock.
+[0:54:26] That circadian clock
+is not just one thing.
+[0:54:28] It's multiple things.
+[0:54:29] And you have what are
+called morning oscillators
+[0:54:30] and evening oscillators.
+[0:54:32] And to make a long story short,
+[0:54:33] the tool that I'm describing
+of looking at the sun
+[0:54:37] in the late afternoon and evening,
+[0:54:39] again, blinking is fine,
+[0:54:41] don't stare at the sun,
+[0:54:42] but getting that sunlight in your eyes
+[0:54:43] in the late afternoon and evening
+[0:54:45] signals to that clock
+that it's evening time
+[0:54:50] and that sleep is coming.
+[0:54:51] It also serves as a second
+anchor or reference point
+[0:54:56] for your body and your brain
+to know where it is in time.
+[0:54:59] Remember back to the
+beginning of the episode
+[0:55:01] when I said your brain and
+your body and all your organs
+[0:55:03] are locked inside this skin and this skull
+[0:55:06] and they don't know what's
+going on in the outside world.
+[0:55:08] Well, that morning sunlight viewing
+[0:55:09] and the other things you do
+during critical period one,
+[0:55:12] those provide one strong set of signals
+[0:55:15] that it's wake-up time
+and time to be alert
+[0:55:16] and time to be focused.
+[0:55:18] And then in the evening,
+[0:55:20] by getting sunlight in your eyes again,
+[0:55:23] in particular, sunlight that comes
+[0:55:25] from low solar angle sunlight,
+[0:55:27] well, that provides a second stimulus
+[0:55:29] or a second reference point
+[0:55:31] that tells your brain and
+body, "Hey, it's evening.
+[0:55:33] The sun is descending."
+[0:55:35] Now, you might say,
+[0:55:36] "Wait, how does the brain
+and these neurons know
+[0:55:38] the difference between morning
+light and evening light?"
+[0:55:40] It turns out has to do
+[0:55:41] with the particular wavelengths of light
+[0:55:43] that are present in
+morning versus evening.
+[0:55:46] It's an incredible mechanism.
+[0:55:47] And you are probably
+familiar with the fact
+[0:55:50] that when the sun is directly overhead,
+[0:55:52] it's really bright white and yellow
+[0:55:55] and the sky's often blue,
+[0:55:56] and if there's cloud cover,
+[0:55:57] it just comes through as
+a bunch of bright light,
+[0:55:59] well, next time you're out in the morning,
+[0:56:00] take a look at what a sunrise looks like.
+[0:56:02] There's a lot of yellow-blue contrast,
+[0:56:04] and those yellow blues signal
+[0:56:06] important specific sets of
+cells in your eye and brain
+[0:56:09] that it's morning.
+[0:56:10] In the evening, you're also
+going to see yellow and blue,
+[0:56:13] but the ratio of yellows
+and blues has now changed
+[0:56:16] and you also see some oranges,
+[0:56:17] and in a really brilliant
+sunset, you'll see some reds.
+[0:56:20] If you haven't noticed this already,
+[0:56:22] you'll really want to look for this.
+[0:56:23] It's really kind of fun
+and cool to look at.
+[0:56:25] Well, those yellows and blues and oranges
+[0:56:28] that you see in the evening sunsets,
+[0:56:30] those signal to your brain
+and body that evening is there
+[0:56:33] and that nighttime is coming
+[0:56:34] and they're really establishing
+[0:56:36] a second reference point or
+wavefront of biological signals
+[0:56:39] that are going to optimize
+your nighttime hours
+[0:56:42] and your transition into
+really terrific sleep.
+[0:56:45] So now let's talk
+[0:56:46] about what I'm calling
+critical period three
+[0:56:48] of each 24-hour cycle.
+[0:56:50] So this would be the period
+of time of late evening,
+[0:56:53] So it might be 6:00 p.m. for some,
+[0:56:55] depending on when you go to sleep,
+[0:56:56] or 7:00 p.m.
+[0:56:57] extending into the hours
+[0:56:59] in which you decide to get
+into bed and go to sleep
+[0:57:02] and then throughout the night.
+[0:57:03] There are a number of things
+[0:57:04] that you're going to want to do
+[0:57:05] and there are a number of things
+[0:57:07] that you are going to want to avoid doing
+[0:57:09] in order to optimize your sleep.
+[0:57:11] First of all, you're
+going to want to avoid
+[0:57:13] bright artificial lights of any color.
+[0:57:18] Yes, of any color.
+[0:57:20] We haven't talked a lot
+about blue blockers,
+[0:57:21] you know, lenses that
+block blue wavelengths
+[0:57:23] or short wavelengths of light.
+[0:57:26] I don't have anything
+against blue blockers.
+[0:57:27] In fact, many people find that
+blue blockers provide them
+[0:57:30] some relief from headache
+and some eye strain
+[0:57:34] if they wear blue blockers
+[0:57:35] throughout the day and certainly at night.
+[0:57:36] But you don't need them,
+[0:57:37] and even if you do wear them,
+[0:57:40] you will find that if
+lights are very bright,
+[0:57:42] doesn't matter if it's a blue light,
+[0:57:43] a yellow light, or a red light,
+[0:57:45] those bright lights will
+wake up your brain and body.
+[0:57:48] They will activate the same mechanisms
+[0:57:51] that were activated early
+in the day by sunlight.
+[0:57:53] However, and here's the
+really diabolical twist,
+[0:57:56] I mentioned this earlier,
+[0:57:57] but the diabolical twist
+[0:57:58] in the way that your brain
+and body respond to light
+[0:58:01] is that early in the day,
+[0:58:03] in the morning hours, you
+need a lot of bright light,
+[0:58:04] ideally from sunlight,
+[0:58:06] to be very alert and to wake up,
+[0:58:08] but in the evening hours
+and nighttime hours,
+[0:58:10] it takes very little
+light, very few photons,
+[0:58:14] in order to wake up your brain and body
+[0:58:17] and to disrupt your circadian
+clock and disrupt your sleep.
+[0:58:20] So what that means is that
+once the sun goes down,
+[0:58:24] which, of course, is going to happen
+[0:58:26] at different times of year
+in different places on earth,
+[0:58:28] but once the sun goes down,
+[0:58:30] you would be wise to
+try and dim the lights
+[0:58:32] in your indoor environment
+most days, right?
+[0:58:35] I realize some nights you're
+going to throw a party
+[0:58:36] and have people over.
+[0:58:37] You might not want to dim the lights.
+[0:58:38] Some nights you're going to go out,
+[0:58:40] you might view a lot of bright lights.
+[0:58:41] But most nights of your life,
+[0:58:43] you're going to want to dim the lights
+[0:58:45] in your internal environment.
+[0:58:48] And ideally, the lights that you do use
+[0:58:50] you would place low in
+that physical environment.
+[0:58:52] So you would try and
+not use overhead lights,
+[0:58:55] but rather rely on desk lamps or lights
+[0:58:57] even placed low to the
+floor, even on the floor.
+[0:59:00] If you are going to use light at night,
+[0:59:03] and most people do,
+[0:59:04] I would encourage you to use
+as little artificial light
+[0:59:07] as is required to carry
+out the activities you need
+[0:59:10] to require safely.
+[0:59:11] That could be studying,
+[0:59:12] in which case you might
+need a little bit more light
+[0:59:14] in order to read or study.
+[0:59:16] If you're watching a television show
+[0:59:18] or you're watching
+something on your computer,
+[0:59:19] dim that screen way, way down,
+[0:59:21] as dim as possible while
+still, of course, being able
+[0:59:24] to view what you need to view.
+[0:59:25] Even better, I should say, ideally,
+[0:59:27] you would use candlelight
+and/or moonlight.
+[0:59:30] Now, some nights the moon is really bright
+[0:59:31] and you actually can use moonlight
+[0:59:33] to go about your usual activities.
+[0:59:35] Moonlight might seem very, very bright,
+[0:59:37] but, actually, moonlight is
+fairly low light intensity,
+[0:59:42] and candlelight, which
+can also seem very bright,
+[0:59:45] actually is very low light intensity.
+[0:59:47] If you're sitting across a table
+[0:59:49] with some candlelight there
+[0:59:50] and it's a really bright candle,
+[0:59:52] chances are it's only
+about three to 10 lux,
+[0:59:55] which is very, very little light energy
+[0:59:58] compared to, say, an artificial desk lamp
+[1:00:00] or an overhead light,
+[1:00:01] which is going to be in the area
+[1:00:02] of anywhere from a
+hundred to a thousand lux.
+[1:00:05] So candlelight is fine.
+[1:00:07] Of course, be cautious with open flame,
+[1:00:09] but candlelight is fine.
+[1:00:11] Moonlight is fine.
+[1:00:12] Dimming artificial lights is fine
+[1:00:14] provided they're dimmed way, way down.
+[1:00:16] And again, try and avoid using
+overhead artificial lights.
+[1:00:20] The absolute worst lights
+[1:00:21] are going to be overhead
+fluorescent lights
+[1:00:23] of the sort that you would
+have in the supermarket
+[1:00:26] or that you would see at a gas station
+[1:00:28] or something of that sort.
+[1:00:29] And I confess, there are times
+in which I'm driving home
+[1:00:33] and it's late at night and I
+want to be able to get to sleep
+[1:00:35] and I'll need to stop at the grocery store
+[1:00:37] or a gas station or something like that,
+[1:00:39] I've actually put on sunglasses at night
+[1:00:40] in order to avoid getting
+[1:00:42] that bright light exposure at night.
+[1:00:45] Although that's a little bit extreme,
+[1:00:46] I have done that from time to time
+[1:00:48] because that bright light exposure
+[1:00:50] will absolutely quash, it will eliminate,
+[1:00:52] any melatonin that
+happens to be circulating
+[1:00:55] in your brain and body.
+[1:00:56] Now, melatonin, a lot of people
+think of it as a supplement,
+[1:00:58] but melatonin is naturally released
+[1:01:00] as the evening comes about
+and into the nighttime hours.
+[1:01:03] It's the hormone that
+makes you feel sleepy
+[1:01:05] and allows you to fall asleep.
+[1:01:07] So viewing bright light
+[1:01:09] in the late evening
+hours and nighttime hours
+[1:01:11] is really not good for your sleep quality
+[1:01:14] and your ability to fall and stay asleep.
+[1:01:17] So for most people, a simple rule of thumb
+[1:01:19] is going to be avoid bright
+artificial lights of all colors,
+[1:01:23] and in particular, overhead
+bright artificial lights,
+[1:01:25] between the hours of
+10:00 p.m. and 4:00 a.m.
+[1:01:27] That's right, between
+10:00 p.m. and 4:00 a.m.,
+[1:01:29] avoid those bright artificial
+lights as much as possible.
+[1:01:32] Use only as much light as
+is absolutely necessary
+[1:01:35] in order to carry out the
+routines and activities
+[1:01:37] you need to carry out safely.
+[1:01:39] I should mention
+[1:01:40] that the reason overhead
+lights are problematic
+[1:01:42] is the same reason why
+sunlight is so great
+[1:01:45] early in the day,
+[1:01:46] which is that the cells,
+that is, the neurons,
+[1:01:49] that can wake up your brain and body
+[1:01:51] through activation of the circadian clock
+[1:01:53] reside mainly in the bottom half or 2/3
+[1:01:56] of your neural retina
+[1:01:57] and the way the optics of your eyes work
+[1:01:59] is that the cells on the
+bottom half of your eye
+[1:02:01] view the upper visual field.
+[1:02:02] So this is a beautiful adaptive mechanism
+[1:02:05] that allows these cells
+[1:02:07] to respond to overhead light from sunlight
+[1:02:11] in the early part of the
+day and throughout the day.
+[1:02:13] But in the evening, if you have
+bright artificial lights on
+[1:02:15] and those bright artificial
+lights are overhead lights,
+[1:02:18] it's going to more closely mimic
+[1:02:20] what sunlight does in the evening time,
+[1:02:23] and that turns out to be a bad thing
+[1:02:24] if your goal is to eventually go to sleep.
+[1:02:26] So again, do like the Scandinavians do.
+[1:02:29] Use lights that are set
+low in the room at night,
+[1:02:32] and if you really want to
+optimize your sleep-wake cycles,
+[1:02:35] I suppose you could also do the
+opposite throughout the day.
+[1:02:37] You could really emphasize the use
+[1:02:38] of bright artificial lights and sunlight
+[1:02:41] that comes from above.
+[1:02:42] And of course, sunlight
+always comes from above.
+[1:02:43] But if you're working in
+a given office environment
+[1:02:48] and, you know, it's 2:00 p.m. or 3:00 p.m.
+[1:02:50] and you want to be as awake as possible,
+[1:02:52] really crank up the overhead lights.
+[1:02:52] And then in the evening,
+[1:02:54] which is this critical period
+three that we're referring to,
+[1:02:57] really try and dim those
+lights or have them off
+[1:03:00] or just rely on candlelight or moonlight
+[1:03:01] from the hours of about
+10:00 p.m. until 4:00 a.m.
+[1:03:05] Our good friend Samer Hattar,
+[1:03:06] who's been on this podcast before,
+[1:03:08] Samer is director of
+the chronobiology unit
+[1:03:10] at the National Institutes
+of Mental Health,
+[1:03:12] well, he's absolutely obsessive
+about this light stuff
+[1:03:15] and avoiding light at night.
+[1:03:16] In fact, he lives in what I sort of joke
+[1:03:19] is like a cave at night.
+[1:03:20] From 9:00 p.m. until 5:00 a.m.,
+[1:03:22] which is really his kind of sleep cycle,
+[1:03:25] he has his house so dark
+[1:03:27] that you'd be lucky to be able
+[1:03:28] to find a spoon in the kitchen.
+[1:03:29] In fact, you'd be lucky
+[1:03:30] to find your way down
+the hallway if you're me.
+[1:03:32] But in any case, dim the lights.
+[1:03:34] Turn them way, way down.
+[1:03:35] It will serve you well.
+[1:03:36] It will make it much easier for you
+[1:03:38] to get sleepy and stay
+sleepy and fall asleep
+[1:03:41] and stay asleep throughout the night.
+[1:03:43] Now, not to depart from
+this critical period three,
+[1:03:46] but if you recall, viewing
+that afternoon light,
+[1:03:51] the low solar angle light
+[1:03:52] as the sun is heading down in the sky,
+[1:03:54] so it could be sunset
+[1:03:55] or what I call circa
+sunset, around sunset,
+[1:03:59] well, doing that is going to slightly,
+[1:04:01] but not completely, offset
+any of the negative effects
+[1:04:04] of viewing artificial light at night.
+[1:04:06] So I don't want to give
+people a pass here,
+[1:04:08] but let's say you know
+[1:04:09] that you're going to watch
+some Netflix at night
+[1:04:13] or you're going to be up late studying
+[1:04:14] and yet you still want to be
+able to fall and stay asleep.
+[1:04:17] Definitely make sure you
+see that evening light.
+[1:04:20] There's a great study.
+[1:04:21] We'll provide a link to this study,
+[1:04:22] which showed that if people
+view evening sunset light
+[1:04:26] or evening sunsets
+[1:04:27] or sunlight right around
+the time of sunset,
+[1:04:30] it really serves to
+inoculate or offset some,
+[1:04:33] again, some, not all,
+of the negative effects
+[1:04:35] of artificial light
+[1:04:36] between the hours of
+10:00 p.m. and 4:00 a.m.
+[1:04:38] Now, that's light.
+[1:04:39] But as you recall,
+[1:04:40] we also have this tool
+related to temperature,
+[1:04:43] and you're probably not
+going to be surprised
+[1:04:46] that the way to leverage
+temperature in the evening
+[1:04:48] is the exact opposite
+[1:04:49] of the way that you want
+to leverage temperature
+[1:04:51] early in the day.
+[1:04:52] Early in the day, temperature increases
+[1:04:54] from cold showers or exercise,
+et cetera, wake you up.
+[1:04:57] What that means is that taking
+a cold shower late at night
+[1:04:59] is probably a bad idea.
+[1:05:01] Rather, taking a nice hot bath or a sauna,
+[1:05:05] you might think would heat up your body,
+[1:05:07] and indeed, that's what happens
+[1:05:08] if you stay in a very long time,
+[1:05:10] but if you do hot tub or a hot bath
+[1:05:12] or a sauna in the evening,
+[1:05:13] and you don't stay in for
+more than 20 or 30 minutes
+[1:05:15] and you get out,
+[1:05:16] you take maybe a cool-ish
+shower or a warm shower,
+[1:05:20] then what happens is there's
+a compensatory cooling off
+[1:05:23] of your core body temperature
+[1:05:24] for the reasons we discussed earlier,
+[1:05:26] and your body temperature will
+drop by one to three degrees
+[1:05:29] and it will make it much
+easier to get into sleep.
+[1:05:31] So if you're somebody
+[1:05:32] that enjoys hot baths,
+hot showers, or hot tubs,
+[1:05:35] evening and nighttime
+[1:05:36] is going to be the best time to do that
+[1:05:38] if your goal is to facilitate sleep.
+[1:05:40] Similarly, you should try
+[1:05:41] and make your sleeping environment
+pretty cool, if not cold.
+[1:05:45] Now, that doesn't mean you need to be cold
+[1:05:46] while you're asleep.
+[1:05:47] You can get under as many
+blankets as you need,
+[1:05:49] but it's a good idea to make
+your sleeping environment cool.
+[1:05:52] In fact, drop the temperature
+in that sleeping environment
+[1:05:55] by at least three degrees
+[1:05:56] and you'll be happy that you did.
+[1:05:58] Now, some people rely on
+things like Eight Sleep.
+[1:06:01] I use that.
+[1:06:01] One of these controllable
+temperature mattress covers.
+[1:06:05] Other people would simply do this
+[1:06:06] by putting a fan in the
+room or opening a window.
+[1:06:09] Again, depends on time of year,
+[1:06:10] depends on technology,
+depends on budgets, et cetera.
+[1:06:12] But you're going to want to sleep
+[1:06:13] in a relatively cool or
+cold sleeping environment
+[1:06:16] and then layer on the blankets
+as needed to stay asleep.
+[1:06:20] And I say as needed
+because one of the things
+[1:06:23] that you're going to do in your sleep,
+[1:06:25] or if you happen to wake up,
+[1:06:27] is if you're too warm, you're
+going to put a foot or a hand
+[1:06:30] out from under those blankets.
+[1:06:32] And the reason for doing
+that is very logical
+[1:06:34] once you understand the mechanism.
+[1:06:35] You have special portals,
+[1:06:37] you essentially have ways of passing heat,
+[1:06:40] excuse me, in and out of your body
+[1:06:43] primarily through the palms of your hands,
+[1:06:44] the upper half of your face,
+[1:06:45] and the bottoms of your feet
+[1:06:47] through so-called glabrous skin.
+[1:06:48] This was covered in the
+episode with Dr. Craig Heller
+[1:06:50] from the biology department at Stanford.
+[1:06:53] If you lower the temperature
+in your sleeping environment,
+[1:06:55] so lower the temperature in that room
+[1:06:57] or use a controllable mattress
+cover that can cool down
+[1:07:00] like Eight Sleep or
+something of that sort,
+[1:07:02] it's naturally going to make
+your sleep environment cooler,
+[1:07:05] and if you're too warm under the blankets,
+[1:07:07] all you have to do is
+extend a hand or a foot
+[1:07:09] out from under those blankets.
+[1:07:11] Whereas if the sleeping
+environment that you're in
+[1:07:12] is too warm,
+[1:07:14] there's very little you can do to cool off
+[1:07:16] besides push off those blankets.
+[1:07:17] So for instance, if you're too warm
+[1:07:19] and you're waking up in
+the middle of the night,
+[1:07:20] which is what happens if you get too warm,
+[1:07:22] you'll push off those blankets.
+[1:07:23] But if the room is too warm,
+[1:07:24] well, what are you going to do?
+[1:07:25] You'd probably have to put
+your hands into some cool water
+[1:07:27] or take a coolish shower or something
+[1:07:29] for a couple of seconds.
+[1:07:30] That's not very practical.
+[1:07:32] Better to just keep the
+sleeping environment cool.
+[1:07:35] I'm not a big fan of
+people putting socks on
+[1:07:37] while they sleep,
+[1:07:38] or I should say, I'm not
+a fan of putting socks on
+[1:07:40] while I sleep,
+[1:07:41] because that eliminates
+this glabrous skin portal
+[1:07:43] on the bottoms of one's feet.
+[1:07:44] So for those of you that have heard,
+[1:07:45] you know, wear socks while you sleep,
+[1:07:47] that works great for people
+[1:07:48] that tend to run too cold while they sleep
+[1:07:50] and wake up because their feet get cold,
+[1:07:52] but if you're somebody who wakes up
+[1:07:53] in the middle of the night,
+[1:07:54] chances are you're waking up
+[1:07:55] because you're getting too warm
+[1:07:57] and the best thing that you could do
+[1:07:59] is to cool or lower the temperature
+[1:08:01] in the room that you're sleeping
+[1:08:01] and not wear socks,
+[1:08:03] get under as many blankets
+as you need to fall asleep,
+[1:08:05] and then across the night,
+[1:08:06] you'll naturally just
+move a hand or a foot
+[1:08:08] or all hands and feet out
+from under those blankets
+[1:08:10] to cool off
+[1:08:11] because of the relationship
+between temperature and sleep.
+[1:08:14] That is, dropping your
+core body temperature
+[1:08:16] one to three degrees
+[1:08:17] gets you into sleep and
+helps you stay asleep.
+[1:08:19] So let's say you do
+exercise late in the day
+[1:08:21] and you're finding yourself
+very alert in the evening
+[1:08:23] and you need to fall asleep,
+[1:08:25] or let's say you've exercised
+[1:08:26] and you needed four cups of espresso
+[1:08:29] in order to do that exercise.
+[1:08:30] Well, there are a few
+things that you can do
+[1:08:32] to try and bring your nervous system down
+[1:08:34] into more state of calmness,
+[1:08:35] and you can do that
+[1:08:36] also by lowering your
+core body temperature.
+[1:08:39] One of those I already
+talked about before,
+[1:08:40] taking a nice hot shower or a hot bath
+[1:08:43] and then getting out and cooling off
+[1:08:44] will decrease your body temperature.
+[1:08:46] Maybe not enough to get you into sleep
+[1:08:48] if you have a ton of
+caffeine in your system.
+[1:08:51] But again, you can use this
+mechanism of temperature shifts
+[1:08:54] to wake up
+[1:08:56] or temperature shifts to fall asleep
+[1:08:57] in ways that really can help you overcome
+[1:08:59] some of the irregularities
+in your sleep-wake cycle
+[1:09:03] and exercise cycle, et cetera.
+[1:09:05] Because, of course, nobody's perfect.
+[1:09:07] Some days we end up having
+to workout in the afternoon
+[1:09:09] or we'll miss the workout entirely.
+[1:09:11] Other days, we end up
+having that cup of coffee
+[1:09:13] in the afternoon with a friend
+[1:09:14] and then we have a hard
+time falling asleep.
+[1:09:15] So you can use these tools
+[1:09:17] not just in their optimized form,
+[1:09:18] you know, being absolutely
+obsessive and compulsive
+[1:09:21] about exactly when you
+do each of those tools.
+[1:09:23] That would be wonderful,
+but life happens as they say
+[1:09:27] and some days you're going
+to feel too alert at night
+[1:09:29] and you want to fall asleep,
+[1:09:30] or you've got to get up
+especially early the next morning
+[1:09:33] and you're not somebody
+[1:09:34] who normally goes to bed at 10:00 p.m.
+[1:09:35] Well, that's when a something
+like a hot bath or a sauna
+[1:09:37] can really benefit you
+[1:09:38] because it can adjust your
+temperature rhythm accordingly.
+[1:09:41] I would be remiss if I
+didn't touch on alcohol
+[1:09:44] and CBD and THC.
+[1:09:46] I always get questions about these.
+[1:09:48] And I should say, of course,
+[1:09:49] many places, but not all, THC is illegal.
+[1:09:52] Although, there are medical uses
+[1:09:54] and in some places, it's decriminalized,
+[1:09:56] other places it's legal.
+[1:09:58] Alcohol, of course, is consumed
+[1:10:00] almost as frequently as
+caffeine is consumed.
+[1:10:03] I personally don't drink alcohol.
+[1:10:04] I don't have anything against it per se.
+[1:10:07] I just don't tend to enjoy it.
+[1:10:09] One of the reasons I don't enjoy it
+[1:10:10] is if I drink alcohol,
+I simply fall asleep.
+[1:10:12] So that doesn't really accomplish
+[1:10:14] any of the things that I
+really want to accomplish
+[1:10:16] because the sleep that one
+gets after drinking alcohol
+[1:10:20] is greatly disrupted sleep.
+[1:10:22] Hate to break it to you,
+but that's the truth.
+[1:10:24] And when Dr. Matt Walker
+came on this podcast,
+[1:10:27] he said exactly the same thing.
+[1:10:29] While THC and alcohol do
+help some people fall asleep
+[1:10:35] and maybe even stay asleep,
+[1:10:36] the architecture of
+that sleep is suboptimal
+[1:10:39] compared to the sleep they would get
+[1:10:40] without alcohol or THC in their system.
+[1:10:43] So I'm not here to tell you
+what to do or not to do.
+[1:10:45] I'm certainly not the substance police.
+[1:10:48] That's not my role.
+[1:10:50] I'm just reporting to you the biology.
+[1:10:51] If your sleep is not restoring you
+[1:10:54] to the extent that you feel it should,
+[1:10:56] or if you are regularly
+relying on a drink or two
+[1:10:59] in order to fall asleep,
+[1:11:01] or THC in order to fall asleep,
+[1:11:04] that is disrupting your
+total pattern of sleep.
+[1:11:07] However, I do realize
+[1:11:08] that nowadays a lot of people
+are relying on THC and/or CBD,
+[1:11:12] especially edible forms,
+[1:11:14] in order to fall and stay asleep.
+[1:11:15] And, you know, we can
+just acknowledge the data.
+[1:11:18] It does seem that there's
+an anxiety lowering effect
+[1:11:21] of some of those compounds
+[1:11:22] that do help people
+[1:11:24] who have a hard time
+falling and staying asleep
+[1:11:26] because of reasons related to anxiety.
+[1:11:28] Although, in a moment,
+[1:11:29] we'll talk about some supplements
+and supplement protocols
+[1:11:33] that can also assist in the
+ability to fall and stay asleep
+[1:11:36] and that can adjust anxiety
+[1:11:37] and that do not seem to
+disrupt sleep architecture
+[1:11:40] in negative ways
+[1:11:41] and, in fact, can enhance
+the depth and quality
+[1:11:43] of sleep architecture.
+[1:11:44] Okay, so you've done everything
+correctly up until now.
+[1:11:47] You got your morning routine
+from critical period one.
+[1:11:49] You've got your afternoon routine.
+[1:11:51] You saw some sunlight in the afternoon.
+[1:11:53] You avoided caffeine in the eight hours
+[1:11:55] or 10 hours before bedtime.
+[1:11:57] You're not drinking alcohol.
+[1:11:58] You've cooled down the room.
+[1:12:00] You're doing all these things right.
+[1:12:01] You've dimmed the lights,
+et cetera, et cetera.
+[1:12:04] What else can we do in
+order to optimize our sleep?
+[1:12:06] Well, I always say behavioral tools first,
+[1:12:10] then look to nutrition,
+[1:12:11] then, if necessary,
+look to supplementation,
+[1:12:14] and then, if still necessary,
+look to prescription drugs
+[1:12:18] obviously prescribed by a
+board certified physician.
+[1:12:21] Well, we've talked a lot
+about the behavioral tools
+[1:12:24] for critical period three.
+[1:12:25] We have not talked a lot
+[1:12:26] about the supplementation-based tools.
+[1:12:28] There are supplements that for most people
+[1:12:30] will greatly improve their
+ability to fall and stay asleep
+[1:12:35] and the three main
+supplements in that category
+[1:12:38] or that kit of sleep supplements,
+[1:12:40] and I've talked about these before,
+[1:12:42] are magnesium threonate,
+so T-H-R-E-O-N-A-T-E,
+[1:12:48] apigenin, A-P-I-G-E-N-I-N, apigenin,
+[1:12:51] and theanine, T-H-E-A-N-I-N-E, theanine.
+[1:12:55] Now, some important things to point out
+[1:12:56] about mag threonate, as it's
+called, apigenin, and theanine.
+[1:13:00] First of all,
+[1:13:01] you don't necessarily
+need to take all three,
+[1:13:03] although, many people
+get a synergistic effect
+[1:13:05] from taking all three.
+[1:13:07] In fact, you may not even
+need to take even one.
+[1:13:10] What I recommend is that
+if you're already doing
+[1:13:13] all the behavioral tools regularly
+[1:13:15] and you're still having
+trouble falling asleep
+[1:13:17] and staying asleep,
+[1:13:19] well, then you might try
+one of the supplements
+[1:13:23] within this sleep stack.
+[1:13:24] They do have fairly
+wide margins for safety.
+[1:13:26] Although, I should also say,
+[1:13:28] anytime you're going to
+add or remove something
+[1:13:30] from your supplement protocol
+or your nutritional program,
+[1:13:33] you definitely want to
+talk to your physician.
+[1:13:34] I don't just say that to protect us.
+[1:13:35] I say that to protect you.
+[1:13:37] But for most people, the margins
+of safety on these things
+[1:13:39] are going to be pretty broad.
+[1:13:40] A couple of notes about dosages.
+[1:13:42] For some people, the dosages
+of any one or several
+[1:13:45] of the supplements I
+mentioned will be zero.
+[1:13:47] That is, you won't need them
+[1:13:48] in order to get and stay asleep
+most nights of your life.
+[1:13:53] That's terrific if you don't need them.
+[1:13:55] For many people, however,
+[1:13:56] taking 145 milligrams
+of magnesium threonate
+[1:14:01] can be very beneficial.
+[1:14:02] That's the dosage that most
+people will benefit from.
+[1:14:06] Some people need to go a little higher.
+[1:14:07] Some people need to go a little bit lower.
+[1:14:09] One of the reasons that
+we've been pointing people
+[1:14:11] towards single-ingredient
+formulations these days
+[1:14:14] is because it allows people
+[1:14:16] to adjust the dosage of one component
+[1:14:18] of a so-called sleep stack
+[1:14:19] without having to disrupt the
+dosage of another component,
+[1:14:23] and so on.
+[1:14:24] It also allows people to try
+[1:14:25] just one element within the sleep stack
+[1:14:28] without having to purchase
+and try the others,
+[1:14:30] which is a problem if
+you're buying a blend
+[1:14:32] of a lot of different ingredients.
+[1:14:33] So 145 milligrams of magnesium threonate.
+[1:14:37] 50, 5-0, milligrams of apigenin.
+[1:14:39] And again, you could just
+take the apigenin on its own.
+[1:14:42] And 100 to 400 milligrams of theanine
+[1:14:46] taken, again, alone or in combination
+[1:14:48] with the other supplements
+mentioned in the stack
+[1:14:51] many people find allows
+them to get really drowsy
+[1:14:54] and fall asleep, sleep really deeply,
+[1:14:56] and they feel much more
+refreshed the next day
+[1:14:58] and they don't have a grogginess to them.
+[1:15:01] Now, a couple of notes about
+these different supplements.
+[1:15:04] About 5% of people report
+[1:15:07] that magnesium threonate
+really disrupts their gut.
+[1:15:10] It gives them diarrhea
+or gastric distress.
+[1:15:12] In which case, don't take it.
+[1:15:14] If magnesium threonate disrupts
+your gut or your digestion
+[1:15:19] to a point where it's
+uncomfortable or at all
+[1:15:21] and you don't like it,
+don't take any of it.
+[1:15:23] The proper dosage for you, in other words,
+[1:15:24] would be zero milligrams.
+[1:15:26] Now, in a slightly different way,
+[1:15:28] many people who can
+tolerate magnesium threonate
+[1:15:31] or really thrive on magnesium threonate
+[1:15:33] and like apigenin
+[1:15:35] might find that theanine,
+[1:15:37] even at the lowest dose
+of a hundred milligrams,
+[1:15:39] 'cause, again, the range is
+a hundred to 400 milligrams,
+[1:15:41] that theanine gives them such vivid dreams
+[1:15:44] that they actually find it disruptive
+[1:15:46] where they wake up in
+the middle of the night
+[1:15:47] or they find that the
+sleep that they're getting
+[1:15:49] is kind of anxiety ridden
+[1:15:51] because of the intensity of those dreams.
+[1:15:53] So some people might
+choose to leave theanine
+[1:15:55] out of the sleep stack
+[1:15:56] and just take magnesium
+threonate or apigenin
+[1:15:58] And again, some people might
+leave magnesium threonate
+[1:16:00] out of the sleep stack.
+[1:16:02] Again, all of this is really about finding
+[1:16:05] the supplementation protocol
+that's ideal for you.
+[1:16:08] I should mention that whether or not
+[1:16:09] you're taking one or two
+or three of the components
+[1:16:11] of the sleep stack,
+[1:16:13] the ideal time to take those
+[1:16:14] is 30 to 60 minutes before bedtime,
+[1:16:17] especially if you haven't
+had anything to eat
+[1:16:19] for the three hours or so before bedtime.
+[1:16:21] I confess that oftentimes
+[1:16:22] I'll have a little bit of a
+snack late in the evening,
+[1:16:24] some berries or something.
+[1:16:25] I try not to eat too close to bedtime,
+[1:16:27] but some evenings just
+because of work schedule,
+[1:16:29] I'll get home late, be 9:00 p.m.,
+[1:16:31] and I'll eat a big meal
+[1:16:32] and then I'll take the
+sleep stack and fall asleep.
+[1:16:34] Every once in a while,
+that just so happens.
+[1:16:36] Nobody's perfect. Certainly I'm not.
+[1:16:39] But that sleep stack
+can be very beneficial.
+[1:16:41] And I do think that it's
+preferable to melatonin.
+[1:16:44] Here's the reason.
+[1:16:45] First of all, melatonin is a hormone
+[1:16:47] that you endogenously make.
+[1:16:48] You now know a lot about melatonin
+[1:16:50] and it's controlled by light,
+[1:16:52] meaning light inhibits
+it or eliminates it,
+[1:16:54] darkness promotes it.
+[1:16:56] And melatonin indeed
+can help us fall asleep,
+[1:17:01] but the dosages of melatonin
+[1:17:02] that are contained in
+most commercial products
+[1:17:04] is far, far, far greater
+[1:17:07] than what we would make endogenously.
+[1:17:08] So it's really supraphysiological.
+[1:17:10] So that's of concern
+[1:17:11] because melatonin is not just responsible
+[1:17:14] for making us sleepy and fall asleep.
+[1:17:16] It also does things
+[1:17:18] like interacts with other hormone systems,
+[1:17:21] testosterone and estrogen,
+[1:17:22] even in the puberty system, in kids.
+[1:17:24] Is taking melatonin every
+once in a while a problem
+[1:17:27] for adjusting to jet lag, et cetera?
+[1:17:29] Probably not. I would even say no.
+[1:17:31] But taking it chronically over time,
+[1:17:33] especially kids taking
+it chronically over time,
+[1:17:36] can potentially be problematic.
+[1:17:38] So at least in my opinion,
+these other supplements
+[1:17:40] are going to be preferable to melatonin.
+[1:17:42] Now, as I mentioned in the
+beginning of today's episode,
+[1:17:44] there are some other things
+[1:17:46] that I certainly take
+every once in a while
+[1:17:47] and that other people
+might consider taking
+[1:17:50] in addition to the sleep
+stack I talked about before
+[1:17:53] or in place of that sleep stack
+[1:17:55] if that sleep stack
+doesn't work well for them.
+[1:17:57] So every third or fourth night,
+[1:17:59] I will take two grams of glycine
+[1:18:01] and a hundred milligrams of GABA
+[1:18:03] in addition to the standard sleep stack
+[1:18:06] that I talked about before.
+[1:18:07] So I'm taking mag threonate,
+apigenin, and theanine,
+[1:18:09] and then I will also take two
+grams of glycine and GABA,
+[1:18:12] which I find greatly enhances
+my ability to get into sleep.
+[1:18:16] But the reason I only add glycine and GABA
+[1:18:19] every third or fourth night
+[1:18:21] is that if I take it too often,
+[1:18:22] I find that the entire sleep stack
+[1:18:24] doesn't work quite as effectively.
+[1:18:25] I don't know exactly why this is the case,
+[1:18:27] but in any event, that's what I do.
+[1:18:29] And more recently, I've
+also started using inositol,
+[1:18:33] in particular myo-inositol.
+[1:18:35] Every other night, I'll take
+900 milligrams of myo-inositol
+[1:18:39] in addition to mag threonate,
+apigenin, and theanine,
+[1:18:42] and not on the nights when
+I take glycine and GABA.
+[1:18:46] So I'm adding 900 milligrams of inositol
+[1:18:48] to the standard sleep stack
+[1:18:50] of mag threonate, theanine, and apigenin.
+[1:18:52] And what I find is not only
+does it greatly enhance
+[1:18:56] my ability to fall asleep quickly,
+[1:18:58] but if I wake up in the
+middle of the night,
+[1:18:59] which I often do to use the bathroom,
+[1:19:02] I find it very, very
+easy to fall back asleep.
+[1:19:05] Whereas when I don't take
+inositol every other night or so,
+[1:19:10] I find that if I wake up
+in the middle of the night,
+[1:19:11] it's a bit more of a
+challenge to fall back asleep.
+[1:19:14] So inositol has a number of different uses
+[1:19:16] that have been discussed
+in terms of mental health
+[1:19:19] and in terms of adjusting
+anxiety for its daytime use.
+[1:19:22] What I'm talking about
+[1:19:23] is taking 900 milligrams of myo-inositol
+[1:19:26] also 30 to 60 minutes before sleep
+[1:19:28] along with the standard sleep stack
+[1:19:29] and I found that to be
+immensely beneficial.
+[1:19:31] I also noticed that it
+has a pretty long tail
+[1:19:34] of anxiety suppression throughout the day.
+[1:19:37] And I'm not somebody who
+suffers from anxiety,
+[1:19:39] but I have to say it just has led me
+[1:19:41] to feel a bit calmer throughout the day,
+[1:19:43] and I don't really know how to say this
+[1:19:45] except in subjective terms,
+[1:19:46] to feel a bit more buffered against
+[1:19:48] or resilient against stress events.
+[1:19:50] And if you look at the
+literature on inositol
+[1:19:52] and its interactions
+[1:19:53] with the serotonin
+system and other systems,
+[1:19:56] that all makes sense as to
+why that would be the case.
+[1:19:58] So we'll provide links to
+our so-called sleep kit,
+[1:20:00] which is part of our
+Neural Network Newsletter.
+[1:20:02] It's a zero-cost newsletter
+[1:20:03] where you can access this
+information about supplements
+[1:20:05] and other behavioral tools
+for sleep in list form.
+[1:20:08] But that sleep kit doesn't include
+[1:20:10] some of the newer information
+[1:20:11] that I've provided this episode,
+[1:20:12] in particular, the
+information about inositol
+[1:20:15] and what I'm finding
+[1:20:16] to be the very beneficial use of inositol
+[1:20:19] for the ability to fall back asleep
+[1:20:22] after waking up in the
+middle of the night,
+[1:20:23] which is something that a
+lot of people struggle with.
+[1:20:25] Now, that's supplementation
+for falling and staying asleep,
+[1:20:28] but we can return to the behavioral tools
+[1:20:31] also as powerful levers and tools
+[1:20:33] for falling asleep and
+getting back to sleep.
+[1:20:36] And again, we look to
+NSDR, non-sleep deep rest,
+[1:20:40] or the Reveri app as a way to do that.
+[1:20:42] As I mentioned earlier,
+[1:20:43] the Reveri app has been
+developed on the basis
+[1:20:46] of really high-quality,
+peer-reviewed research,
+[1:20:49] both clinical and non-clinical,
+[1:20:51] by my colleague, David Spiegel,
+[1:20:52] who's our associate chair
+of psychiatry at Stanford.
+[1:20:55] It's a wonderful tool.
+[1:20:56] It does carry a cost after
+the initial seven-day trial.
+[1:21:00] I can tell you what the cost on that is
+[1:21:02] so you can get a sense
+[1:21:04] because I do realize that
+anything that carries a cost,
+[1:21:07] for some people, it won't be accessible.
+[1:21:09] Right now, Reveri,
+[1:21:11] and I should just mention,
+[1:21:11] they didn't pay us for an ad read.
+[1:21:13] I'm just telling you what they told me
+[1:21:14] so that I can accurately report
+what it costs to use Reveri.
+[1:21:19] They have a monthly subscription
+[1:21:21] to use the Reveri app at 14.99.
+[1:21:23] You do get the seven-day free trial.
+[1:21:25] They have a yearly subscription of 99.99
+[1:21:28] with a seven-day free trial.
+[1:21:29] And they have a lifetime
+purchase, one-time purchase,
+[1:21:31] of 249 with no trial.
+[1:21:33] It right now is only available
+for Apple, not for Android,
+[1:21:36] but they are, yes, going
+to have it available
+[1:21:38] for Android soon.
+[1:21:39] There's a signup list there.
+[1:21:41] I should mention that while
+the cost might seem high,
+[1:21:45] if you compare that cost
+to, say, supplements,
+[1:21:47] or you compare that cost to a
+poor night's sleep over time,
+[1:21:50] the cost, at least to me,
+seems somewhat modest,
+[1:21:54] certainly within range
+for a number of people.
+[1:21:56] But I acknowledge not within
+range for other people,
+[1:21:59] which is why I also want
+to point to zero-cost tools
+[1:22:02] and the zero-cost tool for
+getting asleep, staying asleep,
+[1:22:06] and falling back asleep
+[1:22:07] is going to be NSDR.
+[1:22:09] We'll put a link to a
+non-sleep deep rest protocol
+[1:22:11] that's available on YouTube,
+[1:22:12] so available to anybody zero cost
+[1:22:14] provided you have a internet connection.
+[1:22:16] Again, dim the screen
+[1:22:17] if you're going to turn
+that on late at night.
+[1:22:19] And there are a number of
+other yoga nidra scripts
+[1:22:22] and apps and sources around the internet,
+[1:22:25] in particular, on YouTube,
+[1:22:26] that are zero cost that you could use
+[1:22:28] if the Reveri app is
+outside your price range
+[1:22:30] or is not preferable to you, et cetera.
+[1:22:34] When I wake up in the middle of the night,
+[1:22:35] it's usually to use the restroom.
+[1:22:36] I'll go use the restroom.
+[1:22:37] I'll keep the lights as dim as possible.
+[1:22:38] I'll get back into bed.
+[1:22:40] And if I find that it's
+easy to fall asleep,
+[1:22:42] great, I'm asleep.
+[1:22:43] And if not, then I will
+generally plug in the Reveri app.
+[1:22:46] They have a fall back asleep hypnosis,
+[1:22:48] and 99 times out of a hundred,
+[1:22:51] I'm back asleep within minutes
+[1:22:53] and I don't wake up until morning.
+[1:22:54] Now, very briefly, I just
+want to touch on some tools
+[1:22:57] that are very commonly used
+by many people out there,
+[1:22:59] and believe it or not,
+[1:23:00] there is peer-reviewed science
+on things like eye masks.
+[1:23:03] Do eye masks improve your
+ability to stay asleep?
+[1:23:05] And indeed, they do,
+[1:23:07] provided they are not too tight
+[1:23:09] and provided that the room is cool enough.
+[1:23:11] Why?
+[1:23:12] Well, eye masks cover the
+upper half of your face,
+[1:23:14] which is where glabrous skin is localized.
+[1:23:17] Remember, palms of the
+hands, bottoms of the feet,
+[1:23:19] glabrous skin on the face.
+[1:23:21] So a lot of people who
+wear eye masks will wake up
+[1:23:23] because they're too warm
+if the room is too warm.
+[1:23:25] So if you're going to use an
+eye mask to keep light out,
+[1:23:28] definitely make sure the room
+[1:23:30] and your sleeping environment
+and your bed are cool enough
+[1:23:32] in order for you to stay asleep.
+[1:23:34] In addition, I get a lot of
+questions about earplugs.
+[1:23:36] Here's the deal with earplugs.
+[1:23:38] Some people find that
+earplugs are very beneficial
+[1:23:39] because, of course, they
+prevent the entrance of sound
+[1:23:43] into the ear that could wake us up.
+[1:23:45] But some people find that the sound
+[1:23:47] of their own beating of their
+own heart can be disruptive
+[1:23:50] and they get a sort of
+humming in their head
+[1:23:52] when they have those earplugs in.
+[1:23:54] I'm one such person.
+[1:23:55] Although, I have family members
+[1:23:56] that like using earplugs when they sleep.
+[1:23:58] So it's really up to you.
+[1:23:59] You have to see whether
+or not those earplugs help
+[1:24:02] or disrupt your sleep.
+[1:24:03] For me, they're no good.
+[1:24:05] For some people, they really enjoy them.
+[1:24:06] I don't use an eye mask
+[1:24:08] unless I'm sleeping in a
+really bright environment
+[1:24:10] or I need to sleep on a plane
+and things of that sort.
+[1:24:13] Other tools that I'll just mention
+[1:24:14] that have peer-reviewed
+research to support them.
+[1:24:17] Elevating your feet either with a pillow
+[1:24:19] or by elevating the end of your bed
+[1:24:21] by about three to five degrees
+[1:24:23] can be really beneficial for
+increasing the depth of sleep
+[1:24:26] because of the so-called
+glymphatic washout.
+[1:24:28] This is the movement of
+and circulation of fluids
+[1:24:30] in your brain at night
+[1:24:33] that lead to more wakefulness
+[1:24:34] and actually can improve
+cognitive function
+[1:24:36] and a number of other things
+related to brain health.
+[1:24:39] There's one caveat to that.
+[1:24:40] For people that suffer from acid reflux,
+[1:24:43] having your ankles
+elevated above your chest
+[1:24:45] or above your heart in
+the middle of the night
+[1:24:47] can actually exacerbate that acid reflux.
+[1:24:49] You want to do the opposite.
+[1:24:51] You want to actually elevate
+the head side of your bed
+[1:24:54] by about three to five degrees.
+[1:24:55] Now, one of the common
+causes of sleep disruption
+[1:24:58] that has tremendously detrimental effects
+[1:25:00] is so-called sleep apnea.
+[1:25:02] So this is basically bouts of suffocation
+[1:25:05] or lack of oxygenation during sleep.
+[1:25:07] This is particularly the case
+[1:25:08] for people that are very heavyset,
+[1:25:10] and that heavyset could be from obesity,
+[1:25:12] it could also be heavyset
+from having too much muscle.
+[1:25:14] A lot of people who are
+carrying too much muscle
+[1:25:17] will actually have sleep
+apnea without realizing it.
+[1:25:19] Sleep apnea is actually very dangerous.
+[1:25:21] It's associated with a number
+of cardiovascular issues.
+[1:25:23] It's associated with sexual dysfunction.
+[1:25:25] It's associated with
+issues with cognition.
+[1:25:27] Sleep apnea is bad.
+[1:25:28] A lot of people will have to use the PAP,
+[1:25:30] which is a, it's a device.
+[1:25:32] It looks like a sort of like
+a snorkel mask or a dive mask.
+[1:25:36] It's a whole apparatus that
+people will go to sleep with.
+[1:25:40] However, many people can relieve
+themselves of sleep apnea
+[1:25:43] provided it's not too serious
+[1:25:44] and can sleep much better,
+[1:25:46] in fact, I think all people
+can sleep much better,
+[1:25:48] if they train themselves
+[1:25:49] to be nose breathers while they sleep.
+[1:25:52] There are a lot of reasons
+to be a nose breather
+[1:25:53] unless you are breathing
+very hard due to exercise
+[1:25:56] or talking or eating.
+[1:25:58] That was all covered
+in James Nestor's book,
+[1:26:00] "Breath: The New Science of a Lost Art."
+[1:26:02] It's been covered in a
+number of different podcasts.
+[1:26:04] We've talked about it
+on this podcast as well.
+[1:26:07] It's a good idea to be a nose breather
+[1:26:08] unless you need to mouth breathe.
+[1:26:10] And it's a great idea, it's a superb idea,
+[1:26:12] to be a nose breather in sleep.
+[1:26:15] And one way to really get good at that
+[1:26:17] is to take a little bit of medical tape
+[1:26:19] and to tape your mouth
+shut before going to sleep.
+[1:26:21] You heard me right.
+[1:26:22] Put some medical tape over your mouth
+[1:26:23] and force yourself to
+nose breathe during sleep.
+[1:26:26] It also prevents snoring in most cases.
+[1:26:28] Really offsets sleep apnea.
+[1:26:31] Sleep apnea, again, being a
+very serious health concern.
+[1:26:34] I should also mention as a tool
+[1:26:36] that if you have a hard time
+being a nose breather in sleep,
+[1:26:39] you can try doing your
+cardiovascular exercise,
+[1:26:42] at least the lower-intensity
+cardiovascular exercise,
+[1:26:45] through purely nasal breathing.
+[1:26:47] And one way to do that, again,
+is to tape your mouth shut
+[1:26:49] or put a gulp of water in your mouth,
+[1:26:51] but don't actually swallow
+that mouth full of water,
+[1:26:54] or to use a mouthpiece
+[1:26:56] or just deliberately
+keep your mouth closed
+[1:26:58] and insist on breathing through your nose.
+[1:27:00] Most people find
+[1:27:00] that when they start doing
+cardiovascular exercise that way,
+[1:27:02] it's really challenging at first,
+[1:27:04] but over time, they
+actually can feel quite calm
+[1:27:07] and still can generate
+a lot of physical effort
+[1:27:09] purely using nose breathing.
+[1:27:12] The reason that doing nose breathing
+[1:27:13] during cardiovascular exercise
+[1:27:15] translates to being a
+nose breather during sleep
+[1:27:17] is that your sinuses actually
+can dilate, they're plastic,
+[1:27:21] and over time,
+[1:27:21] plastic meaning they're malleable that is,
+[1:27:25] and they can become wider.
+[1:27:26] You're not going to get giant
+nostrils. Don't worry about it.
+[1:27:28] Your airways within your skull,
+[1:27:31] 'cause that's what the sinuses really are,
+[1:27:33] these little passages within the skull,
+[1:27:34] and, of course, within the nasal passages,
+[1:27:36] will dilate and will allow you
+[1:27:38] to breathe more easily through your nose.
+[1:27:40] But for those of you
+[1:27:41] that are waking up in
+the middle of the night
+[1:27:42] breathing on your back [breathing heavily]
+[1:27:44] or your partner is telling you that
+[1:27:46] or other people are telling you that
+[1:27:47] or you're that person on the plane
+[1:27:48] with your mouth hanging open and drooling
+[1:27:50] and your mouth breathing,
+[1:27:51] terrible, terrible,
+terrible for health reasons
+[1:27:53] and other reasons,
+[1:27:54] put some a medical tape over your mouth,
+[1:27:56] learn to be a nose breather during sleep.
+[1:27:58] Your sleep will improve
+[1:27:59] and your daytime feelings
+[1:28:01] of wakefulness and focus will improve,
+[1:28:02] your cardiovascular health will improve,
+[1:28:05] and on and on and on.
+[1:28:06] So now we've largely covered
+the tools that one could use
+[1:28:08] to get and stay asleep,
+[1:28:10] and we talked about exercise,
+[1:28:11] we talked about temperature,
+[1:28:12] we talked about supplements,
+[1:28:14] and we talked about, of course,
+[1:28:15] keeping the sleeping environment
+[1:28:17] both cool and as dark as possible.
+[1:28:20] I do want to mention a
+couple of broad contour tools
+[1:28:24] that will impact your ability
+[1:28:26] to sleep really well on a consistent basis
+[1:28:28] and the one that impacts
+the most number of people
+[1:28:30] is weekends.
+[1:28:33] Turns out that most
+everybody feels the impulse
+[1:28:35] to sleep in on the weekend,
+[1:28:36] especially if they've been
+out late the night before.
+[1:28:38] However, the data show
+[1:28:40] that keeping relatively
+consistent sleep and wake times
+[1:28:44] is really going to enhance
+[1:28:45] the quality and depth of your sleep.
+[1:28:47] So if you stay out late one night,
+[1:28:50] sure, you might allow yourself
+[1:28:51] to sleep in an extra hour or so,
+[1:28:52] but you should really try
+to avoid sleeping in longer
+[1:28:56] than an hour beyond your
+normal wake-up time.
+[1:29:00] That's right.
+[1:29:01] If you normally get eight hours of sleep
+[1:29:02] and you wake up at 7:00 a.m.,
+[1:29:04] probably okay to wake up
+at 8:00 a.m. on the weekend
+[1:29:08] or after a night out the night before,
+[1:29:10] but try not to sleep until 11 or noon
+[1:29:13] thinking that you're going
+to catch up on your sleep
+[1:29:15] or that's better than waking
+up at a consistent time.
+[1:29:17] It would be better to wake
+up at a consistent time
+[1:29:19] plus or minus an hour
+[1:29:20] and get a nap in the afternoon
+[1:29:22] provided that nap, again, isn't too long.
+[1:29:25] And the other tool
+[1:29:26] that relates to nights that
+you stayed out too late
+[1:29:28] or that you feel like you
+want to sleep in a bit more
+[1:29:31] in the morning
+[1:29:32] is if you are going to wake
+up at your consistent time.
+[1:29:36] So for example, normally
+you go to bed at 10
+[1:29:39] and you wake up at six.
+[1:29:40] Let's say that's your schedule.
+[1:29:42] And you end up staying up late one night
+[1:29:44] until midnight or one for whatever reason
+[1:29:46] and the next morning you wake up at seven
+[1:29:49] and you're still groggy.
+[1:29:51] In that case, you absolutely want to wait
+[1:29:54] to ingest caffeine 90 to
+120 minutes after waking.
+[1:29:57] You really do because there are good data
+[1:29:59] to support the fact that
+caffeine can disrupt sleep.
+[1:30:03] Yes, that's obvious.
+[1:30:05] Caffeine especially disrupts sleep
+[1:30:06] if you take it too late in the day.
+[1:30:08] That's very obvious as to
+why that would be the case.
+[1:30:11] But caffeine especially disrupts
+[1:30:14] what's called compensatory sleep.
+[1:30:16] So if you start changing your waking time
+[1:30:19] and your to sleep time
+[1:30:20] and you start using additional caffeine
+[1:30:23] to offset the sleepiness
+that you're experiencing
+[1:30:25] because of those late nights out,
+[1:30:26] well, that's when you
+really start to disrupt
+[1:30:28] not just your nighttime sleep,
+[1:30:30] but your daytime compensatory
+sleep, so those naps.
+[1:30:32] You also are disrupting the
+total architecture of sleep
+[1:30:36] in the early morning hours.
+[1:30:37] There's a lot of great science
+that's been put to this,
+[1:30:40] or that's emerged from this, I should say.
+[1:30:42] So try and keep those sleep-wake
+times relatively constant
+[1:30:45] plus or minus an hour,
+[1:30:46] and try as much as you can
+to delay that caffeine intake
+[1:30:50] 90 to 120 minutes after waking every day,
+[1:30:52] but especially on days where you wake up
+[1:30:55] and you feel you haven't
+gotten enough sleep.
+[1:30:56] In that case, I highly recommend
+[1:30:58] you just use NSDR or the Reveri app
+[1:31:00] or some other form of deep relaxation
+[1:31:03] to try and compensate
+for the lack of sleep,
+[1:31:06] knowing, of course, that
+there's no complete compensation
+[1:31:10] for lack of sleep.
+[1:31:11] There are just things that we can do
+[1:31:12] to partially offset lack of sleep.
+[1:31:14] Now, a couple of final
+points and additional tools
+[1:31:17] that I think are going to
+be useful to everybody,
+[1:31:19] in particular, people
+who have young children
+[1:31:22] or are following a shift work schedule
+[1:31:25] or who are experiencing jet lag.
+[1:31:28] Keep in mind, jet lag
+can be due to travel,
+[1:31:31] which is obvious,
+[1:31:32] but jet lag can also be due
+[1:31:33] to getting woken up in the
+middle of the night, right?
+[1:31:35] Your body doesn't know the difference
+[1:31:36] between flying to a new time zone
+[1:31:38] and getting woken up in
+the middle of the night.
+[1:31:41] The tool that I'd like to offer you
+[1:31:42] is an understanding of something
+called temperature minimum.
+[1:31:45] And I'm going to make
+this as simple as possible
+[1:31:46] and I'm confident that
+everyone can understand this
+[1:31:49] even if you don't have
+any science background.
+[1:31:51] Here's the question you
+need to ask yourself.
+[1:31:54] What is your typical wake-up time, okay?
+[1:31:58] What's your typical wake-up time?
+[1:31:59] If for you, your typical
+wake-up time is 7:00 a.m.
+[1:32:01] plus or minus half an hour,
+[1:32:04] and that could be 7:00 a.m.
+[1:32:05] because you set an alarm clock
+[1:32:06] or it could be 7:00 a.m.
+[1:32:07] because you naturally wake up
+at 7:00 a.m., doesn't matter,
+[1:32:10] if your typical wake-up
+time most days is 7:00 a.m.,
+[1:32:13] well, then your temperature
+minimum is 5:00 a.m.
+[1:32:16] That's right, your temperature
+minimum is not a temperature.
+[1:32:18] It's a time within your 24-hour cycle.
+[1:32:22] Approximately two hours before
+your typical wake-up time,
+[1:32:26] your body is at its lowest temperature
+[1:32:28] that it will ever be in the 24-hour cycle.
+[1:32:31] That's why it's called
+your temperature minimum.
+[1:32:33] Here's what you need to know
+about your temperature minimum.
+[1:32:35] If you view bright light,
+exercise, or drink caffeine
+[1:32:40] or all of the above
+[1:32:42] in the two to four hours before
+your temperature minimum,
+[1:32:47] that will delay your clock.
+[1:32:49] What that means when
+I say delay your clock
+[1:32:51] is it will make you want
+to go to sleep later
+[1:32:54] and wake up later the next night, okay?
+[1:32:56] So let's run this exercise for you,
+[1:32:58] the person waking up at 7:00
+a.m. on a regular basis,
+[1:33:02] I can predict with almost certainty
+[1:33:04] that your body is going to
+be at its lowest temperature
+[1:33:07] at 5:00 a.m..
+[1:33:08] So what that means
+[1:33:09] is that if you get up at
+3:00 a.m. or at 4:00 a.m.
+[1:33:14] and you flip on bright
+lights in your house
+[1:33:16] or in your bathroom
+[1:33:17] or you have a cup of coffee
+[1:33:18] or you do any kind of exercise
+[1:33:20] or you get up and head to the airport,
+[1:33:22] the mechanisms in your brain and body
+[1:33:25] that control timing of sleep
+[1:33:26] and timing of waking will shift.
+[1:33:28] They will delay.
+[1:33:29] It's as if you put your clock
+on hold for a little while
+[1:33:32] and then let it start again, okay?
+[1:33:34] That's the simplest way I can describe it.
+[1:33:35] And you will tend to
+want to go to sleep later
+[1:33:38] and wake up later the following night.
+[1:33:41] Now, the opposite is true
+[1:33:43] if you view bright light, drink caffeine,
+[1:33:47] or exercise or socialize, I should say,
+[1:33:50] in the hours immediately after
+your temperature minimum.
+[1:33:53] So for you in this example,
+[1:33:55] the person who's waking up at 7:00 a.m.,
+[1:33:57] your temperature minimum is 5:00 a.m.,
+[1:33:59] if you view bright light, exercise,
+[1:34:01] maybe have a snack, maybe
+not, or socialize, move about,
+[1:34:04] at 5:30 or 6:00 a.m. or 7:00 a.m.
+[1:34:08] That will tend to phase
+advance your clock.
+[1:34:12] It will tend to basically make you
+[1:34:14] want to go to bed earlier
+and wake up earlier
+[1:34:17] the following night.
+[1:34:18] Now, I used this example
+[1:34:19] of a person who wakes up
+typically at 7:00 a.m.
+[1:34:21] whose temperature minimum is 5:00 a.m.,
+[1:34:22] but, of course, you need
+to adjust that for yourself
+[1:34:25] if you're somebody who
+wakes up at 9:00 a.m.
+[1:34:26] or at 5:00 a.m. et cetera.
+[1:34:28] Why do I offer this as a tool?
+[1:34:30] Well, this is an immensely powerful tool
+[1:34:32] if, for instance, you
+are headed to a time zone
+[1:34:34] where you need to go to bed earlier
+[1:34:36] and wake up earlier once you
+arrive in that time zone.
+[1:34:38] What it means is in the day
+or two before you leave,
+[1:34:41] you can force yourself to
+exercise, drink caffeine,
+[1:34:46] maybe even to eat a meal
+early in the morning,
+[1:34:48] or maybe you still fast
+early in the morning
+[1:34:50] and that's really up to you,
+[1:34:51] but you force yourself
+to do the activities
+[1:34:54] that are going to phase
+advance your clock.
+[1:34:57] Whereas if you're traveling to a time zone
+[1:34:59] where you are going to need
+to go to sleep much later
+[1:35:02] and you're going to need
+to wake up much later
+[1:35:05] or even a little bit later,
+[1:35:06] you can do those things
+[1:35:07] in the hours prior to
+your temperature minimum.
+[1:35:10] Now, for those of you
+that work shift work,
+[1:35:12] this can be especially useful,
+[1:35:14] but I want to say a couple
+of things about shift work.
+[1:35:17] There are a lot of details
+about shift work and jet lag
+[1:35:19] in an episode that I did
+[1:35:20] specifically about jet lag and shift work.
+[1:35:22] So for the deep dive, go there,
+[1:35:24] but suffice to say this for now,
+[1:35:27] if you are going to do shift work,
+[1:35:29] try to stay on the same shift
+for two weeks at a time.
+[1:35:32] It's very detrimental to brain and body,
+[1:35:34] it can even be horrifically challenging
+[1:35:37] for your brain and body
+in a number of ways,
+[1:35:39] if you are switching on
+the so-called swing shift,
+[1:35:42] you know, you're working
+three days the night shift,
+[1:35:43] three days the day shift,
+[1:35:44] three days the night
+shift, three days the...
+[1:35:45] Try and stay on the same
+schedule as much as possible.
+[1:35:49] And I should say for everybody,
+[1:35:50] people who are jet lagged and
+engaged in shift work or not,
+[1:35:54] but just for everybody,
+[1:35:55] if you need to be awake in
+the middle of your sleep cycle
+[1:35:59] and it's not just a quick
+departure to the bathroom
+[1:36:02] and back to bed,
+[1:36:03] but you really need to be awake,
+[1:36:04] you know, you're feeding a baby
+[1:36:05] or you're taking care of a loved one
+[1:36:08] or you need to do
+something that's critical
+[1:36:09] or you need to work,
+[1:36:10] if possible, use red light, okay?
+[1:36:13] Now, for shift workers
+who really are trying
+[1:36:15] to stay awake all night and sleep all day,
+[1:36:17] this is not going to be ideal,
+[1:36:18] but for people that, for instance,
+[1:36:20] need to stay up really late one night
+[1:36:22] or wake up especially
+early, like 3:00 a.m.,
+[1:36:24] to prepare for an exam that
+you're just not ready for
+[1:36:26] or to head to the airport, et cetera,
+[1:36:29] using red light has been shown
+[1:36:31] to allow people to be awake enough
+[1:36:33] and obviously see what they need to see
+[1:36:34] in order to perform
+their activities safely
+[1:36:37] but it does not seem to
+disrupt the cortisol rhythm
+[1:36:40] that is the healthy,
+normal cortisol rhythm.
+[1:36:43] Now, I realize this is
+kind of an advanced tool
+[1:36:45] and many people won't have access to this.
+[1:36:46] There are a number of different
+sources for red lights now.
+[1:36:50] Companies like Joovv or KOZE light.
+[1:36:53] These are different brands.
+[1:36:54] I don't have any affiliation
+[1:36:55] to any of these brands, I should say.
+[1:36:56] There are a number of different
+[1:36:57] red light bulb sources out
+there and commercial sources
+[1:37:01] that you can explore if you want.
+[1:37:02] But understanding this temperature minimum
+[1:37:04] is really powerful
+[1:37:06] because it allows you
+to adjust your schedule
+[1:37:07] depending on travel,
+[1:37:08] depending on changing work
+schedules or school schedules.
+[1:37:11] And if you're not a morning person,
+[1:37:12] you can use the tools related
+to temperature minimum
+[1:37:15] to really become a
+morning person over time,
+[1:37:18] and it actually is pretty easy.
+[1:37:20] And I talked about this
+in a previous episode
+[1:37:22] but I'll just mention
+that there have been shown
+[1:37:24] to be important, positive
+effects on cognition,
+[1:37:27] on even grip strength
+and physical performance,
+[1:37:29] for people that are early morning risers,
+[1:37:32] and that's especially true for night owls
+[1:37:35] that deliberately shift
+themselves to become early risers.
+[1:37:38] Okay, so that's a lot of
+information and a lot of tools
+[1:37:40] and I suppose the one set of tools
+[1:37:42] that I really didn't
+drill into too deeply,
+[1:37:45] the ones related to
+jet lag and shift work.
+[1:37:47] And again, please check out the episode
+[1:37:49] on jet lag and shift work
+if that's relevant to you.
+[1:37:52] But I think for most people
+who are going to sleep at night
+[1:37:55] and are trying their best
+to sleep well at night
+[1:37:58] and are trying their best
+[1:37:59] to wake up in the morning at whatever hour
+[1:38:01] and stay alert and focused
+throughout the day,
+[1:38:03] maybe with a brief nap,
+[1:38:04] the tools that I talked about today
+[1:38:06] related to light,
+temperature, food, exercise,
+[1:38:09] caffeine, supplements, and digital tools,
+[1:38:12] I'm hoping will prove to
+be very useful for you.
+[1:38:15] They certainly are all supported
+[1:38:17] by excellent peer-reviewed research.
+[1:38:19] And I should just emphasize again
+[1:38:21] that most of the tools we talked about
+[1:38:22] are completely zero cost.
+[1:38:24] So while the supplements and
+some of the digital tools
+[1:38:26] do carry some cost to them,
+[1:38:29] I really want to encourage everybody
+[1:38:30] to get your behaviors right.
+[1:38:32] Get all of the things related
+to your timing of exercise
+[1:38:35] and type of exercise
+[1:38:36] in the best possible
+order and time of day.
+[1:38:40] We talked about this critical
+period early in the day
+[1:38:42] and then another critical
+period in the middle of the day
+[1:38:44] and the late afternoon
+[1:38:45] and then this third critical period
+[1:38:46] in the middle of the night.
+[1:38:47] Different tools for the
+different three critical periods.
+[1:38:50] I promise that if you
+start to implement some,
+[1:38:52] or ideally, all of these tools,
+[1:38:55] the quality of your sleep
+will increase tremendously.
+[1:38:58] And of course, in doing so,
+[1:39:00] the quality of your daytime alertness
+[1:39:02] and your ability to focus
+will improve tremendously.
+[1:39:04] Again, sleep is the absolute foundation
+[1:39:08] of your mental health,
+your physical health,
+[1:39:10] and your performance in all endeavors.
+[1:39:12] So if there's one area of your life
+[1:39:14] to really focus on and try and optimize,
+[1:39:17] if your goal is to be
+happier and more productive
+[1:39:20] and just to have a better life overall,
+[1:39:22] I can confidently say
+[1:39:24] that sleep is really
+the thing to optimize.
+[1:39:27] If you're learning from
+and/or enjoying this podcast,
+[1:39:29] please subscribe to our YouTube channel.
+[1:39:31] That's a terrific zero-cost
+way to support us.
+[1:39:33] We also now have a clips channel.
+[1:39:34] It's Huberman Lab Clips.
+[1:39:36] Please subscribe to our clips channel
+[1:39:37] for short outtakes from podcast episodes.
+[1:39:39] Please also subscribe to the
+podcast on Spotify and Apple.
+[1:39:42] And on both Spotify and Apple,
+[1:39:44] you can leave us up to a five-star review.
+[1:39:46] If you have questions about
+the content of these podcasts
+[1:39:49] or you have suggestions about
+topics you'd like us to cover
+[1:39:51] or guests you'd like us to invite
+[1:39:52] on The Huberman Lab Podcast,
+[1:39:54] please put all that in the
+comment section on YouTube.
+[1:39:57] We do read all those comments.
+[1:39:59] In addition, please check
+out the sponsors mentioned
+[1:40:01] at the beginning of today's podcast.
+[1:40:02] That's the best way to
+support this podcast.
+[1:40:05] During today's podcast
+[1:40:06] and on many previous episodes
+of The Huberman Lab Podcast,
+[1:40:08] we talked about supplements.
+[1:40:10] While supplements aren't
+necessary for everybody,
+[1:40:12] many people derive
+tremendous benefit from them
+[1:40:14] for things like sleep and focus
+[1:40:15] and hormone support and so forth.
+[1:40:17] For reasons mentioned at the
+beginning of the episode,
+[1:40:19] we are now partnered with
+Momentous supplements.
+[1:40:21] If you go to livemomentous.com/huberman,
+[1:40:24] you'll see many of the
+supplements described on today's
+[1:40:26] and other episodes of
+The Huberman Lab Podcast.
+[1:40:28] Again, all as
+single-ingredient formulations.
+[1:40:31] They ship internationally,
+[1:40:32] their quality is exceedingly high,
+[1:40:34] and by largely focusing
+on single ingredient
+[1:40:38] and various dosages of
+different supplements,
+[1:40:41] you can create the optimized
+supplement protocol for you.
+[1:40:44] If you're not already
+following us on social media,
+[1:40:47] we are @hubermanlab on Instagram
+[1:40:49] and also @hubermanlab on Twitter.
+[1:40:51] There, I cover science
+and science-related tools,
+[1:40:53] some of which overlaps
+[1:40:54] with the content of The
+Huberman Lab Podcast,
+[1:40:56] and other of which,
+[1:40:57] I should say much of which,
+[1:40:58] is distinct from the information
+covered on this podcast.
+[1:41:01] If you're interested
+in obtaining protocols
+[1:41:03] or summaries from these podcasts,
+[1:41:05] you can get those completely free of cost
+[1:41:07] by going to hubermanlab.com.
+[1:41:09] Go to the menu at hubermanlab.com.
+[1:41:11] Go to the Neural Network Newsletter.
+[1:41:12] You simply provide us your email
+[1:41:14] and you'll get the
+Neural Network Newsletter
+[1:41:16] for free each month.
+[1:41:17] You can also find previous newsletters
+[1:41:19] there at hubermanlab.com.
+[1:41:21] For instance, Toolkit for Sleep
+[1:41:24] or Deliberate Cold Exposure
+and so on and so forth.
+[1:41:26] Again, we don't share
+your email with anybody.
+[1:41:28] So our privacy policy is
+made very clear there.
+[1:41:31] And it's completely zero cost.
+[1:41:33] So thank you for joining
+me today for our discussion
+[1:41:35] about tools for optimizing sleep,
+[1:41:37] and in doing so, tools for
+optimizing not just sleep,
+[1:41:41] but your daytime feelings
+of alertness and focus
+[1:41:44] and your overall health.
+[1:41:45] And last but certainly not least,
+[1:41:47] thank you for your interest in science.
+[1:41:49] [bright music]

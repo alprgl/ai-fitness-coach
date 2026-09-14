@@ -1,0 +1,3292 @@
+# How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French
+# id=iMvtHqLmEkI published=2021-11-08 lang=en generated=False
+
+[0:00:00] - Welcome to the Huberman Lab Podcast
+[0:00:01] where we discuss science,
+[0:00:03] and science-based tools for everyday life.
+[0:00:09] I'm Andrew Huberman,
+[0:00:10] and I'm a Professor of Neurobiology
+[0:00:12] and Ophthalmology at
+Stanford School of Medicine.
+[0:00:15] Today, I have the pleasure of
+introducing Dr. Duncan French
+[0:00:18] as my guest on the Huberman Lab Podcast.
+[0:00:21] Dr. French is the Vice
+President of Performance
+[0:00:23] at the UFC Performance Institute,
+[0:00:25] and he has over 20 years of experience
+[0:00:27] working with elite, professional,
+and Olympic athletes.
+[0:00:31] Prior to joining the UFC,
+[0:00:32] French was the Director
+of Performance Science
+[0:00:34] at the University of Notre Dame,
+[0:00:36] and he has many, many
+quality peer-reviewed studies
+[0:00:39] to his name, exploring, for instance,
+[0:00:41] how the particular order of exercise,
+[0:00:44] whether or not one
+performs endurance exercise
+[0:00:46] prior to resistance
+training or vice versa,
+[0:00:49] how that impacts performance
+of various movements
+[0:00:52] and endurance training protocols,
+[0:00:54] as well as the impact on hormones,
+[0:00:56] such as testosterone, estrogen,
+[0:00:58] and some of the stress
+hormones such as cortisol.
+[0:01:01] He's also done fascinating work
+[0:01:02] exploring how neurotransmitters,
+[0:01:05] things like dopamine and epinephrin,
+[0:01:06] also called adrenaline,
+can impact hormones,
+[0:01:09] and how hormones can impact
+neurotransmitter release.
+[0:01:13] What's particularly unique
+about Dr. French's work
+[0:01:15] is that he's figured out
+specific training protocols
+[0:01:19] that can maximize, for
+instance, testosterone output
+[0:01:22] or reduce stress hormone output
+[0:01:24] in order to maximize
+the effects of training
+[0:01:27] in the short-term and in the longterm.
+[0:01:30] So, today, you're going to
+learn a lot of protocols.
+[0:01:33] Whether or not you're
+into resistance training
+[0:01:34] or endurance training, you
+will learn, for instance,
+[0:01:36] how to regulate the
+duration of your training
+[0:01:40] and the type of training that you do
+[0:01:42] in order to get the maximum benefit
+[0:01:44] from that training over time.
+[0:01:46] So whether or not you are somebody
+[0:01:47] who just exercises
+recreationally for your health,
+[0:01:50] whether or not you're an
+amateur or professional athlete,
+[0:01:53] or whether or not you're just
+trying to maximize your health
+[0:01:56] through the use of endurance
+and/or resistance training,
+[0:01:59] today's discussion will have
+a wealth of takeaways for you.
+[0:02:02] There are only a handful of people
+[0:02:04] working at the intersection
+of elite performance,
+[0:02:07] mechanistic science, and
+that can do so in a way
+[0:02:10] that leads to direct,
+immediately applicable protocols
+[0:02:14] that anybody can benefit from.
+[0:02:16] Dr. French also provides some
+incredibly important insights
+[0:02:19] about the direction
+that sport and exercise
+[0:02:22] are taking in the world today,
+[0:02:23] and their applications towards
+performance and health.
+[0:02:27] Before we begin, I'd like to
+emphasize that this podcast
+[0:02:30] is separate from my teaching
+and research roles at Stanford.
+[0:02:32] It is, however, part
+of my desire and effort
+[0:02:35] to bring zero cost to consumer
+information about science
+[0:02:38] and science-related tools
+to the general public.
+[0:02:40] In keeping with that theme,
+[0:02:42] I'd like to thank the
+sponsors of today's podcast.
+[0:02:44] Our first sponsor is ROKA.
+[0:02:46] ROKA makes eyeglasses and sunglasses
+[0:02:48] that are of the absolute highest quality.
+[0:02:50] I have spent my career
+working on the visual system,
+[0:02:53] and I can tell you that everything
+[0:02:54] about the way that ROKA eyeglasses
+[0:02:56] and sunglasses were designed
+was with performance in mind.
+[0:03:00] First of all, they're
+extremely lightweight
+[0:03:02] so you actually forget
+that you're wearing them
+[0:03:03] most of the time.
+[0:03:04] Second of all, even if you get sweaty,
+[0:03:07] if you're running or
+biking or it's a hot day
+[0:03:08] or you're running around and just happen
+[0:03:09] to be perspiring quite a lot,
+[0:03:11] they don't slip off your
+face, which is terrific.
+[0:03:13] They also have a great aesthetic
+[0:03:14] and they have a lot of
+different styles to choose from.
+[0:03:16] The clarity of the lenses is superb.
+[0:03:19] I don't think there's
+a match for the clarity
+[0:03:21] of ROKA glasses out there.
+[0:03:22] And if there is, I'm not aware of it.
+[0:03:24] They are absolutely crystal clear.
+[0:03:26] And that's true in any environment,
+[0:03:28] whether or not you're
+working in a dim environment
+[0:03:29] or a bright environment,
+the clarity is unmatched.
+[0:03:33] If you'd like to try ROKA
+eyeglasses or sunglasses,
+[0:03:35] you can go to roka.com.
+[0:03:37] That's R-O-K-A.com and
+enter the code "Huberman"
+[0:03:41] to save 20% off your first order.
+[0:03:44] Today's episode is also
+brought to us by Helix Sleep.
+[0:03:47] Helix Sleep makes mattresses and pillows
+[0:03:49] that are uniquely tailored
+to your sleep needs.
+[0:03:52] All of us have unique sleep needs,
+[0:03:53] and we should be sleeping on a
+mattress that's ideal for us.
+[0:03:57] If you go to the Helix site,
+[0:03:58] they have a quick two minute quiz,
+[0:04:00] ask you a number of questions
+about whether or not
+[0:04:01] you sleep on your side,
+your back, your stomach.
+[0:04:03] Do you tend to run hot or cold, et cetera?
+[0:04:05] Maybe you don't have the
+answers to those questions,
+[0:04:07] which is fine.
+[0:04:08] They'll match you to the mattress
+[0:04:09] that's ideal for your sleep needs.
+[0:04:11] I took that quiz and about 10 months ago
+[0:04:13] I started sleeping on
+the Dusk Helix mattress.
+[0:04:16] That's D-U-S-K.
+[0:04:17] That's the mattress that's ideal for me,
+[0:04:19] and I'm sleeping better
+than I ever have before.
+[0:04:21] So if you're interested in
+upgrading your mattress,
+[0:04:23] go to helixsleep.com/Huberman,
+[0:04:26] take their two minute sleep quiz,
+[0:04:27] and they'll match you
+to a customized mattress
+[0:04:29] and you'll get up to $200
+off all mattress orders
+[0:04:32] and two free pillows.
+[0:04:33] That's helixsleep.com/Huberman.
+[0:04:36] Today's episode is also
+brought to us by Headspace.
+[0:04:39] Headspace is a meditation app
+[0:04:40] that's backed by 25 published studies.
+[0:04:43] By now I think most
+people have heard about
+[0:04:45] or experienced the benefits of meditation;
+[0:04:48] improved focus, better
+sleep, reduced stress,
+[0:04:51] more creativity and insight.
+[0:04:52] There are just so many studies out there
+[0:04:54] that support those claims.
+[0:04:55] The challenge, however,
+[0:04:56] is sticking to a meditation practice.
+[0:04:58] And over the years, I
+confess there have been times
+[0:05:01] when I've meditated regularly
+and then I stopped meditating,
+[0:05:03] even though it always
+provides benefits for me
+[0:05:05] the first time I do it
+and every time I do it.
+[0:05:08] With the Headspace app,
+[0:05:09] it makes it very easy
+to meditate consistently
+[0:05:12] because they have different
+types of meditations
+[0:05:14] to select from, and they
+come in different durations.
+[0:05:17] So sometimes I only have three
+or four minutes to meditate.
+[0:05:19] They have those sorts of meditations.
+[0:05:21] They also have longer meditations
+of 20 minutes or more.
+[0:05:24] If you want to try Headspace,
+[0:05:25] you can go to headspace.com/specialoffer.
+[0:05:28] And if you do that, you'll
+get a free one month trial
+[0:05:31] with Headspace's full
+library of meditations
+[0:05:33] that you can use in any situation.
+[0:05:35] This is the best deal offered
+by Headspace right now.
+[0:05:38] So, again, if you're interested,
+[0:05:39] go to headspace.com/specialoffer.
+[0:05:42] And now, my conversation
+with Dr. Duncan French.
+[0:05:45] Duncan French, great to see you again.
+[0:05:48] - Likewise, likewise, thank you.
+[0:05:49] I don't often have many
+Stanford professors
+[0:05:52] in the Performance Institute,
+so I'm really excited.
+[0:05:54] - Oh, well, this place is amazing,
+[0:05:56] and you have a huge role
+in making it what it is.
+[0:06:00] The reason I'm so excited
+to talk with you is that
+[0:06:04] you're one of these rare beasts
+that you have been involved
+[0:06:08] in human performance
+and athletic performance
+[0:06:11] at the collegiate level.
+[0:06:13] You are obviously very
+involved in MMA now,
+[0:06:16] in the UFC Performance Institute.
+[0:06:18] And you also had the fortunate experience,
+[0:06:21] I like to think, of doing a PhD in...
+[0:06:25] What exactly was the PhD in?
+[0:06:26] - It was exercise physiology.
+- Exercise physiology.
+[0:06:28] So, you're familiar also
+with designing studies,
+[0:06:31] control groups, all the sorts
+of things that in my opinion,
+[0:06:35] anyway, are kind of lacking
+from the internet social media
+[0:06:39] version of exercise science,
+[0:06:41] which is that people throw
+out all sorts of ideas
+[0:06:43] about how people should be training,
+[0:06:44] what they should be doing and eating
+[0:06:46] and not eating and doing.
+[0:06:48] And certainly, science
+doesn't have all the answers,
+[0:06:50] but I just think it's
+so rare to find somebody
+[0:06:52] that's at the convergence of
+all those different fields.
+[0:06:56] And so, I have a lot of
+questions for you today
+[0:06:58] that I'm sure the audience are going to be
+[0:07:00] really interested in.
+- Well, listen,
+[0:07:02] I mean, I appreciate that.
+[0:07:03] It's very humbling, and yeah,
+[0:07:04] I've worked hard to get to where I am,
+[0:07:07] but I've always tried to be authentic.
+[0:07:08] And I think authenticity comes
+alongside academic rigor,
+[0:07:14] and objectivity, and insight
+and knowledge base, right?
+[0:07:18] At the end of the day, it's
+about having confidence,
+[0:07:20] having expertise and being
+able to deliver that expertise
+[0:07:23] to, in my world, to athletes.
+[0:07:26] And I think, and that's what
+I've always tried to do.
+[0:07:28] I've tried to have many strings to my bow
+[0:07:32] so that I can talk with
+many different hats on.
+[0:07:34] You know, one day I'm talking to a coach,
+[0:07:36] the next day I'm talking to an athlete,
+[0:07:37] the next day I'm talking to a CEO,
+[0:07:38] the next day I'm talking
+to an academic professor.
+[0:07:41] And so, I think being able
+to wear those different hats
+[0:07:45] is certainly a skillset
+that I've tried to build
+[0:07:48] throughout my career.
+[0:07:49] And like you said, I've
+been blessed to work with,
+[0:07:51] I think it was 36 different
+professional or Olympic sports
+[0:07:55] last time I counted.
+- Amazing.
+[0:07:56] - So, yeah, it's been a wild ride.
+[0:07:58] It's been great.
+[0:07:59] - Which of those sports
+was the most unusual?
+[0:08:02] - I've worked with crown green bowling.
+[0:08:05] - Wait, what?
+- Which I don't know,
+[0:08:06] as an American guy, I don't know-
+[0:08:07] - I've never heard of it.
+- How well you'd know that,
+[0:08:08] but basically imagine a 20
+foot by 20 foot square of turf
+[0:08:15] with a small raise in the
+middle, i.e. the crown.
+[0:08:18] So, it slopes to the edges.
+- Okay.
+[0:08:21] - And then, you throw out a
+white jack, a smaller ball,
+[0:08:25] and then you roll out larger balls
+[0:08:27] to try and get closest to the jack.
+[0:08:30] It's a very European thing, let's say.
+[0:08:32] - Interesting.
+- But yeah, sports performance
+[0:08:34] in crown green bowling, and there you go.
+[0:08:36] - All right.
+[Duncan laughing]
+[0:08:37] Wow, and then to mixed
+martial arts, fighters-
+[0:08:40] - Absolutely, there you go.
+- And everything in between.
+[0:08:43] So, along those lines,
+[0:08:44] can you give us a little
+bit about your background?
+[0:08:46] Where'd you start out?
+[0:08:47] Where are you from originally?
+[0:08:49] - Yeah, I'm from the northeast of England.
+[0:08:51] So I'm from a town called
+Harrogate, which is in Yorkshire,
+[0:08:54] which is a northern kind of area
+[0:08:56] of the UK-
+- Nice sunny weather
+[0:08:57] all year long?
+[0:08:58] - Yeah, you can imagine.
+[0:09:00] Yeah, with the two weeks of
+summer that we get, you know?
+[0:09:02] [Duncan laughs]
+[0:09:03] But yeah, I mean, I did
+my undergraduate studies
+[0:09:06] there in sports science.
+[0:09:07] I did teacher training to be
+[0:09:09] a physical education teacher after that.
+[0:09:11] Like most people I then
+worked as a high school
+[0:09:14] physical education teacher.
+[0:09:15] You know, great experience
+working with kids,
+[0:09:17] developing athletic qualities.
+[0:09:21] But something in the
+back of my mind always,
+[0:09:23] I wanted more, I wanted
+to be at the higher end
+[0:09:26] of elite sport.
+[0:09:28] I was a failed athlete like many people.
+[0:09:30] I represented my country in
+different sports and things,
+[0:09:33] but I never made it professionally.
+[0:09:36] So, that little seed was sown
+and as much as I then started
+[0:09:40] to reach out to different
+areas to do a PhD,
+[0:09:44] whether it was in the UK or also,
+[0:09:46] chance my arm, took a punt,
+[0:09:47] see if I could get over to the states.
+[0:09:49] I mean, all my buddies
+were going on gap years
+[0:09:52] after they finish university or whatever,
+[0:09:54] and going to Bali and
+hanging out or whatever,
+[0:09:57] traveling through Thailand.
+[0:09:58] And I figured, well, I've
+always loved the states
+[0:10:00] and can I go and kill
+two birds with one stone
+[0:10:02] and do something academic,
+continue my studies,
+[0:10:05] but also do it in a different environment
+[0:10:06] and get some life experience.
+[0:10:08] And many, many rejections,
+[0:10:11] as I'm sure you kind of aware
+from different professors,
+[0:10:14] whether it was Roger
+Noecker or William Kramer-
+[0:10:17] - So you wrote to these folks?
+[0:10:18] - I just cold called and send
+out information and saying,
+[0:10:21] "Yeah, so have you got any opportunities?"
+[0:10:24] Pushed back from them all,
+but dogged and kept asking,
+[0:10:28] and yeah, Dr. William Kramer,
+[0:10:30] who was at Ball State University
+in Indiana at the time,
+[0:10:33] a muscle neuroendocrinologist
+and researcher
+[0:10:36] in muscle physiology
+using resistance training,
+[0:10:40] he basically said, listen,
+I can guarantee your funding
+[0:10:42] for the first year of your
+studies, but not the next three.
+[0:10:45] - Sounds like a typical academic response.
+[0:10:46] - Yeah.
+- I can take care of you,
+[0:10:48] but not that well necessarily.
+- Right.
+[0:10:50] - Right, yeah.
+- Yeah, so, I spoke
+[0:10:51] to my parents and said,
+"Hey, can we take a punt?"
+[0:10:54] And they were great in supporting me.
+[0:10:56] And yeah, long story short,
+[0:10:57] came out to begin my PhD at Ball State.
+[0:11:00] After a year, Dr. Kramer
+transferred to UConn,
+[0:11:03] Connecticut, in Storrs,
+in the Northeast there.
+[0:11:06] And I transferred with him and yeah,
+[0:11:09] four great years with my
+PhD and getting my PhD
+[0:11:12] with a really prolific
+research group that looked at
+[0:11:16] neuroendocrinology, hormonal work,
+[0:11:19] but using a resistance training
+[0:11:21] primarily as an exercise
+stressor as a major mechanism,
+[0:11:25] and then looking at all
+the different physiologies
+[0:11:27] off the back of resistance training.
+[0:11:28] - Yeah, you guys were
+enormously productive.
+[0:11:30] I found dozens of papers
+on how weight training
+[0:11:35] impacts hormones and your
+name is on all of 'em.
+[0:11:40] And it's remarkable.
+[0:11:41] I have a question about this.
+[0:11:43] I'll just inject a question
+[0:11:44] about weight training and hormones.
+[0:11:46] You hear this all the
+time that doing these big,
+[0:11:48] heavy compound movements
+or resistance training
+[0:11:50] increases androgens, things
+like testosterone, DHT,
+[0:11:54] DHEA, and so forth.
+[0:11:56] Does anyone know how
+that actually happens?
+[0:11:58] Like what is it about
+engaging motor neurons
+[0:12:04] under heavy loads sends a
+signal to the endocrine system,
+[0:12:07] "Hey, release testosterone."
+[0:12:09] I've never actually been able
+to find that in a textbook.
+[0:12:12] - [Duncan] Yeah, well, I mean-
+[0:12:14] - And how can I do more of that?
+[0:12:15] [both laughing]
+[0:12:16] - Yeah, as much as I know, and again,
+[0:12:18] I'm digging out into the
+annals of Duncan French's
+[0:12:20] kind of brain now, but yeah.
+[0:12:22] I mean, I think it's a
+stress response, right?
+[0:12:24] It's mechanical stress
+and it's metabolic stress.
+[0:12:26] And these are the downstream
+regulation of testosterone
+[0:12:29] release at the gonads comes
+from many different areas.
+[0:12:35] My work primarily looked at catecholamines
+[0:12:38] and sympathetic arousal.
+[0:12:41] - So things like epinephrin, adrenaline?
+[0:12:42] - Correct, yeah, epinephrin,
+adrenaline, and noradrenaline,
+[0:12:47] how they were signaling;
+[0:12:49] the signaling cascade using the HPA axis,
+[0:12:52] releasing cortisol,
+and then looking at how
+[0:12:56] that also influenced the
+adrenal medulla to release
+[0:13:00] androgens and then signaling
+that at the gonads.
+[0:13:03] - That raises an interesting question.
+[0:13:04] So, in presumably weight
+training in women,
+[0:13:07] people who don't have testes
+also it increases testosterone.
+[0:13:11] - Yes, yeah.
+- And is that purely
+[0:13:13] through the adrenals?
+[0:13:14] When women lift weights,
+[0:13:15] their adrenal glands release testosterone?
+[0:13:16] - Absolutely.
+[0:13:17] I mean, that is the only area
+[0:13:19] of testosterone release for females.
+[0:13:21] And yes, it's the same downstream cascade.
+[0:13:23] Obviously the extent to which it happens
+[0:13:25] is significantly less in females,
+[0:13:27] but there's good data out there that shows
+[0:13:30] females can increase their
+anabolic environment,
+[0:13:33] their internal anabolic milieu
+[0:13:35] using resistance training as a stressor.
+[0:13:37] And then they get the
+consequent muscle tissue growth,
+[0:13:40] whether it's tendon,
+ligament, adaptations,
+[0:13:43] the beneficial consequences
+of resistance training,
+[0:13:46] which is driven by anabolic stimuli.
+[0:13:48] - Yeah, I have two questions about that.
+[0:13:50] The first one is something
+that you mentioned,
+[0:13:51] which is that the androgens,
+the testosterone comes from
+[0:13:55] the adrenals under
+resistance loads in women.
+[0:13:58] Is the same true in men?
+[0:14:00] I mean, we hear that the
+testes produce testosterone
+[0:14:02] when we weight train for
+men that have testes,
+[0:14:06] but do we know whether
+or not it's the adrenals
+[0:14:10] or the testes in men that
+are increasing testosterone
+[0:14:13] more or both-
+- Yeah I think that-
+[0:14:14] - A little bit from each?
+[0:14:16] - The field is divided presently
+in as much as understanding
+[0:14:19] the acute adrenergic response
+in terms of anabolic response
+[0:14:27] to exercise in an acute phase
+and the exposure to a stimulus
+[0:14:32] that is stress driven,
+which might be partly
+[0:14:34] from the adrenal glands,
+partly from the gonads,
+[0:14:36] versus a longitudinal exposure
+to anabolic environments,
+[0:14:41] which is primarily driven
+by obviously the gonads
+[0:14:44] and the endocrine
+environment from testosterone
+[0:14:47] release at the gonads.
+[0:14:48] So, the field is split in terms
+of how exercise is promoting
+[0:14:53] hypertrophy, muscle tissue growth.
+[0:14:55] And whether that is very
+much an adrenal stimuli,
+[0:15:00] or if that's significant
+enough in these acute responses
+[0:15:02] versus the longitudinal
+exposure to just elevated
+[0:15:05] basal levels of anabolic
+testosterone habitual level.
+[0:15:10] - So, it sounds like with most
+things, it's probably both.
+[0:15:13] It's probably the adrenals-
+[0:15:14] - Absolutely, yeah.
+- And the gonads.
+[0:15:15] And then you mentioned that testosterone
+[0:15:17] can have enhancing
+effects or growth effects
+[0:15:20] on tendon and ligament also.
+[0:15:22] You don't often hear about that.
+[0:15:24] People always think, testosterone, muscle.
+[0:15:26] But testosterone has a lot
+of effects on other tissues
+[0:15:30] that are important for
+performance it sounds like?
+[0:15:32] - Yeah.
+- Yeah what's the story there?
+[0:15:34] - Yeah, absolutely, I think
+the testosterone hormone is...
+[0:15:39] I mean, listen, there's androgen receptors
+[0:15:40] on neural tissue on neural axons.
+[0:15:42] - Pretty much everywhere.
+[0:15:43] Yeah.
+- Exactly, so,
+[0:15:45] the binding capacity of
+testosterone and influence
+[0:15:47] in different tissues within the body,
+[0:15:49] I touched on muscle tissue,
+but the ligaments, the tendons,
+[0:15:54] even bone to some extent,
+[0:15:56] testosterone has potential
+to influence that
+[0:15:59] in terms of removing osteopenic
+[0:16:01] kind of characteristics, et cetera.
+[0:16:02] So, yeah, it's a magic hormone let's say,
+[0:16:08] and with many end impacts
+in terms of adaptation.
+[0:16:12] - I definitely want to get
+back to your trajectory,
+[0:16:15] but as long as we're on the
+interactions between androgens,
+[0:16:19] testosterone and its derivatives
+and different tissues,
+[0:16:22] from the work that you
+did as a PhD student
+[0:16:25] and throughout your career,
+[0:16:27] could you say that there
+are some general principles
+[0:16:30] of training that favor
+testosterone production,
+[0:16:33] in terms of that somebody who's not
+[0:16:35] an elite athlete could use?
+[0:16:37] Somebody who's already adapted
+to weight training somewhat,
+[0:16:39] like they know the difference between
+[0:16:42] a dumbbell and a barbell,
+[0:16:43] and they know the various movements,
+[0:16:44] they're not going to damage themselves.
+[0:16:46] But once they're doing that, I mean,
+[0:16:47] I've heard shorter sessions are better
+[0:16:49] than longer sessions, but
+in rep loads, weight...
+[0:16:52] Now, there's a lot of parameter space.
+[0:16:54] But if you were going to throw
+out some of the parameters
+[0:16:57] that you think are most
+important to pay attention to
+[0:17:00] for the typical person who's
+trying to use weight training
+[0:17:03] to build or maintain muscle.
+- Yeah.
+[0:17:05] - Lose body fat, so body
+recomposition and/or stay strong
+[0:17:10] and healthy for sport of a different kind.
+[0:17:12] - Yeah, so the work that we obviously,
+[0:17:14] I was exposed to back in my PhD,
+[0:17:17] it was a double-edged sword.
+[0:17:18] And as much as testosterone
+is really stimulated
+[0:17:21] by an intensity factor
+and also a volume factor.
+[0:17:24] Now, growth hormone is
+a little bit different.
+[0:17:26] That's largely driven by
+an intensity factor alone.
+[0:17:28] - Oh, really?
+- Correct.
+[0:17:29] - I always thought the growth
+hormone was driven my volume,
+[0:17:31] which just goes to show you.
+[0:17:32] - Maybe I've got that wrong.
+- No, no, no, no.
+[0:17:33] I think you're probably right
+which just goes to show you
+[0:17:35] that most of what's out
+there on the internet-
+[0:17:37] - Right, right.
+- Is completely...
+[0:17:39] Not only is it wrong,
+it's usually backwards.
+[0:17:41] So, no trust-
+- I trust my instinct.
+[0:17:43] - No, trust your instinct
+because I think people
+[0:17:45] just make this stuff up.
+- Right.
+[0:17:47] - Because it's very hard to measure
+[0:17:49] growth hormone and testosterone.
+[0:17:51] And I can't imagine most of
+the stuff that I see out there
+[0:17:55] they're taking drips and
+measuring free versus bound
+[0:17:58] and all this kind of stuff,
+[0:17:59] but that's what you do in laboratories.
+[0:18:01] - Right, yeah.
+- Yeah.
+[0:18:02] - You look at total composition
+and you look at how much
+[0:18:04] of that is free circulating-
+- Yeah.
+[0:18:05] - In the system, how much is bound,
+[0:18:06] and therefore biologically
+active bound to receptor,
+[0:18:09] creating an adaptation.
+- Right.
+[0:18:12] - But yeah, coming back
+to testosterone in terms
+[0:18:14] of the training strategies,
+[0:18:15] it's largely driven by both an intensity
+[0:18:18] and a volume factor.
+[0:18:19] So if you look at many of
+the exercise interventions
+[0:18:22] that we use to try and investigate
+[0:18:24] and interrogate testosterone,
+[0:18:26] it was usually a six by 10 protocol.
+[0:18:30] So, you're touching at about-
+- Six by 10 meaning?
+[0:18:33] - Yeah, six sets of 10 repetitions,
+[0:18:35] which is quite a large...
+[0:18:37] 60 repetitions is quite a large volume
+[0:18:39] for a single exercise.
+[0:18:41] And that was usually
+pitched at about 80% intense
+[0:18:43] of one repetition max intensity.
+[0:18:45] - Okay, so 80% of the one
+rep max, six sets of 10 reps,
+[0:18:49] separated by rest of like-
+[0:18:51] - Two minutes.
+- Two minutes,
+[0:18:52] which is actually pretty fast.
+[0:18:54] - Yeah.
+- At least to me.
+[0:18:55] Anytime you see these
+two to three minutes,
+[0:18:56] when you're actually watching the clock,
+[0:18:58] those two minute rest
+periods go by pretty fast.
+[0:19:00] - By the third, fourth set
+you're dying for more, yeah.
+[0:19:03] - Yeah.
+- And I think we formulated
+[0:19:05] that kind of exercise
+protocol to really target
+[0:19:10] the release of testosterone
+and try and drive up
+[0:19:12] these anabolic environments to study
+[0:19:13] the endocrine consequences.
+[0:19:17] But I think that's the type of protocol
+[0:19:20] that is most advantageous for
+driving anabolic environment.
+[0:19:24] - And that was it for the workout?
+[0:19:25] That was it?
+- Yeah, I mean,
+[0:19:27] we would do that in a back squat.
+[0:19:28] So, a multi-joint, challenging exercise,
+[0:19:32] multi-muscle, multi-joint,
+[0:19:34] 80% load of your one repetition max.
+[0:19:36] And then, six by 10.
+[0:19:38] We did play around with your
+classic German Volume Type,
+[0:19:41] 10 by 10 kind of protocols,
+[0:19:44] but they were just
+unsustainable at that 80%.
+[0:19:47] The key to what we also did was
+we always adjusted the loads
+[0:19:52] to make sure that it was 10
+repetitions that were sustained.
+[0:19:55] So if the load was too high
+and an athlete or participant
+[0:20:00] had to drop the weights
+on the sixth repetition,
+[0:20:03] we would unload the bar and make sure
+[0:20:04] they completed the 10 repetitions.
+[0:20:06] - I see.
+- Bringing me back
+[0:20:07] to the point of it's an
+intensity and a volume derivative
+[0:20:10] that is going to be most advantageous
+for testosterone release.
+[0:20:13] - That's really interesting.
+[0:20:14] And one thing that you mentioned there
+[0:20:16] is especially interesting to me,
+[0:20:17] which is you said when
+you go from six sets
+[0:20:20] of 10 repetitions to 10
+sets of 10 repetitions,
+[0:20:24] it's not as beneficial and
+might even be counterproductive.
+[0:20:27] But to me, the difference
+between six and 10 sets
+[0:20:30] is only four sets.
+[0:20:31] It doesn't even sound that much.
+[0:20:32] So that sort of hints at the
+possibility that the thresholds
+[0:20:35] for going from a workout
+that increases testosterone
+[0:20:38] to a workout that diminishes testosterone
+[0:20:41] is actually a pretty narrow margin.
+[0:20:43] - Yeah and I think it comes back
+[0:20:44] to that intensity factor then.
+[0:20:46] What we saw were that 10
+by 10 protocol really sees
+[0:20:49] pretty significant drop-offs in the load.
+[0:20:52] And again, we're trying to
+stimulate with intensity,
+[0:20:55] with mechanical strain through intensity,
+[0:20:57] as well as metabolic
+strain through volume.
+[0:21:00] And I think that's the paradigm
+that you've got to look at
+[0:21:02] is that the mechanical
+load has to come from
+[0:21:06] the actual weight on the bar,
+[0:21:08] and the volume is the metabolic stimulus.
+[0:21:11] How much are we driving lactate?
+[0:21:12] How much you were driving glycogenolysis
+[0:21:14] in terms of that type of energy system for
+[0:21:19] executing a 10 by 10 protocol?
+[0:21:21] And what we often saw was
+just a significant reduction
+[0:21:24] in the intensity capabilities
+of an athlete to sustain that.
+[0:21:27] So we shortened the volume to try
+[0:21:30] and maintain the intensity.
+[0:21:32] - Interesting.
+[0:21:32] And you could imagine just
+taking very long rest,
+[0:21:36] keeping the session, being a big,
+[0:21:37] lazy bear in training.
+- Right.
+[0:21:39] - I sometimes do this.
+[0:21:40] I tell myself I'm going
+to work out for 45 minutes
+[0:21:42] and then two hours later, I'm done,
+[0:21:43] but not because I was huffing
+and puffing the whole time,
+[0:21:46] but because I was training really slowly.
+[0:21:48] - Right.
+- Is there any evidence
+[0:21:49] that training slowly can offset
+some of the negative effects
+[0:21:53] of doing a lot of volume?
+[0:21:54] - Well, it's an old adage of...
+[0:21:56] Two responses to your question.
+[0:21:58] I mean, the first one, I
+would say there's a difference
+[0:22:00] between 10 sets of six and six sets of 10.
+[0:22:03] And I think that comes back
+to the volume conversation.
+[0:22:06] Six sets of 10 is driving
+up metabolic stimulus.
+[0:22:11] If you're doing 10 sets of six,
+[0:22:13] you can probably take it
+to a higher intensity,
+[0:22:14] but you're not going to get
+the same metabolic load.
+[0:22:16] You're not going to get the same
+internal metabolic environment
+[0:22:20] that drives the lactate release,
+[0:22:21] that they will then signal
+further anabolic testosterone
+[0:22:24] release because of the
+lactate in your body.
+[0:22:28] That's a key consideration.
+[0:22:30] The rest is often the
+consideration that's overlooked
+[0:22:35] out there in general population,
+[0:22:36] and in many sporting environments.
+[0:22:38] That the rest is as important
+a program and variable
+[0:22:41] as the load and the intensity of the load,
+[0:22:44] the volume, et cetera.
+[0:22:45] And yes, if you extend the volume,
+[0:22:49] if you extend the duration
+of your rest periods,
+[0:22:52] what you're ultimately
+doing is influencing
+[0:22:54] that metabolic stimulus again.
+[0:22:56] You're allowing the flushing of the body,
+[0:22:58] the removal of waste products,
+[0:23:00] lactate to be removed from the body,
+[0:23:03] and then the metabolic
+environment is reduced.
+[0:23:07] - So, if I understand correctly,
+[0:23:09] you want to create a metabolic stress.
+[0:23:11] - Absolutely.
+- So, the way that I've
+[0:23:13] been training, slow and lazy,
+[0:23:15] is not necessarily the best way to go?
+[0:23:17] I could, in theory, do a
+45 or 60 minute session
+[0:23:21] where I pack in more work per unit time.
+[0:23:24] I'm not going to be able to
+quote unquote perform as well.
+[0:23:27] I won't be able to lift as much.
+[0:23:29] - Yep.
+- I might have to unweight
+[0:23:30] the bar between sets or
+maybe even during sets
+[0:23:33] if I have someone who could do that,
+[0:23:34] but it sounds like that's the way to go.
+[0:23:37] So, the old adage of high
+intensity, short duration
+[0:23:41] is probably the way to go.
+- Correct.
+[0:23:42] And in layman's terms,
+if the same objective,
+[0:23:46] the same training goal is
+just muscle tissue growth,
+[0:23:49] and we're not talking
+about maximal strength
+[0:23:51] or any of those type of parameters,
+[0:23:52] we're just talking about growing muscle.
+[0:23:54] If there's an athlete A
+and they do six sets of 10
+[0:23:57] with two minutes rest,
+[0:23:58] and there's athlete B
+that does six sets of 10
+[0:24:00] with three minute rest,
+[0:24:02] athlete A will likely see
+the highest muscle gains.
+[0:24:04] - Hm.
+- Muscle hypertrophy gains
+[0:24:06] because of the metabolic
+stimulus that they're driving
+[0:24:09] with the shorter rest periods.
+[0:24:10] - Interesting.
+[0:24:11] And for all the years that I've spent
+[0:24:14] exploring exercise
+science and trying to get
+[0:24:16] this information from the
+internet and various places
+[0:24:18] that this is the first time it's ever been
+[0:24:21] told to me clearly.
+[0:24:22] So, basically I need to put my ego aside
+[0:24:24] and I need to not focus so
+much on getting as many reps
+[0:24:29] with a given weight and
+keep the rest restricted
+[0:24:32] to about two minutes.
+- Yeah.
+[0:24:34] - Get the work in, and then
+I'll derive the benefits.
+[0:24:37] - I mean, you've absolutely
+nailed it to be honest.
+[0:24:39] And again, if you think about human nature
+[0:24:41] and how we approach, we're
+inherently lazy, right?
+[0:24:43] As humans, we want to take that rest.
+[0:24:47] We want to take the time out
+to recover and feel refreshed,
+[0:24:50] but we're trying to create
+a training stimulus.
+[0:24:53] We're trying to create
+a very specific stimulus
+[0:24:55] internal to the body,
+[0:24:56] and that is often driven by
+the metabolic environment
+[0:24:59] at that moment in time.
+[0:25:00] Now, if we allow the metabolic
+environment to change
+[0:25:03] by extending the rest periods,
+[0:25:05] we're not going to see as
+beneficial gains at the end of it.
+[0:25:08] - Very interesting.
+- So, it is very much
+[0:25:10] a motivational and ego
+thing rather than saying,
+[0:25:15] "Okay, I'm going to push
+my loads as high as I can,
+[0:25:18] and really challenge maximal strength,
+[0:25:19] do fewer repetitions, take
+longer periods of time."
+[0:25:22] It's a completely different
+approach to training.
+[0:25:24] It's a different end goal.
+- Interesting.
+[0:25:26] And you mentioned lactate,
+so it seems still a bit
+[0:25:29] controversial as to what
+actually triggers hypertrophy.
+[0:25:32] You hear about lactate buildup or people,
+[0:25:34] the common language is the muscle
+[0:25:36] gets torn and then repairs,
+[0:25:37] but I don't know, does
+the muscle actually tear?
+[0:25:40] - I mean microtrauma.
+- Okay, microtrauma.
+[0:25:41] - Yeah, disruption within
+the muscle tissue for sure.
+[0:25:45] - Interesting.
+[0:25:45] And we're talking now about
+non-drug assisted people-
+[0:25:48] - Correct, yeah.
+- Whose, let's just say,
+[0:25:51] let's define our terms here.
+[0:25:53] That whose testosterone
+levels are within the range
+[0:25:56] of somewhere between 300 and
+1,500 or whatever, 1,200,
+[0:26:00] because it does seem that
+athletes who take high levels
+[0:26:05] of exogenous androgens can do more work
+[0:26:07] and just get protein synthesis
+from just doing work.
+[0:26:10] - Yeah.
+[0:26:11] - I've seen these guys in the gym, right?
+[0:26:13] The telltale signs are
+not that hard to spot
+[0:26:15] where they're just doing a ton of volume,
+[0:26:18] not necessarily moving that much weight,
+[0:26:19] they're just bringing
+blood into the tissue.
+[0:26:22] And then they're loading up on,
+[0:26:24] they're eating a ton of protein,
+[0:26:25] presumably 'cause they're
+basically in puberty part 15.
+[0:26:28] - Right.
+- Right, they're on their
+[0:26:29] 15th round of puberty
+where during puberty,
+[0:26:32] you are a protein synthesis machine.
+[0:26:35] I mean, to me, that's
+pretty clear about puberty.
+[0:26:39] Interesting.
+[0:26:40] So, and then, in terms of,
+[0:26:42] because I know the audience
+likes to try protocols,
+[0:26:45] so you described a protocol very nicely.
+[0:26:50] What about day-to-day recovery?
+[0:26:51] I mean, the workout that you described
+[0:26:53] is intense, but short,
+[0:26:54] how many days a week can
+the typical person do that
+[0:26:57] and sustain progress?
+[0:26:59] - Yeah, I mean, I think that
+comes back to your training age
+[0:27:01] and your training history.
+[0:27:02] Obviously there's a
+resilience and a robustness
+[0:27:04] with an incremental training age.
+[0:27:06] So, that's not a protocol
+that I would advise
+[0:27:09] anyone to go out and start tomorrow.
+[0:27:12] - They'll be mopping
+them off the gym floor.
+[0:27:13] - Right, but at the same time,
+it's also relative, right?
+[0:27:16] So 80% of your maximum at a
+young training age is still 80%
+[0:27:21] versus I've been training
+10 years, it's still 80%.
+[0:27:24] But yes, the mechanical load
+is going to be significant,
+[0:27:27] it's just more tonnage, right?
+[0:27:29] But yeah, I think a protocol like that,
+[0:27:31] we would look at two times a week,
+[0:27:33] something that's pretty intensive
+like that, because again,
+[0:27:36] it comes back to the point you make
+[0:27:38] is that you really need to
+be, for want of a better term,
+[0:27:41] suffering a little bit
+through that type of protocol,
+[0:27:44] both in terms of the
+challenge of the load,
+[0:27:46] but also being able to
+tolerate the metabolic stress
+[0:27:50] that you're exposed to.
+[0:27:52] It's a bit of a sicko feeling
+because of the lactate
+[0:27:55] that you're driving up.
+[0:27:56] So, I wouldn't promote an athlete doing
+[0:27:59] that type of modality
+multiple, multiple times unless
+[0:28:03] you are from the realms of bodybuilding.
+[0:28:05] And then, you really,
+that's the sole purpose
+[0:28:07] of what you're trying to achieve.
+[0:28:08] Most athletes in most sports
+have diverse requirements
+[0:28:14] in terms of outcomes that
+they're trying to achieve.
+[0:28:16] They're not just targeting muscle growth.
+[0:28:18] Muscle growth is a conduit
+to increased strength,
+[0:28:22] increased power, increased
+speed, obviously.
+[0:28:24] So, yes, trying to get a
+bigger cross-sectional area
+[0:28:27] of a muscle means that
+we can produce more force
+[0:28:29] into the ground or wherever it may be,
+[0:28:31] if we're a locomotive athlete.
+[0:28:33] But usually, sports, men and women,
+[0:28:35] are not just purely seeking muscle growth.
+[0:28:38] They look for different
+facets of muscle endurance
+[0:28:41] or maximal muscle power, muscle strength.
+[0:28:45] So, then you've got to be very creative
+[0:28:46] in how you build the workout.
+[0:28:48] If it's a bodybuilder,
+absolutely they're chasing
+[0:28:50] muscle growth and they're going to do so
+[0:28:52] with these types of protocols,
+[0:28:53] which sees high intensities
+and high volumes of workload
+[0:28:57] on a pretty regular basis.
+[0:28:59] If it's just somebody, a
+weekend warrior that wants
+[0:29:03] to keep in shape and
+look good, I would say,
+[0:29:06] two times a week for a really
+challenging workout like that,
+[0:29:08] and then flex the other types
+of workouts within the week
+[0:29:11] to have more of a volume emphasis,
+[0:29:13] where you reduce the intensity
+[0:29:15] and you might just look
+at larger rep ranges
+[0:29:17] from 12 to 15 to 20.
+[0:29:19] Another workout where you're
+looking at reducing the volume,
+[0:29:22] but increasing the intensity
+and really trying to drive
+[0:29:25] different stimulus to give you
+more end points of success.
+[0:29:30] - Mm hm, great.
+[0:29:31] No, that's really informative.
+[0:29:34] Along the lines of
+androgens and intensity.
+[0:29:38] When I think intensity, I
+think epinephrin, adrenaline.
+[0:29:41] And since you have a background
+[0:29:43] in catacholamines and testosterone,
+[0:29:45] last time I was here at the
+UFC Performance Institute,
+[0:29:48] we had a brief conversation,
+[0:29:49] and I want to make sure
+I got the details right.
+[0:29:52] That in the short term, and a
+big increase in stress hormone
+[0:29:56] can lead to an increase in testosterone,
+[0:29:59] like a parachute jump.
+- Correct.
+[0:30:01] - But so, stress can promote
+the release of testosterone?
+[0:30:06] - Yeah.
+- That was news to me.
+[0:30:08] - Right.
+[0:30:09] - We always hear about stress
+suppressing testosterone,
+[0:30:11] stress suppressing the immune system,
+[0:30:12] all these terrible things.
+[0:30:13] But in the short term,
+you're saying it can actually
+[0:30:16] increase the release of testosterone.
+[0:30:19] So, I have that right?
+- Correct, yeah, yeah.
+[0:30:21] - Okay, and so then
+the second question is,
+[0:30:24] does my cognitive
+interpretation of the stressor
+[0:30:29] make a difference?
+[0:30:30] In other words, if I
+voluntarily jump out of a plane
+[0:30:33] with a parachute, does it
+have a different effect
+[0:30:36] on my testosterone than if
+you shove me out of the plane
+[0:30:39] against my will?
+[0:30:40] Well, presumably with a parachute too.
+[0:30:41] - Right, I mean, so this
+was what all my PhD work
+[0:30:45] was looking at was the
+exposure to a stressor,
+[0:30:53] and the pre-arousal of
+how your body essentially
+[0:30:56] prepares for that stressor,
+[0:30:57] and then how it manages it throughout
+[0:30:59] the exposure to the stress.
+[0:31:00] And it was actually motivated
+from parachute jumpers.
+[0:31:03] There was an older study looking
+[0:31:05] at parachute jumpers into combat.
+[0:31:08] And then, they were studying the cortisol,
+[0:31:11] the stress response, and
+the epinephrin response
+[0:31:13] of these parachute jumpers.
+[0:31:14] So, it got us thinking about, hold on,
+[0:31:16] there's certain workouts
+that you do that are just,
+[0:31:19] they're daunting, you know?
+[0:31:20] It's like, okay, it's squat
+Saturday or whatever it may be.
+[0:31:24] Oh my gosh, this is going to destroy me.
+[0:31:27] - Or I have to talk to this
+person I don't want to talk to
+[0:31:29] or you know, right?
+- Exactly, yeah.
+[0:31:31] - I mean, something, or
+a PhD dissertation exam-
+[0:31:33] - Exactly or speaking-
+- Or something, yeah.
+[0:31:35] - Giving public speaking
+or whatever it may be.
+[0:31:36] Now, we used an exercise,
+[0:31:39] we used a resistance training
+protocol that these athletes
+[0:31:42] knew was going to be
+very, very challenging.
+[0:31:46] There's going to have
+some anxiety to doing it,
+[0:31:48] they knew there were going
+to be some physical distress
+[0:31:50] from doing it.
+[0:31:52] And therefore, their mindset
+of how they were going to
+[0:31:55] approach that was already set.
+[0:31:56] So what we saw 15 minutes
+prior to the start
+[0:32:00] of an exposure to the
+workout, the epinephrin,
+[0:32:04] the noradrenaline, the
+adrenaline was already starting
+[0:32:06] to prepare the body sympathetically
+to go into what it knew
+[0:32:10] was going to be a very,
+very challenging workout.
+[0:32:13] So, that brings you back
+to exercise preparation,
+[0:32:16] competition for certain preparation...
+[0:32:19] Preparation for certain
+competition, excuse me.
+[0:32:22] Pre-workout routines, the use of music,
+[0:32:26] all these different things
+that we know can now
+[0:32:29] anecdotally in the gym we put into place,
+[0:32:32] but the data that I
+presented showed that...
+[0:32:35] It was a first of its kind to
+show that this link between
+[0:32:39] epinephrine and norepinephrine
+release and arousal,
+[0:32:42] and then consequent performance.
+[0:32:44] So, force output throughout the workout
+[0:32:46] was intimately linked.
+[0:32:47] - So, what was the takeaway there?
+[0:32:50] Is it beneficial for people
+to get a little stressed
+[0:32:53] about the upcoming impending event?
+[0:32:55] Whether or not it's a lift in the gym
+[0:32:57] or whether or not it's talking
+to somebody that you might be
+[0:33:01] intimidated to talk to, or an exam?
+[0:33:04] Is the stress good for
+performance or is it harmful?
+[0:33:07] - Yeah, and I think
+that's a great question.
+[0:33:09] And I think I can only
+talk to physical exertion,
+[0:33:13] which is what we were exploring.
+[0:33:15] And I don't want to tread on
+the toes of the psychologists
+[0:33:18] with flow state and these types
+of things, because clearly-
+[0:33:21] - I think you're in the
+position of scientific strength
+[0:33:24] on this one.
+- Right.
+[0:33:24] - I think you have the leverage.
+[0:33:26] - All right.
+- I mean, I have a lot
+[0:33:27] of friends in that community
+as I'll just say as a buffer
+[0:33:30] to the answer you're about to give,
+[0:33:32] that there's very little
+science around flow,
+[0:33:36] and there's very little neuroscience
+[0:33:38] related to most
+psychological states anyway.
+[0:33:40] So I think we've got a lot
+of degrees of freedom here.
+[0:33:42] - All right, I can breathe easy.
+[0:33:43] - Yeah, yeah.
+- Thank you for that.
+[0:33:46] - Anything you like, credit Duncan,
+[0:33:47] anything you dislike, send
+the mean comments to me.
+[0:33:52] - Yeah, I think from my data, certainly,
+[0:33:54] the greater the arousal, the
+higher the performance was
+[0:33:57] from a physical exertion perspective.
+[0:34:00] And I think that was the
+intriguing part of some
+[0:34:02] of my findings were there's definitely
+[0:34:04] an individual biokinetics to some of these
+[0:34:07] hormonal kind of releases.
+[0:34:08] And as much as those
+guys that had the highest
+[0:34:13] androgenic response in
+terms of epinephrin release,
+[0:34:15] norepinephrine release
+also sustained force output
+[0:34:20] for a longer period of the
+workout than those that didn't.
+[0:34:23] So, the individuals that
+had a lower stimulus
+[0:34:28] of the sympathetic arousal, let's say,
+[0:34:30] certainly didn't perform as
+well throughout the workout.
+[0:34:32] Now, the intriguing thing
+then becomes is okay,
+[0:34:35] and I think this really segues
+into what we're doing here
+[0:34:40] with combat athletes, with
+mixed martial artists.
+[0:34:43] There's a philosophy, there's
+a paradigm now for myself
+[0:34:45] in terms of the exposure, repeat exposure.
+[0:34:48] You know, the more you do
+that challenging workout,
+[0:34:50] do you get the same
+psychological stimulus?
+[0:34:53] Do you still get the same stress response?
+[0:34:56] And the assumption is unlikely.
+[0:34:58] You accommodate, you become
+accustomed to the stress
+[0:35:01] or your body will therefore adapt.
+[0:35:03] And that's the classic
+overload principle, right?
+[0:35:05] You then need to take the
+stressor down a different route.
+[0:35:08] But I think when you look at the athletes
+[0:35:11] that we work with here,
+[0:35:13] it's a fist fight at the end of the day.
+[0:35:16] There's nothing more stressful than that.
+[0:35:17] But I think just the exposure
+to the rigors of training,
+[0:35:20] to understand the bad
+positions, the bad situations,
+[0:35:24] to know that they can get
+out of certain situations,
+[0:35:27] out of certain submission
+holds or whatever it may be,
+[0:35:31] I think that really ties
+in with some of my PhD work
+[0:35:34] in terms of what these guys do to approach
+[0:35:36] what is a really
+challenging sporting arena
+[0:35:39] in mixed martial arts.
+[0:35:39] - Yeah, it's definitely the
+extreme of what's possible
+[0:35:43] in terms of asking does stress
+favor or hinder performance?
+[0:35:48] Because yeah, like you
+said, at the end of the day,
+[0:35:49] it's someone trying to hurt you as much
+[0:35:52] as they possibly can within
+[0:35:54] the bounds of the rules.
+- Right.
+[0:35:55] - And you're trying to do the same.
+[0:35:56] So, I find your thesis work fascinating.
+[0:36:00] Were you never to be at the
+UFC Performance Institute,
+[0:36:04] luckily they made the right
+choice and brought you here,
+[0:36:07] but were you have never to come here,
+[0:36:09] I was still fascinated by
+this because over and over
+[0:36:13] we hear that stress is bad,
+stress is bad, stress is bad,
+[0:36:16] but everything I read from
+the scientific literature
+[0:36:18] is that stress and
+epinephrin in particular
+[0:36:22] is coupled to the testosterone
+response to performance
+[0:36:25] and to adaptation, provided
+it doesn't go on too long.
+[0:36:29] So, unless I'm saying
+something that violates that.
+[0:36:32] - Absolutely, I agree.
+- I mean, that's your work.
+[0:36:34] So it's a really important
+and beautiful work.
+[0:36:37] And I refer to it often,
+so I'm just glad that-
+[0:36:40] - Thank you.
+- We could bolt that down,
+[0:36:42] because I think the
+people need to know this,
+[0:36:45] that that discomfort is beneficial.
+[0:36:48] Now, there's another side to
+this that I want to ask about,
+[0:36:51] which is the use of cold, in particular,
+[0:36:56] things like ice baths, cold showers,
+[0:36:58] or any other type of cold
+temperature exposure.
+[0:37:05] In theory, that's stress
+also, it's epinephrin.
+[0:37:08] And so, how should one think about
+[0:37:11] the use of cold for recovery?
+[0:37:14] So, if colds causes stress,
+[0:37:18] then how is cold used for recovery?
+[0:37:21] That's what I don't understand.
+[0:37:23] And maybe you just want to
+share your thoughts on that.
+[0:37:25] - Yeah, no, and I think
+it's a great question,
+[0:37:28] and I think the jury is
+still out there, certainly,
+[0:37:32] knowing some of the conversations
+that we've been having.
+[0:37:34] But I think, when we talk about stress,
+[0:37:36] it's your classic fight,
+flight or freeze approach.
+[0:37:40] And throwing your body into
+a cold tub, an ice bath,
+[0:37:44] or whatever it may be
+certainly is going to have
+[0:37:47] a physiological stress response.
+[0:37:49] Now, people are using that
+for different end goals.
+[0:37:53] And again, I think that's
+where the narrative
+[0:37:54] has to be explained.
+[0:37:56] If you are using the stress specifically
+[0:37:59] to manage the mindset,
+[0:38:02] to use it as a specific stress stimulus,
+[0:38:04] that's the same as me
+doing six by 10 at 80%.
+[0:38:08] You're just trying to find
+something to disrupt the system,
+[0:38:11] to do something that's very,
+for want of a better term,
+[0:38:14] painful, discomfort, whatever.
+[0:38:17] You're just finding a
+stressor and then being able
+[0:38:19] to manage the mindset.
+[0:38:21] But if you're using cold,
+[0:38:23] specifically from a physiological
+perspective to promote
+[0:38:29] redistribution of vascularity,
+[0:38:31] of blood flow to different
+vascular areas of muscle
+[0:38:35] that you feel have gone through a workout,
+[0:38:36] that are damaged or whatever it may be,
+[0:38:38] I think we've got to understand
+[0:38:40] what that stress mechanism is.
+[0:38:43] And the data, the literature
+is certainly still out there
+[0:38:46] with respect to
+cryotherapy and cold baths,
+[0:38:50] and some of these cold exposures
+in terms of what they do
+[0:38:55] at the level of the muscle tissue.
+[0:38:57] If that's the target,
+[0:38:58] if you're trying to promote
+a flushing mechanism,
+[0:39:02] or you're trying to promote redistribution
+[0:39:04] of the blood flow,
+[0:39:05] what you've got to understand
+is that cold is going to
+[0:39:07] clamp down every part
+of the vascular system.
+[0:39:10] And we've really got to
+understand how the muscle
+[0:39:13] would be redistributed
+to areas of interest.
+[0:39:17] So, I think the stress
+response is a real thing
+[0:39:22] with respect to cold exposure.
+[0:39:25] But I think the narrative around
+[0:39:27] what are you using the
+cold for has to precede
+[0:39:30] the conversation because yes,
+it's like putting your hand
+[0:39:34] over a hot coal.
+[0:39:35] That's a stress the same way as jumping
+[0:39:38] in a cold bath is.
+[0:39:40] - Yeah, I think most
+people don't realize that.
+[0:39:41] You're going to get the
+epinephrin release from holding
+[0:39:43] your hand too close to flame.
+- Absolutely.
+[0:39:45] - And you're going to get it
+from getting in the ice bath.
+[0:39:47] - Your body doesn't know
+the difference, right?
+[0:39:48] Your body does not know the difference.
+[0:39:50] It has a primordial kind
+of physiological response
+[0:39:56] that it's created over
+millions and millions of years.
+[0:39:58] And I think that that
+physiology is not changing.
+[0:40:03] And it's fixed in a
+particular way right now,
+[0:40:06] that it doesn't understand
+the difference between whether
+[0:40:08] it's six by 10 doing a
+challenging workout over here,
+[0:40:11] whether it's putting my
+hands on the hot coal,
+[0:40:13] whether there's a lion stood
+in front of me or whatever,
+[0:40:14] that epinephrin response
+from the level of the brain
+[0:40:18] down to the whole signaling
+cascade is the same.
+[0:40:21] - Mm hm, and cold, I've
+heard can actually prevent
+[0:40:24] some of the beneficial
+effects of training.
+[0:40:28] That it can actually get in the way
+[0:40:30] of muscle growth, et cetera.
+[0:40:33] - Yeah, there's some pretty
+robust data out there now
+[0:40:35] showing that it definitely
+has an influence
+[0:40:37] on performance variables like strength
+[0:40:39] and power in particular,
+[0:40:41] but absolutely in terms
+of muscle hypertrophy.
+[0:40:43] And there's a big kind
+of theme in the world
+[0:40:47] of athletic performance right now,
+[0:40:48] in terms of periodization of cold exposure
+[0:40:52] as a recovery modality.
+- Interesting.
+[0:40:54] - When do you use cold?
+[0:40:56] Should you be using cold
+for recovery in periods
+[0:41:00] of high training load when
+you're actually pursuing,
+[0:41:02] it might be general preparatory work,
+[0:41:05] or are actually trying
+to pursue muscle growth?
+[0:41:06] Well, that's usually where
+you get the most sore.
+[0:41:09] It's usually where you
+feel the most fatigued,
+[0:41:12] but it's probably not the
+most beneficial approach
+[0:41:15] to use an ice bath in that scenario,
+[0:41:17] because you're dampening,
+you're dulling the mTOR pathway
+[0:41:21] and the hypertrophic signaling pathway.
+[0:41:25] Whereas in a competition
+phase where actually
+[0:41:28] quality of exercise and
+quality of execution of skill
+[0:41:31] and technical work has to be maintained,
+[0:41:34] you want to throw the kitchen
+sink of recovery capabilities
+[0:41:38] and recovery interventions
+in that scenario
+[0:41:40] because the muscle building
+activity should be in the bank.
+[0:41:44] That should have been done in
+the general preparatory work.
+[0:41:47] And now you're focusing
+on technical execution.
+[0:41:50] So, you're absolutely right.
+[0:41:52] - No, it's interesting.
+[0:41:53] So, if I understand correctly,
+[0:41:55] if I want to maximize
+muscle growth or power
+[0:41:59] or improvements and adaptations,
+[0:42:03] then the inflammation response,
+[0:42:04] the delayed onset muscle soreness,
+[0:42:06] all the stuff that's
+uncomfortable and that we hear
+[0:42:08] is so terrible is actually
+the stimulus for adaptation.
+[0:42:11] And so, using cold in that situation
+[0:42:14] might short circuit my progress.
+[0:42:16] But if I'm, I don't know
+that I'll ever do this,
+[0:42:19] but if I were to do an
+iron man or something,
+[0:42:22] or run a marathon, under those conditions,
+[0:42:24] I'm basically coming to
+the race, so to speak,
+[0:42:28] with all the power and
+strength I'm going to have.
+[0:42:30] And so, there, reducing
+inflammation is good
+[0:42:32] because it's going to allow me to perform
+[0:42:34] more work, essentially.
+- Absolutely, yeah.
+[0:42:36] You have to be strategic
+about when you use
+[0:42:39] some of these interventions.
+[0:42:40] And the time when you
+preparing for a competition
+[0:42:44] is not the appropriate time...
+[0:42:45] Excuse me, is the appropriate
+time when you want
+[0:42:47] to drive recovery and make sure
+that your body is optimized.
+[0:42:51] When you're far away
+from a competition date
+[0:42:56] or out of season or whatever it may be,
+[0:42:58] and you're really trying to just tear up
+[0:43:00] the body a little bit, to
+allow its natural healing
+[0:43:05] and adaptation processes to take place,
+[0:43:07] well, you don't want to negate that.
+[0:43:09] You want the body to optimize
+its internal recovery
+[0:43:11] and that's how muscle growth
+is going to happen, so.
+[0:43:14] - So interesting.
+[0:43:15] - There's a time kind of
+consideration that you need to make
+[0:43:18] with these interventions, for sure.
+[0:43:19] - At the UFC Performance Center,
+[0:43:21] are the fighters periodizing
+their cold exposure?
+[0:43:24] Or are they just doing cold at will?
+[0:43:28] - Well, it's not just the UFC.
+[0:43:29] And again, I talk about
+my personal experiences
+[0:43:32] with different sports.
+[0:43:33] I think just education
+around where science is at
+[0:43:37] and our understanding of concepts
+[0:43:39] like the use of cold exposure
+for recovery, ice bath.
+[0:43:43] Everyone wants to jump in an ice bath.
+[0:43:44] But I think as we've
+stepped back and scientists
+[0:43:47] have started to figure out
+and look at some of the data,
+[0:43:52] we're now more intuitive about, well,
+[0:43:54] actually that might not be the best
+[0:43:56] or the most optimal approach.
+[0:43:57] And I think that's any given sport.
+[0:43:59] So, yes, certainly here at the UFC,
+[0:44:01] we're trying to educate
+our athletes around
+[0:44:05] appropriate timing.
+[0:44:06] And it's the same with nutrition,
+[0:44:07] it's the same with an
+ice bath intervention,
+[0:44:09] it's the same with lifting weights,
+[0:44:11] it's the same with going for a run
+[0:44:12] or working out on the bike.
+[0:44:14] There's tactics to when you do things
+[0:44:17] and when you don't do things.
+[0:44:18] And I think stress and cold exposure,
+[0:44:22] we have to have a consideration
+around that as well,
+[0:44:24] but it's not just MMA
+fighters, that's any athlete.
+[0:44:27] And I think it's the best professionals,
+[0:44:32] the most successful professionals
+do that really well.
+[0:44:35] They listen, number one,
+they educate themselves,
+[0:44:38] and then they build structure.
+[0:44:40] And I think at the most elite level,
+[0:44:42] we always talk about it here at the UFC,
+[0:44:44] but at the most elite level,
+[0:44:46] you're not necessarily training
+harder than anybody else.
+[0:44:49] Everybody in the UFC trains hard,
+[0:44:51] like everyone is training super
+hard, but the best athletes,
+[0:44:55] the true elite levels are
+the ones that can do it
+[0:44:58] again and again and again on a daily basis
+[0:45:00] and sustain a technical
+output for skill development,
+[0:45:03] therefore their skills can improve,
+[0:45:05] or physical development,
+[0:45:06] their physical attributes can improve.
+[0:45:08] So that ability to reproduce
+on a day-to-day basis
+[0:45:11] falls into a recovery conversation.
+[0:45:14] Now, when is the right
+time to use something
+[0:45:16] like an ice bath and when isn't,
+[0:45:17] is part of the high-performance
+conversation, for sure.
+[0:45:21] - So really they're scientists;
+[0:45:23] they're building structure,
+they're figuring out variables.
+[0:45:25] - Yeah.
+- But it sounds like
+[0:45:26] the ability to do more
+quality work over time
+[0:45:30] is one of the key variables.
+[0:45:31] - I mean, it's fundamental.
+[0:45:33] I mean, garbage in, garbage out.
+[0:45:35] Quality in, quality out.
+[0:45:37] But in our sport, I talk
+about mixed martial arts,
+[0:45:41] it's truly a decathlon of combat.
+[0:45:43] So there's so many different attributes,
+[0:45:45] whether it's the grappling,
+whether it's the wrestling,
+[0:45:46] whether it's the transition work,
+[0:45:48] whether it's a standup striking.
+[0:45:49] So, the different facets
+of a training program
+[0:45:52] in this sport are significantly large
+[0:45:56] compared to something like
+a wide receiver in football.
+[0:46:00] And that's no disrespect
+for wide receivers,
+[0:46:01] but they run routes.
+[0:46:02] They're going to run a
+route, a passing tree,
+[0:46:06] and that's all they need to do.
+[0:46:07] These guys have to be on the ground.
+[0:46:08] They've got to be great on the ground.
+[0:46:09] They've got to be great standing up.
+[0:46:10] They've got to be great with
+the back against the fence.
+[0:46:13] So there's so many different
+kind of facets to our sport.
+[0:46:16] So managing the distribution
+of all the training components
+[0:46:19] is one of the biggest
+challenges of mixed martial arts
+[0:46:22] and the best guys get that right.
+[0:46:24] They allow their body to
+optimize the training.
+[0:46:28] And remember, why are we doing training?
+[0:46:30] We're doing training for technical
+and tactical improvement.
+[0:46:34] Now, if your body is
+fatigued or you just can't
+[0:46:38] expose yourself to more
+tactical development
+[0:46:41] or technical development,
+[0:46:42] then you're essentially
+doing yourself a disservice.
+[0:46:45] You're going to be behind the
+curve with respect to those guys
+[0:46:48] that can reproduce that
+day-in and day-out.
+[0:46:50] - On the topic of skill
+development, regardless of sport,
+[0:46:55] we hear all the time and it
+certainly is intuitive to me
+[0:47:00] that the person who can focus the best
+[0:47:02] will progress the fastest.
+[0:47:05] But it's kind of interesting,
+[0:47:06] sometimes I talk to athletes and they seem
+[0:47:11] a little bit laid back about
+their training sometimes,
+[0:47:14] and yet they obviously
+know how to flip the switch
+[0:47:16] and they can really dial in the intensity.
+[0:47:19] Do you think that there
+are optimal protocols
+[0:47:21] for skill learning in terms
+of physical skill learning?
+[0:47:24] Like, could it ever be parametrized
+[0:47:26] like the six sets of 10 reps?
+[0:47:30] And this gets to the
+heart of neuroplasticity,
+[0:47:31] which is still, it's not a black box,
+[0:47:34] but it's kind of a black box
+[0:47:36] with portions of it
+illuminated, I like to say.
+[0:47:39] But what are your thoughts
+on skill development?
+[0:47:42] For somebody that wants
+to get better at sport,
+[0:47:44] do you recommend a particularly long
+[0:47:48] or short training session?
+[0:47:50] Does intensity matter or is it just reps?
+[0:47:53] - Yeah, I think, no, it's
+not a volume driven exercise.
+[0:47:58] It's a quality driven exercise.
+[0:48:00] And listen, my expertise
+is not in motor learning
+[0:48:02] and motor skill acquisition.
+[0:48:04] I tend to default to
+Dr. Gabriele Wulf here
+[0:48:07] at UNLV for that.
+[0:48:10] She's one of the leading
+proponents in this area.
+[0:48:12] But if you look at true skill development,
+[0:48:17] it is about rehearsal
+of accurate movement,
+[0:48:21] accurate movement mechanics.
+[0:48:24] And as soon as that becomes impacted
+[0:48:26] by fatigue or inaccurate movement,
+[0:48:29] you're now losing the motor learning,
+[0:48:32] you're losing the accuracy of the skill.
+[0:48:34] People can call it muscle memory
+[0:48:36] or whatever they want, right?
+[0:48:37] But essentially you're
+grooving neural axons
+[0:48:40] to create movement patterns
+and they're situational
+[0:48:43] throughout sport, right?
+[0:48:45] Whether it's a Cruyff turn in soccer
+[0:48:46] or a jump shot in basketball,
+or a forehand down the line,
+[0:48:49] you can carve out that particular posture
+[0:48:52] and position and skill,
+and you can isolate it,
+[0:48:55] and you can drill it
+again and again and again.
+[0:48:57] Now, as soon as fatigue is
+influencing that repetition,
+[0:49:02] it's time to stop.
+[0:49:03] And the best coaches understand that.
+[0:49:05] They understand that it's
+quality over quantity
+[0:49:08] when it comes to skill acquisition.
+[0:49:10] So to answer your question
+in a roundabout way,
+[0:49:12] I would say, yes, it's shorter sessions
+[0:49:15] that are very high quality.
+[0:49:17] And I think the best
+athletes in my experience
+[0:49:20] are the ones that
+consciously and cognitively
+[0:49:24] are aware of it at every
+moment of the training session.
+[0:49:28] They should leave the training session
+[0:49:30] not necessarily just physically fatigued,
+[0:49:31] but mentally fatigued because
+they're completely engaged
+[0:49:34] in the learning process.
+[0:49:37] The problem then becomes okay,
+[0:49:39] if we just do lots of 30 minutes sessions,
+[0:49:42] we've got to do a lot of
+30 minutes sessions to get
+[0:49:45] the volume exposure of the repetition
+[0:49:47] and the rehearsal of this skill
+again and again and again.
+[0:49:50] So, it's a bit of a paradox.
+[0:49:51] It's a bit of a double-edged sword,
+[0:49:53] but a three hour session
+versus a 90 minute session,
+[0:49:58] we'll take the 90 minute session any day
+[0:49:59] when it comes to skill acquisition,
+[0:50:01] because that's going to be
+driven by quality over quantity.
+[0:50:04] - Yeah, training and skill learning
+[0:50:06] is incredibly mentally fatiguing.
+[0:50:09] I've often wondered why
+when one works out hard,
+[0:50:13] whether or not it's with
+run or with the weights,
+[0:50:15] why it's hard to think later in the day.
+[0:50:17] - Right.
+- Yeah, there really does
+[0:50:19] seem to be something to it.
+[0:50:21] And I've wondered is it depletion
+of adrenaline, dopamine?
+[0:50:26] I sometimes think it might be dopamine,
+[0:50:28] and here I'm totally speculating.
+[0:50:29] I don't have any data to support this,
+[0:50:31] but if you hit a really
+hard workout or run
+[0:50:34] early in the day, oftentimes
+the brain just doesn't
+[0:50:37] want to do hard mental work.
+[0:50:39] Which gives me great
+admiration for these athletes
+[0:50:42] that are drilling their mind and body
+[0:50:43] all day, every day, with breaks.
+[0:50:46] But so what are your thoughts?
+[0:50:48] What leads to the mental fatigue
+after physical performance?
+[0:50:53] - Well, again, I don't want to talk out,
+[0:50:55] I'm talking to the man here, you know?
+[0:50:56] - Well, we're just two scientists-
+[0:50:57] - Yeah, yeah.
+- Speculating on this point.
+[0:50:59] Up until now, you've
+been giving us concrete
+[0:51:03] peer-reviewed study based
+feedback on my questions.
+[0:51:06] But if we were to speculate,
+[0:51:07] I mean, I think this
+is a common occurrence.
+[0:51:09] People think if I get that
+really good workout in
+[0:51:11] in the morning, I feel better all day.
+[0:51:12] - Right.
+- That's true,
+[0:51:13] unless that workout is really
+intense or really long.
+[0:51:17] - Yeah.
+- And then you just,
+[0:51:19] the mind just somehow won't
+latch on to mental work
+[0:51:23] quite as well.
+[0:51:25] - I mean, just philosophically
+and I think coming back
+[0:51:30] to this kind of stress consideration,
+[0:51:32] like public speaking or taking an exam.
+[0:51:34] I mean, if you have an amazing
+coach who is setting up
+[0:51:38] training in a particular
+way, it's challenging,
+[0:51:40] there's a strain related to it,
+[0:51:41] and I'm not talking physical strain,
+[0:51:43] I'm talking figuring things
+out, figuring out the skill.
+[0:51:47] And I think that can be stressful.
+[0:51:49] Like the learning
+process can be stressful.
+[0:51:51] So, we've touched on stress.
+[0:51:53] I also think if they
+hit the right technique,
+[0:51:58] that reward center in the brain,
+[0:52:00] that dopamine shot is
+going to fly up there.
+[0:52:03] And there's only so many
+times that we can get that
+[0:52:05] before that becomes dampened.
+[0:52:07] And I think there's an
+energetic piece to it.
+[0:52:09] There's the fueling of the brain.
+[0:52:11] There's the carbohydrate fuel
+in exercise that actually
+[0:52:15] the strategy around how
+you fuel for learning
+[0:52:19] and fuel for physical training
+is actually pretty similar.
+[0:52:23] - Glucose.
+- Yeah, it's glucose,
+[0:52:25] it's sugar at the end of the day, right?
+[0:52:26] So, are you fueling accordingly
+[0:52:30] around your training sessions,
+be that very physical,
+[0:52:32] because everyone thinks,
+[0:52:33] okay, I'm going to jump on a treadmill
+[0:52:35] and I'm going to bang out
+15 sprints at max effort,
+[0:52:40] and I'm going to be dropping
+off and laying on the floor
+[0:52:42] at the end of it.
+[0:52:43] I need to refuel.
+[0:52:44] Well, what about the
+refueling of the brain
+[0:52:47] in a very demanding
+exercise or drilling session
+[0:52:51] where you're looking at technique,
+[0:52:52] that you're trying to figure out,
+[0:52:54] that's very challenging
+for your mind to figure out
+[0:52:56] the complexity of it,
+[0:52:57] that still needs to be fueled
+or refueled afterwards.
+[0:53:00] And I think that's obviously
+might be an area where athletes
+[0:53:04] do themselves a disservice
+by not appropriately fueling
+[0:53:07] from what might be considered to be
+[0:53:08] a lower intensity session,
+but the cognitive challenge
+[0:53:13] has been significantly high.
+[0:53:15] - So, they're skill work or drill work,
+[0:53:17] and it's taxing the brain.
+- Correct, yeah.
+[0:53:19] - And they're thinking, oh,
+I wasn't pushing hard lifts
+[0:53:23] or doing sprints, and so I can just go off
+[0:53:25] into the rest of my day, but
+then their mind is drifting.
+[0:53:29] - Yeah, I mean, I speculate.
+[0:53:30] - Yeah, that sounds very reasonable.
+[0:53:33] I mean, I know that here and presumably
+[0:53:35] with the other athletes
+you've worked with,
+[0:53:36] nutrition is a huge aspect of that.
+[0:53:40] And I think the general
+public can learn a lot
+[0:53:42] from athletic nutrition
+because at the end of the day,
+[0:53:45] the general public is trying
+to attend to their kids,
+[0:53:48] attend to their work, whether
+or not they're lawyers
+[0:53:49] or whatever, they need to focus.
+[0:53:53] Nutrition is a barbed wire topic.
+[0:53:55] - Oh yeah [chuckling].
+[0:53:56] - But since we're free
+to do what we would do
+[0:54:00] if we were just sitting
+in each other's offices,
+[0:54:01] which is to just speculate a bit,
+[0:54:04] for the typical person,
+[0:54:06] do you think these low
+carbohydrate diets...
+[0:54:10] A typical person who
+exercises, runs, swims, yoga,
+[0:54:13] lifts weights, maybe not all those things,
+[0:54:14] but some collection of those,
+[0:54:16] pushes themselves to do those
+things and to do them well,
+[0:54:19] but isn't necessarily a
+highly competitive athlete.
+[0:54:22] Do you think that nutrition
+that doesn't include
+[0:54:26] a lot of glucose, doesn't
+include a lot of carbohydrates,
+[0:54:30] is a problem or is it okay?
+[0:54:33] What do you recommend for athletes?
+[0:54:35] What do you recommend for typical people?
+[0:54:37] - Yeah, again, disclaimer,
+I'm not a dietician, but I-
+[0:54:41] - That's okay, the dieticians don't know
+[0:54:42] what to recommend to athletes either.
+[0:54:44] And I say that from
+having spent a lot of time
+[0:54:46] with the literature now,
+it's a complete mess.
+[0:54:49] - Right, yeah.
+[0:54:50] - It's like, I thought
+we didn't understand
+[0:54:51] anything about the brain,
+[0:54:52] the nutrition science stuff
+is all over the place.
+[0:54:54] - Right.
+- So I think we have, again-
+[0:54:56] - We have some freedom.
+- Large degrees of freedom.
+[0:54:58] - Right, right, right.
+[0:54:59] I mean, I think it comes
+down to metabolic efficiency.
+[0:55:04] So we would never advocate a high...
+[0:55:07] I never say never, okay?
+[0:55:09] But we rarely advocate a
+high performance athlete
+[0:55:11] in a high intensity
+intermittent sport, like MMA,
+[0:55:18] being totally ketogenic or-
+[0:55:19] - You do not recommend that?
+[0:55:21] - No, because at the end of the day,
+[0:55:22] some of those high intensity
+efforts usually require
+[0:55:27] carbohydrate fueling for
+the energy that's produced
+[0:55:33] at those high intensities.
+[0:55:34] So, we try to navigate around that.
+[0:55:36] Now, listen, there are fighters
+in the UFC and elsewhere,
+[0:55:39] Matt Brown is a great example,
+[0:55:41] who promotes the ketogenic
+approach and it works for him.
+[0:55:45] But we look at the science and the nature
+[0:55:48] of the characteristics of our sport,
+[0:55:49] and we don't necessarily promote that.
+[0:55:51] - Can I interrupt you real quick?
+[0:55:52] What about ketones for people
+[0:55:54] that are ingesting carbohydrates?
+[0:55:56] This is an interesting area
+because people always hear
+[0:55:58] ketones and they think,
+oh, I have to be ketogenic
+[0:56:00] to benefit from taking ketones.
+[0:56:02] - Right.
+- But there are a number
+[0:56:03] of athletes and recreational
+athletes now as well,
+[0:56:07] taking liquid or powder-based ketones,
+[0:56:11] even though they do eat rice and oatmeal
+[0:56:13] and bread and other things.
+[0:56:15] So are there any known
+benefits of ketones,
+[0:56:19] even if one is not in a state of ketosis?
+[0:56:21] - So, the use of ketones
+that I'm primarily aware of
+[0:56:29] in our sport, is after the event.
+[0:56:31] In terms of the brain health with athletes
+[0:56:33] that are potentially taking
+trauma to the brain, et cetera,
+[0:56:36] and looking to maintain the fueling
+[0:56:39] and the energy supply to the brain.
+[0:56:40] But yes, it's probably a
+little bit out of my remit.
+[0:56:43] So I don't want to talk
+on that because I'm not
+[0:56:45] fully familiar with that.
+[0:56:46] - Well, I've heard that
+ketones after head injury
+[0:56:49] can provide a buffering component.
+[0:56:51] - Correct.
+- It's not going to reverse
+[0:56:52] brain damage, but it
+might be able to offset
+[0:56:54] some of the micro-damage.
+[0:56:56] - Right, so that's how we use it,
+[0:56:58] just to sustain the
+energy supply to the brain
+[0:57:02] that might be compromised
+through brain trauma.
+[0:57:04] So that's why we use ketones.
+[0:57:07] To come back to your original question.
+[0:57:08] If it's a general population then yes,
+[0:57:11] I think there's a place
+to argue that actually
+[0:57:13] being on a ketogenic diet at times,
+[0:57:15] and maybe it's a cycling
+exercise, maybe not...
+[0:57:18] I don't mean cycling a
+bike, I mean cycling ketosis
+[0:57:23] is beneficial because I
+think it's going to lead
+[0:57:25] to better metabolic management
+and metabolic efficiency,
+[0:57:29] at those lower intensities
+where we should be fueling
+[0:57:31] our metabolism with lipids and fats.
+[0:57:35] Clearly the Western diet
+and the modern day diet
+[0:57:39] is heavily driven by processed
+foods and carbohydrates
+[0:57:42] that people become
+predisposed to utilization
+[0:57:45] of that fuel source
+above lipid use, fat use,
+[0:57:50] at intensities that are very low.
+[0:57:52] So, some of our data with the
+fighters shows that as well.
+[0:57:56] But I think the challenge for
+us is that we're working with
+[0:57:59] a clientele that require high
+intensity bouts of effort.
+[0:58:03] So, fueling appropriately
+is very important for that.
+[0:58:07] Now, we use tactics here where
+we essentially have athletes
+[0:58:11] on what you would say,
+kind of is a largely
+[0:58:14] a ketogenic diet, but then
+we will fuel carbohydrates
+[0:58:18] around training sessions.
+[0:58:20] So, we'll do very timed
+exposure to carbohydrates.
+[0:58:23] So it's not-
+- Post-training?
+[0:58:24] - Post-training, immediately pre, during,
+[0:58:27] and then immediately post.
+[0:58:29] And then the rest of their diets,
+[0:58:30] breakfast, lunch, and dinner,
+[0:58:32] are what would look like
+ketogenic type approaches.
+[0:58:35] So we're trying to be very
+tactical in the exposure
+[0:58:38] to maximize the intensity for the training
+[0:58:41] and then return to a
+metabolically efficient diet,
+[0:58:44] which is heavily reduced in carbohydrate
+[0:58:47] because we've fueled the
+sessions that need it.
+[0:58:50] - I'm smiling because
+once again, this place,
+[0:58:54] the UFC Performance Center is
+doing things scientifically,
+[0:58:57] which to me, the idea, and
+I'm pleased to hear that,
+[0:59:01] because to me this idea
+that the ketogenic diet
+[0:59:04] is the best and only diet or carbohydrates
+[0:59:07] and low protein diets are the best diet.
+[0:59:09] It's just, it's ludicrous.
+- Right.
+[0:59:11] - Then you mentioned metabolic efficiency.
+[0:59:13] I think some people might
+be familiar with that term,
+[0:59:16] some perhaps not,
+[0:59:18] but the way I understand
+metabolic efficiency is that
+[0:59:21] you teach the body to
+use fats by maybe doing
+[0:59:26] long bouts of cardio, maybe
+lowering carbohydrates a bit.
+[0:59:30] So teaching the body to
+tap into its fat stores
+[0:59:32] for certain periods of training.
+[0:59:34] And then you also teach the
+body to utilize carbohydrates
+[0:59:37] by supplying carbohydrates
+immediately after training
+[0:59:40] and before training.
+[0:59:41] You teach the body to use ketones,
+[0:59:43] and then you use them
+at the appropriate time,
+[0:59:44] as opposed to just deciding
+that one of these fuel sources
+[0:59:47] is good and all the others
+are bad or dispensable.
+[0:59:50] Do I have that correct?
+- You've nailed it.
+[0:59:51] I mean, from Bob Seebohar,
+formerly of USA Triathlon,
+[0:59:57] is the guy that kind of came up with
+[0:59:59] the concept of metabolic efficiency,
+[1:00:02] but yes, you're absolutely right.
+[1:00:04] I mean, at low intensities of exercise
+[1:00:07] or just day-to-day living,
+we shouldn't be tapping into
+[1:00:10] our carbohydrate fuel sources extensively.
+[1:00:14] That's for higher intensity work
+[1:00:16] or the fight or flight needs of stress.
+[1:00:21] If athletes or any individual
+has a high carbohydrate diet,
+[1:00:27] they're going to start to
+become predisposed to utilizing
+[1:00:30] that fuel source preferentially.
+[1:00:32] Now, at low intensity,
+that can be problematic,
+[1:00:34] certainly for an athlete,
+[1:00:35] because if they preferentially
+use carbohydrate
+[1:00:39] at lower intensities,
+when the exercise demand
+[1:00:42] goes to a higher intensity,
+[1:00:44] they've already exhausted
+their fuel stores.
+[1:00:46] They can't draw upon fat
+because the oxidation
+[1:00:49] of that fat is just too slow.
+[1:00:51] So they're essentially now become fatigued
+[1:00:53] because they've already utilized
+their carbohydrate stores.
+[1:00:56] So what we try to do yes,
+through diet manipulation
+[1:00:59] and a little bit of exercise
+manipulation is as you say,
+[1:01:02] teach the body or train
+the body to preferentially
+[1:01:04] use a specific fuel source;
+[1:01:06] fat, obviously at lower intensities,
+[1:01:08] and carbohydrate at high intensities.
+[1:01:09] And we will look at
+specifically the crossover point
+[1:01:12] between the two, tell us a lot in terms of
+[1:01:14] how an athlete is ultimately,
+[1:01:17] how their metabolism is working.
+[1:01:18] - Well, again, I'm smiling
+because I love this
+[1:01:21] because it's grounded in
+something real and scientific,
+[1:01:25] which is that we have these
+different fuel sources.
+[1:01:27] The body can adapt to use any
+number of them or one of them.
+[1:01:30] I think most people are looking for that
+[1:01:32] one pattern of eating, that
+one pattern of exercising
+[1:01:35] that's going to be best
+for them or sustain them.
+[1:01:38] And they often look back
+to the time when they felt
+[1:01:41] so much better switching
+from one thing to the next,
+[1:01:44] but the adaptation process
+itself is also key, right?
+[1:01:47] Teaching the body.
+[1:01:49] So if we were to just riff on this
+[1:01:52] just a little bit further, if somebody,
+[1:01:55] I'll use myself as an example,
+[1:01:57] since I can only speculate
+what other people's
+[1:02:00] current nutrition protocols are,
+[1:02:02] but if somebody is eating
+in a particular way
+[1:02:05] and they want to try this kind
+of periodization of nutrition,
+[1:02:09] could one say, okay, for a
+few weeks I'm going to do more
+[1:02:12] high intensity interval
+training and weight training,
+[1:02:14] and I'm going to eat a
+bit more carbohydrate
+[1:02:16] 'cause I'm depleting more glycogen.
+[1:02:17] Then if I switch to a phase
+of my training where I'm doing
+[1:02:21] some longer runs, maybe I'm training less,
+[1:02:24] maybe I'm just working at
+my desk a little bit more,
+[1:02:26] then I might switch to a
+lower carbohydrate diet.
+[1:02:29] Do I have that right?
+[1:02:29] And then if I'm going to enter
+a competition of some sort,
+[1:02:32] certainly not UFC-
+- Right.
+[1:02:34] - Or MMA of any kind to be clear,
+[1:02:37] not because it isn't a wonderful sport,
+[1:02:39] but because that wouldn't be
+good for my other profession.
+[1:02:42] But if I were going to do that,
+[1:02:45] then I would think about
+stacking carbohydrates,
+[1:02:47] ketones, and fats.
+[1:02:50] Do I have that more or less right?
+[1:02:51] - Yeah, you've said it eloquently.
+[1:02:53] At the end of the day, you're
+consciously understanding
+[1:02:57] what the exposure to physical exertion is,
+[1:03:01] and you're flexing your day
+accordingly and I think that-
+[1:03:03] - So, it's need-based eating.
+[1:03:05] - Exactly, for want of a better term,
+[1:03:07] you can call it whatever fancy terminology
+[1:03:09] there is out there, but yes,
+it's needs-based eating,
+[1:03:13] but you're very conscious and cognizant
+[1:03:15] of what is my current exercise status.
+[1:03:18] If I'm taking some time off,
+[1:03:20] then don't gorge on the carbohydrates.
+[1:03:22] We probably need to be cut,
+[1:03:24] it's going to be lower intensity work,
+[1:03:25] or even just habitual
+day-to-day walking around,
+[1:03:28] doing your groceries.
+[1:03:29] That doesn't require massive
+amounts of glycogen storage
+[1:03:33] and carbohydrate fueling.
+[1:03:36] So, you can potentially go
+more ketogenic in nature,
+[1:03:40] oxidizing lipids for that fuel.
+[1:03:43] If you are in a high period
+of high intensity training,
+[1:03:47] then you have to consciously
+flex your diet to support that.
+[1:03:50] That's not normal, you've made a change,
+[1:03:52] you've elevated the demand.
+[1:03:54] So, the fueling requirements
+for the regenerative,
+[1:03:56] not only fueling the exercise,
+[1:03:58] but the regenerative
+requirements of your body
+[1:04:00] after that type of work is going to be
+[1:04:02] really important as well.
+[1:04:03] So, yes, take on more carbohydrates.
+[1:04:05] So, I think it's consciously
+interpreting the nature
+[1:04:08] of your diet against where
+you are at any moment in time.
+[1:04:11] - Yeah, I like that.
+[1:04:12] I think the listeners of my podcast
+[1:04:15] generally are experimenters.
+- Right.
+[1:04:17] - They are scientists of themselves,
+[1:04:19] which makes me happy obviously.
+[1:04:21] And I like to think that
+they're paying attention
+[1:04:24] to the changes they're making
+[1:04:25] and how they're affecting themselves.
+[1:04:27] And they seem more open to trying things,
+[1:04:31] provided they can do it safely,
+[1:04:34] and seeing what works for them.
+[1:04:35] And I'm certainly going to
+try some of the change up.
+[1:04:38] I also am really a creature of habit.
+[1:04:40] And I think that talking to you today,
+[1:04:41] I realize I'm probably
+doing a number of things
+[1:04:43] truly wrong in my training,
+[1:04:45] but also that I don't
+tend to vary my nutrition
+[1:04:48] with my training quite
+as much as I should.
+[1:04:50] I'm just locked into a protocol.
+[1:04:53] We covered a number of things related
+[1:04:55] to your PhD thesis work,
+but I cut you off early on
+[1:04:59] related to your trajectory.
+[1:05:01] After you finished your thesis.
+[1:05:03] - Yeah.
+- I know you were
+[1:05:05] at Notre Dame for a while.
+[1:05:06] Was that your first spot
+after your PhD thesis?
+[1:05:09] - No, no, I basically finished my PhD
+[1:05:13] and I dropped into the
+British Olympic system
+[1:05:15] for about 14 years.
+- Oh my, okay.
+[1:05:19] - I've done three full Olympic
+cycles with different sports,
+[1:05:23] largely as strength and conditioning coach
+[1:05:26] as a practitioner.
+[1:05:27] I was always working in
+universities and academia alongside,
+[1:05:31] in terms of continuing
+to publish and write
+[1:05:35] and do research and teach as well.
+[1:05:37] 'Cause I enjoy teaching.
+- That explains the huge
+[1:05:38] volume of publications.
+- Yeah [chuckling].
+[1:05:40] - I don't think people
+realize all the work
+[1:05:41] that goes into getting a quality
+peer-reviewed publication.
+[1:05:44] It's not, what do they call
+it now on Instagram, anecdata?
+[1:05:48] Where people would do something once.
+[1:05:50] - Right.
+- They have this experience
+[1:05:51] and then they put it in
+the world that it's a-
+[1:05:52] - Yeah.
+- Anecdata are,
+[1:05:55] I don't even know that
+we should call it data.
+[1:05:58] So, 14 years in working with
+the British Olympic team.
+[1:06:01] - Yeah, so whether it was GB boxing,
+[1:06:04] primarily with the Beijing cycle,
+[1:06:08] but also lightweight
+rowers and gymnastics.
+[1:06:11] And for the London Olympic games,
+[1:06:13] that cycle I was the lead
+strength and conditioning
+[1:06:16] and physical performance
+coach for British basketball.
+[1:06:18] So, GB basketball.
+[1:06:20] I had about three years in
+the English Premier League
+[1:06:24] with Newcastle United and the soccer team,
+[1:06:26] and then for the Rio Olympic cycle,
+[1:06:28] I was with Great Britain Tae Kwon Do.
+[1:06:29] So, again, another combat sport.
+[1:06:32] After I'd finished there,
+[1:06:34] I kind of moved to the
+University of Notre Dame,
+[1:06:37] where I went into more
+of a managerial position
+[1:06:40] working across all the
+different technical services;
+[1:06:43] medical, nutrition,
+strength and conditioning,
+[1:06:46] sports psychology and sports
+science, whatever it may be,
+[1:06:50] as the Director of Performance Sciences
+[1:06:54] for Notre Dame athletics.
+[1:06:55] And then, after about 16 months there,
+[1:06:57] the UFC came knocking
+and they recruited me
+[1:07:00] out of Notre Dame.
+[1:07:01] So, it's been a great ride,
+[1:07:03] and I've got lots of
+athletes have taught me
+[1:07:07] a lot along the way, lots of coaches.
+[1:07:09] Every day is a school day,
+[1:07:10] I still try and keep that mentality.
+[1:07:12] And in this world we call
+it white belt mentality.
+[1:07:18] I'm a PhD, I've got 25 years of experience
+[1:07:21] in high performance
+sport, but I still learn
+[1:07:24] every single day from these
+people out on the mats
+[1:07:26] and in the ring and it's
+impressive to see what they do.
+[1:07:28] - Yeah, it certainly is.
+[1:07:29] I got introduced to MMA
+just a few years ago.
+[1:07:32] I think the first time I came
+out here was one of the first
+[1:07:35] times I'd heard of MMA
+'cause I was kind of
+[1:07:37] in my laboratory, nose down.
+[1:07:39] And it's a really interesting
+sport because it incorporates
+[1:07:41] so many different types
+of movement as you said-
+[1:07:43] - Right.
+- It's not just
+[1:07:45] stand up boxing, it's not just kicking,
+[1:07:47] it's ground game, everything,
+[1:07:49] and I'm still learning about it.
+[1:07:52] But as you mentioned, going
+in with that beginner's mind,
+[1:07:55] the white belt mentality,
+[1:07:59] what has been the most
+surprising thing for you
+[1:08:03] in terms of being exposed
+to MMA in particular,
+[1:08:05] as opposed to other sports?
+[1:08:06] Like what's unique about MMA fighters,
+[1:08:09] besides that they have this
+huge variety of tactical skills
+[1:08:14] that they have to learn and perfect?
+[1:08:17] - Yeah, that's a great question.
+[1:08:19] I would say two things.
+[1:08:20] I'm going to answer two questions.
+[1:08:21] One actually reiterates
+what you've already said.
+[1:08:23] Like the degrees of freedom
+in mixed martial arts
+[1:08:26] are exponential, like no other sport.
+[1:08:30] We've got 11 different weight classes.
+[1:08:32] We have men's classes.
+[1:08:33] We have women's classes.
+[1:08:34] We have kickboxers,
+wrestlers, jujitsu fighters,
+[1:08:38] judoka, karate fighters.
+[1:08:40] The stylistic backgrounds are infinite.
+[1:08:44] We're a weight classification sport.
+[1:08:46] There's a whole issue
+relating to making weight
+[1:08:48] and then rebounding to
+fight about 24 to 30 hours.
+[1:08:51] Like just the variability in this sport,
+[1:08:54] the considerations that you
+have to make are unprecedented
+[1:08:59] compared to any other sport
+that I've worked with.
+[1:09:02] And a lot of them go against
+and are the antithesis
+[1:09:06] of what you would expect
+for high performance.
+[1:09:09] In terms of we don't
+always have a very clearly
+[1:09:13] defined competition schedule.
+[1:09:15] Once these guys fight,
+they don't necessarily know
+[1:09:17] when their next fight is going to be.
+[1:09:18] - What's the closest spacing of a fight?
+[1:09:20] - I mean, listen, I think
+the record is around,
+[1:09:24] it's just over a month, I believe.
+[1:09:27] - Oh, my goodness.
+[1:09:28] - So, you know, that's a quick turnaround,
+[1:09:30] but most of these guys are fighting
+[1:09:32] three or four times a year,
+[1:09:33] three times a year is pretty normal.
+[1:09:36] The bigger fighters,
+maybe two times a year.
+[1:09:39] But invariably, the guys
+don't know when that next date
+[1:09:42] is going to be.
+[1:09:43] So we're in this gray area
+of, okay, what do we do?
+[1:09:45] Like, are we taking some time off?
+[1:09:47] Are we just going to do
+some general prep work?
+[1:09:49] Are we going to try and keep the
+knife sharpened in case I get-
+[1:09:53] - I didn't realize this.
+[1:09:54] In that way it's a lot
+like special operations.
+[1:09:56] - Absolutely, you don't know when the call
+[1:09:58] is going to happen.
+- They have to be ready
+[1:09:59] at all times.
+[1:10:00] There isn't this, like, let's
+get ready for the season.
+[1:10:02] - Right, yeah.
+[1:10:03] Like when I was with the
+British Olympic Association,
+[1:10:06] I knew it was the British
+Open, the Spanish Open,
+[1:10:09] the French Open, the
+European Championships,
+[1:10:11] the Israeli Open, the American Open,
+[1:10:12] the Canadian Open, the Olympic games.
+[1:10:15] - It's a circuit in your brain.
+[1:10:16] - Right, yeah.
+- I can tell, yeah.
+[1:10:16] - You just plan like you know
+[1:10:18] where all the targets are going to be.
+[1:10:20] Here, it's a moving
+target because you might
+[1:10:22] be just hanging out doing
+some general prep work,
+[1:10:24] and then you might get
+a short notice fight.
+[1:10:26] They give you a quick call
+[1:10:27] and it's in six weeks or five weeks.
+[1:10:28] And okay, I've got to ramp
+everything up really quickly.
+[1:10:31] So, that's a real challenge
+in terms of just managing
+[1:10:35] all these different components
+[1:10:37] of a mixed martial arts alone.
+[1:10:41] To come back to your question,
+[1:10:42] the other thing which is truly fascinating
+[1:10:44] about these individuals is
+just their mental resilience.
+[1:10:49] And again, we've touched
+on it in the talk,
+[1:10:51] but the ability to do what
+they do on a daily basis,
+[1:10:54] to look at all the different skillsets
+[1:10:57] that they have to try and engage in
+[1:10:59] and bring into their training.
+[1:11:01] To do that and embrace the grind,
+[1:11:04] embrace the process of just learning,
+[1:11:07] the physical side of our
+sport is unprecedented.
+[1:11:10] But the mental side, we
+have a funny saying here.
+[1:11:13] We always say it's 90% mental
+[1:11:16] apart from the 60% that's physical.
+[1:11:18] So, it's just more and more and more.
+[1:11:21] And these guys' ability to
+just do that on a daily basis
+[1:11:26] is very impressive.
+[1:11:28] Like their resilience,
+their internal drive
+[1:11:30] and their resilience is
+really impressive to see.
+[1:11:34] - Yeah, all the fighters I've met here
+[1:11:35] have been really terrific.
+[1:11:36] It's interesting every
+time I meet a fighter,
+[1:11:40] I shouldn't be surprised when they're
+[1:11:41] often very soft-spoken.
+- Right.
+[1:11:42] - [Andrew] They're
+always extremely polite.
+[1:11:44] - Yeah, yeah.
+- You know?
+[1:11:45] And fighting is such a...
+[1:11:47] It comes from a very primitive
+portion of the brain, right?
+[1:11:50] But a large portion of
+the brain, nonetheless.
+[1:11:52] - But I think that's another
+skill is that switch.
+[1:11:55] And again, that's the
+recoverability piece, right?
+[1:11:57] Like you cannot be Taipei
+[1:11:59] or you cannot be like super
+charged 24 hours a day
+[1:12:03] because you're going to
+just fry your system, right?
+[1:12:05] And I think that's something
+else where we're really trying
+[1:12:07] to manage this whole process,
+[1:12:09] be it through nutritional interventions,
+[1:12:11] be it through education around sleep,
+[1:12:12] be it through training program management,
+[1:12:16] be it through psychological interventions.
+[1:12:19] You could look at fighters and
+say like, these guys are go,
+[1:12:22] like they're red alert and
+they'll run through a brick wall,
+[1:12:25] but actually again, their
+ability to turn it on and off
+[1:12:28] means that they can do what they do.
+[1:12:30] They can bring it down and be very normal,
+[1:12:33] very polite, very accommodating.
+[1:12:37] - Maybe even better than most people
+[1:12:38] because one of the reasons I'm obsessed
+[1:12:40] with human performance,
+and high-performance,
+[1:12:42] and people like fighters,
+and elite military,
+[1:12:46] or even bodybuilders for that
+matters that they experiment.
+[1:12:50] - Yeah.
+- They find the outer
+[1:12:52] limits of what's possible.
+[1:12:53] But one of the things
+that they have discovered,
+[1:12:56] as you're describing, is
+this ability to toggle
+[1:12:58] between high alert states and calm states.
+[1:13:01] Most typical people can't do this.
+[1:13:03] They see something that
+upsets them on the internet
+[1:13:05] or something on the news
+or some external event
+[1:13:08] pressures down on them
+and they're stressed
+[1:13:10] for many, many days and weeks,
+[1:13:11] and sometimes it goes pathological, right?
+[1:13:13] And I don't say this as a criticism,
+[1:13:15] it's just that most human
+beings, within our species,
+[1:13:19] most members of our species never learn
+[1:13:21] to either flip the switch
+or to just voluntarily
+[1:13:24] toggle between states.
+[1:13:26] I think athletes learn how
+to do that extremely well.
+[1:13:29] And it sounds like MMA
+fighters do that even better
+[1:13:33] than perhaps many other athletes.
+[1:13:35] - I mean, yeah, there's the odd one or two
+[1:13:37] that would struggle with,
+[1:13:38] but I think in terms of
+that chronic exposure,
+[1:13:41] we see that coming from challenges around
+[1:13:44] cyclical weight cutting,
+and metabolic disruption,
+[1:13:47] and metabolic injury,
+[1:13:48] not necessarily from
+the psychological drive.
+[1:13:52] They do understand that
+this is a job for them.
+[1:13:55] And the time on the mats,
+[1:13:57] most of them can turn it off a little bit
+[1:13:59] and downgrade things when
+they're off the mats.
+[1:14:02] It's impressive to see, because again,
+[1:14:04] like, as a layman, just
+looking at the fight game,
+[1:14:08] you think it's going to be crazy chaotic,
+[1:14:10] 100 miles an hour every hour of every day,
+[1:14:13] but that's clearly not the case.
+[1:14:16] They manage their energy and
+their efforts pretty well.
+[1:14:19] - So it's a little bit like science.
+[1:14:21] Although maybe scientists
+could take a lesson from-
+[1:14:23] - Yeah, that evidence-based practice
+[1:14:25] or practice-based evidence, right?
+[1:14:26] - Oh, I like that.
+[Duncan chuckling]
+[1:14:27] That's good.
+[1:14:28] A couple more questions,
+I can't help myself.
+[1:14:31] I know we talked about temperature earlier
+[1:14:33] when we discussed cold,
+but I can't help myself,
+[1:14:36] I have to ask you about heat.
+[1:14:37] Because earlier we were
+having a conversation
+[1:14:40] about heat adaptation,
+about how long does it take
+[1:14:43] for the human body or
+athlete or typical person
+[1:14:47] that's maybe exploring
+sauna or things of that sort
+[1:14:50] to learn to be a better sweater?
+[1:14:52] It sounds like something
+none of us would want to do.
+[1:14:55] We all want to stay
+cool, calm and collected.
+[1:14:56] But one of the reasons to deliberately
+[1:14:58] expose oneself to heat is for things
+[1:15:01] like growth hormone release, et cetera.
+[1:15:03] We can talk about this,
+but a couple of questions.
+[1:15:06] One, is heat exposure
+stress in the same way
+[1:15:09] that the ice bath or
+cold exposure is stress?
+[1:15:13] The second one is, is there any difference
+[1:15:15] there that's important?
+[1:15:16] And the other one is
+how does one get better
+[1:15:19] at heat adaptation or at
+least what are you doing
+[1:15:21] with the fighters to get them
+better at dealing with heat?
+[1:15:24] How long does that take?
+[1:15:24] So the first question,
+[1:15:25] just 'cause I threw
+three questions at you,
+[1:15:27] [Duncan chuckling]
+[1:15:30] is heat stress like cold is stress?
+[1:15:33] - Yeah, I think it is.
+[1:15:34] And I think heat shock
+proteins for example,
+[1:15:36] are driven by that stressful exposure
+[1:15:39] to a change in environment.
+[1:15:41] So, I think we do graded response in terms
+[1:15:46] of heat acclimation strategies, but yes,
+[1:15:50] we've touched on it earlier
+in the conversation.
+[1:15:52] For me, heat is still a stressor.
+[1:15:54] And if it's managed incorrectly,
+[1:15:57] you can have detrimental responses
+[1:15:59] rather than beneficial responses.
+[1:16:01] - So barring like hyperthermia and death,
+[1:16:03] like I mean, obviously you
+heat up the brain too much,
+[1:16:05] people will have seizures and
+die, but you lose neurons.
+[1:16:09] But what's the right
+way to acclimate heat?
+[1:16:12] Taking into account
+that people should check
+[1:16:15] with their doctor, et cetera.
+[1:16:16] We do all these disclaimers,
+but let's just say,
+[1:16:19] I want to get better at dealing with heat,
+[1:16:21] or I want to extract
+more benefit from heat.
+[1:16:24] I mean, how many minutes a day are people
+[1:16:26] typically exposing themselves to heat?
+[1:16:27] How often and over what periods of time?
+[1:16:30] - Yeah, so, we normally start with
+[1:16:32] about 15 minutes of exposure.
+[1:16:34] Now, if someone's really
+lacking acclimation to heat,
+[1:16:37] you can do that in three,
+five minute efforts.
+[1:16:40] Do you know what I mean?
+[1:16:40] And actually take-
+- This is a hot sauna?
+[1:16:42] - [Duncan] Yeah, hot sauna,
+take time to step out-
+[1:16:44] - 200 degrees or something like it?
+[1:16:45] - Correct, yeah.
+- Fahrenheit, yeah.
+[1:16:46] - 200 Fahrenheit, yes.
+[1:16:48] And we try to work up to 30 to 40 minutes
+[1:16:51] to 45 minutes in the sauna continuous.
+[1:16:53] Now, we have to understand,
+[1:16:56] what's the advantage of heat
+acclimation for our athletes?
+[1:17:00] Ultimately their ability to
+sweat and to lose body fluids
+[1:17:05] is going to be advantageous
+to their weight cut process.
+[1:17:08] So, their ability to make weight.
+[1:17:10] It is a technique that
+some of these guys adopt.
+[1:17:12] So, if you don't have high sweat rates,
+[1:17:16] it means you're going to
+have to sit in the sauna
+[1:17:18] for longer and longer and longer
+[1:17:19] to get the same delta in sweat release.
+[1:17:23] So the more acclimated you are,
+[1:17:24] the more your body is
+thermogenically adapted,
+[1:17:28] the more sweat glands you
+have, there's more pores,
+[1:17:31] you can sweat more and
+therefore you'll lose
+[1:17:33] that fluid quicker, and you
+spend less time in the sauna.
+[1:17:36] So, that's why we do it,
+to try and promote...
+[1:17:41] To limit the exposure.
+[1:17:42] And it comes back to your first
+question, is it a stressor?
+[1:17:44] It absolutely it's a stressor
+if you've got to spend
+[1:17:48] two hours over a four hour period,
+[1:17:51] two hours of it sat in a sauna.
+[1:17:52] - Yeah, where the phone-
+- Because you just don't
+[1:17:53] sweat enough.
+- Doesn't work, so you can't.
+[1:17:55] No, I'm just kidding.
+- Right.
+[1:17:56] - People, divorce them from their phone
+[1:17:57] and that's a stressor in itself.
+[1:17:59] - Right, I mean, yes, I think there's a...
+[1:18:02] What we do is like anything,
+we build up in temperature,
+[1:18:06] but we build up in volume of exposure.
+[1:18:08] So, we start with 15 minutes
+and then we just try to add on
+[1:18:11] and add on across a time.
+[1:18:13] And now, for us, we kind of
+found about 14 sauna exposures
+[1:18:17] starts to really then
+drive the adaptations
+[1:18:19] that we're looking for.
+[1:18:20] So it's not a quick fix.
+[1:18:22] A heat acclimation strategy
+has to happen long before
+[1:18:26] fight week or long before the fights.
+[1:18:28] This is a process that has
+to begin eight to 10 weeks
+[1:18:32] before the fight so that we can actually
+[1:18:33] get that adaptation and that
+tolerance to the stressor,
+[1:18:37] to the exposure of heat.
+[1:18:38] - This is interesting, until today,
+[1:18:40] when we were talking about
+this earlier, and again now,
+[1:18:42] I didn't realize that,
+[1:18:44] but it makes perfect
+sense now that I hear it,
+[1:18:46] that heat adaptation is possible,
+[1:18:50] that you basically can train the body
+[1:18:51] to become better at cooling itself,
+[1:18:53] which is what sweating is.
+- Yeah.
+[1:18:54] - I mean, I should have known that before,
+[1:18:56] but you don't see that in
+the textbooks and so, yeah.
+[1:18:59] - I mean, listen, it's the same
+[1:19:03] as the ketogenic conversation.
+[1:19:04] You're training your body to
+be more metabolic efficient,
+[1:19:07] you're training your body
+to tolerate heat more,
+[1:19:10] you're training your body...
+[1:19:11] Like the body as an organism,
+as an organic system,
+[1:19:15] it's hugely adaptable,
+it's hugely plastic.
+[1:19:18] But I think the skill is
+understanding the whens,
+[1:19:21] the whys and the whereofs in
+terms of changing the overload,
+[1:19:26] changing the stimulus to
+drive specific adaptation.
+[1:19:29] And philosophically that's
+how we go about our work here.
+[1:19:32] We talk about adaptation-led programming.
+[1:19:35] Now, adaptation-led programming fits into
+[1:19:38] every single category,
+not just lifting weights
+[1:19:40] or running track.
+[1:19:41] It fits into nutrition.
+[1:19:43] It fits into sitting in the sauna.
+[1:19:45] It fits into being in a cold bath or not.
+[1:19:47] It fits into so many
+different things because
+[1:19:49] we're driven by scientific insights.
+[1:19:51] And that's how we really want
+to go about our business.
+[1:19:54] - I love it, I love this concept
+[1:19:55] of adaptation-led
+programming and doing that,
+[1:19:58] not just in the context of
+throwing another plate on the bar
+[1:20:01] or something like that,
+[1:20:02] but in every aspect of one's
+training and performance.
+[1:20:06] And I think there's a lot
+here that's applicable
+[1:20:08] to the recreational athlete, too.
+[1:20:10] - Yeah.
+- Would you say that,
+[1:20:12] what comes to mind is 12 weeks.
+[1:20:14] It feels like 12 weeks is a
+nice block of time for someone
+[1:20:17] to try something in terms
+of to try something new,
+[1:20:20] see how they adapt, adapt,
+[1:20:22] and then maybe switch to something new.
+[1:20:24] I realized that it's very
+hard to throw a kind of pan
+[1:20:28] timeframe around something,
+but in terms of if someone
+[1:20:31] wanted to experiment with heat adaptation
+[1:20:33] or experiment with cold adaptation
+[1:20:35] or change up their
+training regimen or diet,
+[1:20:37] and look at metabolic efficiency,
+[1:20:40] do you think 12 weeks
+is a good period of time
+[1:20:43] to really give something a thorough go?
+[1:20:45] And gain an understanding of how well
+[1:20:48] or how poorly something works for oneself?
+[1:20:50] Or would you say eight is enough?
+[1:20:51] Or three?
+[1:20:52] - I mean, that's the how
+long is a piece of string
+[1:20:55] kind of response, right?
+- Yeah.
+[1:20:56] - I mean, yes, if we're just
+talking arbitrary numbers-
+[1:20:59] - Recreational experimenter.
+- Yeah, like three months
+[1:21:01] exposure, 12 week training strategy,
+[1:21:05] 12 week intervention is
+more than adequate to say
+[1:21:09] for 99% of things that
+change within the body,
+[1:21:12] that physiologically adapt
+to a training stimulus
+[1:21:14] or an overload stimulus,
+[1:21:15] you're going to start to see
+either regression or progression,
+[1:21:20] beneficial or detrimental
+effects within three months.
+[1:21:22] Absolutely, I would say so.
+[1:21:24] Now, listen, I say that in as
+much as we do training blocks
+[1:21:27] here that are three weeks long.
+[1:21:29] - Right, well, that's
+because of this constraint
+[1:21:31] that sometimes people suddenly have to,
+[1:21:32] they get the call to fight.
+[1:21:34] - Correct, yeah.
+[1:21:35] So it's like super condensed.
+[1:21:37] And in that scenario,
+[1:21:39] we're always conscious of is
+their body or this individual,
+[1:21:45] do they have the ability to
+tolerate that super overload,
+[1:21:48] that super condensed exposure?
+[1:21:50] Now, we might be doing that purposefully.
+[1:21:52] We might be trying to do
+an overreaching strategy
+[1:21:54] where we're really trying
+to damage or flex something.
+[1:21:57] And I don't mean like negatively damage,
+[1:21:59] but like we're trying to damage tissue
+[1:22:00] to really get an adaptive
+response versus a more drawn out
+[1:22:04] 12 week strategy, which is more coherent,
+[1:22:07] more planned out, more
+structured in nature.
+[1:22:10] But yeah, for all your listeners,
+[1:22:12] I would say 12 weeks
+to engage in a process
+[1:22:16] of trying to change and adapt your body
+[1:22:19] or expose yourself to something
+is more than sufficient
+[1:22:22] to see if it's going to be
+the right approach for you.
+[1:22:25] And I think, the
+individual interpretation,
+[1:22:29] it always has to be considered.
+[1:22:31] And I think that's where
+it comes back to be
+[1:22:34] a thinking man's athlete or
+be a thinking man's trainer,
+[1:22:37] like someone that's
+going through exercise,
+[1:22:40] you have to consciously
+understand where your body's at
+[1:22:44] any moment in time, you know?
+[1:22:45] You've got to be real with yourself.
+[1:22:47] You create a journal, create
+a log of your training,
+[1:22:49] create a log of your feelings,
+your subjective feedback
+[1:22:51] of how you felt, your mood, your sleep.
+[1:22:54] - Do your athletes do that?
+- Yeah, yeah.
+[1:22:56] We try to promote that because again,
+[1:22:58] that's part of this process, you know?
+[1:23:02] It might be 12 weeks for you,
+[1:23:03] but I might get the same
+responses in eight weeks.
+[1:23:06] And I think that's another
+critical theme here is that
+[1:23:11] we could put 15 guys on the mat
+[1:23:15] and give them the same workout,
+[1:23:17] and there's going to be
+15 different responses
+[1:23:20] to that same workout
+because the human organism
+[1:23:23] is so complex.
+[1:23:24] And in nature, it's going
+to adapt differently.
+[1:23:28] Some people will tolerate it.
+[1:23:29] Some people are going
+to be challenged by it.
+[1:23:31] Some people have got a metabolic makeup
+[1:23:33] that's going to promote it.
+[1:23:34] Some people are metabolically
+challenged by it.
+[1:23:36] There's just so many different things
+[1:23:38] that we have to consider.
+[1:23:39] And that's what we try to do here.
+[1:23:41] It's the cross we bear is
+that we try to understand
+[1:23:44] on an individual level how to
+optimize athletic performance.
+[1:23:47] - I think it's terrific,
+[1:23:48] and the athletes here are
+so fortunate to have this.
+[1:23:51] And most people out there,
+[1:23:54] I've certainly been
+trying to encourage people
+[1:23:56] to learn some science and some mechanism
+[1:23:57] and become scientists
+of their own pursuits,
+[1:24:00] whether or not skill learning
+[1:24:01] or athletic pursuit, et cetera.
+[1:24:04] As sort of a final question,
+[1:24:07] what are some things about
+the UFC or something about
+[1:24:09] the UFC that perhaps people don't know
+[1:24:11] in terms of its overall mission
+[1:24:13] or what you guys are trying to do here?
+[1:24:14] I mean, I think, I've become a fan of MMA
+[1:24:17] and I am more and more as time moves on.
+[1:24:20] Some people might be into MMA,
+[1:24:22] some people not into watching MMA,
+[1:24:24] but what are some things
+that the UFC is interested in
+[1:24:27] and doing that most people
+might not know about,
+[1:24:30] and certainly I might not know about?
+[1:24:33] - Yeah, I mean, I think,
+we try to be cutting edge.
+[1:24:39] We try to be super progressive.
+[1:24:41] We think we've got an
+amazing platform here,
+[1:24:43] particularly at the Performance Institute
+[1:24:45] to do some really cool things that can
+[1:24:46] inform many different people.
+[1:24:48] And that doesn't just mean
+the 600 or so athletes
+[1:24:51] that are on our global roster.
+[1:24:54] What we're trying to do is,
+is influence global community
+[1:24:58] around optimizing human performance.
+[1:25:00] So, any moment in time,
+[1:25:02] we're engaging in different technologies
+[1:25:04] with different vendors,
+different partners,
+[1:25:06] exploring opportunities
+to learn more, share data,
+[1:25:10] understand what's the best mechanisms
+[1:25:12] for interpreting your body,
+[1:25:14] interpreting how your body's
+responding to training,
+[1:25:17] interpreting your nutrition
+or whatever it may be.
+[1:25:20] We're in a really privileged
+position to do that.
+[1:25:23] But we've also, hence
+you being here today,
+[1:25:26] we're also trying to venture
+into some really cool areas
+[1:25:30] of science and research
+that's got applicability,
+[1:25:33] that you can take from
+high performance athletes
+[1:25:35] and apply to yourself, to Joe
+Blow walking down the street,
+[1:25:40] out there that is really interesting.
+[1:25:42] And that's everything
+from whether it's CBD
+[1:25:46] and psychedelics, through
+to different technologies
+[1:25:49] for thermal monitoring and
+Bluetooth heart rate monitoring
+[1:25:53] or whatever it may be,
+[1:25:54] through to data management, et cetera,
+[1:25:56] and anything in between.
+[1:25:58] We've got some great partners
+on the nutrition side,
+[1:26:01] on the psychology side, on the data side.
+[1:26:03] And I think we always try
+to just push the envelope
+[1:26:07] a little bit more.
+[1:26:08] I think we keep our core
+mission with our athletes,
+[1:26:10] but I think a lot of what
+we do, hence your podcast,
+[1:26:15] an amazing platform, you
+do such a great job of it,
+[1:26:17] that we can all learn
+and take from the elite
+[1:26:21] and interpret how it might help us,
+[1:26:23] and just in the general population.
+[1:26:25] So, I think that's our north
+star is to provide our athletes
+[1:26:29] the best integrated service of care,
+[1:26:33] but we also want to influence
+just the global community
+[1:26:36] and put the UFC at the forefront of that.
+[1:26:38] - That's great, well, you
+guys are certainly doing it,
+[1:26:40] and we can't let the cat
+out of the bag just yet.
+[1:26:43] But the things that we're gearing up
+[1:26:45] to do with my laboratory-
+- Yeah, I'm excited.
+[1:26:46] - And the work together,
+hopefully we'll be able
+[1:26:49] to talk about that and share
+that in the year to come,
+[1:26:52] but we're very excited about that.
+[1:26:55] And, Duncan, look, I have
+this filter that I use
+[1:27:00] when I talk to people,
+academics or otherwise,
+[1:27:03] which is some people,
+they open their mouth,
+[1:27:04] and it doesn't make much difference,
+[1:27:06] but when you speak, I learn so much.
+[1:27:10] I'm going to take the protocols
+that I've heard about today,
+[1:27:13] I'm going to think about how I'm training
+[1:27:14] and how I could train
+differently and better,
+[1:27:16] how I'm eating, how I could
+eat differently and better
+[1:27:19] for sake of performance
+and just in general.
+[1:27:24] Thank you so much for your
+time, your scientific expertise,
+[1:27:27] the stuff you're doing in the
+practical realm, it's immense.
+[1:27:30] So, hopefully we can do it again.
+[1:27:33] - Yes, thank you.
+[1:27:34] This has been a blast.
+[1:27:35] I appreciate it and yeah,
+keep doing what you're doing
+[1:27:37] 'cause I know there's a
+lot of people out there
+[1:27:38] that love the platform.
+[1:27:39] So, thanks for the invite.
+[1:27:40] It's been awesome.
+- Oh, thank you.
+[1:27:42] Thanks so much.
+[1:27:44] Thank you for joining
+me for my conversation
+[1:27:46] with Dr. Duncan French.
+[1:27:47] I hope you found it as insightful
+and informative as I did.
+[1:27:51] If you're enjoying this podcast
+and/or learning from it,
+[1:27:54] please subscribe to our YouTube channel.
+[1:27:56] Please also leave us a
+comment or a suggestion
+[1:27:58] of a future topic or future guests
+[1:28:00] that you'd like us to have
+on the Huberman Lab Podcast.
+[1:28:03] In addition, please
+subscribe to our podcast
+[1:28:06] on Apple and Spotify.
+[1:28:07] And on Apple, you can leave
+us up to a five-star review.
+[1:28:11] Please also check out the
+sponsors that we mentioned
+[1:28:13] at the beginning of this episode.
+[1:28:14] That's a terrific way
+to support this podcast.
+[1:28:17] We also have a Patreon.
+[1:28:18] It's patreon.com/andrewhuberman.
+[1:28:21] And there you can support the podcast
+[1:28:23] at any level that you like.
+[1:28:25] Many previous episodes of
+the Huberman Lab Podcast
+[1:28:28] we discuss supplements;
+supplements for sleep,
+[1:28:30] supplements for focus and for
+other health benefits as well.
+[1:28:34] While supplements may
+not be for everybody,
+[1:28:36] if you're going to use supplements,
+[1:28:37] you want to make sure
+that those supplements
+[1:28:38] are of the very highest quality.
+[1:28:40] For that reason, we've partnered
+with Thorne, T-H-O-R-N-E,
+[1:28:44] because Thorne supplements are
+of the very highest quality
+[1:28:47] and the amounts of ingredients
+listed on the label
+[1:28:51] of Thorne supplements precisely matches
+[1:28:53] what is actually contained
+in those capsules,
+[1:28:55] bottles and pills and
+powders and so forth.
+[1:28:57] This is extremely important.
+[1:28:58] A lot of analysis of supplements
+and supplement companies
+[1:29:01] have shown that what's listed
+on the bottle is often not
+[1:29:05] what's actually contained in the bottle.
+[1:29:07] Thorne's stringency is unmatched.
+[1:29:09] They've partnered with all
+the major sports teams,
+[1:29:11] with the Mayo Clinic.
+[1:29:13] And so, there's a lot of
+trust in Thorne supplements
+[1:29:15] for all the right reasons.
+[1:29:16] If you'd like to try Thorne supplements,
+[1:29:18] you can see the supplements that I take,
+[1:29:20] you can go to Thorne,
+thorne.com/u/huberman.
+[1:29:25] There, you can see the
+supplements that I take.
+[1:29:28] You can get 20% off any
+of those supplements.
+[1:29:30] And if you navigate into the Thorne site
+[1:29:32] through that portal, you can get 20% off
+[1:29:35] any of the supplements that Thorne makes.
+[1:29:37] I'd also like to mention
+that if you're not already
+[1:29:39] following us on Instagram @hubermanlab,
+[1:29:42] you might want to do so.
+[1:29:43] There I do brief science
+tutorials and offer science-based
+[1:29:47] protocols for all sorts of
+things that are often separate
+[1:29:50] from the protocols and information
+[1:29:51] covered on the Huberman Lab Podcast.
+[1:29:53] We're also on Twitter as hubermanlab.
+[1:29:56] And last and certainly not least,
+[1:29:59] thank you for your interest in science.
+[1:30:00] [light music]

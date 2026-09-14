@@ -1,0 +1,997 @@
+# Build Muscle Size, Increase Strength & Improve Recovery | Huberman Lab Essentials
+# id=jgaoLdS82vw published=2025-04-10 lang=en generated=False
+
+[0:00:00] Welcome to Huberman Lab Essentials,
+[0:00:02] where we revisit past episodes
+for the most potent
+[0:00:05] and actionable science-based tools
+[0:00:07] for mental health,
+physical health, and performance.
+[0:00:11] I'm Andrew Huberman,
+and I'm a professor of neurobiology
+[0:00:14] and ophthalmology
+at Stanford School of Medicine.
+[0:00:17] This podcast is separate
+from my teaching
+[0:00:19] and research roles at Stanford.
+[0:00:21] It is, however, part of my desire
+and effort to bring zero cost
+[0:00:24] to consumer information about science
+[0:00:26] and science-related
+tools to the general public.
+[0:00:29] Today, I want to talk about something
+[0:00:30] that is vitally important for
+not just athletic performance
+[0:00:34] but for your entire life
+[0:00:36] and, indeed for your longevity,
+and that's muscle.
+[0:00:40] One of the things that's exquisite
+and fantastic about the human brain
+[0:00:45] is that it can direct all sorts
+of different kinds of movement,
+[0:00:49] different speeds of movement,
+movement of different durations.
+[0:00:53] All of that is governed
+by the relationship
+[0:00:57] between the nervous system,
+[0:00:58] neurons, and their
+connections to muscle.
+[0:01:02] Today, as always, we're going to talk
+a little bit of mechanism.
+[0:01:06] I'm going to explain
+how neurons control muscle.
+[0:01:09] We will touch
+on some nutritional themes
+[0:01:12] and how that relates to muscle,
+[0:01:13] in particular,
+a specific amino acid that,
+[0:01:15] if it's available in your bloodstream
+frequently enough
+[0:01:19] and at sufficient levels,
+can help you
+[0:01:21] build and improve
+the quality of muscle.
+[0:01:25] We are also going to talk
+about recovery.
+[0:01:27] That's when muscle grows.
+[0:01:29] That's when muscle
+gets more flexible.
+[0:01:31] None of that actually
+happens during training.
+[0:01:33] It happens after training.
+[0:01:35] Most people,
+when they hear the word muscle,
+[0:01:37] they just think about strength.
+[0:01:39] Of course, muscles are involved
+in everything that we do.
+[0:01:43] They are involved in speaking.
+[0:01:44] They're involved
+in sitting and standing up.
+[0:01:46] They're involved in lifting objects,
+including ourselves.
+[0:01:50] They are absolutely essential
+for maintaining how we breathe.
+[0:01:55] They're absolutely
+essential for ambulation,
+[0:01:58] for moving,
+and for skills of any kind.
+[0:02:02] When we think about muscle,
+we don't just want
+[0:02:05] to think about muscle,
+the meat that is muscle,
+[0:02:08] but what controls that muscle.
+[0:02:10] No surprise, what controls
+muscle is the nervous system.
+[0:02:15] The nervous system does that
+[0:02:16] through three main nodes of control.
+[0:02:19] Basically, we have upper motor
+neurons in our motor cortex.
+[0:02:23] Those are in our skull.
+[0:02:25] Those are involved
+in deliberate movement.
+[0:02:26] Those upper motor neurons send
+signals down to my spinal cord,
+[0:02:30] where there are
+two categories of neurons.
+[0:02:32] One are the lower motor neurons.
+[0:02:35] Those lower motor
+neurons send little wires
+[0:02:38] that we call axons out to our muscles
+[0:02:41] and cause those muscles to contract.
+[0:02:43] They do that by dumping
+chemicals onto the muscle.
+[0:02:45] In fact, the chemical
+is acetylcholine.
+[0:02:48] Now, there's another category
+of neurons
+[0:02:51] in the spinal cord called central
+pattern generators, or CPGs.
+[0:02:54] Those are involved
+in rhythmic movements.
+[0:02:57] Anytime we're walking
+or doing something
+[0:02:59] where we don't have to think
+about it to do it deliberately,
+[0:03:02] it's just happening reflexively,
+[0:03:04] that central pattern
+generators and motor neurons.
+[0:03:06] Anytime we're doing
+something deliberately,
+[0:03:09] the top-down control, as we call it,
+[0:03:11] from the upper motor neurons comes
+[0:03:13] in and takes control of that system.
+[0:03:15] It's really simple.
+[0:03:16] You've only got three ingredients.
+[0:03:17] You've got the upper motor neurons,
+the lower motor neurons,
+[0:03:19] and for rhythmic
+movements that are reflexive,
+[0:03:21] you've also got the central
+pattern generators.
+[0:03:24] I'd now like to shift our attention
+[0:03:25] to how to use specific
+aspects of muscular contraction
+[0:03:29] to improve muscle hypertrophy,
+muscle growth,
+[0:03:32] as well as improving muscle strength.
+[0:03:35] There are a lot of reasons
+to want to get stronger.
+[0:03:38] I should just mention
+[0:03:39] that it's not always the case
+that getting
+[0:03:42] stronger involves
+muscles getting bigger.
+[0:03:44] There are ways for muscles to get
+stronger without getting bigger.
+[0:03:49] However, increasing the size
+[0:03:51] of a muscle almost
+inevitably increases
+[0:03:53] the strength of that muscle,
+at least to some degree.
+[0:03:56] Reasons why most everyone should want
+to get their muscles stronger
+[0:04:00] is that muscles are generally
+getting progressively weaker
+[0:04:04] across the lifespan.
+[0:04:06] When I say getting stronger,
+[0:04:07] it's not necessarily about being able
+[0:04:09] to move increasing
+amounts of weight in the gym,
+[0:04:13] but rather to offset
+some of the normal decline
+[0:04:17] in strength and posture
+[0:04:19] and the ability
+to generate a large range
+[0:04:21] of movement safely
+that occurs as we age.
+[0:04:24] There's an important principle
+[0:04:25] of muscle physiology called
+the Henneman size principle.
+[0:04:30] The Henneman size
+principle essentially says
+[0:04:32] that we recruit
+what are called motor units.
+[0:04:36] Motor units are just the connections
+between nerve and muscle
+[0:04:42] in a pattern that staircases
+from low threshold to high threshold.
+[0:04:47] What this means is when you pick
+up something that is light,
+[0:04:51] you're going to use
+the minimum amount of nerve
+[0:04:54] to muscle energy
+in order to move that thing.
+[0:04:56] Likewise, when you pick
+up an object that's heavy,
+[0:05:00] you're going to use
+the minimum amount of nerve
+[0:05:03] to muscle connectivity and energy
+in order to move that object.
+[0:05:08] It's basically a conservation
+of energy principle.
+[0:05:11] Now, if you continue to exert effort
+[0:05:14] of movement,
+what will happen is you will tend
+[0:05:17] to recruit more and more motor
+units with time.
+[0:05:22] As you recruit
+more and more of these motor units,
+[0:05:25] these connections between these lower
+motor neurons and muscle,
+[0:05:28] that's when you start
+to get changes in the muscle.
+[0:05:32] That's when you open the gate
+[0:05:34] for the potential for the muscles
+to get stronger and to get larger.
+[0:05:39] The way this process works
+has been badly misunderstood
+[0:05:44] in the online literature of weight
+training and bodybuilding
+[0:05:47] and even in sports physiology.
+[0:05:49] The Henneman size principle
+is a foundational principle
+[0:05:54] within muscle physiology,
+[0:05:55] but many people have come
+to interpret it by saying
+[0:05:59] that the way to recruit
+high threshold motor units,
+[0:06:03] the ones that are hard to get to,
+is to just use heavy weights.
+[0:06:07] That's actually not the case.
+[0:06:09] As we'll talk about the research
+supports that weights
+[0:06:12] in a very large range of sort
+[0:06:15] of a percentage of your maximum,
+anywhere from 30 to 80%
+[0:06:21] Weights that are not very light
+[0:06:23] but are moderately light to heavy
+[0:06:26] can because changes
+in the connections between nerve
+[0:06:29] and muscle that lead to muscle
+strength and muscle hypertrophy.
+[0:06:33] Put differently,
+heavy weights can help build muscle
+[0:06:38] and strength,
+but they are not required.
+[0:06:41] What one has to do is adhere
+to a certain number of parameters,
+[0:06:44] just a couple of key variables
+that I'll spell out for you.
+[0:06:48] If you do that, you can greatly
+increase muscle hypertrophy,
+[0:06:52] muscle size, and or muscle strength,
+[0:06:55] if that's what you want to do.
+[0:06:57] You don't necessarily have to use
+heavy weights in order to do that.
+[0:07:01] Now, I'm sure the power lifters
+[0:07:02] and the people that like to move
+heavy weights around will say,
+[0:07:06] "No, if you want to get strong,
+[0:07:07] you absolutely
+have to lift heavy weights."
+[0:07:10] That might be true
+if you want to get very strong,
+[0:07:12] but for most people
+who are interested
+[0:07:15] in supporting their muscular such
+[0:07:17] that they offset
+any age related decline
+[0:07:20] in strength
+or in increasing hypertrophy
+[0:07:23] and strength to some degree,
+[0:07:25] there really isn't a need to use
+the heaviest weights possible
+[0:07:28] in order to build
+strength and muscle.
+[0:07:30] There are three major stimuli
+[0:07:31] for changing the way
+that muscle works
+[0:07:34] and making muscles stronger,
+larger, or better in some way.
+[0:07:39] Those are stress,
+tension, and damage.
+[0:07:44] Those three things don't
+necessarily all have to be present,
+[0:07:47] but stress of some kind has to exist.
+[0:07:50] This is very reminiscent
+of neuroplasticity in the brain.
+[0:07:53] There is a good predictor
+of how well or how efficient
+[0:07:57] you will be in building the strength
+[0:08:00] and/or if you like the size
+of a given muscle.
+[0:08:03] It has everything
+to do with those upper motor neurons
+[0:08:06] that are involved
+in deliberate control of muscle.
+[0:08:08] You can actually
+do this test right now.
+[0:08:10] You can just march
+across your body mentally and see
+[0:08:14] whether or not you can
+independently contract
+[0:08:17] any or all of your muscles,
+[0:08:19] because everything
+about muscle hypertrophy,
+[0:08:23] about stimulating muscle growth,
+[0:08:26] is about generating
+isolated contractions,
+[0:08:29] about challenging specific
+muscles in a very unnatural way.
+[0:08:35] Whereas with strength, it's about
+using musculature as a system,
+[0:08:39] moving weights, moving resistance,
+moving the body.
+[0:08:43] The specific goal of hypertrophy
+[0:08:46] is to isolate specific
+nerve to muscle pathways
+[0:08:49] so that you stimulate the chemical
+[0:08:51] and signaling transduction
+events in muscles
+[0:08:53] so that those muscles
+respond by getting larger.
+[0:08:56] There's a critical
+distinction in terms
+[0:08:58] of getting stronger versus trying
+[0:09:00] to get muscles to be larger,
+hypertrophy per se.
+[0:09:05] It has to do with how much
+you isolate those muscles.
+[0:09:09] You can nest
+this as a principle for yourself,
+[0:09:12] which is if you want to get stronger,
+[0:09:14] it's really about moving
+progressively greater loads
+[0:09:18] or increasing the amount
+of weight that you move.
+[0:09:20] Whereas if you're
+specifically interested
+[0:09:22] in generating hypertrophy,
+it's all about trying
+[0:09:26] to generate those really hard,
+almost painful,
+[0:09:29] localized contractions of muscle.
+[0:09:31] If ever there was an area
+of practical science
+[0:09:34] that was very confused,
+very controversial, and almost
+[0:09:38] combative at times,
+it would be this issue
+[0:09:40] of how best to train.
+[0:09:42] I suppose the only thing
+[0:09:43] that's even more barbed
+wire of a conversation
+[0:09:46] than that is how best to eat
+for health.
+[0:09:48] Those seem to be the two most common
+areas of online battle.
+[0:09:53] What's very clear now
+from all the literature
+[0:09:56] is that once roughly
+your one repetition maximum,
+[0:10:02] the maximum amount
+of weight that you can perform
+[0:10:05] an exercise with for one repetition
+in good form, full range of motion,
+[0:10:11] that it's very clear
+that moving weights
+[0:10:15] or using bands or using body weight,
+[0:10:18] for instance,
+in the 30 to 80% of one rep maximum,
+[0:10:23] that is going to be
+the most beneficial range
+[0:10:26] in terms of muscle
+hypertrophy and strength.
+[0:10:28] Muscle growth and strength.
+[0:10:30] Let's say you're somebody
+who's been doing
+[0:10:32] some resistance exercise
+on and off over the years,
+[0:10:36] and you decide you want
+[0:10:37] to get serious about
+that for sake of sport
+[0:10:39] or offsetting age related
+declines in strength,
+[0:10:42] the range of sets to do in order
+[0:10:45] to improve strength
+ranges anywhere from two,
+[0:10:48] believe it or not, to 20 per week.
+[0:10:51] Again, these are sets per week,
+[0:10:52] and they don't necessarily
+all have to be performed
+[0:10:54] in the same weight training session.
+[0:10:56] It appears that five sets
+per week in this 30% to 80%
+[0:11:01] of the one repetition maximum
+range is what's required just
+[0:11:05] to maintain your muscle.
+[0:11:06] Think about that.
+[0:11:07] If you're somebody
+who's averse to resistance training,
+[0:11:10] you are going to lose
+muscle size and strength,
+[0:11:13] your metabolism will drop,
+your posture will get worse.
+[0:11:15] Everything in the context of nerve
+[0:11:18] to muscle connectivity
+will get worse over time
+[0:11:21] unless you are generating five sets
+[0:11:25] or more of this 30% to 80%
+[0:11:28] of your one repetition
+maximum per week, okay?
+[0:11:32] What this means
+is for the typical person
+[0:11:33] who hasn't done
+a lot of weight training,
+[0:11:35] you need to do at least five sets
+per muscle group.
+[0:11:39] Now, that's just to maintain.
+[0:11:41] Then there's this huge
+range that goes all the way up
+[0:11:43] to 15 and in some case,
+20 sets per week.
+[0:11:46] Now, how many sets you perform
+[0:11:48] is going to depend on the intensity
+of the work that you perform.
+[0:11:52] This is where it gets
+a little bit controversial,
+[0:11:54] but I think nowadays,
+[0:11:56] most people agree that 10%
+[0:11:59] of the sets of a given workout
+[0:12:04] or 10% of workouts overall
+[0:12:06] should be of the high-intensity sort
+[0:12:08] where one is actually working
+to muscular failure.
+[0:12:12] The point being
+that most of your training,
+[0:12:14] most of your sets
+should be not to failure.
+[0:12:19] The reason for that is it allows
+you to do more volume of work.
+[0:12:24] We can make this simple,
+perform anywhere from 5 to 15 sets
+[0:12:29] of resistance exercise per week.
+[0:12:32] That's per muscle.
+[0:12:34] That's in this 30 to 80%
+[0:12:36] of what your one repetition maximum.
+[0:12:38] That seems to be the most
+scientifically supported way
+[0:12:41] of offsetting any decline
+in muscle strength.
+[0:12:45] If you're working
+in the five set range
+[0:12:47] and in increasing muscle strength,
+[0:12:50] when you start to get up
+into the 10 and 15 set range.
+[0:12:53] It's pretty clear that performing
+this 5 to 15 sets per week,
+[0:12:57] whether or not it's in one workout
+[0:12:59] or whether it's divided up
+across multiple workouts,
+[0:13:01] is really what's going
+to be most beneficial.
+[0:13:03] Please do keep in mind
+Heneman's size principle
+[0:13:06] and the recruitment of motor units.
+[0:13:07] Remember, the better
+you are at contracting
+[0:13:09] particular muscles
+and isolating those muscles,
+[0:13:12] the fewer sets likely you need to do
+[0:13:14] in order to get the desired effect.
+[0:13:16] What about people
+who have been training for a while?
+[0:13:18] If you're somebody
+who's been doing weight training
+[0:13:19] for a while, the data point
+[0:13:22] to the fact that more volume
+can be beneficial, even for muscles
+[0:13:26] that you are very efficient
+at contracting.
+[0:13:29] Now the curve on this,
+the graph on this,
+[0:13:33] begins again at about 5 sets per week
+[0:13:35] for maintaining a given muscle group
+[0:13:37] and extends all the way
+out to 25 or 30 sets per week.
+[0:13:41] However, there are individuals who,
+for whatever reason,
+[0:13:46] can generate so much force.
+[0:13:48] They're so good at training muscles
+[0:13:50] that they can generate so much force
+[0:13:52] in just four or six or eight sets
+that doing this large volume of work
+[0:13:57] is actually going to
+be counterproductive.
+[0:13:59] Everyone needs to figure out
+[0:14:01] for themselves, first of all,
+how often you're willing
+[0:14:03] to do resistance
+exercise of any kind.
+[0:14:06] Then it does appear that somewhere
+between 5 and 15 sets per week
+[0:14:11] is going to be the thing
+that's going to work for most people.
+[0:14:14] Now, this is based
+on a tremendous amount of work
+[0:14:16] that was done
+by Andy Galpin and colleagues,
+[0:14:18] Brad Schoenfield and colleagues,
+Mike Roberts.
+[0:14:20] There's a huge group of people
+out there doing exercise physiology,
+[0:14:24] and a small subset of them
+that are linking them back
+[0:14:28] to real world protocols
+that don't just pertain to athletes.
+[0:14:31] That's mainly
+what I'm focusing on today.
+[0:14:33] Surely, there will be exceptions.
+[0:14:35] Now, if you are going to divide
+the sets across the week,
+[0:14:39] you're not going to do all 10 sets,
+for instance,
+[0:14:41] for a given muscle
+group in one session,
+[0:14:43] then of course it's imperative
+[0:14:45] that the muscles recover
+in between sessions.
+[0:14:47] You might ask, well, what about
+the speeds of movements?
+[0:14:50] This is actually turns out
+to be a really interesting data set.
+[0:14:53] For generating
+explosiveness and speed,
+[0:14:57] it's very clear that learning
+[0:14:59] to generate forces
+quickly and to move heavy
+[0:15:02] or moderately heavy loads
+quickly is going to be beneficial
+[0:15:05] because of the way
+that you train the motor neurons.
+[0:15:08] Of course changes in the muscle.
+[0:15:11] What this would involve is something
+[0:15:13] 60 to 75%
+over one repetition maximum.
+[0:15:16] Then, in a controlled way,
+moving that as quickly
+[0:15:19] as one can throughout the entire set
+[0:15:21] and certainly not going to failure
+because as you approach failure,
+[0:15:25] the inability to move
+the weight with good form,
+[0:15:27] the weight inevitably slows down.
+[0:15:29] As you're probably starting
+to realize you need
+[0:15:31] to customize a resistance practice
+[0:15:34] for your particular needs and goals.
+[0:15:36] We've talked about a few principles,
+[0:15:38] the fact that you need
+to get sufficient volume,
+[0:15:40] you need at least 5 sets to maintain,
+[0:15:41] and you probably need
+about 10 sets per muscle group
+[0:15:43] in order to improve muscle.
+[0:15:45] That moving weights of moderate
+to moderately heavy weight
+[0:15:49] quickly is going to be
+best for explosiveness.
+[0:15:50] That isolating muscles
+and really contracting muscles hard,
+[0:15:54] something that you can test by just
+[0:15:56] when you're outside
+the training session,
+[0:15:58] seeing whether or not you can cramp
+[0:15:59] the muscle hard will really,
+[0:16:01] will tell you your capacity
+to improve hypertrophy
+[0:16:05] or to engage strength
+changes in that muscle.
+[0:16:08] That your ability to contract
+a muscle hard is inversely related
+[0:16:12] to the number of sets
+[0:16:13] that you should do in order
+to isolate
+[0:16:15] and stimulate that muscle.
+[0:16:17] Now, how long to recover
+between sets?
+[0:16:19] There's a question
+for the testosterone protocol,
+[0:16:22] Duncan French and colleagues
+found that it was about two minutes,
+[0:16:24] keeping that really on the clock,
+two minutes, not longer.
+[0:16:28] For hypertrophy and for strength
+gains, it does seem
+[0:16:31] that resting anywhere
+from two minutes
+[0:16:33] or even three or four,
+[0:16:34] even five or six minutes
+can be beneficial.
+[0:16:37] How do we know if we've recovered?
+[0:16:39] How can we test recovery?
+[0:16:41] This is not just recovery
+from resistance training.
+[0:16:43] This is recovery from running,
+recovery from swimming.
+[0:16:46] Up until now, I've been talking
+about resistance training,
+[0:16:48] more or less in a vacuum.
+[0:16:49] I haven't even touched on the fact
+that many people are running
+[0:16:53] and they're doing resistance
+training or they're swimming
+[0:16:55] and they're doing
+resistance training.
+[0:16:57] You can assess systemic recovery,
+meaning your nervous system
+[0:17:02] and your nervous system's ability
+to generate force,
+[0:17:05] both distributed and isolated
+through three main tests.
+[0:17:10] Fortunately,
+these tests are very simple.
+[0:17:13] Two of them are essentially
+zero cost, require no equipment.
+[0:17:18] HRV, heart rate variability,
+has made its way
+[0:17:23] finally into the forefront
+of exercise physiology
+[0:17:26] and even into the popular discussion.
+[0:17:28] I've talked about HRV before,
+[0:17:30] how when we exhale,
+our heart rate slows
+[0:17:32] down because of the way
+that our diaphragm is connected
+[0:17:34] to our heart and to our brain
+[0:17:35] and the way our brain
+is connected to our heart.
+[0:17:37] When we inhale,
+our heart rate speeds up.
+[0:17:39] That is the basis
+of heart rate variability.
+[0:17:42] Heart rate variability is good,
+but heart rate variability
+[0:17:46] is difficult for a lot
+of people to measure.
+[0:17:48] There are two measures, however,
+[0:17:49] whether or not you recovered
+that you can use first thing
+[0:17:51] in the morning
+when you wake up in order
+[0:17:54] to assess how well recovered you are,
+[0:17:56] and therefore whether
+or not you should train
+[0:17:58] your whole system at all that day.
+[0:18:00] The first one is grip strength.
+[0:18:04] Grip strength,
+the ability to generate force
+[0:18:07] at the level of squeezing the fist
+or squeezing down on something,
+[0:18:11] might seem like a trivial
+way to assess recovery,
+[0:18:14] but it's not because it relates
+to your ability
+[0:18:16] to use your upper motor neurons,
+[0:18:18] to control your lower motor neurons
+[0:18:19] and to generate isolated force.
+[0:18:22] That's really what you're assessing
+when you do that.
+[0:18:25] Some people will use
+one of these grip tools.
+[0:18:29] If I've been working really hard,
+not sleeping very well,
+[0:18:31] or I've been training a lot,
+[0:18:32] any one or combination
+of those things, my grip suffers.
+[0:18:35] I can't actually squeeze
+that thing down as much as I can.
+[0:18:38] On a good day,
+I can squeeze this thing
+[0:18:39] so that I eliminate the hole
+in the donut, so to speak.
+[0:18:42] You can also take a floor scale,
+squeeze the scale,
+[0:18:45] and see how much
+force you can generate.
+[0:18:47] I would do that as a baseline
+to establish
+[0:18:50] what you can do when
+you're well-rested.
+[0:18:52] Then, if you do that in the morning,
+[0:18:53] you can see
+whether or not you're able
+[0:18:54] to generate the same amount of force.
+[0:18:56] A lot of this is very subjective.
+[0:18:58] With the scale,
+you're really trying to assess
+[0:19:00] whether or not you can generate
+the same amount of force.
+[0:19:02] If you start seeing a 10%
+or 20% certainly reduction in that,
+[0:19:06] that's concerning.
+[0:19:07] It means that your system,
+that your nervous system as a whole,
+[0:19:10] it's not necessarily fatigued.
+[0:19:12] It's that the pathways
+from nerve to muscle
+[0:19:15] are still in the process
+of rewiring themselves
+[0:19:18] in order to generate force.
+[0:19:20] You might think, well, I trained
+one muscle group one day
+[0:19:22] why am I having
+a hard time doing this
+[0:19:23] for a completely
+different muscle group?
+[0:19:25] Doesn't make any sense.
+[0:19:26] There's something about
+the upper motor neuron
+[0:19:28] to lower motor neuron
+pathway generally
+[0:19:31] that allows you to use
+something like grip strength
+[0:19:33] as a thermometer, if you will,
+[0:19:37] of your ability to recover.
+[0:19:38] Look for your ability
+to generate force
+[0:19:40] in grip when you first wake up.
+[0:19:42] It's not going to be as
+good as it is at 3 PM
+[0:19:44] after a cup of coffee
+and a couple of meals,
+[0:19:47] but the point
+isn't performance overall.
+[0:19:49] The point is to assess
+whether or not you're getting better,
+[0:19:52] worse, or the same from day to day.
+[0:19:54] The other one that's really terrific
+is carbon dioxide tolerance.
+[0:19:58] This is a really interesting tool
+[0:19:59] that endurance athletes,
+strength athletes,
+[0:20:02] I think can all benefit from.
+[0:20:04] Here's how you do the carbon
+dioxide tolerance test.
+[0:20:06] You wake up in the morning
+[0:20:07] and what you're going to do
+is you're going to inhale
+[0:20:10] through your nose
+as deeply as you can.
+[0:20:11] You can do this lying down,
+sitting, whatever.
+[0:20:15] Inhale through your nose
+and then exhale all the way.
+[0:20:20] That's one.
+[0:20:21] You're going to repeat
+that four times.
+[0:20:23] Then, you take a fifth inhale
+as deep as you can through your nose.
+[0:20:27] Fill your lungs as much as you can,
+[0:20:29] and if you can try and expand,
+[0:20:32] make your stomach go
+out while you do that.
+[0:20:34] That means that your diaphragm
+is really engaged.
+[0:20:36] You're inhaling as much
+as you possibly can.
+[0:20:39] Then hit the timer,
+and your goal is to release
+[0:20:43] that air as slowly as possible
+through your mouth.
+[0:20:47] It looks like you have a tiny, tiny
+little straw in your mouth,
+[0:20:50] and you're letting it go
+as slowly as you possibly can.
+[0:20:57] Measure what we call
+the carbon dioxide
+[0:21:00] blow off time or discard rate.
+[0:21:03] I know you can all sit with lungs
+empty after you eliminate
+[0:21:06] all that air,
+but don't lie to yourself.
+[0:21:10] Don't stop the timer
+when you've been sitting
+[0:21:12] with your lungs empty for a while.
+[0:21:14] Stop the timer
+when you are finally no longer able
+[0:21:18] to exhale any more air.
+[0:21:20] Your carbon dioxide discard rate
+[0:21:22] will be somewhere between one second
+and presumably two minutes.
+[0:21:29] Two minutes would be a heroic
+carbon dioxide discard time.
+[0:21:33] 30 seconds would be more typical.
+[0:21:35] 20 seconds would be fast.
+[0:21:37] If your carbon dioxide discard time
+[0:21:41] is 20 or 25 seconds or less,
+[0:21:45] you are not necessarily recovered
+[0:21:48] from your previous day's activities.
+[0:21:50] If your carbon dioxide discard time
+[0:21:53] is somewhere between
+about 30 seconds and 60 seconds,
+[0:21:58] you are in what we would call
+the green zone,
+[0:22:02] where you are in a position
+to do more physical work.
+[0:22:07] If your carbon dioxide
+discard time is somewhere
+[0:22:10] between 65 and 120 seconds,
+well, then you have almost
+[0:22:15] certainly recovered
+your nervous system.
+[0:22:18] I'm not talking about
+the individual muscles,
+[0:22:20] but your nervous system
+is prepared to do more work.
+[0:22:23] I'm really keen on this tool
+[0:22:25] because everybody
+has different recovery abilities.
+[0:22:27] I realize people have varying levels
+[0:22:29] of stress and demand in their life.
+[0:22:30] It's just impossible to prescribe
+[0:22:33] an entire protocol that says,
+"Okay, yes, you should train today.
+[0:22:36] This is exactly what you should do."
+[0:22:37] No, you shouldn't.
+[0:22:38] Use carbon dioxide discard
+rate because A, it's valuable.
+[0:22:42] It's informative.
+[0:22:43] B, it's zero cost.
+[0:22:46] C, it's something that you can track
+objectively over time.
+[0:22:50] That's really the key.
+[0:22:51] Recovery is a complex process.
+[0:22:53] It's got a lot of things,
+[0:22:54] but the CO2 tolerance test
+should be a valuable tool.
+[0:22:57] Now, another tool for recovery
+that people are very excited about
+[0:23:01] is the use of cold and the ice bath.
+[0:23:03] This is important.
+[0:23:05] Yes, it will reduce inflammation.
+[0:23:07] Yes, it will reduce the amount
+of delayed onset muscle soreness,
+[0:23:10] but it does seem to interfere
+[0:23:12] with some of the things
+like mTOR pathways,
+[0:23:15] the mammalian target
+of rapamycin pathway,
+[0:23:17] and other pathways
+related to inflammation
+[0:23:20] that promote muscle
+repair and muscle growth.
+[0:23:23] Remember, stress, tension,
+and damage are the stimulus
+[0:23:27] for nerve to muscle
+connections to change
+[0:23:29] and for muscles to get bigger,
+stronger, and better.
+[0:23:32] If you're getting into the ice bath
+[0:23:33] after doing resistance training,
+[0:23:35] you are likely
+short-circuiting the improvements
+[0:23:38] that you're trying to create.
+[0:23:39] The other thing are non-steroid
+anti-inflammatory drugs.
+[0:23:42] You know their trade names.
+[0:23:43] These are painkillers
+that many people take.
+[0:23:45] Those, as I've mentioned
+in a previous episode,
+[0:23:47] seem to prevent a lot of the gains,
+[0:23:49] the improvements in endurance,
+strength, and size
+[0:23:52] that people are specifically
+using exercise for.
+[0:23:56] Be cautious about your use
+[0:23:57] of non-steroid
+anti-inflammatory drugs,
+[0:24:00] especially within
+the four hours preceding
+[0:24:03] or the four hours following exercise.
+[0:24:05] Let's talk about some of the things
+[0:24:07] that seem to work
+across the board to improve strength,
+[0:24:11] improve hypertrophy,
+and improve nerve
+[0:24:14] to muscle communication
+and performance.
+[0:24:16] The first thing that's absolutely key
+[0:24:18] for nerve to muscle communication
+[0:24:20] and physical performance
+of any kind might not sound
+[0:24:23] that exciting to you, but
+it is very exciting, and that's salt.
+[0:24:29] Nerve cells, neurons communicate
+with each other and communicate
+[0:24:32] with muscle by electricity.
+[0:24:35] That electricity is generated
+by particular ions moving
+[0:24:39] into and out of the neuron.
+[0:24:41] The rushing in of a particular ion,
+sodium, salt,
+[0:24:46] is what allows nerve cells to fire.
+[0:24:48] If you don't have enough salt
+[0:24:50] in your system,
+your neurons, your brain
+[0:24:53] and your nerve-to-muscle
+communication will be terrible.
+[0:24:56] If you have sufficient salt,
+it will be excellent.
+[0:24:59] How much salt will depend
+on how much water you're drinking,
+[0:25:02] how much caffeine you're drinking,
+[0:25:03] and how much food you're ingesting,
+[0:25:06] and whether or not you're taking
+any diuretics,
+[0:25:07] how hot it is,
+et cetera how much you're sweating.
+[0:25:10] You want to make sure
+that you have enough salt, potassium,
+[0:25:12] and magnesium in your system
+if you want to perform well.
+[0:25:15] The other thing that's been shown
+over and over again
+[0:25:18] in numerous well-controlled studies
+[0:25:21] to improve muscle
+performance is creatine.
+[0:25:24] How much creatine?
+[0:25:25] I asked the experts, and they tell me
+[0:25:28] that for somebody
+who's about 180 pounds,
+[0:25:32] 5 grams a day
+should be sufficient or so.
+[0:25:35] Creatine seems to have
+a performance-enhancing effect.
+[0:25:38] There are 66 studies showing
+[0:25:41] that power output is greatly
+increased anywhere from 12 to 20%
+[0:25:48] This is sprinting
+and running and jumping
+[0:25:50] as well as weightlifting by creatine.
+[0:25:52] The ability to hydrate
+your body is improved by creatine
+[0:25:56] because of the way
+that it brings more water
+[0:25:59] into cells of various kinds.
+[0:26:02] It reduces fatigue.
+[0:26:03] When it comes to supporting muscle,
+[0:26:06] it does seem that ingesting
+700 to 3,000 milligrams
+[0:26:11] of the essential amino acid
+leucine with each meal is important.
+[0:26:15] Now, that does not necessarily
+mean from supplements.
+[0:26:18] In fact, most people recommend
+that you get your protein,
+[0:26:23] you get your amino acids,
+including your essential amino acids
+[0:26:26] and your leucine from whole foods.
+[0:26:28] High-quality proteins
+are high-density proteins.
+[0:26:31] What do you mean by that?
+[0:26:33] It is true that a lot
+of sources of protein are found
+[0:26:36] in things like beans
+and nuts, and things
+[0:26:38] like that all the essential
+amino acids can be found there.
+[0:26:43] Per unit calorie,
+if it's in your practice,
+[0:26:47] if it's in your ethics
+to ingest animal proteins,
+[0:26:49] it's true that, for instance,
+[0:26:51] 200 calories of steak
+or chicken or fish
+[0:26:54] or eggs will have a higher density
+[0:26:57] of essential amino acids
+than the equivalent amount
+[0:26:59] of calories from nuts or plants.
+[0:27:02] For the vegans and vegetarians,
+[0:27:04] I'm certainly not saying
+there's no way
+[0:27:06] that you can support muscle growth.
+[0:27:08] You absolutely can.
+[0:27:09] I encourage you to think
+about this protein density issue
+[0:27:13] and whether or not you're getting
+sufficient essential amino acids,
+[0:27:17] especially leucine.
+[0:27:19] I think the simple takeaway
+from the literature that I was able
+[0:27:22] to extract eating
+two to four times a day,
+[0:27:24] making sure you're getting
+sufficient amino acids
+[0:27:27] in a way that's compatible
+with your ethics
+[0:27:29] and with your nutritional regimen
+is going to support muscle repair,
+[0:27:34] muscle growth, strength improvements,
+et cetera, just fine.
+[0:27:37] Last but not least,
+[0:27:38] I want to thank you for your time
+and attention today.
+[0:27:41] As always, thank you
+for your interest in science.

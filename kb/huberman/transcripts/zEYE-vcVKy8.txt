@@ -1,0 +1,5610 @@
+# Dr. Andy Galpin: How to Assess & Improve All Aspects of Your Fitness | Huberman Lab Guest Series
+# id=zEYE-vcVKy8 published=2023-01-18 lang=en generated=False
+
+[0:00:00] ANDREW HUBERMAN: Welcome to
+the Huberman Lab Guest Series,
+[0:00:02] where I and an
+expert guest discuss
+[0:00:04] science and science-based
+tools for everyday life.
+[0:00:06] [MUSIC PLAYING]
+[0:00:08] I'm Andrew Huberman
+and I'm a professor
+[0:00:10] of neurobiology
+and ophthalmology
+[0:00:12] at Stanford School of Medicine.
+[0:00:14] Today's episode marks
+the first in a series
+[0:00:17] with Dr. Andy Galpin.
+[0:00:18] Dr. Andy Galpin is a professor
+of kinesiology at Cal State
+[0:00:21] University Fullerton and
+one of the foremost world
+[0:00:24] experts on the science
+and application of methods
+[0:00:27] to increase strength, speed,
+endurance, hypertrophy,
+[0:00:31] and various other aspects of
+fitness, exercise, and sports
+[0:00:35] performance.
+[0:00:36] Across this six episode
+series, Dr. Andy Galpin
+[0:00:38] pulls from his expertise
+working with everything
+[0:00:40] from professional athletes
+to recreational exercisers
+[0:00:43] and teaches us the mechanisms,
+logic, and specific protocols
+[0:00:48] for how to achieve any of the
+number of different exercise
+[0:00:51] adaptations that I mentioned
+a moment ago, ranging
+[0:00:53] from strength to
+endurance, hypertrophy,
+[0:00:55] and everything in between.
+[0:00:57] We get really far into details,
+but at all times paying
+[0:01:00] attention to the
+macroscopic issues.
+[0:01:03] That is, how to create
+a program for endurance
+[0:01:06] or strength or
+hypertrophy or speed,
+[0:01:08] or one that combines
+all of those.
+[0:01:10] We also talk about
+supplementation and nutrition
+[0:01:12] and how to maximize recovery
+for each of the different types
+[0:01:16] of exercise adaptations.
+[0:01:17] During today's
+episode, Dr. Galpin
+[0:01:18] teaches us how to assess
+our level of fitness
+[0:01:21] and, more generally, how to
+think about fitness so that we
+[0:01:24] can best achieve our fitness
+exercise and performance goals.
+[0:01:27] Dr. Professor Andy Galpin.
+[0:01:30] Super excited to have you here.
+[0:01:32] You're such an
+immense treasure trove
+[0:01:34] of information on physical
+training and optimizing
+[0:01:37] for specific goals and outcomes
+with physical exercise.
+[0:01:42] I'm curious, however--
+so many people have
+[0:01:46] different levels of fitness.
+[0:01:49] Some people are professional
+athletes, of course,
+[0:01:51] but most people are not.
+[0:01:53] Many people exercise regularly.
+[0:01:55] Some people are trying
+to do that more.
+[0:01:57] Some people are doing too much
+of that; they're overtraining,
+[0:01:59] they're not recovering enough.
+[0:02:02] If we were to take a step back
+and each and every one of us
+[0:02:05] ask how fit are we, with
+the word fit, of course,
+[0:02:10] being a very broad
+encompassing word,
+[0:02:14] could encompass endurance,
+certainly it does,
+[0:02:16] strength, the
+ability to run fast,
+[0:02:20] even if for short distances, it
+might even include hypertrophy
+[0:02:24] or directed hypertrophy, trying
+to balance one's musculature
+[0:02:27] to offset asymmetries, recover
+from injuries, et cetera.
+[0:02:31] How should I, or anyone
+else for that matter
+[0:02:35] think about their
+level of fitness?
+[0:02:38] I know my resting
+heart rate, but what
+[0:02:41] do I do in terms of really
+assessing whether or not
+[0:02:44] I'm as fit as I could be
+and should be both for sake
+[0:02:49] of health and performance?
+[0:02:51] And here I'm asking you the
+question not as an athlete,
+[0:02:53] but as somebody
+who's been pretty
+[0:02:55] consistent as an exerciser.
+[0:02:56] But if we were to throw our
+arms around this question of how
+[0:03:00] do we assess our
+fitness, what would
+[0:03:02] be the different
+levels of assessment
+[0:03:05] that we should
+think about and do?
+[0:03:08] ANDY GALPIN: When it
+comes to exercise,
+[0:03:10] people generally have
+two major goals in mind.
+[0:03:13] Goal number one is achieving
+some sort of appearance.
+[0:03:16] Right?
+[0:03:17] This is I want to be big,
+or I want to not be too big,
+[0:03:19] or I want to be lean.
+[0:03:20] Something, right?
+[0:03:21] It doesn't matter
+what that goal is,
+[0:03:22] but there is an aesthetic
+component to almost everybody.
+[0:03:25] They want to look a certain
+way or not look a certain way.
+[0:03:27] The other one is functionality.
+[0:03:29] So I want to be able to
+perform a certain way.
+[0:03:31] Now, again, that definition
+differs per person.
+[0:03:33] So I want to be
+better at strength,
+[0:03:35] I want to be better
+at mobility, I
+[0:03:37] want to be able to have energy
+throughout the day, whatever
+[0:03:40] it is.
+[0:03:40] So there's some sort
+of appeal to aesthetic
+[0:03:42] and there's some sort of
+appeal to functionality.
+[0:03:44] So within both of
+those categories,
+[0:03:46] we want to be in a position
+where we can understand, where
+[0:03:52] do I need to go with
+my exercise training
+[0:03:53] so that I can be as
+fit and as healthy
+[0:03:56] and achieve these
+goals that I want now,
+[0:03:59] as well as be in a position
+where I can maintain them
+[0:04:02] for a long period of time.
+[0:04:03] So this blends both
+immediate goals.
+[0:04:06] So say you're just interested
+in squatting a lot of weights.
+[0:04:09] Say you're interested in
+running a 5K time the best run.
+[0:04:12] It doesn't matter.
+[0:04:13] It blends that with the desire
+to have a long wellness span,
+[0:04:18] to be fit throughout life,
+to achieve all those things
+[0:04:20] for as long as possible.
+[0:04:21] So then the question
+kind of comes back
+[0:04:23] to saying, well, how do
+I know which area I need
+[0:04:27] to focus on the most, and why
+am I not achieving these goals,
+[0:04:30] or how can I get there
+more effectively.
+[0:04:32] And if we look at
+the big picture,
+[0:04:34] we have to understand that there
+are several major components
+[0:04:37] to physical fitness that
+are going to be required
+[0:04:40] in all of these categories.
+[0:04:42] And to achieve that, there
+are a handful of components
+[0:04:45] that have to happen to be
+able to hit those goals.
+[0:04:47] Now there are infinite methods.
+[0:04:49] So the saying we actually use
+here a lot is, the methods are
+[0:04:52] many, but the concepts are few.
+[0:04:53] So what I'd love to do
+today is, over the course
+[0:04:55] of our discussion is hit
+exactly what those concepts are
+[0:04:59] and then cover a whole
+bunch of different methods.
+[0:05:01] And we could do that for hours.
+[0:05:03] But we'll cover a number
+of them for various goals.
+[0:05:05] ANDREW HUBERMAN: So
+one of the reasons
+[0:05:06] I went into neuroscience and
+not into exercise science is
+[0:05:10] because of this thing
+neuroplasticity,
+[0:05:13] the nervous system's
+ability to adapt.
+[0:05:15] But the more time
+I spend with you
+[0:05:17] and the more I learn from you,
+I realize that many, if not all
+[0:05:21] of the organ systems of our body
+have this incredible ability
+[0:05:24] to adapt.
+[0:05:25] And when we're talking
+about physical exercise,
+[0:05:28] there are incredible
+adaptations that,
+[0:05:30] of course, involve
+the nervous system,
+[0:05:32] but also involve muscle and
+connective tissue and so
+[0:05:36] many other cell
+types and tissues.
+[0:05:39] That said, when we
+talk about fitness,
+[0:05:43] what are the major
+types of adaptations
+[0:05:45] that underlie this thing
+that we call fitness?
+[0:05:48] And later, I know
+we're going to get
+[0:05:50] into how different
+forms of exercise
+[0:05:53] can trigger different
+types of adaptations,
+[0:05:55] but what are the major
+adaptations that one can create
+[0:05:59] in their body using exercise?
+[0:06:02] ANDY GALPIN: There
+are many reasons why
+[0:06:03] one should exercise,
+and we could perhaps
+[0:06:05] cover that later in our chats.
+[0:06:07] But the physiological
+adaptations
+[0:06:09] can be bucketed really
+in a nine areas.
+[0:06:11] So the very first one is what
+I call skill or technique.
+[0:06:14] So just learning to move
+better, more efficiently
+[0:06:17] with a specific position
+and timing and sequence,
+[0:06:20] or whatever that is.
+[0:06:21] This could be running
+more effectively,
+[0:06:23] this could be practicing
+a skill like shooting
+[0:06:26] a ball or an implement,
+swinging a golf club.
+[0:06:29] Anything like that, I call
+that skill development.
+[0:06:32] The second one is
+speed, so this is simply
+[0:06:34] moving at a higher
+velocity or with a better
+[0:06:37] rate of acceleration.
+[0:06:39] That's very similar to the
+next one, which is power.
+[0:06:41] And power is speed
+multiplied by force.
+[0:06:46] The next one then, of
+course, on top of that,
+[0:06:48] is force or strength.
+[0:06:50] So those are really
+synonymous terms.
+[0:06:52] How effectively can
+you move something?
+[0:06:54] Now, this is often
+confused-- strength, rather--
+[0:06:58] as muscular endurance.
+[0:06:59] So what I mean by
+that is strength truly
+[0:07:02] is a marker of what's the
+maximum thing you can move
+[0:07:06] or what's the maximum amount of
+force you can produce one time.
+[0:07:09] It's not how many repetitions
+in a row you can do.
+[0:07:12] That's actually another
+one of our adaptations
+[0:07:14] called muscular endurance.
+[0:07:16] So that is typically under
+the order of say five to 25,
+[0:07:22] maybe 50 repetitions.
+[0:07:23] Think of a classic how many
+push-ups can you do in a row?
+[0:07:26] How many sit-ups can
+you do in a minute?
+[0:07:28] Things like that are
+muscular endurance.
+[0:07:30] Muscular endurance
+tends to be localized,
+[0:07:33] so this is specific
+to just, say,
+[0:07:35] your triceps and your deltoids.
+[0:07:37] It's not a overall
+cardiovascular endurance marker
+[0:07:40] or anything like that.
+[0:07:41] So that's strength, number four.
+[0:07:43] Number five is
+muscle hypertrophy.
+[0:07:44] And this is the
+first time now we're
+[0:07:46] talking about an
+appearance rather
+[0:07:49] than a functional outcome.
+[0:07:51] So moving better, moving
+faster, and moving heavier
+[0:07:53] are indicators of how
+well you can move.
+[0:07:57] This is the first one
+that's just simply
+[0:07:59] how big is your muscle?
+[0:08:00] And that's muscle
+hypertrophy or muscle size.
+[0:08:03] After that is
+muscular endurance.
+[0:08:05] So this is how many
+repetitions you can typically
+[0:08:07] do of a movement.
+[0:08:09] So think of how many
+push ups in a row
+[0:08:11] you can do, how many sit
+ups in a minute you can do,
+[0:08:14] things that are
+typically in five
+[0:08:15] to 50 repetition sort of range.
+[0:08:18] And it is often or it is
+almost always local muscle.
+[0:08:22] So what I mean by
+that is a push-up test
+[0:08:26] is really how many
+reps that your triceps
+[0:08:28] and pecs and deltoids can do.
+[0:08:30] It is not a
+cardiovascular endurance.
+[0:08:32] It is not a global
+physiological endurance.
+[0:08:35] It's specific to, typically,
+one or a few muscle
+[0:08:39] groups at a time.
+[0:08:40] And this is why you have to do
+multiple tests for every group
+[0:08:43] there.
+[0:08:44] After that, now we've moved
+into number seven, which is
+[0:08:47] what I call anaerobic capacity.
+[0:08:49] This is more synonymous
+with maximum heart rate.
+[0:08:52] And now we're actually
+looking at, rather
+[0:08:54] than a single movement
+or muscle group,
+[0:08:57] it is a total
+physiological limitation.
+[0:09:00] So it is the maximum
+amount of work
+[0:09:03] you can do in, say,
+30 to 45 seconds,
+[0:09:06] maybe even up to 120
+seconds, of all-out work.
+[0:09:10] Think of your classic
+interval type of stuff here.
+[0:09:13] So how much work can you
+do at a maximum rate,
+[0:09:16] where you're going to
+enter tremendous amounts
+[0:09:18] of global fatigue?
+[0:09:19] The next past that is
+maximal aerobic capacity.
+[0:09:23] And this is probably
+actually something
+[0:09:24] like in the eight to 15
+minute range, where you're
+[0:09:28] going to reach probably
+both a maximum heart rate
+[0:09:32] as well as a true
+VO2 max, which we'll
+[0:09:35] talk a lot more about
+what that is later.
+[0:09:38] So that is different
+from the previous one,
+[0:09:42] where you can't reach this
+in a matter of seconds.
+[0:09:45] It simply takes multiple
+minutes to get to a position
+[0:09:48] to where your VO2
+max is actually
+[0:09:50] going to be
+sufficiently challenged
+[0:09:52] or an indicator there.
+[0:09:53] And then the last
+one, number nine,
+[0:09:54] is what I call long duration.
+[0:09:55] And this is just your ability
+to sustain submaximum work
+[0:09:59] for a long period of
+time with no breaks,
+[0:10:02] no reduction whatsoever.
+[0:10:03] This is often called steady
+state training or a lot
+[0:10:06] of people just think of
+this when they think of,
+[0:10:08] quote, unquote, "cardio,"
+but your ability
+[0:10:09] to continue to move without
+any breaks or change or drop
+[0:10:13] is the last and
+final adaptation.
+[0:10:15] ANDREW HUBERMAN: And for
+long distance steady state,
+[0:10:18] I'm guessing it exceeds
+15 minutes because--
+[0:10:21] ANDY GALPIN: Correct.
+[0:10:22] ANDREW HUBERMAN:
+--the previous one
+[0:10:23] was eight to 15 minutes or so.
+[0:10:25] What sort of rate ranges are
+we talking about in terms
+[0:10:29] of this long duration?
+[0:10:30] ANDY GALPIN: Well, that's
+actually wonderful.
+[0:10:31] You're going to be
+anything past 15 minutes.
+[0:10:33] So really, if you look at
+a minimal number there,
+[0:10:36] it's generally 20 minutes
+of what we're looking for,
+[0:10:39] but a more typical would
+be 20 to 60 minutes.
+[0:10:41] But anything past
+that would still
+[0:10:43] be limited by your
+long-duration endurance,
+[0:10:46] so your ability to
+sustain work over time.
+[0:10:48] ANDREW HUBERMAN: OK.
+[0:10:48] So given that there are nine
+different major adaptations
+[0:10:52] that can be induced with
+exercise of specific types,
+[0:10:56] is there any one global
+test or assessment
+[0:10:59] that people can take or do
+that allows them to determine
+[0:11:04] what level of ability, of
+fitness they have in each
+[0:11:09] and every one of these
+nine different categories?
+[0:11:11] ANDY GALPIN: There are
+probably dozens or more tests
+[0:11:13] that you can do for each one
+of those nine categories.
+[0:11:16] And what I would
+actually like to do
+[0:11:17] is walk you through
+my favorites for each
+[0:11:19] and giving you both the
+scientific gold standard--
+[0:11:22] so if you have the ability,
+unlimited resources, what
+[0:11:25] should you go do?
+[0:11:26] As well as some that
+are equipment-free,
+[0:11:28] that are cost-free, things that
+anyone can do across the world.
+[0:11:32] In addition to that,
+I want to walk you
+[0:11:34] through what those
+numbers should be,
+[0:11:36] how do you identify if you're
+really poor in something
+[0:11:38] or if you're great.
+[0:11:40] And then if you aren't as
+good, maybe, in a category
+[0:11:42] and you want to
+get better at it,
+[0:11:43] exactly what to do
+in terms of protocols
+[0:11:46] for how to achieve optimal
+results in each of those steps.
+[0:11:49] ANDREW HUBERMAN: So I noticed
+in your list of the nine
+[0:11:51] different adaptations to
+exercise that you did not
+[0:11:53] mention fat loss
+or health-promoting
+[0:11:57] benefits, which are two reasons
+that a lot of people exercise.
+[0:12:00] Was there a specific reason
+that you did not mention those?
+[0:12:03] ANDY GALPIN: Absolutely.
+[0:12:04] It's because those things are
+actually not specific training
+[0:12:07] styles.
+[0:12:08] They are byproducts
+of these nine.
+[0:12:11] So what I mean by that is if you
+understand how fat loss occurs,
+[0:12:16] which we can
+certainly talk about,
+[0:12:17] you'll realize some of
+these nine protocols
+[0:12:21] are effective for fat
+loss and some are not.
+[0:12:24] General health is
+the same thing.
+[0:12:25] When we understand
+what it actually
+[0:12:27] means to be healthy from a
+physiological perspective,
+[0:12:30] then the rationale
+for what to train for
+[0:12:32] is going to determine itself.
+[0:12:34] So what I mean is,
+looking at things like,
+[0:12:37] in order to be healthy, you have
+to have sufficient strength,
+[0:12:41] you have to have
+cardiovascular fitness,
+[0:12:42] and you have to have sufficient
+muscle and et cetera.
+[0:12:46] Therefore, training
+for one's health
+[0:12:48] is determined by
+those restrictions.
+[0:12:51] So for you, Andrew, you may need
+to do more strength training
+[0:12:55] to be healthy, where me,
+because I'm strong already,
+[0:12:57] way stronger than you, I may
+not need to do as much strength
+[0:13:00] training.
+[0:13:00] So our, quote, unquote,
+"health-based protocols"
+[0:13:03] are based on our current status
+or limitations in physical
+[0:13:07] fitness among these nine areas.
+[0:13:09] So what I would
+like to do today is
+[0:13:11] to cover a brief history
+of exercise science.
+[0:13:14] And the reason is it's going to
+explain a lot about why people
+[0:13:19] are not getting the goals
+in their exercise programs
+[0:13:21] that they want as
+well as gives you
+[0:13:23] very specific direction
+about what to do instead.
+[0:13:26] ANDREW HUBERMAN: I can't wait
+to hear all the things that I'm
+[0:13:28] doing incorrectly and to
+have you help me remedy that.
+[0:13:32] Before we begin, I'd
+like to emphasize
+[0:13:34] that this podcast is separate
+from my teaching and research
+[0:13:37] roles at Stanford.
+[0:13:38] It is also separate from Dr.
+Galpin's teaching and research
+[0:13:40] roles at Cal State Fullerton.
+[0:13:42] It is, however, part of
+our desire and effort
+[0:13:44] to bring zero cost to
+consumer information
+[0:13:45] about science and
+science-related tools
+[0:13:47] to the general public.
+[0:13:48] In keeping with that
+theme, we'd like
+[0:13:50] to thank the sponsors
+of today's podcast.
+[0:13:52] Our first sponsor is Momentous.
+[0:13:54] Momentous make supplements of
+the absolute highest quality.
+[0:13:57] The Huberman Lab
+podcast is proud to be
+[0:14:00] partnering with Momentous for
+several important reasons.
+[0:14:02] First of all, as I
+mentioned, their supplements
+[0:14:04] are of extremely high quality.
+[0:14:05] Second of all, their
+supplements are generally
+[0:14:08] in single-ingredient
+formulations.
+[0:14:10] If you're going to develop
+a supplementation protocol,
+[0:14:12] you're going to want to
+focus mainly on using
+[0:14:15] single-ingredient formulations.
+[0:14:16] With single-ingredient
+formulations,
+[0:14:18] you can devise the
+most logical and
+[0:14:20] effective and cost-effective
+supplementation
+[0:14:22] regimen for your goals.
+[0:14:24] In addition,
+Momentous supplements
+[0:14:25] ship internationally.
+[0:14:26] And this is, of
+course, important
+[0:14:27] because we realize that many
+of the Huberman Lab podcast
+[0:14:30] listeners reside outside
+the United States.
+[0:14:32] If you'd like to try the
+various supplements mentioned
+[0:14:34] on the Huberman Lab podcast,
+in particular supplements,
+[0:14:37] for hormone health, for sleep
+optimization, for focus,
+[0:14:40] as well as a number
+of other things,
+[0:14:41] including exercise recovery,
+you can go to livemomentous--
+[0:14:44] spelled O-U-S-.
+[0:14:45] So that's
+livemomentous.com/huberman.
+[0:14:47] Today's episode is also
+brought to us by LMNT.
+[0:14:50] LMNT is an
+electrolyte drink that
+[0:14:51] contains the exact ratios of the
+electrolytes sodium, magnesium,
+[0:14:55] and potassium to optimize
+cellular functioning
+[0:14:57] for mental and
+physical performance.
+[0:14:59] Most people realize
+that hydration is key.
+[0:15:01] We need to ingest enough fluids
+in order to feel our best
+[0:15:04] and perform our best, but what
+most people do not realize
+[0:15:07] is that the proper functioning
+of our cells, and nerve cells,
+[0:15:10] neurons in particular, requires
+that sodium, magnesium,
+[0:15:13] and potassium be present
+in the correct ratios.
+[0:15:16] Now, of course, people
+with prehypertension
+[0:15:19] and hypertension need to be
+careful about their sodium
+[0:15:21] intake, but what a lot
+of people don't realize
+[0:15:23] is that if you drink
+caffeine, if you exercise,
+[0:15:26] and, in particular,
+if you're following
+[0:15:27] a very clean diet, that is not
+a lot of processed foods, which,
+[0:15:31] of course, is a
+good thing, chances
+[0:15:33] are you're not getting
+enough sodium, potassium,
+[0:15:36] and magnesium to optimize
+mental and physical performance.
+[0:15:39] LMNT contains a
+science-backed ratio
+[0:15:41] of 1,000 milligrams-- that's 1
+gram of sodium, 200 milligrams
+[0:15:44] of potassium, and 60 milligrams
+of magnesium, and no sugar.
+[0:15:48] If you'd like to try LMNT,
+you can go to drink LMNT--
+[0:15:51] that's drinklmnt.com/huberman
+to get a free LMNT sample pack.
+[0:15:55] With your purchase.
+[0:15:56] Again, that's
+drinklmnt.com/huberman to claim
+[0:16:00] a free sample pack.
+[0:16:01] Today's episode is also
+brought to us by Eight Sleep.
+[0:16:04] Eight Sleep makes smart mattress
+covers with cooling, heating,
+[0:16:06] and sleep-tracking capacity.
+[0:16:08] I've been using an Eight
+Sleep mattress cover
+[0:16:10] for about the last eight
+months, and it has completely
+[0:16:13] transformed my sleep.
+[0:16:14] I'm sleeping about
+the same amount,
+[0:16:16] but I'm sleeping far
+deeper, and I'm now
+[0:16:18] getting the proper ratios
+of so-called rapid eye
+[0:16:20] movement, or REM sleep,
+and slow-wave sleep
+[0:16:22] and waking up feeling
+far more recovered
+[0:16:24] mentally and physically.
+[0:16:25] The underlying mechanism for all
+that is very straightforward.
+[0:16:29] I've talked many times
+before on this podcast
+[0:16:31] and elsewhere about the critical
+relationship between sleep
+[0:16:33] and body temperature,
+that is, in order
+[0:16:36] to fall asleep at
+night, your body
+[0:16:37] needs to drop by about one
+to three degrees in terms
+[0:16:40] of core body temperature.
+[0:16:41] And waking up involves
+a one to three
+[0:16:43] degree increase in
+core body temperature.
+[0:16:45] With Eight Sleep
+mattress covers,
+[0:16:47] you can adjust the temperature
+of your sleeping environment
+[0:16:49] to be one temperature at
+the start of the night,
+[0:16:51] a different temperature in
+the middle of the night,
+[0:16:53] and a different temperature
+as you approach morning,
+[0:16:56] each of which can place you
+into the optimal stages of sleep
+[0:16:59] and have you waking up feeling
+more refreshed than ever.
+[0:17:02] If you'd like to
+try Eight Sleep,
+[0:17:03] you can go to
+eightsleep.com/huberman
+[0:17:05] and check out their pod
+three cover and save $150
+[0:17:09] at checkout.
+[0:17:09] Eight Sleep currently
+ships in the USA,
+[0:17:11] Canada, United Kingdom,
+select countries in the EU,
+[0:17:14] and Australia.
+[0:17:15] Again, that's
+eightsleep.com/huberman to save
+[0:17:18] $150 at checkout.
+[0:17:20] Before we get into how the
+history of exercise science
+[0:17:23] informs the mistakes
+that we are all making
+[0:17:25] and how to remedy those
+mistakes, I'm curious as to
+[0:17:28] whether or not you have
+any favorite one or two
+[0:17:31] studies that point to a
+naturally occurring example
+[0:17:37] of how people can become
+very fit in one area and not
+[0:17:40] another.
+[0:17:41] I'm familiar with seeing
+endurance athletes that
+[0:17:44] apparently have
+terrific endurance
+[0:17:46] but, at least to my eye, don't
+look like they are particularly
+[0:17:49] strong.
+[0:17:50] I'm also familiar with seeing
+individuals that are very, very
+[0:17:53] strong, particularly
+on social media,
+[0:17:55] but that don't look
+like they could walk up
+[0:17:57] a flight of stairs,
+much less run a mile.
+[0:18:00] Do you have any
+examples of studies
+[0:18:01] in or outside the
+laboratory that point
+[0:18:03] to that in a concrete way?
+[0:18:05] ANDY GALPIN: There's
+a lot to discuss here,
+[0:18:07] but I'll answer really clear.
+[0:18:09] If you look across the
+literature-- and this
+[0:18:11] is actually back to as
+early as the mid 1950s.
+[0:18:13] In fact, it actually goes
+back previous to that,
+[0:18:15] to the Harvard Fatigue
+Lab, 1927 to 1947 area.
+[0:18:20] People actually were
+advocating, at that point,
+[0:18:23] a combination of strength
+training and endurance.
+[0:18:26] ANDREW HUBERMAN: In the 1920s?
+[0:18:27] ANDY GALPIN: Way back then.
+[0:18:28] In fact, it actually
+goes prior to that.
+[0:18:29] In the late 1880s, there is
+scientific evidence back then.
+[0:18:33] It became more well-developed
+in the mid 1950s and '60s.
+[0:18:37] In fact, there was
+the initial stages
+[0:18:39] of what's called the Exercise
+As Medicine Movement, which
+[0:18:42] is the movement now, but the
+initial stages of that actually
+[0:18:45] route back to the 1950s.
+[0:18:46] And I could actually go
+into that whole discussion
+[0:18:48] and the story of how
+that all came about,
+[0:18:51] but that's the Health
+Is Wealth mantra
+[0:18:54] that came from the 1950s, from
+the scientific community then.
+[0:18:58] All those data points
+are going to suggest
+[0:19:00] you need a combination of
+some sort of broad strength
+[0:19:03] training and broad endurance.
+[0:19:05] Now, if you have a specific
+goal five months from now,
+[0:19:08] you want to compete in a race
+or hit a certain physique
+[0:19:11] thing, that's fine to focus
+on one area of training.
+[0:19:13] Certainly, if you're an
+athlete, that's different.
+[0:19:16] But if you want
+to maximize health
+[0:19:18] and overall functionality
+throughout time,
+[0:19:20] it needs to be a combination.
+[0:19:21] And to really, really
+highlight this,
+[0:19:22] I can actually talk
+about a couple of studies
+[0:19:24] that I've done.
+[0:19:24] One of them we actually
+did in Stockholm, Sweden.
+[0:19:28] So I did this at the Karolinska
+Institute, which you probably
+[0:19:31] are aware of.
+[0:19:32] It's actually one of
+the founding places
+[0:19:34] of all of exercise physiology.
+[0:19:36] Generally, it started there.
+[0:19:37] It was called something
+different back then,
+[0:19:39] but really, our
+entire field came out
+[0:19:42] of Stockholm and the
+Karolinska Institute.
+[0:19:44] And we worked with a whole
+bunch of cross-country skiers
+[0:19:47] that were in their 80s and 90s.
+[0:19:49] And so they were competitive
+skiers in the 1940s and '50s,
+[0:19:52] and they had been
+skiing competitively
+[0:19:53] for that entire duration.
+[0:19:55] So you're talking 50 to 60
+consecutive years of competing.
+[0:19:59] So these are 80 to 90-year-olds,
+living alone and healthy.
+[0:20:02] And we compared them to
+a group of individuals
+[0:20:05] here in America who are the same
+age but were not exercising.
+[0:20:09] And what we wanted
+to do is to see
+[0:20:11] and of look at, what are these
+lifelong endurance individuals?
+[0:20:14] What do they look like?
+[0:20:15] And when we brought them into
+the lab, which is, by the way,
+[0:20:18] amazing, to do a VO2 max
+test on a 92-year-old,
+[0:20:22] especially in a language
+that they don't speak,
+[0:20:24] you can imagine, you're
+doing this in the hospital.
+[0:20:27] And you're running
+people through,
+[0:20:28] this is a cycling task.
+[0:20:29] And so for a VO2 max test,
+you have a mask on your face,
+[0:20:32] you're hooked up
+to a metabolic cart
+[0:20:34] so we can collect
+all the gases that
+[0:20:35] are coming out of
+your mouth, and you're
+[0:20:38] chanting these people on.
+[0:20:39] And basically, every
+minute, the workload
+[0:20:40] gets harder and
+harder and harder
+[0:20:42] until you can't complete it.
+[0:20:44] And we're doing this
+in a cardiology center,
+[0:20:47] and the cardiologists are
+usually waiting for their heart
+[0:20:50] rate to get slightly
+elevated and they stop them
+[0:20:52] because they're
+85, 86 years old.
+[0:20:55] And not only are we
+not stopping them,
+[0:20:56] but we are screaming in
+their ears, just go, go, go.
+[0:20:58] ANDREW HUBERMAN: In
+Swedish or English?
+[0:21:00] ANDY GALPIN: In English.
+[0:21:01] And then the translator--
+but it doesn't
+[0:21:03] take a lot of translation
+when someone's screaming
+[0:21:05] at your face, go, go, go.
+[0:21:08] So we ran them through a
+whole bunch of VO2 max tests.
+[0:21:11] And we did the same
+thing for those folks
+[0:21:12] back here in America.
+[0:21:15] And what was incredibly
+clear from that study
+[0:21:18] was the VO2 max--
+[0:21:20] you can think about
+these numbers,
+[0:21:21] and this is what's
+called relative.
+[0:21:23] And the relative
+terms are milliliters
+[0:21:25] per kilogram per minute.
+[0:21:26] And so a standard
+number is about 18,
+[0:21:28] is what we call the
+line of independence.
+[0:21:30] So if your VO2 max is below
+18 milliliters per kilogram
+[0:21:33] per minute, it's very hard
+for you to live by yourself.
+[0:21:35] So your fitness is
+so low, you probably
+[0:21:38] are going to need to have
+somebody living with you
+[0:21:40] or you'll need to be in some
+sort of assisted living home.
+[0:21:42] So if you are in a VO2
+max of 20 or 21 or 22,
+[0:21:47] you're not below that
+line of independence,
+[0:21:49] but you're on that threshold.
+[0:21:51] And so what we found was
+our folks here in America,
+[0:21:55] the group average was
+right around that number.
+[0:21:57] So they were living at
+home, by definition.
+[0:21:58] We picked them to be
+people living by themselves
+[0:22:01] in their 80s and not
+in a living home,
+[0:22:03] but they didn't
+have any bandwidth.
+[0:22:04] So if they got a cold or
+they had anything pop up
+[0:22:07] where they lost a
+little bit of fitness,
+[0:22:09] they were going to
+drop below that line
+[0:22:10] and would probably have to go
+to some sort of assisted living
+[0:22:13] situation.
+[0:22:15] The folks in Stockholm, the
+cross-country skiers, the group
+[0:22:19] average was much closer
+to 35 to 38 milliliters
+[0:22:22] per kilogram per minute.
+[0:22:23] Now, that number is
+about the VO2 max
+[0:22:26] you would find for a
+normal college male.
+[0:22:30] And so these folks that
+were literally 80 or 90--
+[0:22:34] the joke, if a sabertooth tiger
+ran in the room or whatever
+[0:22:38] and it chased it
+down and we all had
+[0:22:39] to run to see who
+didn't get eaten alive,
+[0:22:41] the college men would
+probably have gotten
+[0:22:43] eaten before the 90-year-olds.
+[0:22:46] And in one case, we had
+a 92-year-old individual.
+[0:22:48] And I think his VO2
+max was 38, which
+[0:22:50] was, in our estimation,
+a world record,
+[0:22:52] the highest VO2 max for
+somebody over the age of 90.
+[0:22:56] ANDREW HUBERMAN: May I ask what
+is the typical resting heart
+[0:22:59] rate for somebody very
+fit, like these older
+[0:23:04] Swedish cross-country skiers?
+[0:23:06] If somebody has-- let's
+say their number is
+[0:23:10] 35 millimeters per kilogram
+in this VO2 max test,
+[0:23:14] but since most of
+us don't have access
+[0:23:16] to that kind of equipment, but
+we can measure our pulse rate.
+[0:23:19] ANDY GALPIN: Yeah.
+[0:23:20] ANDREW HUBERMAN: What was
+a typical resting heart
+[0:23:21] rate, resting pulse rate?
+[0:23:22] ANDY GALPIN: Sub 60.
+[0:23:23] ANDREW HUBERMAN: Sub 60.
+[0:23:24] ANDY GALPIN: Yeah.
+[0:23:25] I mean, typically
+that's a good number
+[0:23:26] to go off of for anybody,
+regardless of age.
+[0:23:29] Any time I see
+somebody above that,
+[0:23:31] I'm going to start
+asking questions.
+[0:23:33] Certainly above-- you'll see
+in the literature people will
+[0:23:35] say 60 to 80 is normal, and I
+don't agree with that at all.
+[0:23:39] If your resting heart rate
+is 75 beats per minute,
+[0:23:42] there's either something
+going on or you're not fit.
+[0:23:45] ANDREW HUBERMAN: How
+much cross-country skiing
+[0:23:47] were they doing, on
+average, in the previous,
+[0:23:50] let's say, if we
+take the previous 20
+[0:23:52] years since they'd been
+longtime cross-country skiers.
+[0:23:55] Divide that by 20 years.
+[0:23:57] ANDY GALPIN: Yeah,
+[0:23:57] ANDREW HUBERMAN: On average,
+are these people cross-country
+[0:23:59] skiing five hours a day, two
+hours a day, an hour a day?
+[0:24:02] ANDY GALPIN: Yeah, that's
+actually a good question.
+[0:24:03] I don't remember.
+[0:24:04] It's been many years,
+but they were not
+[0:24:06] doing it every single day.
+[0:24:07] And the volume would
+not have shocked you.
+[0:24:09] It was the consistency over
+50 years that got them there.
+[0:24:13] Now, obviously, these
+people were, again,
+[0:24:14] world champions and Olympic
+gold medalists in the 1940s
+[0:24:17] and '50s, so they were elite.
+[0:24:19] They just continued
+consistently over time,
+[0:24:21] but it wasn't a shocking
+amount of physical fitness.
+[0:24:24] They also didn't go out of
+their way to train hard.
+[0:24:29] They were busy chopping wood.
+[0:24:31] They were busy doing a
+number of other things.
+[0:24:33] And then they just happened
+to do some of these races
+[0:24:35] and ski along the way, but
+it wasn't a crazy amount too
+[0:24:37] where you're like,
+oh, that's great,
+[0:24:39] but I could never
+hit that number.
+[0:24:41] It was something
+much more reasonable.
+[0:24:42] ANDREW HUBERMAN:
+So is the takeaway
+[0:24:44] to be consistent about getting
+cardiovascular exercise?
+[0:24:48] And we can define what
+"consistent" means
+[0:24:50] in terms of days per
+week a little bit later,
+[0:24:52] and I know we will.
+[0:24:53] ANDY GALPIN: Yeah.
+[0:24:54] ANDREW HUBERMAN: What
+are some other examples?
+[0:24:56] I love these examples
+from the real world.
+[0:24:58] ANDY GALPIN: So here's
+the downside, though.
+[0:25:00] So I only told you
+about the VO2 max.
+[0:25:02] What I didn't tell you
+about is their leg strength
+[0:25:05] and functionality.
+[0:25:06] And that part was
+no more superior
+[0:25:09] than it was their counterparts
+who were not exercisers.
+[0:25:12] So what that showed really,
+really clearly-- and many
+[0:25:16] other studies have been
+done since then that
+[0:25:18] look at the classic,
+what we call
+[0:25:20] lifelong endurance exercisers.
+[0:25:22] You will see, in
+general, their VO2 max,
+[0:25:25] their cardiovascular function,
+their resting heart rate,
+[0:25:27] their blood pressure.
+[0:25:29] It will be markedly healthier
+than folks who don't exercise.
+[0:25:33] It is extraordinarily
+clear that type of exercise
+[0:25:35] is very important
+for chronic disease
+[0:25:36] management, no doubt about it.
+[0:25:38] However, it is not sufficient
+for overall global health
+[0:25:43] because it does almost
+nothing for leg strength,
+[0:25:46] for any other marker
+of health, which
+[0:25:48] we can talk about, what are
+the things that are actually
+[0:25:50] going to predict mortality,
+morbidity than most.
+[0:25:54] So was a big smashing
+indication that's like,
+[0:25:59] hey, this is great.
+[0:26:00] However, you're leaving
+things on the table
+[0:26:03] for your overall health.
+[0:26:04] Now, one could
+argue, they're 80,
+[0:26:05] and they're doing pretty well,
+but they weren't doing as well
+[0:26:09] in these areas.
+[0:26:09] And so a study we
+did later, actually,
+[0:26:12] as a follow-up was looking
+at monozygous twins.
+[0:26:15] So this is actually interesting.
+[0:26:16] Being a scientist, this
+is a classic example
+[0:26:18] of one of my graduate students
+who had been in my lab
+[0:26:21] for probably three
+or four years.
+[0:26:23] And she was in our single
+fiber physiology lab.
+[0:26:25] And you can imagine, she's
+isolating individual muscle
+[0:26:29] fibers, from an athlete,
+one by one with a tweezer.
+[0:26:32] And she's going to do several
+thousand individual cells.
+[0:26:35] So you're down there for hours,
+and things happen down there.
+[0:26:39] You kind of lose your mind.
+[0:26:41] And she was going on one day
+with one of my colleagues
+[0:26:44] and just talking, and
+she's like, oh yeah,
+[0:26:46] my uncle is really, really
+fit and something or other
+[0:26:49] and then.
+[0:26:50] Oh yeah, he's a twin.
+[0:26:51] And I was like, oh,
+is he a monozygous?
+[0:26:53] And she's like, yeah.
+[0:26:53] ANDREW HUBERMAN: For
+those that don't know,
+[0:26:54] monozygous are identical twins.
+[0:26:56] ANDY GALPIN: Yeah,
+which is interesting.
+[0:26:57] So you basically have--
+what I'm setting up here
+[0:26:59] is this is the perfect
+exercise scientific experiment.
+[0:27:02] Monozygous, identical twins mean
+they have the exact same DNA.
+[0:27:06] So an egg was fertilized,
+split, and then two humans
+[0:27:10] grew out of that with
+the exact same DNA.
+[0:27:12] And so now we can
+start answering
+[0:27:13] the question, well, yeah, OK.
+[0:27:14] What about, maybe, these
+cross-country skiers?
+[0:27:17] Maybe they were
+just genetic freaks.
+[0:27:19] Maybe it didn't matter.
+[0:27:20] It's like some
+people have-- well,
+[0:27:21] genetics are always a
+component to it, but how much?
+[0:27:24] Well, now we have a
+scenario lining up
+[0:27:26] where it's like, wait a minute.
+[0:27:27] You have monozygous twins.
+[0:27:28] So we have a replica of a
+human being, exact same DNA.
+[0:27:31] The only differences that we
+would see in their physiology
+[0:27:33] now would be due to
+lifestyle circumstances.
+[0:27:36] Interesting.
+[0:27:37] So monozygous twin
+dad and uncle, right?
+[0:27:41] Uh-huh.
+[0:27:42] Great.
+[0:27:42] Do they exercise?
+[0:27:43] Well, one of them does.
+[0:27:45] He's a lifelong endurance
+exercise, runner, cyclist,
+[0:27:48] swimmer, Ironman,
+all these things.
+[0:27:50] What about the other one?
+[0:27:52] Nope.
+[0:27:52] He doesn't exercise at all.
+[0:27:55] And at that point, I wanted
+to kill my graduate student
+[0:27:57] because I'm like, you've been in
+my lab for three years or more,
+[0:28:01] probably, and
+you've never told me
+[0:28:03] that in your household is the
+perfect scientific experiment
+[0:28:07] for exercise you
+could ever create.
+[0:28:09] And Jesus, the look on her
+face when my colleague and I
+[0:28:12] were staring at her.
+[0:28:13] She's just like, oh my god.
+[0:28:15] So I'm like, call
+them right now.
+[0:28:17] They are coming into the lab.
+[0:28:18] Fly them in from Chicago.
+[0:28:19] I don't care what we have to do.
+[0:28:21] We're getting them in.
+[0:28:22] And so I wanted to--
+actually, going back
+[0:28:24] to the model that was first
+developed by the Harvard
+[0:28:27] Fatigue Lab, one thing
+that's interesting about
+[0:28:29] that community is
+they started off
+[0:28:31] with the concept of trying
+to examine human performance
+[0:28:34] through a holistic lens.
+[0:28:35] And so it was the antithesis
+of looking at either organ
+[0:28:39] by organ, so we're
+going to only look
+[0:28:40] at the cardiovascular system.
+[0:28:42] We're only going to
+look at skeletal muscle.
+[0:28:43] And then we're saying, we're
+looking at this entire picture.
+[0:28:46] And so that model, we wanted to
+carry through in these twins.
+[0:28:48] And I said, all right, I want
+to bring them in the lab,
+[0:28:50] but I'm not just going
+to look at one system.
+[0:28:52] I want to do everything.
+[0:28:53] So we took stool samples.
+[0:28:55] We took blood.
+[0:28:56] We did vertical jump tests.
+[0:28:58] We did maximum strength tests.
+[0:28:59] We did MRIs of muscle mass.
+[0:29:02] We did VO2 max tests.
+[0:29:05] We did efficiency stuff.
+[0:29:06] We did genetic testing.
+[0:29:07] We did an IQ test.
+[0:29:08] We did psychological battery.
+[0:29:10] We wanted to look at
+everything to figure out
+[0:29:11] of these things, what
+differ between the twins?
+[0:29:13] And if so, the second key
+question there is, by how much?
+[0:29:17] So can I improve my VO2 max?
+[0:29:20] Sure.
+[0:29:21] Everyone knows
+that, but how much?
+[0:29:23] Can it change by 5%, 80%?
+[0:29:26] Where is the number?
+[0:29:27] And so putting some
+quantification on this
+[0:29:28] was very important.
+[0:29:30] And so again, we
+had another example
+[0:29:32] of a classic endurance-only
+training paradigm
+[0:29:35] compared to a non.
+[0:29:37] So this is a person
+who's, I think,
+[0:29:39] he's truck driver by vocation.
+[0:29:41] I think, actually, he drove for
+a potato chip company, which
+[0:29:43] was even funnier.
+[0:29:45] The endurance athlete
+actually was great
+[0:29:47] because, like any
+endurance people,
+[0:29:48] he had physical books of
+all of his training mileage
+[0:29:53] for the last 35 years.
+[0:29:55] And we just went
+through them, and we
+[0:29:56] calculated the total
+amount of miles he ran,
+[0:29:58] his averages, his
+heart rates per time.
+[0:30:00] We had this unbelievable
+thing, what races he was in.
+[0:30:02] He had the documentation.
+[0:30:04] He was just totally nuts,
+something that endurance people
+[0:30:06] are like shaking their head
+right now going, oh, yeah.
+[0:30:08] I got that too.
+[0:30:09] ANDREW HUBERMAN: And endurance
+folks are pretty nerdy.
+[0:30:11] ANDY GALPIN: Yeah.
+[0:30:12] Super nerdy, right?
+[0:30:13] So it was great because now we
+could validate, as close as one
+[0:30:16] could, to actually how much
+you ran and things like that.
+[0:30:20] So they had about
+a 35-year discord.
+[0:30:22] They both exercised up
+through high school.
+[0:30:24] About 18, they stopped
+doing it, and by the time
+[0:30:26] I got them in the lab,
+they're in their mid-50s.
+[0:30:28] So it was about 35
+years of difference.
+[0:30:29] And when we ran them
+through the testing,
+[0:30:32] if you look at the measures
+that were similar to the Sweden
+[0:30:35] study, it was almost identical.
+[0:30:37] The exercising twin was
+significantly better
+[0:30:42] at things like a lipid
+panel, resting heart
+[0:30:44] rate, blood pressure, VO2 max.
+[0:30:46] Any of those markers, as
+predicted, were much better.
+[0:30:50] What was very
+interesting, though,
+[0:30:51] was the things that
+were in the middle.
+[0:30:53] First of all, their total
+amount of muscle mass
+[0:30:55] was almost identical,
+to the gram,
+[0:30:58] within the margin of error of
+a DEXA scan could possibly ever
+[0:31:01] be.
+[0:31:02] The non-exerciser, though,
+was a little bit fatter.
+[0:31:06] So the difference in
+actual body weight
+[0:31:08] was explained almost entirely
+by body fat or non-lean tissue,
+[0:31:12] really, same sort of deal.
+[0:31:14] So OK.
+[0:31:14] No one's surprised
+there that the exerciser
+[0:31:16] was a little bit
+leaner, even though it
+[0:31:18] didn't change total amount
+of muscle mass at all.
+[0:31:21] When we looked at some of
+the more functional tests
+[0:31:23] and we looked at things
+like muscle quality--
+[0:31:25] so this is a metric you
+can get from an ultrasound.
+[0:31:28] You can kind of think
+about this as how much fat
+[0:31:30] is inside the tissue,
+which is sometimes
+[0:31:33] an advantage for an endurance
+athlete to have a little bit
+[0:31:35] more of what are
+called intramuscular
+[0:31:37] triglycerides because it's a
+fuel directly in the tissue.
+[0:31:39] But in general,
+the muscle quality
+[0:31:44] he was not in favor
+of the exerciser.
+[0:31:48] If you looked at the
+performance testing
+[0:31:50] and if you looked at strength,
+it favored the non-exerciser.
+[0:31:55] And so now, again, we
+have the same finding
+[0:31:57] we saw in our Sweden study,
+but in identical twins.
+[0:32:00] And so it really, really
+highlighted the fact
+[0:32:03] that if you want to move
+forward with optimal health,
+[0:32:06] simply picking one silo is
+not going to get you there.
+[0:32:09] ANDREW HUBERMAN:
+One silo meaning
+[0:32:10] just running, just cycling?
+[0:32:12] ANDY GALPIN: Right.
+[0:32:13] ANDREW HUBERMAN: Does this
+mean that the twin that did not
+[0:32:16] exercise could jump higher
+or win an arm wrestling
+[0:32:20] competition?
+[0:32:21] Not that that's a
+vital thing to be
+[0:32:23] able to do, but just in
+terms of measuring strength,
+[0:32:25] it's our isometric strength.
+[0:32:27] Was the non-exercising twin
+stronger or at least as strong
+[0:32:31] as their exercising twin?
+[0:32:33] ANDY GALPIN: Yes,
+particularly in grip strength.
+[0:32:35] Yeah.
+[0:32:35] And any of the measures like
+the vertical jump, leg extension
+[0:32:38] power, and a number
+of things, they often
+[0:32:41] favored the non-exerciser,
+which you're still
+[0:32:44] a little bit of a
+chicken and egg.
+[0:32:45] You don't know if, necessarily,
+the endurance training reduced
+[0:32:48] that other twin's strength.
+[0:32:50] It doesn't even
+really matter, per se.
+[0:32:52] I think the highlight
+of it is, can you
+[0:32:54] change some of these
+metrics of VO2 max?
+[0:32:57] Yeah, not even close.
+[0:32:59] These things are very responsive
+regardless of your genetics.
+[0:33:02] Your genetics will give you a
+starting place very clearly.
+[0:33:05] Even the non-exerciser
+was a pretty healthy guy.
+[0:33:07] So they were in a good spot.
+[0:33:09] Mid-50s, doesn't
+exercise, doesn't really
+[0:33:10] pay attention to
+his diet at all,
+[0:33:12] and he was in a
+pretty good shape.
+[0:33:14] However, if you want to actually
+move progress and move forward
+[0:33:21] high functionality, you have
+to do something besides just
+[0:33:25] run, just distance run.
+[0:33:27] Now, I could say the same
+thing for strength training.
+[0:33:29] That alone--
+because I don't want
+[0:33:31] to make this thing like I'm
+saying endurance exercises.
+[0:33:33] It worked.
+[0:33:34] In both cases,
+both these studies,
+[0:33:36] those folks were much
+better off in metrics
+[0:33:40] that are incredibly
+important to mortality,
+[0:33:42] how long you're going to
+live, VO2 max, et cetera.
+[0:33:45] It's just not going to get
+there in terms of strength.
+[0:33:49] We took a look at
+muscle fiber physiology
+[0:33:51] as well, which is
+very interesting.
+[0:33:53] So what I mean is
+there's generally
+[0:33:54] two types of muscle fibers,
+fast-twitch and slow-twitch.
+[0:33:58] And one of the things that
+is a hallmark of aging
+[0:34:01] is a selective reduction
+in fast-twitch fibers.
+[0:34:05] And that's because it's
+difficult to activate them
+[0:34:07] unless you're doing
+high-force activities.
+[0:34:10] You're going to activate
+slow-twitch fibers doing almost
+[0:34:12] any activity of daily living.
+[0:34:14] And so they stay around.
+[0:34:16] Fast-twitch fibers,
+unless you're
+[0:34:17] doing something of high
+force or going, not be used.
+[0:34:19] And they're not going
+to be kept around.
+[0:34:21] And that's a
+problem because when
+[0:34:22] you look at things like
+the need for leg strength
+[0:34:25] through aging, the ability to
+catch yourself from a fall,
+[0:34:28] these things are
+incredibly important.
+[0:34:30] If you don't have
+fast-twitch fibers,
+[0:34:32] you don't have the speed to get
+your foot out in front of you
+[0:34:34] on time, and you don't
+have the eccentric strength
+[0:34:36] to stop the fall from happening.
+[0:34:37] And so if you look across,
+again, the aging literature,
+[0:34:40] they're very clear
+about the importance
+[0:34:41] of maintaining strength and
+fast-twitch fibers over time.
+[0:34:45] So we know that this is
+an important distinction
+[0:34:48] here overall.
+[0:34:49] And people will often talk
+about, how much of that
+[0:34:53] is genetically determined?
+[0:34:54] Can I change my fiber type?
+[0:34:55] And the answer there
+is resoundingly yes.
+[0:34:58] And can I change
+it with exercise?
+[0:35:00] And the answer is,
+absolutely you can.
+[0:35:02] And then the next
+question is, how much?
+[0:35:05] So now, again, we're going
+to see an order of magnitude.
+[0:35:07] In general, without going
+too far down an area
+[0:35:10] that maybe we can
+save for later,
+[0:35:13] each one of your
+muscles in your body
+[0:35:15] has a different percentage of
+fast-twitch and slow-twitch,
+[0:35:18] for example, your calf.
+[0:35:21] If you look at your soleus,
+which is the smaller one that
+[0:35:23] goes in the back, that's
+generally mostly slow-twitch,
+[0:35:26] typically 80% or so slow-twitch.
+[0:35:29] The gastroc, which is the
+other one right next to it.
+[0:35:31] So if you were to point your toe
+next to your face and that part
+[0:35:34] that kind of flexes out
+in the middle pops out,
+[0:35:37] that's your gastroc.
+[0:35:38] That is almost the inverse.
+[0:35:40] So it's generally 80%
+fast-twitch, maybe 20%
+[0:35:42] slow-twitch.
+[0:35:43] Generally, anything anti
+postural or postural,
+[0:35:46] rather, anti gravity,
+spinal erectors,
+[0:35:48] things that are meant to keep
+you up or moving all day,
+[0:35:50] are going to be slow-twitch.
+[0:35:51] And things like your hamstrings,
+which are for explosion,
+[0:35:53] are going to be fast-twitch.
+[0:35:55] Well, we biopsied the
+quad in these individuals.
+[0:35:58] And in that muscle, it's
+generally about 50/50,
+[0:36:02] fast-twitch, slow-twitch,
+as a really broad number.
+[0:36:06] Well, one of the things that we
+found was in the non-exerciser,
+[0:36:09] it was almost textbook
+what you would predict.
+[0:36:11] It was about 50%
+or so slow-twitch,
+[0:36:15] a little bit of percentage of
+fast-twitch, and then about 20%
+[0:36:18] or what are these
+called hybrid fibers,
+[0:36:20] which are a hallmark
+of an activity.
+[0:36:22] All right.
+[0:36:23] Great.
+[0:36:23] In the exerciser, it was
+about 95% slow-twitch.
+[0:36:28] And so it's extremely
+clear-- again,
+[0:36:29] I don't know if maybe their set
+point was a little bit higher
+[0:36:33] towards that, and the
+non-exerciser devolved down
+[0:36:36] to his place or the other
+one, but it doesn't matter.
+[0:36:39] I mean, you're going from
+40% slow-twitch in one case
+[0:36:41] to 95% slow-twitch
+in another case.
+[0:36:44] It shows you that the limits
+of physiological adaptation
+[0:36:47] are darn near boundless
+given enough exposure.
+[0:36:51] In this case, 35 years of
+extremely consistent training,
+[0:36:54] and his muscle
+morphology was completely
+[0:36:56] different than his identical
+twin with the exact same DNA.
+[0:37:01] ANDREW HUBERMAN: Those are two
+beautiful examples of people
+[0:37:03] doing endurance work
+for a number of years
+[0:37:06] and what that
+gives them in terms
+[0:37:08] of benefits and functionality.
+[0:37:12] Has the opposite experiment
+been done or observed,
+[0:37:16] where somebody's
+just weight lifted
+[0:37:17] or just sprinted for
+a number of years?
+[0:37:21] I don't know that there's
+a identical twin control.
+[0:37:25] That's a little--
+[0:37:25] ANDY GALPIN: No.
+[0:37:25] I wish we had a third twin.
+[0:37:27] ANDREW HUBERMAN:
+--too much to ask for.
+[0:37:27] Right, triplets.
+[0:37:28] So triplets out there, if you're
+exercising in different ways
+[0:37:32] or people who have
+triplets, maybe you
+[0:37:34] assign one kid to be a runner,
+one kid to be a weightlifter,
+[0:37:36] and the other one
+to be sedentary.
+[0:37:37] Please don't do
+experiments like that.
+[0:37:39] But the expectation,
+as I understand it,
+[0:37:43] would be that the person
+that sprints or that does
+[0:37:47] heavy squats, explosive
+work, would then
+[0:37:51] have more fast-twitch
+muscle fibers in their quad.
+[0:37:54] And their non-exercising
+counterpart would have fewer.
+[0:37:58] That would make sense.
+[0:37:58] But what happens if you assess
+the endurance level in somebody
+[0:38:04] who's just done strength
+training or just sprinted?
+[0:38:06] ANDY GALPIN: Yeah.
+[0:38:07] So we don't have those
+data specifically.
+[0:38:09] We're actually just starting
+to have studies come out
+[0:38:13] on lifelong strength trainers.
+[0:38:15] And there's actually
+a very good reason
+[0:38:16] for this, which is a whole
+story we can get into,
+[0:38:21] but the quick
+answer is, we don't
+[0:38:23] have a lot of people
+who've been lifting
+[0:38:25] weights for 30-plus years.
+[0:38:27] We have a whole swath
+of people who've
+[0:38:30] been doing endurance
+training for that long.
+[0:38:31] ANDREW HUBERMAN: Is that
+because fewer people
+[0:38:33] have been weight training or are
+the weight trainers all dead?
+[0:38:36] ANDY GALPIN: You've got
+to go back to 1953, 1954.
+[0:38:38] You had two major things
+happen that changed
+[0:38:40] the entire course of exercise
+physiology and exercise science
+[0:38:42] and, really, exercise
+as we know it.
+[0:38:44] It's important to understand
+the history of our field.
+[0:38:47] A lot of the questions
+I get are based
+[0:38:51] on false assumptions of what
+exercise can and can't do.
+[0:38:56] As an example,
+questions like momentum.
+[0:38:59] Should I use momentum or
+that's cheating, right?
+[0:39:01] Or it doesn't work.
+[0:39:03] It compromises my results.
+[0:39:04] It's actually totally untrue.
+[0:39:06] There are excellent reasons
+when you should use momentum
+[0:39:09] when you lift.
+[0:39:10] There are reasons
+when you should not.
+[0:39:11] It is sometimes very
+beneficial to go fast
+[0:39:14] with the exercise repetitions.
+[0:39:15] Sometimes very slow and
+controlled is better.
+[0:39:17] Any question I
+get-- in fact, I'm
+[0:39:19] very infamous for always
+responding with, "It depends."
+[0:39:24] The reason I say it depends
+is it depends on the goal.
+[0:39:27] When you're training for speed
+or power or muscular endurance,
+[0:39:30] the answer to some of these
+very common question differs.
+[0:39:33] What people fail
+to realize is they
+[0:39:35] think they're asking the right
+question because they don't
+[0:39:38] understand this history, what's
+being planted in your brain
+[0:39:41] subconsciously, is
+driving that question.
+[0:39:44] And it's not necessarily
+the right one.
+[0:39:46] So if we walk through
+that a little bit,
+[0:39:48] you'll see what
+that field has led.
+[0:39:50] Why you think
+certain things matter
+[0:39:52] when they actually don't or
+maybe your assumptions are
+[0:39:55] incorrect and then exactly
+what to do about them.
+[0:39:57] ANDREW HUBERMAN: I'd like
+to take a brief break
+[0:39:59] and acknowledge our
+sponsor, Athletic Greens.
+[0:40:02] Athletic Greens is a
+vitamin, mineral, probiotic,
+[0:40:04] and adaptogen drink
+designed to help
+[0:40:07] you meet all of your
+foundational nutritional needs.
+[0:40:09] I've been taking Athletic
+Greens daily since 2012,
+[0:40:13] so I'm delighted that they're
+a sponsor of this podcast.
+[0:40:15] The reason I started taking
+Athletic Greens and the reason
+[0:40:18] I still take Athletic
+Greens once or twice a day
+[0:40:20] is that it helps me meet all
+of my foundational nutritional
+[0:40:23] needs.
+[0:40:23] That is, it covers my
+vitamins, my minerals,
+[0:40:25] and the probiotics are
+especially important to me.
+[0:40:28] Athletic Greens also
+contains adaptogens,
+[0:40:30] which are critical for
+recovering from stress,
+[0:40:32] from exercise, from work,
+or just general life.
+[0:40:34] If you'd like to
+try Athletic Greens,
+[0:40:36] you can go to
+athleticgreens.com/huberman
+[0:40:39] to claim a special offer.
+[0:40:40] They'll give you five
+free travel packs,
+[0:40:42] and they'll give you a year
+supply of vitamin d3k2.
+[0:40:45] Again, if you'd like
+to try Athletic Greens,
+[0:40:46] go to
+athleticgreens.com/huberman
+[0:40:49] to claim this special offer.
+[0:40:50] ANDY GALPIN: So
+in 1953, 1954, you
+[0:40:53] had Roger Bannister breaking
+the four-minute mile,
+[0:40:56] so subfour-minute mile.
+[0:40:57] And then you also had Sir Edmund
+Hillary and then his sherpa,
+[0:41:00] Norgay, summit Everest in the
+same, basically, two-year span.
+[0:41:04] That exact same year after
+that was the formation
+[0:41:06] of what's called the American
+College of Sports Medicine.
+[0:41:09] Now, that is still around today.
+[0:41:11] It is the preeminent group
+for this Exercise As Medicine.
+[0:41:14] So if you're interested
+in things like exercise
+[0:41:17] for obesity prevention, for
+cancer treatment, for things
+[0:41:20] like that-- it's not
+really sports medicine.
+[0:41:22] It's more for
+clinical exercise--
+[0:41:24] that's the place to go, American
+College of Sports Medicine.
+[0:41:27] So we have this
+launching of both a ton
+[0:41:30] of people wanting to start
+doing endurance exercise
+[0:41:33] and start swimming and
+cycling and running.
+[0:41:35] And then you have a launch
+of people coming off
+[0:41:37] of the back of the
+Harvard Fatigue Lab.
+[0:41:39] So the fatigue lab
+actually shut down in 1947.
+[0:41:41] So you have these people
+interested in physical fitness,
+[0:41:44] but nowhere to go.
+[0:41:46] Well, all those people left
+the Harvard fatigue. lab
+[0:41:48] and started their own
+labs at other places.
+[0:41:50] So you've launched
+the careers of people
+[0:41:52] like Dave Costill
+and John Holloszy
+[0:41:56] and some of these very famous
+exercise physiologists.
+[0:41:59] And they start
+building laboratories.
+[0:42:00] And we start, for
+the first time ever,
+[0:42:02] studying the
+science of exercise.
+[0:42:04] So years go by, and
+these people happen.
+[0:42:07] The 1960s the 1970s is what
+we call the runner's boom.
+[0:42:10] So people start--
+in fact, if you
+[0:42:12] look at the numbers of people
+who are doing marathons,
+[0:42:14] it explodes through
+these two-decade spans
+[0:42:18] because it's like, we could
+do these endurance feats.
+[0:42:21] Notice both those feats were
+endurance, running short term
+[0:42:24] as well as going over there.
+[0:42:25] No one has thought anything
+about strength training
+[0:42:29] and here's why.
+[0:42:30] In the late 1880s, there was a
+very famous physician named--
+[0:42:33] George Winship, I
+think was his name,
+[0:42:35] who was a big proponent
+of strength training.
+[0:42:37] Well, he died in the age of 50
+something of a heart attack.
+[0:42:41] And that terrified people of
+strength training for 70 years
+[0:42:44] because they're like,
+whoa, whoa, whoa.
+[0:42:45] That stuff will kill you
+because he was a doctor,
+[0:42:48] he was trying-- he was
+running around the country,
+[0:42:49] doing these exhibitions and
+reporting it, and then he died.
+[0:42:52] ANDREW HUBERMAN: It's
+sort of like Atkins--
+[0:42:54] ANDY GALPIN: 100%.
+[0:42:54] ANDREW HUBERMAN: --dying.
+[0:42:55] Although some people say
+he died of a heart attack.
+[0:42:57] Other people said he
+fell through the ice
+[0:42:59] into cold water.
+[0:43:00] That's debated, but the
+fact that a heavy proponent
+[0:43:04] of a given nutrition
+plan dies suddenly.
+[0:43:07] ANDY GALPIN: Yep.
+[0:43:08] ANDREW HUBERMAN: Not
+good for business.
+[0:43:09] ANDY GALPIN: So now the
+little storm is brewing.
+[0:43:14] 1940s-- and I'm going
+back a little bit,
+[0:43:16] but bear with me for a second--
+[0:43:17] there's a guy named
+Peter Karpovich,
+[0:43:19] and he's a scientist
+out of Springfield,
+[0:43:23] the decorated
+physical education,
+[0:43:25] PE, that's a legendary
+place, Springfield College.
+[0:43:27] And he is anti strength training
+for a lot of the same reasons.
+[0:43:30] In his entire career, he
+talked about, don't do this.
+[0:43:33] He's the one that launched these
+ideas that strength training
+[0:43:35] will make you lose
+flexibility, it
+[0:43:38] will be bad for kids,
+all these things
+[0:43:40] that we know now are
+clearly not true.
+[0:43:43] He's a proponent
+of these things.
+[0:43:44] And there is a
+show that happened
+[0:43:47] at Springfield College,
+and a guy named Bob York--
+[0:43:50] and if you-- York Barbell,
+that's still around today--
+[0:43:54] is going around the country and
+putting on these exhibitions.
+[0:43:56] They come to
+Springfield, and it's
+[0:43:58] sort of like a
+new-age social media
+[0:44:02] thing, where it's
+like, the students know
+[0:44:04] what's about to happen
+because Karpovich shows up
+[0:44:06] to this event.
+[0:44:08] And everyone knows he
+hates strength training.
+[0:44:10] And everyone is like
+waiting for it to end, just
+[0:44:12] to see what he's going to say.
+[0:44:13] So this whole
+exhibition goes on,
+[0:44:15] and these people are doing--
+[0:44:16] you've got to remember back
+at the time, bodybuilding,
+[0:44:18] weightlifting, power
+lifting, strength, strongman,
+[0:44:19] it's all the same thing.
+[0:44:21] There's no differentiation yet.
+[0:44:22] And it finishes, and
+Karpovich stands up,
+[0:44:24] and the crowd goes silent.
+[0:44:26] And he just asks one question.
+[0:44:28] And he just points
+to one of the guys
+[0:44:29] and says, scratch your back.
+[0:44:31] And now he's just assuming
+and waiting for the guy
+[0:44:34] to be like, ah and
+not be able to put
+[0:44:35] his hand behind his head.
+[0:44:37] And I think he pointed
+to John Grimek, who's
+[0:44:39] a famous bodybuilder.
+[0:44:40] And he reached back and
+scratched his back, no problem.
+[0:44:43] And then they proceeded
+to grab two dumbbells--
+[0:44:45] I think they were 50-pounds
+dumbbells-- and do a backflip,
+[0:44:47] standing backflip with
+both in each hand.
+[0:44:49] They started doing
+the splits on stage,
+[0:44:50] and they start performing all
+kinds of physical function
+[0:44:54] tests.
+[0:44:54] And Karpovich is stunned.
+[0:44:56] He's like, holy-- he
+has nothing to say.
+[0:44:58] He leaves there, and his
+whole life has changed.
+[0:45:00] All these things he was claiming
+were shown, in his face,
+[0:45:04] to be false.
+[0:45:05] He does a 180 on his career.
+[0:45:07] He starts running study after
+study on strength training
+[0:45:10] and starts finding
+immediately there
+[0:45:12] are no detriments
+to strength training
+[0:45:14] in terms of global health.
+[0:45:16] Of course, you can do it
+wrong and things like that.
+[0:45:18] And in fact, here comes a
+whole bunch of benefits.
+[0:45:21] So through the 1950s,
+while this thing
+[0:45:22] is going on with
+the endurance folks,
+[0:45:24] no one's still strength
+training because there's
+[0:45:28] no record to see.
+[0:45:29] There's no American
+College of Sports Medicine.
+[0:45:31] There's no societies.
+[0:45:32] There's no science.
+[0:45:33] We're not sure it's safe.
+[0:45:34] And meanwhile, Karpovich is
+just hammering study after study
+[0:45:37] after study showing you it's
+safe, it's safe, is safe,
+[0:45:39] but it hasn't picked up yet.
+[0:45:40] And then everything
+changed in 1977.
+[0:45:43] Thank you, Arnold
+Schwarzenegger.
+[0:45:45] He came out with the trifold.
+[0:45:47] He hits you with pumping
+iron, which I know
+[0:45:49] you know that movie, right?
+[0:45:50] Pumping Iron.
+[0:45:51] ANDREW HUBERMAN: It's
+an interesting movie.
+[0:45:51] Even for those not
+interested in bodybuilding,
+[0:45:54] it's a very interesting
+movie because it really
+[0:45:55] gives a window into not
+just him, but the way
+[0:45:59] in which weight training
+started to show up
+[0:46:03] as a regular practice.
+[0:46:04] When I was growing up, the
+only people who weight trained
+[0:46:07] were people preparing for
+football, bodybuilders,
+[0:46:10] who basically didn't exist
+in the town where I grew up.
+[0:46:12] And the only people who did
+yoga were yogis doing Bikram,
+[0:46:16] but now you drive through
+any major American city
+[0:46:20] or European city and
+there is yoga studios,
+[0:46:22] there's gyms with free weights.
+[0:46:24] ANDY GALPIN: Yup.
+[0:46:25] ANDREW HUBERMAN:
+Arnold Schwarzenegger
+[0:46:27] is largely responsible, I think,
+for initiating that shift.
+[0:46:31] ANDY GALPIN: Yup.
+[0:46:32] Because think about it.
+[0:46:33] He hit us with Pumping Iron,
+Conan, and then The Terminator,
+[0:46:37] almost in back-to-back--
+very close, within years.
+[0:46:40] So you've got this whole
+cascade of the '70s of people
+[0:46:43] running, cycling, and swimming.
+[0:46:45] Now, science is starting to
+come out that it's not dangerous
+[0:46:47] and maybe, actually,
+some benefit.
+[0:46:49] And then boom.
+[0:46:50] Not only is it not
+bad for you, it
+[0:46:53] can make you into a
+real world superhero.
+[0:46:58] I mean, think about the
+psychology of a child
+[0:47:00] growing up, watching
+somebody like Conan.
+[0:47:02] Think about what Batman looked
+like in the 1950s and '60s.
+[0:47:06] And then boom.
+[0:47:07] I can look like that?
+[0:47:09] Now, not everyone wants
+to look like Arnold,
+[0:47:11] but you see the power
+that can land in people.
+[0:47:13] No one had ever seen
+or thought you can make
+[0:47:16] your body transform like that.
+[0:47:17] You could maybe be born
+like that, but no chance.
+[0:47:20] That's within the
+grasp of all of you.
+[0:47:21] ANDREW HUBERMAN: When
+I was a kid growing up,
+[0:47:23] one of my favorite books was The
+Guinness Book of World Records.
+[0:47:25] ANDY GALPIN: Yeah.
+[0:47:26] ANDREW HUBERMAN: I
+still have images
+[0:47:27] in my mind of the
+coldest animal.
+[0:47:31] ANDY GALPIN: Yeah, sure.
+[0:47:32] ANDREW HUBERMAN: The
+longest lifespan, et cetera.
+[0:47:34] And there was a picture in
+there of Arnold Schwarzenegger.
+[0:47:37] And you know what
+his record was?
+[0:47:39] It said, perfectly
+developed man.
+[0:47:41] ANDY GALPIN: Yeah, yeah, yeah.
+[0:47:42] ANDREW HUBERMAN: Which
+is, as you point out,
+[0:47:44] that isn't the physique
+that most people aspire to.
+[0:47:46] ANDY GALPIN: It
+doesn't matter, though.
+[0:47:47] ANDREW HUBERMAN: But it
+did inspire this shift.
+[0:47:49] The other thing about
+resistance training
+[0:47:51] that I think has a certain
+allure for some people, men
+[0:47:57] and women, is that it's one
+of the few forms of exercise
+[0:48:00] that because of the enhanced
+blood flow to the muscle that
+[0:48:03] occurs during the training,
+the so-called "pump,"
+[0:48:05] it gives you a transient
+but somewhat real
+[0:48:08] window into what
+your results will be.
+[0:48:11] ANDY GALPIN: 100%
+[0:48:12] ANDREW HUBERMAN: When you run
+and you're gasping for air,
+[0:48:14] you aren't
+experiencing what it's
+[0:48:16] like to be faster
+than you are that day.
+[0:48:18] ANDY GALPIN: That's correct.
+[0:48:18] ANDREW HUBERMAN: But
+when you weight train,
+[0:48:19] you get an aesthetic picture
+into how your functionality
+[0:48:22] and aesthetic will change.
+[0:48:23] It disappears a
+few hours later--
+[0:48:25] ANDY GALPIN: Sure.
+[0:48:25] ANDREW HUBERMAN: --as the
+so-called "pump" subsides,
+[0:48:28] but it's a very interesting
+form of exercise in that way.
+[0:48:31] It's almost as if you go
+in to learn a language
+[0:48:33] and during the process of
+learning, for brief moments,
+[0:48:35] you're actually fluent, and
+then it gets taken away.
+[0:48:37] ANDY GALPIN: Yeah.
+[0:48:38] ANDREW HUBERMAN: So it puts
+the dopamine carrot out
+[0:48:40] in front of you.
+[0:48:40] ANDY GALPIN: Yeah.
+[0:48:40] ANDREW HUBERMAN: This
+is just me hypothesizing
+[0:48:42] as to why weight training
+might have taken off
+[0:48:44] the way that it did.
+[0:48:45] ANDY GALPIN: Yeah, I
+mean, it's like if you got
+[0:48:47] paid every hour on the
+hour when you were working.
+[0:48:49] And then at the end
+of the day, They
+[0:48:50] take the money back,
+but you still--
+[0:48:52] as the time clock is going on
+in your day, you're looking up,
+[0:48:54] and you're watching your bank
+account grow in real life.
+[0:48:57] You can see why it's so
+addicting to those folks.
+[0:49:00] So to finish the
+story here, going back
+[0:49:03] to your actual question answer.
+[0:49:04] This is happening in the
+late '70s, early '80s.
+[0:49:06] And so now Joe Wieder,
+all these gyms,
+[0:49:10] they're exploding because
+people want to look like that
+[0:49:13] or they realize
+they have the chance
+[0:49:15] to change how they
+physically look.
+[0:49:16] That had never been
+a reality before.
+[0:49:19] ANDREW HUBERMAN: Mostly men
+at that point, I'm guessing.
+[0:49:20] ANDY GALPIN: Almost
+exclusively, yeah,
+[0:49:21] for a large number of reasons,
+cultural acceptance, et cetera.
+[0:49:25] Even with endurance stuff, you
+could get fitter and run faster
+[0:49:28] and that's better,
+but it wasn't going
+[0:49:30] to change how you looked
+unless you were losing fat.
+[0:49:33] Now you can change
+how you look, which
+[0:49:35] is so incredibly addicting.
+[0:49:36] In fact, there's a
+very famous quote.
+[0:49:38] I think it was
+actually Joe Wieder who
+[0:49:40] said, "Show me one man
+who wants to be strong,
+[0:49:42] and I'll show you 10 who
+want to look strong."
+[0:49:45] It's like, that's
+very, very powerful.
+[0:49:47] There's this a whole--
+[0:49:49] there's tons of this
+history I can go into,
+[0:49:50] which is sort of
+explaining to you.
+[0:49:52] But now you know you're
+in the mid- '80s,
+[0:49:54] and you have what I
+call my generation.
+[0:49:56] So you have my generation,
+who fall in love with strength
+[0:49:59] training in the 1980s and
+'90s, but there's really
+[0:50:02] no scientific field for it.
+[0:50:04] It's not really come about yet.
+[0:50:05] The science of endurance
+and exercise physiology
+[0:50:08] is now humming along
+at a massive rate
+[0:50:10] because these people came
+up in the '70s and '80s,
+[0:50:12] and they're five, 10, 15
+years in their career.
+[0:50:15] They're producing.
+[0:50:16] They're generating
+graduate students.
+[0:50:18] They're starting their own labs.
+[0:50:19] And they exercise physiology,
+still to this day,
+[0:50:21] is 80% endurance, steady state
+stuff almost exclusively.
+[0:50:25] Well, now my generation,
+you love sports.
+[0:50:29] You love lifting.
+[0:50:30] You love all these things.
+[0:50:31] And now what we see happen
+is the Chicago Bulls,
+[0:50:34] Michael Jordan starts
+picking up strength training.
+[0:50:36] Ooh.
+[0:50:37] That's on TV.
+[0:50:37] He's on SportsCenter in the
+mid 1990s, lifting weights.
+[0:50:41] And we go back, actually,
+to the late 1970s.
+[0:50:43] And I'm not sure if
+you're a football fan,
+[0:50:45] but any football fan will
+recognize the Nebraska
+[0:50:47] Cornhuskers in
+the 1970s and '80s
+[0:50:50] changed how football's played.
+[0:50:52] Well, the reason is because
+they started strength training.
+[0:50:54] And they started doing it with
+a guy named Boyd Epley, who
+[0:50:57] was the founder of the NFCA.
+[0:50:59] So the National Strength
+Conditioning Association
+[0:51:01] is formed in the
+late 1970s as well.
+[0:51:03] So just like ASCM was developed
+the year after those two
+[0:51:06] events happened, 1978, the year
+after Arnold comes out, boom,
+[0:51:10] NFCA is formed.
+[0:51:11] And now you have a scientific
+organization dedicated
+[0:51:15] to strength and conditioning.
+[0:51:16] You've got NFL strength
+conditioning coaches that
+[0:51:19] are starting to come on board.
+[0:51:20] You've got scientists that are
+starting to come into labs.
+[0:51:23] And strength conditioning
+becomes a scientific field.
+[0:51:25] Well, everything swings now,
+from an exercise perspective,
+[0:51:29] into bodybuilding.
+[0:51:31] And so almost all
+of the things--
+[0:51:33] in fact, we were sort of
+talking before, I could run
+[0:51:36] a whole bunch of tricks on you.
+[0:51:37] And I could ask you a whole
+bunch of questions about things
+[0:51:39] that you think are
+absolute standards
+[0:51:41] or guarantees about training.
+[0:51:43] I'm supposed to do this.
+[0:51:44] I'm never supposed to do that.
+[0:51:45] ANDREW HUBERMAN: For instance?
+[0:51:46] ANDY GALPIN: For instance,
+is it OK to train a muscle
+[0:51:48] group on back-to-back days?
+[0:51:51] Most people are at
+home thinking, no,
+[0:51:53] you're not supposed
+to train a muscle--
+[0:51:54] ANDREW HUBERMAN: It
+needs to recover.
+[0:51:56] ANDY GALPIN: And
+that's total nonsense.
+[0:51:58] Other things like body part
+split training, training one
+[0:52:02] muscle group per day,
+other things like cardio,
+[0:52:07] endurance training
+influencing, will it
+[0:52:09] ruin my gains for my lift?
+[0:52:10] All of these things are on
+at a base of assumptions
+[0:52:14] that come from bodybuilding.
+[0:52:16] Now, that's a fantastic world,
+but because everything started
+[0:52:19] in the late 1970s
+as bodybuilding,
+[0:52:21] in terms of-- basically
+strength training was that.
+[0:52:23] Weightlifting and powerlifting
+were not at all around.
+[0:52:27] They were, but nobody cared.
+[0:52:28] Again, show me someone
+who wants to be strong.
+[0:52:31] I'll show you 10 who
+want to look strong.
+[0:52:33] The physique thing
+just dominated,
+[0:52:34] and we're not getting
+out of that yet.
+[0:52:37] We're not all the way out of it.
+[0:52:38] We're starting to, though,
+because here's why.
+[0:52:40] People started to realize,
+this bodybuilding thing
+[0:52:43] is fantastic.
+[0:52:44] I can change my physique.
+[0:52:45] I'm getting better, but
+damn, these workouts
+[0:52:49] take an hour and
+a half, two hours.
+[0:52:52] And I'm going to spend that
+whole time on one or two body
+[0:52:54] parts, which means I'm going to
+have to lift six days a week,
+[0:52:58] and I'm going to have
+to do that consistently.
+[0:53:00] Now all of a sudden, boom.
+[0:53:01] Two hours on my elbow flexors.
+[0:53:04] Damn, my elbow's
+starting to hurt.
+[0:53:05] ANDREW HUBERMAN: And
+yet, my understanding
+[0:53:07] is that it doesn't really
+require two hours a day--
+[0:53:09] ANDY GALPIN: Not at all.
+[0:53:10] ANDREW HUBERMAN: --of
+training in order
+[0:53:11] to get benefits, even
+just for hypertrophy.
+[0:53:13] ANDY GALPIN: Totally.
+[0:53:14] But a lot of the
+times, you're going
+[0:53:16] to have to get
+some amount of time
+[0:53:17] in because you're spending
+so much isolation.
+[0:53:20] So we've gone away from
+training movement, running
+[0:53:23] as a movement,
+cycling as a movement,
+[0:53:26] training my biceps as a
+muscle or muscle group,
+[0:53:29] training my hamstrings
+or a muscle group.
+[0:53:31] That's not a human movement.
+[0:53:32] So we've done a 180 in terms
+of selecting the exercises
+[0:53:35] from movement-based
+prescription to now muscle
+[0:53:40] group-based training.
+[0:53:40] So when you're
+isolating muscle groups,
+[0:53:42] that means a whole
+chunk of your body
+[0:53:44] is really not doing
+much throughout the day.
+[0:53:46] So what happens if you're
+doing, say, legs on Monday
+[0:53:49] and you miss Monday
+because you're on a flight?
+[0:53:52] Now your legs have to
+wait a whole other week,
+[0:53:58] So this starts to
+become problematic.
+[0:53:59] People start getting beat up.
+[0:54:00] People start realizing, I
+actually don't feel that great.
+[0:54:04] I'm not super fit.
+[0:54:05] I'm sweating just
+walking up the stairs.
+[0:54:07] I'm out of breath.
+[0:54:07] Why?
+[0:54:08] Because all that
+training, you've
+[0:54:09] done nothing for your
+cardiovascular fitness.
+[0:54:11] You've done nothing to improve
+heart rate, oxygenation,
+[0:54:15] blood flow.
+[0:54:15] And so that paradigm swung way
+too hard into the exercising,
+[0:54:19] especially lifting
+weights, is single joint,
+[0:54:22] often machine, often slow, often
+high-volume isolation stuff.
+[0:54:29] And that left a giant
+opening of people going,
+[0:54:31] well, wait a minute.
+[0:54:32] What if you could
+get in the gym,
+[0:54:33] I can promise you the
+same or better result
+[0:54:36] in under 30 minutes?
+[0:54:37] And, in fact, you'll
+also feel better.
+[0:54:39] You'll lose more weight.
+[0:54:40] And that opened up
+group exercise classes,
+[0:54:43] kettlebell stuff, CrossFit
+type of stuff, circuit training
+[0:54:46] because you can
+come in, you won't
+[0:54:48] get so beat up because
+the volume is lower,
+[0:54:50] the time is much lower.
+[0:54:52] You get multiple adaptations
+at the same time.
+[0:54:55] Great.
+[0:54:56] The problem with that,
+though, fast forward 10 years,
+[0:54:58] is it started burying
+people because you've now
+[0:55:01] de-emphasized movement
+quality, and you've
+[0:55:05] overemphasized scores.
+[0:55:08] So this is a classic example.
+[0:55:09] If you go and you watch Pumping
+Iron or any bodybuilder,
+[0:55:12] you'll see if they're
+doing a bicep curl,
+[0:55:14] they don't even really pay
+attention to the rep range.
+[0:55:17] They don't really pay
+attention to the load.
+[0:55:18] They are looking
+at their muscle.
+[0:55:19] They're trying to
+figure out, how
+[0:55:20] do I get that thing to fire?
+[0:55:22] They're squeezing.
+[0:55:22] They're flexing.
+[0:55:23] They're posing at
+the end of every set.
+[0:55:24] They're trying to figure out,
+am I getting enough pumps?
+[0:55:27] It is exclusively founded
+on exercise quality.
+[0:55:30] The rep brains, the
+numbers, almost irrelevant.
+[0:55:33] When you go to the other
+model, exercise technique,
+[0:55:37] it doesn't matter.
+[0:55:38] Just get the most
+amount of weight up
+[0:55:40] or the amount of reps
+or the fastest time,
+[0:55:41] et cetera, et cetera.
+[0:55:42] High-intensity.
+[0:55:43] ANDREW HUBERMAN: This
+would be CrossFit.
+[0:55:43] I've walked past some CrossFit.
+[0:55:45] I've done two CrossFit classes.
+[0:55:46] ANDY GALPIN: I don't
+want to get sued.
+[0:55:47] So you said "CrossFit."
+[0:55:47] I didn't.
+[0:55:48] ANDREW HUBERMAN: Oh,
+no I enjoyed them.
+[0:55:50] I definitely felt like
+I was working hard.
+[0:55:52] ANDY GALPIN: Oh, you will.
+[0:55:52] ANDREW HUBERMAN: I
+observed a lot of people
+[0:55:54] in very close proximity
+doing Olympic lifts
+[0:55:57] and doing kipping--
+[0:55:59] that's where you kick
+your legs, folks, say,
+[0:56:00] sort of like bucking and
+kipping type pull-ups. No.
+[0:56:04] I enjoyed it.
+[0:56:06] It wasn't for me
+for the long term,
+[0:56:08] but it did seem that there was
+a lot of ballistic movement
+[0:56:13] in close proximity
+to other people.
+[0:56:15] So the hazard to me
+seemed more about that
+[0:56:17] than the actual movement.
+[0:56:18] ANDY GALPIN: Well, again,
+the point I'm setting up here
+[0:56:21] is, that was actually a
+really brilliant solution
+[0:56:24] for a lot of the problems
+the classic bodybuilding
+[0:56:26] hypertrophy introduced.
+[0:56:28] So it got away from
+isolation movements
+[0:56:30] and got people doing
+big movements, which
+[0:56:32] are more effective,
+generally better.
+[0:56:34] It got people doing
+things fast and explosive.
+[0:56:36] That's more athletic.
+[0:56:37] That is more important
+for longevity.
+[0:56:39] It solved a lot of the problems.
+[0:56:41] Joint health wasn't
+getting crashed.
+[0:56:43] The issue they went with is they
+just pushed the pace on score
+[0:56:48] rather than quality.
+[0:56:49] They pushed the pace
+on how many people can
+[0:56:51] be in here at the same time.
+[0:56:52] So now you're doing higher-risk
+movements, higher intensity,
+[0:56:56] higher fatigue,
+and with a total--
+[0:56:58] not that they don't
+care about technique,
+[0:57:00] but it's not the thing that
+they're most concerned about.
+[0:57:02] It's getting the number
+and the thing done.
+[0:57:05] They solved the
+time issue, though.
+[0:57:06] You can get tremendous
+results in three days
+[0:57:09] a week, under 45 minutes
+each session, et cetera.
+[0:57:12] Burn people out, though.
+[0:57:13] Way too much high
+intensity, way too often.
+[0:57:16] And the other problem,
+safety concerns,
+[0:57:18] all kinds of orthopedic
+issues and other stuff.
+[0:57:21] ANDREW HUBERMAN: Can I
+interrupt you for a moment
+[0:57:23] and just ask a question,
+as we go through
+[0:57:25] this arc of the history of why
+endurance training predominated
+[0:57:29] or strength training or
+bodybuilding type training
+[0:57:32] or CrossFit type
+training because I think
+[0:57:33] this is fascinating, and I
+know we're about to arrive
+[0:57:36] at where we are today--
+[0:57:37] ANDY GALPIN: Yeah.
+[0:57:37] ANDREW HUBERMAN: --and what the
+future looks like for people
+[0:57:40] and what they should
+focus on and do.
+[0:57:42] At what point, if
+any, do you think
+[0:57:45] resistance training started
+to become adopted by women?
+[0:57:50] There was no equivalent
+of Arnold Schwarzenegger
+[0:57:53] there was Linda Hamilton
+in The Terminator.
+[0:57:55] ANDY GALPIN: Yeah.
+[0:57:56] ANDREW HUBERMAN: There are
+some impressive physiques,
+[0:57:59] certainly, on female
+actresses and athletes.
+[0:58:03] The Williams sisters,
+very impressive
+[0:58:06] musculature and physiques.
+[0:58:07] And, of course, their tennis
+playing speaks for itself.
+[0:58:12] Has that happened yet?
+[0:58:14] What I mean is, do you think,
+since you work with both men
+[0:58:18] and women, do you think
+that most women understand
+[0:58:22] that weight training,
+done properly
+[0:58:25] is going to be extremely
+beneficial for them, maybe even
+[0:58:28] especially for them, in terms
+of offsetting bone density
+[0:58:32] loss and things of that sort?
+[0:58:34] Or are we still waiting
+for the popular stimulus
+[0:58:39] for getting 80% of
+young women thinking,
+[0:58:42] I want to lift weights?
+[0:58:44] ANDY GALPIN: Yeah.
+[0:58:46] Hard for me to answer
+because I'm not a woman.
+[0:58:49] Now, I have a daughter.
+[0:58:51] She's four, so we'll see.
+[0:58:53] What I can say is, I've
+probably worked with--
+[0:58:55] I don't know how many
+professional athletes in total.
+[0:58:57] A lot.
+[0:58:58] I've worked with them probably
+14 professional sports.
+[0:59:01] I've worked with
+Cy Young winners,
+[0:59:03] MVPs, all the credentials.
+[0:59:06] I bet 35%, 40% of the athletes
+I've worked with are female.
+[0:59:10] So I've worked with
+Olympic gold medalists.
+[0:59:12] I've worked with bronze
+medallists in multiple sports.
+[0:59:14] I've worked with the most
+decorated powerlifter
+[0:59:17] of all time in a number
+of these areas, fighters,
+[0:59:20] world championship,
+all of these things.
+[0:59:23] For me, I feel like that
+burst has already happened.
+[0:59:27] My students, if you
+look at my classroom,
+[0:59:30] I don't know what
+the numbers are,
+[0:59:32] but there is no small number
+of females in exercise
+[0:59:34] science and excess physiology.
+[0:59:36] If you look at our laboratories,
+that's one thing you will see.
+[0:59:39] There are very few female
+exercise scientists.
+[0:59:42] There are very few female
+strength conditioning coaches,
+[0:59:45] but that number is coming
+down at an astronomical rate.
+[0:59:50] You have people that are
+being hired in every sport.
+[0:59:54] You pick the NFL.
+[0:59:55] You pick Major League Baseball.
+[0:59:57] Every few months we're
+hearing, first female
+[0:59:58] hired for this, first
+female hired for that.
+[1:00:02] The Yankees, Rachel
+Balkovec is fantastic.
+[1:00:05] ANDREW HUBERMAN: Yeah,
+Rachel's been out to my lab.
+[1:00:07] She's terrific.
+[1:00:08] ANDY GALPIN: Yeah.
+[1:00:09] Oh, yeah.
+[1:00:09] She's fantastic.
+[1:00:10] I mean, she's now
+being hired as the--
+[1:00:12] I think she's a hitting coach
+now, actual sport coach.
+[1:00:14] She's going to be a GM.
+[1:00:15] This is her goal.
+[1:00:16] She's a terminator.
+[1:00:17] So that's already happening.
+[1:00:18] And my students that are
+coming through our program
+[1:00:21] are getting placed
+in these roles.
+[1:00:22] They haven't gotten
+through yet a lot
+[1:00:25] in terms of being
+an actual scientist,
+[1:00:27] but they're getting there.
+[1:00:29] Sports scientists in the NBA
+are being hired, females,
+[1:00:32] in terms of big data collection.
+[1:00:33] And sports science
+and tech, we'll
+[1:00:34] cover in another discussion,
+but I think it's happening.
+[1:00:39] Whether or not the
+cultural and social--
+[1:00:42] I can't speak to that
+end of the equation.
+[1:00:44] What I can speak
+to, though, is one
+[1:00:47] of the things I think is
+most fun coming forward
+[1:00:49] scientifically is a
+number of years ago,
+[1:00:52] NIH came through
+with their mandates.
+[1:00:55] They're saying, it's no longer
+acceptable to exclude women
+[1:00:58] from scientific research because
+we just did that for decades.
+[1:01:02] ANDREW HUBERMAN: Well,
+what happened-- just
+[1:01:04] to fill this in because
+I think it's worth
+[1:01:06] noting is that for many
+years, studies even on rodents
+[1:01:11] were mainly carried
+out on male rodents
+[1:01:13] because the assumption--
+and the assumption
+[1:01:16] turned out to be wrong--
+but the assumption was
+[1:01:18] that the physiology
+of female rodents--
+[1:01:21] because they don't
+have a menstrual cycle.
+[1:01:22] It's not 28 days.
+[1:01:23] They have an estrus cycle.
+[1:01:24] It's four days, a
+different type of cycle--
+[1:01:27] that would somehow
+disrupt the data.
+[1:01:29] It turns out that's
+entirely wrong.
+[1:01:31] Now it's actually required.
+[1:01:33] When you sit on a grant study
+panel, which are the people who
+[1:01:36] evaluate grants, they ask.
+[1:01:38] They literally say, did they
+meet the criteria for sex
+[1:01:41] as a biological variable?
+[1:01:42] Here we're not talking
+about sex as the verb.
+[1:01:44] We're talking about
+sex as biological sex.
+[1:01:46] And if you don't say yes, that's
+a strong hit against the grant.
+[1:01:50] And if you say yes, then
+it checks off that box.
+[1:01:53] So it's now required that
+both male and female rodents
+[1:01:56] and humans be studied
+in a given study
+[1:01:58] unless the study is specifically
+geared toward understanding
+[1:02:00] that only exists in one
+or the other population--
+[1:02:03] ANDY GALPIN: Reproductive
+study, things like that.
+[1:02:03] ANDREW HUBERMAN: --such as
+menopause, for instance,
+[1:02:05] ANDY GALPIN: Yup, totally.
+[1:02:06] ANDREW HUBERMAN:
+--menstrual cycle,
+[1:02:07] andropause, for instance.
+[1:02:09] But no, this is
+extremely important.
+[1:02:11] I'm excited to hear that.
+[1:02:12] ANDY GALPIN: So where I
+was going to go with that
+[1:02:15] is actually, so that was
+step one, which is cool.
+[1:02:17] You've got to include them.
+[1:02:18] Where we haven't gotten to yet,
+but I've seen more and more
+[1:02:21] grant applications
+come through for this,
+[1:02:23] it's just the funding
+hasn't it yet,
+[1:02:24] which is, it's one thing to let
+women be in the same studies.
+[1:02:28] That's great.
+[1:02:29] It's another thing,
+though, to start
+[1:02:31] performing high-performance
+research specifically
+[1:02:34] for female questions.
+[1:02:35] That has not happened yet.
+[1:02:37] And that's just a funding issue.
+[1:02:38] We haven't gotten money yet.
+[1:02:39] People aren't supporting that.
+[1:02:41] We don't get a lot of financial
+support for sports science,
+[1:02:43] but we can't track down
+the money yet of me going,
+[1:02:46] I want to do a study
+in female athletes
+[1:02:48] that answers female
+athlete questions.
+[1:02:50] These won't help men.
+[1:02:51] These are questions
+specific to the female.
+[1:02:53] That's the next step.
+[1:02:55] That's where we've got
+to get to so we can say,
+[1:02:57] maybe we should do
+things differently
+[1:03:00] around training or recovery
+or we shouldn't or it
+[1:03:02] doesn't matter.
+[1:03:03] There's a handful of--
+[1:03:06] not lower-quality,
+but some studies.
+[1:03:09] I don't love them yet.
+[1:03:10] There just needs to
+be a ton of work.
+[1:03:12] Birth control is a very
+good example the information
+[1:03:16] for women at female athletes
+or even just hard exercisers--
+[1:03:20] you don't have to be a
+competitive athlete--
+[1:03:22] around what is
+birth control doing?
+[1:03:24] What types?
+[1:03:24] How should I manage that?
+[1:03:25] What conversations should
+I be having with my doctor?
+[1:03:29] Almost nothing.
+[1:03:30] Women have nothing to go on
+for high-performance stuff.
+[1:03:32] So what if I'm trying to compete
+in an event or run a race?
+[1:03:36] All those types of questions
+should be answered.
+[1:03:39] Normative value, normative
+data, performance testing.
+[1:03:43] It's just not there
+on the female.
+[1:03:45] So that's an area.
+[1:03:46] I think-- if somebody really
+wanted to make a change,
+[1:03:48] the scientists want to do it.
+[1:03:50] I know it.
+[1:03:50] I've talked to so
+many in our field
+[1:03:52] that would really
+love to explore it
+[1:03:54] because it's getting there.
+[1:03:56] Like I said, the coaching
+side is getting there.
+[1:03:58] They're seeing it.
+[1:03:58] They're hiring these people.
+[1:03:59] I'm seeing it in my students.
+[1:04:04] My followings is not all men.
+[1:04:05] It's a very large
+percentage of females,
+[1:04:07] and all I do is post
+about exercise science.
+[1:04:09] This is all I do.
+[1:04:11] ANDREW HUBERMAN: Well,
+this podcast is very--
+[1:04:13] we know very clearly the
+audience is 50% women,
+[1:04:16] 50% men--
+[1:04:16] ANDY GALPIN: That's nice.
+[1:04:18] ANDREW HUBERMAN:
+--which is great.
+[1:04:19] ANDY GALPIN: So just to jump
+back in our history discussion
+[1:04:21] and to finish that point
+of where we're at now
+[1:04:23] and where I think we're
+going to go or should go.
+[1:04:26] So we walked through the
+bodybuilding running everything
+[1:04:30] and people walking into a gym.
+[1:04:31] Any time they lift
+weights, they're
+[1:04:34] making all of their choices
+based on the assumption
+[1:04:36] that maximizing muscle
+size is the goal.
+[1:04:38] And clearly, that's
+not the case.
+[1:04:40] There are other adaptations
+you may be after.
+[1:04:43] So we talked about
+how that had problems,
+[1:04:45] and then we talked
+about how some
+[1:04:47] of these other forms of
+exercise filled those gaps
+[1:04:50] and then what problems
+those things introduced.
+[1:04:53] Well, I think we're
+actually at a point
+[1:04:55] where that pendulum is slowly
+shifting into the middle.
+[1:04:58] What I mean by that
+is, if you want
+[1:04:59] to maximize muscle strength, we
+look towards the power lifting
+[1:05:02] community.
+[1:05:03] If you want to
+maximize muscle power,
+[1:05:04] we're going to look to the
+weightlifting community.
+[1:05:07] If you want to look for muscular
+endurance, well-roundedness,
+[1:05:09] maybe we look into the
+CrossFit communities
+[1:05:11] and some of these obstacle
+course races or functionality
+[1:05:14] things.
+[1:05:14] So what we can do now
+is generate protocols
+[1:05:17] that get us the exact
+adaptations we want
+[1:05:20] and not ones we don't want,
+because we can look back
+[1:05:23] at each of these different
+styles of training
+[1:05:26] and pick and choose
+optimal protocols
+[1:05:29] or combinations for them.
+[1:05:30] So if somebody simply
+wants to get healthy,
+[1:05:32] like we talked about when we
+listed the nine adaptations
+[1:05:35] and I mentioned health
+wasn't one of them,
+[1:05:37] that's because what
+determines your health
+[1:05:39] versus what determines my
+optimal health differs.
+[1:05:42] So if I need more hypertrophy,
+I can look towards bodybuilding
+[1:05:45] concepts, but if I
+have enough or maybe
+[1:05:47] for personal reasons, I
+decide I have too much
+[1:05:50] or I don't want to add any
+more, then I can say, hey,
+[1:05:53] how can I get stronger
+without getting bigger?
+[1:05:55] And boom, I look towards
+powerlifting concepts.
+[1:05:57] How can I get more powerful?
+[1:05:58] How can I get faster but I
+don't, again, want to lose fat?
+[1:06:03] OK, great.
+[1:06:03] Or if I want physique changes.
+[1:06:05] So we have all these
+different areas
+[1:06:06] we can pick and choose
+from that have expertise
+[1:06:09] in specific adaptations
+and develop ourselves
+[1:06:12] perfect protocols based
+on that information.
+[1:06:15] ANDREW HUBERMAN:
+I'd like to take
+[1:06:16] a brief break to acknowledge
+our sponsor, InsideTracker.
+[1:06:19] InsideTracker is a
+personalized nutrition platform
+[1:06:22] that analyzes data
+from your blood and DNA
+[1:06:24] to help you better
+understand your body
+[1:06:26] and help you reach
+your health goals.
+[1:06:28] I've long been a believer in
+getting regular blood work done
+[1:06:30] for the simple reason that
+many of the factors that impact
+[1:06:33] your immediate and long-term
+health and well-being
+[1:06:35] can only be analyzed from
+a quality blood test.
+[1:06:38] One issue with a lot
+of blood tests and DNA
+[1:06:40] tests out there, however, is
+that you get information back
+[1:06:42] about various levels
+of lipids and hormones
+[1:06:44] and metabolic
+factors, et cetera,
+[1:06:46] but you don't know what to
+do with that information.
+[1:06:48] InsideTracker makes knowing what
+to do with all that information
+[1:06:51] exceedingly easy.
+[1:06:52] They have a personalized
+platform that lets you see what
+[1:06:55] your specific numbers
+are, of course,
+[1:06:57] but then also what
+sorts of behavioral
+[1:06:59] do's and don'ts, what sorts
+of nutritional changes,
+[1:07:02] what sorts of supplementation
+would allow you to bring those
+[1:07:04] levels into the ranges
+that are optimal for you.
+[1:07:07] If you'd like to
+try InsideTracker,
+[1:07:08] you can visit
+insidetracker.com/huberman
+[1:07:11] to get 20% off any of
+InsideTracker's plans.
+[1:07:13] Again, that's
+insidetracker.com/huberman
+[1:07:16] to get 20% off.
+[1:07:18] So with the understanding in
+mind as to how we all, myself
+[1:07:21] included, arrived at
+such lopsided fitness,
+[1:07:25] too much endurance, not enough
+strength, too much strength,
+[1:07:28] not enough endurance,
+it's really hard
+[1:07:30] to imagine that anyone's
+perfect in this regard.
+[1:07:34] Can you walk us through the
+nine different adaptations
+[1:07:36] that you mentioned
+earlier and give us
+[1:07:39] a way to assess our
+level of ability
+[1:07:44] or our level of adaptation
+in each of those nine?
+[1:07:46] ANDY GALPIN: All right.
+[1:07:47] The very first one we want to
+talk about is movement skill.
+[1:07:50] Now, set aside sport specific.
+[1:07:53] So I'm not going to give you
+an assessment for optimal golf
+[1:07:55] technique swing.
+[1:07:56] This is really
+about human movement
+[1:07:58] so that you stay
+injury free and you
+[1:08:00] can continue to train
+for as long as possible.
+[1:08:02] So what are the
+minimum requirements?
+[1:08:04] Now, if you can have access
+to a highly-qualified physical
+[1:08:08] therapist or
+movement specialist,
+[1:08:10] that's the best route.
+[1:08:11] Go to them.
+[1:08:12] Have them identify all of
+your movement patterns,
+[1:08:15] overhead pressing, squatting,
+running, all these things.
+[1:08:19] That's your gold standard.
+[1:08:20] If you want to do it
+yourself, though, here
+[1:08:22] is a very simple
+four-step solution.
+[1:08:25] So the way that I teach
+this is I go joint by joint.
+[1:08:28] And so I think of this as the
+major ones, your shoulder,
+[1:08:31] your elbow, your low back,
+hip, knee, and ankle.
+[1:08:36] Now, what you can do is do
+a representative movement
+[1:08:39] for you.
+[1:08:39] So if you bench a
+lot, use the bench.
+[1:08:41] If you do pull-ups,
+use the pull-up.
+[1:08:44] If you squat, do that.
+[1:08:45] I would recommend doing
+an upper-body press,
+[1:08:47] an upper-body pull, a lower-body
+press, a lower-body pull.
+[1:08:51] An example would be a push-up,
+a pull-up, or a bent row,
+[1:08:56] a squat, and then a deadlift.
+[1:08:58] That would be a very, very
+well-rounded approach.
+[1:09:01] What you're going to
+do is do that movement.
+[1:09:03] And I would record
+it for yourself.
+[1:09:06] And record a frontal
+view and a side view.
+[1:09:09] Probably do three to 10
+repetitions per angle,
+[1:09:13] slow and controlled.
+[1:09:15] You don't need any body weight.
+[1:09:16] What you want to do is move, and
+you want to look for key things
+[1:09:20] at every joint.
+[1:09:21] So again, imagine
+I'm doing a squat.
+[1:09:23] I'm going to do a
+squat, and I'm going
+[1:09:25] to focus on just my ankle.
+[1:09:26] And I'm going look for these
+four things of the ankle.
+[1:09:28] And then I'm going to go
+back and watch my knee
+[1:09:31] and look for these same
+four things of the knee
+[1:09:33] through the hip, et cetera.
+[1:09:35] So what are these four things?
+[1:09:36] Number one is you want
+to look for symmetry.
+[1:09:38] So symmetry is
+front to back, left
+[1:09:41] to right, and your right
+limb and your left limb.
+[1:09:45] And so what we want to
+look for are if they aren't
+[1:09:48] moving perfectly, that's fine.
+[1:09:49] But you want to see
+is one moving further
+[1:09:51] ahead than the other one?
+[1:09:52] Is one turning to the
+side and one's not?
+[1:09:55] Is one fidgeting and
+twitching around differently?
+[1:09:59] So you want to
+look just to check,
+[1:10:00] to see and make sure
+that they're stable.
+[1:10:02] That's one.
+[1:10:03] Number two, you want
+to look for stability.
+[1:10:05] So a key indicators
+here are things
+[1:10:07] if you can't get through
+Squat, a controlled squat,
+[1:10:11] where your knees
+don't start shaking.
+[1:10:14] That would be an
+instability issue.
+[1:10:15] So can you do the movement slow?
+[1:10:17] Can you pause at the bottom,
+maybe three seconds, maybe five
+[1:10:20] seconds or 10?
+[1:10:21] You should have complete
+control of that movement
+[1:10:24] and all of these joints.
+[1:10:26] Are your hips sliding to
+one side when you stand up?
+[1:10:29] Is one elbow closer to your
+body when you're benching
+[1:10:32] and the other one's
+more flared out?
+[1:10:33] These are the things
+I'm talking about.
+[1:10:35] I'm not worried about what
+angle they should be at or not.
+[1:10:39] You're simply looking for
+asymmetries or instabilities.
+[1:10:42] So again, as you're
+pushing up, does
+[1:10:43] one elbow start flipping
+and twitching and going
+[1:10:45] all over the place?
+[1:10:46] The third one is what
+I call awareness.
+[1:10:49] So there are a lot of
+movement technique issues
+[1:10:52] that, simply, people don't know.
+[1:10:54] And so you'll watch them squat.
+[1:10:55] I do this in my
+classes all the time.
+[1:10:57] I'll have 100 kids
+out there, squatting.
+[1:10:59] And you'll see some
+horrible squat technique.
+[1:11:01] And then when you
+just tell them, hey,
+[1:11:02] did you realize your heels are
+supposed to be on the ground
+[1:11:05] all times when you squat?
+[1:11:06] They're like, oh, OK.
+[1:11:07] And they can correct it.
+[1:11:08] It's not actually
+a movement flaw.
+[1:11:09] It was just simply an awareness.
+[1:11:11] I didn't know, and
+then I actually
+[1:11:12] didn't realize that was
+happening that position.
+[1:11:15] So we want all of
+our joints to be
+[1:11:16] going through a general
+full range of motion,
+[1:11:18] which is number four.
+[1:11:19] So the ankle-- during
+a squat, your knees
+[1:11:22] should be able to go as far
+over your toe as possible while
+[1:11:25] maintaining good
+position, your feet
+[1:11:27] flat on the floor, your
+three points of contact,
+[1:11:30] your whole flat foot, and you're
+not compromising another joint.
+[1:11:33] So that's all
+you're going to look
+[1:11:34] for are those four things,
+symmetry, stability, awareness,
+[1:11:39] and range of motion through each
+joint, through each movement.
+[1:11:42] It sounds difficult
+and time-consuming.
+[1:11:46] It's really not.
+[1:11:47] You can generally clear
+these things in one
+[1:11:49] or two repetitions in
+a couple of seconds.
+[1:11:51] And what you're really
+going to look for-- there's
+[1:11:53] lots of scoring schemes you can
+test, that physical therapists
+[1:11:57] will sort of do.
+[1:11:57] I just look for
+absolutely terrible,
+[1:12:01] can't do it at all, minor
+flaw, or pretty close to good.
+[1:12:05] That's really all
+I'm looking for.
+[1:12:06] So my scoring system
+is zero, one, three.
+[1:12:08] Zero is like, you're
+not going to do
+[1:12:09] this exercise because you're
+at a very high acute risk.
+[1:12:12] You might get hurt
+on rep one tomorrow.
+[1:12:15] Number one, a score of
+one is like, there's
+[1:12:17] a minor flaw here.
+[1:12:18] We can probably
+do it, but we need
+[1:12:20] to be cautious of
+load and volume.
+[1:12:23] And the other one is,
+maybe it's perfect,
+[1:12:24] maybe it's not, but go ahead
+and it on a reasonable protocol.
+[1:12:29] You'll be fine.
+[1:12:30] So that's generally
+what you would
+[1:12:32] need to do as a cost-free method
+of identifying good movement
+[1:12:35] technique within any of the
+things that you would do.
+[1:12:38] ANDREW HUBERMAN:
+What about speed?
+[1:12:40] ANDY GALPIN: I actually
+don't think this
+[1:12:41] is one most people should test.
+[1:12:42] If you're a
+high-performance athlete,
+[1:12:43] we can run a 40-yard dash or
+we can do some different things
+[1:12:47] with a velocity
+transducer on a barbell,
+[1:12:50] if you're a weightlifter
+or something.
+[1:12:52] For most people,
+pure speed is really
+[1:12:54] maximum velocity
+or acceleration are
+[1:12:57] the two ways we break it down.
+[1:13:00] It's generally not
+that necessary to test.
+[1:13:02] ANDREW HUBERMAN: What
+about number three, power,
+[1:13:04] which I believe before you
+told me was speed times force.
+[1:13:07] ANDY GALPIN: So the reason
+why I don't worry too much
+[1:13:09] about speed is because
+you can infer a lot of it
+[1:13:11] from a power test.
+[1:13:13] And a power test is easier to
+do as well as easier to train
+[1:13:16] for for most people.
+[1:13:18] So the cost-free version
+here is a simple broad jump.
+[1:13:21] So this is stand
+with normal position,
+[1:13:25] jump out as far in front
+of you as you possibly can,
+[1:13:27] and measure the distance
+between where you started
+[1:13:29] and the back of your
+heel, where it lands.
+[1:13:31] A super basic number to look
+for there is your height.
+[1:13:36] So you should be able to
+broad jump how tall you are.
+[1:13:38] If you're 5' 5," you should
+hit 5' 5," 6' 5," et cetera.
+[1:13:42] It's not perfect.
+[1:13:43] That's going to ratchet down
+a little bit, about 15%,
+[1:13:47] for females.
+[1:13:48] They just simply
+don't have the power,
+[1:13:49] in general, that men have.
+[1:13:50] And so you're going to want to
+bring that down a little bit,
+[1:13:53] but it's a very crude number.
+[1:13:54] If you were to look at a
+high-performance NFL player,
+[1:13:58] if they're six
+feet tall, they're
+[1:13:59] going to be jumping
+nine to 10 to 11 feet.
+[1:14:02] If you can jump
+your body height--
+[1:14:05] we're not looking
+for optimization
+[1:14:06] in this particular test.
+[1:14:07] You are looking for red flags if
+you can jump your body height,
+[1:14:12] you're going to be just fine.
+[1:14:13] ANDREW HUBERMAN: That's
+incredibly straightforward
+[1:14:15] and yet, I have one question.
+[1:14:16] ANDY GALPIN: Yeah.
+[1:14:17] ANDREW HUBERMAN: I'm assuming
+that I can squat down
+[1:14:19] as low as I need
+to before I jump,
+[1:14:20] I can swing my arms from
+back to front as harder,
+[1:14:25] with as much momentum
+as I can muster.
+[1:14:28] And when I land,
+you said I'm going
+[1:14:30] to take the measure from
+where the back of my heels.
+[1:14:32] ANDY GALPIN: You want to measure
+the distance you actually
+[1:14:34] covered.
+[1:14:34] So to clarify, there's
+no running approach here.
+[1:14:37] There's no steps into it.
+[1:14:39] You're going to
+stand at a still.
+[1:14:41] Yeah, you can swing, bounce
+as much as you'd like to do.
+[1:14:43] You're going to projectile off.
+[1:14:44] So you're going to
+measure the distance
+[1:14:45] from the tip of your
+toe-- so basically, stand
+[1:14:47] behind the line and
+then the furthest
+[1:14:50] point back where you land.
+[1:14:52] So basically, the
+worst possible score,
+[1:14:54] not the best possible
+because your feet
+[1:14:57] won't land symmetrically.
+[1:14:58] One's probably going to
+be a little bit farther.
+[1:15:00] Now, technically, if you fall
+backwards and your hand touches
+[1:15:03] the ground, we mark that
+number, but in this case,
+[1:15:05] just use the furthest point
+back over your back heel,
+[1:15:09] and go from there.
+[1:15:10] ANDREW HUBERMAN: I'll be
+trying it tomorrow morning.
+[1:15:12] ANDY GALPIN: Now,
+if you have access
+[1:15:14] to a little bit more technology
+or you just really want
+[1:15:16] to know a better number,
+a classic vertical jump
+[1:15:19] is a good starting place.
+[1:15:21] So you can actually do this
+in a simple, cost-free way.
+[1:15:23] You can just measure
+two of your hands.
+[1:15:25] Put them together so that
+both of your middle fingers
+[1:15:28] are touching.
+[1:15:29] Overlap them, and put them
+directly over your head.
+[1:15:31] And then you want to reach
+up as high as you can get.
+[1:15:33] And you mark that on the wall.
+[1:15:35] My brother and I used
+to do this all the time.
+[1:15:37] We would take a highlighter,
+the yellow ones, and color
+[1:15:41] as much as we could
+on our fingertips,
+[1:15:43] touch the wall so that
+the highlighter would
+[1:15:45] stain the wall--
+[1:15:46] if you actually go back to
+my house from my childhood,
+[1:15:48] you'll see these markers
+all over our house.
+[1:15:50] ANDREW HUBERMAN: I'm sure
+your parents were thrilled.
+[1:15:52] ANDY GALPIN: My dad didn't care.
+[1:15:54] Single dad, he didn't care.
+[1:15:55] He's just like,
+whatever, you guys.
+[1:15:56] Do whatever you want.
+[1:15:57] So you want to measure that.
+[1:15:58] And then, of
+course, you're going
+[1:15:59] to jump with those two hands
+and touch as high as you can up.
+[1:16:02] And you're going to measure the
+distance between your standing
+[1:16:05] reach and the actual height
+that you jumped there.
+[1:16:07] Now, the reason you're doing
+it two-handed by the way,
+[1:16:10] is because if you
+do one-handed, you
+[1:16:11] can actually reach pretty high
+by offsetting your shoulders.
+[1:16:14] And now you're getting
+into differences
+[1:16:16] of who has more shoulder
+mobility, who has the ability
+[1:16:19] to get up there.
+[1:16:21] A two-handed standard
+approach is there.
+[1:16:24] Same thing, no
+running approach here.
+[1:16:26] You can dip.
+[1:16:27] You can drive.
+[1:16:27] You can do all those things.
+[1:16:28] You can swing your
+arms, but you're
+[1:16:30] going to be a two-handed touch,
+is a general way to do that.
+[1:16:33] You want to look for
+a number of something
+[1:16:35] like 24 inches or higher.
+[1:16:38] If you're past the
+age of 50, that number
+[1:16:40] can come down a little
+bit, to closer to 20.
+[1:16:43] And again, for females, it's
+going to be ratcheted down
+[1:16:45] about 15% everywhere you go.
+[1:16:47] If you're a middle-aged female,
+and you're jumping 20 inches,
+[1:16:53] you're in a pretty good spot.
+[1:16:54] You're going to be
+looking really nice there.
+[1:16:56] Now, if you can do
+that on a force plate,
+[1:16:58] that's even better.
+[1:16:59] So these are,
+basically, scales that
+[1:17:02] will go out to multiple digits,
+sometimes five to nine digits
+[1:17:06] past zero.
+[1:17:06] And you're going to
+stand on these things,
+[1:17:08] you're going to do
+the exact same test.
+[1:17:09] And these are very interesting
+because they'll tell you
+[1:17:10] not only how high
+you jump, but they'll
+[1:17:12] tell you how much force
+you put in the ground.
+[1:17:14] They can also tell you
+how long it took you--
+[1:17:16] and this is called your
+rate of force development--
+[1:17:19] as well as impulse and speed and
+a bunch of other stuff, which
+[1:17:22] are important to help you
+understand where on the power
+[1:17:25] spectrum you need to be.
+[1:17:27] So you would do that in addition
+to using some sort of velocity
+[1:17:31] transducer on a barbell.
+[1:17:32] So a very classic
+thing to do would be,
+[1:17:35] let's say, you're
+going to do a squat.
+[1:17:37] And you're going to put
+this device on the barbell,
+[1:17:39] and that's going to
+measure the speed
+[1:17:41] at which the barbell moves.
+[1:17:42] And you're going to do that at
+40% of your one repetition max,
+[1:17:45] 50%, 60%, 70%, 80%,
+90%, up to 100%.
+[1:17:49] And that allows you
+to create what's
+[1:17:50] called a force-velocity curve.
+[1:17:52] And you can start to
+see at what point,
+[1:17:54] when you start
+loading things heavy,
+[1:17:56] do you start slowing
+down too much.
+[1:17:58] And that will tell you what
+part of the force-velocity curve
+[1:18:01] that you want to train in
+to optimize your power.
+[1:18:04] Why that's important,
+a lot of people
+[1:18:05] will do things like, when
+I'm training for power,
+[1:18:07] how heavy should I lift?
+[1:18:09] Well, the general
+answer people say
+[1:18:11] is, 30% of your one-rep
+max, but that's actually not
+[1:18:13] true at all.
+[1:18:14] What's most optimal
+for power development--
+[1:18:16] which we'll discuss
+more much later--
+[1:18:19] is depending on
+where you're flawed
+[1:18:21] in the force-velocity curve.
+[1:18:22] So if you have access
+to technology like that,
+[1:18:25] that can give you a lot more
+insight and information.
+[1:18:27] If not, do the broad jump
+test or the highlighter
+[1:18:31] on your fingertips and jump
+it up and touch the wall test.
+[1:18:33] ANDREW HUBERMAN: At
+Andy Galpin's house.
+[1:18:35] ANDY GALPIN: Hey,
+just come along.
+[1:18:37] The walls are already messed up.
+[1:18:38] Just go ahead and come up to
+Washington, and we'll do it.
+[1:18:41] ANDREW HUBERMAN: Fantastic.
+[1:18:43] What about strength?
+[1:18:44] ANDY GALPIN: Right.
+[1:18:45] So strength is really important.
+[1:18:46] You need to measure
+this in multiple areas.
+[1:18:48] And we'll start off
+with grip strength.
+[1:18:50] So you can do this in two ways.
+[1:18:52] You can buy a hand
+grip dynamometer.
+[1:18:53] Now, these are anywhere
+between $20 to $100, anywhere.
+[1:18:58] These actually used
+to be, when I was
+[1:19:00] in school, hundreds of dollars.
+[1:19:01] And now you can literally buy
+them on any website for $25.
+[1:19:04] So my honest recommendation
+is technically,
+[1:19:06] that's not cost-free.
+[1:19:07] I know your whole thing about
+the cost-free protocols,
+[1:19:10] but $25, I'm calling
+that basically cost-free.
+[1:19:13] You can bring that
+in and test that.
+[1:19:14] And that's just a little device
+where you're going to squeeze,
+[1:19:16] and you're going to do it.
+[1:19:17] And I would do your right
+hand and your left hand.
+[1:19:19] You want to look for
+asymmetries there,
+[1:19:21] but you want to look
+for something like--
+[1:19:23] typically, they're going to
+give you a value in kilograms.
+[1:19:27] And you want to look for
+something like a minimum score
+[1:19:30] here of 40 kilograms.
+[1:19:32] Ideally, you're up past 60 would
+be a really good spot to be in.
+[1:19:36] You want to make sure that
+there's no less than 10%
+[1:19:38] variation between your
+left and right hand.
+[1:19:40] Your non-dominant hand
+actually shouldn't be
+[1:19:42] that much weaker in this test.
+[1:19:44] So what you'll actually
+see, a lot of times,
+[1:19:45] is the non-dominant can
+be oftentimes stronger
+[1:19:48] because the dominant hand is
+more for movement precision,
+[1:19:51] writing, things like that.
+[1:19:52] So you want them to be close.
+[1:19:54] If you are a male and you are
+under 40 kilograms on a hand
+[1:19:57] grip dynamometer, we're
+going to need to train that.
+[1:20:01] If you're a female, it's
+not that much lower,
+[1:20:03] but about 35 kilograms
+is the cutoff point.
+[1:20:07] If you're above 55, we can
+add it to your training,
+[1:20:10] but I'm not worried
+about leaving it out
+[1:20:12] of your training.
+[1:20:13] If you're a female,
+if it's above 50,
+[1:20:14] that's my cut off of
+where we want to go.
+[1:20:17] So that's a fairly cheap one.
+[1:20:18] Another one that
+you can actually do
+[1:20:20] is just a dead hang.
+[1:20:21] So you can hold on
+to any bar, ideally,
+[1:20:23] one that is thin
+enough to where you can
+[1:20:26] wrap your whole hand around it.
+[1:20:27] So you don't want to be
+using a giant fat grip.
+[1:20:30] You're going to have
+a false reading here.
+[1:20:32] So something like
+going to the gym
+[1:20:34] and jumping on any pull-up
+bar or pull-up rack.
+[1:20:38] And you want to hang, and
+this is a simple time test.
+[1:20:40] So in general, we
+should be able to hang
+[1:20:43] for a minimum of 30 seconds
+is what we're looking for.
+[1:20:47] 30 to 50 seconds is my
+good, but we could probably
+[1:20:52] get better here.
+[1:20:53] If you're cruising
+above 60 seconds,
+[1:20:55] I'm generally pretty happy.
+[1:20:57] This is actually a
+good example of when
+[1:20:59] females tend to be better.
+[1:21:02] Grip strength on women
+tends to be strong,
+[1:21:03] and they can hang for
+quite a long time.
+[1:21:05] So those standards don't really
+change that much for women.
+[1:21:09] Now, if you are
+exceptionally large,
+[1:21:12] this thing doesn't
+scale perfectly.
+[1:21:14] If you're 240 pounds
+and even if you're lean,
+[1:21:17] it's just hard to hang
+and hold 240 pounds.
+[1:21:21] Conversely, if
+you're 145 pounds,
+[1:21:23] even if you're
+unhealthy, you're going
+[1:21:25] to be able to hang
+for a long time.
+[1:21:26] It's just not that
+much weight to carry.
+[1:21:28] So just rough numbers
+to start off with.
+[1:21:30] ANDREW HUBERMAN: So
+that's grip strength.
+[1:21:32] What about strength
+elsewhere in the body?
+[1:21:34] ANDY GALPIN: The primary
+ones, you can do an upper body
+[1:21:36] strength test if you would like,
+although it's not technically
+[1:21:39] something we do very often.
+[1:21:40] I'm happy to do it one at
+max bench press or something
+[1:21:43] like that.
+[1:21:43] That's great.
+[1:21:44] What I'm generally
+more interested in
+[1:21:46] is a leg extension test.
+[1:21:47] And the reason I like this
+is, a back squat is better.
+[1:21:51] A barbell back squat
+is-- look, that's my jam.
+[1:21:54] That's my life.
+[1:21:55] It's just very
+technically demanding,
+[1:21:57] and it's challenging.
+[1:21:59] You need spotters.
+[1:22:00] You need comfort.
+[1:22:02] A lot goes into this.
+[1:22:03] So for the average person,
+a leg extension test
+[1:22:05] is fairly standardized.
+[1:22:07] You don't have to
+worry about technique,
+[1:22:08] and people can just
+get into it and go.
+[1:22:11] And so what you want to look for
+there is a couple of standards
+[1:22:15] you want to hit.
+[1:22:15] Again, a very simple
+answer here is body weight.
+[1:22:19] Can you do a leg extension
+with your body weight?
+[1:22:22] ANDREW HUBERMAN: One repetition?
+[1:22:23] ANDY GALPIN: One repetition.
+[1:22:24] ANDREW HUBERMAN: I can
+answer that right now.
+[1:22:25] ANDY GALPIN: Can you?
+[1:22:26] ANDREW HUBERMAN: No.
+[1:22:26] ANDY GALPIN: You can't?
+[1:22:27] ANDREW HUBERMAN: No.
+[1:22:28] I can hack squat a
+reasonable amount of weight,
+[1:22:30] but I was on the leg
+extension this morning,
+[1:22:32] and it was a Nautilus machine.
+[1:22:34] And I certainly could not
+leg extension my body weight.
+[1:22:37] ANDY GALPIN: Let me clarify.
+[1:22:39] Were you doing a single leg?
+[1:22:40] ANDREW HUBERMAN: No.
+[1:22:41] ANDY GALPIN: So
+bilateral, you can't leg
+[1:22:42] extension your body weight?
+[1:22:43] ANDREW HUBERMAN: No.
+[1:22:44] But I certainly can hamstring
+curl my body weight.
+[1:22:46] ANDY GALPIN: OK.
+[1:22:47] So we maybe have some
+deficiencies in our quads
+[1:22:50] that we need to go
+after, but that's
+[1:22:52] a pretty good number
+you want to be at.
+[1:22:53] If you go up in age past
+age 40, every decade that
+[1:22:57] can come down about
+10%, and you'll still
+[1:23:00] be in a pretty good slot.
+[1:23:01] So if you're 50
+years old and you're
+[1:23:03] 170 pounds, if you can do 160,
+you're in a pretty good spot.
+[1:23:08] And then you could just,
+again, take it down about 10%
+[1:23:10] every decade after
+40, but prior to 40,
+[1:23:14] there's really no
+change in strength,
+[1:23:16] but certainly, somebody
+in their 40s to 50s
+[1:23:19] should be able to leg
+extension their body weight.
+[1:23:21] ANDREW HUBERMAN: Noted.
+[1:23:23] I look forward to
+our discussion a bit
+[1:23:25] later, talking about
+how to build strength.
+[1:23:27] ANDY GALPIN: Yeah.
+[1:23:28] Any of these
+strength tests, they
+[1:23:29] don't have to be done to a
+technical true one-rep max.
+[1:23:32] You can use what are called
+repetition conversion equation.
+[1:23:36] So put on a load
+that you think is
+[1:23:38] kind of close to your
+maximum and just do it
+[1:23:41] for as many reps as you can.
+[1:23:42] As long as it's under
+five reps total,
+[1:23:44] you can then actually
+go online and enter that
+[1:23:47] into any number of calculators
+anywhere, and it will tell you,
+[1:23:50] OK, you did three
+repetitions at 200 pounds.
+[1:23:53] Your one-rep max is
+probably 215, whatever.
+[1:23:56] So there's estimate equation.
+[1:23:57] So if you don't want
+to spend the time
+[1:23:59] or you're not truly
+comfortable absolutely
+[1:24:01] going to your true
+one-rep max, just
+[1:24:04] get to a number that's fairly
+close and do as many as you can
+[1:24:07] and then go on line, again,
+one-rep max estimator equations
+[1:24:10] are everywhere.
+[1:24:11] If you get past five
+repetitions or so,
+[1:24:14] the accuracy of those
+equations starts going down.
+[1:24:18] So don't put on something and
+go, oh, I did 12 reps of it
+[1:24:21] and then try to figure
+out your one-rep max.
+[1:24:23] It'll get close.
+[1:24:23] You start moving past that,
+you're just getting worse
+[1:24:25] and worse and worse accuracy.
+[1:24:27] So I want to make sure whether
+you're doing the leg extension
+[1:24:29] test or a front squat
+test, you don't technically
+[1:24:32] have to do it in
+absolute one-rep max.
+[1:24:35] If neither of those
+are an option,
+[1:24:36] another one I like a lot
+here is simply a front squat
+[1:24:40] or a goblet squat hold.
+[1:24:42] So you're going to hold a
+weight in front of your chest.
+[1:24:45] A kettlebell is great here.
+[1:24:46] A dumbbell is fine here.
+[1:24:47] And you want to hold about
+half of your body weight,
+[1:24:50] go all the way to
+the bottom position,
+[1:24:52] and try to hold that
+for about 45 seconds.
+[1:24:55] So it's a pretty good indicator
+of number one, your position.
+[1:25:00] It's hard to be in a bad
+position for that long
+[1:25:02] at that load as well as
+core strength and low back
+[1:25:04] stability.
+[1:25:05] So it's a very
+different indicator
+[1:25:07] than, say, the leg
+extension test,
+[1:25:09] but it's a really nice one.
+[1:25:11] It doesn't require
+many moving parts.
+[1:25:13] It's more difficult
+than the leg extension,
+[1:25:15] but it's quite a
+bit more functional.
+[1:25:16] And it's going to
+give you insights
+[1:25:18] into a lot more areas
+than just the quadriceps.
+[1:25:20] ANDREW HUBERMAN: So 45 seconds
+down at the bottom of the squat
+[1:25:23] and then returning to
+a standing position.
+[1:25:25] ANDY GALPIN: Yep.
+[1:25:26] And if you can't do the
+return, actually, I'm
+[1:25:28] not that worried, but as long as
+you can hold that good position
+[1:25:31] without a technical breakdown
+in that 45 seconds, that's
+[1:25:34] a really good spot.
+[1:25:36] As an intro, I want
+a third of your body
+[1:25:38] weight for 30 seconds.
+[1:25:40] ANDREW HUBERMAN: Terrific.
+[1:25:41] I plan to attempt all of those
+strength tests very soon.
+[1:25:45] What about hypertrophy?
+[1:25:46] ANDY GALPIN: Sure.
+[1:25:47] Actually, before
+we get into that,
+[1:25:48] I want to jump back
+really quickly.
+[1:25:50] It's important to add
+a couple of caveats
+[1:25:51] to the strength training stuff.
+[1:25:53] So there's two
+that I want to do.
+[1:25:54] Number one, these are assuming
+you are technically proficient.
+[1:25:59] So I don't want you to do
+any exercise to exhaustion
+[1:26:03] or to maximum
+strength if you're not
+[1:26:05] comfortable with your technique.
+[1:26:06] So adjust these accordingly.
+[1:26:08] If you're not comfortable
+with the front squat,
+[1:26:10] do the leg extension.
+[1:26:11] If you're uncomfortable with
+that, do something different.
+[1:26:13] So we never want to
+utilize maximum testing
+[1:26:16] if it's going to come
+with a consequence
+[1:26:18] of serious acute injury.
+[1:26:20] So that's the most
+important flag.
+[1:26:22] The second one is,
+your warm-up protocol
+[1:26:26] will have a huge effect
+on your actual results.
+[1:26:29] And so whenever
+you do these tests,
+[1:26:31] especially if you're going to
+do a test and then a test again
+[1:26:34] down the line, you want to make
+sure that warm-up protocol is
+[1:26:37] standardized.
+[1:26:38] Now, again, the NFCA--
+[1:26:39] and I can give you resources--
+has specific guides for exactly
+[1:26:43] what to do for your
+warm-up protocol
+[1:26:44] prior to one-rep max testing.
+[1:26:46] So we can go there, and
+you can look that stuff up.
+[1:26:48] We can add that to show
+notes or something.
+[1:26:50] ANDREW HUBERMAN: Yeah.
+[1:26:51] And I think when we
+get into a deeper
+[1:26:52] discussion about
+strength and hypertrophy
+[1:26:54] and resistance
+training in general,
+[1:26:56] maybe we could touch into
+the best warm-up protocol.
+[1:26:58] I know I have mine,
+and I'm certain it's
+[1:27:01] going to be suboptimal
+based on everything--
+[1:27:03] ANDY GALPIN: Maybe that's
+causing the problems.
+[1:27:04] ANDREW HUBERMAN: --based
+on every conversation
+[1:27:05] we've ever had, where I
+learned all the things
+[1:27:06] I'm doing incorrectly.
+[1:27:07] But I do make changes on the
+basis of what you tell me.
+[1:27:09] ANDY GALPIN: It's not
+incorrectly so much
+[1:27:11] as it is suboptimal.
+[1:27:12] ANDREW HUBERMAN:
+That's a very kind way
+[1:27:14] of telling me it's incorrect.
+[1:27:15] Thank you.
+[1:27:16] What about hypertrophy?
+[1:27:18] ANDY GALPIN: So
+the thing you want
+[1:27:19] to pay attention to here is,
+you have the aesthetic portion
+[1:27:24] of hypertrophy.
+[1:27:25] That's entirely up to you.
+[1:27:26] There is no rationale.
+[1:27:28] You can decide what you feel
+like looks good or doesn't
+[1:27:30] look good.
+[1:27:30] That's irrelevant.
+[1:27:31] There is a sufficient
+amount you need to have,
+[1:27:34] where below that, it's
+detrimental to your health,
+[1:27:37] regardless of your outcomes.
+[1:27:38] And so the best way to do
+this is a couple of ways.
+[1:27:41] Any sort of body composition
+tests can do this.
+[1:27:44] So whether this is a scan
+through like a DEXA scan,
+[1:27:48] which is a gold
+standard or other ways
+[1:27:51] of biological, bioelectrical
+impedance or otherwise.
+[1:27:54] So there's a ton
+of different tests
+[1:27:56] you can get that
+are pretty close.
+[1:27:57] So what you want
+to pay attention
+[1:27:59] to when you get a DEXA scan
+is a number called FFFMI.
+[1:28:05] And so that stands for
+"fat-free mass index."
+[1:28:07] So you can look at again, any
+number of online calculators.
+[1:28:10] These are all standard,
+so it doesn't actually
+[1:28:11] matter where you pull them up.
+[1:28:12] You don't have to worry
+about looking it up
+[1:28:14] and whether or not it's
+right or not or something.
+[1:28:16] And so that's going
+to actually tell you
+[1:28:18] if you have sufficient
+muscle mass.
+[1:28:20] And so a number you want to look
+for, in general, is something
+[1:28:23] like if you're a
+man, your FFMI should
+[1:28:25] be something like 20 or higher.
+[1:28:28] If you're a woman, you want
+to look for something like 18.
+[1:28:31] So those are the targets.
+[1:28:32] If you get past
+24, 25 for a man,
+[1:28:36] that's a lot of muscle
+mass, assuming you're
+[1:28:38] reasonably lean.
+[1:28:39] Now, if your FFMI is like 24,
+25 but your body fat is 40%,
+[1:28:44] you're actually just a
+very, very large individual.
+[1:28:48] You're not in a great spot.
+[1:28:49] So when we say these
+sort of numbers,
+[1:28:51] it's the assumption
+that you're probably
+[1:28:53] sub 30% body fat for a man
+and sub 35% for a woman.
+[1:28:57] So those are the numbers.
+[1:28:59] There are online calculators.
+[1:29:00] All you really need to know
+is your total body weight,
+[1:29:03] your body fat percentage,
+and then your height.
+[1:29:05] And you can enter
+those three numbers,
+[1:29:07] and then they'll tell
+you your FFMI score,
+[1:29:09] and it'll correct for
+an adjusted value.
+[1:29:11] And then most of
+those will actually
+[1:29:12] tell you the grading
+rubric and then they'll
+[1:29:14] say, good, average,
+bad, et cetera,
+[1:29:16] but those are the
+numbers we look at.
+[1:29:18] If you are, as a man, sub
+17, as a woman, sub 15,
+[1:29:23] now we're in an area of pretty
+severe physiological detriment
+[1:29:28] for insufficient muscle.
+[1:29:29] And in some of our
+later discussions,
+[1:29:31] we'll talk about
+why that matters.
+[1:29:32] ANDREW HUBERMAN: So that's
+not sub 17% body fat.
+[1:29:35] That says
+specifically, the FFMI.
+[1:29:37] ANDY GALPIN: That's
+correct, yeah.
+[1:29:38] ANDREW HUBERMAN: What
+about muscular endurance?
+[1:29:40] Is this where you're going to
+tell me I need to do wall sits?
+[1:29:43] ANDY GALPIN: So
+this is really nice.
+[1:29:45] You can do any
+number of tests here.
+[1:29:47] A standard plank it is a good
+test of muscle endurance.
+[1:29:52] So can you hold a front
+plank for 60 seconds?
+[1:29:55] Can you hold a side
+plank for 45 seconds?
+[1:29:59] Pretty easy.
+[1:30:00] If you're able to do a push-up.
+[1:30:02] So if you can't, that
+sort of tells you alone.
+[1:30:04] It's actually interesting.
+[1:30:05] If you can't do
+a single push-up,
+[1:30:06] that's not a muscular
+endurance issue.
+[1:30:08] That's actually now
+a strength issue
+[1:30:09] because that's a
+one-rep max problem.
+[1:30:12] So we want to be able to--
+[1:30:13] again, for a general male, we
+should have no problem doing
+[1:30:17] 25 plus consecutive push-ups.
+[1:30:19] ANDREW HUBERMAN: I apologize
+for interrupting you,
+[1:30:21] but as long as we're
+talking about push-ups,
+[1:30:23] could you just mention form?
+[1:30:25] Are we talking chest
+touching the ground?
+[1:30:28] Elbows breaking right angles?
+[1:30:29] What is a proper push-up,
+according to your laboratory?
+[1:30:32] ANDY GALPIN: Unless you
+have a very specific reason
+[1:30:34] to limit range of motion,
+I want all my testing
+[1:30:37] done through a full
+joint range of motion.
+[1:30:40] This is different
+for the person.
+[1:30:42] So it's individualized to them,
+but in general, for a push-up,
+[1:30:45] this would be a full
+complete lockout
+[1:30:47] of the elbows on the top
+and a full chest touch
+[1:30:50] or close to it at the ground.
+[1:30:52] You can do it different.
+[1:30:53] It doesn't really
+matter, but just
+[1:30:55] keep it standard from your
+pretest to your post-test
+[1:30:57] if you're trying
+to mark progress,
+[1:30:59] but for us, unless we have
+a very specific reason,
+[1:31:01] we're going full range of
+motion for all of these tests.
+[1:31:04] ANDREW HUBERMAN: OK.
+[1:31:04] So 25 push-ups for a male.
+[1:31:06] ANDY GALPIN: 25 push-ups
+for a male is the standard.
+[1:31:08] And even something
+like 10 is a number
+[1:31:10] we're looking for, again,
+as minimum categories
+[1:31:14] for an upper body
+muscular endurance.
+[1:31:16] ANDREW HUBERMAN: And not to
+get too down in the weeds,
+[1:31:18] but I have observed
+other people-- of course,
+[1:31:20] never myself.
+[1:31:21] No, I'm kidding-- but
+observed other people
+[1:31:23] pausing maybe at repetition
+15, catching their breath
+[1:31:26] and then continuing.
+[1:31:28] ANDY GALPIN: That
+would be a fail test.
+[1:31:30] ANDREW HUBERMAN: So
+continue like a piston.
+[1:31:31] ANDY GALPIN: That
+would be a fail test.
+[1:31:32] ANDREW HUBERMAN: So no pauses.
+[1:31:33] ANDY GALPIN: Correct.
+[1:31:33] ANDREW HUBERMAN: Just
+up down, up down,
+[1:31:35] and trying to hit at
+least 10, but ideally 25.
+[1:31:38] ANDY GALPIN: I learned this
+lesson in one of our studies,
+[1:31:40] probably nine years ago,
+where we didn't clarify that.
+[1:31:44] And so we actually
+had an individual--
+[1:31:46] he wasn't being nefarious.
+[1:31:47] He just figured out, if I do
+a couple, take a quick break
+[1:31:51] and do a couple, he quadrupled
+his post-test results
+[1:31:54] from his pre-test result
+because he figured out
+[1:31:57] that little hack.
+[1:31:59] So you want to standardize it.
+[1:32:00] It's not that I'm
+against or have
+[1:32:02] some sort of strong belief.
+[1:32:03] It's just trying to keep
+protocol standardized, which
+[1:32:06] means any break, failed test.
+[1:32:08] ANDREW HUBERMAN: So 10 to 25
+push-ups, minimum, for males.
+[1:32:12] What about for females?
+[1:32:13] ANDY GALPIN: So I'll clarify.
+[1:32:14] If it's sub 10 for
+a man, that's again,
+[1:32:17] and you're like, very
+severe red flag problem.
+[1:32:19] We really, really like
+to see a number above 25.
+[1:32:22] That's where we're anchoring.
+[1:32:23] Anything between 10 and 25 is
+like, yeah, but not severe.
+[1:32:29] ANDREW HUBERMAN: It means
+they have work to do.
+[1:32:31] ANDY GALPIN: We have work to do.
+[1:32:32] ANDREW HUBERMAN:
+And for females?
+[1:32:33] ANDY GALPIN: For
+a female, you're
+[1:32:34] going to scale that back.
+[1:32:35] So a female, the answer
+could be as little as zero.
+[1:32:38] So you're going to see that,
+can you do a full position?
+[1:32:41] If they're in that
+position, we're
+[1:32:42] generally not going to do
+a muscular endurance test
+[1:32:44] from the knees.
+[1:32:45] We already know the
+answer is you're zero.
+[1:32:47] We'll actually default to
+another test, which I'll
+[1:32:49] talk about in a second here.
+[1:32:51] So for those folks, that's going
+to scale down a little bit.
+[1:32:54] So basically, you're looking
+at 15 is that marker, like 25
+[1:32:57] was for the male, where
+I want to see above 15.
+[1:33:00] And if I do, we're good.
+[1:33:01] Anything between five to
+15 is the number of, OK.
+[1:33:06] If you're sub five, we
+generally have some problems.
+[1:33:10] And if that is different,
+between one and zero,
+[1:33:13] then zero is a problem.
+[1:33:16] So we should be able to do that.
+[1:33:17] ANDREW HUBERMAN: So if a female
+cannot do 10 full push-ups.
+[1:33:21] ANDY GALPIN: Yeah.
+[1:33:22] 10 full push-ups hard for a
+female, depending on size.
+[1:33:25] ANDREW HUBERMAN: OK.
+[1:33:26] Let's say a female can't do
+five full push-ups. You said,
+[1:33:29] rather than go to a
+knees-down version,
+[1:33:31] what would you do to assess
+their muscular endurance?
+[1:33:35] And would you then
+also encourage
+[1:33:38] them to work on their strength?
+[1:33:40] ANDY GALPIN: Well, absolutely.
+[1:33:42] So again, if they
+can't do-- they
+[1:33:43] can do anything less than three,
+you're going to be strength.
+[1:33:47] In fact, if you want to look at
+muscular endurance in general--
+[1:33:49] so this is a bit
+of an off topic,
+[1:33:51] but I promise I'll
+keep it short,
+[1:33:52] and I'll come right back.
+[1:33:54] When I was a doctoral
+student, I had two lab mates.
+[1:33:58] One of them was a runner,
+a female, 120 pounds,
+[1:34:02] something like that, small.
+[1:34:03] The other one was a male,
+and he was basically
+[1:34:05] like a straight bro,
+he lifts weights,
+[1:34:07] doesn't do any other
+sort of training.
+[1:34:09] Does a very classic not training
+program, but kind of training.
+[1:34:12] And they were bantering
+back and forth for a while.
+[1:34:15] And basically she was
+saying, you're so unfit.
+[1:34:17] You can't run at all.
+[1:34:18] And he's saying, you're so weak.
+[1:34:18] You can't do a pull-up.
+[1:34:20] And so they challenged each
+other to a competition.
+[1:34:21] They said, at the
+end of the year,
+[1:34:23] the girl is going
+to do 26 pull-ups,
+[1:34:27] and the guy had to run
+a marathon, so 26 miles.
+[1:34:30] So that was the thing.
+[1:34:31] And then there was some sort of
+consequence for whoever failed.
+[1:34:35] So the guy quickly tried
+to figure out, how the hell
+[1:34:37] am I going to run 26
+miles when I have not
+[1:34:39] run a mile in many,
+many, many years?
+[1:34:41] So he just started running,
+three miles, four miles,
+[1:34:43] whatever.
+[1:34:45] Well, of course, both of
+them ran immediately to me.
+[1:34:47] And then she was
+like, how the hell?
+[1:34:49] I can't do a pull-up.
+[1:34:50] And I was like, great.
+[1:34:51] And I gave her a very specific
+maximal strength protocol.
+[1:34:54] And she was like, whoa.
+[1:34:55] I want to go to the
+assisted pull-up machine
+[1:34:57] and work on doing sets of
+25 because I've got to get
+[1:35:00] my muscular endurance up.
+[1:35:01] And I tried to explain to
+her, your muscle endurance
+[1:35:03] is irrelevant if
+you can't do one.
+[1:35:06] It's never going to matter.
+[1:35:07] She did the muscular endurance
+protocol, the entire thing.
+[1:35:10] Didn't listen to me.
+[1:35:11] The end of the year came.
+[1:35:12] She still produced
+exactly zero pull-ups.
+[1:35:15] So the point is, if you
+look at muscular endurance,
+[1:35:19] where is it strength
+and where is it actually
+[1:35:21] muscular endurance?
+[1:35:22] The general number that you're
+looking for is under 80%.
+[1:35:26] That's going to tell you,
+is this a muscular endurance
+[1:35:29] problem or is it an
+absolute strength problem?
+[1:35:31] ANDREW HUBERMAN: Under 80%
+of a one-repetition maximum?
+[1:35:33] ANDY GALPIN: Yup.
+[1:35:34] So what I mean by that is this.
+[1:35:36] In fact, this actually
+is in your question.
+[1:35:39] The other way to assess
+muscular endurance
+[1:35:41] is take the exact strength
+tests you did from the talk
+[1:35:45] five minutes ago,
+which one did you do?
+[1:35:46] Load that to 75%, and then do
+that for as many repetitions
+[1:35:51] as you can.
+[1:35:51] And that is a
+tremendous barometer
+[1:35:54] of muscular endurance.
+[1:35:55] So if you were able to do 200
+pounds in your leg extension
+[1:35:57] test, put 75% on that and do
+that as many reps as you can.
+[1:36:00] You want to look for more
+than eight repetitions.
+[1:36:03] If you are below
+eight repetitions,
+[1:36:05] then we have a muscular
+endurance problem.
+[1:36:09] If it is higher than that,
+if you've got 15 or 20,
+[1:36:11] then we know we have
+probably some problems
+[1:36:14] in your peak strength
+or the test itself.
+[1:36:17] So that is a good--
+eight to 12 number
+[1:36:19] is where you want to be
+looking at for there.
+[1:36:23] ANDREW HUBERMAN: What
+about anaerobic capacity?
+[1:36:26] ANDY GALPIN: This
+one's more challenging.
+[1:36:27] You either have to
+go to a laboratory
+[1:36:30] and do something
+like a Wingate Test.
+[1:36:32] So this is a
+30-second maximal test
+[1:36:36] where you're going to see how
+much work can you possibly do
+[1:36:40] in that 30 seconds.
+[1:36:41] If you don't have
+access to laboratory,
+[1:36:43] you can do this on
+any protocol you want.
+[1:36:47] This could be sprinting.
+[1:36:48] This can be on an air bike.
+[1:36:50] This could be on
+a rower, anything
+[1:36:52] like that, anything where
+you can exert maximal effort
+[1:36:55] and you don't have to worry
+about technical problems.
+[1:36:57] So I generally don't like to do
+things like a kettlebell swing
+[1:37:01] or something like that.
+[1:37:02] There's just too
+many other variables.
+[1:37:03] You need to be able to go
+as hard as you possibly can,
+[1:37:05] knowing you're going to get to
+a place of tremendous fatigue.
+[1:37:09] Now, in the lab, we often use
+what's called a Bosco Protocol.
+[1:37:12] And you're going to
+stand on a force plate,
+[1:37:14] and you're going to do
+as many vertical jumps
+[1:37:16] as fast as you can, as high
+as you can, for 60 seconds.
+[1:37:19] And you are absolutely
+destroyed by second 45.
+[1:37:23] So we'll either use that
+Wingate Protocol or that Bosco
+[1:37:25] Protocol.
+[1:37:26] If you want, though, again,
+take any of those other places,
+[1:37:31] 30 seconds or so,
+up to 45 seconds,
+[1:37:33] up to a minute if you want,
+it doesn't really matter.
+[1:37:35] And you just mark down
+the distance you cover.
+[1:37:38] That's all.
+[1:37:38] We don't really have
+standards for these things
+[1:37:40] because it's going
+to be different.
+[1:37:42] How far you can travel in
+30 seconds on a treadmill
+[1:37:45] is just going to be so different
+than sprinting in the field
+[1:37:49] or on the assault
+bike or whatever.
+[1:37:52] So what you really want
+to worry about there is,
+[1:37:54] can you complete it?
+[1:37:56] And then how awful do
+you feel afterwards?
+[1:37:59] So what you really want
+to think about here
+[1:38:02] is not those
+protocols, but this.
+[1:38:05] You want to think
+about can you get
+[1:38:07] close to your predicted
+maximum heart rate?
+[1:38:11] So the number we throw
+out is 220 minus your age.
+[1:38:16] So if you're 50 years
+old, 220 minus 50,
+[1:38:18] you should be able to get
+to a maximum heart rate
+[1:38:20] of around 170 beats per minute.
+[1:38:22] Now, that number is
+extremely generic.
+[1:38:25] If you don't get there,
+that doesn't have
+[1:38:27] any indication of your fitness.
+[1:38:28] If you get higher, that doesn't
+mean you're any more fit.
+[1:38:31] It's just a rough number.
+[1:38:32] So here's what I want you to do.
+[1:38:34] In this case, your heart rate
+recovery is the better metric.
+[1:38:38] So I want you to get up
+to a maximum heart rate
+[1:38:41] and then test your
+heart rate recovery.
+[1:38:43] And what you should
+be looking for there
+[1:38:45] is about a half a beat
+recovery per second.
+[1:38:48] So you're going to
+get up to a place
+[1:38:50] where you reach absolute
+terrible exhaustion,
+[1:38:54] maximum fatigue, test your
+heart rate, and then count.
+[1:38:59] Have a timer going.
+[1:39:00] Within 60 seconds, you
+should have, again,
+[1:39:03] that half a beat per second.
+[1:39:04] You should have a
+heart rate recovery
+[1:39:06] of 30 beats per minute.
+[1:39:07] Within the next minute,
+so two-minute recovery,
+[1:39:11] it should be, again,
+half that, so 60 beats.
+[1:39:13] Those are rough
+numbers to go by.
+[1:39:14] And your three-minute recovery
+is, again, half of that again.
+[1:39:17] So that is the closest way.
+[1:39:19] If your heart rate recovery
+is worse than that,
+[1:39:21] then we know we have a problem
+in your anaerobic capacity
+[1:39:24] or your cardiovascular capacity.
+[1:39:27] ANDREW HUBERMAN: I love it.
+[1:39:29] What about number eight,
+maximal heart rate?
+[1:39:31] Because what you
+just described sounds
+[1:39:33] a lot like maximal heart rate.
+[1:39:34] ANDY GALPIN: So this
+is your VO2 max.
+[1:39:35] So the gold standard here is to
+actually go into a laboratory
+[1:39:38] and get this thing done.
+[1:39:40] So we can actually run a VO2 max
+test, where you put a mask on,
+[1:39:43] collect all your gases,
+and run you to there.
+[1:39:45] And there is a very specific
+protocol for completion
+[1:39:49] of a true maximum test.
+[1:39:50] And any scientist
+will know that.
+[1:39:52] If you don't have
+access to that,
+[1:39:54] you can do a couple of tests.
+[1:39:55] One of them is called a
+12-Minute Cooper's Test.
+[1:39:59] So this is simply time.
+[1:40:00] You're going to run for 12
+minutes as far as you can,
+[1:40:02] and you're going to record
+the distance you covered.
+[1:40:04] Again, you can go online to
+any number of calculators,
+[1:40:09] enter that distance in.
+[1:40:10] And that will tell you your
+proximal or estimated VO2 max.
+[1:40:14] ANDREW HUBERMAN: So
+that's a 12-minute sprint.
+[1:40:15] ANDY GALPIN: 12-minute
+sprint, maximum distance
+[1:40:18] you can cover in 12 minutes.
+[1:40:19] ANDREW HUBERMAN: Keeping a
+steady pace the whole time
+[1:40:21] or going--
+[1:40:21] ANDY GALPIN: Do
+whatever you want.
+[1:40:23] The goal is to get maximum
+distance covered in 12 minutes.
+[1:40:26] So that's anywhere between
+a mile to two plus miles,
+[1:40:30] depending on how fit
+you are, but you just
+[1:40:32] do that Cooper 12-Minute Test.
+[1:40:35] ANDREW HUBERMAN: Got it.
+[1:40:36] ANDY GALPIN: I told you.
+[1:40:37] So if you remember,
+aerobic capacity
+[1:40:39] is eight to 12
+minutes where you're
+[1:40:41] going to see a real true
+test of that VO2 max.
+[1:40:44] You simply can't get that
+in under a few minutes.
+[1:40:48] So if you want, you can do a
+little gentler version of that.
+[1:40:55] So there are a number
+of submaximal tests.
+[1:40:57] In fact, there is a one-mile
+walk test you can do.
+[1:41:00] So again, all you're going
+to do is-- in this case,
+[1:41:03] you have to have of either a
+stopwatch or, ideally, a heart
+[1:41:07] rate monitor.
+[1:41:07] And all you have to do is--
+this is a walk for one mile
+[1:41:10] submaximal test.
+[1:41:11] So you're going to walk
+a mile, record the time,
+[1:41:13] record your heart rate at
+the end, enter those in.
+[1:41:17] And those will give you, again,
+estimates of your VO2 max.
+[1:41:19] So that's the like, oh my gosh,
+I can't run for 12 minutes
+[1:41:24] as hard as I possibly can
+or I don't want to do it.
+[1:41:27] We have a lot of these
+in our executive program.
+[1:41:30] It's like, my knee
+hurts too bad.
+[1:41:31] I've got back pain
+when I run or whatever.
+[1:41:33] Can I-- OK.
+[1:41:34] And you do the walk test.
+[1:41:34] And it's pretty accurate
+if you do it correctly.
+[1:41:36] So technically, all
+you have to actually do
+[1:41:38] is measure your heart rate on
+you neck and count 60 seconds,
+[1:41:42] but it's just easier to--
+[1:41:43] with everyone's
+watches and stuff now,
+[1:41:45] just wear the heart rate
+monitor, plug in those numbers.
+[1:41:48] And again, those are all
+standard calculations.
+[1:41:52] So anywhere you find
+those, you don't
+[1:41:54] have to worry about the source.
+[1:41:56] So you just enter your
+stuff in, and they're
+[1:41:57] going to be running
+off the same equation.
+[1:41:59] ANDREW HUBERMAN: I like the
+idea of the 12-minute run.
+[1:42:01] I'm going to give it a
+shot, see what happens.
+[1:42:03] ANDY GALPIN: For years, we did
+a one-mile version of this,
+[1:42:06] and there's just a lot more
+science on the 12-Minute Cooper
+[1:42:09] Test.
+[1:42:09] So we did that.
+[1:42:10] It's pretty good, and it is
+not even remotely close to fun.
+[1:42:16] ANDREW HUBERMAN: It sounds
+like fun for other reasons.
+[1:42:18] ANDY GALPIN: Yeah, yeah.
+[1:42:19] Well, it is it.
+[1:42:20] ANDREW HUBERMAN: Fun in the
+sense that it reveals a lot.
+[1:42:22] ANDY GALPIN: Yup.
+[1:42:23] ANDREW HUBERMAN: It's
+powerful, potent.
+[1:42:24] ANDY GALPIN: Super.
+[1:42:25] There's no hiding.
+[1:42:28] You can hide with the
+leg extension test.
+[1:42:30] It doesn't hurt that bad.
+[1:42:31] But you cannot feel anything
+but the 12-minute "run as far
+[1:42:35] as you can" test.
+[1:42:36] ANDREW HUBERMAN: So these
+are really, actually,
+[1:42:38] psychiatric diagnostic tests--
+[1:42:40] ANDY GALPIN: They are.
+[1:42:41] ANDREW HUBERMAN: --of a sort.
+[1:42:41] ANDY GALPIN: For sure.
+[1:42:42] ANDREW HUBERMAN: Number nine,
+long-duration, steady-state
+[1:42:46] exercise.
+[1:42:47] I think of this as a.k.a.
+[1:42:49] endurance, but as you
+mentioned before, there
+[1:42:52] are other forms of endurance.
+[1:42:53] So long-duration,
+steady-state exercise.
+[1:42:55] ANDY GALPIN: Yep.
+[1:42:56] So you really want
+to think about this
+[1:42:59] as not a standard number.
+[1:43:02] You should maintain
+consistent work output
+[1:43:05] for over 20 plus minutes.
+[1:43:08] And this one I want you
+to just pick something
+[1:43:10] that it was in your lifestyle.
+[1:43:12] So is there a loop around
+your house that you can do?
+[1:43:15] Is there some protocol that
+you like to use before?
+[1:43:18] And you're simply going
+to test your ability.
+[1:43:20] Can you maintain work
+without stopping?
+[1:43:22] That's all it needs to be.
+[1:43:24] Now ideally, I personally
+like to throw a little twist
+[1:43:27] in here, which is, can you do
+this with nasal breathing only.
+[1:43:30] That's when I feel really good.
+[1:43:31] If you can go 30
+straight minutes
+[1:43:32] without needing
+to take a break--
+[1:43:34] walking doesn't really cut it
+unless you're very, very unfit,
+[1:43:37] in which case, if walking
+30 minutes without a break
+[1:43:40] is a challenge, OK.
+[1:43:42] There.
+[1:43:43] But if you can, I want you
+moving at a non-walking pace.
+[1:43:47] I don't care what zone this
+is, two, three, four, five.
+[1:43:50] I don't care.
+[1:43:51] Show me you can maintain
+minimum of 20 minutes of work
+[1:43:54] with no breaks, no intervals,
+no downtime and, again,
+[1:43:57] ideally breathing
+through your nose only.
+[1:44:00] ANDREW HUBERMAN: I love this
+list, but it worries me a bit.
+[1:44:03] Not because any one of
+these tests is necessarily
+[1:44:06] that overwhelming,
+but because I'm
+[1:44:09] unclear about how to
+arrange performance
+[1:44:13] of these different tests.
+[1:44:14] ANDY GALPIN: Yeah.
+[1:44:14] ANDREW HUBERMAN: For
+instance, do I separate them
+[1:44:16] so I'm doing one test, like
+long-duration output on one day
+[1:44:20] and I'm doing strength
+on another day?
+[1:44:22] Those seem pretty obvious
+to me, but are there
+[1:44:24] ones that one can combine
+on different days?
+[1:44:26] How much time should one give
+oneself in between these tests?
+[1:44:29] And how often should
+one do an assessment?
+[1:44:32] Just as we don't want
+to necessarily evaluate
+[1:44:34] body weight changes by getting
+on the scale three times
+[1:44:36] a day, maybe once a day
+at the same time each day
+[1:44:40] is more practical.
+[1:44:42] How often should we be
+assessing our fitness for each
+[1:44:45] and every one of these?
+[1:44:46] ANDY GALPIN: Well, the way
+that I would say this is, you
+[1:44:48] want to pick the one
+that is the worst
+[1:44:50] and do that more frequently.
+[1:44:52] So if, for example, you do
+the upper body strength test
+[1:44:56] and you are fantastic, if
+you can bench press double
+[1:44:59] your body weight, I don't need
+to test your bench very often,
+[1:45:03] for the average person.
+[1:45:04] If you're not a powerlifter,
+maybe once a year or something.
+[1:45:07] Maybe not even that.
+[1:45:08] We just don't need to get there.
+[1:45:09] However, if we then test your
+VO2 max and in your 12 minutes,
+[1:45:15] you cover a total
+of a half a mile,
+[1:45:17] then we might want to
+test that every month.
+[1:45:20] And so we're going to let our
+priorities emphasize which one
+[1:45:23] we're going to do more often.
+[1:45:24] I would recommend doing this
+full battery once a year.
+[1:45:26] ANDREW HUBERMAN: Full battery,
+meaning the entire list
+[1:45:29] on one day.
+[1:45:29] ANDY GALPIN: No, not on
+one day, but within a week.
+[1:45:32] So you could take a week.
+[1:45:33] Now, you could do these,
+technically, all in two days.
+[1:45:36] Three-day split here
+is probably best.
+[1:45:38] So if you were to just say,
+hey, this is testing week.
+[1:45:40] I actually love this for
+beginning of the year
+[1:45:43] or whenever it is that
+you change your training,
+[1:45:45] but I think once a year,
+just like once a year you
+[1:45:48] should probably
+go to a physician
+[1:45:49] and get full bloodwork, a
+full heart scan and everything
+[1:45:55] like that.
+[1:45:56] And then if maybe you
+had a heart issue,
+[1:45:58] they would come back in and test
+you more frequently, whatever
+[1:46:00] the case is.
+[1:46:01] You should probably
+run through this.
+[1:46:02] And you're going to
+be thinking, yeah,
+[1:46:04] but I don't want to give up on
+my exercise routine that week.
+[1:46:06] Well, I promise you, you're
+not going to finish this week
+[1:46:09] and think, I didn't do
+very much work this week.
+[1:46:11] It's going to feel great.
+[1:46:12] And then you're going to
+have a very nice barometer
+[1:46:15] of exactly where you need
+to change and prioritize
+[1:46:17] your training for the next
+quarter or half a year
+[1:46:19] or wherever you want to go.
+[1:46:21] If you want to actually
+do this every six months,
+[1:46:23] we end up, actually, doing
+this, quite honestly,
+[1:46:25] more like every six
+months as a general test.
+[1:46:29] That's a really
+good way to do it,
+[1:46:30] but minimum, if you're
+arguing with me,
+[1:46:33] give me once a year that
+you want to do this.
+[1:46:34] So which order to do them in?
+[1:46:37] The non-fatiguing tests,
+you can do whenever.
+[1:46:40] So this is the body composition
+scan, the FFMI, the body
+[1:46:43] fat composition.
+[1:46:44] All this stuff can
+be done whenever.
+[1:46:46] I generally like
+to do that, though,
+[1:46:48] as your very first activity.
+[1:46:50] The reason is we know that
+acute exercise can heavily
+[1:46:54] influence things
+like body composition
+[1:46:55] measurements because of
+inflammation, water storage, et
+[1:46:58] cetera.
+[1:46:58] So it's easiest to just get
+that off of a 48 hour rest.
+[1:47:02] You want to make sure you don't
+do any hard exercise the day
+[1:47:04] before a body composition
+test and probably 48 hours
+[1:47:07] before that.
+[1:47:08] So just start yourself
+off with that.
+[1:47:10] Your movement tests
+can be the same thing.
+[1:47:13] You don't want to try to do a
+assessment of how well you're
+[1:47:16] squatting if you're incredibly
+sore from your brutal squatting
+[1:47:19] test.
+[1:47:20] So tend to do those things
+when you're the most fresh.
+[1:47:22] Then what you want to do is
+any skill or maximum strength
+[1:47:25] or power goes at the very
+beginning of the day.
+[1:47:28] And any fatiguing thing
+happens at the end.
+[1:47:31] And so you could easily do this.
+[1:47:33] All right, I'm going to do
+my power test, my broad jump,
+[1:47:38] great.
+[1:47:39] You're not going to be
+fatigued at all from that.
+[1:47:41] And on the same day, since
+I'm already pretty warmed up,
+[1:47:43] now I'm going to roll right
+into my leg strength test.
+[1:47:47] And since I'm really
+warmed up, I'm
+[1:47:49] going to do my leg muscular
+endurance test right there.
+[1:47:52] So this is a very
+common strategy we use.
+[1:47:53] We do our one-rep max leg
+extension, five minutes,
+[1:47:56] seven minutes, whatever we
+need to do, come back, load it
+[1:47:59] to 75%, do as many
+reps as you can.
+[1:48:02] Boom.
+[1:48:02] You could roll right into,
+then, your upper body
+[1:48:04] test or your grip strength
+test or anything else
+[1:48:06] that you want to do there.
+[1:48:08] Is there a little
+bit of influence?
+[1:48:11] Yeah, but really, for most
+people, it's not that bad.
+[1:48:15] What influence I mean.
+[1:48:16] If you do a leg strength
+test, coming back and doing
+[1:48:19] an upper body strength
+test afterwards,
+[1:48:21] it's not that big a deal.
+[1:48:22] Give yourself 15, give
+yourself 20 minutes.
+[1:48:25] Give it plenty of time.
+[1:48:26] So you can knock out
+your strength testing
+[1:48:28] and muscular endurance
+testing all in one day.
+[1:48:31] You could do your performance,
+your skill diagnostic,
+[1:48:35] your power jump
+test, your strength,
+[1:48:37] and your muscular endurance, and
+all that stuff is knocked out.
+[1:48:39] You're going to have to
+come back on a separate day
+[1:48:42] and do your anaerobic tests.
+[1:48:44] This is 30-seconds maximal
+endurance, things like that.
+[1:48:47] You could, though, if
+you wanted, do that
+[1:48:49] after your long duration tests.
+[1:48:52] You're long duration
+test again, is just
+[1:48:53] going to function
+as a big, warm up.
+[1:48:56] Or you could flip
+those things or you
+[1:48:58] can do them on separate days.
+[1:48:59] You're going to have to do your
+VO2 max test on its own day,
+[1:49:03] for the most part, unless
+you wanted to do, again,
+[1:49:05] your movement or
+your body composition
+[1:49:08] before those things.
+[1:49:09] So you really have the
+ability to mix and match.
+[1:49:12] Ideally, this most realistically
+probably takes three days.
+[1:49:15] If you want to separate
+them into four or five,
+[1:49:18] the more separation
+you do, the better data
+[1:49:20] you're going to get.
+[1:49:21] It's just a question of how
+pedantic are you really trying
+[1:49:24] to get here?
+[1:49:25] And are you willing to lose
+5% to then save a whole day?
+[1:49:29] Then you can do these
+things in multiple stacks.
+[1:49:32] So that's how I
+would break it up.
+[1:49:33] ANDREW HUBERMAN:
+So what I'm hearing
+[1:49:35] is, better to do it
+than to not do it.
+[1:49:37] ANDY GALPIN: Most definitely.
+[1:49:38] ANDREW HUBERMAN:
+And be rational.
+[1:49:40] Don't try and do
+your strength output
+[1:49:42] late in the day when
+you're fatigued.
+[1:49:44] If you're going to combine
+some of the steady state
+[1:49:47] endurance and maximal
+heart rate, fine.
+[1:49:50] Understand there might be a
+slight deficit there, but test
+[1:49:53] it the same way each time.
+[1:49:54] And what you're really
+looking for is improvement.
+[1:49:56] ANDY GALPIN: Yep.
+[1:49:56] And you can also do
+the heart rate recovery
+[1:49:58] under any of the modalities.
+[1:49:59] So you could do the heart rate
+recovery after your VO2 max
+[1:50:02] as well.
+[1:50:03] So you finish that
+thing, and then
+[1:50:05] just, again, do the same
+test for up to three minutes.
+[1:50:08] ANDREW HUBERMAN: These
+are fantastic tools.
+[1:50:10] I'm almost tempted to say that
+I'm willing to post my numbers,
+[1:50:12] but that actually violates the
+core principle that I think
+[1:50:15] we're getting at here,
+which is that it's highly
+[1:50:18] unlikely that anybody is
+going to be phenomenal
+[1:50:21] across the board.
+[1:50:22] I mean, certainly there will
+be individuals that are,
+[1:50:24] but based on everything
+we talked about earlier,
+[1:50:26] specificity of training and
+how extensively somebody has
+[1:50:30] been training a certain way
+will, without question, lop
+[1:50:35] side them, if you
+will, toward being
+[1:50:37] better in some of these
+assessments and less good
+[1:50:40] in others.
+[1:50:41] And that's just simply the way
+that these adaptations work.
+[1:50:43] ANDY GALPIN: Yep.
+[1:50:45] You don't need to be optimal
+in all of these areas to be,
+[1:50:49] quote, unquote, "optimal
+health" from this perspective.
+[1:50:52] You just want to
+make sure, again,
+[1:50:53] there's no severe
+performance anchors.
+[1:50:56] This is what we call them.
+[1:50:57] We don't want any of
+these severe constraints
+[1:50:59] because you're going to
+get limited by that thing.
+[1:51:03] And so what you want
+to do is move that up
+[1:51:05] to just sufficient or concerning
+and get it away from that.
+[1:51:09] If you do that, that thing's
+not going to catch you.
+[1:51:11] You're going to be able to
+continue to pursue optimization
+[1:51:13] in any of the one
+things that you
+[1:51:15] have a specific
+passion for, which
+[1:51:17] is generally what moves people.
+[1:51:19] You train so that
+you feel better.
+[1:51:21] You train because you know there
+are all these benefits to it.
+[1:51:25] And jeez, this audience probably
+could list hundreds of them.
+[1:51:29] But you also train
+because you generally like
+[1:51:31] to get better at something.
+[1:51:32] A lot of us have something.
+[1:51:34] And so you want to make
+sure that you're not going,
+[1:51:36] hey, I know you're
+good at endurance,
+[1:51:38] but you really
+shouldn't train anymore.
+[1:51:39] We don't want that
+message, not at all.
+[1:51:41] I want you to love
+your training.
+[1:51:43] We just want to make sure
+that you're not loving that
+[1:51:46] so much that you're not taking
+some blinders off and missing
+[1:51:48] another area, which
+would actually--
+[1:51:52] again, you pull that performance
+anchor, this whole ship sails
+[1:51:55] faster, with less effort
+and less friction.
+[1:51:59] ANDREW HUBERMAN: What I love
+about this is also that,
+[1:52:01] as you've described
+it, it's not just
+[1:52:03] for athletes or people that
+are super into fitness.
+[1:52:06] It's also for people that just
+want to be healthy and want
+[1:52:09] aesthetic changes.
+[1:52:10] And that's why they're
+exercising, which, I think,
+[1:52:12] accounts for a fairly large
+percentage of people out there.
+[1:52:15] So I think what you described
+is incredibly well-structured,
+[1:52:19] incredibly clear, and
+incredibly actionable.
+[1:52:22] So I want to thank
+you for that I'm
+[1:52:26] serious about my willingness
+to do this and at least share
+[1:52:30] those numbers with you.
+[1:52:31] And I think for most people that
+are seeking what you listed off
+[1:52:35] before aesthetic
+changes, functionality,
+[1:52:38] and longevity, it's clear
+that all nine of these
+[1:52:40] are going to be important
+in some regard or another.
+[1:52:43] ANDY GALPIN: So
+before we close out,
+[1:52:44] I want to go back and finish
+off the metrics for VO2 max
+[1:52:48] because I don't actually think
+I gave you numbers on that.
+[1:52:51] So in general, for
+men, a minimum number
+[1:52:53] we want to look at
+here is 35 milliliters
+[1:52:56] per kilogram per minute.
+[1:52:57] And for women, that
+would be about 30.
+[1:52:59] So we can actually push a
+lot higher on those things.
+[1:53:02] In reality, I want
+to see men above 50.
+[1:53:05] ANDREW HUBERMAN: If I could
+just interrupt you for a second.
+[1:53:08] When you say 40 milliliters per
+kilogram, milliliters of what,
+[1:53:13] specifically?
+[1:53:14] ANDY GALPIN: Yeah.
+[1:53:14] So what, actually,
+those metrics mean is
+[1:53:16] the first one,
+milliliters, is oxygen.
+[1:53:18] So it's amount of oxygen.
+Kilograms is body weight.
+[1:53:22] So it's, how much oxygen can
+you bring in per kilogram
+[1:53:25] of body weight per minute?
+[1:53:27] So does a volume of oxygen per
+your size in a time duration.
+[1:53:31] In fact, the way
+that you calculate it
+[1:53:34] is you multiply your
+cardiac output by what's
+[1:53:37] called your a-vO2 difference.
+[1:53:38] Your cardiac output is your
+heart rate times your stroke
+[1:53:41] volume, so how much blood
+you're pumping out per pump
+[1:53:44] is your stroke volume.
+[1:53:45] How many times you're
+pumping or you're beating.
+[1:53:48] You multiply that by
+your a-vO2 difference.
+[1:53:50] Your a-vO2 difference is
+artery minus vein difference.
+[1:53:54] So it's the amount of
+oxygen in your arteries
+[1:53:56] minus the amount of
+oxygen in your vein, which
+[1:53:58] is going to tell you
+how much you took up
+[1:54:00] in your capillaries,
+in your muscles.
+[1:54:01] So you take those two factors,
+multiply them together,
+[1:54:04] and there's your VO2 max.
+[1:54:05] ANDREW HUBERMAN: As you
+were describing that,
+[1:54:07] I imagine you getting
+to an fMRI machine
+[1:54:09] and seeing that equation
+lighting up in your brain
+[1:54:12] because clearly, it's
+committed to memory very well.
+[1:54:14] Thank you for that
+clear description.
+[1:54:16] ANDY GALPIN: Yeah.
+[1:54:17] So to finish those
+numbers, I really, truly
+[1:54:19] want to see a man above 50--
+[1:54:21] and I'm not even really
+stoked until I get above 55.
+[1:54:24] In fact, it's sort of funny.
+[1:54:25] Dave Costill, whose lab
+I did my PhD in-- he
+[1:54:28] was retired by the
+time, but he's, again,
+[1:54:30] one of these legendary figures
+in exercise physiology,
+[1:54:34] started in the '70s.
+[1:54:35] He would always say,
+"There's no human excuse
+[1:54:37] to be below 60," which
+I was always like, damn.
+[1:54:40] That's really, actually,
+pretty hard to get to.
+[1:54:42] ANDREW HUBERMAN: Was
+he at 60 or above?
+[1:54:44] ANDY GALPIN: Oh, yeah.
+he's still, actually,
+[1:54:46] setting world records in
+these last couple of years,
+[1:54:49] all the Masters records for
+swimming and cycling and stuff.
+[1:54:52] So he was a super,
+super fit guy.
+[1:54:55] So he was always above 60.
+[1:54:56] He's probably like
+50 something now,
+[1:54:58] even though he's 80 or whatever.
+[1:55:00] ANDREW HUBERMAN: 80 years old.
+[1:55:01] ANDY GALPIN: Yeah.
+[1:55:02] ANDREW HUBERMAN:
+With a VO2 max of 50.
+[1:55:03] ANDY GALPIN: He's
+probably really not 50.
+[1:55:04] He's probably--
+but he's probably
+[1:55:06] going to-- remember
+earlier on we
+[1:55:08] talked about how I had
+the 92-year-old who
+[1:55:11] had VO2 max of 38.
+[1:55:12] Dave's probably going to break
+that record when he gets there,
+[1:55:14] I'm sure.
+[1:55:14] I'm sure.
+[1:55:15] In fact, I guarantee you he
+has that number in his brain.
+[1:55:18] I haven't talked
+to him in 15 years,
+[1:55:20] but I guarantee you that
+number is in his brain,
+[1:55:22] and he's probably
+training for it.
+[1:55:23] ANDREW HUBERMAN: I love it.
+[1:55:24] And I love it because it
+proves that exercise pays off.
+[1:55:28] ANDY GALPIN: Oh, yeah.
+[1:55:29] ANDREW HUBERMAN: It's one
+of the few things in life
+[1:55:31] where there's a direct
+relationship between work
+[1:55:33] and outcome.
+[1:55:34] ANDY GALPIN: Yeah.
+[1:55:35] As Henry Rollins described
+in his wonderful essay,
+[1:55:38] if you're familiar with that.
+[1:55:40] Oh my gosh, you're
+a punk rock guy.
+[1:55:41] You know Henry, I'm sure.
+[1:55:42] ANDREW HUBERMAN: I mean, I
+certainly know who he is,
+[1:55:44] and I know his work.
+[1:55:46] ANDY GALPIN: Yeah.
+[1:55:47] He has incredible
+one-page paper.
+[1:55:49] It's something to
+do with the iron.
+[1:55:51] And he basically
+describes that as, this is
+[1:55:53] the one thing where it's truth.
+[1:55:55] It is the most true thing you'll
+ever do, which I love that.
+[1:55:59] ANDREW HUBERMAN: It's almost
+like a principle of nature.
+[1:56:01] ANDY GALPIN: 100%.
+[1:56:02] Yeah.
+[1:56:03] So with the women, I really
+want to see the women--
+[1:56:07] if I want to see men
+above 55, I really
+[1:56:09] want to see women
+above 50 as the target.
+[1:56:11] And if you like, you're
+there, I'm pretty good.
+[1:56:13] So you can do the math on, then,
+the middle ground of what's
+[1:56:15] like OK, but we
+need to work on it.
+[1:56:17] In fact, if you look
+across the literature,
+[1:56:20] at different
+athletes, you're going
+[1:56:22] to see the really
+high-level endurance folks,
+[1:56:26] they may pass 70 or 80.
+[1:56:28] In fact, there was talk a few
+years ago of a guy breaking 100
+[1:56:32] as an 18 or 19-year-old,
+but I actually
+[1:56:34] don't think it was ever
+fully confirmed or repeated,
+[1:56:37] but certainly, you'll
+see plenty of people
+[1:56:39] 95, in those extremes.
+[1:56:43] If you look at other sports,
+like football or basketball,
+[1:56:45] they're probably going to
+be in the 55, 65 range.
+[1:56:48] So if you, as, an
+average person are 55,
+[1:56:51] that's a really good
+marker to be in.
+[1:56:53] If you get even close to
+that, you're in a good spot.
+[1:56:56] I'm sorry if I let
+you down, Dave.
+[1:56:57] ANDREW HUBERMAN: No.
+[1:56:58] I just love how you're
+describing this average person,
+[1:57:00] you're looking at me with
+just a little bit of sympathy,
+[1:57:03] like if you reach the
+standard of average, Andrew.
+[1:57:06] Listen, you're giving me
+prompts all over the place
+[1:57:08] to try and improve my metrics,
+whatever they happen to be.
+[1:57:11] And I think that's one of
+the great values of getting
+[1:57:14] objective numbers, even if they
+have to be measured by some
+[1:57:17] of these back-of-the-envelope
+techniques that, I guess,
+[1:57:21] we always teach people
+in the laboratory,
+[1:57:24] that a tool can be
+not extremely precise,
+[1:57:28] but as long as it's reliable,
+there is still value there.
+[1:57:31] I mean, of course, you'd love to
+have the most precise and most
+[1:57:34] reliable tool, but
+if you can't, then
+[1:57:36] at least go for a reliable tool
+and measure for consistency.
+[1:57:39] ANDY GALPIN: Yeah.
+[1:57:40] For the real world,
+reliability beats validity
+[1:57:43] as much as we can.
+[1:57:44] For a lot of the things
+we're talking about,
+[1:57:46] especially for using it as a
+metric of did I get better, as
+[1:57:48] long as that tool is reliable.
+[1:57:50] Body composition, just
+all of these things
+[1:57:51] have inherent error in them.
+[1:57:54] Some of them are smaller,
+some of them are larger,
+[1:57:56] but as you mentioned,
+having standardization
+[1:57:58] within the testing
+protocol is going to allow
+[1:58:00] you to measure progress.
+[1:58:01] And that's going to tell
+you sort of where you're at.
+[1:58:04] Now that we've covered all
+these areas of adaptation,
+[1:58:07] we walked through
+the history, and we
+[1:58:09] walked through a bunch
+of the explanations
+[1:58:11] for why people are maybe not
+getting the results that they
+[1:58:14] want to get through
+their training,
+[1:58:16] the way I would like to go with
+the rest of our conversations
+[1:58:18] would be to just go through
+each of those adaptations step
+[1:58:21] by step and make sure I cover
+very specific protocols for,
+[1:58:24] if you have run
+through this testing
+[1:58:26] and identified an
+area of weakness.
+[1:58:28] So maybe you've been lifting a
+lot because you like lifting,
+[1:58:31] and you maybe realize that
+your cardiovascular fitness
+[1:58:34] or your heart rate recovery is
+not where it really should be
+[1:58:37] or the opposite, like
+we've talked about.
+[1:58:38] Maybe you're doing a lot
+of that type of work,
+[1:58:40] and your strength isn't there.
+[1:58:42] Your movement
+quality is not there.
+[1:58:43] So you've identified a problem.
+[1:58:45] How do I specifically solve it?
+[1:58:47] What are the evidence-based
+and most effective
+[1:58:51] protocols that I can put
+myself in for each one
+[1:58:53] of these categories?
+[1:58:54] And I think that
+would give people
+[1:58:56] a lot of take-home
+value, but it's
+[1:58:59] going to take us
+some time to cover.
+[1:59:00] So it's going to
+have to come across
+[1:59:02] over multiple conversations
+between you and I.
+[1:59:04] ANDREW HUBERMAN: Great.
+[1:59:05] Well, I'm looking
+forward to each
+[1:59:06] and all of those conversations.
+[1:59:08] And I want to add
+just one more metric
+[1:59:12] to our discussion
+today, which is really
+[1:59:14] just my way of saying thank
+you because if there were
+[1:59:17] a metric for amount of useful
+information per sentence spoke,
+[1:59:23] you would be at the upper
+level of that metric.
+[1:59:26] You have this amazing ability
+to provide so much knowledge
+[1:59:30] in a clear and concise and,
+today, listed-out format that
+[1:59:35] is both interesting, grounded
+in science, and actionable.
+[1:59:39] So on behalf of
+everyone listening,
+[1:59:41] and certainly for
+myself as well, I just
+[1:59:43] want to say thank you.
+[1:59:45] ANDY GALPIN: Well, I
+appreciate the compliments.
+[1:59:47] And I'm looking forward
+to the next conversation,
+[1:59:49] jumping right into speed,
+strength, and hypertrophy
+[1:59:52] training and what are
+the evidence-based
+[1:59:55] and best practices for
+protocols in those areas.
+[1:59:57] ANDREW HUBERMAN: If you're
+learning from and/or
+[1:59:59] enjoying this podcast,
+please subscribe
+[2:00:00] to our YouTube channel.
+[2:00:02] That's a terrific,
+zero-cost way to support us.
+[2:00:04] In addition, please
+subscribe to the podcast
+[2:00:06] on Spotify and Apple.
+[2:00:08] And on both Spotify
+and Apple, you
+[2:00:09] can leave us up to
+a five-star review.
+[2:00:11] If you have questions for us
+or comments or suggestions
+[2:00:13] about topics you'd
+like us to cover
+[2:00:15] or guests you'd like me to
+include on the Huberman Lab
+[2:00:17] podcast, please put those in
+the comment section on YouTube.
+[2:00:20] We do read all the comments.
+[2:00:22] Please also check
+out the sponsors
+[2:00:23] mentioned at the beginning
+and during today's episode.
+[2:00:26] That's the best way to
+support this podcast.
+[2:00:28] I'd also like to inform you
+about the Huberman Lab podcast
+[2:00:30] free newsletter.
+[2:00:32] It's called the Neural
+Network Newsletter.
+[2:00:34] And each month, the Neural
+Network Newsletter is sent out,
+[2:00:36] and it contains summaries
+of podcast episodes,
+[2:00:39] specific protocols discussed
+on the Huberman Lab podcast,
+[2:00:42] all in fairly concise format,
+and all completely zero cost.
+[2:00:45] You can sign up for the
+Neural Network Newsletter
+[2:00:47] by going to hubermanlab.com,
+go to the menu
+[2:00:50] and click on Newsletter.
+[2:00:51] You provide us your email.
+[2:00:52] We do not share it with anybody.
+[2:00:54] And as I mentioned before,
+it's completely zero cost.
+[2:00:56] By going to hubermanlab.com, you
+can also go into the Menu tab
+[2:01:00] and go to the Newsletter and
+see some example newsletters
+[2:01:02] from months past.
+[2:01:03] Thank you once again for joining
+me for today's discussion
+[2:01:06] about fitness, exercise, and
+performance with Dr. Andy
+[2:01:08] Galpin.
+[2:01:09] And as always, thank you for
+your interest in science.
+[2:01:12] [MUSIC PLAYING]

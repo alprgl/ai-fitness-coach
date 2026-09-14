@@ -1,0 +1,3691 @@
+# Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory | Huberman Lab Guest Series
+# id=F9KrZd_-ge0 published=2024-04-24 lang=en generated=True
+
+[0:00:00] [Music]
+[0:00:00] welcome to the hubman lab guest Series
+[0:00:02] where I and an expert guest discuss
+[0:00:04] science and science-based tools for
+[0:00:06] everyday
+[0:00:07] life I'm Andrew huberman and I'm a
+[0:00:10] professor of neurobiology and
+[0:00:11] Opthalmology at Stanford School of
+[0:00:13] Medicine today's episode marks the
+[0:00:16] fourth in our sixth episode series all
+[0:00:18] about sleep with expert guest Dr Matthew
+[0:00:20] Walker during today's episode we discuss
+[0:00:22] sleep and learning as well as the impact
+[0:00:25] of sleep and the specific stages of
+[0:00:27] sleep on creativity and memory we talk
+[0:00:29] about when and how long to sleep
+[0:00:31] relative to different bouts of learning
+[0:00:33] as well as the role of naps in
+[0:00:35] consolidating information that you are
+[0:00:36] trying to learn we discuss the science
+[0:00:38] and Protocols of sleep as it relates to
+[0:00:41] both cognitive learning and motor
+[0:00:42] learning and the mechanism by which
+[0:00:44] sleep encodes memories as with the
+[0:00:46] previous episodes in this series today's
+[0:00:48] episode includes information about the
+[0:00:50] biology of sleep as well as practical
+[0:00:52] tools that is protocols in which you can
+[0:00:55] use sleep to improve your learning
+[0:00:57] memory and creativity before we begin
+[0:01:00] I'd like to emphasize that this podcast
+[0:01:01] is separate from my teaching and
+[0:01:02] research roles at Stanford it is however
+[0:01:05] part of my desire and effort to bring
+[0:01:06] zero cost to Consumer information about
+[0:01:08] science and science related tools to the
+[0:01:10] general public in keeping with that
+[0:01:12] theme I'd like to thank the sponsors of
+[0:01:14] today's podcast our first sponsor is
+[0:01:16] Helix sleep Helix sleep makes mattresses
+[0:01:19] and pillows that are customized to your
+[0:01:21] unique sleep needs it's abundantly clear
+[0:01:23] that sleep is the foundation of mental
+[0:01:25] health physical health and performance
+[0:01:27] when we're getting enough quality sleep
+[0:01:29] everything in life goes so much better
+[0:01:30] and when we are not getting enough
+[0:01:31] quality sleep everything in life is that
+[0:01:34] much more challenging now one of the key
+[0:01:35] things to getting a great night's sleep
+[0:01:37] is to have the appropriate mattress
+[0:01:39] everyone however has slightly different
+[0:01:40] needs in terms of what would be the
+[0:01:42] optimal mattress for them Helix
+[0:01:44] understands that people have unique
+[0:01:45] sleep needs and they've designed a brief
+[0:01:47] two-minute quiz that asks you questions
+[0:01:49] like do you sleep on your back your side
+[0:01:51] or your stomach do you tend to run hot
+[0:01:53] or cold during the night or maybe you
+[0:01:54] don't know the answers to those
+[0:01:55] questions if you go to the Helix site
+[0:01:57] and take that brief quiz they'll match
+[0:01:58] you to a mattress that's optimal for you
+[0:02:00] for me it turned out to be the dusk DS
+[0:02:02] mattress it's not too hard not too soft
+[0:02:04] and I sleep so much better on my Helix
+[0:02:06] mattress than on any other type of
+[0:02:08] mattress I've used before so if you're
+[0:02:10] interested in upgrading your mattress go
+[0:02:12] to helixsleep.com
+[0:02:13] huberman take their brief two-minute
+[0:02:15] sleep quiz and they'll match you to a
+[0:02:17] customized mattress for you and you'll
+[0:02:19] get up to $350 off any mattress order
+[0:02:21] and two free pillows again that's
+[0:02:23] helixsleep.com
+[0:02:25] huberman to save up to $350 off and two
+[0:02:28] free pillows today today episode is also
+[0:02:30] brought To Us by whooop whoop is a
+[0:02:33] fitness wearable device that tracks your
+[0:02:34] daily activity and sleep but also goes
+[0:02:36] beyond that by providing real-time
+[0:02:38] feedback on how to adjust your training
+[0:02:40] and sleep schedule to perform better
+[0:02:42] I've been working with whoop on their
+[0:02:43] scientific advisory Council to try and
+[0:02:46] help Advance wop's mission of unlocking
+[0:02:48] Human Performance as a whoop user I've
+[0:02:50] experienced the health benefits of their
+[0:02:51] technology firsthand for sleep tracking
+[0:02:53] for monitoring other features of my
+[0:02:55] physiology and for giving me a lot of
+[0:02:56] feedback about metrics within my brain
+[0:02:59] and body body that tell me how hard I
+[0:03:01] should train or not train and basically
+[0:03:03] point to the things that I'm doing
+[0:03:04] correctly and incorrectly in my daily
+[0:03:06] life that I can adjust using protocols
+[0:03:08] some of which are actually within the
+[0:03:10] whoop app given that many of us have
+[0:03:12] goals such as improving our sleep
+[0:03:13] building better habits or just focusing
+[0:03:16] more on our overall health whoop is one
+[0:03:17] of the tools that can really help you
+[0:03:19] get personalized data recommendations
+[0:03:21] and coaching toward your overall health
+[0:03:23] in addition to being one of the most
+[0:03:24] accurate sleep trackers in the world
+[0:03:26] whoop allows you to recover more quickly
+[0:03:28] and fully from physical exercise and
+[0:03:30] other kinds of stress and thereby to
+[0:03:32] train more effectively and sleep better
+[0:03:34] if you're interested in trying whoop you
+[0:03:35] can go to join. whoop.com huberman today
+[0:03:39] to get your first month free again
+[0:03:41] that's join. woop.com
+[0:03:43] huberman today's episode is also brought
+[0:03:45] To Us by waking up the waking up app is
+[0:03:48] a meditation app that offers hundreds of
+[0:03:50] guided meditations mindfulness trainings
+[0:03:53] yoga need your sessions and more I
+[0:03:55] started meditating over 30 years ago at
+[0:03:57] that time there wasn't very much science
+[0:03:59] on meditation
+[0:04:00] but by now we know that there's a lot of
+[0:04:02] strong science supporting the fact that
+[0:04:04] a daily meditation practice can improve
+[0:04:06] mood focus and alertness and can reduce
+[0:04:09] stress and improve sleep and overall
+[0:04:11] health one thing that I and many others
+[0:04:12] have noticed is that while meditation is
+[0:04:14] excellent for buffering stress it's
+[0:04:16] often times during periods of stress
+[0:04:19] that we let our meditation practice go
+[0:04:21] the waking up app overcomes this by
+[0:04:23] offering meditations of different
+[0:04:24] durations so they have some longer ones
+[0:04:26] of 30 to 60 minutes but also some much
+[0:04:28] briefer ones 10 five and even one minute
+[0:04:30] meditations that are known to be
+[0:04:32] effective so no matter how busy or
+[0:04:34] stressed you get you always make time
+[0:04:35] for your meditation practice the fact
+[0:04:37] that they have lots of different types
+[0:04:38] of meditations and Yoga Nidra sessions
+[0:04:40] and non-sleep deep rest protocols also
+[0:04:42] make sure that your meditations are kept
+[0:04:44] fresh and interesting you never get
+[0:04:45] bored of them I personally use the
+[0:04:47] waking up app to do a 5 to 10minute
+[0:04:49] meditation or a non-sleep deep rest
+[0:04:51] protocol which is similar to yoga Nedra
+[0:04:53] each and every day and if I miss a day I
+[0:04:55] try and double up the amount of time
+[0:04:57] that I do nsdr Yoga Nidra or medit the
+[0:05:00] following day yoga NRA and non-sleep
+[0:05:02] deep rest protocols can be done
+[0:05:04] essentially any time of day in order to
+[0:05:06] restore mental and physical Vigor I'll
+[0:05:08] sometimes do one first thing in the
+[0:05:09] morning if I wake up and I feel I didn't
+[0:05:11] get quite enough sleep the previous
+[0:05:12] night you can also do yoga NRA or nsdr
+[0:05:15] in the middle of the night if you wake
+[0:05:17] up and you're having trouble falling
+[0:05:18] back asleep sometimes they will allow
+[0:05:19] you to fall back asleep and if they
+[0:05:21] don't you'll still feel more refreshed
+[0:05:23] than you would have had you been tossing
+[0:05:24] and turning and worrying about not
+[0:05:26] getting sleep so nsdr and yoga Nedra are
+[0:05:29] terrific for both restoring mental and
+[0:05:31] physical Vigor and potentially for
+[0:05:33] restoring sleep that you otherwise would
+[0:05:35] have missed if you'd like to try the
+[0:05:36] waking up app you can go to waking
+[0:05:38] up.com huberman to get a free 30-day
+[0:05:41] trial again that's waking up.com
+[0:05:44] huberman and now for my conversation
+[0:05:46] with Dr Matthew Walker Dr Walker Dr
+[0:05:49] hubman welcome back we have covered a
+[0:05:52] lot of material first episode of this
+[0:05:55] series you gave us an overview of sleep
+[0:05:58] and some actionable items about sleep
+[0:06:00] then in the second episode you gave us
+[0:06:03] far more actionable items of how to
+[0:06:06] think about one sleep in a way that
+[0:06:09] leads to very concrete decisions about
+[0:06:12] controlling light temperature when to
+[0:06:14] sleep and then some really
+[0:06:16] in-depth Advanced tools or protocols as
+[0:06:20] we call them and then in the third
+[0:06:22] episode we talked about caffeine and
+[0:06:26] napping and some other things that
+[0:06:28] people can do to really supercharg their
+[0:06:30] alertness through sleep augmentation in
+[0:06:33] the daytime and today we're going to
+[0:06:36] talk about sleep learning in memory and
+[0:06:40] a topic that I know everybody is very
+[0:06:42] interested in creativity indeed
+[0:06:46] resplendant pleasure to be back on the
+[0:06:48] show thank you for having me yeah
+[0:06:49] absolutely so I think nowadays most
+[0:06:53] people understand that there's some
+[0:06:55] relationship between sleep and learning
+[0:06:58] but I think think it would still be a
+[0:07:00] good idea for us to zoom out a bit and
+[0:07:03] establish what that relationship is you
+[0:07:05] know I I think most people are familiar
+[0:07:07] with being exposed to some new material
+[0:07:10] cognitive material physical uh skill
+[0:07:12] material and not being able to learn it
+[0:07:15] right away but then having a few days in
+[0:07:18] between and then all of a sudden voila
+[0:07:20] yeah there's uh the skill has been
+[0:07:23] embedded it seems but not obvious in
+[0:07:27] that scenario is that sleep is perhaps
+[0:07:29] the pivotal event that allowed the
+[0:07:31] learning process to take place so how do
+[0:07:34] you think about sleep as it relates to
+[0:07:36] learning and memory I think I've
+[0:07:39] conceptualized it in three different
+[0:07:41] stages or three different buckets of a
+[0:07:44] benefit the first is that we need sleep
+[0:07:48] before learning to prepare your brain to
+[0:07:52] initially imprint and lay those memory
+[0:07:56] traces down but then you need to sleep
+[0:08:01] after learning to take those sort of
+[0:08:03] freshly minted memories and then save
+[0:08:07] them and cement them into the brain so
+[0:08:10] that you don't lose them the third
+[0:08:13] domain is that sleep will then take
+[0:08:16] those new memories that you've been
+[0:08:18] learning and it will start to collide
+[0:08:20] them with all of this back catalog of
+[0:08:24] information that you've already got
+[0:08:25] stored in your brain and it updates the
+[0:08:29] iOS of your informational systems so
+[0:08:33] that then you come back the next day and
+[0:08:36] you have a better abled ability to
+[0:08:40] understand how the world Works in other
+[0:08:42] words the difference between knowledge
+[0:08:44] which is learning the facts and wisdom
+[0:08:47] which is knowing what it all means when
+[0:08:49] you put it together that's the third
+[0:08:52] category and why is that beneficial
+[0:08:55] because it provides you with creative
+[0:08:57] insights and so we will will perhaps
+[0:09:00] just double click on each of those three
+[0:09:02] and I can I can expand them because the
+[0:09:05] data behind them is utterly fascinating
+[0:09:08] as you said I think many people
+[0:09:09] subjectively have a sense that sleep
+[0:09:12] helps me with my memory in some way but
+[0:09:15] in what way and for people I think one
+[0:09:18] of the things that you do here is not
+[0:09:19] just protocols but you help explain the
+[0:09:23] conceptual understanding or the
+[0:09:25] conceptual mechanisms underlying the
+[0:09:28] reasons for all of the these protocols
+[0:09:30] and I would love to dive into detail
+[0:09:32] yeah so let's do that let's talk about
+[0:09:34] this business of sleeping before
+[0:09:36] learning you know
+[0:09:38] essentially establishing a millu within
+[0:09:41] the brain that is optimal for learning
+[0:09:43] what what is that about and
+[0:09:45] neurochemically at the level of circuits
+[0:09:48] and um what is the evidence that
+[0:09:51] providing some I don't know additional
+[0:09:53] sleep or just adequate sleep prior to
+[0:09:55] the exposure to the new material can be
+[0:09:57] beneficial yeah I that word that optimal
+[0:10:01] millu and it beautifully describes what
+[0:10:03] we found we started off asking a very
+[0:10:06] simple question at my sleep center is
+[0:10:10] pulling the allnighter a wise
+[0:10:13] idea so we took a group of perfectly
+[0:10:15] healthy smart individuals and we
+[0:10:18] assigned them to one of two experimental
+[0:10:20] groups a sleep group and a sleep
+[0:10:22] deprivation
+[0:10:23] group and both of those groups went
+[0:10:27] through those two different protocols
+[0:10:28] and then the next next day after sleep
+[0:10:30] or after no sleep we put them inside of
+[0:10:33] a brain scanner and we had them try and
+[0:10:36] learn a whole list of new facts as we
+[0:10:39] were taking snapshots of brain activity
+[0:10:42] and then we tested them to see how
+[0:10:44] effective that learning had been when we
+[0:10:47] looked at the group that had had a full
+[0:10:49] night of sleep they had incredibly
+[0:10:52] efficient learning capacity so in other
+[0:10:54] words they had learned and imprinted
+[0:10:57] that information initially very well
+[0:10:59] well when we looked at the sleep
+[0:11:01] deprivation group not so much in fact
+[0:11:04] there was a 40% deficit in the ability
+[0:11:08] of the brain to make new memories
+[0:11:10] without sleep and we've used lots of
+[0:11:13] different types we've replicated that
+[0:11:15] now we've had visual information we've
+[0:11:17] had textbook like information and the
+[0:11:20] range is somewhere between 20 to
+[0:11:23] 40% I find that by the way striking and
+[0:11:26] we can come back to this based on what
+[0:11:28] we are seeing in our Educational Systems
+[0:11:31] right now there is this parcity of sleep
+[0:11:34] because of this model of early school
+[0:11:36] start times and I'll explain exactly
+[0:11:38] what's happened there and what we've
+[0:11:39] been doing to try to change that but
+[0:11:42] coming back to those two groups the
+[0:11:45] Sleep group and the sleep deprivation
+[0:11:46] group what was going on as you said
+[0:11:49] inside of the brain that would help us
+[0:11:52] understand why they couldn't learn or at
+[0:11:54] least couldn't learn
+[0:11:56] effectively and the structure that we
+[0:11:58] focused on is one you've spoken about
+[0:11:59] before called the
+[0:12:01] hippocampus and you have one on the left
+[0:12:03] side and the right side of your brain it
+[0:12:05] looks like a long cigar that runs down
+[0:12:07] the left and right side of your brain
+[0:12:10] and people listening can think of the
+[0:12:11] hippocampus almost like the
+[0:12:13] informational inbox of your brain it's
+[0:12:15] very good at receiving new memory files
+[0:12:18] and then holding on to them and when we
+[0:12:20] looked at that structure and its
+[0:12:22] activity during learning in the Sleep
+[0:12:24] group they had wonderful powerful
+[0:12:26] activation of the hippocampus as if it
+[0:12:28] was gobbling up all of that new
+[0:12:30] information into the inbox when we
+[0:12:32] looked at the sleep deprivation group
+[0:12:34] however we couldn't find any significant
+[0:12:37] signal
+[0:12:39] whatsoever so it was almost as though
+[0:12:41] sleep deprivation had shut down the
+[0:12:44] memory inbox and any new incoming files
+[0:12:47] they were just being bounced you
+[0:12:49] couldn't effectively commit new
+[0:12:51] experiences to memory and then
+[0:12:54] subsequent stes that were not done by us
+[0:12:56] but uh looking at animal models they
+[0:12:59] were looking at how able the synapses
+[0:13:03] are in that memory structure the
+[0:13:05] hippocampus how capable those synapses
+[0:13:08] are for building new connections and the
+[0:13:11] synapses are just those connections
+[0:13:13] between neurons and we think that part
+[0:13:15] of the way that we make memories is by
+[0:13:17] strengthening the connection in the
+[0:13:20] memory circuit itself and what they
+[0:13:22] found was that when they restricted the
+[0:13:25] sleep of these rats or the mice that
+[0:13:28] part of the brain became very stubborn
+[0:13:31] it just wouldn't form those new synaptic
+[0:13:34] connections and something that we call
+[0:13:36] synaptic
+[0:13:38] plasticity so we started to understand
+[0:13:41] this was the bad that happened when you
+[0:13:43] take sleep away but let's come back to
+[0:13:46] that control group that I said got a
+[0:13:48] full night of sleep exactly what is it
+[0:13:52] about sleep when you do get it that
+[0:13:54] seems to support and promote your
+[0:13:56] learning
+[0:13:57] ability so we decided just do another
+[0:14:00] different study instead of manipulating
+[0:14:01] sleep by dialing it down we instead
+[0:14:04] tried to dial it up by way of a daytime
+[0:14:07] nap and again we took two groups and we
+[0:14:10] had them initially learn again a huge
+[0:14:13] amount of factual information they
+[0:14:15] learned it over and over and over again
+[0:14:18] and then we brought them back 6 hours
+[0:14:21] later at 6pm and now we had them learn a
+[0:14:25] whole new set of information and after
+[0:14:28] each one of of those fresh novel
+[0:14:30] learning sessions we tested them to see
+[0:14:32] how effective that learning had been
+[0:14:35] again one of those groups spent that 6
+[0:14:38] hours of time awake doing just relaxing
+[0:14:41] activities the other group was able to
+[0:14:44] obtain a 90-minute nap and we Ed that
+[0:14:47] 90-minute nap to allow them to go
+[0:14:48] through a full sort of average cycle to
+[0:14:51] get some non-rem and to get some
+[0:14:53] REM what was interesting is that when we
+[0:14:55] tested the group that remained awake
+[0:14:58] later that fall following day the
+[0:15:00] learning capacity had
+[0:15:03] declined but in the nap group it seemed
+[0:15:06] to restore the brain's capacity to learn
+[0:15:10] and you didn't get that decline in
+[0:15:12] memory in fact if anything you got a
+[0:15:14] little boost and the difference between
+[0:15:16] those two was about 20% so it's quite a
+[0:15:19] nice benefit yeah not trivial not
+[0:15:21] trivial at all and then we said okay
+[0:15:24] well if sleep is doing something what is
+[0:15:26] it about that sleep so we unpacked the
+[0:15:29] physiology of sleep and the different
+[0:15:31] stages of sleep that we discussed in the
+[0:15:33] first episode and what we found was that
+[0:15:36] it was the nonrapid eye movement sleep
+[0:15:38] or the non-rm sleep and particularly
+[0:15:40] those sleep spindles those short bursts
+[0:15:43] of electrical activity that we have
+[0:15:45] discussed before that seemed to predict
+[0:15:48] how restored and refreshed your learning
+[0:15:52] ability
+[0:15:53] was and the best way that I've been
+[0:15:56] thinking about this in terms of sleep
+[0:15:59] storing or refreshing your encoding
+[0:16:01] ability and it's a crash analogy and I
+[0:16:03] don't mean to make a direct brain to
+[0:16:05] computer analogy but think of that
+[0:16:08] hippocampus almost like a USB stick
+[0:16:10] that's very good during the day at going
+[0:16:12] around and grabbing new files but it has
+[0:16:15] a limited storage
+[0:16:17] capacity and what sleep was doing seemed
+[0:16:20] to be shifting those memories from the
+[0:16:23] USB stick of your hippocampus over up to
+[0:16:26] the cortex which you can think of almost
+[0:16:28] like your hard drive a much bigger
+[0:16:30] storage capacity and by way of doing
+[0:16:32] that when you woke up after the nap or
+[0:16:35] after a full night of sleep you had this
+[0:16:37] cleared out USB stick so what could you
+[0:16:39] do you could go around and start
+[0:16:41] acquiring all these new files
+[0:16:44] again so that started to teach us a
+[0:16:47] little bit about why sleep before
+[0:16:49] learning is critical but also
+[0:16:52] mechanistically how sleep is doing this
+[0:16:55] remarkable work of memory restoration
+[0:16:59] we then wanted to say well can we
+[0:17:01] translate this out into the real world
+[0:17:04] and I think there are two regions that
+[0:17:06] we've moved this workout into one is
+[0:17:08] education one is is medicine and
+[0:17:10] Alzheimer's disease but the education
+[0:17:13] piece was very
+[0:17:14] interesting in the United States I think
+[0:17:17] the last time I checked the average
+[0:17:18] school start time is somewhere around
+[0:17:21] 7:30 745 sounds about right and if you
+[0:17:26] think about that for 7:30 school start
+[0:17:28] time
+[0:17:29] school buses will begin leaving around
+[0:17:32] 5:30 5:45 in the morning mhm that means
+[0:17:36] that some kids are having to wake up at
+[0:17:39] 5:00 a.m. maybe even earlier this is
+[0:17:42] lunacy when you think about it there's a
+[0:17:45] great study in edner I hope I'm
+[0:17:48] pronouncing that correct edner which is
+[0:17:50] a small suburb or it sits in a small
+[0:17:52] suburb outside of Minneapolis in
+[0:17:54] Minnesota and they shifted their school
+[0:17:56] start times from 7:25 5 to 8:30 in the
+[0:18:01] morning and then they wanted to ask what
+[0:18:03] is the consequence of that on the
+[0:18:06] academic performance of their students
+[0:18:08] and the metric that they used in these
+[0:18:10] teenagers that they were focusing on was
+[0:18:12] something called the SAT score which is
+[0:18:15] a score I had to learn when I first came
+[0:18:16] to the United States is a critical
+[0:18:19] assessment test that will largely
+[0:18:21] determine which university you go to and
+[0:18:25] they did an analysis which was clever
+[0:18:27] they focused on the top 10% performing
+[0:18:30] students which you could argue those are
+[0:18:33] the ones that are closest to the ceiling
+[0:18:35] performance and the hardest to expect
+[0:18:37] any benefit from sleep so in the year
+[0:18:40] before they made the time change the
+[0:18:43] average score of those top 10%
+[0:18:45] performing students was
+[0:18:47] 1,288 which turns out to be a pretty
+[0:18:50] good SAT score the following year after
+[0:18:54] they made the time change the average
+[0:18:56] score for that top 10%
+[0:18:59] was
+[0:19:02] 1,500 that difference is non-trivial and
+[0:19:06] it will change exactly where those
+[0:19:09] individuals will go to university in
+[0:19:11] terms of the tier of the university and
+[0:19:13] likely change the trajectory of their
+[0:19:15] lives as a consequence now some people
+[0:19:18] have argued that data you know in terms
+[0:19:21] of its source and its reliability may
+[0:19:23] not have necessarily been accurate but
+[0:19:25] now we've got very consistent data when
+[0:19:28] you start school times later academic
+[0:19:32] grades improve psychological and
+[0:19:35] psychiatric problems decrease truancy
+[0:19:38] rates
+[0:19:40] decrease but something else happened in
+[0:19:42] that story of later school start times
+[0:19:44] that we didn't expect which was that the
+[0:19:47] life expectancy of students increased
+[0:19:50] and you think well hang on a second how
+[0:19:52] do you determine that the number one
+[0:19:56] cause of death in teenagers 16 to 18 is
+[0:20:00] actually not suicide turns out to be
+[0:20:02] second it's road traffic
+[0:20:05] accidents and here sleep matters
+[0:20:08] enormously there was another great
+[0:20:09] example from tetan County in Wyoming and
+[0:20:13] they shifted their school start times
+[0:20:15] from I think it was 7:35 in the morning
+[0:20:17] to
+[0:20:18] 8:55 and the only thing more remarkable
+[0:20:21] than the extra 1 hour of sleep those
+[0:20:22] kids reported getting was the drop in
+[0:20:25] car accidents that following year there
+[0:20:28] was a 70% reduction in car crashes in
+[0:20:32] that age range of 16 to 18 what time are
+[0:20:34] they getting out of school well they
+[0:20:37] will probably be ejected out of school
+[0:20:39] that's another interesting part by the
+[0:20:40] way maybe around
+[0:20:43] 4:30 and people have said well look all
+[0:20:46] of this idea of later school start times
+[0:20:50] it means that it's going to cost us more
+[0:20:52] cuz you've got to change the school bus
+[0:20:54] system and they've argued push back
+[0:20:57] against that and I would say
+[0:20:59] probably two things first I know it's
+[0:21:02] difficult and I'm not saying it's an
+[0:21:03] easy problem to do it's a complex
+[0:21:05] problem and I'm sympathetic to that but
+[0:21:08] I I think we've put people on the moon
+[0:21:11] and so I suspect that we can also solve
+[0:21:14] the problem of early school start
+[0:21:16] times the the other component of that
+[0:21:21] is what are we doing as Educators if our
+[0:21:26] goal as educat is true truly to educate
+[0:21:30] and not risk lives in the process then
+[0:21:33] we are failing our children in a most
+[0:21:36] spectacular manner with this incessant
+[0:21:38] model of early school start times and if
+[0:21:41] you look at the data it's very clear
+[0:21:44] when sleep is abundant Minds flourish
+[0:21:48] and when it's not they
+[0:21:51] don't and so that's the reason why
+[0:21:53] myself and a whole group of sleep
+[0:21:55] scientists we started to try to create a
+[0:21:58] movement for later school start times
+[0:22:00] and we got this bill passed firstly in
+[0:22:03] California we got it on the governor's
+[0:22:04] desk at the time who was governor uh
+[0:22:07] Brown and unfortunately he didn't sign
+[0:22:09] it into law then when the organization
+[0:22:14] changed and Governor nusum came in as
+[0:22:16] governor of California we got the bill
+[0:22:18] back on the on his desk and he did sign
+[0:22:20] it and then uh the next state to go was
+[0:22:23] New York they started to put in
+[0:22:26] legislation for recommendations for
+[0:22:27] later school start times I think Florida
+[0:22:29] is about to fall as well in that regard
+[0:22:33] so there's gradual movement happening
+[0:22:36] but it's hard fought and it's it's
+[0:22:40] problematic I still think that it's it's
+[0:22:43] impossible to deny that data I mean it
+[0:22:46] was an interesting thing I remember when
+[0:22:48] I was a professor back at Harvard we
+[0:22:51] were doing this work on sleep and and
+[0:22:54] learning and they said and it was sort
+[0:22:56] of published in these sort of um kindly
+[0:22:59] I don't know how we did it but in nice
+[0:23:01] journals and they said okay based on the
+[0:23:04] media attraction would you write an
+[0:23:05] editorial for the Harvard newspaper
+[0:23:07] which was called the Harvard Crimson I
+[0:23:08] said I'd love to so at first I thought
+[0:23:11] I'm just going to write a straight piece
+[0:23:12] about sleep and memory and why it's
+[0:23:14] important then I realized no there's a
+[0:23:16] better opportunity because teaching
+[0:23:18] there and you know this as well as I do
+[0:23:21] there is this bizarre system where we
+[0:23:23] teach for an entire semester and then we
+[0:23:25] endload the semester full of exam in
+[0:23:29] this stressful 2E period and what do you
+[0:23:31] think is going to happen they're not
+[0:23:33] going to sleep especially at a time when
+[0:23:36] they're trying to cram information so
+[0:23:39] especially in college where you don't
+[0:23:40] actually have the material four weeks
+[0:23:43] before so there's not really the option
+[0:23:45] to learn it in advance no everything's
+[0:23:48] about University to me was about getting
+[0:23:51] a bunch of information and needing to
+[0:23:52] incorporate it very quickly and then
+[0:23:54] move to the next item right next item
+[0:23:56] next item and then all of a sudden
+[0:23:58] there's this cataclysmic moment at the
+[0:24:00] end of the semester and you are supposed
+[0:24:01] to regurgitate this by cramming
+[0:24:04] everything into your brain in this
+[0:24:05] Sleepless twoe period so rather than
+[0:24:09] saying look the students need to change
+[0:24:11] their behavior they need to understand
+[0:24:13] this is problem it's not their fault I
+[0:24:16] said it's us as Educators and
+[0:24:19] administrators we have created a system
+[0:24:22] that forces them to undergo deliberate
+[0:24:25] sleep deprivation and we are educating
+[0:24:28] them amnesic quite
+[0:24:30] literally so I put this uh editorial out
+[0:24:35] it received a um a rather Baltic if not
+[0:24:40] Arctic response and um that was the last
+[0:24:43] editorial I was ever invited to to write
+[0:24:46] for the newspaper but you know you've
+[0:24:49] got to say your piece well so but I'm
+[0:24:52] curious why there's resistance to
+[0:24:54] shifting to later School times and to
+[0:24:57] improving the conditions for learning if
+[0:24:59] the goal is to learn I mean tradition
+[0:25:02] dies hard um maybe that's why um I think
+[0:25:05] there's also the idea certainly in the
+[0:25:07] medical profession that you know well
+[0:25:09] when I was doing my training we would
+[0:25:11] pull all nighters all the time um and so
+[0:25:14] the idea then is that it's just part of
+[0:25:16] The self-directed Hazing process that is
+[0:25:18] getting a degree that you're going to be
+[0:25:21] doing a lot of allnighters and cramming
+[0:25:22] and things of that sort is that is that
+[0:25:24] why you think motivates the the
+[0:25:26] resistance to change I think so I think
+[0:25:28] you've hit all the points I think you
+[0:25:29] know Zeitgeist die one generation at a
+[0:25:32] time and we see that resistance
+[0:25:36] certainly there
+[0:25:37] too I also think that when you come back
+[0:25:40] to later school start
+[0:25:43] times they have suggested that there is
+[0:25:46] this cost when they tally it up but you
+[0:25:49] made a point which is when did they get
+[0:25:51] out of school and let's say it's around
+[0:25:53] 4:30 one of the interesting analyses
+[0:25:55] that was published and we latched on to
+[0:25:57] this
+[0:25:59] that is this strange bewitching hour
+[0:26:02] when kids get out of school but often
+[0:26:05] their parents are not home to work and
+[0:26:08] if you look at the Teenage Crime rate
+[0:26:11] and you look at when those crimes are
+[0:26:13] committed it's usually in that
+[0:26:14] bewitching hour after they get out of
+[0:26:17] school but they don't have a home or
+[0:26:20] parents yet to go to that filled but by
+[0:26:23] pushing school start times later they
+[0:26:25] get out later they go home
+[0:26:28] and if you were to even half that debt
+[0:26:31] that those crimes cause you would easily
+[0:26:35] pay for the education system so it's
+[0:26:39] very interesting I think that also
+[0:26:41] notion of well we went through it and
+[0:26:46] here I am so you can go through it too
+[0:26:48] is very prevalent in medicine this is
+[0:26:50] another good
+[0:26:51] example we and mostly um colleagues at
+[0:26:54] mine such as Charles Eisler at Harvard
+[0:26:57] have really done a great job job at
+[0:26:58] cataloging exactly why we need to
+[0:27:00] abandon this resident program which has
+[0:27:03] a fascinating history by the
+[0:27:05] way which is Young residents should be
+[0:27:08] working 30-hour shifts often without any
+[0:27:11] sleep whatsoever and when you look at
+[0:27:13] that data residents who are working a
+[0:27:15] 30-hour shift are going to be almost 460
+[0:27:19] more likely to make diagnostic errors in
+[0:27:21] the Intensive Care Unit if you have a
+[0:27:24] surgeon and you're getting elective
+[0:27:26] surgery who's had less than 6 hours of
+[0:27:29] sleep in the previous 24 they are almost
+[0:27:32] 70% more likely to cause a surgical
+[0:27:36] error which could result in non-trivial
+[0:27:40] consequences and then the irony is that
+[0:27:43] when young residents after a 30-hour
+[0:27:45] shift get back into their car at the end
+[0:27:48] of the shift and drive home there is
+[0:27:51] 168% increased risk that they get into a
+[0:27:54] car accident and then end up back in the
+[0:27:57] ER from where they just came but now as
+[0:27:59] a patient rather than a physician and
+[0:28:02] you think what are we doing I Charles SE
+[0:28:05] I think has
+[0:28:06] described they provided this evidence to
+[0:28:11] the council and at first they just I
+[0:28:14] think the idea was look our minds are
+[0:28:16] made up don't confuse me with the
+[0:28:19] data and you appeal on the empathetic
+[0:28:22] basis but it wasn't well received so
+[0:28:26] then if you go back and you say no I'm
+[0:28:28] going to give you a different argument
+[0:28:29] if you look at the cost of malpractice
+[0:28:31] caused by insufficient sleep and if you
+[0:28:34] get the administrators into the room all
+[0:28:36] of a sudden the schedules change so then
+[0:28:39] based on that data there was a policy
+[0:28:41] that you couldn't work any longer than I
+[0:28:43] think it was a 16h hour continuous
+[0:28:47] shift the problem was that they only
+[0:28:49] said that that was apparent for the
+[0:28:51] first year residence and not the
+[0:28:53] remaining years and the question was
+[0:28:55] well why I said well the data that you
+[0:28:57] showed us you only collected in firste
+[0:28:59] Residence as if something magical was
+[0:29:02] going to happen when you become a
+[0:29:03] second-year resident and you Dawn this
+[0:29:06] TEF long coat of immunity against sleep
+[0:29:09] deprivation well if anything it would
+[0:29:10] compound to get worse so so it seems to
+[0:29:13] me that um there's there's like zero
+[0:29:18] question that getting adequate sleep is
+[0:29:21] good for learning but and when the
+[0:29:23] stakes when it's high-risk High
+[0:29:24] consequences scenarios or even high
+[0:29:26] consequences scenarios like a
+[0:29:28] medical situation um just seems like uh
+[0:29:32] should almost come down to Legal
+[0:29:34] liability yeah I'd like to take a brief
+[0:29:36] break and acknowledge our sponsor ag1
+[0:29:39] ag1 is a vitamin mineral probiotic drink
+[0:29:42] that also contains adaptogens and is
+[0:29:44] designed to meet all of your
+[0:29:45] foundational nutritional needs by now
+[0:29:47] I'm sure you've all heard me say that
+[0:29:49] I've been taking ag1 since 2012 and
+[0:29:51] indeed that is true now of course I do
+[0:29:54] consume regular Whole Foods every day I
+[0:29:56] strive to get those Foods mostly from
+[0:29:59] unprocessed or minimally processed
+[0:30:00] sources however I do find it hard to get
+[0:30:03] enough servings of fruits and vegetables
+[0:30:05] each day so with ag1 I ensure that I get
+[0:30:07] enough of the vitamins minerals
+[0:30:09] Prebiotic fiber and other things
+[0:30:11] typically found in fruits or vegetables
+[0:30:12] and of course I still make sure to eat
+[0:30:14] fruits and vegetables and in that way
+[0:30:16] provide a sort of insurance that I'm
+[0:30:18] getting enough of what I need in
+[0:30:19] addition the adaptogens and other
+[0:30:21] micronutrients in ag1 really help buffer
+[0:30:23] against stress and ensure that the cells
+[0:30:25] and organs and tissues of my body are
+[0:30:27] getting the things they need people
+[0:30:29] often ask me that if they were going to
+[0:30:30] take Just One supplement what that
+[0:30:32] supplement should be and I always answer
+[0:30:34] ag1 if you'd like to try ag1 you can go
+[0:30:36] to drink a1.com huberman to claim a
+[0:30:39] special offer you'll get five free
+[0:30:41] travel packs plus a year supply of
+[0:30:43] vitamin D3 K2 again that's drink a1.com
+[0:30:48] huberman so are the
+[0:30:51] errors of sleep deprivation in these
+[0:30:55] scenarios both in students and medical
+[0:30:57] professional are they due to errors in
+[0:31:00] memory per se I mean so I mean because
+[0:31:03] you can imagine all sorts of Errors so
+[0:31:04] with a surgeon they like cut the wrong
+[0:31:06] thing or they cut too far the margin on
+[0:31:08] the surgical side is too big Etc but
+[0:31:11] since we're talking about learning in
+[0:31:12] memory um and its relationship to sleep
+[0:31:16] uh is it that people are forgetting what
+[0:31:18] they did are they forgetting what they
+[0:31:19] didn't do I mean um or is it a deficit
+[0:31:23] in motor skills or all of the above it's
+[0:31:25] all of the above above plus which is
+[0:31:28] that learning in memory your
+[0:31:29] recollection of both what you did or
+[0:31:32] what you need to do or what you should
+[0:31:34] do based on your training is going to be
+[0:31:35] compromised because your recall of that
+[0:31:37] information it turns out is also
+[0:31:39] compromised but it's also
+[0:31:40] decision-making too that what we know is
+[0:31:43] that your frontal lobe is especially
+[0:31:45] sensitive to a lack of sleep and it's
+[0:31:48] that frontal lobe that really takes
+[0:31:50] complex situations to Stills them down
+[0:31:53] and comes up with the correct output
+[0:31:55] scenario of decisions that you need to
+[0:31:57] make
+[0:31:58] not so much when you're sleep deprived
+[0:32:01] so how should I establish the
+[0:32:03] proper neural millu for learning by
+[0:32:07] sleeping prior should I make sure that I
+[0:32:09] I mean in an Ideal World I get excellent
+[0:32:11] night sleep for the you know every day
+[0:32:14] of my life leading up to about of
+[0:32:16] learning being Expo and here I'm
+[0:32:17] referring to about of learning as being
+[0:32:19] exposed to new material
+[0:32:21] but life happens um so if I know that
+[0:32:26] tomorrow I'm going to take a class in
+[0:32:28] something or I'm going to need to
+[0:32:31] perform a skill that it's pretty nent
+[0:32:33] skill for me I only learned it recently
+[0:32:36] what should I do the night
+[0:32:38] before I would say think about what you
+[0:32:42] can get in terms of your sleep under
+[0:32:44] current conditions and understand that
+[0:32:47] that
+[0:32:49] is staying awake and foregoing
+[0:32:53] sleep is not the right equation that you
+[0:32:55] may think in other words think of sleep
+[0:32:59] that night as an investment in tomorrow
+[0:33:02] rather than a cost opportunity of now or
+[0:33:05] today that would be the message I think
+[0:33:08] for learning in memory some people will
+[0:33:11] say logically and rationally well but if
+[0:33:14] I stay awake I can at least be learning
+[0:33:17] and going over that material for many
+[0:33:19] more hours so doesn't that compensate
+[0:33:22] for me going to bed let's say I haven't
+[0:33:25] learned it well enough well surely I
+[0:33:27] should just you know say I I should just
+[0:33:30] focus and stay awake CU at least then I
+[0:33:32] can just go over the material Time and
+[0:33:34] Time and Time Again doesn't that offset
+[0:33:36] the the deficit and to a degree it does
+[0:33:39] we did that study but what was really
+[0:33:41] interesting is that the next day were
+[0:33:44] you able to at least learn and recall
+[0:33:47] some of that information to a degree yes
+[0:33:50] you were and the more that you kept
+[0:33:52] going over it the better you performed
+[0:33:55] even when you were not getting
+[0:33:56] sufficient sleep but then we did
+[0:33:58] something interesting we then brought
+[0:34:00] them back we haven't published this this
+[0:34:01] day I should do we brought them back a
+[0:34:04] month later and then we tested them
+[0:34:07] again and what you find is that the
+[0:34:09] group that slept was far better able to
+[0:34:13] have retained and remember that
+[0:34:16] information whereas the group that did
+[0:34:18] not sleep as much they performed much
+[0:34:22] more similar to the group that got a
+[0:34:24] full night of sleep the next day but
+[0:34:26] when you test them a month later almost
+[0:34:29] none of that material is residing in
+[0:34:32] their brain anymore got it so this is
+[0:34:34] the cramming effect that's right right
+[0:34:37] and and if one knows this from teaching
+[0:34:39] university courses um or if they've
+[0:34:42] crammed that you can learn a bunch of
+[0:34:43] material but then you regurgitate it for
+[0:34:46] the exam and then it's gone yeah so so
+[0:34:48] it's almost like a it just never passes
+[0:34:51] from short-term to long-term memory
+[0:34:53] essentially that's correct okay and that
+[0:34:55] seems to be in some ways that's a
+[0:34:57] beautiful description of then what
+[0:34:59] happens next in the Sleep process it's
+[0:35:01] not just about sleep before learning you
+[0:35:03] then have to sleep after learning to do
+[0:35:06] exactly what you just described
+[0:35:09] so I have an class in the morning or I'm
+[0:35:13] going to learn something new the next
+[0:35:15] day afternoon my goal presumably should
+[0:35:19] be to maximize the amount of sleep I
+[0:35:22] get and to be on the same sleep schedule
+[0:35:25] so this gets back to qqr that was
+[0:35:27] presented in the first episode quantity
+[0:35:30] quality regularity and timing I people
+[0:35:33] should refer to that um nothing wrong
+[0:35:35] with your memory by the way well I don't
+[0:35:37] know about that but um the um the qqt
+[0:35:41] formula was was described in the first
+[0:35:42] episode um let's come up with a what I
+[0:35:46] think is a fairly common scenario so I
+[0:35:48] like to go to bed early between 800 and
+[0:35:50] 9:00 p.m. I discovered this recently
+[0:35:52] thanks to conversations with you this is
+[0:35:53] clearly what works best for me I kind of
+[0:35:55] always inted it but I um it clearly is
+[0:35:58] what works best if I go to bed at 10:00
+[0:36:01] I probably want to wake up sometime
+[0:36:03] around I don't know 6:00 a.m. or or 6:30
+[0:36:05] and um if I go to bed any later than
+[0:36:07] 10:30 I start running into problems I
+[0:36:09] don't feel good the next day even if I
+[0:36:11] get sufficient hours of sleep so this is
+[0:36:13] the importance of regularity and timing
+[0:36:15] keeping things more or less locked to
+[0:36:16] that 8:30 to 9:30 to bedtime for me 4:30
+[0:36:20] to 5:30 wake up time that's me just by
+[0:36:23] way of example in an Ideal World
+[0:36:25] therefore I would stick to that schedule
+[0:36:28] wake up the next day and go do my
+[0:36:30] learning or my performance of something
+[0:36:32] that I'd learned someone else might have
+[0:36:34] the chronotype we're going to bed at
+[0:36:35] 11:00 p.m. and waking up at 7:30 a.m. is
+[0:36:38] their preferred schedule
+[0:36:41] however often because of travel because
+[0:36:44] of courses because of Life
+[0:36:46] circumstances the night before something
+[0:36:48] critical that we need to learn or to
+[0:36:52] perform some critical task physical or
+[0:36:54] cognitive the Sleep the night before is
+[0:36:56] disrupted in some way either by virtue
+[0:36:58] of timing or quantity and then of course
+[0:37:02] by extension regularity so is there
+[0:37:05] anything that we can do heading into a
+[0:37:07] bout of learning meaning the night
+[0:37:10] preceding that bout of learning that can
+[0:37:12] kind of um provide a buffer or or set us
+[0:37:16] up for the best possible learning
+[0:37:18] scenario if we're not able to stick to
+[0:37:19] our perfect
+[0:37:21] schedule I think there may be two things
+[0:37:23] there's been a little bit of work that's
+[0:37:25] been done um to suggest that caffeine
+[0:37:28] may actually enhance the hippocampus
+[0:37:31] this memory encoding structure and boost
+[0:37:34] its ability to encode now what they
+[0:37:37] haven't yet done is the study where you
+[0:37:40] sleep deprive someone then you give them
+[0:37:43] caffeine the next day and then you have
+[0:37:45] them try to learn and ask can caffeine
+[0:37:48] by way of its effect on the
+[0:37:50] hippocampus rescue and restore what
+[0:37:52] would otherwise be an encoding deficit
+[0:37:55] now that is entirely possible and I
+[0:37:57] think it's a fascinating question by how
+[0:38:00] much we don't know but if it doesn't
+[0:38:04] it's equally likely that the hippocampus
+[0:38:07] by way of being sleep deprived is not
+[0:38:11] receptive to the benefit of caffeine
+[0:38:13] under conditions of sleep deprivation
+[0:38:15] and I told you in the rat studies when
+[0:38:17] those rats were deprived the hippocampus
+[0:38:20] once again became stubborn in its
+[0:38:23] ability to form new synapses and it may
+[0:38:25] be that it's equally stubborn to receive
+[0:38:28] the normal benefit of caffeine when you
+[0:38:30] are sleep rested but I would love to do
+[0:38:33] that study the second is to then say
+[0:38:35] well if I have the choice of when I'm
+[0:38:38] going to be learning during the day
+[0:38:40] let's say that you've had a bad night of
+[0:38:41] sleep or you just had a short night of
+[0:38:43] sleep non-negotiable couldn't do
+[0:38:45] anything about it and the next day I've
+[0:38:47] got to cram in some information I would
+[0:38:49] say think about your chronotype and
+[0:38:52] think about when you are at your best
+[0:38:55] operating temperature so your scenario
+[0:38:58] let's say going to bed at 9: waking up
+[0:39:01] at
+[0:39:02] 4:35 your Peak is probably going to be
+[0:39:05] maybe 10 11:00 in the morning where your
+[0:39:08] biology and your Cadian rhythm is on its
+[0:39:10] almost Crescendo Peak at that point we
+[0:39:14] know for Cadian influences on learning
+[0:39:18] and this is independent of sleep
+[0:39:19] influences on learning that's where
+[0:39:21] things are better now for me you
+[0:39:22] actually described me which is I'm a
+[0:39:24] kind of an 11 to 730 type person for me
+[0:39:27] it's probably going to be much closer to
+[0:39:29] about midday or 1: p.m. where I feel at
+[0:39:32] my operating Peak both for physical
+[0:39:35] performance and also mental performance
+[0:39:37] so if you've got the choice and you are
+[0:39:39] underslept there's nothing you can do
+[0:39:41] about the sleep that you've lost the
+[0:39:43] night before but at least recognize that
+[0:39:45] your Cadian rhythm is going to come to
+[0:39:47] your rescue and help offset that as long
+[0:39:50] as you time you're learning to that
+[0:39:53] known peak of your Cadian Rhythm does
+[0:39:56] that help a little bit yes that that
+[0:39:58] makes good sense so the idea gets us
+[0:40:02] back to something you described in
+[0:40:03] previous episodes which is that you have
+[0:40:05] this sleep pressure due to the buildup
+[0:40:07] of the molecule adenosine which the
+[0:40:09] longer we are awake the more adenosine
+[0:40:11] in our nervous system which makes us
+[0:40:13] sleepy but separate from that there's
+[0:40:16] this circadian circadia about 24-hour
+[0:40:20] Rhythm right
+[0:40:22] um that causes fairly dramatic shifts in
+[0:40:26] wakeful fullness and sleepiness
+[0:40:29] independent of the adenosine signal now
+[0:40:31] sometimes the two signals overlap so
+[0:40:33] that late in the evening for instance we
+[0:40:35] have a lot of adenosine we've been up
+[0:40:36] all day and our circadian rhythm is such
+[0:40:38] that our alertness is starting to
+[0:40:39] diminish so they're aligned and in the
+[0:40:41] early part of the day assuming
+[0:40:42] everything is normal the adenosine
+[0:40:44] levels are low because we slept well the
+[0:40:45] night before and our circadian rhythm is
+[0:40:47] on the upswing so to speak um and we are
+[0:40:51] alert so if I understand correctly the
+[0:40:54] goal is to of course Maxim the quality
+[0:40:58] quantity regularity and timing of sleep
+[0:41:00] qqr but that in the absence of the
+[0:41:03] ability to really anchor any one of
+[0:41:06] those things to 10 out of 10 you know A+
+[0:41:10] performance if one knows that okay
+[0:41:12] typically around you know between 10:00
+[0:41:14] a.m. and noon is when I'm at my sharpest
+[0:41:16] that would be the time to be exposed to
+[0:41:18] new material or ideally take an exam if
+[0:41:20] one can control that sort of thing and
+[0:41:22] then perhaps in the afternoon there's
+[0:41:24] another opportunity be uh after the
+[0:41:28] postp perenial dip that's right but
+[0:41:30] before the post perenial dip sometime
+[0:41:33] between 1 and 4 pm usually lasting about
+[0:41:34] an hour to 90 minutes this is a dip
+[0:41:36] natural dip in energy but then after
+[0:41:38] that is another opportunity to learn um
+[0:41:42] sure there'll be a lot of adenosine in
+[0:41:44] one system because you've been a long
+[0:41:46] time um but the Circadian system is on
+[0:41:49] its sort of uh upswing again before the
+[0:41:53] down swing that occurs in the evening is
+[0:41:55] that right right opportunities um and by
+[0:41:58] the way it's strange you were to ask if
+[0:42:00] you look at the Cadian Rhythm right
+[0:42:02] before sort of bedtime there is this
+[0:42:05] sort of strange little blip this peak um
+[0:42:08] that Folks at um back at Harvard have
+[0:42:10] have discovered and you think well why
+[0:42:13] would my Cadian system which needs to
+[0:42:15] really ratchet down for us to get to
+[0:42:18] sleep well why would it have this little
+[0:42:21] Jag
+[0:42:23] upwards in the evening hours right
+[0:42:26] before we need to sleep and it then
+[0:42:28] drops precipitously right makes no sense
+[0:42:31] until you think about Evolution because
+[0:42:35] after foraging for food during the day
+[0:42:38] what you need is this final spurt to get
+[0:42:42] you home safely to your nest or to your
+[0:42:45] home yeah to batten down the hatches
+[0:42:48] exactly so there is this beautiful
+[0:42:50] little built-in Cadian upswing to say
+[0:42:54] okay I know you're returning to home
+[0:42:56] this is probably a time when there's
+[0:42:58] some maybe Potential Threat to you I'm
+[0:43:01] going to just boost your alertness very
+[0:43:02] quickly so you travel home safely good
+[0:43:06] to go great and now I stopped my
+[0:43:08] downswing I think this is a really
+[0:43:10] important thing for people to know about
+[0:43:12] um I'm familiar with the data uh
+[0:43:14] although just in top Contour but the
+[0:43:16] idea here as I understand it is that
+[0:43:19] many people will feel like okay around
+[0:43:22] 6:00 p.m. 6:30 they're getting sleepy
+[0:43:24] 7:30 8:00 p.m. and then they want to get
+[0:43:26] to bed at 10:30 and suddenly for them
+[0:43:29] based on their chronotype around 9:00
+[0:43:31] p.m. they're like Wide Awake second wind
+[0:43:33] right the second wind and they're like
+[0:43:35] oh no I need to sleep tonight um now
+[0:43:38] maybe it's the case that they're a they
+[0:43:40] would be better off going to bed far
+[0:43:42] earlier and waking up earlier the next
+[0:43:44] morning but in many cases it's just that
+[0:43:46] transient 45 to 6 you know 70 minute
+[0:43:51] window of increased uh alertness this
+[0:43:54] kind of um uptick in the in the
+[0:43:56] Circadian system so this two shell pass
+[0:43:59] and then also just set yourself up for
+[0:44:02] success and we discuss a little bit
+[0:44:03] about the methods of really ratcheting
+[0:44:05] things down dimming Down the Lights
+[0:44:08] having a tiet alarm these types of
+[0:44:10] things will just gradually back you off
+[0:44:13] and after that second wind comes give
+[0:44:16] you the greatest ability to decline
+[0:44:19] physiologically which then permits this
+[0:44:21] beautiful thing called Sleep to come in
+[0:44:23] its place well speaking of sleep postar
+[0:44:27] learning um what is the role of sleep
+[0:44:30] that follows about of learning and here
+[0:44:32] again we want to Define learning as the
+[0:44:34] exposure to novel information that one
+[0:44:37] is trying to encode either cognitive
+[0:44:39] information motor information or or
+[0:44:41] combination of the two um and I say that
+[0:44:44] because learning AKA neuroplasticity has
+[0:44:47] many different stages it's a process not
+[0:44:49] an event but um so let's say that uh
+[0:44:52] earlier in the day I took a dance class
+[0:44:54] Lord knows I need one or um you and both
+[0:44:57] or a musical lesson or was exposed to
+[0:45:00] some interesting information who knows
+[0:45:01] maybe on a podcast and I was you know
+[0:45:03] trying to engage in that information and
+[0:45:05] and pay attention and then that night I
+[0:45:08] I plan to sleep um or perhaps one could
+[0:45:11] take a nap after this bout of
+[0:45:14] learning how close to the learning
+[0:45:18] episode about as I'm calling it does the
+[0:45:21] sleep have to arrive in order for sleep
+[0:45:23] to maximize the amount of learning that
+[0:45:25] occurs is very good question which
+[0:45:29] is what would happen if I were to be
+[0:45:32] learning information and I'm listening
+[0:45:33] to um this odd British gentleman should
+[0:45:37] I then immediately dive into bed so that
+[0:45:40] I maximize the retention of that
+[0:45:43] information and the answer is no don't
+[0:45:45] worry and I'll come back to why not to
+[0:45:48] worry um but to your point not only do
+[0:45:51] you need sleep before learning as we've
+[0:45:53] been discussing but there is something
+[0:45:56] unique and equally necessary of and
+[0:45:59] causally necessary I should say for
+[0:46:02] sleep after learning but it does
+[0:46:04] something different sleep before
+[0:46:05] learning gets your brain ready to lay
+[0:46:08] down those new memory traces after
+[0:46:10] you've imprinted them into the brain
+[0:46:12] sleep after learning then takes those
+[0:46:15] freshly minted memories and then it
+[0:46:19] strengthens them it all essentially it's
+[0:46:21] almost like sleep will hit the save
+[0:46:23] button on those new memories so that you
+[0:46:25] don't forget so in other words sleep is
+[0:46:28] future proofing that information within
+[0:46:32] your brain so that you don't
+[0:46:34] forget and then the question and we've
+[0:46:37] been able to and we and many others have
+[0:46:39] replicated this in fact it's nothing new
+[0:46:41] if you look at the literature on this
+[0:46:43] sleep after learning um
+[0:46:47] gig it goes back as best we can tell to
+[0:46:51] 1929 although I'll argue with that in a
+[0:46:54] second but two researchers Jenkins and
+[0:46:56] dback did a landmark study they had
+[0:47:00] participants learn a whole bunch of
+[0:47:02] nonsense syllables and they had them
+[0:47:04] learn them over and over and over again
+[0:47:07] and gradually they got better and then
+[0:47:09] they started to test them across an 8
+[0:47:12] hour period they tested them 2 hours
+[0:47:14] later 4 hours later 6 hours later and 8
+[0:47:17] hours later the only difference is that
+[0:47:20] in one of those testing sessions that 2
+[0:47:23] hours 4 hours 6 hours 8 hours was a
+[0:47:25] cross awaking day in the other they had
+[0:47:28] them learn that information to near
+[0:47:30] Perfection before sleep just as they did
+[0:47:32] in the waking group but now they woke
+[0:47:35] them up after 2 hours and tested them
+[0:47:36] after 4 hours and tested them after 6
+[0:47:38] hours and then again when they woke up
+[0:47:40] in the morning 8 hours later and what
+[0:47:43] they found is that in those people who
+[0:47:44] stayed awake after learning there was
+[0:47:47] essentially just catastrophic forgetting
+[0:47:50] the amount of information 2 hours 4
+[0:47:52] hours 6 hours 8 hours later just
+[0:47:54] declined dramatically
+[0:47:57] but when they repeated that in the same
+[0:47:59] individuals after learning things to the
+[0:48:01] same degree 2 hours 4 hours later memory
+[0:48:04] was starting to decline but after about
+[0:48:07] two and a half three hours of being
+[0:48:09] asleep all of a sudden sleep had fixated
+[0:48:13] those memories almost like um like an
+[0:48:16] animal that's been trapped in Amber and
+[0:48:18] set in Amber like a fossil and then
+[0:48:21] those memories just would not Decay any
+[0:48:23] further and you retained them what was
+[0:48:26] stunning about that study is it has been
+[0:48:28] replicated time and time again that's
+[0:48:32] not the surprising part the surprising
+[0:48:34] part is that in that study they tested a
+[0:48:36] vast number of subjects in fact a sum
+[0:48:39] tootal of two
+[0:48:42] participants but what's stunning is that
+[0:48:45] that finding has gone and been
+[0:48:47] replicated time and time again so that
+[0:48:51] demonstrated to us that there's
+[0:48:52] something special about sleep that is
+[0:48:55] concretizing almost literally like
+[0:48:58] taking things and setting it in
+[0:49:00] concrete and then the question became
+[0:49:02] again mechanistically how how is it and
+[0:49:06] it's important to understand mechanism
+[0:49:07] because it has ramifications for
+[0:49:09] diseases and Medicine how is sleep doing
+[0:49:12] this fantastic saving of memories and we
+[0:49:15] now have at least two non-mutually
+[0:49:18] exclusive mechanisms so in other words
+[0:49:20] both seem to occur the first is what we
+[0:49:23] call memory translocation
+[0:49:27] sleep and particularly what we found for
+[0:49:30] fact-based memories and I should note by
+[0:49:32] the way that this story of sleep after
+[0:49:34] learning is a two-part or it runs in two
+[0:49:38] different narratives one is sleep after
+[0:49:41] learning for fact-based memory what we
+[0:49:44] describe as declarative memory and
+[0:49:47] you've uh done a fantastic uh previous
+[0:49:49] episode on working memory and describe
+[0:49:52] all of these different types of memory
+[0:49:54] so one story line has been sleep after
+[0:49:57] learning for fact-based memory but the
+[0:49:58] other which is equally interesting is
+[0:50:01] sleep for non declarative or procedural
+[0:50:04] skill memory in other words what we
+[0:50:06] think of as motor memory but I'll come
+[0:50:08] back to motor memory in a
+[0:50:10] second what we then found for this sleep
+[0:50:13] and textbook like memory is that there
+[0:50:15] are two mechanisms the first
+[0:50:17] translocation and here what we found is
+[0:50:19] that it's deep nonrem sleep for
+[0:50:22] fact-based memories and it's those big
+[0:50:25] slow powerful brain waves that we spoke
+[0:50:27] about in the first episode combined with
+[0:50:30] those sleep spindles that ride on top of
+[0:50:32] them almost like a surfer on a huge
+[0:50:35] amplitude
+[0:50:36] wave and it's the combination of those
+[0:50:39] two brain waves that acts like a file
+[0:50:43] transfer mechanism and it moves and
+[0:50:46] shifts memories from a short-term
+[0:50:48] vulnerable Reservoir the hippocampus to
+[0:50:51] the more permanent long-term storage
+[0:50:53] site the cortex in the brain and
+[0:50:56] therefore protect protecting them and
+[0:50:58] making them
+[0:50:59] safe so that's one mechanism is the the
+[0:51:02] shifting of memories around the brain
+[0:51:04] and through different storage sites from
+[0:51:06] short term to long
+[0:51:07] term the second I think is perhaps even
+[0:51:10] more fascinating it's called memory
+[0:51:14] replay and this was discovered back in
+[0:51:16] the probably 1990s Bruce mcnorton um at
+[0:51:20] the University of Arizona working with a
+[0:51:21] young Matt Wilson who not uh I'm Matt
+[0:51:24] Walker he's Matt Wilson at MIT now
+[0:51:27] they were looking at rats and they were
+[0:51:28] looking at how rats learn a maze and
+[0:51:32] they had these electrodes in these
+[0:51:35] hippocampal brain regions um these
+[0:51:38] memory related regions that we've been
+[0:51:40] discussing and they were listening to
+[0:51:42] the individual firing patterns of those
+[0:51:45] memory cells in the hippocampus as they
+[0:51:47] were running around the Maze and sure
+[0:51:49] enough as they ran around the maze
+[0:51:51] statistically you would build up what
+[0:51:53] looked like the signature pattern of
+[0:51:55] learning so think about those neurons
+[0:51:57] that they each had a special tone to
+[0:51:59] them and as the rat is running around
+[0:52:01] the maze you can hear the signature of
+[0:52:06] learning I just me it over and over
+[0:52:08] again but then they did something clever
+[0:52:10] when the rats went to sleep after
+[0:52:13] learning they kept
+[0:52:15] listening what did they hear they didn't
+[0:52:17] just hear noise they heard that same
+[0:52:20] memory signature replayed
+[0:52:23] however it wasn't replayed at the same
+[0:52:25] speed it was replayed somewhere between
+[0:52:29] 10 to 20 times faster so now all of a
+[0:52:33] sudden instead of
+[0:52:35] hearing you
+[0:52:38] heard just going over and over again and
+[0:52:41] what we've learned is that this replay
+[0:52:43] of memories for that type of information
+[0:52:46] now for rats that's the version
+[0:52:48] essentially of that spatial navigation
+[0:52:51] is their version of fact-based memory
+[0:52:53] and I won't go into detail but yeah cuz
+[0:52:56] navigating novel environments is
+[0:52:58] especially important for all species but
+[0:53:01] rodents to know where they cashed food
+[0:53:03] where escapes are and things of that
+[0:53:05] sort yeah perhaps even more so than as
+[0:53:07] humans that locational memory is
+[0:53:09] necessary and nowadays there's Google
+[0:53:10] Maps and Uber and things of that sort
+[0:53:12] but in the the old days as it were I
+[0:53:15] recall the the London taxi drivers were
+[0:53:18] considered the um you know the world
+[0:53:21] heavyweight champions of of uh memory
+[0:53:24] and there were some decent brain imag
+[0:53:26] studies of their hippocamp ey and indeed
+[0:53:29] they have amazing spal memory of the
+[0:53:31] city of London um now that's probably
+[0:53:34] changed because of Google Maps there
+[0:53:36] there's no need to rely on on um
+[0:53:38] internal memory stores when you have no
+[0:53:40] you still actually there's still a now
+[0:53:42] you can drive you know these ridea apps
+[0:53:45] but for London taxi drivers they still
+[0:53:47] have to go through in some ways it's
+[0:53:48] almost like a hazing it's called the
+[0:53:50] knowledge and if you if you are visiting
+[0:53:53] London you will see these strange guys
+[0:53:55] who are going around on mopeds and they
+[0:53:58] just have this huge kind of map in front
+[0:54:00] of them and they are doing the knowledge
+[0:54:03] which is that they are learning
+[0:54:05] exquisitly the entire road map of London
+[0:54:08] and what they found in those studies was
+[0:54:10] that the size of the hippocampus this
+[0:54:14] memory structure related to fact-based
+[0:54:15] memories and also spatial memories was
+[0:54:18] significantly larger in cab drivers than
+[0:54:21] it was in matched controls now you could
+[0:54:24] say well this is a self- selecting
+[0:54:26] process
+[0:54:27] that people who already have large
+[0:54:30] hippocampi as we would say they're just
+[0:54:33] going to be the people who can do the
+[0:54:34] knowledge well and pass as it were but
+[0:54:37] what they also found was that a
+[0:54:38] correlation the longer that you've been
+[0:54:41] doing the knowledge and being a taxi
+[0:54:43] driver the bigger and bigger your
+[0:54:45] hippocampus so it's time on task so
+[0:54:48] coming back to the the the rats in this
+[0:54:51] spatial learning it's almost as though
+[0:54:53] sleep after learning is taking that
+[0:54:56] memory trace and it's like etching into
+[0:54:59] a glass surface you just go over that
+[0:55:01] memory circuit over and over again and
+[0:55:04] you're strengthening that memory
+[0:55:06] circuit what was also fascinating
+[0:55:09] however I would I'm telling you that
+[0:55:11] it's during non-r sleep that you do all
+[0:55:14] of this memory replay and certainly what
+[0:55:16] we found is that for textbook memory
+[0:55:18] it's deep non-rem sleep that's the
+[0:55:20] important stage of sleep but Matt Wilson
+[0:55:22] published at MIT an interesting study
+[0:55:25] looking at REM sleep what happens to the
+[0:55:27] memory Trace in REM sleep and REM sleep
+[0:55:31] which we know is associated with
+[0:55:33] dreaming there the memory replay didn't
+[0:55:37] slow back down to normal waking speed it
+[0:55:39] slowed down even further to point five
+[0:55:44] times relative to waking speed so the
+[0:55:46] waking speed versus the dreaming speed
+[0:55:49] in dreaming sort of in REM sleep I
+[0:55:52] should say because we don't know if rats
+[0:55:53] dream or not but in REM sleep things had
+[0:55:55] slowed down by essentially
+[0:55:58] 50% and this comes back to our
+[0:56:00] conversation in a previous episode that
+[0:56:02] we had about time and you and I were
+[0:56:05] discussing how there's this strange
+[0:56:06] phenomenon where you are woken up by
+[0:56:09] your alarm and you're in a dream and you
+[0:56:11] have a snooze button that lasts 5
+[0:56:13] minutes you hit the snooze button you go
+[0:56:14] back to sleep and you feel as though
+[0:56:16] you've been dreaming for I don't know 10
+[0:56:18] minutes 15 minutes but it's been 5
+[0:56:21] minutes in the real world but time has
+[0:56:23] slowed down time has dilated it's almost
+[0:56:25] like a satina that's stretched out and
+[0:56:29] all of a sudden we were finding in or
+[0:56:31] Matt Wilson because we don't do animal
+[0:56:32] research was finding that this replay
+[0:56:35] was slowed down by 50% so I always
+[0:56:39] wonder whether or not there is neuronal
+[0:56:41] evidence that helps us explain why
+[0:56:43] dreams seem to pack more
+[0:56:46] time despite being in real world time a
+[0:56:49] shorter amount absolutely fascinating
+[0:56:52] yeah I have to imagine that um rat dream
+[0:56:57] and dog dream and other animal stream I
+[0:56:59] mean why wouldn't they um you know if uh
+[0:57:03] all the components of REM sleep that are
+[0:57:05] expressed in humans appear in these
+[0:57:07] animals and vice versa you imagine it
+[0:57:10] almost has to be the case it does and I
+[0:57:12] think there is some interesting
+[0:57:14] supportive evidence that you can argue
+[0:57:16] there is a sleep disorder that we
+[0:57:18] understood in humans first called rapid
+[0:57:21] eye movement disorder or REM sleep
+[0:57:24] behavioral disorder and in the first
+[0:57:27] episode we said that one of the
+[0:57:29] fascinating features of REM sleep which
+[0:57:31] is when we principally dream is that
+[0:57:34] your brain and specifically your brain
+[0:57:36] stem paralyzes your body so that your
+[0:57:39] mind can dream safely so you're shut
+[0:57:42] down into this motor paralysis
+[0:57:47] incarceration rightly
+[0:57:49] so but what also happens is that as we
+[0:57:51] get older it seems to be particularly
+[0:57:54] more so in men than in women but it can
+[0:57:55] be both both once we get past our 50s
+[0:57:58] there's a higher likelihood that that
+[0:58:00] mechanism starts to
+[0:58:03] degrade and you can start to act out
+[0:58:05] your dreams now this is not sleepwalking
+[0:58:07] or sleeptalking that actually comes from
+[0:58:10] deep non-rm sleep and there what happens
+[0:58:13] is that there is a trigger an Awakening
+[0:58:15] either a brain response almost like a
+[0:58:17] stress response that wakes the brain up
+[0:58:20] and you're in the deepest stages of
+[0:58:22] sleep and you are trying to get forced
+[0:58:24] back up to wakefulness sort of the back
+[0:58:27] to that analogy of going from the
+[0:58:28] basement to the to the penthouse and
+[0:58:31] instead you just get locked into this
+[0:58:33] mixed state of consciousness of and as a
+[0:58:37] consequence you start to enact very root
+[0:58:40] basic behaviors you'll go over to the
+[0:58:42] refrigerator open the door close the
+[0:58:43] door pick up a glass put it to your
+[0:58:45] mouth put it back down and if you wake
+[0:58:48] someone up which you shouldn't
+[0:58:49] necessarily do unless there's there's
+[0:58:51] harm that and ask them what was going
+[0:58:54] through your mind just a few minutes
+[0:58:56] minutes ago they all say nothing and the
+[0:58:58] reason is because it wasn't coming from
+[0:58:59] dream sleep it was from deep non-re
+[0:59:01] sleep I see however there is a very
+[0:59:04] different condition that sometimes
+[0:59:06] people will mix up as the very same
+[0:59:08] thing which is REM sleep behavioral
+[0:59:10] disorder and there you're acting out
+[0:59:11] your dreams it can be quite violent some
+[0:59:14] people have enacted violence on their
+[0:59:15] partner and woken up and being
+[0:59:17] absolutely
+[0:59:19] devastated I bring this up however
+[0:59:21] because human beings are not the only
+[0:59:23] species that suffers from REM sleep
+[0:59:25] Behavioral disorder dogs suffer from
+[0:59:28] this as well and when you see it and you
+[0:59:31] can understand it's very clear you have
+[0:59:33] electrodes on the head they go into this
+[0:59:35] REM sleep State and all of a sudden they
+[0:59:37] come out of the paralysis and they start
+[0:59:40] enacting what very much looks like a
+[0:59:43] behavior of wakefulness it's quite
+[0:59:46] complex and at that point you look at
+[0:59:49] that and you
+[0:59:50] say okay I'm I'm sorry but that looks
+[0:59:53] very much like dreaming now we can't of
+[0:59:56] of course ask dogs a question you know
+[0:59:58] what was going through your mind you can
+[1:00:00] ask them but they're not going yeah but
+[1:00:02] yeah you can ask them but it turns out
+[1:00:03] that the response is is less than it's
+[1:00:06] just a look to say give me a treat but
+[1:00:08] you know in science sometimes if it
+[1:00:10] looks like a duck talks like a duck
+[1:00:12] walks like a duck maybe it's a
+[1:00:15] duck what what about um this phenomenon
+[1:00:18] which I've experienced before of being
+[1:00:21] asleep presumably in rapid eye movement
+[1:00:24] sleep and being completely paralyzed but
+[1:00:26] then waking up and I'm still in
+[1:00:29] paralysis but I'm not asleep and um this
+[1:00:33] was a long time ago uh probably the 10th
+[1:00:36] grade which for me I was what 15 years
+[1:00:38] old I'm 48 now and um it was at a party
+[1:00:43] that I I fell asleep on the couch and I
+[1:00:45] goodness I I don't believe in underage
+[1:00:47] drinking but there's a there's a
+[1:00:49] possibility that I might have been
+[1:00:50] inebriated I I
+[1:00:52] was kids parents that you know I I just
+[1:00:55] I actively dissuade young people from
+[1:00:58] drinking and many older people from
+[1:01:00] drinking but yeah I started drinking far
+[1:01:02] too young um and but I remember I drank
+[1:01:05] the night before I got drunk the night
+[1:01:07] before again something I'm not um
+[1:01:10] suggesting or proud of I woke up and I
+[1:01:13] was wide awake gosh I remember this so
+[1:01:15] well and I was paralyzed I could not
+[1:01:17] move and it was terrifying and then all
+[1:01:20] of a sudden boom I could jolt myself
+[1:01:22] awake and I was like oh my goodness and
+[1:01:25] um it must have been in an invasion of
+[1:01:26] that atonia that sleep induced paralysis
+[1:01:30] into the waking state so I can explain
+[1:01:33] this and you have this is the perfect
+[1:01:36] prototypical situation when we see this
+[1:01:39] what you're describing to me is
+[1:01:41] something that many people listening
+[1:01:42] will have experienced called REM sleep
+[1:01:45] paralysis and it's not necessarily a
+[1:01:48] problem or a sign of a condition that
+[1:01:50] you need to be worried about although if
+[1:01:51] it's happening frequently we can think
+[1:01:53] about that what Norm happens when we
+[1:01:56] wake up out of REM sleep and REM sleep
+[1:01:58] as we spoke about in the first episode
+[1:02:00] dominates the second half of the night
+[1:02:02] and particularly the last quarter of the
+[1:02:04] night as you're coming out of REM sleep
+[1:02:06] and waking up out of REM sleep which you
+[1:02:08] know you've got a 50 50% chance perhaps
+[1:02:10] cu the other state that you're in a
+[1:02:12] stage two light non REM as you're coming
+[1:02:14] out of REM sleep you're regaining
+[1:02:16] Consciousness to the external world and
+[1:02:19] then normally in lock step with that
+[1:02:22] perfect lock step if not a little before
+[1:02:24] your brain is realizing this and it's
+[1:02:27] releasing you from the paralysis and we
+[1:02:29] all wake up and we don't even think
+[1:02:30] about it I just wake up and I lean over
+[1:02:33] I turn off you know the alarm and I get
+[1:02:35] out of bed everything's fine every now
+[1:02:38] and again however the waking up and
+[1:02:42] Consciousness re-engaging occurs however
+[1:02:46] the brain does not release you from the
+[1:02:48] REM sleep paralysis so at that point
+[1:02:51] it's almost like a locked in body
+[1:02:53] phenomenon and it's very frightening
+[1:02:55] because because you begin to be aware of
+[1:02:57] your surroundings but you cannot make
+[1:03:00] any voluntary movements because I told
+[1:03:02] you that the voluntary sceletal muscle
+[1:03:04] system is imper by the atonia the
+[1:03:06] absence of muscle your involuntary
+[1:03:08] you're still breathing and all but your
+[1:03:10] eyelids turn out to be part of
+[1:03:13] your voluntary muscle set so you can't
+[1:03:17] lift up your eyelids and then normally
+[1:03:20] what happens is that it's associated
+[1:03:23] with a strong sense of often an in
+[1:03:25] Rudder it seems to be if you're doing it
+[1:03:28] sort of in bed by yourself at home now
+[1:03:31] your context was a little different and
+[1:03:34] it turns out that if you look at these
+[1:03:36] descriptions of sleep paralysis where
+[1:03:38] you can't wake up you can't shout out
+[1:03:41] you can't move you have this sense of
+[1:03:43] another presence or another being in the
+[1:03:45] room it adequately explains most if not
+[1:03:48] all alien abduction stories because when
+[1:03:51] was the last time you saw a news article
+[1:03:54] or on the news that someone said okay
+[1:03:57] today it was very clear that Jimmy in
+[1:04:00] Wisconsin in the middle of the day was
+[1:04:02] abducted by aliens and everyone saw it
+[1:04:05] you know you're at the meeting table and
+[1:04:07] whoosh what happened that was Jimmy he
+[1:04:09] just got whisked off by alien doesn't
+[1:04:12] happen that way it's normally that
+[1:04:13] you're in bed at night it's the early
+[1:04:16] morning hours just before you're waking
+[1:04:18] up these aliens came into the room they
+[1:04:21] injected something into you they
+[1:04:22] paralyzed you you couldn't shout you
+[1:04:25] couldn't move
+[1:04:27] it's simply REM sleep paralysis now when
+[1:04:29] do we see that there are ways and not
+[1:04:32] ways because these are not protocols
+[1:04:35] that we advise there are circumstances
+[1:04:37] where the probability of that increases
+[1:04:39] and I've experienced this too when you
+[1:04:42] are sleep deprived or you are highly
+[1:04:45] stressed the likelihood that you will
+[1:04:47] experience these REM sleep paralysis
+[1:04:49] events upon Awakening is increased and
+[1:04:52] for me it was happening when I was um a
+[1:04:56] a young uh PhD student and I was
+[1:04:58] studying sleep and then I would be awake
+[1:05:01] all night because I'd be monitoring the
+[1:05:03] patients and looking at their sleep the
+[1:05:05] irony of sleep studies exactly that you
+[1:05:07] have to deprive yourself of the very
+[1:05:09] thing that you are trying to study and
+[1:05:11] is which by the way gives you some
+[1:05:13] amazing insights for experiments that
+[1:05:15] I've had as a consequence not that I
+[1:05:17] would advise that as the way and we'll
+[1:05:19] come on to why that's not wise when we
+[1:05:21] speak about creativity but we were um
+[1:05:25] doing these studies and then I would go
+[1:05:27] home and then I would take a short
+[1:05:28] period of sleep maybe just 2 and 1 half
+[1:05:31] hours of
+[1:05:33] sleep and then I would wake up I didn't
+[1:05:35] want to cuz I was ready to go deep into
+[1:05:38] sleep but I would wake up and then I
+[1:05:40] would force myself to be awake
+[1:05:42] throughout the day and try to get to bed
+[1:05:43] at a reasonable time because if I slept
+[1:05:45] all day what's going to happen I'm just
+[1:05:47] going to be awake all the next night and
+[1:05:48] I'm going to be out of my rhythm but
+[1:05:51] what's interesting is that when I would
+[1:05:52] wake up then I would be waking up maybe
+[1:05:54] at 10 10 a.m. in the morning 11: and at
+[1:05:57] that point if you're sleeping there with
+[1:05:59] someone like my face you are in a very
+[1:06:02] REM sleep Desiring state that it's in
+[1:06:06] those last morning hours and into the
+[1:06:08] early morning hours when your brain
+[1:06:10] wants to devour off the menu of sleep
+[1:06:12] stages this thing called REM in vast
+[1:06:14] quantities so I was sleep deprived Point
+[1:06:18] number one second I was going into a
+[1:06:20] very REM sleep Rich phase in other words
+[1:06:22] higher likelihood of paralysis and that
+[1:06:24] occurred to me your description is also
+[1:06:27] prototypical you've been drinking the
+[1:06:29] night before went out to the party we
+[1:06:32] spoke about in one of our previous
+[1:06:34] episodes that one of the problems with
+[1:06:36] alcohol is that it's very good at
+[1:06:38] blocking your REM sleep so you'd been
+[1:06:40] absent of REM sleep the PRI night you
+[1:06:42] built up what we call a REM sleep debt
+[1:06:46] and when you slept all of a sudden what
+[1:06:48] your brain wanted more because it at
+[1:06:50] least got some sleep and there you're
+[1:06:52] going to get mostly your deep sleep the
+[1:06:54] death on the sheets of your balance
+[1:06:57] account for sleep was not so great for
+[1:06:59] deep nonrem but you were very much in
+[1:07:02] debt with REM so what happened as soon
+[1:07:04] as you conked out on the couch whoosh
+[1:07:06] you were probably straight into REM
+[1:07:08] sleep and then when you woke up you had
+[1:07:10] this mismatch in timing between
+[1:07:12] Consciousness and the release of
+[1:07:13] paralysis what did you experience REM
+[1:07:16] sleep paralysis love it I mean hate it I
+[1:07:19] did not enjoy it but I love your
+[1:07:21] description it's because it makes so
+[1:07:23] very clear what happened and for those
+[1:07:25] that have had the experience it can be
+[1:07:27] mildly stressful to terrifying so thank
+[1:07:30] you for um providing the therapy that is
+[1:07:33] knowledge and uh so that people don't
+[1:07:36] stress it too much but we still dissuade
+[1:07:38] people from consuming alcohol prior to
+[1:07:40] sleep correct I want to take a brief
+[1:07:42] break and acknowledge our sponsor insid
+[1:07:44] tracker insid tracker is a personalized
+[1:07:46] nutrition platform that analyzes data
+[1:07:48] from your blood and DNA to help you
+[1:07:50] better understand your body and help you
+[1:07:52] reach your health goals now I've long
+[1:07:54] been a believer in getting regular blood
+[1:07:55] work done for the simple reason that
+[1:07:57] many of the factors that impact your
+[1:07:59] immediate and long-term Health can only
+[1:08:00] be analyzed from a quality blood test
+[1:08:03] the problem with a lot of blood tests
+[1:08:04] out there however is that you get
+[1:08:06] information back about metabolic factors
+[1:08:07] hormones Etc but you don't know what to
+[1:08:09] do with that information with inside
+[1:08:11] tracker they make it very easy to
+[1:08:13] understand your results and they also
+[1:08:14] point you to specific directives that
+[1:08:16] you can follow in the realm of nutrition
+[1:08:18] exercise supplementation even
+[1:08:20] prescription drugs that can help bring
+[1:08:21] the levels back into the ranges that are
+[1:08:23] optimal for you inside tracker ALS Al
+[1:08:25] offers insid Tracker Pro which enables
+[1:08:28] coaches and health professionals to
+[1:08:29] provide premium and personalized
+[1:08:31] Services by leveraging insid trackers
+[1:08:33] analysis and recommendations with their
+[1:08:34] clients if you'd like to try insid
+[1:08:36] tracker you can go to insidetracker
+[1:08:39] decom to get 20% off any of insid
+[1:08:42] tracker's plans again that's insid
+[1:08:44] tracker.com huberman okay so we've been
+[1:08:47] discussing complete paralysis and of
+[1:08:50] course that's the inability to
+[1:08:53] move let's talk about the ability to
+[1:08:55] move meaning motor learning what is the
+[1:08:59] relationship between sleep and learning
+[1:09:02] physical skills either coordination of
+[1:09:04] motor movement or who knows maybe
+[1:09:07] increased power output or endurance um
+[1:09:10] and if you would could you comment on
+[1:09:13] whether or not there are specific phases
+[1:09:15] of sleep that are specifically linked to
+[1:09:17] motor learning yeah great questions so
+[1:09:20] what we've spoken about so far is that
+[1:09:22] you need sleep after learning for that
+[1:09:24] textbook like memory and that is one
+[1:09:27] category of memory that resides within
+[1:09:29] your brain there's another type of
+[1:09:31] memory that you've spoken about which
+[1:09:32] many of us don't realize is memory and
+[1:09:35] that's what we call non- declarative or
+[1:09:37] procedural skill memory so if I were to
+[1:09:41] you know ask you okay Andrew you know
+[1:09:43] last night for dinner or yesterday for
+[1:09:46] lunch do you remember what it was that
+[1:09:49] you had to eat and my guess is that you
+[1:09:52] could probably tell me so do you recall
+[1:09:56] what what some of that my diet is pretty
+[1:09:57] boring um in the sense I tend to eat
+[1:10:00] more or less the same thing every day
+[1:10:01] although I'm open to being flexible
+[1:10:04] yesterday for lunch I had two grass-fed
+[1:10:08] hamburger patties maybe a little bit of
+[1:10:11] rice sliced cucumber some tomatoes and
+[1:10:15] because I'm a driveby blueberry eater
+[1:10:17] there were some blueberries out on the
+[1:10:18] counter and I had several large fistfuls
+[1:10:21] of those and then I washed it down with
+[1:10:23] some water and I half mug just like this
+[1:10:28] of some cold brew sugar-free yamate and
+[1:10:32] I can confirm folks I was there at the
+[1:10:33] incident and that's exactly what he had
+[1:10:36] but did everyone who was watching or
+[1:10:38] listening just realize what happened in
+[1:10:41] this room today something that Einstein
+[1:10:44] suggested would never be possible that
+[1:10:47] Andrew just travel back in time that
+[1:10:51] using this Incredible Gift of memory you
+[1:10:55] you folded time almost like a concertina
+[1:10:58] compressing it and you race back within
+[1:11:01] milliseconds you were shaking your head
+[1:11:03] yes I know what I had and you race back
+[1:11:06] into that catalog of all of your
+[1:11:08] previous lunches you found the correct
+[1:11:11] manila folder for that specific lunch
+[1:11:14] all of the details and out it popped
+[1:11:18] that is a spectacular complex
+[1:11:20] computational process that your brain's
+[1:11:22] memory system accomplished Within
+[1:11:26] milliseconds it's stunning what we have
+[1:11:28] as this gift of memory but as I said
+[1:11:31] there's another type of memory so if I
+[1:11:33] were to ask you okay how do you ride a
+[1:11:37] bike it's very difficult there is no
+[1:11:40] textbook for here is how to ride a bike
+[1:11:43] the way that you do it when you're a
+[1:11:45] child is that you are taught how to
+[1:11:48] learn how to ride a bike by being on it
+[1:11:52] so if I were to say how cuz I'm a
+[1:11:54] longtime cyclist how do I take uh a
+[1:11:56] right turn with my bicycle the obvious
+[1:11:59] suggestion would be well you turn the
+[1:12:01] handlebars if you turn the handlebars at
+[1:12:03] 30 m an hour trying to go around a right
+[1:12:06] Bend you going crash very quickly what
+[1:12:09] in fact you do is you alter the steering
+[1:12:11] angle just a little but you
+[1:12:13] lean and that is what we call non
+[1:12:16] declarative meaning you can't declare to
+[1:12:18] me what it is that you know you just
+[1:12:21] have to show me through action and
+[1:12:23] behavior this is skill learning and we
+[1:12:25] use it for things like sports surgical
+[1:12:28] procedures flying planes there are so
+[1:12:31] many musical performance as well so many
+[1:12:35] aspects so we wanted to then say well
+[1:12:39] sleep is helpful after learning for
+[1:12:41] fact-based memory but what about this
+[1:12:42] other type of memory and in truth I
+[1:12:45] didn't come up with the idea it was
+[1:12:48] given to me back in the gosh I'm aging
+[1:12:52] myself in the early 2000s I was back in
+[1:12:54] the UK I gave a lecture at the for the
+[1:12:57] decade of the brain which it was back
+[1:12:58] then and at the end of the course I'd
+[1:13:00] spoken a little bit about sleep and this
+[1:13:03] informational processing but no evidence
+[1:13:06] for motor skill memory and this
+[1:13:07] gentleman be lovely gentleman Old
+[1:13:10] Gentleman with a sort of a white beard I
+[1:13:12] remember his tweed jacket this green Hue
+[1:13:15] was beautiful and he came up to me at
+[1:13:17] the end and he said look I'm a musician
+[1:13:19] I'm a Pianist and I was fascinated by
+[1:13:22] what you said about sleep sometimes I'll
+[1:13:25] sit down and I'm learning a new piece
+[1:13:27] and I just don't seem to be able to get
+[1:13:30] it and I practice practice and practice
+[1:13:32] into the evening and then I just stop
+[1:13:35] and then I come back the next day and I
+[1:13:37] sit down at the piano and I can just
+[1:13:41] play do you think that's
+[1:13:43] sleep and of course at that moment my
+[1:13:46] mind starts just relexing with ideas and
+[1:13:49] I'm thinking gosh there's the next 10
+[1:13:51] years of my work and grants and so I
+[1:13:54] sort of said look I I think it's a
+[1:13:56] fascinating hypothesis it could also be
+[1:13:58] that you're just maybe a little bit
+[1:14:00] tired in the evening and but it's it's
+[1:14:03] entirely possible I don't know of any
+[1:14:05] evidence yet that supports that I
+[1:14:07] suppose the alternative hypothesis that
+[1:14:09] there's simply a certain amount of time
+[1:14:12] that needs to elapse After experiencing
+[1:14:14] something new that one wants to learn
+[1:14:16] the trigger for learning is I don't know
+[1:14:18] some biochemical SL neural signal that's
+[1:14:22] like a wavefront and it takes a while
+[1:14:24] for that wave to go ashore which is
+[1:14:26] learning and that independent of how
+[1:14:29] much sleep one gets or the quality of
+[1:14:30] sleep that the learning could occur I
+[1:14:32] suppose that's one idea no that's in
+[1:14:35] fact precisely the central hypothesis
+[1:14:37] that we then set out to test which is
+[1:14:39] that your maybe it's it's practice then
+[1:14:43] some time that helps you create that
+[1:14:47] perfect motor routine that's one
+[1:14:49] hypothesis but let's split that apart
+[1:14:52] maybe it's time but time spent awake or
+[1:14:55] is it time but time spent asleep so we
+[1:14:58] designed a study to disambiguate between
+[1:15:01] those two both groups learned a motor
+[1:15:04] skill task and it's very much like
+[1:15:06] learning a piano and you learn a
+[1:15:08] sequence of movements let's just say
+[1:15:10] 41324 and we have you type that out over
+[1:15:13] and over again for periods of 30 seconds
+[1:15:15] and then you rest for 30 seconds and
+[1:15:16] then you do it again you do 12 of those
+[1:15:19] trials and sure enough practice seemed
+[1:15:22] to get you better and you were learning
+[1:15:25] and your learning curve went up and then
+[1:15:27] we brought those participants back 12
+[1:15:29] hours later and we retested them on that
+[1:15:32] same motor memory half of those
+[1:15:35] participants spent that 12 hours awake
+[1:15:37] the others had a night of sleep in
+[1:15:39] between an 8 Hour night of sleep when we
+[1:15:42] brought the people who had learned in
+[1:15:44] the morning and tested in the evening
+[1:15:46] without sleep they had retained that
+[1:15:49] memory they were no worse they were just
+[1:15:51] no better but in the people who had
+[1:15:54] slept
+[1:15:55] what was stunning was that they had
+[1:15:58] improved their performance output speed
+[1:16:01] by 20% and they'd improved their
+[1:16:04] accuracy by almost
+[1:16:07] 37% wow so in other words it wasn't time
+[1:16:13] that you needed to produce Perfection it
+[1:16:16] was time with sleep in other words
+[1:16:19] you've often heard the statement
+[1:16:21] practice makes perfect but we violated
+[1:16:24] that edict it wasn't practice that makes
+[1:16:26] perfect it's practice with a night of
+[1:16:29] sleep that makes or leads to perfection
+[1:16:33] in other words after learning your brain
+[1:16:36] continues to improve in the absence of
+[1:16:39] any further practice however that
+[1:16:41] learning occurs exclusively during
+[1:16:44] periods of offline sleep and not across
+[1:16:47] equivalent time periods while you're
+[1:16:49] awake now what was interesting in the
+[1:16:52] group that remained awake across those
+[1:16:54] 12 hours
+[1:16:55] we then actually brought them back after
+[1:16:57] a further 12 hours but now after a night
+[1:16:59] of sleep and they showed that beautiful
+[1:17:03] benefit so the
+[1:17:06] sleep that can let's say enhance
+[1:17:09] although I think what we're really
+[1:17:11] talking about here that consolidates
+[1:17:13] motor learning yeah can arrive the night
+[1:17:16] after meaning one finishes let's say
+[1:17:19] learning at I don't know 11:00 a.m. and
+[1:17:20] then they sleep later that night or the
+[1:17:23] following night and in both instances
+[1:17:25] that sleep can enhance or let's say
+[1:17:28] consolidate the motor learning that
+[1:17:30] occurred that's right so it was to your
+[1:17:32] question actually that we discussed
+[1:17:33] earlier and I recall now I didn't answer
+[1:17:35] it which is that you the things that you
+[1:17:38] learn throughout the day you don't have
+[1:17:39] to worry about learning them really
+[1:17:42] close to bedtime so that they're
+[1:17:44] available and accessible for this sleep
+[1:17:46] dependent work of sleep after learning
+[1:17:49] it seems to be that the human
+[1:17:51] brain and we've plotted this we've
+[1:17:54] looked at how
+[1:17:55] at what point does the brain sort of
+[1:17:57] fail in terms of its ability to place on
+[1:18:01] hold sort of on the runway ready to take
+[1:18:04] off into the consolidation phase and it
+[1:18:07] seems to be about 16 hours MH that you
+[1:18:11] can hold on to those freshly formed
+[1:18:13] memories for about 16 hours and then you
+[1:18:16] get the chance to sleep and consolidate
+[1:18:18] them so if you learn at 11:00 in the
+[1:18:20] morning or if you learn at 7:00 p.m. in
+[1:18:23] the evening don't worry about that those
+[1:18:25] memories are still going to be gathered
+[1:18:27] together in the beautiful receptive arms
+[1:18:29] of sleep and then knitted up and
+[1:18:32] enhanced when it comes to procedural
+[1:18:34] memories and by the way that's a key
+[1:18:36] difference to those two types of memory
+[1:18:39] sleep will take fact based memories and
+[1:18:42] simply save them so that you don't
+[1:18:44] forget it doesn't necessarily boost them
+[1:18:47] anymore it just simply prevents you from
+[1:18:49] Forgetting which is what would happen
+[1:18:51] otherwise across a waking day ah key
+[1:18:54] point it's it's not enhancement it's
+[1:18:57] consolidation of or
+[1:19:00] essentially
+[1:19:02] um the way I might think about it is the
+[1:19:04] new information is put into a potential
+[1:19:08] memory bank and that information is
+[1:19:11] either flushed or maintained depending
+[1:19:12] on whether or not you get sleep that's
+[1:19:14] right there's no enhancement enhancement
+[1:19:16] would be supranormal levels of memory if
+[1:19:19] you sleep and that's the case for
+[1:19:21] textbook like memory in other words
+[1:19:23] sleep comes in and it stems the blood
+[1:19:25] flow of forgetting from the memory wound
+[1:19:28] as it were to get I don't know why it
+[1:19:30] came up that's a terrible analogy no I
+[1:19:31] like it I guess we might say Hemorrhage
+[1:19:33] right like it is okay and but so sleep
+[1:19:36] comes in and prevents that from
+[1:19:38] happening but with motor memories it is
+[1:19:41] enhancement it's that when you're awake
+[1:19:43] across the day you don't get any worse
+[1:19:46] which is what happens with fact textbook
+[1:19:48] memory you hold that performance but
+[1:19:52] then sleep comes in and it boosts you
+[1:19:54] even further
+[1:19:55] you get a nice benefit without doing
+[1:19:57] anything
+[1:19:59] further so then the question became to
+[1:20:02] your point if sleep is doing that if
+[1:20:04] it's not practice that makes perfect but
+[1:20:06] practice with sleep what is it about the
+[1:20:09] sleep so we looked at their sleep
+[1:20:11] physiology and what we found were two
+[1:20:13] interesting components first it seemed
+[1:20:16] to be related to that lighter form of
+[1:20:18] stage two nonrem sleep I told you that
+[1:20:21] textbook memory requires deep non-rem
+[1:20:23] sleep stages three and four casting back
+[1:20:26] to episode one motor memory more
+[1:20:29] dependent on stage two and those
+[1:20:30] beautiful spindles that are the Hallmark
+[1:20:33] of beginning your stage two the more of
+[1:20:36] those that you had the greater the
+[1:20:39] memory benefit the next day we then
+[1:20:41] wanted to say well is this effect simply
+[1:20:45] something to do with the
+[1:20:46] nighttime because that's the other
+[1:20:48] hypothesis it's not really about sleep
+[1:20:51] it's just something about night ESS
+[1:20:53] because in all of the studies i'
+[1:20:54] described so far they're all happening
+[1:20:56] at night and at night they were sleeping
+[1:20:59] so is it really nighttime or is it
+[1:21:01] specifically sleep so now we did a nap
+[1:21:04] study with motor skill learning we
+[1:21:05] repeated that and sure enough even
+[1:21:07] though that time period was across the
+[1:21:09] day not during night n they showed this
+[1:21:14] beautiful motor skill benefit if they
+[1:21:16] napped versus if they did not and then
+[1:21:18] in that naps City I was telling you that
+[1:21:20] they were learning the sequence with the
+[1:21:23] um right non-dominant hand and they were
+[1:21:25] all we selected all right handers to to
+[1:21:27] make it equal and they were typing 41324
+[1:21:31] 41324 and that right hand as well you
+[1:21:34] know is controlled by the left motor
+[1:21:36] cortex so after in the nap study when we
+[1:21:39] recorded their sleep we used very high
+[1:21:41] density EEG so lots and lots of sensors
+[1:21:44] on top of the head so we could map with
+[1:21:46] High Fidelity resolution the surface of
+[1:21:49] the brain or the surface of the scalp
+[1:21:51] and infer what's going on in the brain
+[1:21:53] and what was interesting is that yes
+[1:21:55] those sleep spindles the more of them
+[1:21:56] that you had in the nap the better your
+[1:21:58] motor skill learning was but there
+[1:22:01] seemed to be a lateralized effect such
+[1:22:04] that the Sleep spindle activity on the
+[1:22:07] right side of the brain which controls
+[1:22:09] the left hand which was not working that
+[1:22:11] showed no spindle increased in activity
+[1:22:14] however on the right hand activity that
+[1:22:19] invoked activation in the left motor
+[1:22:21] cortex that left motor cortex and
+[1:22:24] specifically Al the hand region showed a
+[1:22:27] local increase in spindle activity and
+[1:22:31] subsequent work and work prior to our
+[1:22:33] had demonstrated that it's not sleep
+[1:22:36] physiology globally it's almost as
+[1:22:39] though your sleep physiology responds to
+[1:22:43] the mapping of the memory in the brain
+[1:22:46] wherever the memory is that's where
+[1:22:48] sleep when you go to sleep sort of
+[1:22:52] starts massaging the cortex so that you
+[1:22:54] get that plasticity it's almost like a
+[1:22:56] good masseuse you know you sort of sit
+[1:22:58] down they say where are your problem
+[1:23:00] points and you say it's it's here and
+[1:23:02] here and so they don't give you a
+[1:23:04] general massage they go to work on the
+[1:23:06] regions that have been working hardest
+[1:23:08] that require greatest attention sleep
+[1:23:11] does that it's a amazing and reminds me
+[1:23:15] of some of this work that was done I
+[1:23:17] think in the late 90s early 2000s
+[1:23:19] Richard Morris and um colleagues over in
+[1:23:22] I think he was in Edinburgh
+[1:23:25] um talked about synaptic tagging you
+[1:23:28] know this notion that animals or humans
+[1:23:31] perform or learn some new motor skill
+[1:23:35] maybe navigation of a novel environment
+[1:23:37] maybe a motor skill of the 41234 that
+[1:23:40] you described you know keys on a piano
+[1:23:42] or something like that and then it was
+[1:23:45] acknowledged that the the changes in the
+[1:23:47] connections between neurons don't occur
+[1:23:49] immediately which meant that there had
+[1:23:50] to be some sort of tag or label to the
+[1:23:53] synapsis that marked them for
+[1:23:56] consolidation later for plasticity
+[1:23:57] long-term potentiation things of that
+[1:23:59] sort the names don't really matter um I
+[1:24:02] think later it became clear based on
+[1:24:05] Marcus Frank's work and others that
+[1:24:07] indeed during sleep the hard rewiring of
+[1:24:12] the nervous system occurs plasticity
+[1:24:14] occurs but what you're saying is that
+[1:24:17] there's a high degree of
+[1:24:18] specificity meaning the specific
+[1:24:21] circuits that were active and required
+[1:24:23] for the learning are the specific
+[1:24:25] circuits that are modified which on the
+[1:24:26] face of it one could say well of course
+[1:24:28] what that means is that during sleep the
+[1:24:31] brain is um somehow able to uh the
+[1:24:35] neurons of the brain that is are able
+[1:24:38] to chemically or electrically or both
+[1:24:42] signal like this is where that there
+[1:24:45] needs to be some modifications done and
+[1:24:48] then then like a night crew um the the
+[1:24:51] brain self- induces its own changes
+[1:24:54] which is remarkable it really is it's
+[1:24:56] almost as though there are red flags
+[1:24:58] that are planted in the territories that
+[1:25:00] have undergone learning dependent
+[1:25:03] plasticity and they are calling out
+[1:25:06] almost like you know hungry mouths that
+[1:25:09] are in plasticity famine for the feast
+[1:25:13] relief that comes by way of sleep do we
+[1:25:16] know what the factors are that are
+[1:25:18] released in sleep that allow that to
+[1:25:20] occur or is it I'm guessing there are
+[1:25:22] many people love to talk about brain
+[1:25:23] derived neutrophic Factor bdnf but which
+[1:25:27] is a very interesting molecule but um
+[1:25:29] it's probably just one of a panoply of
+[1:25:31] of molecules that are that are important
+[1:25:34] we we don't know necessarily the
+[1:25:35] neurochemical processes although some
+[1:25:37] people have manipulated plasticity and
+[1:25:40] then blocked it with different types of
+[1:25:42] nmda which is a certain type of receptor
+[1:25:45] in the brain for excitatory activity
+[1:25:48] which is the underlying basis of brain
+[1:25:51] plasticity so that certainly is
+[1:25:53] dependent but what's interesting about
+[1:25:55] the sleep spindles I said in the first
+[1:25:57] episode that they burst somewhere
+[1:25:59] between about 12 to 15 times per
+[1:26:02] second if you apply that type of
+[1:26:05] stimulation to a particular neuronal
+[1:26:08] circuit within the brain that seems to
+[1:26:11] be one of the and it's not the only but
+[1:26:14] one of the ideal sort of Sweet Spot
+[1:26:18] tickling of neurons that forces them to
+[1:26:21] say oh I think I should strengthen this
+[1:26:23] circuit so it's almost as though these
+[1:26:25] sleep spindles are ideally designed at
+[1:26:29] the frequency at the sort of tickling
+[1:26:31] level of neurons to stimulate exactly
+[1:26:35] what we think is the underlying basis of
+[1:26:36] strengthening a memory which is at the
+[1:26:39] level of the neurons the
+[1:26:42] strengthening of synapses so interesting
+[1:26:45] um because we hear this fire together
+[1:26:47] wire together high frequency
+[1:26:48] transmission between neurons is what
+[1:26:51] creates plasticity but this is literally
+[1:26:53] a replay of previously meaning earlier
+[1:26:56] that day or the previous day as you
+[1:26:57] pointed out activity in the given
+[1:26:59] circuit being replayed not unlike the
+[1:27:02] the the work that you talked about
+[1:27:03] earlier the fast replay of neurons in in
+[1:27:06] the hippocampus but here it's not
+[1:27:08] necessarily just in the hippocampus it
+[1:27:09] can be in the neocortex or other
+[1:27:11] structures that then builds up the uh
+[1:27:15] the the Vigor with which that circuit
+[1:27:17] can function in the daytime AKA learning
+[1:27:20] um is it's super interesting you
+[1:27:23] mentioned that this is occurring largely
+[1:27:24] in stage two of sleep not in rapid eye
+[1:27:27] movement sleep is this business of stage
+[1:27:29] two being the the main period of sleep
+[1:27:31] in which motor learning occurs unique to
+[1:27:33] motor learning in other words cognitive
+[1:27:36] information um surely can get um wired
+[1:27:39] into the brain at night but is that
+[1:27:41] largely Associated just with rapid eye
+[1:27:43] movement sleep what this would suggest
+[1:27:46] in other words is that the earlier
+[1:27:48] stages of sleep 1 and two and heading
+[1:27:51] into three and four serves a specific
+[1:27:53] purpose which
+[1:27:55] is consolidation of motor skills and and
+[1:27:58] motor learning from the previous one or
+[1:28:00] two days it does seem to be that stage
+[1:28:02] two stage one is we now think of more of
+[1:28:05] a transitional stage but we will speak
+[1:28:09] perhaps when we discuss the idea of
+[1:28:11] creativity that it also may have a
+[1:28:13] memory function that very light first
+[1:28:16] step of sleep stage two is certainly
+[1:28:19] related to motor skill in fact stage two
+[1:28:21] is fascinating we used to think of it as
+[1:28:24] just the stage that you had to go into
+[1:28:26] to get to deep sleep and the stage that
+[1:28:28] you had to go back through to get up to
+[1:28:31] REM sleep never made any sense to me why
+[1:28:35] because stage two non-rm sleep is about
+[1:28:38] 40 to 50% of your night why would you
+[1:28:41] spend 40 to 50% of your time asleep when
+[1:28:45] it's just simply a gate to get to
+[1:28:47] something better you would spend more
+[1:28:49] time in the something to something
+[1:28:52] that's better stages
+[1:28:54] so we started to find functions and
+[1:28:56] stage two is dist distributed throughout
+[1:28:58] the night but those sleep spindles in
+[1:29:01] stage two are not evenly distributed
+[1:29:04] throughout the night you get some of
+[1:29:07] them in the first quarter more of them
+[1:29:08] in the second quarter of sleep certainly
+[1:29:11] more in the third quarter but you get a
+[1:29:13] lot more of those sleep spindles in the
+[1:29:15] last quarter of the night and in fact
+[1:29:17] when we looked at the overnight study
+[1:29:19] where we' had people learn in the
+[1:29:21] evening tested the next day we recorded
+[1:29:23] their sleep in between
+[1:29:25] yes sleep spindles predicted and stage
+[1:29:27] two predicted how much better they were
+[1:29:29] the next day but it was especially stage
+[1:29:32] two in the last quarter of the night
+[1:29:35] let's say I'm going to bed at I'm just
+[1:29:37] for argument sake for ease midnight and
+[1:29:39] I'm waking up at 8 it's in that sort of
+[1:29:41] 6:00 a.m. to 8 a.m. range when I if I
+[1:29:45] was going to sleep at that time would be
+[1:29:47] getting my stage two and I find that
+[1:29:49] interesting because it is the time of
+[1:29:52] night that we all feel it's okay to cut
+[1:29:55] short to get a jump start on the day
+[1:29:57] it's this Modern Life erosion of our
+[1:30:00] sleep time and what these findings would
+[1:30:03] suggest is that you are short changing
+[1:30:05] your brain of some significant motor
+[1:30:08] memory performance especially those
+[1:30:10] classic Olympic coaches that have their
+[1:30:12] Athletes Training until you know 8 in
+[1:30:15] the evening and then you know they're in
+[1:30:18] bed by sort of 10 or 11: but they have
+[1:30:20] them waking up at 5: back on the
+[1:30:23] athletic field at 6 but they would gain
+[1:30:26] some additional motor memory benefit if
+[1:30:28] you just let them sleep a little bit
+[1:30:30] longer I recall there was a study done
+[1:30:32] at Stanford relatively small study um
+[1:30:35] but interesting nonetheless because I
+[1:30:37] think it was the basketball team that
+[1:30:38] was asked to um spend I think an
+[1:30:42] additional two hours in bed there a
+[1:30:45] sleep extensions today um and they were
+[1:30:47] even told that they could do other
+[1:30:49] things in bed uh besides sleep um there
+[1:30:52] might have been some specifications of
+[1:30:54] you know things they should not do in
+[1:30:55] bed during that time um but at least by
+[1:30:58] self-report some of the students said
+[1:31:00] that they slept a bit more or they
+[1:31:02] relaxed a bit more in bed and indeed
+[1:31:04] when compared to the control group there
+[1:31:05] was a significant Improvement in their
+[1:31:08] um I forget if it was three throw free
+[1:31:10] throw percentage excuse me um or other
+[1:31:13] metrics of a basketball performance yeah
+[1:31:15] it was the point scoring performance it
+[1:31:17] was the speed up and down the court it
+[1:31:19] was a great study done by Sher Mah at uh
+[1:31:22] Stanford University um and she's done
+[1:31:24] epic work with athletes to to sort of
+[1:31:26] replicate those findings and the athlete
+[1:31:29] story is interesting some people may be
+[1:31:31] saying well didn't you just make a hop
+[1:31:33] skip and a jump from you know 41324 to
+[1:31:36] inferring complex motor skill I thought
+[1:31:39] about that so we did a a new series of
+[1:31:41] studies where we this is control that's
+[1:31:44] the nice thing about the sort of typing
+[1:31:46] on a sequence you can really measure
+[1:31:48] that performance with high sort of
+[1:31:49] accuracy but we then switched it to a b
+[1:31:52] manual task much more like learning to
+[1:31:54] play a piano and you were learning
+[1:31:56] sequences that were 12 14 items in
+[1:31:59] length and you had to learn them over
+[1:32:00] and over and we had a hypothesis would
+[1:32:04] sleep fail at the the task when motor
+[1:32:07] skill performance became much more
+[1:32:09] complex or would it be different and
+[1:32:11] what we found was that the more and more
+[1:32:13] complex the motor skill became the
+[1:32:15] greater and the greater the benefit of
+[1:32:17] sleep um by way of that consolidation
+[1:32:20] effect and then I started to hear
+[1:32:23] something cuz I would often be in the
+[1:32:24] room as these participants were learning
+[1:32:26] the sequence and then as they were
+[1:32:29] testing and my ears started to hear
+[1:32:32] something that I I couldn't quite
+[1:32:35] believe to begin with they would start
+[1:32:37] to learn these motor
+[1:32:39] sequences but they would seem to have
+[1:32:41] these pauses and it's what we call
+[1:32:43] chunking in motor skill memory so
+[1:32:45] instead of 41324 41324 they would do
+[1:32:49] 41324
+[1:32:51] 41324 and I would have them be using the
+[1:32:53] same keyboard and I got to know the
+[1:32:55] sound of the the keyboard so I could
+[1:32:57] hear it 41324 41324 and then when they
+[1:33:00] came back the next day yes they were
+[1:33:03] performing faster but they weren't just
+[1:33:04] doing 4132 4
+[1:33:06] 41324 they were simply doing 413 24 4 3
+[1:33:11] there was no Gap at all so we went into
+[1:33:14] the individual responses individual
+[1:33:16] motor sort of finger responses and sure
+[1:33:19] enough before sleep there were these
+[1:33:22] very clear problem points on these pain
+[1:33:24] points in the motor memory sequence but
+[1:33:27] then when we came back after a night of
+[1:33:29] sleep and looked at their data it wasn't
+[1:33:31] as though sleep simply grabbed the motor
+[1:33:34] skill memory sort of profile and lifted
+[1:33:37] everything up sleep was selectively
+[1:33:40] going after those pain points and
+[1:33:42] improving them and that to me was
+[1:33:45] interesting because that's the goal of a
+[1:33:47] good athlete it is
+[1:33:50] automaticity you don't want to be
+[1:33:52] thinking about it at some point you go
+[1:33:54] from a very conscious Act of
+[1:33:56] deliberately trying to remember what you
+[1:33:58] should be doing to then not thinking
+[1:34:00] about it at all it's only automaticity
+[1:34:03] that gives you that ability not to think
+[1:34:06] and it operates below the level of
+[1:34:09] Consciousness super interesting and here
+[1:34:12] we're talking about specific changes in
+[1:34:14] the
+[1:34:15] brain terms of neural activity Etc that
+[1:34:18] occur during sleep when we've been
+[1:34:20] exposed to or engaged in a particular
+[1:34:23] novel for us motor skill and you see
+[1:34:27] this you know these spindles in stage
+[1:34:28] two Etc but does it work the other way
+[1:34:31] as well meaning does the process of
+[1:34:34] trying to learn a new motor skill
+[1:34:37] enhance certain components of sleep or
+[1:34:39] maybe even one's ability to sleep you
+[1:34:42] know years ago I heard uh that
+[1:34:47] practicing
+[1:34:49] unilateral leg movements this is a
+[1:34:52] perhaps a crazy idea but but it makes
+[1:34:54] sense in the context of what we're
+[1:34:55] talking about practicing unilateral leg
+[1:34:57] movements things like you know
+[1:34:58] everyone's familiar with squats and
+[1:35:00] deadlifts and things of that sort but
+[1:35:01] there are some one-legged movements like
+[1:35:03] a pistol Squad a pistol Squad that's
+[1:35:05] pretty hard um if one can do them I'm
+[1:35:07] always impressed um Bulgarian split
+[1:35:10] squats you know foot up on the bench and
+[1:35:11] then squatting down with a dumbbell
+[1:35:13] things like that were just unilateral
+[1:35:15] movements that require a lot of mental
+[1:35:18] attention to the performance of that
+[1:35:20] movement could be in the gym but it
+[1:35:22] could be something else as well you
+[1:35:23] think about a dancer trying to learn how
+[1:35:25] to um organize their their steps um
+[1:35:28] where they have to pay careful attention
+[1:35:30] to right versus Left Foot Right they
+[1:35:31] always say you know like two people have
+[1:35:33] two right feet that can't people can't
+[1:35:34] dance have two right feet or two left
+[1:35:35] feet by the way for those listening
+[1:35:36] Andrew is looking at me right now when
+[1:35:38] he's saying two right feet rightfully so
+[1:35:40] no I I have no knowledge of your your
+[1:35:43] dancing ability or or or challenges
+[1:35:46] thereof um as I recall there may have
+[1:35:49] been some some uh very preliminary data
+[1:35:52] about changes in
+[1:35:54] the amount of certain sleep stages
+[1:35:55] according to whether or not someone had
+[1:35:57] tried to learn a skill in this case
+[1:35:59] unilateral uh uh
+[1:36:02] limb performance the previous day so in
+[1:36:05] other words if one wants to improve
+[1:36:07] their
+[1:36:08] sleep would the attempt to learn a new
+[1:36:11] motor skill be one Avenue to to improve
+[1:36:13] one's sleep it's it's interesting if you
+[1:36:16] look at some of the data it's a little
+[1:36:17] bit mixed in terms of motor skill
+[1:36:19] learning but there are some studies
+[1:36:22] demonstrating that it's true for
+[1:36:24] textbook like memory and there's a study
+[1:36:26] gosh done many years ago Again by the
+[1:36:29] great German group of yan born and they
+[1:36:32] simply ask the question if you were
+[1:36:35] to just not be learning very
+[1:36:38] deliberately and intensively through a
+[1:36:41] textbook like set of information and
+[1:36:43] then we just measure your sleep to get a
+[1:36:45] Baseline and then we force you to have a
+[1:36:49] very long very intensive learning
+[1:36:51] session of these facts and then when we
+[1:36:54] measure your sleep again is there any
+[1:36:56] difference relative to the non-intensive
+[1:36:59] learning day versus the Intensive
+[1:37:01] learning day and indeed what they found
+[1:37:03] was that there was an increase in their
+[1:37:05] deep non-rem sleep in their deep slow
+[1:37:07] wave sleep and again we think it's
+[1:37:10] almost we describe it as a homeostatic
+[1:37:13] response which is just a fancy way of
+[1:37:15] saying that when the brain is driven to
+[1:37:19] undergo a demand then sleep will respond
+[1:37:22] to try to accommodate that demand and so
+[1:37:27] I would say that there are probably many
+[1:37:29] other things and we discussed this in
+[1:37:30] episode 2 in terms of a how to optimize
+[1:37:33] your sleep that probably carry a bigger
+[1:37:35] bang for your buck in terms of
+[1:37:38] optimizing and enhancing your sleep but
+[1:37:41] is there any evidence to suggest that
+[1:37:43] that's the case there does seem to be
+[1:37:45] some evidence in the literature yeah so
+[1:37:48] interesting I I certainly know the
+[1:37:51] experience of trying to learn a lot of
+[1:37:53] information and then feeling like my
+[1:37:54] sleep is that much deeper although I've
+[1:37:57] also experienced the challenges in quote
+[1:37:59] unquote turning my brain off when I've
+[1:38:01] been trying to learn something and then
+[1:38:02] it's late in the evening forget the
+[1:38:04] caffeine component you know just that
+[1:38:06] the the information is spooling in my
+[1:38:08] head maybe some pre uh test anxiety that
+[1:38:12] kind of thing so I think the the tools
+[1:38:14] and protocols that um you offered so
+[1:38:17] generously in episodes one two and three
+[1:38:20] are especially important under those
+[1:38:21] conditions learning how to really taper
+[1:38:24] off one's level of of thinking and
+[1:38:26] planning and arousal in the evening
+[1:38:28] really bring things down so that one can
+[1:38:30] access that sleep I mean one only wishes
+[1:38:32] that the more we did during the day the
+[1:38:34] easier it would be to sleep I think to
+[1:38:36] some extent that's true but there's
+[1:38:38] there's some um there's some conditions
+[1:38:40] in which doing more thinking about more
+[1:38:43] and and I guess that's sort of the the
+[1:38:45] irony right I interrupted myself but on
+[1:38:47] purpose that wouldn't it be wonderful if
+[1:38:50] the amount and ease of sleep was
+[1:38:52] directly proport to how much we needed
+[1:38:54] to sleep that's that's one of the the
+[1:38:57] tricks in this whole business system
+[1:38:59] sometimes right like sometimes when we
+[1:39:01] really need sleep we're dealing with
+[1:39:03] something psychologically challenging or
+[1:39:04] we need to learn something we have an
+[1:39:06] exam that often can be when it's most
+[1:39:09] difficult to sleep gets right in the way
+[1:39:10] of what we need most although coming
+[1:39:13] back to your point I think physical
+[1:39:16] activity does seem to be one of those
+[1:39:18] things that is very good and I'm I I'm
+[1:39:21] remiss to have not included it in the
+[1:39:23] optimization or the unconventional tips
+[1:39:26] there is a very good robust literature
+[1:39:28] now demonstrating that if you are
+[1:39:31] Physically Active during the day you can
+[1:39:33] boost the quality of your sleep
+[1:39:35] particularly your deep sleep at
+[1:39:38] night it seems to be there are some
+[1:39:41] subtle differences in terms of whether
+[1:39:43] you're doing aerobic versus anerobic so
+[1:39:45] let's say versus you know doing a spin
+[1:39:47] bike class for an hour versus lifting
+[1:39:50] resistance uh or doing resistance
+[1:39:52] training for an hour or strength
+[1:39:53] training there's subtle differences but
+[1:39:56] netet overall the big picture of you is
+[1:39:58] that when you perform exercise you drive
+[1:40:01] a response from enhanced sleep
+[1:40:03] particularly deep sleep at night and I
+[1:40:05] think many people have had that
+[1:40:06] experience you've been out on a long
+[1:40:08] hike maybe a 10 12 mile hike or you've
+[1:40:11] just been working in the garden doing
+[1:40:14] really you know sort of long Landscaping
+[1:40:17] work throughout the day six or seven
+[1:40:18] hours and you just come in and you go to
+[1:40:22] bed that night and you you just know
+[1:40:25] that this is going to be the most Royal
+[1:40:27] night of sleep that you could you know
+[1:40:29] it ahead of time you know sort of
+[1:40:32] earhole to to Elbow um and that evidence
+[1:40:37] is now very clear the the one
+[1:40:38] interesting thing if you dig into that
+[1:40:40] data though you can drive increases in
+[1:40:43] deep Sleep by way of exercise it does
+[1:40:46] seem to come at a little bit of cost to
+[1:40:48] REM sleep exercise May throttle back
+[1:40:51] some of your REM sleep now don't fear
+[1:40:54] that it may just simply be that every
+[1:40:56] night and we know this my sleep and my
+[1:41:00] stage stages of sleep are going to be
+[1:41:02] much different to to yours in how they
+[1:41:04] are structured and how they play out but
+[1:41:06] even within me the same individual Matt
+[1:41:10] my sleep stages vary from one night to
+[1:41:13] the next to the next some of that is
+[1:41:15] idiosyncratic others are or other
+[1:41:18] reasons depend on what I've been doing
+[1:41:20] during the day and so it may be that we
+[1:41:22] don't need to get concerned about that
+[1:41:24] modest reduction in rem due to exercise
+[1:41:27] enhanced nonrem because it's simply that
+[1:41:29] when you've gone through that form of
+[1:41:32] activity as a human being during the day
+[1:41:34] what you need is that type of sleep more
+[1:41:37] so than perhaps REM sleep and therefore
+[1:41:40] the next night things calibrate back
+[1:41:42] down let's say I wasn't as active I just
+[1:41:44] sort of went to work durly and I'm back
+[1:41:46] to Baseline again so I don't get too
+[1:41:49] concerned about that but I just want to
+[1:41:50] bring it up it's there in the literature
+[1:41:52] yeah I think it's a very interesting
+[1:41:54] point and one just has to trust that
+[1:41:56] nature Knows Best in modifying the
+[1:41:59] percentage of different sleep stages
+[1:42:02] according to our daytime activity again
+[1:42:04] highlighting the the key uh relationship
+[1:42:07] I mean the the closely tethered
+[1:42:09] relationship between daytime activity
+[1:42:11] and sleeve and vice versa correct yeah
+[1:42:14] and it's a it's a reciprocal Loop
+[1:42:17] because what we found is that exercise
+[1:42:19] during the day can enhance sleep at
+[1:42:20] night but also what we found is that
+[1:42:23] sleep at night enhances your athletic
+[1:42:26] performance the following day and I'm
+[1:42:27] not just talking about motor skill
+[1:42:29] memory upstairs in the brain I'm talking
+[1:42:30] about physical activity in the body and
+[1:42:33] if you limit sleep to let's say less
+[1:42:35] than 6 hours the data demonstrates that
+[1:42:37] your Peak muscle performance is
+[1:42:39] decreased your Peak vertical jump height
+[1:42:42] decreases your time to exhaustion
+[1:42:45] decreases by in some studies it was up
+[1:42:47] to 30% so if you're training for a 10K
+[1:42:50] Marathon but you don't get enough sleep
+[1:42:52] the night before you're done by seven we
+[1:42:55] also know that it decreases perhaps more
+[1:42:57] than almost any of those and it's
+[1:43:00] striking the brain's motivation to
+[1:43:04] exercise at all so in fact many people
+[1:43:07] may be able to get close to their Peak
+[1:43:09] muscle strength when they are underslept
+[1:43:12] chances are they're probably never going
+[1:43:14] to get to the chance to express that
+[1:43:16] because their motivation to exercise
+[1:43:18] just drops off and I think many people
+[1:43:19] will resonate that you had a bad night
+[1:43:21] of sleep I just don't want to go go to
+[1:43:23] the gym the next day the final part of
+[1:43:25] that is injury risk there is a
+[1:43:27] significantly elevated injury risk and
+[1:43:29] if you ask most athletes okay what am I
+[1:43:32] particularly concerned about is it my
+[1:43:34] performance or if I had some kind of
+[1:43:37] injury that knocks me out for the rest
+[1:43:38] of the season and so I've had the
+[1:43:41] fortunate chance to work with many
+[1:43:43] professional teams uh of different kinds
+[1:43:45] and gradually they are realizing what
+[1:43:48] I've sort of long said and it's a crash
+[1:43:50] statement but I think sleep is probably
+[1:43:52] the greatest legal performance-enhancing
+[1:43:54] drug that most athletes are not abusing
+[1:43:57] enough I could not agree more I mean I
+[1:44:00] feel like every time I say sleep is the
+[1:44:02] Bedrock of mental health physical health
+[1:44:03] and performance it
+[1:44:06] um it's sometimes perceived is just kind
+[1:44:09] of like oh yeah sleep we need to sleep
+[1:44:11] um but there's no question that it the
+[1:44:15] positive effects of getting excellent
+[1:44:17] sleep on a consistent basis um far out
+[1:44:21] way and perform any kind of
+[1:44:23] supplement or even performance enhancing
+[1:44:25] drug in fact those Mo most supplements
+[1:44:27] and performance enhancing drugs that can
+[1:44:29] indeed improve performance of various
+[1:44:31] kinds seem to only function or function
+[1:44:34] best certainly on a backdrop of
+[1:44:37] excellent sleep and I should say that
+[1:44:39] you I think you've done a brilliant job
+[1:44:41] of being very explicit about the fact
+[1:44:44] that you need to get all of the basics
+[1:44:46] in place and then it's great to think
+[1:44:49] about fine tweaking with optimization of
+[1:44:52] things like supplement ation and all of
+[1:44:53] these other things and I think sometimes
+[1:44:56] that message has been maybe a little bit
+[1:44:58] more mixed in the social media
+[1:45:01] environment that we often don't think
+[1:45:04] about the basics and we go straight to
+[1:45:05] supplementation where you would say gosh
+[1:45:08] there's actually a log order of
+[1:45:09] magnitude benefit that's on the table if
+[1:45:12] only you to do some of the basic things
+[1:45:14] that your your grandmother would
+[1:45:15] probably tell you you know eat right get
+[1:45:18] your stress sorted out do some physical
+[1:45:21] activity and make sure that you get some
+[1:45:22] sleep do those things and you're very
+[1:45:24] far along now there's more opportunity
+[1:45:26] on the table for fine tuning as as
+[1:45:28] you've elegantly discussed but I think I
+[1:45:30] just want to acknowledge that I think
+[1:45:31] you've done a really great job of being
+[1:45:34] balanced in that message um and I hope
+[1:45:37] people um in the general sphere can
+[1:45:40] appreciate how hard that is to do it's
+[1:45:42] not an easy thing when you are talking
+[1:45:44] about supplementation because at first
+[1:45:46] it sounds as though gosh all of this
+[1:45:48] speak and you describe great data means
+[1:45:50] that it is the Holy Grail
+[1:45:53] of enhanced human beings but you're
+[1:45:56] always careful to say this after the
+[1:45:58] foundation and I can give a very good
+[1:46:00] example with sleep let's say that you're
+[1:46:02] trying to manage your weight and lose
+[1:46:04] weight and you're dieting but you're not
+[1:46:07] getting sufficient sleep what we've
+[1:46:09] discovered is that yes you will lose
+[1:46:11] weight when you're dieting even though
+[1:46:15] you're not getting enough sleep the
+[1:46:16] problem is that almost 60% of the weight
+[1:46:19] that you lose will come from lean muscle
+[1:46:22] mass
+[1:46:23] and not fat in other words when you are
+[1:46:26] unders slapped and dieting you keep what
+[1:46:29] you're trying to lose which is the fat
+[1:46:31] and you lose what you wish to keep which
+[1:46:34] is the muscle so your body does
+[1:46:36] something very interesting in its um
+[1:46:40] removal of different types of energy
+[1:46:42] stores in your body when you are not
+[1:46:45] slept it becomes very stingy with fat
+[1:46:48] and it will not give it up when you are
+[1:46:51] sleep deprived which is very why would
+[1:46:53] that be by the way muscle such a
+[1:46:56] metabolically demanding tissue you know
+[1:46:58] if you're you're send by not sleeping
+[1:46:59] well you're sending signals that there
+[1:47:01] really isn't the capacity to take care
+[1:47:02] of what you already have much less uh
+[1:47:05] increase the size of the engine that's
+[1:47:07] exactly right and then think about fat
+[1:47:09] which is in terms of its energy you know
+[1:47:12] unit benefit it has you know at least
+[1:47:15] perhaps twice the caloric value that
+[1:47:18] protein does so if you are underslept
+[1:47:21] that is a warning sign to any
+[1:47:22] evolutionary species past that things
+[1:47:25] are dire so whatever I'm going to do
+[1:47:28] this is break glass in case of emergency
+[1:47:31] situation and if you're not getting
+[1:47:33] enough calories I'm going to hold on to
+[1:47:35] the thing that has the highest caloric
+[1:47:37] value right until the end which is fat
+[1:47:41] and I'm going to give away the stuff
+[1:47:43] that doesn't have as much caloric
+[1:47:45] benefit because I am in a caloric
+[1:47:47] deficit right now now of course that's
+[1:47:49] strange because the person trying to
+[1:47:51] lose weight perhaps is rightfully trying
+[1:47:53] to lose weight based on them being
+[1:47:55] somewhat overweight but that's the
+[1:47:58] biology that we think explains why that
+[1:48:00] that's the case it's not just a strange
+[1:48:02] phenomenon it's a very logical one yeah
+[1:48:05] it is a logical one and and thanks for
+[1:48:06] the um the support around um you know my
+[1:48:11] constant um voicing and revoicing of the
+[1:48:15] the pillars of Health you mention you
+[1:48:16] know exercise SLE well I put it in the
+[1:48:19] order of sleep as the the most important
+[1:48:21] pillar um and then one could argue about
+[1:48:24] the the order of the others but in no
+[1:48:26] specific order um light which dovet
+[1:48:29] tales with sleep but um
+[1:48:31] nutrition movement exercise uh social
+[1:48:34] connection stress modulation these these
+[1:48:36] kinds of things yeah the fact the speed
+[1:48:39] with which that comes out of your mouth
+[1:48:40] tells you how many times you've you
+[1:48:43] you've said it and you've said it over
+[1:48:44] and over it's wonderful well thank you
+[1:48:46] it's it's interesting because they are
+[1:48:48] the basics but um they are Basics that
+[1:48:50] need to be re-up every 24 hours so often
+[1:48:53] I feel like we all need to be reminded
+[1:48:56] every 24 hours I also you know one of
+[1:48:58] the most common questions I get is what
+[1:49:00] should I take people like if I had a
+[1:49:02] dollar for every time somebody said what
+[1:49:03] should I take you know i' I'd keep
+[1:49:05] podcasting but I'd be a gazillionaire um
+[1:49:08] but my response is always the same which
+[1:49:10] is how's your sleep the first question I
+[1:49:12] say is how's your sleep and then they
+[1:49:13] think I'm going to suggest a sleep
+[1:49:14] supplement but I want to know whether or
+[1:49:16] not people are sleeping well on a
+[1:49:17] consistent basis and that that opens up
+[1:49:19] a a whole set of discussions and that um
+[1:49:22] inevitably we forget about the what one
+[1:49:24] should take conversation I think it's
+[1:49:26] the rare individual who's sleeping very
+[1:49:28] well every n of their life there are
+[1:49:30] such individuals and then the the what
+[1:49:32] should I take conversation makes sense
+[1:49:34] in a certain context there's something I
+[1:49:36] wanted to just uh return to uh for a
+[1:49:38] moment before I move on to the next
+[1:49:41] topic which is you mentioned all the um
+[1:49:44] significant deficits that occur in Motor
+[1:49:46] Performance when one has not slept that
+[1:49:49] well the night before grip strength a
+[1:49:51] vertical jump motivation Etc um you know
+[1:49:55] we're not here to um to deliver anything
+[1:49:59] except the facts to people at we we're
+[1:50:02] certainly not here to soften the blow of
+[1:50:04] reality but there are a good number of
+[1:50:06] people that will have say a physical
+[1:50:08] performance like a race they're training
+[1:50:10] for a half marathon or um they have a a
+[1:50:13] big game the next day or um they have
+[1:50:16] some Performance Event the next day and
+[1:50:18] by virtue of butterflies um anxiety
+[1:50:21] travel an alarm going off in a hotel in
+[1:50:24] the middle of the night I've had that
+[1:50:25] experience Etc that they may not get the
+[1:50:28] best night sleep the night before and
+[1:50:31] and obviously there are going to be
+[1:50:33] ramifications of that but
+[1:50:36] um I'm reminded of a study that was done
+[1:50:39] by Ali crumbs Lab at Stanford where
+[1:50:43] they people wear sleep
+[1:50:45] trackers and then and they actually knew
+[1:50:49] how much and how well or poorly they s
+[1:50:52] slept the night before I don't know how
+[1:50:54] detailed the analysis was but it stford
+[1:50:55] sleep center so presumably it was it was
+[1:50:57] reasonably detailed and then the next
+[1:50:59] day with that knowledge in
+[1:51:03] hand either lied to the people or told
+[1:51:06] them the truth about how well they had
+[1:51:08] slept the night before or poorly for
+[1:51:10] instance if someone had got eight hours
+[1:51:11] of great sleep the night before they
+[1:51:13] might have told them hey you got eight
+[1:51:15] hours of great sleep the night before or
+[1:51:16] they might have been in a condition
+[1:51:17] where they said hey you know what your
+[1:51:19] sleep last night wasn't that great yeah
+[1:51:21] or if somebody got five hours of sleep
+[1:51:24] they might have said hey you know you
+[1:51:25] got eight hours of great sleep so there
+[1:51:26] was a ly a lot of lying involved in this
+[1:51:28] study but basically what they observed
+[1:51:31] is that
+[1:51:32] performance in I think it was motor
+[1:51:34] skill performance but it might have been
+[1:51:36] cognitive but the the that's not the the
+[1:51:38] issue here the the point is that much of
+[1:51:41] our performance can be dependent on our
+[1:51:44] subjective understanding of how well or
+[1:51:47] poorly we slept the night before in
+[1:51:49] other words there can be belief effects
+[1:51:51] that's right so this one the concerns
+[1:51:53] about placing too too much emphasis on
+[1:51:58] the one poor night sleep you know and
+[1:52:00] obviously people should be mindful of
+[1:52:02] injury as you pointed out but if someone
+[1:52:03] has a big race or a big event the next
+[1:52:06] day and they just don't sleep well yeah
+[1:52:09] I think the that we have to be careful
+[1:52:11] that the mere knowledge that they're not
+[1:52:12] going to perform as well because that's
+[1:52:14] what the data say um Can potentially be
+[1:52:18] offset by the the Ali crumb study which
+[1:52:21] is if they they believe like hey a lot
+[1:52:23] of it is about what they believe their
+[1:52:25] own sleep to be which just tells you
+[1:52:26] that performance can and motivation
+[1:52:30] presumably can override some of the the
+[1:52:32] physiology there a you know and again we
+[1:52:35] we you can't rescue what you can't
+[1:52:37] rescue no and I think it's a very good
+[1:52:39] point because it comes back to our
+[1:52:40] discussion about the placebo effect in
+[1:52:42] some ways which is this is mind over
+[1:52:44] matter and that your biological state so
+[1:52:47] one of the things I do when I'm working
+[1:52:49] with professional athletes and we're
+[1:52:51] doing sleep tracking of I'm working with
+[1:52:53] a coach and I will say during that
+[1:52:56] period where they're really you know
+[1:52:58] it's they're on the road and now it's
+[1:53:00] they've got seven games to play in the
+[1:53:02] playoffs let's keep tracking their sleep
+[1:53:05] and let's you and I make sure that we're
+[1:53:06] trying to optimize this athlete because
+[1:53:09] they've given consent they want to have
+[1:53:11] their sleep as good as possible and they
+[1:53:13] want us to help them do that but I say
+[1:53:15] at that point we will simply look at the
+[1:53:18] data night after night and then we can
+[1:53:20] describe the data that they've been
+[1:53:22] having
+[1:53:22] at the end of the week after they
+[1:53:24] finished the
+[1:53:25] series because for exactly that reason
+[1:53:28] if you start giving them feedback we
+[1:53:29] don't want to erode confidence and with
+[1:53:32] sleep trackers there is such a thing
+[1:53:34] called
+[1:53:35] orthosomnia and it's now a described
+[1:53:39] situation
+[1:53:41] orthosomnia in medicine words mean
+[1:53:44] something so although people will be
+[1:53:47] familiar with in medicine Orthopedics
+[1:53:50] Orthodontics it's about getting things
+[1:53:52] straight Orthopedics getting your sort
+[1:53:55] of bone straight Orthodontics getting
+[1:53:57] your teeth straight
+[1:53:58] orthosomnia is about trying to get your
+[1:54:01] sleep straight and being so worried
+[1:54:02] about that that it compromises your
+[1:54:04] sleep now we don't know exactly what
+[1:54:07] proportion of people it may be less than
+[1:54:09] 10% who use sleep trackers but I would
+[1:54:11] say that to anyone listening if you are
+[1:54:15] tracking your sleep with a Tracker and
+[1:54:17] you're experiencing this sleep related
+[1:54:19] anxiety do one of two things first take
+[1:54:21] my recommend Commendation which is that
+[1:54:23] only on let's say a Sunday afternoon do
+[1:54:26] you open up the app and check your data
+[1:54:28] so that way you can still be measuring
+[1:54:30] your sleep which is very helpful but you
+[1:54:32] don't have to get the anxiety morning
+[1:54:34] after morning the other is that if you
+[1:54:36] are truly starting to get a very
+[1:54:38] negative experience take it off put it
+[1:54:41] in the drawer and just get your sleep
+[1:54:43] confidence back using some of the
+[1:54:45] suggestions that we had in the
+[1:54:47] optimization episode and only then
+[1:54:50] return to using that tracker what's also
+[1:54:52] interesting it relates to what you were
+[1:54:55] saying about beliefs and intention they
+[1:54:57] did another another great study where
+[1:54:59] they looked at this cortisol rise in the
+[1:55:01] morning that you and I have discussed on
+[1:55:03] this series many times which starts to
+[1:55:05] happen sort of just before you're waking
+[1:55:07] up and really Rises into the
+[1:55:09] morning what they did was they brought
+[1:55:12] participants into the laboratory and
+[1:55:15] they had them go to sleep around 11:00
+[1:55:17] uh at night and then in one group they
+[1:55:19] said we're going to wake you up at 7:00
+[1:55:21] a.m. in the morning
+[1:55:23] the other group they said we're going to
+[1:55:24] wake you up at 5 a.m. in the morning
+[1:55:27] well it turns out that both of those
+[1:55:29] groups were woken up at 7 a.m. but what
+[1:55:33] was bizarre is that in the group that
+[1:55:35] was told they were going to wake up at
+[1:55:39] 5:00 a.m. their cortisol release started
+[1:55:43] to rise around 5: a.m. in other words
+[1:55:46] just the knowledge before sleep that
+[1:55:49] you're going to be woken up at 5:00 a.m.
+[1:55:52] change the non-conscious brain's release
+[1:55:56] of a stock standard prototypical
+[1:55:58] hormonal release mechanism and that
+[1:56:01] comes right back to this idea that we we
+[1:56:03] were speaking about with time that
+[1:56:06] consciously we have lost time perception
+[1:56:08] when we're sleeping but non-consciously
+[1:56:11] it seems as though the brain is still
+[1:56:13] knowing what's going on because for that
+[1:56:15] early morning flight you wake up 2
+[1:56:17] minutes before your alarm well perhaps
+[1:56:19] the reason why is that you're you've
+[1:56:21] learned that you have to wake up at that
+[1:56:23] time and you've changed your cortisol
+[1:56:26] response which would normally because
+[1:56:28] you don't wake up for an early morning
+[1:56:29] flight every day would normally not come
+[1:56:31] for 2 hours but it's arriving earlier it
+[1:56:35] just blew me away I couldn't believe
+[1:56:37] that the brain non-consciously could
+[1:56:39] change a hormonal profile simply based
+[1:56:42] on me telling you what time you're going
+[1:56:44] to wake up the next morning spectacular
+[1:56:47] and and really as you pointed out really
+[1:56:49] speaks to the fact that during sleep
+[1:56:51] there is a lot of problem processing
+[1:56:52] going on you know un you subconscious
+[1:56:55] unconscious cognitive processing and we
+[1:56:57] know this in the form of Dreams uh a
+[1:56:59] topic that we'll talk about um in a
+[1:57:02] subsequent episode of this series but
+[1:57:04] okay so you've shared with us the clear
+[1:57:06] value of getting the best possible
+[1:57:08] night's sleep before what I call a bout
+[1:57:10] of learning y you also shared with us
+[1:57:14] the clear value of getting sleep after
+[1:57:17] being exposed to some new
+[1:57:20] information AKA about of learning and
+[1:57:23] you've explained to us the key
+[1:57:25] relationship between sleep and motor
+[1:57:28] learning learning of new motor skills
+[1:57:31] what are some other aspects of brain and
+[1:57:33] cognition for which sleep exerts a
+[1:57:38] significant positive effect so those for
+[1:57:41] a while were the first two things that
+[1:57:43] we really thought sleep was doing for
+[1:57:45] learning in memory sleep before learning
+[1:57:47] to make those memories sleep after
+[1:57:50] learning to consolidate them and and hit
+[1:57:52] the save button but then data started to
+[1:57:55] emerge and we started to look at this
+[1:57:57] too that sleep was much more intelligent
+[1:58:01] than we ever imagined when it comes to
+[1:58:03] information processing sleep doesn't
+[1:58:05] simply just strengthen individual
+[1:58:07] memories like isolate Islands
+[1:58:11] unconnected sleep after learning is
+[1:58:14] almost a form of informational alchemy
+[1:58:17] that sleep will take these new memories
+[1:58:20] and it will start to interconnect them
+[1:58:22] and Crosslink them with the new
+[1:58:25] information that you've learned because
+[1:58:27] usually information that you're learning
+[1:58:28] during the day is interconnected and
+[1:58:30] sleep was building those connections
+[1:58:32] between new memories but also it was
+[1:58:35] integrating them into the back catalog
+[1:58:38] of all of your past autobiographical
+[1:58:41] memory systems so that you woke up the
+[1:58:43] next day and you had a revised mindwise
+[1:58:47] web of
+[1:58:49] associations and a good example of this
+[1:58:52] we did a study gosh very early on where
+[1:58:55] we asked the question which stage of
+[1:58:57] sleep then is important for this type of
+[1:59:00] I almost think of it it's probably
+[1:59:03] strange analogy but almost like group
+[1:59:05] therapy for me memories that at the end
+[1:59:08] of the day every new memory gets a name
+[1:59:11] badge and sleep gathers in all of these
+[1:59:14] memories into the same room and it
+[1:59:17] forces you however to speak to the
+[1:59:19] people not at the front of the room that
+[1:59:20] you think you've got the most obvious
+[1:59:22] connection with it forces you to speak
+[1:59:24] to the people all the way at the back of
+[1:59:25] the room that you don't think you've got
+[1:59:26] really any connection with at all but it
+[1:59:28] turns out that you do because sleep
+[1:59:31] doesn't simply build associations and
+[1:59:34] connections it does it seems to bias the
+[1:59:36] brain towards building the most
+[1:59:38] non-obvious distant
+[1:59:41] associations it's almost it's almost
+[1:59:44] like a a Google search gone
+[1:59:46] wrong that during the waking day our
+[1:59:49] memories which are still our brains are
+[1:59:51] still associative in how they can build
+[1:59:53] links and connections that's like page
+[1:59:56] one of the Google search so let's say
+[1:59:58] that I type in you know Andrew hubman
+[2:00:00] and I the first page I get the first hit
+[2:00:03] is the hubman lab website great but if I
+[2:00:06] go to page 20 it's about a field hockey
+[2:00:09] game in Utah and I think he a second
+[2:00:12] what's what's Andrew doing you didn't
+[2:00:14] know but yeah I know exactly I don't
+[2:00:15] think I've ever played field hockey I've
+[2:00:17] been to Utah it's a beautiful state it's
+[2:00:19] beautiful but if I look I can see that
+[2:00:22] there is a very distant non-obvious
+[2:00:24] Association I can understand why it's
+[2:00:26] there that's what sleep seems to be over
+[2:00:30] indexing for in this associational
+[2:00:32] framework so then we asked well what is
+[2:00:34] it about sleep so we had participants
+[2:00:38] perform anagram solving tasks and
+[2:00:40] anagrams are simply these words that are
+[2:00:43] the letters are all jumbled up and you
+[2:00:44] have to kind of stare at them or work
+[2:00:46] through them and all of a sudden you
+[2:00:48] start to see which word it really is
+[2:00:51] because at first all jumbled up and it
+[2:00:52] makes no sense but we didn't teach them
+[2:00:56] it before sleep and after sleep we did
+[2:00:58] something different we woke them up out
+[2:01:00] of different stages of sleep why well
+[2:01:03] when you come out of different stages of
+[2:01:05] sleep you there is still some degree of
+[2:01:08] the biology of that sleep state that
+[2:01:12] lingers in your brain almost like Vapors
+[2:01:14] coming off the stage of sleep that
+[2:01:16] you've just exited and it only lasts for
+[2:01:19] about 2 minutes or so but what was nice
+[2:01:21] is that that this anagram test you could
+[2:01:23] do within 2 minutes so we would wake
+[2:01:26] them up out of different stages of sleep
+[2:01:28] and then we'd have them quickly do these
+[2:01:31] anagrams and I told you that for
+[2:01:33] fact-based memory that sleep after
+[2:01:36] learning was important to strengthen the
+[2:01:38] individual memories and it it was
+[2:01:40] particularly nonrapid eye movement sleep
+[2:01:42] that was doing that strengthening of the
+[2:01:44] individual facts now what we found is
+[2:01:47] that the association creativity benefit
+[2:01:50] of sleep was very different that
+[2:01:52] cross-linking benefit came by way it
+[2:01:55] seemed of REM sleep because when we woke
+[2:01:57] them up out of REM sleep compared to
+[2:01:58] non-rem sleep they were 30% more capable
+[2:02:02] of solving these
+[2:02:03] anagrams and when we looked at how they
+[2:02:06] were solving them it was interesting
+[2:02:08] coming out of non-rm sleep it was very
+[2:02:10] sort of analogical it was very what we
+[2:02:14] think of as um very sort of convergent
+[2:02:17] very focused way of trying to logically
+[2:02:20] solve the problem but with REM sleep it
+[2:02:23] was much more Divergent fluid
+[2:02:25] intelligence it was almost as though
+[2:02:27] they were just standing back and waiting
+[2:02:29] for it and then it just popped out in
+[2:02:31] front of them all the letters kind of
+[2:02:33] reorganized and and clicked into
+[2:02:36] place and then there was a subsequent
+[2:02:38] study that did something different it
+[2:02:41] looked specifically at creative
+[2:02:44] insight and it was a lovely study and
+[2:02:47] they performed something called the
+[2:02:49] numeric number reduction test which is
+[2:02:51] one of those test that psychologists
+[2:02:52] love to administer and participants hate
+[2:02:55] to perform and here's what happens
+[2:02:57] you're shown a whole string of numbers
+[2:02:59] and you are given a certain set of rules
+[2:03:02] and you have to work through those
+[2:03:03] number problems and come out with a
+[2:03:05] final end answer and you're told that
+[2:03:08] you're going to be judged simply on how
+[2:03:09] many correct Final End answers that you
+[2:03:12] get and you work through hundreds of
+[2:03:14] these
+[2:03:15] problems what they don't tell you in the
+[2:03:18] instructions however is that there is a
+[2:03:20] hidden rule here
+[2:03:22] embedded in that all of those sequences
+[2:03:25] all of the sequences are different that
+[2:03:26] you have to solve but there is one
+[2:03:27] common rule that binds them all together
+[2:03:31] which is that the second part sort of
+[2:03:33] the second component of the solution so
+[2:03:35] you're working through let's say it's a
+[2:03:36] 10 digigit string number and you have to
+[2:03:39] apply these rules to the first number
+[2:03:40] then carry it through to the second
+[2:03:41] number and then to the third number and
+[2:03:43] the the second partial number that you
+[2:03:46] produce in this string of calculations
+[2:03:48] to get to the Final End answer it turns
+[2:03:51] out to be always the same end answer so
+[2:03:55] in other words if you clue on to this
+[2:03:57] hidden rule all you have to do is work
+[2:03:59] up to the first let's say 10% of every
+[2:04:02] problem you can just shortcut the rest
+[2:04:03] of it and you just write down the number
+[2:04:05] because you are told that the only thing
+[2:04:08] we're going to judge you on is the end
+[2:04:09] answer so they train participants on
+[2:04:12] these sort of numeric number reduction
+[2:04:14] uh trials and then they brought them
+[2:04:16] back after 12 hours of being awake and
+[2:04:20] no one seemed to have that light bulb
+[2:04:21] moment of the sort of okay I get it but
+[2:04:25] then they did the same thing they
+[2:04:27] trained them but now they trained them
+[2:04:28] in the evening they get gave them a
+[2:04:29] full8 hours of sleep came back the next
+[2:04:31] morning and there was a threefold
+[2:04:35] increase in Creative Insight problem
+[2:04:37] solving ability in other words people
+[2:04:39] were coming back with that aha moment of
+[2:04:43] you know the gig is up I've got it I
+[2:04:45] know what you guys are trying to do and
+[2:04:47] I'm going to show
+[2:04:48] you then they did something clever they
+[2:04:50] said back to question of motor skill
+[2:04:52] learning well is that really sleep or is
+[2:04:54] it just Cadian that it's just something
+[2:04:57] about going through the night that gives
+[2:04:59] you this kind of dally creative benefit
+[2:05:02] so they took another group they taught
+[2:05:04] them the information in the evening and
+[2:05:05] they tested them the next morning just
+[2:05:07] like the Sleep group but they kept them
+[2:05:08] up all night so they went through
+[2:05:09] nighttime n for that time period and
+[2:05:12] they showed no benefit in the problem
+[2:05:15] solving and my experience is that sleep
+[2:05:17] deprivation leads to all sorts of ideas
+[2:05:19] about how one um is coming up with novel
+[2:05:22] ideas and solutions all of which
+[2:05:23] completely suck after two good night
+[2:05:27] sleep um but but most of the time it
+[2:05:30] seems that sleep deprivation
+[2:05:33] intoxication of any kind um it it gives
+[2:05:36] one the impression that you know you're
+[2:05:38] coming up with novel Solutions but
+[2:05:39] really they're just novel that D is very
+[2:05:42] clear that you know there was this Moma
+[2:05:44] that if if I sort of go through the
+[2:05:46] night and work sort of through into the
+[2:05:48] morning I'm just much more creative when
+[2:05:51] I'm sleep deprived and and it's been
+[2:05:54] tested and it's just it's the opposite
+[2:05:56] quite the opposite in fact what I I also
+[2:06:00] find interesting though about this the
+[2:06:02] sleep and creativity log it was always
+[2:06:05] there in the literature that there are
+[2:06:07] innumerable anecdotes of people having
+[2:06:10] sleep inspired Insight it's almost as
+[2:06:13] though when you wake up the next morning
+[2:06:15] having had that revised set of web
+[2:06:18] Connections in your brain you can divine
+[2:06:22] solutions to previously impenetrable
+[2:06:25] problems and there's a great example I
+[2:06:27] think Dimitri Mev um who at the time was
+[2:06:32] trying to answer one of the most epic
+[2:06:34] questions in human history how do all of
+[2:06:37] the known elements in the universe fit
+[2:06:40] together in some logical order and he
+[2:06:43] was failing he just could not and he was
+[2:06:45] so obsessed with this problem he created
+[2:06:48] playing cards with all of the different
+[2:06:51] elements of the universe and their
+[2:06:53] atomic weights and their electron and he
+[2:06:55] would go on these long train rides and
+[2:06:57] he would just Shuffle the cards and he
+[2:06:59] would deal the cards on the table he was
+[2:07:01] just desperate to try to see what the
+[2:07:03] pattern was he was shuffling and
+[2:07:05] shuffling and shuffling and then the
+[2:07:07] story goes and it's written that one
+[2:07:10] night he fell asleep and he dreamed and
+[2:07:15] he could start to see all of the cards
+[2:07:17] just dancing around in front of his eyes
+[2:07:20] and then they snap together in this
+[2:07:23] logical grid based on the atomic weight
+[2:07:26] and the different electron properties
+[2:07:28] and he wrote it down on the back of an
+[2:07:29] envelope which still exists to this date
+[2:07:32] really yeah and you can see it out and
+[2:07:35] that was the initial basis for what we
+[2:07:37] call the periodic table of elements
+[2:07:40] amazing and it revolutionized human
+[2:07:42] history and it's not just in science I
+[2:07:44] mean there's great scientific you know
+[2:07:46] people have won Nobel prizes for
+[2:07:48] understanding neural transmission utoy
+[2:07:50] well and maybe it's worth um rattling
+[2:07:52] off a few brief examples because they're
+[2:07:55] they're so spectacular Einstein was
+[2:07:56] known for taking naps in the middle of
+[2:07:58] the day multiple times throughout the
+[2:08:00] day in order to come up with novel
+[2:08:01] Solutions um I think the the discovery
+[2:08:05] of the um some of the organic you know
+[2:08:09] ring the Benzene ring was uh came to uh
+[2:08:13] I'm
+[2:08:13] forgetting in a dream thank you um there
+[2:08:18] are numerous examples of fundamental
+[2:08:22] scientific
+[2:08:24] discoveries that is creative insights
+[2:08:28] that were anchored to real world
+[2:08:31] experiments um and Theory pure Theory as
+[2:08:34] well that came to people in their dreams
+[2:08:36] so what's interesting though is that
+[2:08:38] there seems to be some sort of hydraulic
+[2:08:39] pressure created by the the the waking
+[2:08:43] or within wakefulness attempt to like
+[2:08:44] figure something out so all of these
+[2:08:46] people um to be very clear didn't didn't
+[2:08:49] just sleep to come up with solutions
+[2:08:51] they put a lot of kind of hydraulic
+[2:08:52] pressure feeding a lot of information
+[2:08:54] you thinking about a problem in a in a
+[2:08:57] structured or unstructured way taking
+[2:08:59] walks focusing on their other demands of
+[2:09:01] the day but then when they went to sleep
+[2:09:02] clearly that information was still being
+[2:09:04] worked with in in in important ways and
+[2:09:06] then you going to mention some examples
+[2:09:09] uh from uh the Arts I think yeah there's
+[2:09:11] some great you know I'm um I was born
+[2:09:14] and raised in uh Liverpool uh in England
+[2:09:17] and of course famous for the Beatles and
+[2:09:19] for Liverpool Football Club uh and event
+[2:09:22] as well that I'm a Lial supporter
+[2:09:24] however Paul McCartney has gone on
+[2:09:26] record very clearly to say that two
+[2:09:28] songs that were probably some of the the
+[2:09:32] the most successful songs yesterday and
+[2:09:34] let it be both came to him by way of
+[2:09:37] dream inspired Insight there's a lovely
+[2:09:39] description I think in his biography he
+[2:09:41] was filming it was either help or a hard
+[2:09:45] days night down in London with the rest
+[2:09:47] of the Beatles And he was staying in a
+[2:09:49] rental in wimpole street in London and
+[2:09:51] he was staying on the third floor and in
+[2:09:53] his bedroom fortunately there was a
+[2:09:55] piano on the opposite side of the room
+[2:09:57] and he describes how he woke up one
+[2:10:00] morning with this beautiful Melody by
+[2:10:03] way of um it was a string quartet that
+[2:10:07] was playing it and it was the melody for
+[2:10:10] um yesterday and he went straight over
+[2:10:13] to the piano and he started playing it
+[2:10:15] and he said it was just so Sumptuous and
+[2:10:17] he couldn't remember where he had heard
+[2:10:20] it and then after a while he remembered
+[2:10:23] I haven't heard it anywhere before it
+[2:10:25] came to me by way of sleep same thing
+[2:10:28] with um Let It Be the the obviously you
+[2:10:33] know Mother Mary comes to me singing
+[2:10:36] songs singing words of wisdom let it be
+[2:10:39] and there's often been a suggestion that
+[2:10:41] that has religious overtones um in terms
+[2:10:44] of mother Mary it actually is not um
+[2:10:47] it's his mother Mary
+[2:10:49] McCarney and was having a hard time
+[2:10:52] struggling with the fame of The Beatles
+[2:10:54] at that moment and one night he slept
+[2:10:56] and his mother Mary came to him and just
+[2:10:59] said Relax it's going to be okay stay
+[2:11:02] true to yourself continue doing what
+[2:11:04] you're doing just let it be and he woke
+[2:11:07] up and he wrote the song I love that
+[2:11:09] story um and there's some actionable
+[2:11:12] takeaways here that um if if I may I I
+[2:11:15] just wanted to um mention um a previous
+[2:11:20] guest on this episode in fact he's been
+[2:11:22] on the the podcast twice is the the
+[2:11:24] great Rick Ruben oh I've listened to
+[2:11:26] those yeah one of one of the most
+[2:11:28] legendary music producers of all time
+[2:11:30] and and the second episode that we did
+[2:11:32] with Rick gets heavily into some of his
+[2:11:35] protocols for lack of a better way to
+[2:11:37] describe them and one of the things that
+[2:11:39] Rick does is when he wakes up in the
+[2:11:41] morning he makes it a point to he takes
+[2:11:46] walks he gets Sunshine he hydrates he
+[2:11:48] does all of those things but to try and
+[2:11:50] make the transition between sleep and
+[2:11:52] wakefulness to be rather gradual almost
+[2:11:54] to allow some of the the components of
+[2:11:57] sleep to um kind of bleed into the
+[2:12:01] morning and then allow wakefulness to to
+[2:12:03] come about um and in his case he's able
+[2:12:06] to push some of the more uh linear
+[2:12:07] processing and procedural things to
+[2:12:10] later in the day um and I've spent a lot
+[2:12:13] of time with Rick I'm fortunate to be
+[2:12:14] close friends with Rick and and I can
+[2:12:16] tell you that he also spends a fair
+[2:12:17] amount of time you know sitting or lying
+[2:12:20] down typically very still with his eyes
+[2:12:22] closed just thinking or allowing
+[2:12:24] thoughts to emerge as part of um his
+[2:12:26] creative process now he's certainly not
+[2:12:28] the only one to do this um but he's he's
+[2:12:31] a notable example but what's the
+[2:12:33] takeaway here should everyone be you
+[2:12:35] know lying with their eyes closed um
+[2:12:37] when they first wake up perhaps but
+[2:12:39] there's a some potential dos but I think
+[2:12:41] there's a really strong don't if one
+[2:12:44] subscribes to the idea that during sleep
+[2:12:47] there is substantial reorganization of
+[2:12:48] neural circuitry AKA learning but also
+[2:12:52] expansion of creative opportunity as
+[2:12:54] you've clearly pointed out and there are
+[2:12:56] data to support that statement then it
+[2:12:59] stands to reason that upon waking
+[2:13:01] there's a key opportunity to capture
+[2:13:04] some of
+[2:13:06] that information that is now in your
+[2:13:09] mind um that was created the night
+[2:13:11] before but that if you immediately look
+[2:13:14] at your phone that you Eclipse that
+[2:13:18] process with sensory input from somebody
+[2:13:20] else's ideas and what's going on in the
+[2:13:22] world and it's not to say that looking
+[2:13:23] your phone first thing in the morning is
+[2:13:24] a is a is a cardinal sin or a violation
+[2:13:26] of any kind of neural neural circuit
+[2:13:28] requirement but I in an attempt to try
+[2:13:31] and capture some of the learning and
+[2:13:33] creativity that occurs during sleep have
+[2:13:35] tried for a while now to not look at my
+[2:13:37] phone for at least the first 30 minutes
+[2:13:39] after waking it's very challenging to do
+[2:13:41] for for most everybody but rather to let
+[2:13:44] some of the ideas um from sleep
+[2:13:46] percolate up and I will often go you
+[2:13:49] know be you know making a morning of tea
+[2:13:51] or something and then go running to my
+[2:13:54] office to write something down that
+[2:13:55] suddenly Springs to mind and then I'll
+[2:13:57] remember that this was something that
+[2:13:58] came to me in a dream the night before
+[2:13:59] none of which as significant as the
+[2:14:01] Benzene ring or the periodic table or
+[2:14:02] the kind of works that uh Rick has
+[2:14:04] produced but I think that we need to be
+[2:14:07] cautious about um not short circuiting
+[2:14:10] these um these creative insights that no
+[2:14:13] doubt can come to us and sleep I think
+[2:14:15] it's very well worth just even for your
+[2:14:18] own mental health firstly not to just
+[2:14:20] wake up up and start your reception of
+[2:14:23] the world but to do some as we've
+[2:14:25] mentioned reflection on what you've just
+[2:14:28] experienced by way of sleeping and it
+[2:14:30] doesn't necessarily have to be that
+[2:14:32] you're trying to recall your dreams just
+[2:14:34] sit with whatever your thoughts are
+[2:14:36] think about the the day ahead think
+[2:14:38] about the days prior and there is some
+[2:14:41] benefit and the creative benefit there
+[2:14:45] you mentioned Einstein another one that
+[2:14:47] is often mentioned to me is Edison uh
+[2:14:50] Thomas Edison the in ventor and Edison
+[2:14:52] was claimed to be a short sleeper people
+[2:14:54] will say well he was a brilliant
+[2:14:56] inventor but you know he said that he
+[2:14:59] didn't sleep very much it turns out that
+[2:15:01] Edison was a habitual Napper during the
+[2:15:04] day and I've got lots of pictures of him
+[2:15:06] him napping on his workbench um in his
+[2:15:09] Studio him napping in the garden I love
+[2:15:11] it well I took a 45 minute nap today
+[2:15:14] yeah and it was he and I'm no Edison but
+[2:15:18] I subscribed to his protocols um but you
+[2:15:21] know he he understood the creative
+[2:15:24] Brilliance of sleep to your point about
+[2:15:26] writing things down and he used it
+[2:15:28] ruthlessly as a tool and here's what he
+[2:15:30] would do it's genius he would take a
+[2:15:33] pair of Steel bull bearings in his right
+[2:15:35] hand he would sit in his office on a
+[2:15:38] reclining chair with a rest for his arm
+[2:15:41] and then he would put a pad of paper and
+[2:15:43] a pen next to him and then he would
+[2:15:46] gradually start to relax off but what
+[2:15:49] he' done was he' used a metal sauce Spin
+[2:15:52] and turned it upside down and placed it
+[2:15:53] underneath the armrest and as he was
+[2:15:56] drifting off into that state into that
+[2:15:58] sort of lional state so he didn't go too
+[2:16:00] far into sleep what would happen is that
+[2:16:03] his muscle tone would gradually relax he
+[2:16:05] would release the steel ball bearings
+[2:16:07] they would crash on the saucepan wake
+[2:16:09] him up and then he would start to write
+[2:16:10] down all of the ideas that he was having
+[2:16:13] from that linal state oh you said
+[2:16:15] saucepan saucepan sorry that's why no no
+[2:16:17] that's okay but uh very so what made a
+[2:16:21] it made a a a metal sauce underneath you
+[2:16:25] know or a water pale whatever it was and
+[2:16:27] it would crash that wake him up and then
+[2:16:29] he would write down these ideas so
+[2:16:31] interesting and in fact if you look at
+[2:16:33] his house which is preserved um
+[2:16:35] historical you can walk around and he
+[2:16:37] had nap Cuts installed in his house so
+[2:16:41] he could go into different rooms and
+[2:16:43] take naps in these little cuts for his
+[2:16:46] genius brilliant isn't it it is
+[2:16:49] brilliant sorry I didn't mean to
+[2:16:50] interrupt but it was out of enthusiasm I
+[2:16:52] I mean I I don't want to um like give
+[2:16:54] too much detailed information about
+[2:16:56] Rick's working environment but yet let's
+[2:16:58] just say there are a lot of places to
+[2:16:59] lie down and access these these states
+[2:17:02] of mind um and you know it looks like
+[2:17:06] somebody just lying there with their
+[2:17:07] eyes closed but there's an extremely
+[2:17:09] active mind in there obviously look at
+[2:17:11] the look at the um productive output of
+[2:17:14] Rick's career is you know it's truly
+[2:17:16] something to behold behold in capital
+[2:17:18] bold underline highlighted letters um
+[2:17:22] but it's so clear to me um based on all
+[2:17:25] the examples you gave the ones that
+[2:17:26] we're kind of batting back and forth now
+[2:17:28] and I think there's a book the title is
+[2:17:30] something like Winston Churchill's nap
+[2:17:32] or something like that that my dad has
+[2:17:34] always talking my dad's a theoretical
+[2:17:35] physicist always talks about napping is
+[2:17:37] so key um to one's ability to come up
+[2:17:41] with novel Solutions um you know I guess
+[2:17:44] uh that napping frequently throughout
+[2:17:46] the day perhaps violates some of the
+[2:17:47] tenants that you um described in the
+[2:17:51] uh episode on napping and caffeine
+[2:17:54] episode three we put I think you we put
+[2:17:57] in guard rails and we put in the
+[2:17:58] protocols to say okay naps under certain
+[2:18:01] circumstances are no bad thing at all
+[2:18:03] and if you're going to do it here are
+[2:18:05] the suggested guidelines as to exactly
+[2:18:07] how you optimize naps with a protocol um
+[2:18:10] but it is I think it's very worthwhile
+[2:18:13] to just appreciate exactly how complex
+[2:18:16] sleep is in terms of what it's doing for
+[2:18:19] information processing and if you to ask
+[2:18:21] me look what's the the take-home of this
+[2:18:24] final
+[2:18:25] section I think it's no one has ever
+[2:18:29] told you Andrew you really need to stay
+[2:18:31] awake on a
+[2:18:33] problem they've told you that you should
+[2:18:35] sleep now many times on a problem go to
+[2:18:38] sleep yeah sleep on a problem and what's
+[2:18:40] interesting is that in every language
+[2:18:41] that I've inquired about today from you
+[2:18:45] know English to Swahili that phrase
+[2:18:48] sleeping on a problem or something like
+[2:18:50] it
+[2:18:51] very much exist I think the Spanish
+[2:18:53] someone was telling me is translated is
+[2:18:56] you have a conversation with your pillow
+[2:18:58] which I thought was lovely what I also
+[2:19:00] was struck by a fellow who was um French
+[2:19:04] said you in in England you say you you
+[2:19:08] sleep on a problem well the French
+[2:19:10] translation is much closer to you sleep
+[2:19:12] with a problem and I thought that's much
+[2:19:16] so much about the Romantic difference
+[2:19:18] between the beautiful French and the the
+[2:19:20] Eng you know you sleep on a problem ver
+[2:19:22] as you sleep with a problem yes I agree
+[2:19:25] I I think um not only does it have more
+[2:19:27] romantic Notions but but I like it
+[2:19:29] because it there's a a um a symbiotic
+[2:19:33] aspect to you know sleeping with the
+[2:19:35] problem there's kind of a meshing with
+[2:19:37] the challenge in a way that um isn't as
+[2:19:41] uh combative like this thing that's
+[2:19:43] Weighing on you you go to sleep with and
+[2:19:45] you're supposed to wake up and and feel
+[2:19:47] like you've solved it like Eureka right
+[2:19:49] push down on it rather than it's
+[2:19:50] elaboration with sleep rather than a
+[2:19:53] demand from it but I also think it's you
+[2:19:56] know I make that notion about language
+[2:19:59] translation and maybe a slight joke but
+[2:20:02] what it also tells me is this that that
+[2:20:05] phenomenon of sleep dependent creativity
+[2:20:09] transcends cultural boundaries it is
+[2:20:11] common across the globe it's a universal
+[2:20:14] phenomenon why well because sleep is a
+[2:20:18] universal phenomenon not just even in
+[2:20:19] humans but in almost every species that
+[2:20:22] we've studied carefully to
+[2:20:24] dat as you uh described the um the the
+[2:20:28] French notion of sleeping with a problem
+[2:20:31] I think um what the that comes to mind
+[2:20:33] is that perhaps the the idea is um if
+[2:20:35] you're going to sleep with a problem
+[2:20:37] that um you should be the big spoon and
+[2:20:40] they should be the little spoon as
+[2:20:41] opposed as opposed to the problem being
+[2:20:43] the big spoon and you're kind of wrapped
+[2:20:45] in the problem maybe the the problem
+[2:20:47] needs to mesh with you but maybe I'm
+[2:20:48] taking this this IM a little too far
+[2:20:51] before we close out this discussion
+[2:20:53] about sleep and creativity I can't help
+[2:20:56] but bring up um a set of questions
+[2:20:59] around a different
+[2:21:01] nonsleep protocol that in many ways
+[2:21:06] seems to mimic sleep and that for some
+[2:21:09] individuals throughout history in
+[2:21:10] particular the great physicist Richard
+[2:21:12] Fineman um another habitual Napper yeah
+[2:21:16] and an absolute Idol of mine uh wrote
+[2:21:20] about and spoke about his fondness for
+[2:21:23] um these flotation tanks that are
+[2:21:27] contain a temperature of water that is
+[2:21:29] um fairly neutral so one doesn't
+[2:21:31] recognize um the difference between body
+[2:21:33] temperature and the surrounding water
+[2:21:35] and there's a certain amount of of salt
+[2:21:38] salinity in the water that allows one to
+[2:21:40] float at a at a um kind of a depth
+[2:21:43] within the water that one loses their
+[2:21:45] sense of proprioceptive awareness as you
+[2:21:48] described earlier in in this series a
+[2:21:51] key component of falling asleep and he
+[2:21:53] talked about how under those conditions
+[2:21:56] in the flotation tank there was a um
+[2:21:59] kind of an untethering of the of one's
+[2:22:01] Notions of space and time that were very
+[2:22:03] sleep-like and that that was one of his
+[2:22:05] um go-to for Creative Solutions um
+[2:22:10] people talked about walks um as a go-to
+[2:22:13] for Creative Solutions in the shower
+[2:22:16] people seem to come up with Creative
+[2:22:18] Solutions states of Mind where that
+[2:22:20] they're um an activi is where it's only
+[2:22:25] somewhat goal directed but basically the
+[2:22:28] idea is to just lose track of one's body
+[2:22:31] positioning and let the mind go so to
+[2:22:33] speak and for that matter psychedelics
+[2:22:35] are um have on occasion been um
+[2:22:38] attributed as at least one of the
+[2:22:39] sources of Creative Solutions um I
+[2:22:42] raised these ideas understanding that
+[2:22:44] each one of those could be a podcast
+[2:22:46] into itself but it seems to me that
+[2:22:49] sleep
+[2:22:51] and in particular dream sleep is
+[2:22:54] Nature's Way of creating these um you
+[2:22:58] know these states of untethering our our
+[2:23:01] our rigid linear understanding of what
+[2:23:03] relates to what and it provides this
+[2:23:05] this you know near magical mixing of of
+[2:23:08] things learned the day before and um and
+[2:23:11] that's the essence of creativity and
+[2:23:12] humans have been trying to tap into the
+[2:23:14] creative process through all these other
+[2:23:15] portals for a long time with expensive
+[2:23:17] Technologies and um but it it it's
+[2:23:20] becoming very clear to me that the
+[2:23:22] technology already exists and that it
+[2:23:25] costs absolutely nothing and that it has
+[2:23:27] tremendous health benefits uh uh in
+[2:23:31] addition to its benefits for creativity
+[2:23:33] and that that uh technology is this This
+[2:23:36] brilliant technology of of sleep yeah
+[2:23:39] and dreaming it's a stunning State Matt
+[2:23:43] thank you so much for today's discussion
+[2:23:45] about sleep memory learning and
+[2:23:49] creativity um we are now four episodes
+[2:23:54] into this series on sleep uh first
+[2:23:57] episode we discussed rather you taught
+[2:24:00] us about sleep and the biology of sleep
+[2:24:04] as well as some actionable um takeaways
+[2:24:07] so actually some I would say some uh
+[2:24:11] important guidelines for getting one
+[2:24:14] sleep correct and then in this second
+[2:24:16] episode you went much further into
+[2:24:18] protocols both basic Advanced for
+[2:24:21] getting one sleep right maybe even
+[2:24:23] optimized and the third episode you
+[2:24:27] taught us about naps and caffeine and
+[2:24:29] today you've taken us on a beautiful
+[2:24:32] exploration of the relationship between
+[2:24:35] sleep and learning are what's more
+[2:24:37] interesting than neuroplasticity and
+[2:24:38] learning I mean after all um you know
+[2:24:42] humans are unique in our ability to
+[2:24:43] learn so many things throughout the
+[2:24:45] lifespan it's one of the things that
+[2:24:47] distinguishes us from the other species
+[2:24:48] on the planet the the the very very long
+[2:24:52] window perhaps lifelong window for the
+[2:24:54] opportunity to learn and of course
+[2:24:56] creativity and novel solutions to
+[2:24:59] challenging problems in the world but
+[2:25:00] also great works of art and music Etc I
+[2:25:05] think we can fairly say based on what
+[2:25:07] you've taught us today that sleep has
+[2:25:09] been not only the Bedrock of mental
+[2:25:11] health physical health and performance
+[2:25:13] since the beginning of time and still
+[2:25:14] now but also has been one of the
+[2:25:16] fundamental drivers of human evolution
+[2:25:18] because of all the creative insights
+[2:25:19] that have OCC occurred and all the
+[2:25:20] learning that's occurred in sleep that's
+[2:25:22] then been transformed into real world
+[2:25:26] Technologies indeed it's much of the way
+[2:25:29] that we have the the blessing of being
+[2:25:31] right here right now if that's the flag
+[2:25:33] that you're raising I will salute it uh
+[2:25:35] five we still Tuesday very much yes well
+[2:25:38] I'll salute that flag right with you and
+[2:25:42] also point to the exciting fact that the
+[2:25:45] next episode episode five in this series
+[2:25:48] you're going to teach us about the
+[2:25:50] really tight relationship between sleep
+[2:25:53] and emotional processing and
+[2:25:56] emotionality and I can't think of a more
+[2:25:59] interesting topic to get into especially
+[2:26:01] at this point in the series and I look
+[2:26:03] forward to that discussion with
+[2:26:05] emotional enthusiasm I can't wait if
+[2:26:09] folks are interested in trying to
+[2:26:11] modulate their mental health um I think
+[2:26:13] that next discussion should be very
+[2:26:15] helpful with regard to sleep I hope so
+[2:26:17] at least thank you for joining me for
+[2:26:19] today's episode episode with Dr Matthew
+[2:26:21] Walker to learn more about Dr Walker's
+[2:26:23] research and to learn more about his
+[2:26:25] book and his social media handles please
+[2:26:27] see the links in our show note captions
+[2:26:29] if you're learning from and or enjoying
+[2:26:31] this podcast please subscribe to our
+[2:26:33] YouTube channel that's a terrific zeroc
+[2:26:35] cost way to support us in addition
+[2:26:37] please subscribe to the podcast on both
+[2:26:39] Spotify and apple and on both Spotify
+[2:26:41] and apple you can leave us up to a fstar
+[2:26:43] review please also check out the
+[2:26:45] sponsors at the beginning and throughout
+[2:26:46] today's episode that's the best way to
+[2:26:48] support this podcast if you have any
+[2:26:50] questions for me or comments about the
+[2:26:52] podcast or topics or guests that you'd
+[2:26:54] like me to feature on the hubman Lab
+[2:26:55] podcast please put those in the comment
+[2:26:57] section on YouTube I do read all the
+[2:27:00] comments on many episodes of The hubman
+[2:27:02] Lab podcast we discuss supplements while
+[2:27:04] supplements aren't necessary for
+[2:27:05] everybody many people derive tremendous
+[2:27:07] benefit from them for things like
+[2:27:09] improving sleep for hormone support and
+[2:27:11] for Focus to learn more about the
+[2:27:12] supplements discussed on the hubman LA
+[2:27:14] podcast go to Liv momentous spelled o us
+[2:27:17] that's Liv mous.com
+[2:27:19] huberman if you're not already following
+[2:27:21] me on social media I'm hubman lab on all
+[2:27:23] social media platforms so that's
+[2:27:25] Instagram X LinkedIn Facebook and
+[2:27:28] threads and on all those platforms I
+[2:27:30] discuss science and science related
+[2:27:31] tools some of which overlaps with the
+[2:27:33] content of the hubman Lab podcast but
+[2:27:35] much of which is distinct from the
+[2:27:36] content covered on the hubman Lab
+[2:27:38] podcast so again it's hubman lab on all
+[2:27:40] social media platforms if you haven't
+[2:27:42] already subscribed to our neural network
+[2:27:44] newsletter our neural network newsletter
+[2:27:46] is a zeroc cost newsletter that provides
+[2:27:48] podcast summaries as well as prot calls
+[2:27:50] in the form of brief 1 to three page
+[2:27:52] PDFs that cover everything from
+[2:27:54] neuroplasticity and learning to sleep to
+[2:27:56] deliberate cold exposure and deliberate
+[2:27:58] heat exposure we have a foundational
+[2:28:00] Fitness protocol and much more all of
+[2:28:02] which again is completely zero cost you
+[2:28:04] simply go to huberman lab.com go to the
+[2:28:06] menu tab scroll down to newsletter and
+[2:28:08] by supplying your email you can
+[2:28:10] subscribe I want to point out that we do
+[2:28:12] not share your email with anybody thank
+[2:28:14] you once again for joining me for
+[2:28:15] today's discussion all about sleep with
+[2:28:17] Dr Matthew Walker and last but certainly
+[2:28:20] certainly not least thank you for your
+[2:28:21] interest in science
+[2:28:25] [Music]

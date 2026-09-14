@@ -204,3 +204,853 @@ Too many consecutive blocks; stopping. Re-run later to resume.
 DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
 [22:04:57] pass 2 ended: +0 (now 36/526)
 [22:04:57] sleeping 60 min before next pass
+[23:04:57] pass 3: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[23:26:09] pass 3 ended: +0 (now 36/526)
+[23:26:09] sleeping 60 min before next pass
+[00:26:09] pass 4: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: [Errno 60] Operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=None)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 742, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=None)
+[01:18:52] pass 4 ended: +0 (now 36/526)
+[01:18:52] sleeping 60 min before next pass
+[05:57:20] pass 5: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[06:22:38] pass 5 ended: +0 (now 36/526)
+[06:22:38] sleeping 60 min before next pass
+[07:26:54] pass 6: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[07:48:05] pass 6 ended: +0 (now 36/526)
+[07:48:05] sleeping 60 min before next pass
+[08:48:05] pass 7: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[08:58:12] pass 7 ended: +0 (now 36/526)
+[08:58:12] sleeping 60 min before next pass
+[09:58:12] pass 8: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[10:19:24] pass 8 ended: +0 (now 36/526)
+[10:19:24] sleeping 60 min before next pass
+[11:19:24] pass 9: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[11:40:33] pass 9 ended: +0 (now 36/526)
+[11:40:33] sleeping 60 min before next pass
+[12:40:33] pass 10: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[12:50:40] pass 10 ended: +0 (now 36/526)
+[12:50:40] sleeping 60 min before next pass
+[13:50:40] pass 11: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[14:00:49] pass 11 ended: +0 (now 36/526)
+[14:00:49] sleeping 60 min before next pass
+[15:00:49] pass 12: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[15:10:57] pass 12 ended: +0 (now 36/526)
+[15:10:57] sleeping 60 min before next pass
+[16:10:57] pass 13: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] BLOCKED — backing off 60s (streak 1)
+[21/526] BLOCKED — backing off 120s (streak 2)
+[22/526] BLOCKED — backing off 180s (streak 3)
+[23/526] BLOCKED — backing off 240s (streak 4)
+[24/526] BLOCKED — backing off 300s (streak 5)
+[25/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=19 no_transcript=0 total_on_disk=36
+[16:32:09] pass 13 ended: +0 (now 36/526)
+[16:32:09] sleeping 60 min before next pass
+[17:32:09] pass 14: 36/526 on disk, 0 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[20/526] ok   ncSoor2Iw8k   216,958B  How to Optimize Your Hormones for Health & Vitality | D
+[21/526] ok   F9KrZd_-ge0   175,123B  Dr. Matt Walker: Using Sleep to Improve Learning, Creat
+[22/526] ok   h2aWYjSA1Jc   141,656B  Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake 
+[23/526] ok   4F_RBc1akC8   158,419B  Dr. Matt Walker: How to Structure Your Sleep, Use Naps 
+[24/526] ok   juD99_sPWGU   241,756B  Dr. Andy Galpin: Maximize Recovery to Achieve Fitness &
+[25/526] ok   UNCwdFxPtE8   210,812B  Optimize Your Exercise Program with Science-Based Tools
+[26/526] ok   7SIjcX5B1Vs   244,017B  Build Your Ideal Physique | Dr. Bret Contreras
+[27/526] ok   K4Ze-Sp6aUE   287,381B  The Science of Eating for Health, Fat Loss & Lean Muscl
+[28/526] ok   XLr2RKoD-oY   154,598B  Science of Muscle Growth, Increasing Strength & Muscula
+[29/526] none x7qbJeRxWGw  NoTranscriptFound
+[30/526] ok   zEYE-vcVKy8   165,139B  Dr. Andy Galpin: How to Assess & Improve All Aspects of
+[31/526] none qJXKhu5UZwk  NoTranscriptFound
+[32/526] ok   UIy-WQCZd4M   246,561B  Dr. Andy Galpin: Optimize Your Training Program for Fit
+[33/526] ok   jjaFnKtytqI   150,232B  Eating for Better Sleep & Foods that Improve Metabolic 
+[34/526] ok   DTCmprPCDqc   220,242B  Exercise, Nutrition, Hormones for Vitality & Longevity 
+[35/526] ok   iMvtHqLmEkI   113,425B  How to Exercise for Strength Gains & Hormone Optimizati
+[36/526] ok   S_SrHS8FvMM   153,899B  Dr. Matt Walker: Improve Sleep to Boost Mood & Emotiona
+[37/526] ok   9tRohh0gErM   177,488B  Effects of Fasting & Time Restricted Eating on Fat Loss
+[38/526] ok   jgaoLdS82vw    32,786B  Build Muscle Size, Increase Strength & Improve Recovery
+[39/526] BLOCKED — backing off 60s (streak 1)
+[40/526] BLOCKED — backing off 120s (streak 2)
+[41/526] BLOCKED — backing off 180s (streak 3)
+[42/526] BLOCKED — backing off 240s (streak 4)
+[43/526] BLOCKED — backing off 300s (streak 5)
+[44/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=17 already_had=19 no_transcript=2 total_on_disk=53
+[17:55:51] pass 14 ended: +17 (now 53/526)
+[17:55:51] sleeping 2 min before next pass
+[17:57:51] pass 15: 53/526 on disk, 2 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[29/526] none x7qbJeRxWGw  NoTranscriptFound
+[31/526] none qJXKhu5UZwk  NoTranscriptFound
+[39/526] BLOCKED — backing off 60s (streak 1)
+[40/526] BLOCKED — backing off 120s (streak 2)
+[41/526] BLOCKED — backing off 180s (streak 3)
+[42/526] BLOCKED — backing off 240s (streak 4)
+[43/526] BLOCKED — backing off 300s (streak 5)
+[44/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=36 no_transcript=2 total_on_disk=53
+[18:19:15] pass 15 ended: +0 (now 53/526)
+[18:19:15] sleeping 60 min before next pass
+[19:19:15] pass 16: 53/526 on disk, 2 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[29/526] none x7qbJeRxWGw  NoTranscriptFound
+[31/526] none qJXKhu5UZwk  NoTranscriptFound
+[39/526] BLOCKED — backing off 60s (streak 1)
+[40/526] BLOCKED — backing off 120s (streak 2)
+[41/526] BLOCKED — backing off 180s (streak 3)
+[42/526] BLOCKED — backing off 240s (streak 4)
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/urllib3/connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py", line 312, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+                             " response")
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/alpergul/hersey_guzel_olacak/ai_fitness_coach/kb/huberman/download_transcripts.py", line 69, in <module>
+    fetched = api.fetch(video["id"], languages=LANGUAGES)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 71, in fetch
+    self.list(video_id)
+    ~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_api.py", line 127, in list
+    return self._fetcher.fetch(video_id)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 356, in fetch
+    self._fetch_captions_json(video_id),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 361, in _fetch_captions_json
+    html = self._fetch_video_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 433, in _fetch_video_html
+    html = self._fetch_html(video_id)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/youtube_transcript_api/_transcripts.py", line 442, in _fetch_html
+    response = self._http_client.get(WATCH_URL.format(video_id=video_id))
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/alpergul/.claude/mcp-servers/youtube/.venv/lib/python3.14/site-packages/requests/adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[19:29:36] pass 16 ended: +0 (now 53/526)
+[19:29:36] sleeping 60 min before next pass
+[20:29:36] pass 17: 53/526 on disk, 2 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[29/526] none x7qbJeRxWGw  NoTranscriptFound
+[31/526] none qJXKhu5UZwk  NoTranscriptFound
+[39/526] BLOCKED — backing off 60s (streak 1)
+[40/526] BLOCKED — backing off 120s (streak 2)
+[41/526] BLOCKED — backing off 180s (streak 3)
+[42/526] BLOCKED — backing off 240s (streak 4)
+[43/526] BLOCKED — backing off 300s (streak 5)
+[44/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=36 no_transcript=2 total_on_disk=53
+[20:51:00] pass 17 ended: +0 (now 53/526)
+[20:51:00] sleeping 60 min before next pass
+[21:51:00] pass 18: 53/526 on disk, 2 captionless
+ordered by relevance: top='Dr. Andy Galpin: Optimal Protocols to Build Strength & Grow ' (82 hits)
+[29/526] none x7qbJeRxWGw  NoTranscriptFound
+[31/526] none qJXKhu5UZwk  NoTranscriptFound
+[39/526] BLOCKED — backing off 60s (streak 1)
+[40/526] BLOCKED — backing off 120s (streak 2)
+[41/526] BLOCKED — backing off 180s (streak 3)
+[42/526] BLOCKED — backing off 240s (streak 4)
+[43/526] BLOCKED — backing off 300s (streak 5)
+[44/526] BLOCKED — backing off 360s (streak 6)
+Too many consecutive blocks; stopping. Re-run later to resume.
+
+DONE  saved=0 already_had=36 no_transcript=2 total_on_disk=53
+[22:12:24] pass 18 ended: +0 (now 53/526)
+[22:12:24] sleeping 60 min before next pass
