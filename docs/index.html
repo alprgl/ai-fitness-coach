@@ -356,7 +356,15 @@
     font-weight: 600;
     color: var(--ink);
   }
+  .week-day .wd-mode {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: .08em;
+    color: var(--faint);
+  }
+  .week-day.heavy .wd-mode { color: var(--accent); }
   .week-day.rest .wd-split { color: var(--faint); font-weight: 400; font-style: italic; }
+  .week-day.selected .wd-mode { color: var(--bg); }
   .week-day.today .wd-name { color: var(--ink); font-weight: 700; text-decoration: underline; }
   .week-day.selected {
     background: var(--accent);
@@ -392,6 +400,26 @@
   }
   .prog-trend.up { color: var(--good); background: var(--good-soft); }
   .prog-trend.repeat { color: var(--brass); background: var(--brass-soft); }
+  .prog-trend.deload { color: var(--danger); background: var(--accent-soft); }
+
+  .prog-mode {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-bottom: 4px;
+  }
+  .prog-mode-tag {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    padding: 3px 9px;
+    border-radius: 3px;
+  }
+  .prog-mode.heavy .prog-mode-tag { color: var(--bg); background: var(--accent); }
+  .prog-mode.volume .prog-mode-tag { color: var(--muted); background: var(--surface-2); }
+  .prog-mode-note { font-size: var(--step--1); color: var(--faint); }
   .prog-range {
     font-family: var(--mono);
     font-size: 10px;
@@ -694,16 +722,19 @@
     Gerçek bir max denemesi yapmadan gücünün nasıl gittiğini gösterir — ağırlık ve tekrarı tek sayıda birleştirdiği
     için tek başına ağırlıktan daha iyi bir ilerleme göstergesidir. <strong>Tonaj</strong> = seansta kaldırdığın
     toplam kilo (ağırlık × tekrar, tüm setler). Hacim arttıkça tonaj artar.
-    <strong>Sıradaki antrenman</strong> haftanın gününe göre belirlenir: Pzt/Cum İtiş, Sal/Cmt Çekiş, Çar/Paz
-    Bacak, Perşembe dinlenme. Program <strong>kuvvet</strong> için kurulur: her hareketin bir tekrar aralığı
-    vardır — bileşik hareketler 5-8, izolasyon 8-12 — ve tekrar bu aralığın üstüne çıkmaz. Aralığın tepesine
-    ulaştığında ağırlık artar ve tekrar aralığın altına döner; aralığın içindeysen aynı ağırlıkta bir tekrar
-    eklenir; geçen seans düştüysen aynısı tekrarlanır. Tekrarın şişmesi yerine demirin ağırlaşması esastır.
+    Program <strong>günlük dalgalanma (DUP)</strong> ile kurulur. Her bölüm haftada iki kez gelir: Pzt/Sal/Çar
+    <strong>ağır gün</strong> (bileşik 4-6, izolasyon 8-10 tekrar, RPE 8-9), Cum/Cmt/Paz <strong>hacim günü</strong>
+    (bileşik 8-12, izolasyon 12-15 tekrar, RPE 7-8, ağır günün %85 yüküyle). Perşembe dinlenme. Yükü yalnızca
+    ağır günün top seti sürükler: aralığın tepesini gördüğünde ağırlık artar, göremediğinde sabit kalır — hacim
+    günü yükü bundan türetilir. Bir hareketin tahmini 1RM'i üst üste iki seans düşerse takvimi beklemeden
+    <strong>deload</strong> devreye girer: aynı yük, yarı set, RPE 6'da kes.
     Seanslarını Strong uygulamasında tutmaya devam et; bu sayfa o dışa aktarımdan üretilen 2019-2026 arası
     geçmişi okur ve GitHub Pages üzerinden statik olarak yayınlanır.
     <strong>RPE</strong> = hedeflenen zorlanma hissi (10 üzerinden, 10 = bir tekrar daha yapamazdın). Setler
-    boyunca kademeli artar: ilk setler ısınma temposunda, son set en zoru — ama asla 9'u geçmez, yani her sette
-    tankta en az bir tekrar kalır.
+    boyunca kademeli artar ve 9'u geçmez, yani tankta hep en az bir tekrar kalır. Tekrar tek sayı değil aralık
+    verilir; günün formuna göre aralığın içinde kalıp RPE'yi tutturmak esastır.
+    Not: makinede ölçülen kuvvet makineye özgüdür ve tahmini 1RM ancak 3-8 tekrarda güvenilirdir — yüksek
+    tekrarlı eski kayıtlardan çıkan 1RM tahminleri olduğundan yüksek görünür.
   </footer>
 </div>
 
@@ -728,7 +759,16 @@
 
   var sessions = [];
 
-  var SCHEDULE = { 0: "legs", 1: "push", 2: "pull", 3: "legs", 4: null, 5: "push", 6: "pull" };
+  // Daily undulating: each split lands twice a week — once heavy, once for volume.
+  var SCHEDULE = {
+    1: { cat: "push", mode: "heavy" },
+    2: { cat: "pull", mode: "heavy" },
+    3: { cat: "legs", mode: "heavy" },
+    4: null,
+    5: { cat: "push", mode: "volume" },
+    6: { cat: "pull", mode: "volume" },
+    0: { cat: "legs", mode: "volume" }
+  };
 
   function categoryOf(name) {
     var n = String(name || "");
@@ -1185,16 +1225,23 @@
   var ISOLATION_WORDS = ["fly", "raise", "curl", "pushdown", "extension", "kickback", "pullover",
                          "shrug", "lateral", "calf", "crunch", "abduction", "adduction"];
 
-  function repRange(name) {
+  function exerciseKind(name) {
     var low = String(name || "").toLowerCase();
     var i, isolation = false, compound = false;
     for (i = 0; i < ISOLATION_WORDS.length; i++) if (low.indexOf(ISOLATION_WORDS[i]) >= 0) isolation = true;
     for (i = 0; i < COMPOUND_WORDS.length; i++) if (low.indexOf(COMPOUND_WORDS[i]) >= 0) compound = true;
     // "Leg Extension" is isolation even though nothing shouts compound; isolation wins the tie.
-    if (isolation) return { lo: 8, hi: 12 };
-    if (compound) return { lo: 5, hi: 8 };
-    return { lo: 6, hi: 10 };
+    if (isolation) return "isolation";
+    if (compound) return "compound";
+    return "compound";
   }
+
+  var RANGES = {
+    compound: { heavy: { lo: 4, hi: 6 }, volume: { lo: 8, hi: 12 } },
+    isolation: { heavy: { lo: 8, hi: 10 }, volume: { lo: 12, hi: 15 } }
+  };
+
+  function rangeFor(name, mode) { return RANGES[exerciseKind(name)][mode]; }
 
   function roundLoad(w) {
     // Light work is dumbbell territory (1 kg jumps); everything heavier moves in plate steps.
@@ -1202,36 +1249,50 @@
     return Math.round(w / step) * step;
   }
 
-  function suggestFor(name) {
+  function bump(w) { return roundLoad(w + (w < 20 ? 1 : 2.5)); }
+
+  // Two sessions of falling e1RM in a row is the signal to back off, whatever the calendar says.
+  function isStalling(occ) {
+    if (occ.length < 3) return false;
+    var a = bestE1rm(occ[0].ex.sets), b = bestE1rm(occ[1].ex.sets), c = bestE1rm(occ[2].ex.sets);
+    return a < b && b < c;
+  }
+
+  function suggestFor(name, mode) {
     var occ = exerciseOccurrences(name);
     if (!occ.length) return null;
     var latest = topSetOf(occ[0].ex);
-    var setCount = (occ[0].ex.sets || []).length || 3;
-    var range = repRange(name);
-    var sugW, sugR, trend;
+    var setCount = Math.min(4, Math.max(2, (occ[0].ex.sets || []).length || 3));
+    var heavyRange = rangeFor(name, "heavy");
+    var range = rangeFor(name, mode);
+    var trend, heavyW;
 
-    if (latest.r > range.hi) {
+    // Only the heavy day drives the load; the volume day is derived from it.
+    if (latest.r > heavyRange.hi) {
       // Far too many reps for a strength goal: add load (capped at +10%) and pull reps down.
       trend = "load";
-      sugW = roundLoad(latest.w * 1.1);
-      if (sugW <= latest.w) sugW = roundLoad(latest.w + (latest.w < 20 ? 1 : 2.5));
-      sugR = range.hi;
-    } else if (latest.r >= range.hi) {
-      // Top of the range earned: heavier bar, reps back to the bottom.
+      heavyW = roundLoad(latest.w * 1.1);
+      if (heavyW <= latest.w) heavyW = bump(latest.w);
+    } else if (latest.r >= heavyRange.hi) {
       trend = "up";
-      sugW = roundLoad(latest.w * 1.025);
-      if (sugW <= latest.w) sugW = roundLoad(latest.w + (latest.w < 20 ? 1 : 2.5));
-      sugR = range.lo;
+      heavyW = roundLoad(latest.w * 1.025);
+      if (heavyW <= latest.w) heavyW = bump(latest.w);
     } else {
-      // Inside the range: same bar, one more rep.
-      trend = "rep";
-      sugW = latest.w;
-      sugR = latest.r + 1;
+      trend = "hold";
+      heavyW = latest.w;
+    }
+
+    var stalling = isStalling(occ);
+    var load = mode === "heavy" ? heavyW : roundLoad(heavyW * 0.85);
+    if (stalling) {
+      trend = "deload";
+      setCount = Math.max(1, Math.round(setCount / 2));
     }
 
     return {
       lastDate: occ[0].date, lastWeight: latest.w, lastReps: latest.r,
-      sugWeight: sugW, sugReps: sugR, trend: trend, setCount: setCount, range: range
+      load: load, range: range, trend: trend, setCount: setCount,
+      deload: stalling, heavyLoad: heavyW
     };
   }
 
@@ -1249,10 +1310,11 @@
 
     DAY_ORDER.forEach(function (d) {
       var cat = SCHEDULE[d];
-      var cell = el("div", "week-day" + (cat ? "" : " rest") +
+      var cell = el("div", "week-day" + (cat ? "" : " rest") + (cat && cat.mode === "heavy" ? " heavy" : "") +
         (d === today ? " today" : "") + (d === selectedDay ? " selected" : ""));
       cell.appendChild(el("div", "wd-name", DAY_SHORT[d]));
-      cell.appendChild(el("div", "wd-split", cat ? SPLIT_SHORT[cat] : "dinlen"));
+      cell.appendChild(el("div", "wd-split", cat ? SPLIT_SHORT[cat.cat] : "dinlen"));
+      if (cat) cell.appendChild(el("div", "wd-mode", cat.mode === "heavy" ? "ağır" : "hacim"));
       cell.onclick = function () {
         selectedDay = d;
         renderWeekStrip();
@@ -1269,25 +1331,27 @@
   }
 
   function computeProgram() {
-    var cat = SCHEDULE[selectedDay];
-    if (!cat) return { rest: true, items: [] };
-    var items = exercisesForCategory(cat).map(function (n) {
-      var s = suggestFor(n);
+    var plan = SCHEDULE[selectedDay];
+    if (!plan) return { rest: true, items: [] };
+    var items = exercisesForCategory(plan.cat).map(function (n) {
+      var s = suggestFor(n, plan.mode);
       if (!s) return null;
       s.name = n;
       // RPE ramps across the sets: the last one is the hard one, never past 9.
-      var base = (s.trend === "up" || s.trend === "load") ? 7 : 6;
+      // A deload caps the whole thing at 6 — that is the point of backing off.
+      var top = s.deload ? 6 : (plan.mode === "heavy" ? 9 : 8);
+      var base = s.deload ? 6 : (plan.mode === "heavy" ? 8 : 7);
       s.sets = [];
       for (var i = 0; i < s.setCount; i++) {
         s.sets.push({
-          w: s.sugWeight,
-          r: s.sugReps,
-          rpe: Math.min(9, base + Math.round((i / Math.max(1, s.setCount - 1)) * 2))
+          w: s.load,
+          range: s.range,
+          rpe: base + Math.round((i / Math.max(1, s.setCount - 1)) * (top - base))
         });
       }
       return s;
     }).filter(Boolean);
-    return { name: categoryLabel(cat), cat: cat, items: items, rest: false };
+    return { name: categoryLabel(plan.cat), cat: plan.cat, mode: plan.mode, items: items, rest: false };
   }
 
   function showProgress(name) {
@@ -1316,6 +1380,13 @@
       host.appendChild(el("div", "empty", "Bu bölüm için henüz geçmiş kayıt yok."));
       return;
     }
+
+    var modeRow = el("div", "prog-mode " + prog.mode);
+    modeRow.appendChild(el("span", "prog-mode-tag", prog.mode === "heavy" ? "AĞIR GÜN" : "HACİM GÜNÜ"));
+    modeRow.appendChild(el("span", "prog-mode-note", prog.mode === "heavy"
+      ? "düşük tekrar, yüksek yük — yükü bu gün sürüklüyor"
+      : "aynı hareketler, ağır günün %85 yüküyle daha çok tekrar"));
+    host.appendChild(modeRow);
     prog.items.forEach(function (it) {
       var item = el("div", "prog-item");
 
@@ -1327,18 +1398,18 @@
       var TREND_TEXT = {
         load: "tekrar çok yüksekti → ağırlık artıyor",
         up: "aralığın tepesi doldu → ağırlık artıyor",
-        rep: "aynı ağırlık, +1 tekrar"
+        hold: "aralığın içindesin → ağırlık sabit",
+        deload: "e1RM iki seans düştü → deload, set yarıya indi"
       };
-      head.appendChild(el("div", "prog-trend" + (it.trend === "up" || it.trend === "load" ? " up" : " repeat"),
-        TREND_TEXT[it.trend] || ""));
-      head.appendChild(el("div", "prog-range", "hedef aralık " + it.range.lo + "-" + it.range.hi + " tekrar"));
+      head.appendChild(el("div", "prog-trend" + (it.trend === "deload" ? " deload"
+        : it.trend === "hold" ? " repeat" : " up"), TREND_TEXT[it.trend] || ""));
       item.appendChild(head);
 
       var setsWrap = el("div", "prog-sets");
       it.sets.forEach(function (st, i) {
         var line = el("div", "prog-set");
         line.appendChild(el("span", "prog-set-no", String(i + 1) + ". set"));
-        line.appendChild(el("span", "prog-set-load", fmt(st.w, 1) + " kg × " + st.r));
+        line.appendChild(el("span", "prog-set-load", fmt(st.w, 1) + " kg × " + st.range.lo + "-" + st.range.hi));
         line.appendChild(el("span", "prog-set-rpe", "RPE " + st.rpe));
         setsWrap.appendChild(line);
       });
