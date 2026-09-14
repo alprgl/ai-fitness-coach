@@ -324,6 +324,53 @@
   }
   .prog-sug.up { color: var(--good); background: var(--good-soft); }
   .prog-sug.repeat { color: var(--brass); background: var(--brass-soft); }
+  .week-strip {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+    padding-bottom: 4px;
+  }
+  .week-day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 8px 2px;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    background: var(--surface);
+    cursor: pointer;
+    text-align: center;
+    transition: border-color .12s ease, background .12s ease;
+  }
+  .week-day:hover { border-color: var(--accent); }
+  .week-day .wd-name {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: .08em;
+    color: var(--muted);
+  }
+  .week-day .wd-split {
+    font-family: var(--serif);
+    font-size: var(--step--1);
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .week-day.rest .wd-split { color: var(--faint); font-weight: 400; font-style: italic; }
+  .week-day.today .wd-name { color: var(--ink); font-weight: 700; text-decoration: underline; }
+  .week-day.selected {
+    background: var(--accent);
+    border-color: var(--accent);
+  }
+  .week-day.selected .wd-name,
+  .week-day.selected .wd-split { color: var(--bg); }
+  @media (max-width: 560px) {
+    .week-strip { gap: 4px; }
+    .week-day { padding: 6px 1px; }
+    .week-day .wd-name { font-size: 10px; letter-spacing: .04em; }
+    .week-day .wd-split { font-size: 10px; }
+  }
+
   .prog-item {
     padding: 14px 0;
     border-bottom: 1px solid var(--line);
@@ -604,8 +651,9 @@
   </header>
 
   <section>
-    <h2>SIRADAKİ ANTRENMAN <span class="count" id="programCount"></span></h2>
+    <h2>HAFTANIN PROGRAMI <span class="count" id="programCount"></span></h2>
     <div class="panel hero">
+      <div class="week-strip" id="weekStrip"></div>
       <div id="program" style="display:flex;flex-direction:column"></div>
     </div>
   </section>
@@ -664,7 +712,7 @@
     <div class="modal-chart-head">
       <span id="chartCapBig" class="modal-chart-title"></span>
       <span class="modal-chart-actions">
-        <button id="chartFit">Tümünü sığdır</button>
+        <button id="chartFit">Aralıkları aç</button>
         <button class="ghost" id="chartModalClose" aria-label="Kapat">✕ Kapat</button>
       </span>
     </div>
@@ -1068,7 +1116,7 @@
     cap.textContent = chartCaption(name, pts);
   }
 
-  var chartFitAll = false;
+  var chartFitAll = true;
 
   function renderBigChart() {
     var pick = document.getElementById("chartPick");
@@ -1187,6 +1235,33 @@
     };
   }
 
+  var DAY_ORDER = [1, 2, 3, 4, 5, 6, 0];
+  var DAY_SHORT = { 1: "Pzt", 2: "Sal", 3: "Çar", 4: "Per", 5: "Cum", 6: "Cmt", 0: "Paz" };
+  var DAY_LONG = { 1: "Pazartesi", 2: "Salı", 3: "Çarşamba", 4: "Perşembe", 5: "Cuma", 6: "Cumartesi", 0: "Pazar" };
+  var SPLIT_SHORT = { push: "İtiş", pull: "Çekiş", legs: "Bacak" };
+  var selectedDay = new Date().getDay();
+
+  function renderWeekStrip() {
+    var host = document.getElementById("weekStrip");
+    if (!host) return;
+    host.textContent = "";
+    var today = new Date().getDay();
+
+    DAY_ORDER.forEach(function (d) {
+      var cat = SCHEDULE[d];
+      var cell = el("div", "week-day" + (cat ? "" : " rest") +
+        (d === today ? " today" : "") + (d === selectedDay ? " selected" : ""));
+      cell.appendChild(el("div", "wd-name", DAY_SHORT[d]));
+      cell.appendChild(el("div", "wd-split", cat ? SPLIT_SHORT[cat] : "dinlen"));
+      cell.onclick = function () {
+        selectedDay = d;
+        renderWeekStrip();
+        renderProgram();
+      };
+      host.appendChild(cell);
+    });
+  }
+
   function exercisesForCategory(cat) {
     var all = sorted().filter(function (s) { return !s.demo && categoryOf(s.name) === cat; });
     if (!all.length) return [];
@@ -1194,7 +1269,7 @@
   }
 
   function computeProgram() {
-    var cat = SCHEDULE[new Date().getDay()];
+    var cat = SCHEDULE[selectedDay];
     if (!cat) return { rest: true, items: [] };
     var items = exercisesForCategory(cat).map(function (n) {
       var s = suggestFor(n);
@@ -1230,17 +1305,17 @@
     if (!host) return;
     host.textContent = "";
     var prog = computeProgram();
+    var dayLabel = DAY_LONG[selectedDay] + (selectedDay === new Date().getDay() ? " (bugün)" : "");
     if (prog.rest) {
-      if (count) count.textContent = "Dinlenme günü";
-      host.appendChild(el("div", "empty", "Bugün program gereği dinlenme günün. Yarın kaldığın yerden devam."));
+      if (count) count.textContent = dayLabel + " · dinlenme";
+      host.appendChild(el("div", "empty", "Perşembe dinlenme günü. Diğer günlere tıklayıp o günün programını görebilirsin."));
       return;
     }
+    if (count) count.textContent = dayLabel + " · " + prog.name;
     if (!prog.items.length) {
-      if (count) count.textContent = prog.name;
-      host.appendChild(el("div", "empty", "Bu gün için henüz geçmiş kayıt yok — bir seans kaydettiğinde öneri burada görünecek."));
+      host.appendChild(el("div", "empty", "Bu bölüm için henüz geçmiş kayıt yok."));
       return;
     }
-    if (count) count.textContent = prog.name;
     prog.items.forEach(function (it) {
       var item = el("div", "prog-item");
 
@@ -1275,6 +1350,7 @@
 
   function renderAll() {
     renderRail();
+    renderWeekStrip();
     renderProgram();
     renderCalendar();
     renderDayDetail(selectedDate);
