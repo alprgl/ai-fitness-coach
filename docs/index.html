@@ -739,9 +739,9 @@
     için tek başına ağırlıktan daha iyi bir ilerleme göstergesidir. <strong>Tonaj</strong> = seansta kaldırdığın
     toplam kilo (ağırlık × tekrar, tüm setler). Hacim arttıkça tonaj artar.
     Program <strong>günlük dalgalanma (DUP)</strong> ile kurulur. Her bölüm haftada iki kez gelir: Pzt/Sal/Çar
-    <strong>ağır gün</strong> (bileşik 4-6, izolasyon 8-10 tekrar, RPE 8-9), Cum/Cmt/Paz <strong>hacim günü</strong>
-    (bileşik 8-12, izolasyon 12-15 tekrar, RPE 7-8, ağır günün %85 yüküyle). Perşembe dinlenme. Yükü yalnızca
-    ağır günün top seti sürükler: aralığın tepesini gördüğünde ağırlık artar, göremediğinde sabit kalır — hacim
+    <strong>yüksek yoğunluklu gün</strong> (bileşik 4-6, izolasyon 8-10 tekrar, RPE 8-9), Cum/Cmt/Paz
+    <strong>hacim günü</strong> (bileşik 8-12, izolasyon 12-15 tekrar, RPE 7-8, yoğunluk gününün %85 yüküyle).
+    Perşembe dinlenme. Yükü yalnızca yoğunluk gününün top seti sürükler: aralığın tepesini gördüğünde ağırlık artar, göremediğinde sabit kalır — hacim
     günü yükü bundan türetilir. Bir hareketin tahmini 1RM'i üst üste iki seans düşerse takvimi beklemeden
     <strong>deload</strong> devreye girer: ağırlık %10 iner, set sayısı yarılanır, RPE 6'da kesilir.
     Seanslarını Strong uygulamasında tutmaya devam et; bu sayfa o dışa aktarımdan üretilen 2019-2026 arası
@@ -749,6 +749,8 @@
     <strong>RPE</strong> = hedeflenen zorlanma hissi (10 üzerinden, 10 = bir tekrar daha yapamazdın). Setler
     boyunca kademeli artar ve 9'u geçmez, yani tankta hep en az bir tekrar kalır. Tekrar tek sayı değil aralık
     verilir; günün formuna göre aralığın içinde kalıp RPE'yi tutturmak esastır.
+    Ağırlık değişimleri elindeki plakalara göre hesaplanır (2,5 / 5 / 10 / 20 / 25 kg): mevcut ağırlığın
+    üstüne 2,5'in katı eklenir ya da çıkarılır, böylece önerilen yük her zaman kurulabilir bir ayar olur.
     Not: makinede ölçülen kuvvet makineye özgüdür ve tahmini 1RM ancak 3-8 tekrarda güvenilirdir — yüksek
     tekrarlı eski kayıtlardan çıkan 1RM tahminleri olduğundan yüksek görünür.
   </footer>
@@ -1326,13 +1328,18 @@
 
   function rangeFor(name, mode) { return RANGES[exerciseKind(name)][mode]; }
 
-  function roundLoad(w) {
-    // Light work is dumbbell territory (1 kg jumps); everything heavier moves in plate steps.
-    var step = w < 20 ? 1 : 2.5;
-    return Math.round(w / step) * step;
-  }
+  // Plates on hand are 2.5 / 5 / 10 / 20 / 25 kg and a single 2.5 can go on, so the
+  // load moves in 2.5 kg steps. The weights in the log are not all multiples of 2.5
+  // (machine stacks and bar weights vary), but each one is provably loadable — so we
+  // round the *change*, not the absolute number, and stay on settings that exist.
+  var PLATE_STEP = 2.5;
 
-  function bump(w) { return roundLoad(w + (w < 20 ? 1 : 2.5)); }
+  function shiftLoad(w, factor) {
+    var delta = Math.round((w * factor - w) / PLATE_STEP) * PLATE_STEP;
+    if (factor > 1 && delta < PLATE_STEP) delta = PLATE_STEP;
+    if (factor < 1 && delta > -PLATE_STEP) delta = -PLATE_STEP;
+    return Math.max(PLATE_STEP, w + delta);
+  }
 
   // Two sessions of falling e1RM in a row is the signal to back off, whatever the calendar says.
   function isStalling(occ) {
@@ -1354,23 +1361,21 @@
     if (latest.r > heavyRange.hi) {
       // Far too many reps for a strength goal: add load (capped at +10%) and pull reps down.
       trend = "load";
-      heavyW = roundLoad(latest.w * 1.1);
-      if (heavyW <= latest.w) heavyW = bump(latest.w);
+      heavyW = shiftLoad(latest.w, 1.1);
     } else if (latest.r >= heavyRange.hi) {
       trend = "up";
-      heavyW = roundLoad(latest.w * 1.025);
-      if (heavyW <= latest.w) heavyW = bump(latest.w);
+      heavyW = shiftLoad(latest.w, 1.025);
     } else {
       trend = "hold";
       heavyW = latest.w;
     }
 
     var stalling = isStalling(occ);
-    var load = mode === "heavy" ? heavyW : roundLoad(heavyW * 0.85);
+    var load = mode === "heavy" ? heavyW : shiftLoad(heavyW, 0.85);
     if (stalling) {
       // Backing off means backing off: lighter bar and half the sets.
       trend = "deload";
-      load = roundLoad(load * 0.9);
+      load = shiftLoad(load, 0.9);
       setCount = Math.max(1, Math.round(setCount / 2));
     }
 
@@ -1399,7 +1404,7 @@
         (d === today ? " today" : "") + (d === selectedDay ? " selected" : ""));
       cell.appendChild(el("div", "wd-name", DAY_SHORT[d]));
       cell.appendChild(el("div", "wd-split", cat ? SPLIT_SHORT[cat.cat] : "dinlen"));
-      if (cat) cell.appendChild(el("div", "wd-mode", cat.mode === "heavy" ? "ağır" : "hacim"));
+      if (cat) cell.appendChild(el("div", "wd-mode", cat.mode === "heavy" ? "yoğunluk" : "hacim"));
       cell.onclick = function () {
         selectedDay = d;
         renderWeekStrip();
@@ -1467,10 +1472,8 @@
     }
 
     var modeRow = el("div", "prog-mode " + prog.mode);
-    modeRow.appendChild(el("span", "prog-mode-tag", prog.mode === "heavy" ? "AĞIR GÜN" : "HACİM GÜNÜ"));
-    modeRow.appendChild(el("span", "prog-mode-note", prog.mode === "heavy"
-      ? "düşük tekrar, yüksek yük — yükü bu gün sürüklüyor"
-      : "aynı hareketler, ağır günün %85 yüküyle daha çok tekrar"));
+    modeRow.appendChild(el("span", "prog-mode-tag",
+      prog.mode === "heavy" ? "YÜKSEK YOĞUNLUKLU GÜN" : "HACİM GÜNÜ"));
     host.appendChild(modeRow);
     prog.items.forEach(function (it) {
       var item = el("div", "prog-item");
