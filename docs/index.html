@@ -540,6 +540,19 @@
   }
   .modal-chart-scroll svg { display: block; flex: 0 0 auto; max-width: none; }
 
+  .modal-chart-scroll.rotated {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+  }
+  .modal-chart-scroll.rotated svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: top left;
+  }
+
   .chart-tip {
     position: fixed;
     z-index: 200;
@@ -1053,7 +1066,7 @@
     return pts;
   }
 
-  function drawSeries(svg, pts, W, H) {
+  function drawSeries(svg, pts, W, H, rotated) {
     svg.setAttribute("viewBox", "0 0 " + W + " " + H);
     svg.textContent = "";
 
@@ -1141,10 +1154,13 @@
     var hit = mk("rect", { x: 0, y: 0, width: W, height: H, fill: "transparent" });
     svg.appendChild(hit);
 
-    function nearest(clientX) {
+    function nearest(clientX, clientY) {
       var box = svg.getBoundingClientRect();
-      if (!box.width) return 0;
-      var px = (clientX - box.left) * (W / box.width);
+      // Turned on its side, the chart's x axis runs down the screen instead of across.
+      var span = rotated ? box.height : box.width;
+      if (!span) return 0;
+      var along = rotated ? clientY - box.top : clientX - box.left;
+      var px = along * (W / span);
       var idx = 0, bestD = Infinity;
       for (var k = 0; k < pts.length; k++) {
         var dd = Math.abs(X(k) - px);
@@ -1154,7 +1170,7 @@
     }
 
     function track(clientX, clientY) {
-      var i = nearest(clientX);
+      var i = nearest(clientX, clientY);
       var p = pts[i];
       marker.setAttribute("cx", X(i));
       marker.setAttribute("cy", Y(p.v));
@@ -1236,7 +1252,7 @@
       return;
     }
 
-    drawSeries(svg, pts, 720, 240);
+    drawSeries(svg, pts, 720, 240, false);
     cap.textContent = chartCaption(name, pts);
   }
 
@@ -1253,19 +1269,34 @@
     var capBig = document.getElementById("chartCapBig");
     var fitBtn = document.getElementById("chartFit");
 
-    // The drawing fills the window: full height either way, and either every point
-    // spaced far enough apart to read (scroll sideways) or the whole run squeezed in.
-    var avail = scroller.clientWidth - 36;
-    var H = Math.max(260, scroller.clientHeight - 24);
-    var W = chartFitAll ? Math.max(480, avail) : Math.max(avail, pts.length * 34);
+    // On a portrait screen the chart is turned 90° so it runs along the long edge —
+    // turn the phone and the viewport goes landscape, the rotation drops away by itself.
+    var portrait = window.innerHeight > window.innerWidth;
+    scroller.classList.toggle("rotated", portrait);
+    if (fitBtn) fitBtn.hidden = portrait;
 
-    drawSeries(svg, pts, W, H);
-    svg.setAttribute("width", W);
-    svg.setAttribute("height", H);
+    if (portrait) {
+      var stageW = scroller.clientHeight;
+      var stageH = scroller.clientWidth;
+      drawSeries(svg, pts, stageW, stageH, true);
+      svg.setAttribute("width", stageW);
+      svg.setAttribute("height", stageH);
+      svg.style.transform = "translateX(" + stageH + "px) rotate(90deg)";
+    } else {
+      svg.style.transform = "";
+      // Full height either way, and either every point spaced far enough apart to
+      // read (scroll sideways) or the whole run squeezed in.
+      var avail = scroller.clientWidth - 36;
+      var H = Math.max(260, scroller.clientHeight - 24);
+      var W = chartFitAll ? Math.max(480, avail) : Math.max(avail, pts.length * 34);
+      drawSeries(svg, pts, W, H, false);
+      svg.setAttribute("width", W);
+      svg.setAttribute("height", H);
+      if (fitBtn) fitBtn.textContent = chartFitAll ? "Aralıkları aç" : "Tümünü sığdır";
+      scroller.scrollLeft = chartFitAll ? 0 : scroller.scrollWidth;
+    }
 
-    if (fitBtn) fitBtn.textContent = chartFitAll ? "Aralıkları aç" : "Tümünü sığdır";
     if (capBig) capBig.textContent = chartCaption(name, pts);
-    if (scroller) scroller.scrollLeft = chartFitAll ? 0 : scroller.scrollWidth;
   }
 
   function openChartModal() {
