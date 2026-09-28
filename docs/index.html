@@ -743,7 +743,7 @@
   .stat .v.h-zone.green { color: var(--good); }
   .stat .v.h-zone.yellow { color: var(--brass); }
   .stat .v.h-zone.red { color: var(--danger); }
-  #healthAnalysis { display: flex; flex-direction: column; gap: 12px; }
+  #trendView, #trainView { display: flex; flex-direction: column; gap: 14px; }
 
   .h-table-wrap { overflow-x: auto; }
   .h-table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: var(--step--1); font-variant-numeric: tabular-nums; }
@@ -762,8 +762,12 @@
 
   /* ---------- locked ---------- */
 
-  body.locked .wrap > :not(.masthead):not(#healthToday) { display: none !important; }
-  body.locked #healthTodayCard { display: none; }
+  body.locked .wrap > :not(.masthead):not(#lock) { display: none !important; }
+  body:not(.locked) #lock { display: none; }
+  body[data-view="today"] .wrap > [data-tab]:not([data-tab="today"]),
+  body[data-view="trend"] .wrap > [data-tab]:not([data-tab="trend"]),
+  body[data-view="train"] .wrap > [data-tab]:not([data-tab="train"]) { display: none !important; }
+  .h-lock form > #faceIdBtn { flex: 1 1 100%; padding: 14px; font-size: 14px; }
 
   /* ---------- tabs & charts view ---------- */
 
@@ -775,9 +779,6 @@
   }
   .tab:hover { color: var(--ink); border-color: transparent; border-bottom-color: var(--line); }
   .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
-  #chartsView { display: none; flex-direction: column; gap: 14px; }
-  body.view-charts #chartsView { display: flex; }
-  body.view-charts .wrap > :not(.masthead):not(.tabs):not(#chartsView):not(footer) { display: none !important; }
   .c-intro { margin: 0; color: var(--muted); font-size: var(--step--1); }
   .c-card { gap: 10px; }
   .c-what { margin: 0; font-size: var(--step--1); color: var(--muted); }
@@ -787,11 +788,6 @@
   .c-swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
   .c-table summary { cursor: pointer; font-family: var(--mono); font-size: 11px; color: var(--muted); letter-spacing: .05em; }
   .c-table[open] summary { margin-bottom: 8px; }
-  .c-rings { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-  .c-ring { display: flex; flex-direction: column; align-items: center; gap: 2px; text-align: center; }
-  .c-ring svg { width: 100%; max-width: 120px; height: auto; }
-  .c-ring-k { font-family: var(--mono); font-size: 11px; font-weight: 600; letter-spacing: .1em; color: var(--muted); }
-  .c-ring-sub { font-size: var(--step--1); color: var(--faint); }
   .c-trends { display: flex; flex-direction: column; }
   .c-trend { display: grid; grid-template-columns: minmax(96px, 1.2fr) minmax(70px, .8fr) minmax(0, 1.6fr) 124px; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--line); }
   .c-trend:last-child { border-bottom: none; }
@@ -832,45 +828,50 @@
     </div>
   </header>
 
-  <nav class="tabs" role="tablist" aria-label="Görünüm">
-    <button class="tab" role="tab" data-view="log" aria-selected="true">DEFTER</button>
-    <button class="tab" role="tab" data-view="charts" aria-selected="false">GRAFİKLER</button>
-  </nav>
-
-  <section id="chartsView" aria-label="Grafikler"></section>
-
-  <section id="healthToday">
-    <div class="panel h-lock" id="healthLock">
-      <h3 class="h-title">KİLİTLİ <span class="count">şifreli defter</span></h3>
-      <p class="h-note">Antrenman defteri, WHOOP verileri, kilo ve kardiyo kayıtları şifreli duruyor. Face ID ya da şifreyle açıldığında bu tarayıcıda çözülür; hiçbir yere gönderilmez.</p>
-      <form id="healthForm" autocomplete="on">
+  <section id="lock">
+    <div class="panel h-lock">
+      <h3 class="h-title">KİLİTLİ</h3>
+      <p class="h-note">Defter ve sağlık verileri şifreli. Açıldığında yalnızca bu tarayıcıda çözülür.</p>
+      <form id="lockForm" autocomplete="on">
         <input type="text" name="username" value="antrenman-defteri" autocomplete="username" hidden>
+        <button type="button" class="primary" id="faceIdBtn" hidden>Face ID ile aç</button>
         <label class="field">Şifre
-          <input type="password" id="healthPw" autocomplete="current-password" required>
+          <input type="password" id="lockPw" autocomplete="current-password" required>
         </label>
-        <label class="h-remember"><input type="checkbox" id="healthRemember" checked> bu cihazda hatırla</label>
-        <button class="primary" type="submit">Aç</button>
-        <button type="button" id="healthFaceId" hidden>Face ID ile aç</button>
+        <label class="h-remember"><input type="checkbox" id="lockRemember" checked> hatırla</label>
+        <button type="submit">Aç</button>
       </form>
-      <p class="h-msg" id="healthMsg" role="status"></p>
+      <p class="h-msg" id="lockMsg" role="status"></p>
     </div>
-    <div id="healthTodayCard"></div>
   </section>
 
-  <section>
-    <h2>HAFTANIN PROGRAMI <span class="count" id="programCount"></span></h2>
+  <nav class="tabs" role="tablist" aria-label="Görünüm">
+    <button class="tab" role="tab" data-view="today">BUGÜN</button>
+    <button class="tab" role="tab" data-view="trend">TREND</button>
+    <button class="tab" role="tab" data-view="train">ANTRENMAN</button>
+  </nav>
+
+  <section data-tab="today">
+    <div id="todayCard"></div>
+  </section>
+
+  <section data-tab="today">
+    <h2>PROGRAM <span class="count" id="programCount"></span></h2>
     <div class="panel hero">
       <div class="week-strip" id="weekStrip"></div>
       <div id="program" style="display:flex;flex-direction:column"></div>
     </div>
+    <button type="button" class="ghost" id="faceIdSetup" hidden>Face ID'yi aç</button>
   </section>
 
-  <div class="rail" id="rail"></div>
+  <section id="trendView" data-tab="trend"></section>
 
-  <section id="healthAnalysis" hidden></section>
+  <section id="trainView" data-tab="train"></section>
 
-  <section>
-    <h2>İLERLEME <span class="count" id="chartCount"></span></h2>
+  <div class="rail" id="rail" data-tab="train"></div>
+
+  <section data-tab="train">
+    <h2>HAREKET GRAFİĞİ <span class="count" id="chartCount"></span></h2>
     <div class="panel">
       <div class="chart-head">
         <label class="field" style="flex:0 1 260px">Egzersiz
@@ -885,7 +886,7 @@
     </div>
   </section>
 
-  <section>
+  <section data-tab="train">
     <h2>GEÇMİŞ <span class="count" id="histCount"></span></h2>
     <div class="panel">
       <div class="cal-nav">
@@ -899,31 +900,11 @@
   </section>
 
   <footer class="note">
-    <strong>e1RM</strong> = tahmini tek tekrar maksimumu, Epley formülüyle: ağırlık × (1 + tekrar ÷ 30).
-    Gerçek bir max denemesi yapmadan gücünün nasıl gittiğini gösterir — ağırlık ve tekrarı tek sayıda birleştirdiği
-    için tek başına ağırlıktan daha iyi bir ilerleme göstergesidir. <strong>Tonaj</strong> = seansta kaldırdığın
-    toplam kilo (ağırlık × tekrar, tüm setler). Hacim arttıkça tonaj artar.
-    Program <strong>günlük dalgalanma (DUP)</strong> ile kurulur. Her bölüm haftada iki kez gelir: Pzt/Sal/Çar
-    <strong>yüksek yoğunluklu gün</strong> (bileşik 4-6, izolasyon 8-10 tekrar, RPE 8-9), Cum/Cmt/Paz
-    <strong>hacim günü</strong> (bileşik 8-12, izolasyon 12-15 tekrar, RPE 7-8, yoğunluk gününün %85 yüküyle).
-    Perşembe dinlenme. Yükü yalnızca yoğunluk gününün top seti sürükler: aralığın tepesini gördüğünde ağırlık artar, göremediğinde sabit kalır — hacim
-    günü yükü bundan türetilir. Bir hareketin tahmini 1RM'i üst üste iki seans düşerse takvimi beklemeden
-    <strong>deload</strong> devreye girer: ağırlık %10 iner, set sayısı yarılanır, RPE 6'da kesilir.
-    Seanslarını Strong uygulamasında tutmaya devam et; bu sayfa o dışa aktarımdan üretilen 2019-2026 arası
-    geçmişi okur ve GitHub Pages üzerinden statik olarak yayınlanır.
-    <strong>RPE</strong> = hedeflenen zorlanma hissi (10 üzerinden, 10 = bir tekrar daha yapamazdın). Setler
-    boyunca kademeli artar ve 9'u geçmez, yani tankta hep en az bir tekrar kalır. Tekrar tek sayı değil aralık
-    verilir; günün formuna göre aralığın içinde kalıp RPE'yi tutturmak esastır.
-    Ağırlık değişimleri elindeki plakalara göre hesaplanır (2,5 / 5 / 10 / 20 / 25 kg): mevcut ağırlığın
-    üstüne 2,5'in katı eklenir ya da çıkarılır, böylece önerilen yük her zaman kurulabilir bir ayar olur.
-    Not: makinede ölçülen kuvvet makineye özgüdür ve tahmini 1RM ancak 3-8 tekrarda güvenilirdir — yüksek
-    tekrarlı eski kayıtlardan çıkan 1RM tahminleri olduğundan yüksek görünür.
-    <strong>Sağlık bölümü</strong> WHOOP recovery, uyku ve HRV verisini, sabah tartılarını ve BikeErg kayıtlarını
-    şifreli taşır; şifre girilince tarayıcıda çözülür. Recovery o günün programını ayarlar: yeşilde program aynen,
-    sarıda RPE en fazla 8, kırmızıda yük %10 aşağı ve setler yarıya. HRV'nin kişisel normal aralığı, son 7 günün
-    dışındaki sabahların ln(HRV) ortalaması ± 0,5 standart sapmadır ve 14 sabah birikince oluşur. <strong>Performans
-    endeksi</strong> = seanstaki her hareketin tahmini 1RM'inin, o hareketin önceki 5 seansının medyanına oranı
-    (100 = olağan seviyen).
+    <strong>e1RM</strong>: tahmini tek tekrar maksimumu, ağırlık × (1 + tekrar ÷ 30); 3–8 tekrarda güvenilir.
+    <strong>Program</strong>: Pzt–Çar yoğunluk (bileşik 4–6, izolasyon 8–10, RPE 8–9), Cum–Paz hacim (8–12 / 12–15, yükün %85'i),
+    Perşembe dinlenme. Aralığın tepesi görülünce yük artar; e1RM iki seans üst üste düşerse deload.
+    <strong>Recovery</strong> bugünün programını ayarlar: sarıda RPE ≤ 8, kırmızıda yük −%10 ve setler yarıya.
+    Veri her sabah 08:00'de WHOOP'tan çekilir; defter Strong'dan gelir.
   </footer>
 </div>
 
@@ -1609,7 +1590,7 @@
     return (all[0].exercises || []).map(function (ex) { return ex.name; });
   }
 
-  // This morning's WHOOP recovery, set by health.js once the private data is unlocked.
+  // This morning's WHOOP recovery, set by app.js once the private data is unlocked.
   // It only shapes today's session: a yellow day caps effort, a red day backs off.
   var readiness = null;
 
@@ -1764,7 +1745,7 @@
   };
 
   // Strong app'ten aktarılan, salt okunur geçmiş.
-  // The log arrives encrypted with the health data; health.js boots the page once it
+  // The log arrives encrypted with the health data; app.js boots the page once it
   // is decrypted. Until then only the lock screen shows.
   status("kilitli", "");
   function boot(history) {
@@ -1777,7 +1758,7 @@
     status(sessions.length + " seans · " + first + "-" + new Date().getFullYear(), "local");
   }
 
-  // What health.js needs from the training log.
+  // What app.js needs from the training log.
   window.AD = {
     sessions: HISTORY,
     boot: boot,
@@ -1812,7 +1793,6 @@
     };
   })();
 </script>
-<script src="health.js"></script>
-<script src="charts.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
