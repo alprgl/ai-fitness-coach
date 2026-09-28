@@ -665,6 +665,8 @@
       .then(JSON.parse);
   }
 
+  var currentPw = null;
+
   function unlock(password, remember) {
     var msg = $("healthMsg");
     msg.textContent = "Açılıyor…";
@@ -676,24 +678,154 @@
         B = data.body || { weight: [], cardio: [] };
         B.weight = B.weight || [];
         B.cardio = B.cardio || [];
+        currentPw = password;
         try {
           if (remember) localStorage.setItem(PW_KEY, password);
         } catch (e) { /* private mode: just don't remember */ }
         msg.textContent = "";
         renderAll();
+        offerFaceId();
       })
       .catch(function (e) {
         msg.textContent = e.message || "Açılamadı.";
         try { localStorage.removeItem(PW_KEY); } catch (e2) { /* ignore */ }
+        // A password change on the site leaves the Face ID copy stale: drop it.
+        if (e.message === "Şifre yanlış." && fromPasskey) forgetPasskey();
       });
+  }
+
+  // ---------- Face ID (passkey + WebAuthn PRF) ----------
+  //
+  // A static page has no server to check a passkey against, so the passkey is used for
+  // what it can do offline: its PRF extension returns a secret that only this device's
+  // Face ID can release. That secret seals the site password in localStorage with
+  // AES-GCM; unlocking with Face ID unseals it. The plaintext password is not stored.
+
+  var PK_KEY = "ad-health-passkey";
+  var fromPasskey = false;
+
+  function b64(buf) {
+    var u = new Uint8Array(buf), bin = "";
+    for (var i = 0; i < u.length; i++) bin += String.fromCharCode(u[i]);
+    return btoa(bin);
+  }
+  function rand(n) { return window.crypto.getRandomValues(new Uint8Array(n)); }
+  function passkeyRecord() {
+    try { return JSON.parse(localStorage.getItem(PK_KEY) || "null"); } catch (e) { return null; }
+  }
+  function forgetPasskey() {
+    try { localStorage.removeItem(PK_KEY); } catch (e) { /* ignore */ }
+    $("healthFaceId").hidden = true;
+  }
+  function webauthnReady() {
+    return !!(window.PublicKeyCredential && navigator.credentials && window.crypto && window.crypto.subtle);
+  }
+
+  function prfSecret(credId, salt) {
+    return navigator.credentials.get({ publicKey: {
+      challenge: rand(32),
+      allowCredentials: [{ type: "public-key", id: credId }],
+      userVerification: "required",
+      timeout: 60000,
+      extensions: { prf: { eval: { first: salt } } }
+    } }).then(function (a) {
+      var ext = a.getClientExtensionResults();
+      var out = ext && ext.prf && ext.prf.results && ext.prf.results.first;
+      if (!out) throw new Error("Bu cihaz Face ID ile şifre saklamayı desteklemiyor (iOS 18+ Safari gerekir).");
+      return aesFromPrf(out);
+    });
+  }
+
+  function aesFromPrf(out) {
+    return window.crypto.subtle.importKey("raw", out, { name: "AES-GCM" }, false, ["encrypt", "decrypt"]);
+  }
+
+  function sealPassword(credId, salt, key) {
+    var iv = rand(12);
+    return window.crypto.subtle.encrypt({ name: "AES-GCM", iv: iv }, key, new TextEncoder().encode(currentPw))
+      .then(function (ct) {
+        localStorage.setItem(PK_KEY, JSON.stringify({ id: b64(credId), salt: b64(salt), iv: b64(iv), ct: b64(ct) }));
+        localStorage.removeItem(PW_KEY);
+      });
+  }
+
+  function enableFaceId(btn) {
+    var salt = rand(32);
+    function fail(e) {
+      btn.disabled = false;
+      btn.textContent = "Face ID'yi etkinleştir";
+      btn.onclick = function () { enableFaceId(btn); };
+      alert(e && e.name === "NotAllowedError" ? "Face ID iptal edildi." : (e.message || "Face ID etkinleştirilemedi."));
+    }
+    function done() { btn.disabled = true; btn.textContent = "Face ID açık ✓"; }
+    btn.disabled = true;
+    btn.textContent = "Face ID bekleniyor…";
+    navigator.credentials.create({ publicKey: {
+      rp: { name: "Antrenman Defteri" },
+      user: { id: rand(16), name: "antrenman-defteri", displayName: "Antrenman Defteri" },
+      challenge: rand(32),
+      pubKeyCredParams: [{ type: "public-key", alg: -7 }, { type: "public-key", alg: -257 }],
+      authenticatorSelection: { userVerification: "required", residentKey: "preferred" },
+      timeout: 60000,
+      extensions: { prf: { eval: { first: salt } } }
+    } }).then(function (cred) {
+      var credId = new Uint8Array(cred.rawId);
+      var prf = (cred.getClientExtensionResults() || {}).prf || {};
+      if (prf.results && prf.results.first) {
+        return aesFromPrf(prf.results.first).then(function (key) { return sealPassword(credId, salt, key); }).then(done);
+      }
+      if (prf.enabled === false) throw new Error("Bu cihaz Face ID ile şifre saklamayı desteklemiyor (iOS 18+ Safari gerekir).");
+      // Some platforms only hand out the PRF secret on a sign-in, and Safari wants a fresh
+      // tap for that — so the second half waits for one.
+      btn.disabled = false;
+      btn.textContent = "Tamamlamak için dokun";
+      btn.onclick = function () {
+        btn.disabled = true;
+        btn.textContent = "Face ID bekleniyor…";
+        prfSecret(credId, salt).then(function (key) { return sealPassword(credId, salt, key); }).then(done).catch(fail);
+      };
+    }).catch(fail);
+  }
+
+  function unlockWithFaceId() {
+    var rec = passkeyRecord();
+    if (!rec) return;
+    var msg = $("healthMsg");
+    msg.textContent = "Face ID bekleniyor…";
+    prfSecret(bytes(rec.id), bytes(rec.salt))
+      .then(function (key) { return window.crypto.subtle.decrypt({ name: "AES-GCM", iv: bytes(rec.iv) }, key, bytes(rec.ct)); })
+      .then(function (pw) {
+        fromPasskey = true;
+        return unlock(new TextDecoder().decode(pw), false);
+      })
+      .catch(function (e) {
+        msg.textContent = e && e.name === "NotAllowedError" ? "Face ID iptal edildi — şifreyle de açabilirsin." : (e.message || "Face ID ile açılamadı.");
+      });
+  }
+
+  function offerFaceId() {
+    if (!webauthnReady() || passkeyRecord()) return;
+    var h2 = document.querySelector("#healthAnalysis h2");
+    if (!h2) return;
+    var btn = el("button", "ghost", "Face ID'yi etkinleştir");
+    btn.type = "button";
+    btn.style.marginLeft = "auto";
+    btn.onclick = function () { enableFaceId(btn); };
+    h2.appendChild(btn);
   }
 
   $("healthForm").onsubmit = function (ev) {
     ev.preventDefault();
+    fromPasskey = false;
     unlock($("healthPw").value, $("healthRemember").checked);
   };
+  $("healthFaceId").onclick = unlockWithFaceId;
 
-  var saved = null;
-  try { saved = localStorage.getItem(PW_KEY); } catch (e) { /* ignore */ }
-  if (saved) unlock(saved, true);
+  if (passkeyRecord() && webauthnReady()) {
+    $("healthFaceId").hidden = false;
+  } else {
+    var saved = null;
+    try { saved = localStorage.getItem(PW_KEY); } catch (e) { /* ignore */ }
+    if (saved) unlock(saved, true);
+  }
 })();
