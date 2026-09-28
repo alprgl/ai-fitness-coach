@@ -1,8 +1,12 @@
 <!doctype html>
-<html lang="tr">
+<html lang="tr" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+  // Dark by default on every device; the masthead button switches and remembers.
+  try { document.documentElement.dataset.theme = localStorage.getItem("ad-theme") || "dark"; } catch (e) {}
+</script>
 <title>Antrenman Defteri</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -747,6 +751,9 @@
   .prog-readiness.yellow { border-color: var(--brass); }
   .prog-readiness.red { border-color: var(--danger); }
 
+  .theme-toggle { font-size: 14px; padding: 2px 6px; margin-left: 4px; }
+  .theme-toggle:hover { color: var(--accent); }
+
   /* ---------- tabs & charts view ---------- */
 
   .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--line); margin-top: -14px; }
@@ -783,6 +790,7 @@
     <div class="meta">
       <span class="dot" id="statusDot"></span>
       <span id="statusText">bağlanıyor…</span>
+      <button class="ghost theme-toggle" id="themeToggle" type="button" aria-label="Temayı değiştir"></button>
     </div>
   </header>
 
@@ -1741,6 +1749,20 @@
     }
   };
 })();
+</script>
+<script>
+  (function () {
+    var btn = document.getElementById("themeToggle");
+    function label() { btn.textContent = document.documentElement.dataset.theme === "dark" ? "☀ açık" : "☾ koyu"; }
+    label();
+    btn.onclick = function () {
+      var next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+      try { localStorage.setItem("ad-theme", next); } catch (e) {}
+      // Charts read their colours when drawn, so redraw everything in the new theme.
+      document.documentElement.dataset.theme = next;
+      location.reload();
+    };
+  })();
 </script>
 <script src="health.js"></script>
 <script src="charts.js"></script>
