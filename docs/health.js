@@ -674,6 +674,7 @@
       .then(function (r) { if (!r.ok) throw new Error("Şifreli veri bulunamadı."); return r.json(); })
       .then(function (blob) { return decrypt(blob, password); })
       .then(function (data) {
+        AD.boot(data.history || []);
         W = data.whoop;
         B = data.body || { weight: [], cardio: [] };
         B.weight = B.weight || [];

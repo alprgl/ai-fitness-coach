@@ -7,7 +7,7 @@ cd "$(dirname "$0")/.."
 python3 tools/whoop_pull.py
 python3 tools/build_site.py
 
-git add docs data/workout_history.json
+git add docs
 if git diff --cached --quiet; then
   echo "değişiklik yok"
   exit 0

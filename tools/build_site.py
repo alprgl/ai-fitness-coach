@@ -3,10 +3,10 @@
 
     python3 tools/build_site.py
 
-1. Rewrites the HISTORY constant in docs/index.html from data/workout_history.json,
-   so the training log on the site is never behind the JSON.
-2. Encrypts the private health data (data/private/whoop.json and body.json) into
-   docs/private.enc.json. The page decrypts it in the browser once the password
+1. Empties the HISTORY constant in docs/index.html: the whole site now sits behind
+   the lock, so the page itself carries no training data.
+2. Encrypts the training log (data/private/workout_history.json) together with the
+   health data (data/private/whoop.json and body.json) into docs/private.enc.json. The page decrypts it in the browser once the password
    is typed; the plaintext never enters the public repo.
 
 The password is read from ~/.config/ai-fitness-coach/site-password, which is
@@ -29,7 +29,7 @@ import secrets
 import subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-HISTORY_JSON = os.path.join(ROOT, "data", "workout_history.json")
+HISTORY_JSON = os.path.join(ROOT, "data", "private", "workout_history.json")
 PRIVATE = os.path.join(ROOT, "data", "private")
 PAGE = os.path.join(ROOT, "docs", "index.html")
 ENC_OUT = os.path.join(ROOT, "docs", "private.enc.json")
@@ -79,7 +79,7 @@ def read_json(path, default):
 
 def build_history():
     sessions = read_json(HISTORY_JSON, [])
-    blob = json.dumps(sessions, ensure_ascii=False, separators=(",", ":"))
+    blob = "[]"
     with open(PAGE, encoding="utf-8") as f:
         page = f.read()
     start = page.index("var HISTORY = ")
@@ -90,13 +90,13 @@ def build_history():
     return sessions
 
 
-def build_private():
+def build_private(sessions):
     whoop = read_json(os.path.join(PRIVATE, "whoop.json"), None)
     body = read_json(os.path.join(PRIVATE, "body.json"), {"weight": [], "cardio": []})
     if whoop is None:
         print("data/private/whoop.json yok — önce tools/whoop_pull.py çalıştır.")
         return None
-    payload = {"whoop": whoop, "body": body}
+    payload = {"whoop": whoop, "body": body, "history": sessions}
     with open(ENC_OUT, "w") as f:
         json.dump(encrypt(payload, password()), f)
     return whoop
@@ -104,7 +104,7 @@ def build_private():
 
 def main():
     sessions = build_history()
-    whoop = build_private()
+    whoop = build_private(sessions)
     print("sayfa: %d seans (son %s)" % (len(sessions), sessions[-1]["date"] if sessions else "—"))
     if whoop:
         print("şifreli veri: %d recovery, son çekim %s" % (len(whoop["recovery"]), whoop["pulled"]))

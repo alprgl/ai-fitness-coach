@@ -3,8 +3,8 @@
 
     python3 tools/import_strong.py ~/Downloads/strong_workouts.csv
 
-Copies the export to data/, regenerates data/workout_history.json, and
-rewrites the HISTORY constant inside docs/index.html.
+Copies the export to data/private/ and regenerates data/private/workout_history.json
+(both git-ignored). Run tools/build_site.py afterwards to publish it encrypted.
 """
 
 import csv
@@ -15,8 +15,8 @@ import shutil
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAW = os.path.join(ROOT, "data", "strong_workouts_raw.csv")
-HISTORY_JSON = os.path.join(ROOT, "data", "workout_history.json")
+RAW = os.path.join(ROOT, "data", "private", "strong_workouts_raw.csv")
+HISTORY_JSON = os.path.join(ROOT, "data", "private", "workout_history.json")
 PAGE = os.path.join(ROOT, "docs", "index.html")
 
 
@@ -96,17 +96,6 @@ def main():
     shutil.copyfile(src, RAW)
     with open(HISTORY_JSON, "w", encoding="utf-8") as f:
         json.dump(sessions, f, ensure_ascii=False, separators=(",", ":"))
-
-    blob = json.dumps(sessions, ensure_ascii=False, separators=(",", ":"))
-    with open(PAGE, encoding="utf-8") as f:
-        page = f.read()
-
-    start = page.index("var HISTORY = ")
-    end = page.index("];", start) + 2
-    page = page[:start] + "var HISTORY = " + blob + ";" + page[end:]
-
-    with open(PAGE, "w", encoding="utf-8") as f:
-        f.write(page)
 
     sets = sum(len(ex["sets"]) for s in sessions for ex in s["exercises"])
     print("%d seans, %d set — %s → %s" % (
