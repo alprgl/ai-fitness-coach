@@ -129549,6 +129549,101 @@
   "hist": true
  },
  {
+  "id": "765d6108ff5e",
+  "date": "2026-09-21",
+  "time": "19:51:00",
+  "name": "PUSH",
+  "duration": "47h 50m",
+  "exercises": [
+   {
+    "name": "Incline Bench Press (Smith Machine)",
+    "sets": [
+     {
+      "w": 99.0,
+      "r": 5,
+      "rpe": 10.0
+     },
+     {
+      "w": 99.0,
+      "r": 5,
+      "rpe": 9.5
+     }
+    ]
+   },
+   {
+    "name": "Shoulder Press (Machine)",
+    "sets": [
+     {
+      "w": 150.0,
+      "r": 7
+     },
+     {
+      "w": 150.0,
+      "r": 6
+     }
+    ]
+   },
+   {
+    "name": "Chest Fly",
+    "sets": [
+     {
+      "w": 135.0,
+      "r": 12
+     },
+     {
+      "w": 135.0,
+      "r": 12
+     }
+    ]
+   },
+   {
+    "name": "Triceps Dip",
+    "sets": [
+     {
+      "w": 85.0,
+      "r": 20
+     },
+     {
+      "w": 85.0,
+      "r": 20
+     }
+    ]
+   },
+   {
+    "name": "Lateral Raise (Dumbbell)",
+    "sets": [
+     {
+      "w": 10.0,
+      "r": 20
+     },
+     {
+      "w": 10.0,
+      "r": 20
+     },
+     {
+      "w": 10.0,
+      "r": 20
+     }
+    ]
+   },
+   {
+    "name": "Triceps Pushdown (Cable - Straight Bar)",
+    "sets": [
+     {
+      "w": 46.0,
+      "r": 10
+     },
+     {
+      "w": 46.0,
+      "r": 15
+     }
+    ]
+   }
+  ],
+  "note": "",
+  "hist": true
+ },
+ {
   "id": "af112c98c7c3",
   "date": "2026-09-27",
   "time": "12:39:00",
