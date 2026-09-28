@@ -513,6 +513,349 @@
       ws.slice().reverse().map(function (w) { return [trDate(w.date), fmt(w.kg, 1) + " kg"]; }), ["Tarih", "Kilo"]);
   }
 
+  // ---------- today rings (WHOOP-style) ----------
+
+  function ring(value, max, color, big, small, sub) {
+    var box = el("div", "c-ring");
+    var R = 42, C = 2 * Math.PI * R, frac = Math.max(0, Math.min(1, value / max));
+    var s = mk("svg", { viewBox: "0 0 110 110", role: "img", "aria-label": small + " " + big });
+    s.appendChild(mk("circle", { cx: 55, cy: 55, r: R, fill: "none", stroke: css("--surface-2"), "stroke-width": 10 }));
+    s.appendChild(mk("circle", { cx: 55, cy: 55, r: R, fill: "none", stroke: color, "stroke-width": 10, "stroke-linecap": "round",
+      "stroke-dasharray": (C * frac).toFixed(1) + " " + C.toFixed(1), transform: "rotate(-90 55 55)" }));
+    var t = mk("text", { x: 55, y: 60, "text-anchor": "middle", fill: css("--ink"), "font-size": 22, "font-weight": 600, "font-family": "IBM Plex Mono, monospace" });
+    t.textContent = big;
+    s.appendChild(t);
+    box.appendChild(s);
+    box.appendChild(el("div", "c-ring-k", small));
+    box.appendChild(el("div", "c-ring-sub", sub));
+    return box;
+  }
+
+  function ringsCard(Wh) {
+    var rec = Wh.recovery[Wh.recovery.length - 1];
+    var sl = Wh.sleep.filter(function (s) { return !s.nap; }).slice(-1)[0];
+    var cyc = Wh.cycles[Wh.cycles.length - 1];
+    var p = el("div", "panel c-card");
+    p.appendChild(el("h3", "h-title", "SON DURUM · " + trDate(rec.date)));
+    p.appendChild(el("p", "c-what", "WHOOP uygulamasındaki üç halka: recovery (hazırlık), uyku performansı (ihtiyacının ne kadarını uyudun) ve strain (bugüne kadarki yük, 21 üzerinden)."));
+    var row = el("div", "c-rings");
+    var z = zoneOf(rec.score);
+    row.appendChild(ring(rec.score, 100, zoneColor(z), "%" + fmt(rec.score), "RECOVERY", ZONE_TR[z]));
+    if (sl) row.appendChild(ring(sl.perf || 0, 100, css("--sleep-rem"), "%" + fmt(sl.perf || 0), "UYKU", fmt(sl.asleep, 1) + " sa uyku"));
+    if (cyc) row.appendChild(ring(cyc.strain, 21, css("--accent"), fmt(cyc.strain, 1), "STRAIN", cyc.end ? "gün kapandı" : "gün sürüyor"));
+    p.appendChild(row);
+    return p;
+  }
+
+  // ---------- trend rows vs 28-day personal median ----------
+
+  function median(xs) {
+    var a = xs.filter(isFinite).slice().sort(function (x, y) { return x - y; });
+    return a.length ? a[Math.floor(a.length / 2)] : NaN;
+  }
+
+  function spark(vals, color) {
+    var w = 120, h = 30, n = vals.length;
+    var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals);
+    if (hi === lo) { hi += 1; lo -= 1; }
+    var s = mk("svg", { viewBox: "0 0 " + w + " " + h, width: w, height: h, "aria-hidden": "true" });
+    var d = vals.map(function (v, i) {
+      return (i ? "L" : "M") + (n === 1 ? w / 2 : 3 + i / (n - 1) * (w - 6)).toFixed(1) + " " + (h - 4 - (v - lo) / (hi - lo) * (h - 8)).toFixed(1);
+    }).join(" ");
+    s.appendChild(mk("path", { d: d, fill: "none", stroke: color, "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    var lx = n === 1 ? w / 2 : w - 3, ly = h - 4 - (vals[n - 1] - lo) / (hi - lo) * (h - 8);
+    s.appendChild(mk("circle", { cx: lx, cy: ly, r: 3, fill: color }));
+    return s;
+  }
+
+  function trendRowsCard(Wh) {
+    var rs = Wh.recovery, nights = Wh.sleep.filter(function (s) { return !s.nap; });
+    var cyc = Wh.cycles.filter(function (c) { return c.end; });
+    var metrics = [
+      { k: "Recovery", vals: rs.map(function (r) { return r.score; }), unit: "%", d: 0, better: 1 },
+      { k: "HRV", vals: rs.map(function (r) { return r.hrv; }), unit: " ms", d: 1, better: 1 },
+      { k: "Dinlenik nabız", vals: rs.map(function (r) { return r.rhr; }), unit: " bpm", d: 0, better: -1 },
+      { k: "Uyku", vals: nights.map(function (s) { return s.asleep; }), unit: " sa", d: 1, better: 1 },
+      { k: "Uyku verimi", vals: nights.map(function (s) { return s.eff; }), unit: "%", d: 0, better: 1 },
+      { k: "Günlük strain", vals: cyc.map(function (c) { return c.strain; }), unit: "", d: 1, better: 0 }
+    ];
+    var p = el("div", "panel c-card");
+    p.appendChild(el("h3", "h-title", "TREND SATIRLARI · 28 GÜNLÜK KİŞİSEL MEDYAN"));
+    p.appendChild(el("p", "c-what", "Her ölçünün son değeri, kendi son 28 günlük medyanınla karşılaştırılıyor; başkasının normaliyle değil. Küçük çizgi son 14 değerin gidişatı. ▲ iyi yönde, ▼ kötü yönde."));
+    var list = el("div", "c-trends");
+    metrics.forEach(function (m) {
+      if (!m.vals.length) return;
+      var last = m.vals[m.vals.length - 1], med = median(m.vals.slice(-29, -1));
+      var delta = last - med;
+      var good = !isFinite(delta) || Math.abs(delta) < 1e-9 || !m.better ? null : (delta > 0) === (m.better > 0);
+      var row = el("div", "c-trend");
+      row.appendChild(el("span", "c-trend-k", m.k));
+      var v = el("span", "c-trend-v", (m.unit === "%" ? "%" + fmt(last, m.d) : fmt(last, m.d) + m.unit));
+      row.appendChild(v);
+      row.appendChild(el("span", "c-trend-d" + (good === true ? " up" : good === false ? " down" : ""),
+        isFinite(med) ? signed(delta, m.d) + (good === true ? " ▲" : good === false ? " ▼" : "") + " · medyan " + fmt(med, m.d) : "medyan için veri az"));
+      var sp = el("span", "c-trend-s");
+      sp.appendChild(spark(m.vals.slice(-14), css("--accent")));
+      row.appendChild(sp);
+      list.appendChild(row);
+    });
+    p.appendChild(list);
+    return p;
+  }
+
+  // ---------- workout heart-rate zones ----------
+
+  function zonesCard(Wh) {
+    var ws = Wh.workouts.filter(function (w) { return w.sport !== "increase_relaxation" && w.zones.reduce(function (a, b) { return a + b; }, 0) > 0; });
+    if (!ws.length) return null;
+    var zc = [css("--sleep-awake"), css("--zone-1"), css("--zone-2"), css("--zone-3"), css("--zone-4"), css("--zone-5")];
+    var labels = ["Bölge 0", "Bölge 1", "Bölge 2", "Bölge 3", "Bölge 4", "Bölge 5"];
+    var rowH = 26, ML = 92, MR = 14, MT = 6, H = MT + ws.length * (rowH + 8) + 22;
+    var maxMin = Math.max.apply(null, ws.map(function (w) { return w.zones.reduce(function (a, b) { return a + b; }, 0); }));
+    var svg = frame(H, "Antrenmanlarda nabız bölgeleri");
+    var iw = W - ML - MR;
+    ws.forEach(function (w, i) {
+      var y = MT + i * (rowH + 8), x = ML;
+      text(svg, ML - 8, y + rowH / 2 + 4, trDate(w.start.slice(0, 10)).slice(0, 5) + " " + w.start.slice(11, 16), "end");
+      w.zones.forEach(function (m, z) {
+        if (!m) return;
+        var bw = m / maxMin * iw;
+        var r = mk("rect", { x: x, y: y, width: Math.max(1, bw - 2), height: rowH, rx: 3, fill: zc[z] });
+        var t = mk("title", {});
+        t.textContent = labels[z] + ": " + m + " dk";
+        r.appendChild(t);
+        svg.appendChild(r);
+        x += bw;
+      });
+    });
+    text(svg, ML, H - 4, "0 dk", "start");
+    text(svg, W - MR, H - 4, fmt(maxMin) + " dk", "end");
+    var z2plus = ws.map(function (w) { return w.zones.slice(2).reduce(function (a, b) { return a + b; }, 0); });
+    return card("ANTRENMANLARDA NABIZ BÖLGELERİ",
+      "Her satır WHOOP'un kaydettiği bir antrenman; renkler maksimum nabzının yüzdesine göre bölgeler (0 çok hafif → 5 maksimum). " +
+      "Kardiyo gelişimi bölge 2 ve üstündeki dakikalardan gelir; ağırlıkta çoğu süre setler arası dinlenmede 0–1'de geçer.",
+      svg, "Son " + ws.length + " antrenmanda bölge 2+ süre: " + z2plus.join(", ") + " dakika. BikeErg Zone 2 seansları başladığında burada 20–40 dakikalık bölge 2 blokları göreceğiz.",
+      ws.slice().reverse().map(function (w) { return [trDate(w.start.slice(0, 10)), w.sport, w.zones.join(" / ")]; }),
+      ["Tarih", "Tür", "Dakika: B0 / B1 / B2 / B3 / B4 / B5"],
+      legendOf(labels.map(function (l, i) { return { label: l, color: zc[i] }; })));
+  }
+
+  // ---------- training calendar heatmap ----------
+
+  function heatmapCard() {
+    var byDay = {};
+    AD.sessions.forEach(function (s) { byDay[s.date] = (byDay[s.date] || 0) + AD.tonnage(s); });
+    var end = localDate(new Date()), start = addDays(weekStart(end), -7 * 52);
+    var vals = Object.keys(byDay).filter(function (d) { return d >= start; }).map(function (d) { return byDay[d]; }).sort(function (a, b) { return a - b; });
+    var q = [0.25, 0.5, 0.75].map(function (f) { return vals[Math.floor(vals.length * f)] || 0; });
+    var heat = [css("--heat-1"), css("--heat-2"), css("--heat-3"), css("--heat-4")];
+    function level(v) { return v <= q[0] ? 0 : v <= q[1] ? 1 : v <= q[2] ? 2 : 3; }
+    var cell = 11, gap = 2, ML = 30, MT = 18;
+    var weeks = 53, H = MT + 7 * (cell + gap) + 4;
+    var Wd = ML + weeks * (cell + gap) + 4;
+    var svg = mk("svg", { viewBox: "0 0 " + Wd + " " + H, role: "img", "aria-label": "Antrenman takvimi ısı haritası" });
+    ["Pzt", "", "Çar", "", "Cum", "", "Paz"].forEach(function (l, i) { if (l) text(svg, ML - 6, MT + i * (cell + gap) + 9, l, "end"); });
+    var lastMonth = "";
+    var days = [], d = start, count = 0;
+    while (d <= end) {
+      var wi = Math.floor(count / 7), di = count % 7;
+      var x = ML + wi * (cell + gap), y = MT + di * (cell + gap);
+      var v = byDay[d] || 0;
+      var r = mk("rect", { x: x, y: y, width: cell, height: cell, rx: 2, fill: v ? heat[level(v)] : css("--surface-2") });
+      var t = mk("title", {});
+      t.textContent = trDate(d) + (v ? " · " + fmt(v) + " kg" : " · antrenman yok");
+      r.appendChild(t);
+      svg.appendChild(r);
+      var m = d.slice(5, 7);
+      if (di === 0 && m !== lastMonth) {
+        text(svg, x, MT - 6, MONTHS[parseInt(m, 10) - 1], "start");
+        lastMonth = m;
+      }
+      days.push(d);
+      d = addDays(d, 1);
+      count++;
+    }
+    var trained = days.filter(function (x) { return byDay[x]; }).length;
+    var streak = 0, best = 0;
+    // Longest run of weeks with at least 3 sessions.
+    var wkCount = {};
+    days.forEach(function (x) { if (byDay[x]) { var k = weekStart(x); wkCount[k] = (wkCount[k] || 0) + 1; } });
+    var wk = weekStart(start);
+    while (wk <= end) { if ((wkCount[wk] || 0) >= 3) { streak++; best = Math.max(best, streak); } else if (wk !== weekStart(end)) streak = 0; wk = addDays(wk, 7); }
+    var legend = legendOf([{ color: css("--surface-2"), label: "yok" }].concat(heat.map(function (c, i) {
+      return { color: c, label: ["hafif", "orta", "yüklü", "çok yüklü"][i] };
+    })));
+    var wrap = el("div", "c-heat-scroll");
+    wrap.appendChild(svg);
+    var p = card("ANTRENMAN TAKVİMİ · SON 12 AY",
+      "Her kare bir gün; renk koyulaştıkça o günün tonajı artıyor (kendi günlerinin çeyreklerine göre). GitHub'daki katkı haritası gibi: boşluklar ara verdiğin dönemleri, koyu kümeler en yoğun haftalarını gösterir.",
+      mk("svg", {}), "Son 12 ayda " + trained + " gün antrenman yaptın (" + days.length + " günün %" + fmt(trained / days.length * 100) + "'i). " +
+      "Haftada en az 3 antrenmanlık en uzun serin " + best + " hafta" + (streak ? ", şu anki serin " + streak + " hafta." : "."),
+      null, null, legend);
+    var fig = p.querySelector("figure");
+    fig.textContent = "";
+    fig.appendChild(wrap);
+    return p;
+  }
+  var MONTHS = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"];
+
+  // ---------- weekly sets per muscle group ----------
+
+  // Direct (primary) muscle for each lift, plus half a set for the obvious helper.
+  var MUSCLES = [
+    [/leg curl|romanian|stiff leg|deadlift|back extension/i, { "Arka bacak": 1 }],
+    [/hack squat|leg press|squat|lunge/i, { "Ön bacak": 1, "Kalça": 0.5 }],
+    [/leg extension/i, { "Ön bacak": 1 }],
+    [/calf/i, { "Baldır": 1 }],
+    [/hip thrust|glute/i, { "Kalça": 1 }],
+    [/reverse fly|face pull|rear delt/i, { "Omuz": 1 }],
+    [/lateral raise|shoulder press|overhead press|arnold|upright row/i, { "Omuz": 1, "Triceps": 0 }],
+    [/pushdown|triceps extension|skull|kickback|triceps dip|dip/i, { "Triceps": 1, "Göğüs": 0.5 }],
+    [/fly|bench|chest press|push up|pec/i, { "Göğüs": 1, "Triceps": 0.5 }],
+    [/pulldown|pull up|chin|row|pullover/i, { "Sırt": 1, "Biceps": 0.5 }],
+    [/curl/i, { "Biceps": 1 }],
+    [/crunch|plank|ab /i, { "Karın": 1 }]
+  ];
+  function musclesOf(name) {
+    for (var i = 0; i < MUSCLES.length; i++) if (MUSCLES[i][0].test(name)) return MUSCLES[i][1];
+    return null;
+  }
+
+  // How many sessions the log holds in the last n days — sparse logging makes volume look low.
+  function loggedIn(n) {
+    var from = addDays(localDate(new Date()), -n + 1);
+    return AD.sessions.filter(function (s) { return s.date >= from; }).length;
+  }
+  function gapNote(n, expect) {
+    var c = loggedIn(n);
+    return c < expect ? " Not: son " + n + " günde defterde sadece " + c + " seans var; kaydedilmemiş antrenmanlar varsa bu değer olduğundan düşük görünür." : "";
+  }
+
+  function muscleCard() {
+    var today = localDate(new Date());
+    var wk = { }, avg4 = { };
+    AD.sessions.forEach(function (s) {
+      var age = (new Date(today + "T12:00:00") - new Date(s.date + "T12:00:00")) / 864e5;
+      if (age < 0 || age >= 28) return;
+      (s.exercises || []).forEach(function (e) {
+        var m = musclesOf(e.name);
+        if (!m) return;
+        Object.keys(m).forEach(function (k) {
+          if (!m[k]) return;
+          avg4[k] = (avg4[k] || 0) + m[k] * e.sets.length / 4;
+          if (age < 7) wk[k] = (wk[k] || 0) + m[k] * e.sets.length;
+        });
+      });
+    });
+    var groups = ["Göğüs", "Sırt", "Omuz", "Biceps", "Triceps", "Ön bacak", "Arka bacak", "Kalça", "Baldır"];
+    var rowH = 20, ML = 92, MR = 60, MT = 18, H = MT + groups.length * (rowH + 8) + 20;
+    var max = Math.max(24, Math.max.apply(null, groups.map(function (g) { return Math.max(avg4[g] || 0, wk[g] || 0); })) + 2);
+    var iw = W - ML - MR;
+    function X(v) { return ML + v / max * iw; }
+    var svg = frame(H, "Kas grubuna göre haftalık set");
+    svg.appendChild(mk("rect", { x: X(10), y: MT - 6, width: X(20) - X(10), height: groups.length * (rowH + 8), fill: css("--good"), "fill-opacity": .12 }));
+    text(svg, X(15), MT - 8, "hedef 10–20 set", "middle", css("--good"));
+    groups.forEach(function (g, i) {
+      var y = MT + i * (rowH + 8), v = avg4[g] || 0, w7 = wk[g] || 0;
+      text(svg, ML - 8, y + rowH / 2 + 4, g, "end", css("--ink"));
+      if (v) {
+        var r = mk("rect", { x: ML, y: y, width: Math.max(2, X(v) - ML), height: rowH, rx: 4, fill: css("--accent") });
+        var t = mk("title", {});
+        t.textContent = g + " · 4 haftalık ort. " + fmt(v, 1) + " set/hafta · son 7 gün " + fmt(w7, 1);
+        r.appendChild(t);
+        svg.appendChild(r);
+      }
+      svg.appendChild(mk("line", { x1: X(w7), x2: X(w7), y1: y - 2, y2: y + rowH + 2, stroke: css("--ink"), "stroke-width": 2 }));
+      text(svg, W - MR + 6, y + rowH / 2 + 4, fmt(v, 1), "start", css("--ink"));
+    });
+    [0, 10, 20].forEach(function (v) { text(svg, X(v), H - 4, String(v), "middle"); });
+    var low = groups.filter(function (g) { return (avg4[g] || 0) < 10; });
+    var high = groups.filter(function (g) { return (avg4[g] || 0) > 22; });
+    return card("KAS GRUBUNA GÖRE HAFTALIK SET",
+      "Çubuk: son 4 haftada kas grubu başına haftalık ortalama çalışma seti; dik çizgi: son 7 gün. Doğrudan çalışan kas 1 set, yardımcı kas yarım set sayılır " +
+      "(örneğin row'da sırt 1, biceps ½). Kas gelişimi için çoğu araştırma kas başına haftada 10–20 zorlu seti işaret ediyor; definasyonda alt uca yakın kalmak yeterli.",
+      svg, (low.length ? "10 setin altında kalanlar: " + low.join(", ") + ". " : "Tüm gruplar 10 setin üstünde. ") +
+        (high.length ? "22 setin üstünde: " + high.join(", ") + " — definasyonda toparlanmayı zorlayabilir. " : "") +
+        "Kayıtlar Strong'daki hareket adlarından eşleştirildi." + gapNote(28, 16),
+      groups.map(function (g) { return [g, fmt(avg4[g] || 0, 1), fmt(wk[g] || 0, 1)]; }), ["Kas", "4 hafta ort.", "Son 7 gün"]);
+  }
+
+  // ---------- acute : chronic workload ----------
+
+  function acwrCard() {
+    var byDay = {};
+    AD.sessions.forEach(function (s) { byDay[s.date] = (byDay[s.date] || 0) + AD.tonnage(s); });
+    var end = localDate(new Date()), pts = [];
+    for (var i = 119; i >= 0; i--) {
+      var d = addDays(end, -i), acute = 0, chronic = 0;
+      for (var k = 0; k < 28; k++) { var v = byDay[addDays(d, -k)] || 0; chronic += v; if (k < 7) acute += v; }
+      chronic /= 4;
+      if (chronic > 0) pts.push({ key: d, v: acute / chronic, tip: trDate(d) + " · oran " + fmt(acute / chronic, 2) + " · son 7 gün " + fmt(acute) + " kg" });
+    }
+    if (pts.length < 2) return null;
+    var last = pts[pts.length - 1].v;
+    var svg = lineChart(pts, { label: "Akut-kronik yük oranı", digits: 1, band: { lo: 0.8, hi: 1.3, label: "0,8 – 1,3" } });
+    var over = pts.filter(function (p) { return p.v > 1.5; }).length;
+    return card("YÜK ORANI (AKUT : KRONİK)",
+      "Son 7 günün tonajı, son 4 haftanın haftalık ortalamasına bölünür. 1 = alıştığın kadar yük; 0,8–1,3 dengeli bölge; 1,5 üstü ani yük artışı " +
+      "(sakatlık riskiyle ilişkilendirilir, ama bu ilişki tartışmalı), 0,8 altı yükü azalttığın dönem. Tonaj ağırlık antrenmanı içindir; kardiyo dahil değil.",
+      svg, "Bugün oran " + fmt(last, 2) + " — " + (last > 1.5 ? "ani bir yük artışı; birkaç gün hacmi sabit tut." : last > 1.3 ? "normalin biraz üstünde yüklüyorsun." :
+        last >= 0.8 ? "dengeli bölgedesin." : "alıştığından az yükleniyorsun (ara, deload ya da kayıt eksiği).") +
+        " Son 120 günde 1,5'i geçtiğin gün sayısı: " + over + "." + gapNote(14, 8),
+      pts.slice(-30).reverse().map(function (p) { return [trDate(p.key), fmt(p.v, 2)]; }), ["Gün", "Oran"]);
+  }
+
+  // ---------- PR timeline ----------
+
+  function prCard() {
+    var best = {}, count = {}, prs = [];
+    var sessions = AD.sessions.slice().sort(function (a, b) { return a.date < b.date ? -1 : 1; });
+    sessions.forEach(function (s) {
+      (s.exercises || []).forEach(function (e) {
+        // Only sets in the range where e1RM means something.
+        var ok = e.sets.filter(function (x) { return x.r >= 2 && x.r <= 10 && x.w > 0; });
+        if (!ok.length) return;
+        var top = ok.reduce(function (a, x) { return x.w * (1 + x.r / 30) > a.w * (1 + a.r / 30) ? x : a; }, ok[0]);
+        var v = top.w * (1 + top.r / 30);
+        var prev = best[e.name] || 0;
+        // Entry errors show up as a jump of a third or more in one session; don't crown them.
+        if ((count[e.name] || 0) >= 5 && v > prev && v < prev * 1.33) {
+          prs.push({ date: s.date, name: e.name, w: top.w, r: top.r, v: v, gain: (v - prev) / prev * 100 });
+        }
+        if (v < (prev || Infinity) * 1.33 || !prev) best[e.name] = Math.max(prev, v);
+        count[e.name] = (count[e.name] || 0) + 1;
+      });
+    });
+    var from = addDays(localDate(new Date()), -180);
+    var recent = prs.filter(function (p) { return p.date >= from; }).reverse();
+    var p = el("div", "panel c-card");
+    p.appendChild(el("h3", "h-title", "REKOR ZAMAN ÇİZELGESİ · SON 6 AY"));
+    p.appendChild(el("p", "c-what", "Bir hareketin 2–10 tekrarlık setlerden çıkan tahmini 1RM'i o güne kadarki en iyisini geçtiğinde bir rekor sayılır (en az 5 kaydı olan hareketlerde; tek seferde %33'ten büyük sıçramalar kayıt hatası sayılıp dışarıda kalır)."));
+    if (!recent.length) {
+      p.appendChild(el("p", "c-says", "Son 6 ayda yeni tahmini 1RM rekoru yok — definasyonda beklenen bir durum."));
+      return p;
+    }
+    var list = el("ol", "c-prs");
+    recent.slice(0, 14).forEach(function (r) {
+      var li = el("li");
+      li.appendChild(el("span", "c-pr-date", trDate(r.date)));
+      li.appendChild(el("span", "c-pr-name", r.name));
+      li.appendChild(el("span", "c-pr-set", fmt(r.w, 1) + " × " + r.r));
+      li.appendChild(el("span", "c-pr-gain", "+" + fmt(r.gain, 1) + "%"));
+      list.appendChild(li);
+    });
+    p.appendChild(list);
+    var byMonth = {};
+    recent.forEach(function (r) { var m = r.date.slice(0, 7); byMonth[m] = (byMonth[m] || 0) + 1; });
+    var s = el("p", "c-says");
+    s.appendChild(el("strong", null, "Senin verin: "));
+    s.appendChild(document.createTextNode("Son 6 ayda " + recent.length + " rekor; aylara göre " +
+      Object.keys(byMonth).sort().map(function (m) { return MONTHS[parseInt(m.slice(5), 10) - 1] + " " + byMonth[m]; }).join(", ") +
+      ". Rekor sıklığının azalması definasyonda normal; asıl hedef mevcut seviyeyi korumak."));
+    p.appendChild(s);
+    return p;
+  }
+
   // ---------- render ----------
 
   function section(title, count) {
@@ -533,8 +876,8 @@
       lock.appendChild(el("p", "h-note", "WHOOP grafikleri şifreli veriden çiziliyor. \"Defter\" sekmesindeki Sağlık kutusundan şifreyle ya da Face ID ile aç, grafikler burada belirir."));
       host.appendChild(lock);
     } else {
-      [recoveryCard, hrvCard, rhrCard, sleepStagesCard, sleepTimingCard, strainCard].forEach(function (fn) {
-        try { host.appendChild(fn(health.W)); }
+      [ringsCard, trendRowsCard, recoveryCard, hrvCard, rhrCard, sleepStagesCard, sleepTimingCard, strainCard, zonesCard].forEach(function (fn) {
+        try { var c = fn(health.W); if (c) host.appendChild(c); }
         catch (e) { host.appendChild(el("p", "h-note warn", "Bir grafik çizilemedi: " + e.message)); }
       });
       var wc = weightCard(health.B);
@@ -542,7 +885,10 @@
     }
 
     host.appendChild(section("ANTRENMAN", AD.sessions.length + " seans"));
-    [tonnageChart, yearsChart].forEach(function (fn) { host.appendChild(fn()); });
+    [heatmapCard, muscleCard, acwrCard, prCard, tonnageChart, yearsChart].forEach(function (fn) {
+      try { var c = fn(); if (c) host.appendChild(c); }
+      catch (e) { host.appendChild(el("p", "h-note warn", "Bir grafik çizilemedi: " + e.message)); }
+    });
     liftCards().forEach(function (c) { host.appendChild(c); });
   }
 
