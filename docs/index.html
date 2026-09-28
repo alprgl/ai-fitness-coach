@@ -25,6 +25,10 @@
     --brass-soft:  #F3E6C8;
     --danger:      #B03434;
     --shadow:      0 1px 2px rgba(32,28,23,.06), 0 10px 26px rgba(32,28,23,.08);
+    --sleep-light: #86b6ef;
+    --sleep-rem:   #3987e5;
+    --sleep-deep:  #184f95;
+    --sleep-awake: #C9BFAE;
 
     --step--1: .8125rem;
     --step-0:  .9575rem;
@@ -54,6 +58,10 @@
       --brass-soft:  #3A2C12;
       --danger:      #E0705A;
       --shadow:      0 1px 2px rgba(0,0,0,.35), 0 12px 30px rgba(0,0,0,.4);
+      --sleep-light: #256abf;
+      --sleep-rem:   #5598e7;
+      --sleep-deep:  #9ec5f4;
+      --sleep-awake: #4A4136;
     }
   }
 
@@ -73,6 +81,10 @@
     --brass-soft:  #3A2C12;
     --danger:      #E0705A;
     --shadow:      0 1px 2px rgba(0,0,0,.35), 0 12px 30px rgba(0,0,0,.4);
+    --sleep-light: #256abf;
+    --sleep-rem:   #5598e7;
+    --sleep-deep:  #9ec5f4;
+    --sleep-awake: #4A4136;
   }
 
   * { box-sizing: border-box; }
@@ -735,6 +747,29 @@
   .prog-readiness.yellow { border-color: var(--brass); }
   .prog-readiness.red { border-color: var(--danger); }
 
+  /* ---------- tabs & charts view ---------- */
+
+  .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--line); margin-top: -14px; }
+  .tab {
+    background: none; border: none; border-bottom: 3px solid transparent; border-radius: 0;
+    padding: 10px 16px 8px; font-family: var(--mono); font-size: 12px; font-weight: 600;
+    letter-spacing: .12em; color: var(--muted);
+  }
+  .tab:hover { color: var(--ink); border-color: transparent; border-bottom-color: var(--line); }
+  .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+  #chartsView { display: none; flex-direction: column; gap: 14px; }
+  body.view-charts #chartsView { display: flex; }
+  body.view-charts .wrap > :not(.masthead):not(.tabs):not(#chartsView):not(footer) { display: none !important; }
+  .c-intro { margin: 0; color: var(--muted); font-size: var(--step--1); }
+  .c-card { gap: 10px; }
+  .c-what { margin: 0; font-size: var(--step--1); color: var(--muted); }
+  .c-says { margin: 0; font-size: var(--step-0); }
+  .c-legend { display: flex; flex-wrap: wrap; gap: 14px; font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  .c-key { display: inline-flex; align-items: center; gap: 6px; }
+  .c-swatch { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+  .c-table summary { cursor: pointer; font-family: var(--mono); font-size: 11px; color: var(--muted); letter-spacing: .05em; }
+  .c-table[open] summary { margin-bottom: 8px; }
+
   @media (prefers-reduced-motion: reduce) {
     * { transition: none !important; animation: none !important; }
   }
@@ -750,6 +785,13 @@
       <span id="statusText">bağlanıyor…</span>
     </div>
   </header>
+
+  <nav class="tabs" role="tablist" aria-label="Görünüm">
+    <button class="tab" role="tab" data-view="log" aria-selected="true">DEFTER</button>
+    <button class="tab" role="tab" data-view="charts" aria-selected="false">GRAFİKLER</button>
+  </nav>
+
+  <section id="chartsView" aria-label="Grafikler"></section>
 
   <section id="healthToday">
     <div class="panel h-lock" id="healthLock">
@@ -1701,5 +1743,6 @@
 })();
 </script>
 <script src="health.js"></script>
+<script src="charts.js"></script>
 </body>
 </html>

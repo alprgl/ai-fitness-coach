@@ -685,6 +685,8 @@
         msg.textContent = "";
         renderAll();
         offerFaceId();
+        window.ADH = { W: W, B: B };
+        document.dispatchEvent(new Event("health-ready"));
       })
       .catch(function (e) {
         msg.textContent = e.message || "Açılamadı.";
