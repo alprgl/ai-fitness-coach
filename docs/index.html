@@ -1579,15 +1579,27 @@
   function shiftDay(s, n) { var d = new Date(s + "T12:00:00"); d.setDate(d.getDate() + n); return dayStr(d); }
   function dowOf(s) { return new Date(s + "T12:00:00").getDay(); }
 
-  // Which splits a logged session counts for; an upper-body day counts for both halves.
-  function splitsOf(name) {
-    if (/upper|üst/i.test(String(name || ""))) return ["push", "pull"];
-    var c = categoryOf(name);
+  // Which splits a session counts for. An upper-body day counts for both halves — by name,
+  // or because it holds two or more pulling and two or more pressing lifts (Strong may
+  // still call it "PUSH").
+  var PULL_LIFT = /\b(pulldown|row|pull up|chin up|curl|reverse fly|pullover)\b/i;
+  var PUSH_LIFT = /\b(press|fly|dip|pushdown|lateral|crossover|bench)\b/i;
+  function splitsOf(s) {
+    if (/upper|üst/i.test(String(s.name || ""))) return ["push", "pull"];
+    var c = categoryOf(s.name);
+    if (c !== "legs") {
+      var pulls = 0, pushes = 0;
+      (s.exercises || []).forEach(function (e) {
+        if (PULL_LIFT.test(e.name)) pulls++;
+        else if (PUSH_LIFT.test(e.name)) pushes++;
+      });
+      if (pulls >= 2 && pushes >= 2) return ["push", "pull"];
+    }
     return c ? [c] : [];
   }
 
   function trainedBetween(split, from, to) {
-    return sessions.some(function (s) { return !s.demo && s.date >= from && s.date <= to && splitsOf(s.name).indexOf(split) >= 0; });
+    return sessions.some(function (s) { return !s.demo && s.date >= from && s.date <= to && splitsOf(s).indexOf(split) >= 0; });
   }
 
   function exercisesForCategory(cat) {
@@ -1600,7 +1612,7 @@
 
   function nextPlan() {
     var today = dayStr(new Date()), base = WEEK[dowOf(today)];
-    var doneToday = sessions.filter(function (x) { return x.date === today && splitsOf(x.name).length; })[0] || null;
+    var doneToday = sessions.filter(function (x) { return x.date === today && splitsOf(x).length; })[0] || null;
     var zone = readiness ? readiness.zone : null;
     var mode = zone === "green" ? "heavy" : "volume";
     if (!base) return { cat: null, mode: mode, zone: zone, done: doneToday, why: "Perşembe kardiyo günü: 35–40 dk Zone 2 (nabız 110–128)." };
@@ -1628,8 +1640,8 @@
     var monday = shiftDay(today, -((dowOf(today) + 6) % 7));
     for (var i = 0; i < 7; i++) {
       var d = shiftDay(monday, i), dow = dowOf(d), past = d < today, isToday = d === today;
-      var s = sessions.filter(function (x) { return x.date === d && splitsOf(x.name).length; })[0];
-      var done = s ? (splitsOf(s.name).length > 1 ? "upper" : splitsOf(s.name)[0]) : null;
+      var s = sessions.filter(function (x) { return x.date === d && splitsOf(x).length; })[0];
+      var done = s ? (splitsOf(s).length > 1 ? "upper" : splitsOf(s)[0]) : null;
       var planned = isToday ? plan.cat : WEEK[dow];
       var cell = el("div", "week-day" + (!WEEK[dow] ? " rest" : "") + (isToday ? " today selected" : ""));
       cell.appendChild(el("div", "wd-name", DAY_SHORT[dow]));
@@ -1687,6 +1699,10 @@
     host.textContent = "";
     var prog = computeProgram();
     var label = !prog.cat ? "Kardiyo" : prog.cat === "upper" ? "Üst vücut (itiş + çekiş)" : categoryLabel(prog.cat);
+    if (prog.done) {
+      var ds = splitsOf(prog.done);
+      label = ds.length > 1 ? "Üst vücut (itiş + çekiş)" : categoryLabel(ds[0]);
+    }
     if (count) count.textContent = "bugün · " + label + (prog.done ? " · yapıldı ✓" : "");
     if (!prog.cat) {
       host.appendChild(el("div", "prog-readiness", prog.why));
