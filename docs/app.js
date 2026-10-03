@@ -290,11 +290,11 @@
     rail.appendChild(stat("Dinlenik nabız", fmt(rec.rhr) + " bpm", "7 gün " + fmt(rhr7, 1) + " (" + signed(rec.rhr - rhr7, 1) + ")"));
     rail.appendChild(stat("Uyku", sl ? fmt(sl.asleep, 1) + " sa" : "—", sl ? sl.start.slice(11, 16) + "–" + sl.end.slice(11, 16) + " · " + pct(sl.eff) : "kayıt yok"));
     p.appendChild(rail);
-    var plan = AD.planFor(new Date().getDay());
-    p.appendChild(el("p", "h-advice " + zone, (plan ? plan.label + " · " : "Dinlenme günü · ") + {
-      green: "Yeşil: program olduğu gibi, ana harekette zorlayabilirsin.",
-      yellow: "Sarı: normal çalış, RPE en fazla 8.",
-      red: "Kırmızı: yük %10 aşağı, setler yarıya, RPE 7 — ya da sadece yürüyüş."
+    var plan = AD.planFor();
+    p.appendChild(el("p", "h-advice " + zone, (plan.done ? "Bugünkü antrenman yapıldı · " : "Sıradaki: " + plan.label + " · ") + {
+      green: "Yeşil: ağır gün, ana harekette zorlayabilirsin.",
+      yellow: "Sarı: antrenman yap, hacim günü, RPE en fazla 8.",
+      red: "Kırmızı: hafif gün — yük %10 aşağı, setler yarıya — ya da sadece yürüyüş."
     }[zone]));
     if (isFinite(rhr7) && rec.rhr >= rhr7 + 3) p.appendChild(el("p", "h-note warn", "Nabız 7 günlük ortalamanın " + fmt(rec.rhr - rhr7, 1) + " üstünde — hasta hissediyorsan hafif tut."));
     if (sl && sl.asleep < 6) p.appendChild(el("p", "h-note warn", "Uyku 6 saatin altında — ağır tekli/ikili yerine hacim çalış."));
