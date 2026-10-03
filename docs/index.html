@@ -901,9 +901,9 @@
 
   <footer class="note">
     <strong>e1RM</strong>: tahmini tek tekrar maksimumu, ağırlık × (1 + tekrar ÷ 30); 3–8 tekrarda güvenilir.
-    <strong>Program</strong>: sabit gün yok — sıradaki antrenman en uzun süredir çalışılmayan bölge; itiş ve çekiş
-    4+ gündür yoksa birleşik üst vücut. Yeşil gün ağır (bileşik 4–6, RPE 9), sarı hacim (8–12, RPE ≤ 8), kırmızı hafif.
-    Aralığın tepesi görülünce yük artar; e1RM iki seans üst üste düşerse deload.
+    <strong>Program</strong>: Pzt itiş, Sal çekiş, Çar bacak, Per kardiyo, Cum itiş, Cmt çekiş, Paz bacak. Son iki günde kaçan
+    itiş ya da çekiş, bugünkü itiş/çekişle birleşip üst vücut olur; kaçan bacak bir sonraki bacak gününde yapılır.
+    Yeşil gün ağır (bileşik 4–6, RPE 9), sarı hacim (8–12, RPE ≤ 8), kırmızı hafif. Aralığın tepesi görülünce yük artar.
     <strong>Recovery</strong> bugünün programını ayarlar: sarıda RPE ≤ 8, kırmızıda yük −%10 ve setler yarıya.
     Veri her sabah 08:00'de WHOOP'tan çekilir; defter Strong'dan gelir.
   </footer>
@@ -1548,20 +1548,21 @@
     };
   }
 
-  // ---------- dynamic programme ----------
+  // ---------- programme ----------
   //
-  // No fixed weekday schedule: the next session is the split trained least recently,
-  // and this morning's WHOOP recovery sets how hard — green heavy, yellow volume,
-  // red light. When push and pull have both waited four days or more and legs isn't the
-  // most overdue, the two are combined into one upper-body session.
+  // The user's six-day week stays the skeleton (Mon push, Tue pull, Wed legs, Thu cardio,
+  // Fri push, Sat pull, Sun legs). A push or pull missed in the last two days folds into
+  // today's push/pull as one upper-body session; a missed leg day waits for the next one.
+  // This morning's WHOOP recovery sets how hard: green heavy, yellow volume, red light.
 
+  var WEEK = { 1: "push", 2: "pull", 3: "legs", 4: null, 5: "push", 6: "pull", 0: "legs" };
   var SPLIT_SHORT = { push: "İtiş", pull: "Çekiş", legs: "Bacak", upper: "Üst vücut" };
   var DAY_SHORT = ["Paz", "Pzt", "Sal", "Çar", "Per", "Cum", "Cmt"];
 
   function pad(n) { return n < 10 ? "0" + n : String(n); }
   function dayStr(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
   function shiftDay(s, n) { var d = new Date(s + "T12:00:00"); d.setDate(d.getDate() + n); return dayStr(d); }
-  function daysBetween(a, b) { return Math.round((new Date(b + "T12:00:00") - new Date(a + "T12:00:00")) / 864e5); }
+  function dowOf(s) { return new Date(s + "T12:00:00").getDay(); }
 
   // Which splits a logged session counts for; an upper-body day counts for both halves.
   function splitsOf(name) {
@@ -1570,13 +1571,8 @@
     return c ? [c] : [];
   }
 
-  function lastTrained(before) {
-    var last = { push: null, pull: null, legs: null };
-    sessions.forEach(function (s) {
-      if (s.demo || s.date >= before) return;
-      splitsOf(s.name).forEach(function (c) { if (!last[c] || s.date > last[c]) last[c] = s.date; });
-    });
-    return last;
+  function trainedBetween(split, from, to) {
+    return sessions.some(function (s) { return !s.demo && s.date >= from && s.date <= to && splitsOf(s.name).indexOf(split) >= 0; });
   }
 
   function exercisesForCategory(cat) {
@@ -1588,41 +1584,42 @@
   var readiness = null;
 
   function nextPlan() {
-    var today = dayStr(new Date());
-    var doneToday = sessions.filter(function (s) { return s.date === today && splitsOf(s.name).length; })[0];
-    var last = lastTrained(today);
-    var age = {};
-    ["push", "pull", "legs"].forEach(function (c) { age[c] = last[c] ? daysBetween(last[c], today) : 99; });
-    var order = ["legs", "push", "pull"].sort(function (a, b) { return age[b] - age[a]; });
-    var cat = order[0];
-    if (cat !== "legs" && age.push >= 4 && age.pull >= 4) cat = "upper";
+    var today = dayStr(new Date()), base = WEEK[dowOf(today)];
+    var doneToday = sessions.filter(function (x) { return x.date === today && splitsOf(x.name).length; })[0] || null;
     var zone = readiness ? readiness.zone : null;
     var mode = zone === "green" ? "heavy" : "volume";
-    var why = cat === "upper"
-      ? "İtiş " + age.push + ", çekiş " + age.pull + " gündür yok — ikisi birleşik."
-      : SPLIT_SHORT[cat] + " " + (age[cat] === 99 ? "hiç" : age[cat] + " gündür") + " çalışılmadı, en çok geciken o.";
-    return { cat: cat, mode: mode, zone: zone, age: age, why: why, done: doneToday || null };
+    if (!base) return { cat: null, mode: mode, zone: zone, done: doneToday, why: "Perşembe kardiyo günü: 35–40 dk Zone 2 (nabız 110–128)." };
+    var cat = base, why = "Bugün programda " + SPLIT_SHORT[base].toLocaleLowerCase("tr-TR") + ".";
+    if (base !== "legs") {
+      var other = base === "push" ? "pull" : "push";
+      for (var k = 1; k <= 2; k++) {
+        var d = shiftDay(today, -k);
+        if (WEEK[dowOf(d)] === other && !trainedBetween(other, d, today)) {
+          cat = "upper";
+          why = DAY_SHORT[dowOf(d)] + " günkü " + SPLIT_SHORT[other].toLocaleLowerCase("tr-TR") + " kaçtı — bugünkü " + SPLIT_SHORT[base].toLocaleLowerCase("tr-TR") + " ile birleşik üst vücut.";
+          break;
+        }
+      }
+    }
+    return { cat: cat, mode: mode, zone: zone, done: doneToday, why: why };
   }
 
+  // Monday to Sunday: what was done, what was missed, and the plan from today on.
   function renderWeekStrip() {
     var host = document.getElementById("weekStrip");
     if (!host) return;
     host.textContent = "";
     var today = dayStr(new Date()), plan = nextPlan();
-    for (var i = 6; i >= 0; i--) {
-      var d = shiftDay(today, -i);
+    var monday = shiftDay(today, -((dowOf(today) + 6) % 7));
+    for (var i = 0; i < 7; i++) {
+      var d = shiftDay(monday, i), dow = dowOf(d), past = d < today, isToday = d === today;
       var s = sessions.filter(function (x) { return x.date === d && splitsOf(x.name).length; })[0];
-      var isToday = i === 0;
-      var split = s ? (splitsOf(s.name).length > 1 ? "upper" : splitsOf(s.name)[0]) : null;
-      var cell = el("div", "week-day" + (s ? "" : " rest") + (isToday ? " today selected" : ""));
-      cell.appendChild(el("div", "wd-name", DAY_SHORT[new Date(d + "T12:00:00").getDay()]));
-      if (isToday && !s) {
-        cell.appendChild(el("div", "wd-split", SPLIT_SHORT[plan.cat]));
-        cell.appendChild(el("div", "wd-mode", "sıradaki"));
-      } else {
-        cell.appendChild(el("div", "wd-split", s ? SPLIT_SHORT[split] : "—"));
-        if (s) cell.appendChild(el("div", "wd-mode", "yapıldı"));
-      }
+      var done = s ? (splitsOf(s.name).length > 1 ? "upper" : splitsOf(s.name)[0]) : null;
+      var planned = isToday ? plan.cat : WEEK[dow];
+      var cell = el("div", "week-day" + (!WEEK[dow] ? " rest" : "") + (isToday ? " today selected" : ""));
+      cell.appendChild(el("div", "wd-name", DAY_SHORT[dow]));
+      cell.appendChild(el("div", "wd-split", done ? SPLIT_SHORT[done] : planned ? SPLIT_SHORT[planned] : "kardiyo"));
+      cell.appendChild(el("div", "wd-mode", done ? "yapıldı ✓" : past ? (WEEK[dow] ? "kaçtı" : "") : isToday ? "bugün" : ""));
       host.appendChild(cell);
     }
   }
@@ -1651,6 +1648,7 @@
 
   function computeProgram() {
     var plan = nextPlan();
+    if (!plan.cat) { plan.items = []; return plan; }
     var names = plan.cat === "upper"
       ? exercisesForCategory("push").slice(0, 4).concat(exercisesForCategory("pull").slice(0, 3))
       : exercisesForCategory(plan.cat);
@@ -1673,10 +1671,11 @@
     if (!host) return;
     host.textContent = "";
     var prog = computeProgram();
-    var label = prog.cat === "upper" ? "Üst vücut (itiş + çekiş)" : categoryLabel(prog.cat);
-    if (count) count.textContent = (prog.done ? "bugün yapıldı · sıradaki " : "sıradaki · ") + label;
-    if (prog.done) {
-      host.appendChild(el("div", "empty", "Bugünkü antrenman kaydedildi (" + prog.done.name + "). Aşağıdaki, bir sonraki seansın taslağı; yarın sabahki recovery'e göre ayarlanır."));
+    var label = !prog.cat ? "Kardiyo" : prog.cat === "upper" ? "Üst vücut (itiş + çekiş)" : categoryLabel(prog.cat);
+    if (count) count.textContent = "bugün · " + label + (prog.done ? " · yapıldı ✓" : "");
+    if (!prog.cat) {
+      host.appendChild(el("div", "prog-readiness", prog.why));
+      return;
     }
     host.appendChild(el("div", "prog-readiness" + (prog.zone ? " " + prog.zone : ""), prog.why + " " + (prog.zone ? {
       green: "Recovery yeşil: ağır gün (bileşik 4–6, RPE 9).",
@@ -1780,7 +1779,7 @@
     el: el,
     planFor: function () {
       var p = nextPlan();
-      return { cat: p.cat, label: p.cat === "upper" ? "Üst vücut" : categoryLabel(p.cat), done: !!p.done };
+      return { cat: p.cat, label: !p.cat ? "Kardiyo" : p.cat === "upper" ? "Üst vücut" : categoryLabel(p.cat), done: !!p.done };
     },
     setReadiness: function (r) {
       readiness = r;

@@ -291,7 +291,7 @@
     rail.appendChild(stat("Uyku", sl ? fmt(sl.asleep, 1) + " sa" : "—", sl ? sl.start.slice(11, 16) + "–" + sl.end.slice(11, 16) + " · " + pct(sl.eff) : "kayıt yok"));
     p.appendChild(rail);
     var plan = AD.planFor();
-    p.appendChild(el("p", "h-advice " + zone, (plan.done ? "Bugünkü antrenman yapıldı · " : "Sıradaki: " + plan.label + " · ") + {
+    p.appendChild(el("p", "h-advice " + zone, (plan.done ? "Bugünkü antrenman yapıldı · " : "Bugün: " + plan.label + " · ") + {
       green: "Yeşil: ağır gün, ana harekette zorlayabilirsin.",
       yellow: "Sarı: antrenman yap, hacim günü, RPE en fazla 8.",
       red: "Kırmızı: hafif gün — yük %10 aşağı, setler yarıya — ya da sadece yürüyüş."
