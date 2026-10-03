@@ -1510,6 +1510,10 @@
     return a < b && b < c;
   }
 
+  // The gym's machines top out here (shoulder press in lb, as logged). At the cap the load
+  // stays put and progress moves to reps: the target range starts at last time's reps.
+  var MACHINE_MAX = { "Lat Pulldown (Cable)": 130, "Shoulder Press (Machine)": 150, "Chest Fly": 135 };
+
   function suggestFor(name, mode) {
     var occ = exerciseOccurrences(name);
     if (!occ.length) return null;
@@ -1539,6 +1543,17 @@
       trend = "deload";
       load = shiftLoad(load, 0.9);
       setCount = Math.max(1, Math.round(setCount / 2));
+    }
+
+    var max = MACHINE_MAX[name];
+    if (max && load >= max && !stalling) {
+      load = max;
+      heavyW = max;
+      // Reps last time at the cap itself, not at a lighter back-off set.
+      var atMax = (occ[0].ex.sets || []).filter(function (x) { return x.w >= max; })
+        .reduce(function (m, x) { return Math.max(m, x.r); }, 0) || latest.r;
+      range = { lo: atMax + 1, hi: atMax + 3 };
+      trend = "max";
     }
 
     return {
@@ -1689,7 +1704,7 @@
       host.appendChild(el("div", "empty", "Bu bölüm için henüz geçmiş kayıt yok."));
       return;
     }
-    var TREND_TEXT = { load: "ağırlık artıyor", up: "ağırlık artıyor", hold: "ağırlık sabit", deload: "ağırlık düşüyor" };
+    var TREND_TEXT = { load: "ağırlık artıyor", up: "ağırlık artıyor", hold: "ağırlık sabit", deload: "ağırlık düşüyor", max: "makine sınırı · tekrar artır" };
     prog.items.forEach(function (it) {
       var item = el("div", "prog-item"), head = el("div", "prog-head");
       var nameEl = el("div", "prog-name ex-link", it.name);
