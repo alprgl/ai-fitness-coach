@@ -4,6 +4,12 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+# At 08:00 the Mac is often just waking and has no network yet: wait up to 10 minutes.
+for i in {1..20}; do
+  curl -s -o /dev/null --max-time 5 https://api.prod.whoop.com && break
+  sleep 30
+done
+
 python3 tools/whoop_pull.py
 python3 tools/build_site.py
 
