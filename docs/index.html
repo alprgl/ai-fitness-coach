@@ -902,7 +902,7 @@
   <footer class="note">
     <strong>e1RM</strong>: tahmini tek tekrar maksimumu, ağırlık × (1 + tekrar ÷ 30); 3–8 tekrarda güvenilir.
     <strong>Program</strong>: Pzt itiş, Sal çekiş, Çar bacak, Per kardiyo, Cum itiş, Cmt çekiş, Paz bacak. Son iki günde kaçan
-    itiş ya da çekiş, bugünkü itiş/çekişle birleşip üst vücut olur; kaçan bacak bir sonraki bacak gününde yapılır.
+    itiş ya da çekiş, bugünkü itiş/çekişle birleşip üst vücut olur (aynı hafta içinde; pazartesi temiz başlar); kaçan bacak bir sonraki bacak gününde yapılır.
     Yeşil gün ağır (bileşik 4–6, RPE 9), sarı hacim (8–12, RPE ≤ 8), kırmızı hafif. Aralığın tepesi görülünce yük artar.
     <strong>Recovery</strong> bugünün programını ayarlar: sarıda RPE ≤ 8, kırmızıda yük −%10 ve setler yarıya.
     Veri her sabah 08:00'de WHOOP'tan çekilir; defter Strong'dan gelir.
@@ -1623,6 +1623,8 @@
       var other = base === "push" ? "pull" : "push";
       for (var k = 1; k <= 2; k++) {
         var d = shiftDay(today, -k);
+        // Monday starts the week clean: misses from last week aren't carried over.
+        if (dowOf(d) === 0 || dowOf(today) === 1) break;
         if (WEEK[dowOf(d)] === other && !trainedBetween(other, d, today)) {
           cat = "upper";
           why = DAY_SHORT[dowOf(d)] + " günkü " + SPLIT_SHORT[other].toLocaleLowerCase("tr-TR") + " kaçtı — bugünkü " + SPLIT_SHORT[base].toLocaleLowerCase("tr-TR") + " ile birleşik üst vücut.";
