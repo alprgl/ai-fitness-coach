@@ -28,8 +28,14 @@ START = "2026-09-01T00:00:00Z"
 
 def curl(args):
     # WHOOP sits behind Cloudflare, which turns away Python's own HTTP client (error 1010).
-    out = subprocess.run(["curl", "-s", "-w", "\n%{http_code}"] + args, capture_output=True, text=True)
-    body, _, code = out.stdout.rpartition("\n")
+    # A dropped connection (code 0) is retried a few times before giving up.
+    for attempt in range(4):
+        out = subprocess.run(["curl", "-s", "--max-time", "30", "-w", "\n%{http_code}"] + args,
+                             capture_output=True, text=True)
+        body, _, code = out.stdout.rpartition("\n")
+        if int(code or 0) != 0:
+            break
+        time.sleep(15 * (attempt + 1))
     return int(code or 0), body
 
 
