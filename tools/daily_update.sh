@@ -19,5 +19,10 @@ if git diff --cached --quiet; then
   exit 0
 fi
 git commit -q -m "Refresh WHOOP data ($(date +%Y-%m-%d))"
-git push -q origin main
-echo "yayınlandı"
+# The network can drop again after the pull; keep trying for about 15 minutes.
+for i in {1..6}; do
+  git push -q origin main && { echo "yayınlandı"; exit 0; }
+  sleep 150
+done
+echo "push başarısız — bir sonraki çalıştırmada tekrar denenecek"
+exit 1
