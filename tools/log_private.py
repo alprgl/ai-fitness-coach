@@ -5,7 +5,7 @@
     python3 tools/log_private.py cardio 25 132 118 [--date ...] [--note "BikeErg Z2"]
                                         minutes watts avg-HR
     python3 tools/log_private.py checkin --sleep 6.5 --soreness 0 --back 2.5 [--energy 7]
-                                         [--weight 81.6] [--cigs 8] [--date ...]
+                                         [--weight 81.6] [--cigs 8] [--velo 3] [--date ...]
 
 One entry per day for weight (a second one replaces the first); cardio entries
 accumulate. Like the WHOOP pull, this file stays out of git.
@@ -44,7 +44,7 @@ def main():
     c.add_argument("hr", type=float)
     c.add_argument("--note", default="")
     k = sub.add_parser("checkin")
-    for f in ("sleep", "soreness", "back", "energy", "weight", "cigs"):
+    for f in ("sleep", "soreness", "back", "energy", "weight", "cigs", "velo"):
         k.add_argument("--" + f, type=float)
     for s in (w, c, k):
         s.add_argument("--date", default=dt.date.today().isoformat())
@@ -54,7 +54,7 @@ def main():
     data.setdefault("checkin", [])
     if a.kind == "checkin":
         entry = {"date": a.date}
-        for f in ("sleep", "soreness", "back", "energy", "cigs"):
+        for f in ("sleep", "soreness", "back", "energy", "cigs", "velo"):
             if getattr(a, f) is not None:
                 entry[f] = getattr(a, f)
         data["checkin"] = [x for x in data["checkin"] if x["date"] != a.date] + [entry]
