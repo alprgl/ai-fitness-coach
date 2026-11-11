@@ -44,9 +44,9 @@ def credentials():
     return env["WHOOP_CLIENT_ID"], env["WHOOP_CLIENT_SECRET"]
 
 
-def access_token():
+def access_token(force=False):
     tokens = json.load(open(TOKENS))
-    if tokens.get("expires_at", 0) - time.time() * 1000 > 120000:
+    if not force and tokens.get("expires_at", 0) - time.time() * 1000 > 120000:
         return tokens["access_token"]
     client_id, client_secret = credentials()
     code, body = curl(["-X", "POST", TOKEN_URL,
@@ -79,8 +79,12 @@ def fetch_all(token, path):
         query = {"limit": 25, "start": START}
         if next_token:
             query["nextToken"] = next_token
-        code, body = curl(["-H", "Authorization: Bearer " + token,
-                           API + path + "?" + urllib.parse.urlencode(query)])
+        url = API + path + "?" + urllib.parse.urlencode(query)
+        code, body = curl(["-H", "Authorization: Bearer " + token, url])
+        if code == 401:
+            # The whoop MCP server can rotate the token while we run; refresh once and retry.
+            token = access_token(force=True)
+            code, body = curl(["-H", "Authorization: Bearer " + token, url])
         if code != 200:
             sys.exit("WHOOP %s returned HTTP %d" % (path, code))
         page = json.loads(body)
